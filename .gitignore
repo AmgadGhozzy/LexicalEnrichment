@@ -1,0 +1,36 @@
+# ─── Service Account Keys (NEVER commit) ───
+google-cloud-key.json
+*-gcp-key.json
+*.json.key
+
+# ─── Environment files ───
+.env
+.env.local
+.env.production
+
+# ─── Python ───
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv*/
+.conda/
+
+# ─── Database temp files ───
+*.db-shm
+*.db-wal
+
+# ─── Logs ───
+logs/
+api_logs/
+
+# ─── IDE ───
+.vscode/
+.idea/
+
+# ─── Test cache ───
+.pytest_cache/
+
+
