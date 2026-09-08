@@ -1,0 +1,567 @@
+LEXICALENRICHMENT - PRINCIPAL FORENSIC AUDIT - FINAL (Part 1-21)
+Evidence-based. Where unverified, marked UNKNOWN/MISSING.
+
+#####################################################################
+# 21 - FINAL VERDICT (read first)
+#####################################################################
+COLOR: YELLOW (Pilot). NOT RED (no data loss, batch+shape proven, tech solid),
+NOT GREEN (schema unwon, content quality unproven, prod dir empty).
+
+1. Where now?  = PILOT. Batch engine validated; content/schema open.
+2. Right path? = Partially. Tech (batch+shape+validator) excellent; direction
+                 correct but incomplete: schema undecided, content unproven.
+3. Strongest proven? = Batch returns 160/160 (EXP-014), v1.1 exact-target
+                 compliance 98.13% (EXP-012), fair comparison v1.0(81.13)->v1.1.
+                 Encoding CLEAN (verified UTF-8). Golden160 stable hash.
+4. Riskiest unproven? = SEMANTIC/PEDAGOGICAL QUALITY of mnemonic_ar, def_ar,
+                 SENSE distinctness on batch output. Human MNE: V2=0 vs legacy=5
+                 (mnemonic regression risk). Zero human review of EXP-014.
+5. Only thing to do now? = Run EXP-015a: human+LLM content QA on 30 stratified
+                 from EXP-014 (MNE/ARA/DEF/SEN/PRN/EX/TRANSL). Then EXP-015b schema.
+6. Block 8K now? = YES, blocked. Quality gates (G1-G4) unpassed.
+7. Exact conditions for 8K? = Gate1 content-QA30 pass(>=85%), Gate2 schema,
+                 Gate3 model matrix winner, Gate4 batch de-hardcode+resume+500.
+8. Final architecture? = See PART 2 TARGET.
+9. Canonical prompt? = v1.1 (freeze) as batch baseline; extend to lexical_core
+                 fields AFTER quality proof. ONE merged prompt, not two.
+10. Canonical schema? = lexical_core + schema.sql cols (examples/colloc/rel/
+                 translations/ielts). Separate generation schema, ONE db schema.
+11. Canonical metadata source? = WordsMaster (immutable) + authoritative
+                 corpus (wordfreq/SUBTLex) for freq/rank + lexicon for CEFR/PRN.
+12. Batch role? = Execution backend (thinnest layer). Business logic OUTSIDE API.
+13. SQLite role? = canonical application datastore (data/production). Source
+                 provenance stays distributed across immutable source records /
+                 authoritative datasets / versioned evidence. SQLite is NOT "SSOT"
+                 in the sense that a production-row value is automatically factual.
+14. GCS role? = Artifact/raw/experiment store.
+15. BigQuery? = ONLY when real analytical need on 8k; NOT now.
+16. IELTS role? = Auxiliary multimedia (audio/images/topics/transl). NOT source
+                 for CEFR/rank/freq.
+17. Human QA role? = Mandatory gate on pilot samples (mnem, def_ar, def_en);
+                 guard, not a per-word 8k review.
+
+#####################################################################
+# 1 - REPOSITORY FORENSICS (file map)
+#####################################################################
+Legend: C=current L=legacy | K=keep F=freeze A=archive D=delete | role/caller
+
+Pipeline A (production engine, SLEEPING):
+  pipeline/phase0_preflight.py   : legacy probe | standalone | L | A(reference)
+  pipeline/phase0_audit_import.py: ETL import WMaster->staging | CLI | C | K
+  pipeline/llm_provider.py       : VertexAIProvider wrapper A | phase1/eval/judge | C | K
+  pipeline/phase1_lexical_core.py: senses gen (10 lemmas hardcoded) | CLI | C | K(6 size)
+  pipeline/phase_eval_runner.py  : eval A | CLI | C | K
+  pipeline/phase_eval_machine.py : record eval A | CLI | C | K
+
+Pipeline B (evaluation/batch, ACTIVE):
+  evaluation_runner.py (root)    : online runner B | CLI | C | K
+  evaluation/batch_runner.py     : submit batch | CLI | C | K (de-hardcode 160)
+  evaluation/batch_input_builder.py: jsonl build (entry==160 gate) | runner | C | K
+  evaluation/batch_importer.py   : map output->raw (1:1 strict) | CLI | C | K
+  evaluation/batch_output_inspector.py: download GCS | CLI | C | K
+  evaluation/batch_comparison.py : diff online/batch | CLI | C | K
+  evaluation/artifact_validator.py: shape validator | CLI | C | F
+  evaluation/utils.py            : shared helpers | all B | C | K (unify axis)
+  evaluation/test_batch_infrastructure.py: pytest | test | C | K
+  evaluation/DECISIONS.md        : ADR | doc | C | K
+
+Prompts:
+  prompts/system/lexical_core.md : sys prompt A | phase1 | C | MERGE with B
+  prompts/tasks/lexical_core.md  : task prompt A | phase1 | C | MERGE
+  evaluation/prompts/lexical_enrichment.txt : v1.0.0 | runner | L | A
+  evaluation/prompts/lexical_enrichment_v1.1.txt: v1.1.0 | runner+batch | C | F
+  root/SystemPrompt_Enhanced.md  : legacy | legacy | L | A
+  root/StructuredOutput_Enhanced.json: legacy schema | legacy | L | A
+  scratch/run_llm_judge_calibration.py: LLM judge (embedded sysprompt) | manual | C | K
+
+Schemas/Config:
+  config/schemas/lexical_core.json: schema A | phase1 | C | MERGE/decide
+  evaluation/prompts/schemas/enrichment.v1.json: schema B | batch+validator | C | F
+  db/schema.sql                  : PRODUCTION schema (A target) | phase0 | A(engine) | F
+  evaluation/configs/gemini_flash_v1.1_batch_pilot.json: batch config | runner | C | F
+
+Datasets:
+  data/staging/LexicalStaging.db : staging A | A | C | K
+  data/production/               : EMPTY | - | - | destination
+  data/raw/golden_set_200.json, stratified_golden_set_200.json : old 200 | L | A
+  data/evaluation/legacy_baseline_200.json : baseline | C | K
+  data/evaluation/human_calibration_30.json: sample30 | judge | C | K
+  data/evaluation/human_ground_truth_30.csv + blanks: human | C | K
+  data/evaluation/llm_judge_results_30.json: judge out | C | K
+  data/evaluation/machine_report_latest.txt: machine report | C | K
+
+Golden:
+  golden_set/golden_v2.json(+csv) : Golden160 | B | C | F
+  golden_set/manifest.json, strata_report, sampling_seed : meta | C | K
+
+QA/Scratch/Docs:
+  qa/thresholds.py, verify_staging_integrity.py : checks | C | K
+  scratch/* (18 files)           : misc tools | manual | mixed | A(keep valuable)
+  scratch/ielts_*.py, ielts_parsed.json : IELTS inspect | C | K
+  docs/evaluation/protocol, rubric, decision_policy : criteria | C | F(rubric)
+  docs/audits/*.md               : placeholders | L | fill or A
+
+DEAD/DUPLICATE: no orphan import found; duplication = llm_provider vs google.genai,
+  enrichment.v1 vs lexical_core schemas, legacy root prompts. NOT delete - MERGE.
+  callers-by-grep confirm phase1, eval, batch all reachable.
+
+#####################################################################
+# 2 - PIPELINE ARCHITECTURE
+#####################################################################
+COUNT: 2 pipelines (A production-engine, B evaluation/batch).
+DIFFERENCE: A=rich schema(deferred phases)+staging DB+senses(27); B=light schema+
+   experiments+batch(160/160). A is the intended production line but unfinished;
+   B is the active, proven batch engine with thin schema.
+HISTORICAL OR INTENTION? History drift + divergence. B emerged as eval harness and
+   never linked to A's schema. = structural duplication, NOT intentional design.
+
+WHERE:
+  generation = batch (B) online runner (evaluation_runner) | phase1 (A)
+  validation = artifact_validator (shape) + qa/ (later)
+  persistence= staging(A) / experiments(B) / production(EMPTY)
+  human QA   = data/evaluation human_* (system A 30) - NOT on batch EXP-014
+  versioning = source_records + field_versions(A) + manifests + hashes(B)
+
+A/B CONNECTED? NO - separate schemas, prompts, wrappers, outputs.
+MORE THAN ONE SSOT? Yes - WordsMaster (immut) + golden + per-exp artifacts; but
+  TRUE SSOT should be db/schema.sql staging->production (single canonical).
+
+CURRENT ARCHITECTURE:
+  WMaster ->import->staging(8027)->lex_core->eval(200)[A, sleeping]
+  golden160->input->batch->import->validate->EXP-*[B, active]
+          two divergent worlds, no merge.
+
+TARGET ARCHITECTURE:
+  Sources(WMaster immut + IELTS aux + corpus/lexicon authoritative)
+    ->normalize(dedup,lemma,pos,encoding)
+    ->canonical(md: id,lemma,pos,freq,rank,cefr,unit) deterministic
+    ->curriculum(sep from rank)
+    ->ONE prompt + ONE generation schema
+    ->batch(thin layer, exec backend) -> raw(GCS)
+    ->validate(shape+structure) -> LLM judge + HUMAN QA(samples)
+    ->production(SQLite schema.sql + ielts_media + approved mnemonics)
+  NO third pipeline/schema unless evidence demands (none so far).
+
+#####################################################################
+# 3 - PROMPT FORENSICS
+#####################################################################
+prompt | ver | model | schema | EXP | status
+lexical_core(system+task) | ? | 2.5flash | lexical_core.json | A | C(dup A/B)
+enrichment.txt | 1.0.0 | 2.5flash | enrichment.v1 | 001-011 | L
+enrichment_v1.1.txt | 1.1.0 | 2.5flash | enrichment.v1 | 012,014 | C | F
+SystemPrompt_Enhanced(md)+StructuredOutput(json) | V1 | legacy | legacy full | - | L | A
+judge(embedded in scratch) | - | provider | judge schema | - | C
+
+Q1 last batch prompt = evaluation/prompts/lexical_enrichment_v1.1.txt (v1.1.0)
+Q2 best proven = v1.1 BY SHAPE/COMPLIANCE ONLY (98.13% exact-target). NOT proven
+   semantically/pedagogically (only A's human30, and A showed MNE regression).
+Q3 proven = exact-target+schema compliance, batch integrity, encoding clean.
+Q4 unproven = semantic,pedsgag, Arabic quality, mnemonic realism on batch output.
+Q5 v1.1 semantic/pedagogical better? = UNKNOWN for B batch. A human: legacy better
+   mnemonic. Do NOT claim v1.1 wins quality.
+Q6 lexical_core vs enrichment duplicate? = YES functionally overlapping (senses+
+   defs vs defs+ex+mnem). Merge into 1 canonical after schema decision.
+Q7 freeze = v1.1, rubric, decision_policy
+Q8 archive = v1.0.0, legacy enhanced prompt/schema, EXP001-007
+Q9 merge = lexical_core fields into v1.1 batch path (produce ONE structured out)
+Q10 lineage preserved (no delete).
+RECOMMENDATION (1): CANONICAL PROMPT = v1.1 architecture EXTENDED with lexical_core
+   fields (senses+transl+relations) GATED by quality proof; served by ONE prompt
+   + ONE generation schema; business logic outside batch API.
+
+#####################################################################
+# 4 - MODEL/CONFIG AUDIT
+#####################################################################
+EXP matrix (model/temp/think/ground/URL/prompt/schema/golden/validator):
+  001-007: 3.7-flash/1.5-flash /0.2 /off /off /- /v1.0 /enrich.v1 /golden160 /? /FAILED (unavailable/bad names)
+  008-012: 2.5-flash /0.2 /off /off /- /v1.0,v1.1 /enrich.v1 /golden160 /validator /5 + 160
+  013-014: 2.5-flash /0.2 /off /off /- /v1.1 /enrich.v1 /golden160 /validator /160 batch (014)
+FAIRNESS: v1.0 vs v1.1 comparison FAIR (same model/meta/golden/validator).
+   model 3.7 vs 2.5 NOT FAIR (001-007 failed structurally). No valid proof 3.7 better.
+EXPERIMENT MATRIX (sample 30 stratified, same batch input):
+  dims: model(2.5flash base / Pro / newest-if-available) x prompt(v1.1, lex_core)
+        x temp(0.2 / 0.0 / 0.5) x think(off / on~cost) x ground(off / on~rare)
+  metrics: schema+target compliance, semantic correctness(sample), ARA, MNE,
+        PRN-vs-dict, example, sense coverage, translation, cost/word, latency, fail.
+WINNER = by weighted score, NOT model name. (weights in DECISION MATRIX)
+
+#####################################################################
+# 5 - GOLDEN SET 160 AUDIT
+#####################################################################
+columns: id,wordEn,pos,cefrLevel,rank,frequency,difficultyScore,fromOxford,
+         unitId,in_ielts,stratum,phonetics,translations,definitions,mnemonic,
+         examples,collocations,relations,family (legacy content incl)
+provenance:
+  GROUND_TRUTH : id,wordEn,pos,cefrLevel,unitId,stratum,in_ielts,rank (WMaster/IELTS)
+  REFERENCE    : frequency,difficultyScore,fromOxford (legacy, verify)
+  LEGACY_BASELINE : definitions, translations, mnemonic, examples, collocations, relations
+  MODEL_GENERATED : (A output senses/eval) + V2 fields where present
+hash: golden_set_sha256=2a179128ad1d4594e03ebef6d1d48ea5ea902d0117694dcbef98ad8fd8212821
+seed: 12345 | strata: 20x6(A1-C2)+LongCommon10+ShortRare10+Polysemy5+MnemonicTraps10
+      +IELTS_Overlap14 =160
+dup: none (builder enforces unique lemma+pos)
+encoding: CLEAN (UTF-8 verified; no ? / uFFFD). NOT corrupted.
+NOT ground truth: legacy defs/transl/mnemonic/examples - treat as LEGACY_BASELINE,
+   re-verify before using as gold.
+
+#####################################################################
+# 6 - DATA TRUST MATRIX
+#####################################################################
+field | type | source | trust | det | regen | LLM | human | canonical
+IMMUTABLE SOURCE-BACKED:
+ id      | identity | WMaster | HIGH | Y | never | no | no | words.id
+ lemma   | identity | WMaster | HIGH | Y | never | no | no | lemma
+ pos     | identity | WMaster | HIGH | Y | never | no | no | pos
+ unitId  | identity | units   | HIGH | Y | no    | no | no | units.id
+DETERMINISTIC DERIVED:
+ frequency| metric | corpus source MISSING | LOW(no src) | Y | Y(fix src) | no | no | wordfreq
+ rank    | ordinal| derive from freq | LOW | Y | Y(det) | no | no | derived
+ difficulty| metric| derive | MED | Y | Y | no | no | derived
+SOURCE-VERIFIED:
+ cefr    | level | lexicon MISSING | LOW(src?) | ~ | verify | no | ~ | authoritative
+ phonetic| ipa   | legacy clean | HIGH | ~ | verify~ | no | ~ | dict/ipa
+ translit| text  | legacy | MED | ~ | ~ | ~ | ~ | policy
+LLM-GENERATED:
+ def_en/ar | sem | LLM | MED | N | Y | Y | ! | senses/word_senses
+ senses   | sem | LLM | MED | N | Y | Y | ~ | word_senses
+ examples | lrn | LLM | MED | N | Y(P2) | Y | ~ | -
+ colloc/syn/ant/rel| lrn | LLM | MED | N | Y(P3) | Y | ~ | -
+ wordFamily| lrn | legacy+LLM | MED | N | ~ | Y | ~ | -
+ root/morph| lrn | MISSING | LOW | N | Y | Y+tool | ~ | -
+ translations x10| ml | legacy clean | HIGH | N | ~quality | ~ | ~ | -
+HUMAN-GATED (mandatory):
+ mnemonic_ar | aid | LLM(new)/legacy | MNE V2=0 legacy=5 | N | Y(but>legacy) | Y | ! | approved qa
+ def_ar   | sem | LLM | MED | N | Y | Y | ! | approved
+ def_en   | sem | LLM | MED | N | Y | Y | ! | approved
+NEVER re-generate by LLM: id, lemma, pos, cefr(verify only), rank, frequency(det),
+   difficulty(det), unitId, fromOxford, stratum.
+
+#####################################################################
+# 7 - LEGACY DATABASE FORENSICS (WordsMaster.db)
+#####################################################################
+7300 rows; tables wordsMaster(37col)/levels(6)/units(136). Clean UTF-8.
+rank: ordinal 1..7300 ~ insertion/freq-approx (the,to,and,of,a...). BURIED, no script.
+frequency: band 1-6 (1->13,2->152,3->1031,4->3698,5->2245,6->161). NOT what orders rank (top freq=1).
+cefr: A1=1027,A2=1007,B1=1055,B2=2049,C1=1980,C2=182. source UNKNOWN in repo.
+difficulty: band 2-10 (avg 6.43), derived.
+cleaning/dedup: none in repo - pre-cleaned externally.
+order: by rank/frequency approx. units: A1_18.. etc = cefr-scoped teaching buckets.
+families/roots/tree: wordFamily=JSON(noun/verb/adj/adv); NO root/tree field.
+deterministic: id,rank,cefr,difficulty,unitId,frequency-band (all source-baked).
+LLM-generated originally: definitions, translations, mnemonics, examples (legacy v1).
+NLTK/tqdm/wordfreq: NOT present (grep clean) - claim they set level is FALSE.
+REUSE: levels/units mapping + wordFamily + legacy arabic/mnemonic as baseline.
+KEEP baseline: legacy defs, translations, mnemonics, examples, audio? (WMaster none).
+REGREN: rank/freq/cefr/difficulty from authoritative sources - DON'T trust buried.
+DON'T TRUST: rank/freq/cefr provenance. DO trust: id/pos/lemma/units/family shape.
+
+#####################################################################
+# 8 - ADDING NEW WORDS (canonical ingestion)
+#####################################################################
+raw word
+ -> normalize (casefold, strip punct, UTF-8 clean)
+ -> lemma (dict-stable)
+ -> POS (source/dict)
+ -> dedup (lemma+pos unique; no dup)
+ -> authoritative frequency (wordfreq/SUBTLex/corpus)
+ -> rank (ordinal from freq - DYNAMIC, recomputed not hardcoded)
+ -> CEFR (authoritative lexicon CEFR OR inferred w/ flag)
+ -> difficulty (derive freq+polysemy+POS)
+ -> curriculum level (teaching level separate from rank)
+ -> unit (teaching bucket, reassignable, NOT tied to rank order)
+ -> lexical enrichment (senses,defs,ex,mnem,transl,relations)
+ -> validation (schema+shape)
+ -> human QA (sample / required gated fields mnem_ar def_ar def_en)
+ -> production (SQLite)
+INSERT without hardcoding: rank gap-based/ordinal dynamic; stable immutable id
+   (reuse PK never); unit reassignable. rank != CEFR != curriculum != unit.
+
+#####################################################################
+# 9 - LEVELS/UNITS/CURRICULUM
+#####################################################################
+A1..C2 = linguistic competence band (CEFR), independent of curriculum.
+course levels = teaching sequence (may reorder word G2 before G1 for pedagogy).
+units = small teaching buckets, reassignable.
+sequence = curriculum order, NOT rank.
+OLD unitId = legacy cefr-scoped only -> keep as legacy curriculum OR remap in new
+   curriculum engine; do NOT base new curriculum on rank. Rank = lexical order,
+   curriculum = pedagogical order. Keep unitId mutable for reassignment.
+MUST NOT: curriculum derived directly from rank. SEPARATE entities.
+
+#####################################################################
+# 10 - IELTS DATA AUDIT (IeltsWord.db / files)
+#####################################################################
+WORD_INFO 1022: WordName/Type/Def/Example = USEFUL aux
+pronun (ipa-ish) = aux, verify
+audio 1022 MP3 = HIGH VALUE (app use) KEEP
+imgback images = KEEP (flashcards)
+translations x~50 lang (ar_Arabic, fr_French...) = aux
+topics 19 = metadata (future ielts_metadata)
+cefr/freq signals = NOT reliable from IELTS -> do not use for rank/cefr
+legality = gray (dump) -> aux only, not primary source
+encoding: some \ufeff BOM in parsed json -> clean on use
+DECISION: KEEP as AUXILIARY + multimedia. NOT source of truth for CEFR/rank/freq.
+
+#####################################################################
+# 11 - BATCH INFRASTRUCTURE
+#####################################################################
+JSONL+key (1:1 exact) : PROD READY
+GCS upload/download     : PROD READY
+job config (2.5flash,t0.2) : PROD READY
+output envelope inspect : PROD READY
+1:1 accounting (no dup/missing/malformed) : PROD READY (importer aborts on any)
+retries : present in evaluation_runner (429/5xx), importer none
+resume  : NONE
+chunking: NONE
+HARDCODED: total:160 (batch_runner:133) + entry_count==160 (batch_input_builder:30)
+idempotency: no
+cost log: NONE (tokens not recorded) - MISSING telemetry
+failure recovery: manual
+WHAT BLOCKS 8K: (1) hardcoded 160 gates, (2) no resume/retry in importer,
+(3) no cost/billing model, (4) content quality unproven, (5) schema unwon.
+MIGRATION (gates):
+ 160 (done) -> 500 : de-hardcode, add resume/chunk, log cost/latency/tokens
+    gate: batch integrity + cost recorded
+ -> 1000 : add retry, human QA30 sample, fixed JSONL shard
+    gate: quality retained + cost bounded
+ -> 8000 : production schema approved, stratified QA continuous
+    gate: all prior + production import OK
+
+#####################################################################
+# 12 - SCHEMA DECISION
+#####################################################################
+legacy schema  : full (IPA+10langs+family+6ex+colloc...) but enum-closed, out-of-sys
+enrichment.v1  : def_en/explanation_ar/3ex/mnemonic - light, batch-proven, thin
+lexical_core   : senses[]+arabic+tags+register+mnemonic - rich core, no ex/transl/rel yet
+COVERAGE DUPLICATION: defs+mnemonic overlap (enrich v1 vs lex_core). Missing in both:
+   full relations/collocations/translations/ielts (deferred phases).
+PRODUCTION NEEDS: core semantics + examples + collocations + relations + translations
+   + family + ielts + pronunciation + mnemonic + QA.
+ONE CANONICAL PRODUCTION SCHEMA:
+   lexical_core (core semantic) EXTENDED with schema.sql cols
+   (examples/collocations/relations/translations/ielts/qa) = the db/schema.sql model.
+   generation schema SEPARATE from canonical db schema (batch outputs lexical_core,
+   importer maps into schema.sql tables). NO third schema invented; decision PENDING
+   EXP-015b (does batch serve lexical_core at acceptable quality?).
+
+#####################################################################
+# 13 - QUALITY AUDIT
+#####################################################################
+field | structural | semantic | pedagogical | linguistic | status
+def_en | PASS(shape) | UNMEASURED on batch | UNMEASURED | UNMEASURED | QA needed
+def_ar | PASS | UNMEASURED (risk MT) | UNMEASURED | UNMEASURED | !! QA
+sense  | PASS (27 A) | distinctness UNPROVEN | - | - | QA sample
+ex     | PASS(B) | UNMEASURED | UNMEASURED | - | QA sample
+mnem_ar| shape-pass only | V2=paraphrase(MNE0) legacy=5 | regression risk | - | !! HUMAN
+pron   | PASS | matches? unverified | - | - | dict compare
+translation | clean src | quality unverified | - | - | sample
+colloc/rel/family | not in B; deferred | - | - | - | P2-4
+STRUCTURAL VALIDATOR IS NOT CONTENT-PROOF. Human+judge gates mandatory.
+
+#####################################################################
+# 14 - HUMAN QA (30 stratified)
+#####################################################################
+sample: 30 stratified CEFR (6x5) + traps/minefield/ielts-overlap from EXP-014 output.
+rubric fields: DEF SEN ARA MNE PRN EXAMPLE TRANSLATION (0-5 each).
+automated pre-screen: reject generic (empty, "no mnemonic", parenthetical-only).
+human: score each; verdict pass/fail per field.
+acceptance: >=85% of sample pass (weighted MNE+ARA+DEF).
+rejection: <=65% pass OR any systemic MNE/ARA regression -> STOP batch, fix prompt.
+mandatory failure: if matching is paraphrase not hook -> MNE=0; if def_ar is
+   machine-translation-like -> ARA logic.
+compare: V2 entry vs Legacy entry side-by-side; record winner/regression.
+tools: human_ground_truth_*_blank.csv pattern + docs/evaluation/scoring_rubric.md.
+
+#####################################################################
+# 15 - MNEMONIC AUDIT
+#####################################################################
+prompt: (lex_core A) had strict rule incl Counterfactual/Novelty tests -> null;
+  (enrich B) requires real hook shape only, no novelty guard - WORKS as text.
+validator: only rejects generic-empty/parenthetical; CANNOT judge if a mnemonic is
+  really a hook vs paraphrased definition. NOT sufficient.
+embedding similarity: USEFUL auto-filter: novelty = 1 - cosine(emb(mnem), emb(def_ar))
+  low novelty -> likely paraphrase -> route to human / regen. Good cheap pre-gate.
+LLM judge: score MNE 0-5 with rubric; weak signal, use as triage not final.
+human gate: MANDATORY on mnemonic_ar (accept/reject/regenerate). Do NOT ship
+  "passes schema" as proof. Generic/padded mnemonics rejected.
+
+#####################################################################
+# 16 - GROUNDING / GOOGLE / URL
+#####################################################################
+default policy = offline authoritative sources (corpus/dict/lexicon) for metadata.
+Google Search grounding = optional, sample-only (rare/ambiguous/specialized),
+  NOT every 8k word (no ROI evidence; cost+noise).
+URL context = no as base; optional for rare/specialized definitions.
+metadata fields (freq/rank/cefr/pron) = offline authoritative, never live web.
+
+#####################################################################
+# 17 - COST / SCALE
+#####################################################################
+TELEMETRY MISSING: no token counts/cost logged in EXP-014. I will NOT fabricate
+  numbers. Prices vary by model/region; thinking/grounding/retry scale cost.
+To be done before 500: record per-word input/output tokens + job cost + failures,
+  then derive cost/word, /160, /500, /1000, /8000 empirically.
+Placeholders to fill AFTER telemetry: current estimate = UNKNOWN (blocked on logging).
+
+#####################################################################
+# 18 - EXPERIMENT DESIGN EXP-015
+#####################################################################
+SEQUENCE (NOT back-to-back; decision gate after each):
+   EXP-015a -> decision gate -> EXP-015b -> decision gate -> EXP-015c
+   If 015a reveals a content-contract failure (mnemonic/def_ar/senses/examples),
+   FIX CONTENT FIRST. Do NOT spend effort on schema comparison yet.
+EXP-015a CONTENT QUALITY (30 stratified from EXP-014 output)
+  input : 30 EXP-014 artifacts + golden legacy baseline + rubric
+  process: LLM judge (DEF/SEN/ARA/MNE/PRN/EX/TRANSL) + human review same 30
+  output: llm_judge_results + human_ground_truth sheets
+  metrics: field scores, pass%, regression% vs legacy, MNE novelty
+  gate  : >=85% pass & no systemic MNE/ARA regression -> proceed
+EXP-015b SCHEMA COMPARISON (same 30)
+  input : same 30 words, generate via enrichment.v1 vs lexical_core
+  metrics: schema completeness, quality (via 015a rubric), db/schema.sql fit
+  gate  : winner determines canonical schema
+EXP-015c MODEL/PROMPT/CONFIG MATRIX (30 stratified, same batch input)
+  dims  : model(2.5flash/pro/newest) x prompt(v1.1/lex_core) x temp(0.2/0.0/0.5)
+          x think(off/on) x ground(off/on-rare)
+  metrics: weighted (see Part4) incl cost/latency/fail (log now)
+  gate  : clear winner by weighted score; adopt only if beats baseline.
+
+#####################################################################
+# 19 - FINAL DECISION MATRIX
+#####################################################################
+decision          | current evidence                | conf | action
+Prompt            | v1.1>v1.0 target (98.13 vs 81.13) fair | HIGH | freeze v1.1; extend w/ lex_core after QA
+Model             | only 2.5flash valid; 3.7 unproven | MED | run 015c, winner by metrics
+Schema            | enrichment vs lex_core dual       | MED | EXP-015b -> single = lex_core+schema.sql
+CEFR source       | buried/unknown provenance        | LOW | adopt authoritative lexicon; verify sample
+Frequency source  | buried band, no script           | LOW | adopt wordfreq/SUBTLex deterministic
+Rank              | ordinal buried, non-deterministic src | LOW| recompute deterministic from freq
+Mnemonic          | V2(MNE0)<legacy(MNE5) human      | HIGH risk | human-gate mandatory; novelty auto-filter
+IELTS             | aux+media, no cefr/freq claim     | MED | keep AUXILIARY; clean BOM
+Batch             | 160/160 tech proven              | HIGH | de-hardcode+resume+log before 500
+BigQuery          | no analytics need                | HIGH | REJECT now; SQLite suffices
+Grounding         | web not justified for 8k         | MED | default offline; optional sample
+
+#####################################################################
+# 20 - KEEP / FREEZE / ARCHIVE / DELETE
+#####################################################################
+KEEP : pipeline(A stack+phase0/1/eval), evaluation(B stack+utils+tests+DECISIONS),
+   db/schema.sql, golden_set/*, qa/*, docs/evaluation/protocol+rubric, data/eval
+   baseline+humans+judge+machine, scratch/judge+ielts+provenance tools,
+   data/staging.
+FREEZE: enrichment_v1.1.txt, schemas/enrichment.v1.json, artifact_validator.py,
+   golden_v2.json+manifest, db/schema.sql, scoring_rubric.md+decision_policy.md,
+   batch config gemini_flash_v1.1.
+ARCHIVE: SystemPrompt_Enhanced.md, StructuredOutput_Enhanced.json, enrichment.txt
+   (v1.0), golden_set_200 x2, pipeline/phase0_preflight.py, EXP-2026-09-02-001..007,
+   most scratch/, docs/audits placeholders.
+DELETE: nothing substantive (preserve lineage/reproducibility). Only transient
+   junk (__pycache__, .pyc). Duplication resolved by MERGE, not delete.
+
+#####################################################################
+END AUDIT - evidence wins over prior reports. Encoding = CLEAN (script output
+misread under cp1252 was corrected). 8K blocked until Gates 1-4 pass.
+
+#####################################################################
+# DECISION RECORD - ADOPTED REFINEMENTS (review sign-off)
+#####################################################################
+1. AUDIT STATUS: accepted/reproducible baseline. Evidence artifacts preserved as
+   immutable; do NOT overwrite experiment outputs that produced these conclusions.
+
+2. FREEZE LIST (confirmed by principal review):
+   - golden_v2.json 160 + manifest hash
+   - artifact_validator 1.0.0
+   - prompt v1.1 as baseline candidate (NOT yet winning generation schema)
+   - current experiment artifacts (EXP-012/014) as immutable evidence
+   - db/schema.sql as ARCHITECTURAL TARGET, not yet declared winning gen schema
+   - WordsMaster as immutable source/baseline, NOT unquestioned metadata truth
+
+3. ROADMAP CORRECTION (adopted):
+   EXP-015a -> DECISION GATE -> EXP-015b -> DECISION GATE -> EXP-015c
+   015a may reveal a CONTENT-CONTRACT failure worse than schema preference:
+   mnemonic_ar fail, def_ar machine-translation-like, senses collapsing to
+   paraphrase, examples technically-contain-target but pedagogically poor.
+   If that happens: FIX CONTENT CONTRACT FIRST. Do NOT compare schemas yet.
+
+4. EXP-015a SAMPLE COMPOSITION:
+   all CEFR bands + long/common + short/rare adversarial + polysemy + mnemonic
+   traps + IELTS overlap. Compare EXP-014 vs legacy baseline FIELD BY FIELD.
+
+5. EXP-015a HUMAN GATES (field | gate):
+   def_en        | >=85% acceptable
+   def_ar        | >=85% with natural Arabic (not MT-like)
+   senses        | distinct / non-circular
+   mnemonic_ar   | MANDATORY human approval
+   pronunciation | dictionary/source verification
+   examples      | natural + target-appropriate
+   translations  | semantic correctness
+   98.13% target-token is STRUCTURAL ONLY. A sentence can contain the exact word
+   and still be garbage. Never let structural score contaminate quality judgment.
+
+6. ARCHITECTURE INVARIANTS (hard, in schema/API not just docs):
+   rank != CEFR != curriculum position != unit
+   LLM NEVER owns: id, lemma, pos, CEFR, rank, frequency, unit identity.
+
+7. SQLITE DEFINITION (clarified):
+   SQLite production DB = canonical APPLICATION datastore.
+   Source provenance remains distributed across immutable source records /
+   authoritative datasets / versioned evidence. Production row value is NOT
+   automatically factual; trace to source before treating as ground truth.
+
+8. GATE STATUS (current):
+   G1 Content quality       BLOCKED  -> EXP-015a
+   G2 Canonical schema      BLOCKED  -> after G1 succeeds
+   G3 Model/config winner   BLOCKED  -> after G2
+   G4 Batch scale hardening BLOCKED  -> after G3
+   G5 1000                  BLOCKED  -> after G4
+   G6 8000                  BLOCKED  -> after G5
+   HARD GOVERNANCE LOCK: NO 8K, NO production migration, NO infrastructure
+   refactor, NO schema comparison, NO model matrix before G1 result.
+   If G1 fails: fix the CONTENT CONTRACT / prompt first. Do not compare
+   Schema A vs B (or run model matrix) while content itself is broken.
+
+9. NEXT ARTIFACT: EXP-015a only.
+   30 sample = real stratified (all CEFR bands + long/common + short/rare +
+   polysemy + mnemonic traps + IELTS overlap). Review field-level: def_en,
+   def_ar, senses/polysemy, mnemonic_ar, pronunciation, examples, translations.
+   HUMAN REVIEW = the real gate. LLM judge = triage only, never final.
+   mnemonic_ar: if human review confirms systemic regression/weakness, the fix
+   belongs in content contract/prompt BEFORE any schema/model matrix.
+
+10. STRUCTURAL METRIC STATUS: 98.13% exact-target = evidence of structural
+   contract success (target token present) ONLY. It is NOT a quality score and
+   must never contaminate quality judgement. A sentence can contain the exact
+   word and still be garbage.
+
+#####################################################################
+# PROMPT UNIFICATION RECORD (governance of merge + delete)
+#####################################################################
+DATE: 2026-09-03
+ACTION: Merged all generation prompts into ONE canonical file and deleted
+        superseded prompt/schema/config artifacts.
+
+FINAL CANONICAL (KEEP, single source to edit):
+  prompt : evaluation/prompts/lexical_enrichment_final.txt  (v2.0.0)
+  schema : evaluation/prompts/schemas/lexical_output.v1.json
+  config : evaluation/configs/gemini_flash_final_batch.json
+
+MERGE SOURCES (everything above folded into final):
+  - evaluation/prompts/lexical_enrichment.txt        (v1.0.0)   DELETED
+  - evaluation/prompts/lexical_enrichment_v1.1.txt   (v1.1.0)   DELETED
+  - evaluation/prompts/schemas/enrichment.v1.json               DELETED
+  - prompts/system/lexical_core.md  + prompts/tasks/lexical_core.md
+       -> content rules merged into final; FILES KEPT because pipeline/
+          phase1_lexical_core.py and phase_eval_runner.py load them live
+          (repo scope = unify files, do NOT modify DB-write code).
+  - config/schemas/lexical_core.json -> rules merged into lexical_output.v1;
+       file KEPT for the same live System A reason.
+  - SystemPrompt_Enhanced.md + StructuredOutput_Enhanced.json (legacy)
+       -> folded into final; DELETED.
+
+DELETED (real, not archived): see PRINCIPAL_FINAL list above + legacy roots.
+KEPT for evidence (DO NOT DELETE): evaluation/experiments/EXP-*/ raw artifacts
+  + manifests (store rendered_prompt_hash + output_hash). Old configs that
+  pointed at deleted prompts were also deleted so nothing dangles.
+
+v1.1 exact-target rule and lexical_core mnemonic strictness BOTH preserved in
+the final prompt. Single place to evolve = lexical_enrichment_final.txt.
