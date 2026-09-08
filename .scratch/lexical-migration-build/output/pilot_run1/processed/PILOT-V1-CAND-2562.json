@@ -1,0 +1,142 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2562",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2562",
+  "lemma": "license",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2562,
+  "lemma": "license",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈlaɪsəns",
+  "phonetic_uk": null,
+  "phonetic_ar": "لايسنس",
+  "definition_en": "To give official or legal permission to someone to do, own, or use something.",
+  "explanation_ar": "منح إذن أو تصريح رسمي وقانوني لشخص أو جهة لممارسة نشاط معين أو استخدام تقنية أو بيع منتج.",
+  "examples": [
+   {
+    "example_text": "The state decided to license local vendors to operate along the boardwalk.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "They plan to license their software to several global telecommunications firms next quarter.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Authorities refuse to license any facility that fails to meet strict safety standards.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الفعل مشتق من الكلمة اللاتينية licere ومعناها يسمح او يجوز ومنها جاءت رخصة القيادة اي التصريح الرسمي بالشيء",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To grant official or legal permission to someone to do something or carry on a trade.",
+    "short_def_en": "grant legal permission",
+    "definition_ar": "يمنح ترخيصا او اذنا قانونيا رسميا لمزاولة عمل او نشاط",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "Law",
+     "Government",
+     "Regulation"
+    ],
+    "usage_note": "Often used in the passive voice, e.g., 'licensed to practice'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To permit another party to use patented technology, copyright, or a trademark under specified conditions.",
+    "short_def_en": "grant rights to intellectual property",
+    "definition_ar": "يمنح حق استخدام ملكية فكرية او براءة اختراع مقابل شروط محددة",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "Business",
+     "Technology",
+     "Intellectual Property"
+    ],
+    "usage_note": "Common in tech, media, and patent agreements.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "license software",
+   "license technology",
+   "license a patent",
+   "fully license",
+   "license to operate"
+  ],
+  "synonyms": [
+   "authorize",
+   "permit",
+   "certify",
+   "sanction",
+   "accredit"
+  ],
+  "antonyms": [
+   "ban",
+   "prohibit",
+   "forbid"
+  ],
+  "related_words": {
+   "en": [
+    "licensing",
+    "licensee",
+    "licensor",
+    "permit",
+    "franchise",
+    "patent",
+    "copyright"
+   ],
+   "ar": [
+    "ترخيص",
+    "مرخص له",
+    "مانح الترخيص",
+    "تصريح",
+    "امتياز تجاري",
+    "براءة اختراع",
+    "حقوق النشر"
+   ]
+  },
+  "word_family": {
+   "noun": "license",
+   "verb": "license",
+   "adj": "licensed",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يرخص / يمنح ترخيصا",
+   "french_fr": "autoriser",
+   "german_de": "lizenzieren",
+   "spanish_es": "licenciar",
+   "chinese_zh": "特许 (Tèxǔ)",
+   "russian_ru": "лицензировать",
+   "portuguese_pt": "licenciar",
+   "japanese_ja": "認可する (Ninka suru)",
+   "italian_it": "autorizzare",
+   "turkish_tr": "lisans vermek"
+  }
+ },
+ "provenance": {
+  "output_hash": "5697efe3925ba3606387be25ae82ab2878e57ae7d2228131c4ee886ea7c674e6",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

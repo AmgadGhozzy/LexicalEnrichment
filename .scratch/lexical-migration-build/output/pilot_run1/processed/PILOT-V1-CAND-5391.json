@@ -1,0 +1,133 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5391",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5391",
+  "lemma": "corridor",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5391,
+  "lemma": "corridor",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈkɔːrɪdɔːr",
+  "phonetic_uk": "ˈkɒrɪdɔː",
+  "phonetic_ar": "كُورِيدُور",
+  "definition_en": "A long, narrow passage inside a building with doors opening into rooms on either side.",
+  "explanation_ar": "ممر طويل وضيق داخل مبنى يربط بين الغرف المختلفة وتفتح عليه أبوابها.",
+  "examples": [
+   {
+    "example_text": "His office is located at the far end of the corridor.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Students were talking loudly along the corridor between classes.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The government agreed to create a safe humanitarian corridor for civilians.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "الكلمة مستخدمة بنفس اللفظ تقريبا في كثير من اللهجات العربية كـ كوليدور أو كوريدور وهي مشتقة من فعل الجري باللاتينية اي الممر الذي يجري فيه الشخص",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A long passage in a building from which doors lead into rooms.",
+    "short_def_en": "long indoor passage",
+    "definition_ar": "ممر طويل داخل مبنى تتوزع على جانبيه الغرف",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "architecture",
+     "buildings",
+     "interior"
+    ],
+    "usage_note": "Hallway is often used interchangeably in American English.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A narrow strip of land linking two places or providing a transit route through foreign territory.",
+    "short_def_en": "narrow transit strip",
+    "definition_ar": "شريط ضيق من الأرض أو مسار مخصص للنقل والعبور بين منطقتين",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "geography",
+     "politics",
+     "transportation"
+    ],
+    "usage_note": "Frequently used in political, military, or environmental contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "down the corridor",
+   "narrow corridor",
+   "humanitarian corridor",
+   "wildlife corridor",
+   "transport corridor"
+  ],
+  "synonyms": [
+   "hallway",
+   "passage",
+   "passageway",
+   "hall"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "door",
+    "room",
+    "building",
+    "aisle",
+    "route"
+   ],
+   "ar": [
+    "باب",
+    "غرفة",
+    "مبنى",
+    "ممشى",
+    "مسار"
+   ]
+  },
+  "word_family": {
+   "noun": "corridor",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ممر / ردهة",
+   "french_fr": "couloir",
+   "german_de": "Korridor / Flur",
+   "spanish_es": "pasillo / corredor",
+   "chinese_zh": "走廊 (Zǒuláng)",
+   "russian_ru": "коридор",
+   "portuguese_pt": "corredor",
+   "japanese_ja": "廊下 (Rōka)",
+   "italian_it": "corridoio",
+   "turkish_tr": "koridor"
+  }
+ },
+ "provenance": {
+  "output_hash": "be6003e0fa8693cff51bd613b05857c15663521488ca46ab8f4e9f8d57ce4e40",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

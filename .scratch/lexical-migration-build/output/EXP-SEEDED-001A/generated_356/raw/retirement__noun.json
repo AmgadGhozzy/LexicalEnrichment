@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "retirement",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "retirement",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The period of life after stopping work permanently, usually due to age, or the act of leaving one's job or career.",
+  "explanation_ar": "فترة التقاعد (المعاش) بعد التوقف عن العمل نهائيًا، أو قرار وإجراء ترك الوظيفة.",
+  "senses": [
+   {
+    "definition_en": "The period of life after stopping work permanently.",
+    "explanation_ar": "فترة التقاعد أو المعاش.",
+    "examples": [
+     "She is saving money for her retirement.",
+     "He took early retirement at the age of 55."
+    ]
+   },
+   {
+    "definition_en": "The act of leaving one's job, career, or professional sport.",
+    "explanation_ar": "قرار أو واقعة التوقف عن ممارسة المهنة نهائيًا.",
+    "examples": [
+     "He announced his retirement from professional tennis."
+    ]
+   }
+  ],
+  "examples": [
+   "She is saving money for her retirement.",
+   "He took early retirement at the age of 55.",
+   "He announced his retirement from professional tennis."
+  ],
+  "translations": [
+   "تقاعد",
+   "معاش"
+  ],
+  "relations": {
+   "synonyms": [
+    "withdrawal",
+    "resignation"
+   ],
+   "antonyms": [
+    "employment",
+    "career"
+   ],
+   "collocations": [
+    "early retirement",
+    "retirement age",
+    "retirement plan",
+    "retirement home"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة tire (يتعب): لما تتعب من سنين الشغل الطويلة، بيجي وقت الـ retirement عشان ترتاح.",
+  "phonetic_us": "rɪˈtaɪərmənt",
+  "phonetic_uk": "rɪˈtaɪəmənt",
+  "syllables": "re•tire•ment",
+  "semantic_tags": [
+   "Career",
+   "Aging",
+   "LifeStage"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "The period of life after stopping work permanently, usually due to age, or the act of leaving one's job or career.",
+  "explanation_ar": "فترة التقاعد (المعاش) بعد التوقف عن العمل نهائيًا، أو قرار وإجراء ترك الوظيفة.",
+  "examples": [
+   "She is saving money for her retirement.",
+   "He took early retirement at the age of 55.",
+   "He announced his retirement from professional tennis."
+  ],
+  "translations": {
+   "arabic_ar": "تقاعد معاش"
+  },
+  "synonyms": [
+   "withdrawal",
+   "resignation"
+  ],
+  "antonyms": [
+   "employment",
+   "career"
+  ],
+  "collocations": [
+   "early retirement",
+   "retirement age",
+   "retirement plan",
+   "retirement home"
+  ],
+  "mnemonic_ar": "اربطها بكلمة tire (يتعب): لما تتعب من سنين الشغل الطويلة، بيجي وقت الـ retirement عشان ترتاح."
+ }
+}

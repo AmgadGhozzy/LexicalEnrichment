@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "largely",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "largely",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "To a great extent; mostly or mainly.",
+  "explanation_ar": "بمعنى 'إلى حد كبير' أو 'في الغالب'.. لما تكون الحاجة دي هي السبب الرئيسي.",
+  "senses": [
+   {
+    "definition_en": "To a great extent; mostly or mainly.",
+    "explanation_ar": "إلى حد كبير أو في الغالب.",
+    "examples": [
+     "The success was largely due to her effort.",
+     "The old system has been largely replaced.",
+     "His theories are largely based on speculation."
+    ]
+   }
+  ],
+  "examples": [
+   "The success was largely due to her effort.",
+   "The old system has been largely replaced.",
+   "His theories are largely based on speculation."
+  ],
+  "translations": [
+   "إلى حد كبير",
+   "في الغالب",
+   "بصورة عامة"
+  ],
+  "relations": {
+   "synonyms": [
+    "mostly",
+    "mainly",
+    "chiefly",
+    "principally"
+   ],
+   "antonyms": [
+    "partially",
+    "slightly"
+   ],
+   "collocations": [
+    "largely due to",
+    "largely responsible",
+    "largely ignored"
+   ]
+  },
+  "mnemonic": "من كلمة 'Large' 'كبير'.. يعني الموضوع بيحصل بنسبة كبيرة 'Largely'",
+  "phonetic_us": "ˈlɑrdʒli",
+  "phonetic_uk": "ˈlɑːdʒli",
+  "syllables": "large•ly",
+  "semantic_tags": [
+   "#Quantity",
+   "#Generalization",
+   "#Abstract"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To a great extent; mostly or mainly.",
+  "explanation_ar": "بمعنى 'إلى حد كبير' أو 'في الغالب'.. لما تكون الحاجة دي هي السبب الرئيسي.",
+  "examples": [
+   "The success was largely due to her effort.",
+   "The old system has been largely replaced.",
+   "His theories are largely based on speculation."
+  ],
+  "translations": {
+   "arabic_ar": "إلى حد كبير في الغالب بصورة عامة"
+  },
+  "synonyms": [
+   "mostly",
+   "mainly",
+   "chiefly",
+   "principally"
+  ],
+  "antonyms": [
+   "partially",
+   "slightly"
+  ],
+  "collocations": [
+   "largely due to",
+   "largely responsible",
+   "largely ignored"
+  ],
+  "mnemonic_ar": "من كلمة 'Large' 'كبير'.. يعني الموضوع بيحصل بنسبة كبيرة 'Largely'"
+ }
+}

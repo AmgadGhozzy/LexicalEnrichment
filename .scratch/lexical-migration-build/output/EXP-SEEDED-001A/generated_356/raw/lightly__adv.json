@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "lightly",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "lightly",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "Gently, delicately, or with little force.",
+  "explanation_ar": "بخفة وبساطة، من غير قوة أو عنف. ممكن تيجي بمعنى عدم الاهتمام كفاية 'استخفاف'.",
+  "senses": [
+   {
+    "sense_id": "lightly-1",
+    "definition_en": "Gently, delicately, or with little force or weight.",
+    "definition_ar": "بخفة وبدون قوة أو ضغط كبير.",
+    "examples": [
+     "She knocked lightly on the door.",
+     "Season the food lightly with salt."
+    ]
+   },
+   {
+    "sense_id": "lightly-2",
+    "definition_en": "Without giving something serious thought or sufficient importance.",
+    "definition_ar": "باستهانة أو دون جدية كافية.",
+    "examples": [
+     "Don't take this warning lightly."
+    ]
+   }
+  ],
+  "examples": [
+   "She knocked lightly on the door.",
+   "Season the food lightly with salt.",
+   "Don't take this warning lightly."
+  ],
+  "translations": [
+   "بخفة",
+   "باستهانة"
+  ],
+  "relations": {
+   "synonyms": [
+    "gently",
+    "softly",
+    "faintly",
+    "sparingly"
+   ],
+   "antonyms": [
+    "heavily",
+    "severely",
+    "seriously"
+   ],
+   "collocations": [
+    "take lightly",
+    "travel lightly",
+    "sleep lightly"
+   ],
+   "word_family": {
+    "adj": "light",
+    "adv": "lightly",
+    "noun": "lightness",
+    "verb": "lighten"
+   }
+  },
+  "mnemonic": "من 'Light' 'خفيف'.. 'Lightly' يعني بتعمل الحاجة وإيدك خفيفة",
+  "phonetic_us": "ˈlaɪtli",
+  "phonetic_uk": "ˈlaɪtlɪ",
+  "syllables": "light•ly",
+  "semantic_tags": [
+   "#Manner",
+   "#Weight",
+   "#Attitude"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Gently, delicately, or with little force.",
+  "explanation_ar": "بخفة وبساطة، من غير قوة أو عنف. ممكن تيجي بمعنى عدم الاهتمام كفاية 'استخفاف'.",
+  "examples": [
+   "She knocked lightly on the door.",
+   "Season the food lightly with salt.",
+   "Don't take this warning lightly."
+  ],
+  "translations": {
+   "arabic_ar": "بخفة باستهانة"
+  },
+  "synonyms": [
+   "gently",
+   "softly",
+   "faintly",
+   "sparingly"
+  ],
+  "antonyms": [
+   "heavily",
+   "severely",
+   "seriously"
+  ],
+  "collocations": [
+   "take lightly",
+   "travel lightly",
+   "sleep lightly"
+  ],
+  "mnemonic_ar": "من 'Light' 'خفيف'.. 'Lightly' يعني بتعمل الحاجة وإيدك خفيفة"
+ }
+}

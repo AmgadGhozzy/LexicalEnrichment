@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "butter",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "butter",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+  "explanation_ar": "الزبدة الصفرا اللي بنعملها من اللبن وبنحطها على العيش أو نطبخ بيها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+    "definition_ar": "مادة دهنية صفراء لينة تُستخرج من الحليب، تُستخدم في الطهي وتُدهن على الخبز (زبدة).",
+    "examples": [
+     "I like bread and butter.",
+     "She put some butter on the toast.",
+     "Fry the onions in a little butter."
+    ]
+   }
+  ],
+  "examples": [
+   "I like bread and butter.",
+   "She put some butter on the toast.",
+   "Fry the onions in a little butter."
+  ],
+  "translations": [
+   "زبدة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "melted butter",
+    "bread and butter",
+    "butter knife",
+    "peanut butter"
+   ]
+  },
+  "mnemonic": "كلمة 'Butter' شبه 'Better'.. عشان الأكل بيبقى طعمه 'Better' لما نحط عليه 'Butter'.",
+  "phonetic_us": "ˈbʌt.əɹ",
+  "phonetic_uk": "ˈbʌt.ə",
+  "syllables": "but•ter",
+  "semantic_tags": [
+   "Dairy",
+   "Cooking",
+   "Breakfast",
+   "Food & Drink"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+  "explanation_ar": "الزبدة الصفرا اللي بنعملها من اللبن وبنحطها على العيش أو نطبخ بيها.",
+  "examples": [
+   "I like bread and butter.",
+   "She put some butter on the toast.",
+   "Fry the onions in a little butter."
+  ],
+  "translations": {
+   "arabic_ar": "زبدة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "melted butter",
+   "bread and butter",
+   "butter knife",
+   "peanut butter"
+  ],
+  "mnemonic_ar": "كلمة 'Butter' شبه 'Better'.. عشان الأكل بيبقى طعمه 'Better' لما نحط عليه 'Butter'."
+ }
+}

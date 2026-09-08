@@ -1,0 +1,115 @@
+{
+ "seed": 356014,
+ "per_stratum": 3,
+ "completed_included": 237,
+ "stratum_sizes": {
+  "sense_abstain": 101,
+  "tie_heavy": 33,
+  "strong_decided": 122,
+  "polysemy": 4
+ },
+ "cards": [
+  {
+   "eval_id": "EVAL-BLIND-V1-0002",
+   "lemma": "card",
+   "pos": "noun",
+   "strata": [
+    "sense_abstain",
+    "strong_decided"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0027",
+   "lemma": "bottom",
+   "pos": "adj",
+   "strata": [
+    "sense_abstain"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0038",
+   "lemma": "since",
+   "pos": "conj",
+   "strata": [
+    "tie_heavy",
+    "polysemy"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0082",
+   "lemma": "appointment",
+   "pos": "noun",
+   "strata": [
+    "tie_heavy"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0097",
+   "lemma": "refuse",
+   "pos": "verb",
+   "strata": [
+    "sense_abstain"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0105",
+   "lemma": "spell",
+   "pos": "verb",
+   "strata": [
+    "strong_decided",
+    "polysemy"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0133",
+   "lemma": "since",
+   "pos": "prep",
+   "strata": [
+    "sense_abstain",
+    "polysemy"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0141",
+   "lemma": "oral",
+   "pos": "adj",
+   "strata": [
+    "tie_heavy"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0187",
+   "lemma": "merchant",
+   "pos": "noun",
+   "strata": [
+    "sense_abstain"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0193",
+   "lemma": "bucket",
+   "pos": "noun",
+   "strata": [
+    "sense_abstain",
+    "strong_decided"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0195",
+   "lemma": "quantum",
+   "pos": "noun",
+   "strata": [
+    "sense_abstain",
+    "strong_decided"
+   ]
+  },
+  {
+   "eval_id": "EVAL-BLIND-V1-0237",
+   "lemma": "fond",
+   "pos": "adj",
+   "strata": [
+    "tie_heavy"
+   ]
+  }
+ ]
+}

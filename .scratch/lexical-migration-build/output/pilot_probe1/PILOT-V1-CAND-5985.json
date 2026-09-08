@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5985",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5985",
+  "lemma": "tile",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5985,
+  "lemma": "tile",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "taɪl",
+  "phonetic_uk": null,
+  "phonetic_ar": "تايل",
+  "definition_en": "A flat, thin piece of baked clay, stone, or plastic used for covering roofs, floors, or walls.",
+  "explanation_ar": "قطعة مسطحة من الفخار أو السيراميك أو الحجر تستخدم لتغطية الأرضيات أو الجدران أو الأسطح، وتعرف بالبلاط أو القرميد.",
+  "examples": [
+   {
+    "example_text": "We need to replace a broken ceramic tile on the bathroom wall.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A heavy storm blew a roof tile onto the driveway last night.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The kitchen floor is finished with a smooth marble tile.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"tile\" تشبه صوت طائل اي شيء يمتد ويغطي مساحة واسعة مثل تغطية الارضية بالبلاط",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A flat thin piece of hard material used to cover roofs, floors, or walls.",
+    "short_def_en": "flat covering piece",
+    "definition_ar": "قطعة رقيقة وصلبة تغطي الارضيات او الجدران او الاسقف مثل البلاطة او القرميدة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "Construction",
+     "Architecture",
+     "Home"
+    ],
+    "usage_note": "Often preceded by the material or location, such as ceramic, roof, or floor.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A small flat piece used in board games such as Scrabble or mah-jong.",
+    "short_def_en": "small game piece",
+    "definition_ar": "قطعة مسطحة صغيرة تستخدم في بعض العاب الالواح مثل سكرابل",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "Games",
+     "Leisure",
+     "Objects"
+    ],
+    "usage_note": "Commonly refers to lettered or numbered tokens in tabletop games.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "ceramic tile",
+   "floor tile",
+   "roof tile",
+   "mosaic tile",
+   "lay a tile"
+  ],
+  "synonyms": [
+   "slab",
+   "flagstone",
+   "shingle",
+   "slate"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "grout",
+    "ceramics",
+    "flooring",
+    "pavement"
+   ],
+   "ar": [
+    "ترويبة",
+    "خزف",
+    "ارضيات",
+    "رصيف"
+   ]
+  },
+  "word_family": {
+   "noun": "tile",
+   "verb": "tile",
+   "adj": "tiled",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بلاطة / قرميدة",
+   "french_fr": "carreau",
+   "german_de": "Fliese",
+   "spanish_es": "baldosa",
+   "chinese_zh": "瓷砖 (Cízhuān)",
+   "russian_ru": "плитка",
+   "portuguese_pt": "azulejo",
+   "japanese_ja": "タイル (Tairu)",
+   "italian_it": "piastrella",
+   "turkish_tr": "fayans"
+  }
+ },
+ "provenance": {
+  "output_hash": "5759863cc8ea5927bc698fc729a14388dfe17d7bf0b423a90952741dd5d6a4f0",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "call",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "call",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To contact someone by phone or shout to them.",
+  "explanation_ar": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To contact someone by telephone.",
+    "definition_ar": "يتصل هاتفياً بشخص ما.",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To shout or speak loudly to attract someone's attention.",
+    "definition_ar": "ينادي بصوت مرتفع لجذب الانتباه.",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "To give someone or something a specific name.",
+    "definition_ar": "يسمي أو يطلق اسماً على شخص أو شيء.",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "Please call me tomorrow.",
+   "They call him 'Big Joe'.",
+   "I will call a taxi for you."
+  ],
+  "translations": [
+   "يَتَّصِل",
+   "يُنَادِي",
+   "يُسَمِّي"
+  ],
+  "relations": {
+   "synonyms": [
+    "phone",
+    "name",
+    "summon",
+    "shout"
+   ],
+   "antonyms": [
+    "whisper",
+    "ignore"
+   ],
+   "collocations": [
+    "call back",
+    "call off",
+    "call for",
+    "call on"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "kɔːl",
+  "phonetic_uk": "kɔːl",
+  "syllables": "call",
+  "semantic_tags": [
+   "#Phone",
+   "#Name",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To contact someone by phone or shout to them.",
+  "explanation_ar": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+  "examples": [
+   "Please call me tomorrow.",
+   "They call him 'Big Joe'.",
+   "I will call a taxi for you."
+  ],
+  "translations": {
+   "arabic_ar": "يَتَّصِل يُنَادِي يُسَمِّي"
+  },
+  "synonyms": [
+   "phone",
+   "name",
+   "summon",
+   "shout"
+  ],
+  "antonyms": [
+   "whisper",
+   "ignore"
+  ],
+  "collocations": [
+   "call back",
+   "call off",
+   "call for",
+   "call on"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,329 @@
+{
+ "aggregates": {
+  "n_judged": 15,
+  "field_wins": {
+   "definition": {
+    "tie": 12,
+    "candidate": 3
+   },
+   "arabic_explanation": {
+    "tie": 12,
+    "candidate": 3
+   },
+   "sense_separation": {
+    "tie": 8,
+    "candidate": 7
+   },
+   "examples": {
+    "candidate": 15
+   },
+   "translations": {
+    "tie": 9,
+    "candidate": 5,
+    "legacy": 1
+   },
+   "relations": {
+    "candidate": 10,
+    "legacy": 2,
+    "tie": 3
+   },
+   "mnemonic": {
+    "tie": 13,
+    "candidate": 1,
+    "legacy": 1
+   }
+  },
+  "critical_counts": {
+   "wrong_meaning": {},
+   "misleading_arabic": {},
+   "invalid_relation_synonym": {
+    "legacy": 6
+   },
+   "example_semantic_error": {
+    "legacy": 1
+   },
+   "target_word_violation": {
+    "legacy": 7
+   },
+   "fabricated_etymology_mnemonic": {},
+   "cefr_learner_mismatch": {}
+  }
+ },
+ "items": [
+  {
+   "eval_id": "eval_seeded60_v1-0016",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"porpoise\", \"cetacean\" — cetacean is broader than dolphin, not a synonym"
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"Dolphins are known...\", \"watch the dolphins\", \"dolphin population\" — plurals, not the exact lemma"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0052",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"write\" and \"letter\" are not valid synonyms of spell in this sense"
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"spells\" and \"spelled\" do not satisfy the exact-lemma contract"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0053",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"studying\" and \"studied\" are not the exact lemma"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0021",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "legacy",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"elbows\" is not the exact lemma"
+    },
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"joint\" and especially \"arm joint\" are broader/descriptive, not precise synonyms of elbow"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0054",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"that\" is not a synonym; it is a contrasting demonstrative"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0045",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "\"The sound hit the wall.\" and \"The loud noise made the room shake.\" do not use reverberate at all"
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "the two examples above contain no lemma; \"reverberated\" in \"The drum beat reverberated...\" is inflected, not the exact lemma"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0010",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"chopped\" in both examples is not the exact lemma"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0037",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0020",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"drain\" is not a reliable synonym of dry in this sense"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0009",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0013",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0014",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "\"dealing\" in \"She is used to dealing...\" is not the exact lemma"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0023",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0048",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "\"from\" and \"after\" are not valid synonyms of since as a conjunction"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0046",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "legacy",
+    "mnemonic": "legacy"
+   },
+   "criticals": []
+  }
+ ]
+}

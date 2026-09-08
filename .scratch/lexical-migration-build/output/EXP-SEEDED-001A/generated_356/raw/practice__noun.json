@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "practice",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "practice",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Repeated exercise in an activity or skill in order to improve or maintain one's proficiency.",
+  "explanation_ar": "الممارسة أو التدريب؛ القيام بعمل ما بانتظام لتطوير المهارة والتحسن فيه.",
+  "senses": [
+   {
+    "sense_id": "practice-noun-1",
+    "definition_en": "The regular repetition of an activity to acquire or improve a skill.",
+    "definition_ar": "التدريب المنتظم أو الممارسة المتكررة لاكتساب مهارة أو إتقانها.",
+    "cefr": "A1",
+    "examples": [
+     "I need more practice to improve my English speaking.",
+     "Practice makes perfect.",
+     "Our football practice starts at five o'clock."
+    ]
+   }
+  ],
+  "examples": [
+   "I need more practice to improve my English speaking.",
+   "Practice makes perfect.",
+   "Our football practice starts at five o'clock."
+  ],
+  "translations": [
+   "مُمَارَسَة",
+   "تَدْرِيب"
+  ],
+  "relations": {
+   "synonyms": [
+    "training",
+    "rehearsal",
+    "exercise"
+   ],
+   "antonyms": [
+    "theory"
+   ],
+   "collocations": [
+    "practice makes perfect",
+    "put into practice",
+    "football practice",
+    "common practice"
+   ]
+  },
+  "mnemonic": "تذكر المثل الشهير: Practice makes perfect — الممارسة تجعلك متقناً.",
+  "phonetic_us": "ˈpræk.tɪs",
+  "phonetic_uk": "ˈpræk.tɪs",
+  "syllables": "prac•tice",
+  "semantic_tags": [
+   "#Learning",
+   "#Skill",
+   "#Training"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Repeated exercise in an activity or skill in order to improve or maintain one's proficiency.",
+  "explanation_ar": "الممارسة أو التدريب؛ القيام بعمل ما بانتظام لتطوير المهارة والتحسن فيه.",
+  "examples": [
+   "I need more practice to improve my English speaking.",
+   "Practice makes perfect.",
+   "Our football practice starts at five o'clock."
+  ],
+  "translations": {
+   "arabic_ar": "مُمَارَسَة تَدْرِيب"
+  },
+  "synonyms": [
+   "training",
+   "rehearsal",
+   "exercise"
+  ],
+  "antonyms": [
+   "theory"
+  ],
+  "collocations": [
+   "practice makes perfect",
+   "put into practice",
+   "football practice",
+   "common practice"
+  ],
+  "mnemonic_ar": "تذكر المثل الشهير: Practice makes perfect — الممارسة تجعلك متقناً."
+ }
+}

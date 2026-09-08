@@ -1,0 +1,376 @@
+{
+ "eval_input_id": "eval_seeded60_v1-INPUT",
+ "entries": [
+  {
+   "candidate_key": "via/prep",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "double/pron",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "this/det",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "plus/prep",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "since/conj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "much/det",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "colour/noun",
+   "status": "validator_failed",
+   "validator_failures": [
+    "syllables"
+   ],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "yet/conj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "spell/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "spell/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "call/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "since/prep",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "can/modal",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "mud/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "reign/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "jew/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "deal/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "study/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "embryo/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "deal/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "but/prep",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "dependent/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "precious/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "elbow/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "utter/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "leaflet/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "administer/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "rural/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "archbishop/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "chop/verb",
+   "status": "validator_failed",
+   "validator_failures": [
+    "syllables"
+   ],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "indigenous/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "radiation/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "restrain/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "hollow/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "fowl/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "chat/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "spectacular/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "reluctantly/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "dolphin/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "unite/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "medieval/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "correctly/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "chin/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "draft/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "articulate/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "round/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "tractor/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "rebuild/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "preliminary/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "often/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "permission/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "weigh/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "accurate/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "merely/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "example/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "dry/verb",
+   "status": "validator_failed",
+   "validator_failures": [
+    "syllables"
+   ],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "proper/adj",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "downtown/adv",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "pier/noun",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  },
+  {
+   "candidate_key": "reverberate/verb",
+   "status": "success",
+   "validator_failures": [],
+   "prompt_hash": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8"
+  }
+ ],
+ "pilot_selection_hash": "7ffe5d46e3617c56cf4f040d497100e7b10d4d1926b2b89fc3e9955b15d310dc",
+ "seed_snapshot_sha256": "197089b30819bf708c61b5ed065a4b829a2c430afddf302ec1bd3d8a642717f3",
+ "prompt_id": "lexical_enrichment_seeded_v1.1",
+ "prompt_sha256": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8",
+ "input_hash": "a0716787570ee38f2ac993e3d16a4e8497bc9e8f9afa4c7e55d9ce4427c15ca0"
+}

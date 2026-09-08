@@ -1,0 +1,1914 @@
+{
+ "status": "imported",
+ "job_id": "projects/491799276439/locations/global/batchPredictionJobs/6441726503276249088",
+ "input_gcs": "gs://lexical-enrichment/seeded356/exp-seeded-001a-356/input_b/requests.jsonl",
+ "output_gcs": "gs://lexical-enrichment/seeded356/exp-seeded-001a-356/output_b",
+ "submitted": [
+  {
+   "key": "abandon/noun",
+   "lemma": "abandon",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "abuse/verb",
+   "lemma": "abuse",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "accordingly/adv",
+   "lemma": "accordingly",
+   "pos": "adv",
+   "cefr": "C1"
+  },
+  {
+   "key": "accurate/adj",
+   "lemma": "accurate",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "activist/noun",
+   "lemma": "activist",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "additionally/adv",
+   "lemma": "additionally",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "administer/verb",
+   "lemma": "administer",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "advanced/adj",
+   "lemma": "advanced",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "aeroplane/noun",
+   "lemma": "aeroplane",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "age/noun",
+   "lemma": "age",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "amateur/adj",
+   "lemma": "amateur",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "amusing/adj",
+   "lemma": "amusing",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "ancient/adj",
+   "lemma": "ancient",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "anyone/pron",
+   "lemma": "anyone",
+   "pos": "pron",
+   "cefr": "A1"
+  },
+  {
+   "key": "appointed/adj",
+   "lemma": "appointed",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "appointment/noun",
+   "lemma": "appointment",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "approximate/adj",
+   "lemma": "approximate",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "archbishop/noun",
+   "lemma": "archbishop",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "articulate/adj",
+   "lemma": "articulate",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "attractiveness/noun",
+   "lemma": "attractiveness",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "aunt/noun",
+   "lemma": "aunt",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "awareness/noun",
+   "lemma": "awareness",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "bass/adj",
+   "lemma": "bass",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "become/verb",
+   "lemma": "become",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "believe/verb",
+   "lemma": "believe",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "besides/adv",
+   "lemma": "besides",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "bizarre/adj",
+   "lemma": "bizarre",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "bleak/adj",
+   "lemma": "bleak",
+   "pos": "adj",
+   "cefr": "C2"
+  },
+  {
+   "key": "blow/noun",
+   "lemma": "blow",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "border/noun",
+   "lemma": "border",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "breed/noun",
+   "lemma": "breed",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "bucket/noun",
+   "lemma": "bucket",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "but/prep",
+   "lemma": "but",
+   "pos": "prep",
+   "cefr": "B2"
+  },
+  {
+   "key": "butter/noun",
+   "lemma": "butter",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "call/verb",
+   "lemma": "call",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "can/modal",
+   "lemma": "can",
+   "pos": "modal",
+   "cefr": "A1"
+  },
+  {
+   "key": "cannot/modal",
+   "lemma": "cannot",
+   "pos": "modal",
+   "cefr": "A1"
+  },
+  {
+   "key": "cargo/noun",
+   "lemma": "cargo",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "cautious/adj",
+   "lemma": "cautious",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "chat/verb",
+   "lemma": "chat",
+   "pos": "verb",
+   "cefr": "A2"
+  },
+  {
+   "key": "cheer/verb",
+   "lemma": "cheer",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "chef/noun",
+   "lemma": "chef",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "chin/noun",
+   "lemma": "chin",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "chop/verb",
+   "lemma": "chop",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "citizenship/noun",
+   "lemma": "citizenship",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "civilian/noun",
+   "lemma": "civilian",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "colour/noun",
+   "lemma": "colour",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "combine/verb",
+   "lemma": "combine",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "concentrate/verb",
+   "lemma": "concentrate",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "congressional/adj",
+   "lemma": "congressional",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "connect/verb",
+   "lemma": "connect",
+   "pos": "verb",
+   "cefr": "A2"
+  },
+  {
+   "key": "constituent/noun",
+   "lemma": "constituent",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "contain/verb",
+   "lemma": "contain",
+   "pos": "verb",
+   "cefr": "A2"
+  },
+  {
+   "key": "core/adj",
+   "lemma": "core",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "corporate/adj",
+   "lemma": "corporate",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "correctly/adv",
+   "lemma": "correctly",
+   "pos": "adv",
+   "cefr": "A2"
+  },
+  {
+   "key": "correlate/verb",
+   "lemma": "correlate",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "corridor/noun",
+   "lemma": "corridor",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "credibility/noun",
+   "lemma": "credibility",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "curly/adj",
+   "lemma": "curly",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "cushion/noun",
+   "lemma": "cushion",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "damn/verb",
+   "lemma": "damn",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "date/noun",
+   "lemma": "date",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "deal/noun",
+   "lemma": "deal",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "deal/verb",
+   "lemma": "deal",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "debt/noun",
+   "lemma": "debt",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "defy/verb",
+   "lemma": "defy",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "dependent/adj",
+   "lemma": "dependent",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "developer/noun",
+   "lemma": "developer",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "devil/noun",
+   "lemma": "devil",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "disturbance/noun",
+   "lemma": "disturbance",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "diverge/verb",
+   "lemma": "diverge",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "dolphin/noun",
+   "lemma": "dolphin",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "domestic/adj",
+   "lemma": "domestic",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "doorway/noun",
+   "lemma": "doorway",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "downtown/adv",
+   "lemma": "downtown",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "draft/verb",
+   "lemma": "draft",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "dumb/adj",
+   "lemma": "dumb",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "durable/adj",
+   "lemma": "durable",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "dust/noun",
+   "lemma": "dust",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "editor/noun",
+   "lemma": "editor",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "educate/verb",
+   "lemma": "educate",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "elbow/noun",
+   "lemma": "elbow",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "electronics/noun",
+   "lemma": "electronics",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "embarrassment/noun",
+   "lemma": "embarrassment",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "embryo/noun",
+   "lemma": "embryo",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "emergency/noun",
+   "lemma": "emergency",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "end/noun",
+   "lemma": "end",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "endure/verb",
+   "lemma": "endure",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "entertainment/noun",
+   "lemma": "entertainment",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "essential/adj",
+   "lemma": "essential",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "event/noun",
+   "lemma": "event",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "evident/adj",
+   "lemma": "evident",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "exact/adj",
+   "lemma": "exact",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "example/noun",
+   "lemma": "example",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "exception/noun",
+   "lemma": "exception",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "exclaim/verb",
+   "lemma": "exclaim",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "exposure/noun",
+   "lemma": "exposure",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "faculty/noun",
+   "lemma": "faculty",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "fail/verb",
+   "lemma": "fail",
+   "pos": "verb",
+   "cefr": "A2"
+  },
+  {
+   "key": "fare/noun",
+   "lemma": "fare",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "fetch/verb",
+   "lemma": "fetch",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "figure/verb",
+   "lemma": "figure",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "finger/noun",
+   "lemma": "finger",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "firstly/adv",
+   "lemma": "firstly",
+   "pos": "adv",
+   "cefr": "A2"
+  },
+  {
+   "key": "flash/noun",
+   "lemma": "flash",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "flourish/verb",
+   "lemma": "flourish",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "fond/adj",
+   "lemma": "fond",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "formulation/noun",
+   "lemma": "formulation",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "fowl/noun",
+   "lemma": "fowl",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "front/adj",
+   "lemma": "front",
+   "pos": "adj",
+   "cefr": "A1"
+  },
+  {
+   "key": "frontier/noun",
+   "lemma": "frontier",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "frustrate/verb",
+   "lemma": "frustrate",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "fun/noun",
+   "lemma": "fun",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "gap/noun",
+   "lemma": "gap",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "gasoline/noun",
+   "lemma": "gasoline",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "gasp/noun",
+   "lemma": "gasp",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "gold/adj",
+   "lemma": "gold",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "good/noun",
+   "lemma": "good",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "grasp/noun",
+   "lemma": "grasp",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "grateful/adj",
+   "lemma": "grateful",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "grip/verb",
+   "lemma": "grip",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "ground/noun",
+   "lemma": "ground",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "guarantee/noun",
+   "lemma": "guarantee",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "hairy/adj",
+   "lemma": "hairy",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "helpless/adj",
+   "lemma": "helpless",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "hero/noun",
+   "lemma": "hero",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "hierarchy/noun",
+   "lemma": "hierarchy",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "highlight/verb",
+   "lemma": "highlight",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "hollow/adj",
+   "lemma": "hollow",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "hostility/noun",
+   "lemma": "hostility",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "ignore/verb",
+   "lemma": "ignore",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "illustration/noun",
+   "lemma": "illustration",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "imagery/noun",
+   "lemma": "imagery",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "implement/verb",
+   "lemma": "implement",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "import/verb",
+   "lemma": "import",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "incidental/adj",
+   "lemma": "incidental",
+   "pos": "adj",
+   "cefr": "C2"
+  },
+  {
+   "key": "indigenous/adj",
+   "lemma": "indigenous",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "inhabitant/noun",
+   "lemma": "inhabitant",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "initiative/noun",
+   "lemma": "initiative",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "innovation/noun",
+   "lemma": "innovation",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "insertion/noun",
+   "lemma": "insertion",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "instance/noun",
+   "lemma": "instance",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "instant/adj",
+   "lemma": "instant",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "intent/noun",
+   "lemma": "intent",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "interpret/verb",
+   "lemma": "interpret",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "irrespective/prep",
+   "lemma": "irrespective",
+   "pos": "prep",
+   "cefr": "C1"
+  },
+  {
+   "key": "jealousy/noun",
+   "lemma": "jealousy",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "jew/noun",
+   "lemma": "jew",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "killer/noun",
+   "lemma": "killer",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "largely/adv",
+   "lemma": "largely",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "laugh/noun",
+   "lemma": "laugh",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "leaflet/noun",
+   "lemma": "leaflet",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "leak/verb",
+   "lemma": "leak",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "leap/noun",
+   "lemma": "leap",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "lethal/adj",
+   "lemma": "lethal",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "license/verb",
+   "lemma": "license",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "lifestyle/noun",
+   "lemma": "lifestyle",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "lightly/adv",
+   "lemma": "lightly",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "like/verb",
+   "lemma": "like",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "loose/adj",
+   "lemma": "loose",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "loosely/adv",
+   "lemma": "loosely",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "loyal/adj",
+   "lemma": "loyal",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "lyric/noun",
+   "lemma": "lyric",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "majesty/noun",
+   "lemma": "majesty",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "mandatory/adj",
+   "lemma": "mandatory",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "matching/noun",
+   "lemma": "matching",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "maths/noun",
+   "lemma": "maths",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "mature/adj",
+   "lemma": "mature",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "me/pron",
+   "lemma": "me",
+   "pos": "pron",
+   "cefr": "A1"
+  },
+  {
+   "key": "meat/noun",
+   "lemma": "meat",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "medieval/adj",
+   "lemma": "medieval",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "merchant/noun",
+   "lemma": "merchant",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "merely/adv",
+   "lemma": "merely",
+   "pos": "adv",
+   "cefr": "C1"
+  },
+  {
+   "key": "might/modal",
+   "lemma": "might",
+   "pos": "modal",
+   "cefr": "A2"
+  },
+  {
+   "key": "moreover/adv",
+   "lemma": "moreover",
+   "pos": "adv",
+   "cefr": "B2"
+  },
+  {
+   "key": "much/det",
+   "lemma": "much",
+   "pos": "det",
+   "cefr": "A1"
+  },
+  {
+   "key": "mud/noun",
+   "lemma": "mud",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "multiply/verb",
+   "lemma": "multiply",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "my/excl",
+   "lemma": "my",
+   "pos": "excl",
+   "cefr": "A1"
+  },
+  {
+   "key": "natural/adj",
+   "lemma": "natural",
+   "pos": "adj",
+   "cefr": "A1"
+  },
+  {
+   "key": "novel/noun",
+   "lemma": "novel",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "nuclear/adj",
+   "lemma": "nuclear",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "occasion/noun",
+   "lemma": "occasion",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "offset/verb",
+   "lemma": "offset",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "offspring/noun",
+   "lemma": "offspring",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "often/adv",
+   "lemma": "often",
+   "pos": "adv",
+   "cefr": "A1"
+  },
+  {
+   "key": "orchestra/noun",
+   "lemma": "orchestra",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "organizer/noun",
+   "lemma": "organizer",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "outbreak/noun",
+   "lemma": "outbreak",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "outdoor/adj",
+   "lemma": "outdoor",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "outdoors/adv",
+   "lemma": "outdoors",
+   "pos": "adv",
+   "cefr": "B1"
+  },
+  {
+   "key": "outlook/noun",
+   "lemma": "outlook",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "outwards/adv",
+   "lemma": "outwards",
+   "pos": "adv",
+   "cefr": "C1"
+  },
+  {
+   "key": "oxygen/noun",
+   "lemma": "oxygen",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "pair/noun",
+   "lemma": "pair",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "pathway/noun",
+   "lemma": "pathway",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "pearl/noun",
+   "lemma": "pearl",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "penny/noun",
+   "lemma": "penny",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "permission/noun",
+   "lemma": "permission",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "perpetual/adj",
+   "lemma": "perpetual",
+   "pos": "adj",
+   "cefr": "C2"
+  },
+  {
+   "key": "personally/adv",
+   "lemma": "personally",
+   "pos": "adv",
+   "cefr": "B1"
+  },
+  {
+   "key": "perspective/noun",
+   "lemma": "perspective",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "phone/verb",
+   "lemma": "phone",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "photography/noun",
+   "lemma": "photography",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "pier/noun",
+   "lemma": "pier",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "pilot/noun",
+   "lemma": "pilot",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "pledge/noun",
+   "lemma": "pledge",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "polite/adj",
+   "lemma": "polite",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "pope/noun",
+   "lemma": "pope",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "portrait/noun",
+   "lemma": "portrait",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "pose/verb",
+   "lemma": "pose",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "possible/adj",
+   "lemma": "possible",
+   "pos": "adj",
+   "cefr": "A1"
+  },
+  {
+   "key": "practice/noun",
+   "lemma": "practice",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "precious/adj",
+   "lemma": "precious",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "preliminary/adj",
+   "lemma": "preliminary",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "premium/noun",
+   "lemma": "premium",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "pronunciation/noun",
+   "lemma": "pronunciation",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "prop/noun",
+   "lemma": "prop",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "proper/adj",
+   "lemma": "proper",
+   "pos": "adj",
+   "cefr": "B1"
+  },
+  {
+   "key": "prosecution/noun",
+   "lemma": "prosecution",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "provoke/verb",
+   "lemma": "provoke",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "quantum/noun",
+   "lemma": "quantum",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "quit/verb",
+   "lemma": "quit",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "racing/noun",
+   "lemma": "racing",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "radiation/noun",
+   "lemma": "radiation",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "rebuild/verb",
+   "lemma": "rebuild",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "referendum/noun",
+   "lemma": "referendum",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "reign/verb",
+   "lemma": "reign",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "reliance/noun",
+   "lemma": "reliance",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "reluctant/adj",
+   "lemma": "reluctant",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "reluctantly/adv",
+   "lemma": "reluctantly",
+   "pos": "adv",
+   "cefr": "C1"
+  },
+  {
+   "key": "remind/verb",
+   "lemma": "remind",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "renewal/noun",
+   "lemma": "renewal",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "reporter/noun",
+   "lemma": "reporter",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "resident/adj",
+   "lemma": "resident",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "restrain/verb",
+   "lemma": "restrain",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "resume/verb",
+   "lemma": "resume",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "retirement/noun",
+   "lemma": "retirement",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "return/noun",
+   "lemma": "return",
+   "pos": "noun",
+   "cefr": "A1"
+  },
+  {
+   "key": "reverberate/verb",
+   "lemma": "reverberate",
+   "pos": "verb",
+   "cefr": "C2"
+  },
+  {
+   "key": "round/adv",
+   "lemma": "round",
+   "pos": "adv",
+   "cefr": "A2"
+  },
+  {
+   "key": "ruin/verb",
+   "lemma": "ruin",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "rural/adj",
+   "lemma": "rural",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "sack/verb",
+   "lemma": "sack",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "season/noun",
+   "lemma": "season",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "sensitive/adj",
+   "lemma": "sensitive",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "settler/noun",
+   "lemma": "settler",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "similarly/adv",
+   "lemma": "similarly",
+   "pos": "adv",
+   "cefr": "B1"
+  },
+  {
+   "key": "since/conj",
+   "lemma": "since",
+   "pos": "conj",
+   "cefr": "A2"
+  },
+  {
+   "key": "since/prep",
+   "lemma": "since",
+   "pos": "prep",
+   "cefr": "A2"
+  },
+  {
+   "key": "singular/adj",
+   "lemma": "singular",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "skipper/noun",
+   "lemma": "skipper",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "slash/verb",
+   "lemma": "slash",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "smile/verb",
+   "lemma": "smile",
+   "pos": "verb",
+   "cefr": "A2"
+  },
+  {
+   "key": "soap/noun",
+   "lemma": "soap",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "spectacular/adj",
+   "lemma": "spectacular",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "spell/noun",
+   "lemma": "spell",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "spell/verb",
+   "lemma": "spell",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "splendid/adj",
+   "lemma": "splendid",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "sponge/noun",
+   "lemma": "sponge",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "squeeze/noun",
+   "lemma": "squeeze",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "stab/verb",
+   "lemma": "stab",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "stem/verb",
+   "lemma": "stem",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "stocking/noun",
+   "lemma": "stocking",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "stranger/noun",
+   "lemma": "stranger",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "stream/noun",
+   "lemma": "stream",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "study/verb",
+   "lemma": "study",
+   "pos": "verb",
+   "cefr": "A1"
+  },
+  {
+   "key": "subscriber/noun",
+   "lemma": "subscriber",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "subsequent/adj",
+   "lemma": "subsequent",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "sunlight/noun",
+   "lemma": "sunlight",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "swallow/noun",
+   "lemma": "swallow",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "sweat/verb",
+   "lemma": "sweat",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "tackle/verb",
+   "lemma": "tackle",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "tap/verb",
+   "lemma": "tap",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "telescope/noun",
+   "lemma": "telescope",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "tense/adj",
+   "lemma": "tense",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "terrace/noun",
+   "lemma": "terrace",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "terrible/adj",
+   "lemma": "terrible",
+   "pos": "adj",
+   "cefr": "A1"
+  },
+  {
+   "key": "than/conj",
+   "lemma": "than",
+   "pos": "conj",
+   "cefr": "A1"
+  },
+  {
+   "key": "thereupon/adv",
+   "lemma": "thereupon",
+   "pos": "adv",
+   "cefr": "C2"
+  },
+  {
+   "key": "thinking/noun",
+   "lemma": "thinking",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "threshold/noun",
+   "lemma": "threshold",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "through/adv",
+   "lemma": "through",
+   "pos": "adv",
+   "cefr": "A1"
+  },
+  {
+   "key": "tire/noun",
+   "lemma": "tire",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "toss/verb",
+   "lemma": "toss",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "tractor/noun",
+   "lemma": "tractor",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "trainer/noun",
+   "lemma": "trainer",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "transact/verb",
+   "lemma": "transact",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "translate/verb",
+   "lemma": "translate",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "trolley/noun",
+   "lemma": "trolley",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "true/adj",
+   "lemma": "true",
+   "pos": "adj",
+   "cefr": "A1"
+  },
+  {
+   "key": "tune/noun",
+   "lemma": "tune",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "uncertainty/noun",
+   "lemma": "uncertainty",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "underlying/adj",
+   "lemma": "underlying",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "underwear/noun",
+   "lemma": "underwear",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "unduly/adv",
+   "lemma": "unduly",
+   "pos": "adv",
+   "cefr": "C2"
+  },
+  {
+   "key": "uniform/noun",
+   "lemma": "uniform",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "unite/verb",
+   "lemma": "unite",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "universe/noun",
+   "lemma": "universe",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "until/prep",
+   "lemma": "until",
+   "pos": "prep",
+   "cefr": "A1"
+  },
+  {
+   "key": "unveil/verb",
+   "lemma": "unveil",
+   "pos": "verb",
+   "cefr": "C1"
+  },
+  {
+   "key": "utter/adj",
+   "lemma": "utter",
+   "pos": "adj",
+   "cefr": "C1"
+  },
+  {
+   "key": "vast/adj",
+   "lemma": "vast",
+   "pos": "adj",
+   "cefr": "B2"
+  },
+  {
+   "key": "violin/noun",
+   "lemma": "violin",
+   "pos": "noun",
+   "cefr": "A2"
+  },
+  {
+   "key": "weigh/verb",
+   "lemma": "weigh",
+   "pos": "verb",
+   "cefr": "B1"
+  },
+  {
+   "key": "well/adv",
+   "lemma": "well",
+   "pos": "adv",
+   "cefr": "A1"
+  },
+  {
+   "key": "when/adv",
+   "lemma": "when",
+   "pos": "adv",
+   "cefr": "A1"
+  },
+  {
+   "key": "whilst/conj",
+   "lemma": "whilst",
+   "pos": "conj",
+   "cefr": "C1"
+  },
+  {
+   "key": "whisper/verb",
+   "lemma": "whisper",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "whole/noun",
+   "lemma": "whole",
+   "pos": "noun",
+   "cefr": "B1"
+  },
+  {
+   "key": "width/noun",
+   "lemma": "width",
+   "pos": "noun",
+   "cefr": "C1"
+  },
+  {
+   "key": "wisdom/noun",
+   "lemma": "wisdom",
+   "pos": "noun",
+   "cefr": "B2"
+  },
+  {
+   "key": "wooden/adj",
+   "lemma": "wooden",
+   "pos": "adj",
+   "cefr": "A2"
+  },
+  {
+   "key": "wound/verb",
+   "lemma": "wound",
+   "pos": "verb",
+   "cefr": "B2"
+  },
+  {
+   "key": "yet/conj",
+   "lemma": "yet",
+   "pos": "conj",
+   "cefr": "B2"
+  },
+  {
+   "key": "your/pron",
+   "lemma": "your",
+   "pos": "pron",
+   "cefr": "A1"
+  }
+ ],
+ "input_hash": "23f7e33117e97e12bdd90814eee0f8d83692b094bb86bcd258f249041ed5001b",
+ "model": "gemini-3.8-flash",
+ "created_at": "2026-09-08T09:17:55.073218+00:00",
+ "imported_at": "2026-09-08T09:23:07.410722+00:00"
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "accurate",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "accurate",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Correct in all details; exact and free from error.",
+  "explanation_ar": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+  "senses": [
+   {
+    "sense_id": "accurate-adj-1",
+    "definition_en": "Correct in all details; exact and free from error.",
+    "definition_ar": "دقيق وخالٍ من الأخطاء ومطابق للحقيقة.",
+    "cefr": "B2"
+   }
+  ],
+  "examples": [
+   "Is this information accurate?",
+   "Please give an accurate description.",
+   "The figures are not completely accurate."
+  ],
+  "translations": [
+   "دقيق",
+   "مضبوط"
+  ],
+  "relations": {
+   "synonyms": [
+    "precise",
+    "correct",
+    "exact"
+   ],
+   "antonyms": [
+    "inaccurate",
+    "wrong"
+   ],
+   "collocations": [
+    "accurate description",
+    "accurate record",
+    "highly accurate"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح.",
+  "phonetic_us": "ˈæk.jɚ.ət",
+  "phonetic_uk": "ˈæk.jə.rət",
+  "syllables": "ac•cu•rate",
+  "semantic_tags": [
+   "#Precision",
+   "#Truth",
+   "#Science"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Correct in all details; exact and free from error.",
+  "explanation_ar": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+  "examples": [
+   "Is this information accurate?",
+   "Please give an accurate description.",
+   "The figures are not completely accurate."
+  ],
+  "translations": {
+   "arabic_ar": "دقيق مضبوط"
+  },
+  "synonyms": [
+   "precise",
+   "correct",
+   "exact"
+  ],
+  "antonyms": [
+   "inaccurate",
+   "wrong"
+  ],
+  "collocations": [
+   "accurate description",
+   "accurate record",
+   "highly accurate"
+  ],
+  "mnemonic_ar": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح."
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3916",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3916",
+  "lemma": "trace",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3916,
+  "lemma": "trace",
+  "pos": "verb",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "treɪs",
+  "phonetic_uk": null,
+  "phonetic_ar": "ترَيس",
+  "definition_en": "To find or follow the origin, development, or location of someone or something through investigation.",
+  "explanation_ar": "يتتبع مسار شيء أو أصله لمعرفة مكانه أو كيفية تطوره عبر فحص الأدلة.",
+  "examples": [
+   {
+    "example_text": "Detectives are trying to trace the phone call made just before the incident.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Historians can trace the roots of this tradition back to ancient Rome.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Children often trace outlines of animals onto thin paper to practice drawing.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"track\" اي مسار فكلمة \"trace\" تعني تتبع ذلك المسار للوصول الى المصدر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To discover or follow the history, origin, or path of something.",
+    "short_def_en": "track or find origin",
+    "definition_ar": "يتتبع اصل او مسار شيء ما",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "investigation",
+     "history",
+     "tracking"
+    ],
+    "usage_note": "Frequently used with prepositions like 'back to' or 'to'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To copy a drawing or shape by drawing over its lines on transparent paper.",
+    "short_def_en": "copy lines or outlines",
+    "definition_ar": "يشف او يرسم فوق الخطوط",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "art",
+     "drawing",
+     "design"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "trace the source",
+   "trace the origins",
+   "trace back to",
+   "trace someone down",
+   "trace the outline"
+  ],
+  "synonyms": [
+   "track",
+   "follow",
+   "pursue",
+   "outline"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "investigation",
+    "footstep",
+    "evidence",
+    "clue"
+   ],
+   "ar": [
+    "تحقيق",
+    "اثر قدم",
+    "دليل",
+    "خيط دليل"
+   ]
+  },
+  "word_family": {
+   "noun": "trace",
+   "verb": "trace",
+   "adj": "traceable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يتتبع / يقتفي أثر / يشف",
+   "french_fr": "tracer",
+   "german_de": "zurückverfolgen",
+   "spanish_es": "rastrear",
+   "chinese_zh": "追踪 (zhuīzōng)",
+   "russian_ru": "прослеживать",
+   "portuguese_pt": "rastrear",
+   "japanese_ja": "追跡する (Tsuiseki suru)",
+   "italian_it": "rintracciare",
+   "turkish_tr": "izini sürmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "8b66dfbe86f3404e08380d221af5579aee005ead2078ede488b4f5e33f7c5830",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

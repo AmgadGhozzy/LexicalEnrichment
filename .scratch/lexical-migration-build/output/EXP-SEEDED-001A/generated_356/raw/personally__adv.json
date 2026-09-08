@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "personally",
+  "pos": "adv",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "personally",
+  "pos": "adv",
+  "cefr": "B1",
+  "definition_en": "Used to give your own opinion; or doing something yourself rather than asking someone else.",
+  "explanation_ar": "لما تعمل حاجة بنفسك مش حد تاني، أو لما تقول رأيك الخاص.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Used to introduce your personal viewpoint or opinion",
+    "definition_ar": "للتعبير عن الرأي الخاص (عن نفسي أو من وجهة نظري)",
+    "examples": [
+     "Personally, I prefer to work in the morning."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "By oneself directly, rather than through an intermediary or representative",
+    "definition_ar": "بنفسه أو بشكل مباشر",
+    "examples": [
+     "The manager thanked us personally."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "In a personal manner, often interpreting remarks as an offense or direct criticism",
+    "definition_ar": "بشكل شخصي يمس المشاعر أو الكرامة",
+    "examples": [
+     "You shouldn't take his comments personally."
+    ]
+   }
+  ],
+  "examples": [
+   "The manager thanked us personally.",
+   "You shouldn't take his comments personally.",
+   "I am personally responsible for this error."
+  ],
+  "translations": [
+   "شخصياً",
+   "عن نفسي",
+   "بنفسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "individually",
+    "privately",
+    "directly"
+   ],
+   "antonyms": [
+    "impersonally",
+    "generally",
+    "publicly"
+   ],
+   "collocations": [
+    "take it personally",
+    "personally responsible",
+    "known personally"
+   ]
+  },
+  "mnemonic": "جاية من 'Person' 'شخص'.. يعني حاجة بتعملها 'شخصياً'",
+  "phonetic_us": "ˈpɜɹsənəli",
+  "phonetic_uk": "ˈpɜːsənəli",
+  "syllables": "per•son•al•ly",
+  "semantic_tags": [
+   "#Opinion",
+   "#Self",
+   "#Directly"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used to give your own opinion; or doing something yourself rather than asking someone else.",
+  "explanation_ar": "لما تعمل حاجة بنفسك مش حد تاني، أو لما تقول رأيك الخاص.",
+  "examples": [
+   "The manager thanked us personally.",
+   "You shouldn't take his comments personally.",
+   "I am personally responsible for this error."
+  ],
+  "translations": {
+   "arabic_ar": "شخصياً عن نفسي بنفسي"
+  },
+  "synonyms": [
+   "individually",
+   "privately",
+   "directly"
+  ],
+  "antonyms": [
+   "impersonally",
+   "generally",
+   "publicly"
+  ],
+  "collocations": [
+   "take it personally",
+   "personally responsible",
+   "known personally"
+  ],
+  "mnemonic_ar": "جاية من 'Person' 'شخص'.. يعني حاجة بتعملها 'شخصياً'"
+ }
+}

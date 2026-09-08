@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "fun",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fun",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Enjoyment, amusement, or lighthearted pleasure.",
+  "explanation_ar": "المرح والمتعة والشعور بالسعادة والانبساط.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Enjoyment, amusement, or lighthearted pleasure.",
+    "definition_ar": "المرح والمتعة والتسلية.",
+    "examples": [
+     "We had fun at the park.",
+     "Swimming is great fun.",
+     "It's no fun waiting for the bus in the rain."
+    ]
+   }
+  ],
+  "examples": [
+   "We had fun at the park.",
+   "Swimming is great fun.",
+   "It's no fun waiting for the bus in the rain."
+  ],
+  "translations": [
+   "مَرَح",
+   "مُتْعَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "enjoyment",
+    "pleasure",
+    "amusement"
+   ],
+   "antonyms": [
+    "boredom",
+    "misery"
+   ],
+   "collocations": [
+    "have fun",
+    "great fun",
+    "make fun of"
+   ]
+  },
+  "mnemonic": "كلمة 'Fun' قريبة من كلمة 'فَن' بالعربي، والفنون دائماً مصدر للمتعة والـ Fun.",
+  "phonetic_us": "fʌn",
+  "phonetic_uk": "fʌn",
+  "syllables": "fun",
+  "semantic_tags": [
+   "leisure",
+   "emotion",
+   "happiness"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Enjoyment, amusement, or lighthearted pleasure.",
+  "explanation_ar": "المرح والمتعة والشعور بالسعادة والانبساط.",
+  "examples": [
+   "We had fun at the park.",
+   "Swimming is great fun.",
+   "It's no fun waiting for the bus in the rain."
+  ],
+  "translations": {
+   "arabic_ar": "مَرَح مُتْعَة"
+  },
+  "synonyms": [
+   "enjoyment",
+   "pleasure",
+   "amusement"
+  ],
+  "antonyms": [
+   "boredom",
+   "misery"
+  ],
+  "collocations": [
+   "have fun",
+   "great fun",
+   "make fun of"
+  ],
+  "mnemonic_ar": "كلمة 'Fun' قريبة من كلمة 'فَن' بالعربي، والفنون دائماً مصدر للمتعة والـ Fun."
+ }
+}

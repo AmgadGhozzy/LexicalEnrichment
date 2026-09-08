@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "sponge",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "sponge",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A soft, porous material or an object made of it, used for washing, cleaning, or absorbing liquid.",
+  "explanation_ar": "الإسفنجة التي تُستخدم في التنظيف أو الاستحمام لامتصاص الماء والسوائل.",
+  "senses": [
+   {
+    "sense_id": "sponge_noun_1",
+    "definition_en": "A piece of soft, porous material used for washing, cleaning, or absorbing liquids.",
+    "definition_ar": "قطعة من مادة مسامية ناعمة تُستخدم في الغسيل أو التنظيف أو امتصاص السوائل.",
+    "examples": [
+     "I use a sponge to wash the car.",
+     "The sponge is full of water.",
+     "She wiped the table with a damp sponge."
+    ]
+   }
+  ],
+  "examples": [
+   "I use a sponge to wash the car.",
+   "The sponge is full of water.",
+   "She wiped the table with a damp sponge."
+  ],
+  "translations": [
+   "إسفنجة",
+   "إسفنج"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "damp sponge",
+    "wet sponge",
+    "kitchen sponge",
+    "bath sponge"
+   ]
+  },
+  "mnemonic": "تذكر شخصية 'سبونج بوب' (SpongeBob) الكرتونية، فهو في الأصل عبارة عن إسفنجة بحرية.",
+  "phonetic_us": "/spʌndʒ/",
+  "phonetic_uk": "/spʌndʒ/",
+  "syllables": "sponge",
+  "semantic_tags": [
+   "cleaning",
+   "household",
+   "materials"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A soft, porous material or an object made of it, used for washing, cleaning, or absorbing liquid.",
+  "explanation_ar": "الإسفنجة التي تُستخدم في التنظيف أو الاستحمام لامتصاص الماء والسوائل.",
+  "examples": [
+   "I use a sponge to wash the car.",
+   "The sponge is full of water.",
+   "She wiped the table with a damp sponge."
+  ],
+  "translations": {
+   "arabic_ar": "إسفنجة إسفنج"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "damp sponge",
+   "wet sponge",
+   "kitchen sponge",
+   "bath sponge"
+  ],
+  "mnemonic_ar": "تذكر شخصية 'سبونج بوب' (SpongeBob) الكرتونية، فهو في الأصل عبارة عن إسفنجة بحرية."
+ }
+}

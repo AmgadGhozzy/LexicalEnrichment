@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "loosely",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "loosely",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a way that is not firm, tight, or strictly exact.",
+  "explanation_ar": "لما تعمل حاجة من غير دقة أوي، أو تربط حاجة بس مش جامد، يعني سايبة شوية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "In a way that is not firmly or tightly fixed, held, or fitted.",
+    "definition_ar": "بشكل غير محكم أو فضفاض",
+    "examples": [
+     "The shirt fits loosely."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "In a way that is not strictly organized, exact, or closely controlled.",
+    "definition_ar": "بشكل غير دقيق أو تقريبياً وبشكل حر",
+    "examples": [
+     "The movie is loosely based on a true story.",
+     "The organizations are loosely connected."
+    ]
+   }
+  ],
+  "examples": [
+   "The shirt fits loosely.",
+   "The movie is loosely based on a true story.",
+   "The organizations are loosely connected."
+  ],
+  "translations": [
+   "بشكل فضفاض",
+   "بشكل غير محكم",
+   "تقريبياً"
+  ],
+  "relations": {
+   "synonyms": [
+    "freely",
+    "slackly",
+    "vaguely"
+   ],
+   "antonyms": [
+    "tightly",
+    "firmly",
+    "strictly"
+   ],
+   "collocations": [
+    "loosely based on",
+    "loosely connected",
+    "hold loosely"
+   ]
+  },
+  "mnemonic": "جاية من 'Loose' 'واسع'.. لما تربط الحبل 'Loosely' بيبقى مهوي ومش ماسك جامد.",
+  "phonetic_us": "ˈluːsli",
+  "phonetic_uk": "ˈluːsli",
+  "syllables": "loose•ly",
+  "semantic_tags": [
+   "#Manner",
+   "#Accuracy",
+   "#Clothing"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a way that is not firm, tight, or strictly exact.",
+  "explanation_ar": "لما تعمل حاجة من غير دقة أوي، أو تربط حاجة بس مش جامد، يعني سايبة شوية.",
+  "examples": [
+   "The shirt fits loosely.",
+   "The movie is loosely based on a true story.",
+   "The organizations are loosely connected."
+  ],
+  "translations": {
+   "arabic_ar": "بشكل فضفاض بشكل غير محكم تقريبياً"
+  },
+  "synonyms": [
+   "freely",
+   "slackly",
+   "vaguely"
+  ],
+  "antonyms": [
+   "tightly",
+   "firmly",
+   "strictly"
+  ],
+  "collocations": [
+   "loosely based on",
+   "loosely connected",
+   "hold loosely"
+  ],
+  "mnemonic_ar": "جاية من 'Loose' 'واسع'.. لما تربط الحبل 'Loosely' بيبقى مهوي ومش ماسك جامد."
+ }
+}

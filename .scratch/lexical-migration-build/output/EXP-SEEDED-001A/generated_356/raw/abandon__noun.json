@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "abandon",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "abandon",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Complete lack of inhibition or restraint.",
+  "explanation_ar": "الانطلاق بحرية تامة من غير أي قيود أو كسوف.. زي لما ترقص بجنون.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Complete lack of inhibition or restraint.",
+    "explanation_ar": "الانطلاق بحرية تامة والتحرر من أي قيود أو تحفظ.",
+    "examples": [
+     "He drove with reckless abandon.",
+     "She danced with total abandon.",
+     "They spent money with wild abandon."
+    ]
+   }
+  ],
+  "examples": [
+   "He drove with reckless abandon.",
+   "She danced with total abandon.",
+   "They spent money with wild abandon."
+  ],
+  "translations": [
+   "انطلاق",
+   "تحرر",
+   "اندفاع"
+  ],
+  "relations": {
+   "synonyms": [
+    "unrestraint",
+    "recklessness",
+    "impulse"
+   ],
+   "antonyms": [
+    "restraint",
+    "control",
+    "caution"
+   ],
+   "collocations": [
+    "reckless abandon",
+    "wild abandon",
+    "total abandon"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Band' 'فرقة موسيقية'.. لما تسمع الـ 'Band' بترقص بـ 'Abandon' 'انطلاق وحرية'.",
+  "phonetic_us": "əˈbændən",
+  "phonetic_uk": "əˈbændən",
+  "syllables": "a·ban·don",
+  "semantic_tags": [
+   "#Freedom",
+   "#Emotion",
+   "#Behavior"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Complete lack of inhibition or restraint.",
+  "explanation_ar": "الانطلاق بحرية تامة من غير أي قيود أو كسوف.. زي لما ترقص بجنون.",
+  "examples": [
+   "He drove with reckless abandon.",
+   "She danced with total abandon.",
+   "They spent money with wild abandon."
+  ],
+  "translations": {
+   "arabic_ar": "انطلاق تحرر اندفاع"
+  },
+  "synonyms": [
+   "unrestraint",
+   "recklessness",
+   "impulse"
+  ],
+  "antonyms": [
+   "restraint",
+   "control",
+   "caution"
+  ],
+  "collocations": [
+   "reckless abandon",
+   "wild abandon",
+   "total abandon"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Band' 'فرقة موسيقية'.. لما تسمع الـ 'Band' بترقص بـ 'Abandon' 'انطلاق وحرية'."
+ }
+}

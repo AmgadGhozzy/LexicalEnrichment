@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "radiation",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "radiation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+  "explanation_ar": "الإشعاع. طاقة بتتحرك في الجو، ممكن تكون مفيدة زي أشعة الشمس، أو خطيرة زي الإشعاع النووي.",
+  "senses": [
+   {
+    "definition_en": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+    "explanation_ar": "الإشعاع: طاقة تنتقل في شكل موجات أو جسيمات كالحرارة والضوء والطاقة النووية."
+   }
+  ],
+  "examples": [
+   "The sun gives off radiation.",
+   "They measured the levels of radiation in the area.",
+   "The ozone layer protects us from ultraviolet radiation."
+  ],
+  "translations": [
+   "إشعاع"
+  ],
+  "relations": {
+   "synonyms": [
+    "emission",
+    "radioactivity"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "solar radiation",
+    "nuclear radiation",
+    "radiation therapy",
+    "radiation levels"
+   ]
+  },
+  "mnemonic": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' 'الإشعاع الكهرومغناطيسي'.",
+  "phonetic_us": "ˌreɪdiˈeɪʃən",
+  "phonetic_uk": null,
+  "syllables": "ra•di•a•tion",
+  "semantic_tags": [
+   "#Physics",
+   "#Nuclear",
+   "#Energy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+  "explanation_ar": "الإشعاع. طاقة بتتحرك في الجو، ممكن تكون مفيدة زي أشعة الشمس، أو خطيرة زي الإشعاع النووي.",
+  "examples": [
+   "The sun gives off radiation.",
+   "They measured the levels of radiation in the area.",
+   "The ozone layer protects us from ultraviolet radiation."
+  ],
+  "translations": {
+   "arabic_ar": "إشعاع"
+  },
+  "synonyms": [
+   "emission",
+   "radioactivity"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "solar radiation",
+   "nuclear radiation",
+   "radiation therapy",
+   "radiation levels"
+  ],
+  "mnemonic_ar": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' 'الإشعاع الكهرومغناطيسي'."
+ }
+}

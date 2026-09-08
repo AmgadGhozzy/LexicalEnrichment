@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "perpetual",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "perpetual",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Never ending or changing; occurring repeatedly so as to seem continuous.",
+  "explanation_ar": "حاجة مستمرة على طول ومش بتخلص ولا بتقف، أو بتتكرر كتير جداً لدرجة إنها كأنها دايمة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Continuing forever or indefinitely without interruption.",
+    "explanation_ar": "مستمر دائماً دون انقطاع أو تغيير أبدي.",
+    "examples": [
+     "The mountains are covered in perpetual snow.",
+     "They lived in perpetual fear of being discovered."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Occurring repeatedly and frequently, often to an annoying degree.",
+    "explanation_ar": "متكرر باستمرار لدرجة أنه يبدو بلا نهاية.",
+    "examples": [
+     "She was tired of their perpetual arguments."
+    ]
+   }
+  ],
+  "examples": [
+   "The mountains are covered in perpetual snow.",
+   "They lived in perpetual fear of being discovered.",
+   "She was tired of their perpetual arguments."
+  ],
+  "translations": [
+   "دائم",
+   "مستمر",
+   "أبدي",
+   "لا ينقطع"
+  ],
+  "relations": {
+   "synonyms": [
+    "eternal",
+    "everlasting",
+    "continuous",
+    "endless"
+   ],
+   "antonyms": [
+    "temporary",
+    "transient",
+    "intermittent"
+   ],
+   "collocations": [
+    "perpetual motion",
+    "perpetual fear",
+    "perpetual struggle",
+    "perpetual darkness"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Pet' (حيوان أليف): الـ 'Pet' محتاج رعاية 'perpetual' (دايمة ومستمرة).",
+  "phonetic_us": "pərˈpetʃuəl",
+  "phonetic_uk": "pəˈpetʃuəl",
+  "syllables": "per•pet•u•al",
+  "semantic_tags": [
+   "time",
+   "eternity",
+   "continuity",
+   "duration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Never ending or changing; occurring repeatedly so as to seem continuous.",
+  "explanation_ar": "حاجة مستمرة على طول ومش بتخلص ولا بتقف، أو بتتكرر كتير جداً لدرجة إنها كأنها دايمة.",
+  "examples": [
+   "The mountains are covered in perpetual snow.",
+   "They lived in perpetual fear of being discovered.",
+   "She was tired of their perpetual arguments."
+  ],
+  "translations": {
+   "arabic_ar": "دائم مستمر أبدي لا ينقطع"
+  },
+  "synonyms": [
+   "eternal",
+   "everlasting",
+   "continuous",
+   "endless"
+  ],
+  "antonyms": [
+   "temporary",
+   "transient",
+   "intermittent"
+  ],
+  "collocations": [
+   "perpetual motion",
+   "perpetual fear",
+   "perpetual struggle",
+   "perpetual darkness"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Pet' (حيوان أليف): الـ 'Pet' محتاج رعاية 'perpetual' (دايمة ومستمرة)."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "embryo",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "embryo",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An unborn offspring in the process of development; an early stage of something.",
+  "explanation_ar": "الجنين في مراحله الأولى خالص قبل ما يتكون شكله الكامل، أو بداية أي فكرة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An animal or human in the earliest stages of development before birth or hatching.",
+    "definition_ar": "كائن حي (إنسان أو حيوان) في مراحله الأولى من التكوين داخل الرحم أو البيضة.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "An early, rudimentary stage of development (frequently used in the phrase 'in embryo').",
+    "definition_ar": "مرحلة مبكرة أو جنينية لشيء ما قيد التكوين أو التطوير.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The doctor checked the health of the embryo.",
+   "Human embryo research is a controversial topic.",
+   "The project is still in embryo."
+  ],
+  "translations": [
+   "جنين",
+   "مضغة",
+   "طور جنيني / بداية"
+  ],
+  "relations": {
+   "synonyms": [
+    "fertilized egg",
+    "germ",
+    "rudiment"
+   ],
+   "antonyms": [
+    "adult"
+   ],
+   "collocations": [
+    "human embryo",
+    "embryo transfer",
+    "in embryo",
+    "frozen embryo"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈɛmbrioʊ",
+  "phonetic_uk": "ˈɛmbriəʊ",
+  "syllables": "em•bryo",
+  "semantic_tags": [
+   "#Biology",
+   "#Life",
+   "#Development",
+   "#Start"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "An unborn offspring in the process of development; an early stage of something.",
+  "explanation_ar": "الجنين في مراحله الأولى خالص قبل ما يتكون شكله الكامل، أو بداية أي فكرة.",
+  "examples": [
+   "The doctor checked the health of the embryo.",
+   "Human embryo research is a controversial topic.",
+   "The project is still in embryo."
+  ],
+  "translations": {
+   "arabic_ar": "جنين مضغة طور جنيني / بداية"
+  },
+  "synonyms": [
+   "fertilized egg",
+   "germ",
+   "rudiment"
+  ],
+  "antonyms": [
+   "adult"
+  ],
+  "collocations": [
+   "human embryo",
+   "embryo transfer",
+   "in embryo",
+   "frozen embryo"
+  ],
+  "mnemonic_ar": null
+ }
+}

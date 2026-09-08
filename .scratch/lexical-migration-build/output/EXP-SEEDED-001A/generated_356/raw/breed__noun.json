@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "breed",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "breed",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A specific type of animal or plant within a species, or a particular kind of person or thing.",
+  "explanation_ar": "سُلالة معينة من الحيوانات تميزها صفات مشتركة، أو نوع وطراز خاص من الأشخاص.",
+  "senses": [
+   {
+    "definition_en": "A particular type or strain of an animal or plant developed through controlled breeding.",
+    "definition_ar": "سلالة معينة من الحيوانات أو النباتات.",
+    "pos": "noun"
+   },
+   {
+    "definition_en": "A distinct kind, sort, or type of person or thing.",
+    "definition_ar": "طراز أو صنف معين من الأشخاص أو الأشياء.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "What breed is your dog?",
+   "Farmers choose the best breed for milk production.",
+   "He represents a dying breed of old-school journalists."
+  ],
+  "translations": [
+   "سلالة",
+   "طراز",
+   "نوع"
+  ],
+  "relations": {
+   "synonyms": [
+    "variety",
+    "stock",
+    "strain",
+    "type"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "rare breed",
+    "dog breed",
+    "breed of cattle",
+    "dying breed"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Brother'.. الـ 'Breed' هم الأخوة من نفس الفصيلة والنوع.",
+  "phonetic_us": "bɹiːd",
+  "phonetic_uk": "briːd",
+  "syllables": [
+   "breed"
+  ],
+  "semantic_tags": [
+   "#Animals",
+   "#Genetics",
+   "#Type",
+   "#Nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A specific type of animal or plant within a species, or a particular kind of person or thing.",
+  "explanation_ar": "سُلالة معينة من الحيوانات تميزها صفات مشتركة، أو نوع وطراز خاص من الأشخاص.",
+  "examples": [
+   "What breed is your dog?",
+   "Farmers choose the best breed for milk production.",
+   "He represents a dying breed of old-school journalists."
+  ],
+  "translations": {
+   "arabic_ar": "سلالة طراز نوع"
+  },
+  "synonyms": [
+   "variety",
+   "stock",
+   "strain",
+   "type"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "rare breed",
+   "dog breed",
+   "breed of cattle",
+   "dying breed"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Brother'.. الـ 'Breed' هم الأخوة من نفس الفصيلة والنوع."
+ }
+}

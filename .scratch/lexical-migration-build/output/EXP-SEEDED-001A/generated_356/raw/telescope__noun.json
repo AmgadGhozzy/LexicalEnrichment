@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "telescope",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "telescope",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An optical instrument used to make distant objects appear nearer.",
+  "explanation_ar": "جهاز بيقرب البعيد، بنستخدمه عشان نشوف النجوم والكواكب في السما.",
+  "senses": [
+   {
+    "definition_en": "An optical instrument used to make distant objects appear nearer.",
+    "explanation_ar": "جهاز بيقرب البعيد، بنستخدمه عشان نشوف النجوم والكواكب في السما.",
+    "examples": [
+     "We looked at the stars through a telescope.",
+     "He has a small telescope in his room.",
+     "The invention of the telescope changed our view of the universe."
+    ]
+   }
+  ],
+  "examples": [
+   "We looked at the stars through a telescope.",
+   "He has a small telescope in his room.",
+   "The invention of the telescope changed our view of the universe."
+  ],
+  "translations": [
+   "تلسكوب",
+   "منظار فلكي"
+  ],
+  "relations": {
+   "synonyms": [
+    "spyglass"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "space telescope",
+    "look through a telescope",
+    "powerful telescope",
+    "astronomical telescope"
+   ]
+  },
+  "mnemonic": "'Tele' يعني بعيد 'زي Telephone'، و 'Scope' يعني رؤية.. يبقى جهاز رؤية البعيد.",
+  "phonetic_us": "ˈtɛl.əˌskoʊp",
+  "phonetic_uk": "ˈtel.ɪ.skəʊp",
+  "syllables": "tel•e•scope",
+  "semantic_tags": [
+   "#Astronomy",
+   "#Space",
+   "#Science",
+   "#Optics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An optical instrument used to make distant objects appear nearer.",
+  "explanation_ar": "جهاز بيقرب البعيد، بنستخدمه عشان نشوف النجوم والكواكب في السما.",
+  "examples": [
+   "We looked at the stars through a telescope.",
+   "He has a small telescope in his room.",
+   "The invention of the telescope changed our view of the universe."
+  ],
+  "translations": {
+   "arabic_ar": "تلسكوب منظار فلكي"
+  },
+  "synonyms": [
+   "spyglass"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "space telescope",
+   "look through a telescope",
+   "powerful telescope",
+   "astronomical telescope"
+  ],
+  "mnemonic_ar": "'Tele' يعني بعيد 'زي Telephone'، و 'Scope' يعني رؤية.. يبقى جهاز رؤية البعيد."
+ }
+}

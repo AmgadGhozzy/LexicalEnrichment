@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7006",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7006",
+  "lemma": "unveil",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7006,
+  "lemma": "unveil",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ʌnˈveɪl",
+  "phonetic_uk": null,
+  "phonetic_ar": "أنْڤَيْل",
+  "definition_en": "To show or introduce something new to the public for the first time.",
+  "explanation_ar": "يكشف عن شيء جديد أو يعلن عنه رسميًا لأول مرة أمام الجمهور، مثل خطة، منتج، أو نصب تذكاري.",
+  "examples": [
+   {
+    "example_text": "The company plans to unveil its latest smartphone at the annual tech conference.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Government officials will unveil a new economic policy next week.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The mayor arrived to unveil the bronze statue in the town square.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"veil\" التي تعني حجاب أو غطاء وإضافة \"un\" تفيد العكس فالمعنى إزالة الغطاء وإظهار الشيء للجميع.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To publicly show, announce, or introduce a new product, plan, or secret for the first time.",
+    "short_def_en": "introduce or announce publicly",
+    "definition_ar": "يعلن أو يكشف رسميا عن خطة أو منتج جديد للجمهور لأول مرة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "business",
+     "announcement",
+     "politics"
+    ],
+    "usage_note": "Often used in business, politics, and media contexts when launching something.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To remove a cover or cloth from an object, such as a statue, during a ceremony.",
+    "short_def_en": "remove a covering from",
+    "definition_ar": "يزيح الستار أو الغطاء عن تمثال أو لوحة في مناسبة رسمية.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "ceremony",
+     "art",
+     "physical action"
+    ],
+    "usage_note": "Refers to the literal physical act of uncovering.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "unveil a plan",
+   "unveil a new product",
+   "unveil a strategy",
+   "unveil a statue",
+   "unveil reforms"
+  ],
+  "synonyms": [
+   "reveal",
+   "introduce",
+   "launch",
+   "disclose",
+   "uncover"
+  ],
+  "antonyms": [
+   "conceal",
+   "hide",
+   "cover"
+  ],
+  "related_words": {
+   "en": [
+    "presentation",
+    "announcement",
+    "debut",
+    "launch",
+    "disclosure"
+   ],
+   "ar": [
+    "عرض",
+    "إعلان",
+    "ظهور أول",
+    "إطلاق",
+    "كشف"
+   ]
+  },
+  "word_family": {
+   "noun": "unveiling",
+   "verb": "unveil",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يكشف عن / يزيح الستار عن",
+   "french_fr": "dévoiler",
+   "german_de": "enthüllen",
+   "spanish_es": "desvelar",
+   "chinese_zh": "揭幕 (jiē mù)",
+   "russian_ru": "торжественно открывать",
+   "portuguese_pt": "revelar",
+   "japanese_ja": "発表する (Happyō suru)",
+   "italian_it": "svelare",
+   "turkish_tr": "ortaya çıkarmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "2da415033f51055acacc4a4ba1c027be1ae50a0c9af3f966183e86bd3836cfeb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

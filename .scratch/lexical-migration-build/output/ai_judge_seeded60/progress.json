@@ -1,0 +1,2588 @@
+{
+ "run_id": "AI-JUDGE-SEEDED60-v1",
+ "judged": {
+  "eval_seeded60_v1-0001": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides helpful collocations whereas Arm A has an empty list, and Arm B provides better translation coverage."
+  },
+  "eval_seeded60_v1-0002": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "Arm A uses inflected forms 'administers' and 'administered' instead of the exact target lemma token 'administer'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides complete coverage of the major senses of 'administer' (management, medical/dispensation, and legal/formal application) across definitions, Arabic explanations, and translations. Arm A violates the exact-target guard in its examples by including inflections ('administers', 'administered'), whereas Arm B strictly uses the exact base lemma 'administer'."
+  },
+  "eval_seeded60_v1-0003": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'high priest' as a synonym for 'archbishop', which is semantically inaccurate and inappropriate in Christian ecclesiastical context."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes highly relevant collocations and precise ecclesiastical synonyms ('metropolitan', 'primate'), whereas Arm B includes the invalid/misleading synonym 'high priest' and lacks collocations."
+  },
+  "eval_seeded60_v1-0004": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B example: \"He speaks clearly.\" completely lacks the target word \"articulate\"."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B contains an example missing the target lemma entirely (\"He speaks clearly.\") and provides an inadequate translation (\"واضح / بوضوح\") compared to Arm A's accurate adjectives matching the target sense."
+  },
+  "eval_seeded60_v1-0005": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms accurately target the prepositional sense 'except'. Arm B provides better translation coverage and helpful prepositional collocations."
+  },
+  "eval_seeded60_v1-0006": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected form 'called' in 'The meeting was called to order.'"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B violates the exact-target guard with the past participle 'called'. Arm A includes 'يُسَمِّي' in translations matching the Arabic explanation, and provides valid collocations."
+  },
+  "eval_seeded60_v1-0007": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses contracted form \"can't\" in \"I can't help thinking about it.\", failing the exact target lemma token requirement."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides standard Modern Standard Arabic instead of colloquial Egyptian phrasing (\"يعمل حاجة\"), better translation coverage, and valid collocations. Arm B introduces a contracted form ('can't') violating the exact lemma token rule in examples."
+  },
+  "eval_seeded60_v1-0008": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected forms 'chatted' and 'chatting' instead of the exact target lemma token 'chat' in multiple examples."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A strictly adheres to the exact lemma token in all examples, while Arm B introduces inflected forms ('chatted', 'chatting') violating the exact-target guard. Arm A also provides better collocations and translations."
+  },
+  "eval_seeded60_v1-0009": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides highly useful and natural collocations (double chin, cleft chin, keep your chin up), whereas Arm A includes 'jaw' and technical 'mentum' as synonyms without collocations."
+  },
+  "eval_seeded60_v1-0010": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected form 'chopped' instead of the exact target lemma 'chop' in multiple examples (e.g., 'He chopped wood for the fire.')."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses the exact lemma token 'chop' in all its examples, whereas Arm B repeatedly uses the inflected form 'chopped', violating the exact-target guard. Arm A also provides valid collocations."
+  },
+  "eval_seeded60_v1-0011": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes useful collocations, whereas Arm B has an empty collocations list. Furthermore, Arm B introduces figurative examples ('His writing lacks colour and imagination') that stray from the narrowly defined physical sense without explanation."
+  },
+  "eval_seeded60_v1-0012": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A punctuates translations properly with a slash ('بشكل صحيح / صحيح'), whereas Arm B runs words together ('بشكل صحيح صحيح'). Arm B includes helpful and valid collocations."
+  },
+  "eval_seeded60_v1-0013": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Arm B includes 'I have a great deal of work to do today' (meaning a large amount/quantity), which contradicts the stated sense of an agreement/bargain."
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B introduces a completely different sense of 'deal' (an amount/extent in 'a great deal of') while defining the noun strictly as an agreement/transaction. Arm A stays coherent with the target sense across all examples and provides valid collocations."
+  },
+  "eval_seeded60_v1-0014": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "B-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B includes inflected forms 'deals' and 'dealing' instead of the exact target lemma token 'deal'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses only the exact target lemma token 'deal' in all examples and provides valid collocations, whereas Arm B violates the exact-target constraint with 'deals' and 'dealing' and includes an unnatural sentence ('I deal the cards now'). Arm B formats translations with a slash."
+  },
+  "eval_seeded60_v1-0015": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, and mnemonics. Arm B includes useful and valid collocations whereas Arm A has an empty collocations array."
+  },
+  "eval_seeded60_v1-0016": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "B lists 'porpoise' and 'cetacean' as synonyms for dolphin, which are biologically distinct or hypernyms, not true synonyms."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "B includes inflected forms in examples: 'Dolphins are known...', 'watch the dolphins', 'The dolphin's sonar...' violating the exact lemma token requirement."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A strictly adheres to the exact lemma token across all examples and provides valid collocations instead of inaccurate synonyms."
+  },
+  "eval_seeded60_v1-0017": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Target POS is pronoun/predeterminer ('twice the amount/number'). Arm B focuses accurately on the quantity pronoun sense, providing matching examples, collocations, and translations. Arm A conflates noun senses ('lookalike', drink measure, stunt double) with quantity."
+  },
+  "eval_seeded60_v1-0018": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'suburban' as an antonym for the adverb 'downtown'."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A captures both directional and locational aspects ('in or to' / 'في أو إلى') in its Arabic explanation and translations, whereas Arm B restricts itself to the directional sense ('ناحية' / 'لما تكون رايح'). In relations, Arm B includes 'suburban' (adjective) as an antonym for an adverb, while Arm A provides accurate collocations and valid relations."
+  },
+  "eval_seeded60_v1-0019": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected forms ('drafted') in multiple examples instead of the standalone lemma 'draft'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A strictly obeys the exact lemma constraint for examples, provides verbal translations matching the POS, and provides collocations, whereas Arm B uses inflected forms ('drafted') and provides a noun translation ('مسودة') for a verb lemma."
+  },
+  "eval_seeded60_v1-0020": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected forms 'dried' in 'The tears dried on her cheeks' and 'The soil has dried up completely due to the drought', violating the exact-target lemma requirement."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B violates the exact target lemma guard by including inflected forms ('dried') in its examples, whereas Arm A uses the exact lemma 'dry' across all examples. Arm A also provides useful collocations and a functional mnemonic hook."
+  },
+  "eval_seeded60_v1-0021": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "Arm A includes an example with the plural inflection: 'He rested his elbows on the table.'"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A violates the exact-target guard by using the plural form 'elbows' in an example, whereas Arm B uses the exact singular lemma 'elbow'. Arm B also provides strong, valid collocations instead of broad hypernyms."
+  },
+  "eval_seeded60_v1-0022": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic instead of Arm B's colloquial Egyptian phrasing in arabic_explanation. Arm A provides accurate translations, whereas Arm B includes 'جرثومة' which is inappropriate/misleading for embryo in modern Arabic. Arm A also provides valid, useful collocations."
+  },
+  "eval_seeded60_v1-0023": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides richer, natural examples demonstrating key usage patterns (e.g., 'sets a good example', 'make an example of'), whereas Arm A provides valuable collocations lacking in B."
+  },
+  "eval_seeded60_v1-0024": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides more complete coverage in its definition and Arabic explanation by including wild birds hunted for sport/food (game birds), which also directly aligns with its examples and collocations. Arm B limits its definition strictly to domestic farm birds despite including wild fowl examples, and offers questionable translations ('طير / ديك')."
+  },
+  "eval_seeded60_v1-0025": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'cavity' (a noun) as a synonym for 'hollow' (adjective)."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes valid collocations and avoids cross-POS invalid synonyms, whereas Arm B lists the noun 'cavity' as a synonym for the adjective 'hollow' and provides an empty collocations array."
+  },
+  "eval_seeded60_v1-0026": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses standard Modern Standard Arabic for the explanation, provides standard adjective translations matching the POS (unlike Arm B's plural noun 'السكان الأصليين'), and includes key collocations."
+  },
+  "eval_seeded60_v1-0027": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides richer, more contextualized examples showing varied usage (practicing Jew, secular Jew) and includes useful collocations, whereas Arm A largely uses the plural 'Jews' instead of the exact singular lemma in most examples."
+  },
+  "eval_seeded60_v1-0028": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B introduces a target-word violation via plural inflection 'leaflets' in its last example. Arm A includes useful collocations, whereas Arm B leaves collocations empty."
+  },
+  "eval_seeded60_v1-0029": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B includes the example 'An old castle.' which lacks the target lemma 'medieval'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B includes an example ('An old castle.') that completely omits the target word 'medieval'. Arm A has appropriate collocations and adjective-appropriate translations, whereas Arm B leaves collocations empty and uses prepositional translations."
+  },
+  "eval_seeded60_v1-0030": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes useful collocations, whereas Arm B has an empty collocations list. Arm A's translations include both common renderings ('مجرد فقط')."
+  },
+  "eval_seeded60_v1-0031": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, and core relations, with natural and accurate examples. Arm B includes valid collocations ('much time', 'much effort', 'much money') whereas Arm A leaves collocations empty."
+  },
+  "eval_seeded60_v1-0032": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B includes hyphenated compound derivative 'mud-slinging' in 'The political campaign descended into mere mud-slinging.'"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A maintains consistent examples matching the stated physical sense 'Soft, wet earth', whereas Arm B mixes in idiomatic/figurative senses ('His name is mud') and a compound token violation ('mud-slinging'). Arm A also provides useful collocations and better translation coverage."
+  },
+  "eval_seeded60_v1-0033": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a more comprehensive Arabic explanation and richer translations, along with useful collocations missing in Arm B."
+  },
+  "eval_seeded60_v1-0034": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, and mnemonics. Arm A provides broader translation coverage and complete collocations, which are completely missing in Arm B."
+  },
+  "eval_seeded60_v1-0035": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B introduces a completely different architectural sense in its final example ('The bridge is supported by concrete piers sunk into the riverbed') while the target is uninflected/pluralized 'piers' and contradicts the stated landing stage / maritime definition without establishing sense separation. Arm A also provides useful collocations."
+  },
+  "eval_seeded60_v1-0036": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "B-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B uses formal Modern Standard Arabic in its explanation and includes valid collocations, whereas Arm A uses Egyptian dialect. However, Arm A punctuates its translations clearly with a slash separator ('زائد / بالإضافة إلى'), whereas Arm B fuses them without punctuation ('زائد بالإضافة إلى')."
+  },
+  "eval_seeded60_v1-0037": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Arm B's example 'He was accused of being precious about his art.' uses an unrelated pejorative British sense ('over-refined/affected/fussy') that contradicts its stated definition ('Of great value; not to be wasted or treated carelessly')."
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B introduces a completely different, niche British sense in its final example ('being precious about his art') which conflicts with the single definition given. Arm A has valid collocations and cleaner coverage."
+  },
+  "eval_seeded60_v1-0038": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B includes examples without the target word: 'This is just the start.' and 'We did a quick check first.'"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B includes two examples that completely omit the target lemma 'preliminary'. Arm A provides strong collocations and cleaner translations."
+  },
+  "eval_seeded60_v1-0039": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides a clearer, more standard definition aligning with the core learner sense. Arm A includes an example for postpositive 'city proper' which strays from its core definition without explanation. Arm B also supplies useful collocations."
+  },
+  "eval_seeded60_v1-0040": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, mnemonics, and translations. Arm B includes valuable and accurate collocations, whereas Arm A lists none."
+  },
+  "eval_seeded60_v1-0041": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides verb-appropriate translations matching the POS (Arm A provides only a verbal noun/masdar) and includes helpful, valid collocations."
+  },
+  "eval_seeded60_v1-0042": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected forms 'reigns' and 'reigned' across all examples instead of the exact lemma token 'reign'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses the exact lemma 'reign' in all examples, provides appropriate verb translations, and features formal MSA Arabic explanation. Arm B violates the exact target rule by using inflections (reigns, reigned) in every example and gives noun translations for a verb lemma."
+  },
+  "eval_seeded60_v1-0043": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes collocations and provides broader translation coverage including 'بِتَرَدُّد'."
+  },
+  "eval_seeded60_v1-0044": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides better translations with matching verbal form and broader coverage (يكبح يقيد يضبط vs nominal كبح), along with useful valid collocations."
+  },
+  "eval_seeded60_v1-0045": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "tie",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Examples include 'The sound hit the wall.' and 'The loud noise made the room shake.' which omit the target lemma 'reverberate'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes both the acoustic and figurative senses in its definition and translations, paired with exemplary sentences. Arm B includes examples that do not contain the target lemma at all."
+  },
+  "eval_seeded60_v1-0046": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "cannot-judge",
+    "examples": "B-better",
+    "translations": "cannot-judge",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides a more comprehensive adverbial definition and Arabic explanation that properly covers the common direction-reversing sense (facing the opposite direction / للخلف). Arm A provides an unhelpful placeholder mnemonic, while translations in both arms suffer from part-of-speech issues (A gives adjective/noun translations; B lacks punctuation/delimiters)."
+  },
+  "eval_seeded60_v1-0047": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A lists 'city' (a noun) as an antonym for the adjective 'rural', whereas Arm B correctly provides 'urban' and adds valid collocations."
+  },
+  "eval_seeded60_v1-0048": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "Arm A lists 'from' and 'after' as synonyms for conjunction 'since'."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "For the part of speech conjunction (conj), Arm B provides strictly conjunction examples, whereas Arm A includes prepositional/adverbial uses ('since Monday', 'since breakfast', 'long since'). Arm B also has valid collocations and accurate conjunction synonyms, avoiding Arm A's invalid synonyms 'from' and 'after'."
+  },
+  "eval_seeded60_v1-0049": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, translations, synonyms, and antonyms. Arm A provides valid collocations whereas Arm B leaves collocations empty."
+  },
+  "eval_seeded60_v1-0050": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a broader definition and Arabic explanation that accommodate non-visual or negative uses (e.g., spectacular failure) better than Arm B's purely beauty-focused definition. Arm A also includes helpful collocations and richer translations."
+  },
+  "eval_seeded60_v1-0051": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides helpful and valid collocations that are absent in Arm A. Arm A formats its translations with standard punctuation separating distinct senses, whereas Arm B runs them together without delimiters."
+  },
+  "eval_seeded60_v1-0052": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "Arm A lists 'letter' (noun) and 'write' as synonyms for the verb 'spell'."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "Arm A includes examples with inflected forms 'spells' and 'spelled' instead of the exact target lemma 'spell'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A introduces unrelated metaphorical senses ('spells disaster', 'spelled the end') that contradict the single orthographic definition provided, violates the exact-target lemma guard with inflections ('spells', 'spelled'), and lists invalid synonyms ('letter', 'write'). Arm B provides clean, well-aligned examples and accurate relations."
+  },
+  "eval_seeded60_v1-0053": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Arm B defines study as 'To learn about a subject, usually at school or university' but includes examples using the sense of examine/inspect ('He studied the map carefully', 'He studied his opponent's face')."
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B violates the exact-target guard by using inflected forms ('studying', 'studied') instead of the standalone lemma 'study'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A keeps all examples aligned with the single defined sense and adheres to the exact lemma token constraint, whereas Arm B introduces divergent senses (examine closely) not covered by its definition and uses inflected forms."
+  },
+  "eval_seeded60_v1-0054": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'that' as a synonym of 'this' while simultaneously listing it as an antonym."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B lists 'that' under synonyms for 'this', which contradicts its antonym listing and standard usage. Arm A provides both masculine and feminine Arabic demonstratives (هذا، هذه) which better captures English 'this'."
+  },
+  "eval_seeded60_v1-0055": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides valid collocations where Arm A provides none, and gives a slightly more comprehensive translation."
+  },
+  "eval_seeded60_v1-0056": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions, Arabic explanations, mnemonics, and nearly identical translations and examples. Arm B is better in relations because it provides valid, useful collocations, whereas Arm A leaves them empty."
+  },
+  "eval_seeded60_v1-0057": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides valid, highly typical collocations (utter chaos, utter nonsense, etc.) where Arm A leaves collocations empty."
+  },
+  "eval_seeded60_v1-0058": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a complete definition, whereas Arm B trails off with 'or by means of.' Arm A also uses standard MSA for the Arabic explanation while Arm B uses highly colloquial phrasing ('إنك تروح مكان'). Arm A includes useful collocations and thorough translations."
+  },
+  "eval_seeded60_v1-0059": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "tie",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "Arm A uses inflected forms 'weighed' in 'He weighed himself on the scales.' and 'The evidence weighed heavily against him.' instead of the exact target lemma token 'weigh'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B includes both main senses in its definition to match the Arabic explanation, includes valid collocations, uses verb forms in translations, and adheres strictly to the exact lemma token in all examples, whereas Arm A uses inflected forms ('weighed') violating the exact-target guard."
+  },
+  "eval_seeded60_v1-0060": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms have identical definitions and Arabic explanations, and both provide valid examples for the conjunction sense. Arm A includes valid, common collocations ('and yet', 'simple yet effective') whereas Arm B leaves collocations empty."
+  }
+ },
+ "attempts": {
+  "eval_seeded60_v1-0001": 1,
+  "eval_seeded60_v1-0002": 1,
+  "eval_seeded60_v1-0003": 1,
+  "eval_seeded60_v1-0004": 1,
+  "eval_seeded60_v1-0005": 1,
+  "eval_seeded60_v1-0006": 1,
+  "eval_seeded60_v1-0007": 1,
+  "eval_seeded60_v1-0008": 1,
+  "eval_seeded60_v1-0009": 1,
+  "eval_seeded60_v1-0010": 1,
+  "eval_seeded60_v1-0011": 1,
+  "eval_seeded60_v1-0012": 1,
+  "eval_seeded60_v1-0013": 1,
+  "eval_seeded60_v1-0014": 1,
+  "eval_seeded60_v1-0015": 1,
+  "eval_seeded60_v1-0016": 1,
+  "eval_seeded60_v1-0017": 1,
+  "eval_seeded60_v1-0018": 1,
+  "eval_seeded60_v1-0019": 1,
+  "eval_seeded60_v1-0020": 1,
+  "eval_seeded60_v1-0021": 1,
+  "eval_seeded60_v1-0022": 1,
+  "eval_seeded60_v1-0023": 1,
+  "eval_seeded60_v1-0024": 1,
+  "eval_seeded60_v1-0025": 1,
+  "eval_seeded60_v1-0026": 1,
+  "eval_seeded60_v1-0027": 1,
+  "eval_seeded60_v1-0028": 1,
+  "eval_seeded60_v1-0029": 1,
+  "eval_seeded60_v1-0030": 1,
+  "eval_seeded60_v1-0031": 1,
+  "eval_seeded60_v1-0032": 1,
+  "eval_seeded60_v1-0033": 1,
+  "eval_seeded60_v1-0034": 1,
+  "eval_seeded60_v1-0035": 1,
+  "eval_seeded60_v1-0036": 1,
+  "eval_seeded60_v1-0037": 1,
+  "eval_seeded60_v1-0038": 1,
+  "eval_seeded60_v1-0039": 1,
+  "eval_seeded60_v1-0040": 1,
+  "eval_seeded60_v1-0041": 1,
+  "eval_seeded60_v1-0042": 1,
+  "eval_seeded60_v1-0043": 1,
+  "eval_seeded60_v1-0044": 1,
+  "eval_seeded60_v1-0045": 1,
+  "eval_seeded60_v1-0046": 1,
+  "eval_seeded60_v1-0047": 1,
+  "eval_seeded60_v1-0048": 1,
+  "eval_seeded60_v1-0049": 1,
+  "eval_seeded60_v1-0050": 1,
+  "eval_seeded60_v1-0051": 1,
+  "eval_seeded60_v1-0052": 1,
+  "eval_seeded60_v1-0053": 1,
+  "eval_seeded60_v1-0054": 1,
+  "eval_seeded60_v1-0055": 1,
+  "eval_seeded60_v1-0056": 1,
+  "eval_seeded60_v1-0057": 1,
+  "eval_seeded60_v1-0058": 1,
+  "eval_seeded60_v1-0059": 1,
+  "eval_seeded60_v1-0060": 1
+ },
+ "terminal": []
+}

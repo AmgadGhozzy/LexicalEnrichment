@@ -1,0 +1,279 @@
+{
+ "audit_set_hash": "eee03f1ebefb26f825c7724664c282c71dd40c577ac10fb52f02167ea17f68aa",
+ "judgments": {
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "criticals": {
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "ticket/pass/badge are related objects, not synonyms of card"
+    },
+    "mnemonic_quality_error": {
+     "side": "A",
+     "evidence": "kart al3aamiya is a statement of the word itself, not a mnemonic"
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "play cards uses plural form, not exact lemma card"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0027": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "criticals": {
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "base/under not reliable synonyms for adj bottom"
+    },
+    "mnemonic_quality_error": {
+     "side": "B",
+     "evidence": "bottom=baton weak phonetic association, risks false lexical relation"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0038": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "A-better"
+   },
+   "criticals": {
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "from/after not general synonyms for conj since"
+    },
+    "mnemonic_quality_error": {
+     "side": "B",
+     "evidence": "scenario/start association weak"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0082": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "sense_fit_error": {
+     "side": "A",
+     "evidence": "appointment as chairman / appointment of judges = designation sense vs displayed meeting sense"
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "designation belongs to second sense, not meeting sense"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0097": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "refuse credit to strangers = specialized institutional use, less learner-clear"
+    },
+    "note": "machine refused to operate (B) NOT marked - legitimate extended use"
+   }
+  },
+  "EVAL-BLIND-V1-0105": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "spells disaster / spelled the end = to-signify sense, not orthographic spelling"
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "write is not a general synonym of spell"
+    },
+    "mnemonic_quality_error": {
+     "side": "A",
+     "evidence": "no mnemonic provided"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0133": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "criticals": {
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "after not reliable synonym for prep since"
+    },
+    "example_quality_error": {
+     "side": "B",
+     "evidence": "Since the war began / Since the dawn of time blur the prepositional category"
+    },
+    "note": "null mnemonic NOT marked as error - function word"
+   }
+  },
+  "EVAL-BLIND-V1-0141": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "criticals": {
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "vocal not safe general synonym of oral"
+    },
+    "example_sense_error": {
+     "side": "B",
+     "evidence": "definition does not separate mouth-related sense from spoken sense"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0187": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "merchant ships / merchant bank = compounds, not clean examples"
+    },
+    "example_quality_error": {
+     "side": "A",
+     "evidence": "wealthy merchant class = noun phrase, not complete sentence"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0193": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "data sorted into storage buckets = technical/metaphorical extension"
+    },
+    "example_quality_error": {
+     "side": "A",
+     "evidence": "bucket and sponge = fragment"
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "vessel too broad for bucket"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0195": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "criticals": {
+    "definition_accuracy_error": {
+     "side": "A",
+     "evidence": "smallest possible discrete unit of any physical property = overgeneralization"
+    },
+    "arabic_accuracy_error": {
+     "side": "A",
+     "evidence": "أصغر وحدة لا تقبل التجزئة من الطاقة/المادة overstates; frames as indivisible unit of matter/energy"
+    },
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "measured the exact quantum = unnatural/underspecified"
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "amount/unit/portion/measure = broad associations, not synonyms of technical quantum"
+    }
+   }
+  },
+  "EVAL-BLIND-V1-0237": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "criticals": {
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "fond farewell/fond hope/fond regards = fixed collocations mixed with ordinary fond of sense"
+    },
+    "invalid_relation_synonym": {
+     "side": "A",
+     "evidence": "keen context-dependent; affectionate does not cleanly substitute in all constructions"
+    },
+    "mnemonic_quality_error": {
+     "side": "A",
+     "evidence": "fondue weak phonetic association"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "concentrate",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "concentrate",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To focus all one's attention on a particular object or activity.",
+  "explanation_ar": "يركز انتباهه كله في حاجة واحدة.",
+  "senses": [
+   {
+    "definition_en": "To focus all one's attention on a particular object or activity.",
+    "explanation_ar": "يركز انتباهه كله في حاجة واحدة.",
+    "examples": [
+     "I cannot concentrate.",
+     "Please concentrate on your work.",
+     "The noise makes it hard to concentrate."
+    ]
+   }
+  ],
+  "examples": [
+   "I cannot concentrate.",
+   "Please concentrate on your work.",
+   "The noise makes it hard to concentrate."
+  ],
+  "translations": [
+   "يركز"
+  ],
+  "relations": {
+   "synonyms": [
+    "focus",
+    "center"
+   ],
+   "antonyms": [
+    "distract",
+    "disperse"
+   ],
+   "collocations": [
+    "concentrate on",
+    "hard to concentrate",
+    "concentrate effort"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Centre' 'مركز'.. يعني تخلي تفكيرك كله في 'المركز' ونقطة واحدة.",
+  "phonetic_us": "ˈkɑːnsəntreɪt",
+  "phonetic_uk": "ˈkɒnsəntreɪt",
+  "syllables": "con•cen•trate",
+  "semantic_tags": [
+   "#Focus",
+   "#Mind",
+   "#Study"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To focus all one's attention on a particular object or activity.",
+  "explanation_ar": "يركز انتباهه كله في حاجة واحدة.",
+  "examples": [
+   "I cannot concentrate.",
+   "Please concentrate on your work.",
+   "The noise makes it hard to concentrate."
+  ],
+  "translations": {
+   "arabic_ar": "يركز"
+  },
+  "synonyms": [
+   "focus",
+   "center"
+  ],
+  "antonyms": [
+   "distract",
+   "disperse"
+  ],
+  "collocations": [
+   "concentrate on",
+   "hard to concentrate",
+   "concentrate effort"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Centre' 'مركز'.. يعني تخلي تفكيرك كله في 'المركز' ونقطة واحدة."
+ }
+}

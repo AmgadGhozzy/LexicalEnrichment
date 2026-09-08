@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7210",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7210",
+  "lemma": "exclaim",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7210,
+  "lemma": "exclaim",
+  "pos": "verb",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪkˈskleɪm",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِكْسْكْلِيم",
+  "definition_en": "To speak or cry out suddenly because of strong emotion such as surprise, anger, or excitement.",
+  "explanation_ar": "أن ينطق الشخص بكلام أو يصرخ فجأة وبصوت مسموع نتيجة شعور قوي بالمفاجأة أو الغضب أو الفرح.",
+  "examples": [
+   {
+    "example_text": "Unexpected news made him exclaim in utter astonishment.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Children often exclaim with pure delight when they see falling snow.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Witnesses could only exclaim as the fireworks lit the night sky.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر علامة التعجب \"exclamation mark\"، فالفعل \"exclaim\" هو إطلاق صيحة تعجب أو كلام فجائي يعبر عن صدمة أو انفعال.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To say something loudly and suddenly due to surprise, shock, or strong feeling.",
+    "short_def_en": "cry out suddenly in emotion",
+    "definition_ar": "يهتف أو يصرخ فجأة معبرا عن دهشة أو غضب أو فرح",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "speaking",
+     "emotions",
+     "reactions"
+    ],
+    "usage_note": "Frequently used in narrative writing to report speech accompanied by sudden feeling.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "exclaim in surprise",
+   "exclaim with joy",
+   "exclaim in delight",
+   "exclaim in horror"
+  ],
+  "synonyms": [
+   "cry out",
+   "call out",
+   "shout",
+   "blurt",
+   "utter"
+  ],
+  "antonyms": [
+   "whisper",
+   "mutter"
+  ],
+  "related_words": {
+   "en": [
+    "cry",
+    "shout",
+    "surprise",
+    "speech",
+    "outburst"
+   ],
+   "ar": [
+    "صراخ",
+    "هتاف",
+    "مفاجأة",
+    "حديث",
+    "فورة مشاعر"
+   ]
+  },
+  "word_family": {
+   "noun": "exclamation",
+   "verb": "exclaim",
+   "adj": "exclamatory",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يهتف / يصيح بتعجب",
+   "french_fr": "s'exclamer",
+   "german_de": "ausrufen",
+   "spanish_es": "exclamar",
+   "chinese_zh": "惊呼 (Jīng hū)",
+   "russian_ru": "восклицать",
+   "portuguese_pt": "exclamar",
+   "japanese_ja": "叫ぶ (Sakebu)",
+   "italian_it": "esclamare",
+   "turkish_tr": "haykırmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "4111cbb0d4360502e7c26f001a39549286ac07da793e910da12f7fa55c8c8529",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

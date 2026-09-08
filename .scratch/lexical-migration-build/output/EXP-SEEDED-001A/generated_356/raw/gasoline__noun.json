@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "gasoline",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "gasoline",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Refined petroleum used as fuel for internal combustion engines, especially in motor vehicles.",
+  "explanation_ar": "الوقود السائل المستخرج من البترول (البنزين) والمستخدم لتشغيل محركات السيارات والمركبات.",
+  "senses": [
+   {
+    "sense_id": "gasoline_n_1",
+    "definition_en": "Refined petroleum used as fuel for internal combustion engines, especially in motor vehicles.",
+    "explanation_ar": "بنزين السيارات؛ وقود سائل يُستخدم لتشغيل المركبات.",
+    "examples": [
+     "He stopped at the station to fill the tank with gasoline.",
+     "The car stopped because it ran out of gasoline.",
+     "The engine was designed to run on unleaded gasoline."
+    ]
+   }
+  ],
+  "examples": [
+   "He stopped at the station to fill the tank with gasoline.",
+   "The car stopped because it ran out of gasoline.",
+   "The engine was designed to run on unleaded gasoline."
+  ],
+  "translations": [
+   "بنزين",
+   "غازولين"
+  ],
+  "relations": {
+   "synonyms": [
+    "petrol",
+    "gas"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "unleaded gasoline",
+    "gasoline station",
+    "gasoline engine",
+    "price of gasoline"
+   ]
+  },
+  "mnemonic": "In American English, 'gasoline' is often shortened to 'gas'—the fuel that keeps your car on the line and moving forward.",
+  "phonetic_us": "ˈɡæsəliːn",
+  "phonetic_uk": "ˈɡæsəliːn",
+  "syllables": "gas•o•line",
+  "semantic_tags": [
+   "#Fuel",
+   "#Transportation",
+   "#Energy",
+   "#Automotive"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Refined petroleum used as fuel for internal combustion engines, especially in motor vehicles.",
+  "explanation_ar": "الوقود السائل المستخرج من البترول (البنزين) والمستخدم لتشغيل محركات السيارات والمركبات.",
+  "examples": [
+   "He stopped at the station to fill the tank with gasoline.",
+   "The car stopped because it ran out of gasoline.",
+   "The engine was designed to run on unleaded gasoline."
+  ],
+  "translations": {
+   "arabic_ar": "بنزين غازولين"
+  },
+  "synonyms": [
+   "petrol",
+   "gas"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "unleaded gasoline",
+   "gasoline station",
+   "gasoline engine",
+   "price of gasoline"
+  ],
+  "mnemonic_ar": "In American English, 'gasoline' is often shortened to 'gas'—the fuel that keeps your car on the line and moving forward."
+ }
+}

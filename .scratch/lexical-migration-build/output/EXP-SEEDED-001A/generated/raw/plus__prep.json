@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "plus",
+  "pos": "prep"
+ },
+ "candidate": {
+  "lemma": "plus",
+  "pos": "prep",
+  "cefr": "B1",
+  "definition_en": "With the addition of; together with.",
+  "explanation_ar": "تُستخدم عند إضافة شيء إلى شيء آخر، بمعنى 'زائد' أو 'بالإضافة إلى'.",
+  "senses": [
+   {
+    "pos": "prep",
+    "definition_en": "Used to show addition in numbers or mathematics.",
+    "definition_ar": "زائد؛ مضافاً إليه في الحساب."
+   },
+   {
+    "pos": "prep",
+    "definition_en": "Together with; in addition to.",
+    "definition_ar": "بالإضافة إلى؛ مع."
+   }
+  ],
+  "examples": [
+   "One plus one equals two.",
+   "The cost is $10 plus tax.",
+   "I have three meetings plus a lunch appointment."
+  ],
+  "translations": [
+   "زائد",
+   "بالإضافة إلى"
+  ],
+  "relations": {
+   "synonyms": [
+    "added to",
+    "together with",
+    "and"
+   ],
+   "antonyms": [
+    "minus",
+    "less"
+   ],
+   "collocations": [
+    "plus tax",
+    "plus interest",
+    "cost plus"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/plʌs/",
+  "phonetic_uk": "/plʌs/",
+  "syllables": "plus",
+  "semantic_tags": [
+   "#Math",
+   "#Connector",
+   "#Addition"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "With the addition of; together with.",
+  "explanation_ar": "تُستخدم عند إضافة شيء إلى شيء آخر، بمعنى 'زائد' أو 'بالإضافة إلى'.",
+  "examples": [
+   "One plus one equals two.",
+   "The cost is $10 plus tax.",
+   "I have three meetings plus a lunch appointment."
+  ],
+  "translations": {
+   "arabic_ar": "زائد بالإضافة إلى"
+  },
+  "synonyms": [
+   "added to",
+   "together with",
+   "and"
+  ],
+  "antonyms": [
+   "minus",
+   "less"
+  ],
+  "collocations": [
+   "plus tax",
+   "plus interest",
+   "cost plus"
+  ],
+  "mnemonic_ar": null
+ }
+}

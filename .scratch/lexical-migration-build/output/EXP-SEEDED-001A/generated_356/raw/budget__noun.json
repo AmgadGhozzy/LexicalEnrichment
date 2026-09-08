@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "budget",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "budget",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An estimate of income and expenditure for a set period of time.",
+  "explanation_ar": "الميزانية، يعني الخطة اللي بتحطها لفلوسك، هتقبض كام وهتصرف كام في وقت معين.",
+  "senses": [
+   {
+    "definition_en": "An estimate of income and expenditure for a set period of time, or the total amount of money allocated for a particular purpose.",
+    "definition_ar": "ميزانية: خطة مالية تحدد الدخل والمصروفات لفترة زمنية معينة، أو المبلغ المالي المخصص لغرض محدد.",
+    "examples": [
+     "We need to stick to our monthly budget.",
+     "The government announced the new annual budget.",
+     "The project was completed within budget."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to stick to our monthly budget.",
+   "The government announced the new annual budget.",
+   "The project was completed within budget."
+  ],
+  "translations": [
+   "ميزانية"
+  ],
+  "relations": {
+   "synonyms": [
+    "financial plan",
+    "allowance"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "tight budget",
+    "annual budget",
+    "over budget",
+    "within budget"
+   ]
+  },
+  "mnemonic": "زمان كانوا بيحطوا الفلوس في 'Bag' شنطة.. كلمة 'Budget' جاية من أصل الكلمة دي.",
+  "phonetic_us": "ˈbʌdʒɪt",
+  "phonetic_uk": "ˈbʌdʒɪt",
+  "syllables": "bud•get",
+  "semantic_tags": [
+   "#Money",
+   "#Finance",
+   "#Planning"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "An estimate of income and expenditure for a set period of time.",
+  "explanation_ar": "الميزانية، يعني الخطة اللي بتحطها لفلوسك، هتقبض كام وهتصرف كام في وقت معين.",
+  "examples": [
+   "We need to stick to our monthly budget.",
+   "The government announced the new annual budget.",
+   "The project was completed within budget."
+  ],
+  "translations": {
+   "arabic_ar": "ميزانية"
+  },
+  "synonyms": [
+   "financial plan",
+   "allowance"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "tight budget",
+   "annual budget",
+   "over budget",
+   "within budget"
+  ],
+  "mnemonic_ar": "زمان كانوا بيحطوا الفلوس في 'Bag' شنطة.. كلمة 'Budget' جاية من أصل الكلمة دي."
+ }
+}

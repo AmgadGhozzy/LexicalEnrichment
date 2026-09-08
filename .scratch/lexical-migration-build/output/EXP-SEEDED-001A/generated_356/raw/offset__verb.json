@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "offset",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "offset",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To counteract something by having an opposing force or effect.",
+  "explanation_ar": "إنك تعوض تأثير حاجة بحاجة تانية عكسها عشان تعمل توازن.",
+  "senses": [
+   {
+    "definition_en": "To counteract something by having an opposing force or effect.",
+    "definition_ar": "أن تعوّض أو توازن أثر شيء سلبي بإحداث تأثير إيجابي معاكس.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "One mistake can offset all the good work.",
+   "We need to offset the carbon emissions.",
+   "Donations helped to offset the budget deficit."
+  ],
+  "translations": [
+   "يعوض",
+   "يوازن"
+  ],
+  "relations": {
+   "synonyms": [
+    "counteract",
+    "balance",
+    "compensate"
+   ],
+   "antonyms": [
+    "amplify"
+   ],
+   "collocations": [
+    "offset the cost",
+    "offset the risk",
+    "offset emissions"
+   ]
+  },
+  "mnemonic": "عشان تظبط الـ 'Set'، لازم تعمل 'Offset' 'توازن' للخسارة بمكسب من ناحية تانية.",
+  "phonetic_us": "ˌɔːfˈset",
+  "phonetic_uk": "ˈɒf.set",
+  "syllables": "off•set",
+  "semantic_tags": [
+   "#Balance",
+   "#Finance",
+   "#Compensation"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To counteract something by having an opposing force or effect.",
+  "explanation_ar": "إنك تعوض تأثير حاجة بحاجة تانية عكسها عشان تعمل توازن.",
+  "examples": [
+   "One mistake can offset all the good work.",
+   "We need to offset the carbon emissions.",
+   "Donations helped to offset the budget deficit."
+  ],
+  "translations": {
+   "arabic_ar": "يعوض يوازن"
+  },
+  "synonyms": [
+   "counteract",
+   "balance",
+   "compensate"
+  ],
+  "antonyms": [
+   "amplify"
+  ],
+  "collocations": [
+   "offset the cost",
+   "offset the risk",
+   "offset emissions"
+  ],
+  "mnemonic_ar": "عشان تظبط الـ 'Set'، لازم تعمل 'Offset' 'توازن' للخسارة بمكسب من ناحية تانية."
+ }
+}

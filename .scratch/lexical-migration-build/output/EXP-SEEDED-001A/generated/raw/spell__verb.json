@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "spell",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "spell",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To write or name the letters that form a word in the correct sequence.",
+  "explanation_ar": "يتهجى، يعني يقول حروف الكلمة بالترتيب الصح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To write or name the letters that form a word in the correct sequence.",
+    "explanation_ar": "يتهجى، يعني يقول حروف الكلمة بالترتيب الصح.",
+    "cefr": "A1",
+    "examples": [
+     "Can you spell your name?",
+     "How do you spell 'cat'?",
+     "I can't spell very well."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To have something, usually bad, as a result; to signify or portend.",
+    "explanation_ar": "ينذر بنتيجة سيئة أو يعني حدوث كارثة أو مشكلة.",
+    "cefr": "C1",
+    "examples": [
+     "The economic crisis could spell disaster for thousands of small businesses.",
+     "Such reckless spending will almost certainly spell ruin for the firm.",
+     "Failure to reach an agreement might spell trouble for the region."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you spell your name?",
+   "How do you spell 'cat'?",
+   "I can't spell very well."
+  ],
+  "translations": [
+   "يتهجى"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "misspell"
+   ],
+   "collocations": [
+    "spell correctly",
+    "how to spell",
+    "spell out"
+   ]
+  },
+  "mnemonic": "أكيد عارف الـ 'Spelling'.. الفعل 'Spell' يعني يتهجى الكلمة.",
+  "phonetic_us": "spɛl",
+  "phonetic_uk": "spel",
+  "syllables": [
+   "spell"
+  ],
+  "semantic_tags": [
+   "#Write",
+   "#Letters",
+   "#Language"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To write or name the letters that form a word in the correct sequence.",
+  "explanation_ar": "يتهجى، يعني يقول حروف الكلمة بالترتيب الصح.",
+  "examples": [
+   "Can you spell your name?",
+   "How do you spell 'cat'?",
+   "I can't spell very well."
+  ],
+  "translations": {
+   "arabic_ar": "يتهجى"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "misspell"
+  ],
+  "collocations": [
+   "spell correctly",
+   "how to spell",
+   "spell out"
+  ],
+  "mnemonic_ar": "أكيد عارف الـ 'Spelling'.. الفعل 'Spell' يعني يتهجى الكلمة."
+ }
+}

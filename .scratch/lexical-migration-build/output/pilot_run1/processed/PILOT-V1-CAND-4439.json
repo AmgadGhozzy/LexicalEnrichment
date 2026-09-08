@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4439",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4439",
+  "lemma": "merchant",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4439,
+  "lemma": "merchant",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈmɜːrtʃənt",
+  "phonetic_uk": "ˈmɜːtʃənt",
+  "phonetic_ar": "مِيرْتْشَانْت",
+  "definition_en": "A person or business that buys and sells goods, especially in large quantities or with foreign countries.",
+  "explanation_ar": "شخص او شركة تعمل في تجارة البضائع وبيعها وشراءها، خاصة بكميات كبيرة او على نطاق دولي.",
+  "examples": [
+   {
+    "example_text": "The local wine merchant recommended an excellent bottle for the dinner party.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "In the fourteenth century, a wealthy merchant could hold significant political influence in Venice.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Before accepting online payments, the digital merchant must comply with strict international security standards.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"merchandise\" بضائع فكلمة \"merchant\" هو التاجر الذي يبيع هذه البضائع ويعرضها في المتجر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person whose business is buying and selling goods, especially in wholesale or international trade.",
+    "short_def_en": "wholesale or international trader",
+    "definition_ar": "تاجر يشتري ويبيع السلع خاصة بكميات تجارية ضخمة او عبر الاستيراد والتصدير",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "business",
+     "trade",
+     "commerce",
+     "professions"
+    ],
+    "usage_note": "Often combined with goods sold, as in wine merchant or timber merchant.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A business or retailer that accepts electronic payments or sells products directly through commerce platforms.",
+    "short_def_en": "commercial vendor or business",
+    "definition_ar": "جهة تجارية او متجر الكتروني يقبل الدفع ويبيع المنتجات للعملاء",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "ecommerce",
+     "finance",
+     "retail"
+    ],
+    "usage_note": "Widely used in modern commerce contexts such as merchant account.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "wealthy merchant",
+   "local merchant",
+   "wine merchant",
+   "merchant bank",
+   "merchant ship"
+  ],
+  "synonyms": [
+   "trader",
+   "dealer",
+   "vendor",
+   "retailer",
+   "wholesaler"
+  ],
+  "antonyms": [
+   "buyer",
+   "consumer",
+   "customer"
+  ],
+  "related_words": {
+   "en": [
+    "commerce",
+    "trade",
+    "merchandise",
+    "mercantile"
+   ],
+   "ar": [
+    "تجارة",
+    "تبادل تجاري",
+    "بضائع",
+    "تجاري"
+   ]
+  },
+  "word_family": {
+   "noun": "merchandise",
+   "verb": "merchandise",
+   "adj": "mercantile",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "تاجر",
+   "french_fr": "marchand",
+   "german_de": "Kaufmann",
+   "spanish_es": "comerciante",
+   "chinese_zh": "商人 (shāngrén)",
+   "russian_ru": "купец",
+   "portuguese_pt": "comerciante",
+   "japanese_ja": "商人 (Shōnin)",
+   "italian_it": "mercante",
+   "turkish_tr": "tüccar"
+  }
+ },
+ "provenance": {
+  "output_hash": "ef3c9bf0d10bb1ede08ea5940faf539d0590de3b6fbbffc081f5e8aa402d927d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

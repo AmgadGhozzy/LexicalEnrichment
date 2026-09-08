@@ -1,0 +1,121 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5030",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5030",
+  "lemma": "abandon",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5030,
+  "lemma": "abandon",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈbændən",
+  "phonetic_uk": null,
+  "phonetic_ar": "أَبَانْدُن",
+  "definition_en": "A state of complete freedom from care, self-control, or social rules.",
+  "explanation_ar": "حالة من الاندفاع أو التصرف بحرية تامة دون قلق، أو مبالاة، أو كبح للذات، وتظهر غالبا في التعبير الفني أو المرح الصاخب.",
+  "examples": [
+   {
+    "example_text": "They danced with reckless abandon until the early hours of the morning.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She sang with such joyous abandon that the entire audience stood up.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The team attacked with complete abandon, ignoring defensive precautions.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تخيل شخصا قرر ان يرمي خلفه كل القيود في فرقة موسيقية \"a band on\" ويعزف بحرية وانطلاق كامل دون اي كبح لنفسه",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A state of complete freedom from care, self-control, or social rules.",
+    "short_def_en": "unrestrained freedom or enthusiasm",
+    "definition_ar": "حالة من الانطلاق الكامل والتحرر من اي قيود او تحفظ.",
+    "is_primary": true,
+    "register": "Literary",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "freedom",
+     "passion",
+     "behavior",
+     "enthusiasm"
+    ],
+    "usage_note": "Most commonly used in the prepositional phrases 'with abandon' or 'with reckless abandon'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "reckless abandon",
+   "wild abandon",
+   "joyous abandon",
+   "with complete abandon",
+   "dance with abandon"
+  ],
+  "synonyms": [
+   "unrestraint",
+   "freedom",
+   "carelessness",
+   "uninhibitedness",
+   "wildness"
+  ],
+  "antonyms": [
+   "restraint",
+   "control",
+   "inhibition"
+  ],
+  "related_words": {
+   "en": [
+    "impulse",
+    "ecstasy",
+    "liberation",
+    "spontaneity"
+   ],
+   "ar": [
+    "اندفاع",
+    "نشوة",
+    "تحرر",
+    "عفوية"
+   ]
+  },
+  "word_family": {
+   "noun": "abandonment",
+   "verb": "abandon",
+   "adj": "abandoned",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "انطلاق / تحرر من القيود / جموح",
+   "french_fr": "abandon",
+   "german_de": "Hingabe",
+   "spanish_es": "desenfreno",
+   "chinese_zh": "放任 (fàng rèn)",
+   "russian_ru": "разгул",
+   "portuguese_pt": "desenfreado",
+   "japanese_ja": "気まま (Kimama)",
+   "italian_it": "abbandono",
+   "turkish_tr": "coşku"
+  }
+ },
+ "provenance": {
+  "output_hash": "2f46aa9a9e82ced6f688e95822bb02e77e5cb49b4c12e94f9a3d8347d2b6cc02",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

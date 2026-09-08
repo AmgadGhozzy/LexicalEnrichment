@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "reign",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "reign",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To rule as a monarch, or to predominate and prevail in a particular situation.",
+  "explanation_ar": "يحكم ويسيطر كملك، أو تسود حالة معينة وتنتشر (مثل سيادة الفوضى أو الهدوء).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To hold royal office and rule as a king, queen, or emperor.",
+    "definition_ar": "يحكم كملك أو ملكة.",
+    "examples": [
+     "The new king will reign with fairness and justice."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To predominate, prevail, or be the dominant feature or power.",
+    "definition_ar": "يسود أو يسيطر على الموقف.",
+    "examples": [
+     "If negotiations fail, chaos will reign across the region.",
+     "The team hopes to reign supreme in the tournament this year."
+    ]
+   }
+  ],
+  "examples": [
+   "The new king will reign with fairness and justice.",
+   "If negotiations fail, chaos will reign across the region.",
+   "The team hopes to reign supreme in the tournament this year."
+  ],
+  "translations": [
+   "يحكم",
+   "يسود",
+   "يهيمن"
+  ],
+  "relations": {
+   "synonyms": [
+    "rule",
+    "govern",
+    "prevail",
+    "dominate"
+   ],
+   "antonyms": [
+    "serve",
+    "obey",
+    "submit"
+   ],
+   "collocations": [
+    "reign supreme",
+    "reign over",
+    "terror reign"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/reɪn/",
+  "phonetic_uk": "/reɪn/",
+  "syllables": [
+   "reign"
+  ],
+  "semantic_tags": [
+   "rule",
+   "power",
+   "royalty",
+   "governance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To rule as a monarch, or to predominate and prevail in a particular situation.",
+  "explanation_ar": "يحكم ويسيطر كملك، أو تسود حالة معينة وتنتشر (مثل سيادة الفوضى أو الهدوء).",
+  "examples": [
+   "The new king will reign with fairness and justice.",
+   "If negotiations fail, chaos will reign across the region.",
+   "The team hopes to reign supreme in the tournament this year."
+  ],
+  "translations": {
+   "arabic_ar": "يحكم يسود يهيمن"
+  },
+  "synonyms": [
+   "rule",
+   "govern",
+   "prevail",
+   "dominate"
+  ],
+  "antonyms": [
+   "serve",
+   "obey",
+   "submit"
+  ],
+  "collocations": [
+   "reign supreme",
+   "reign over",
+   "terror reign"
+  ],
+  "mnemonic_ar": null
+ }
+}

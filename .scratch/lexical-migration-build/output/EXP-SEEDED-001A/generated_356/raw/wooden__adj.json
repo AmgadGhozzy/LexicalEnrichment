@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "wooden",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "wooden",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Made of wood; (of a person or behavior) stiff, awkward, and showing little or no emotion.",
+  "explanation_ar": "مصنوع من الخشب، وتُستخدم أيضاً مجازياً لوصف الشخص أو الأداء المتخشب والجامد الخالي من التعبير.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Made of wood.",
+    "explanation_ar": "مصنوع من مادة الخشب.",
+    "examples": [
+     "She stirred the soup with a wooden spoon.",
+     "They built a small wooden house."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Stiff and awkward in movement or manner; showing no natural emotion.",
+    "explanation_ar": "جامد أو متخشب في الحركة أو التعبير.",
+    "examples": [
+     "His acting was rather wooden and unconvincing."
+    ]
+   }
+  ],
+  "examples": [
+   "She stirred the soup with a wooden spoon.",
+   "They built a small wooden house.",
+   "His acting was rather wooden and unconvincing."
+  ],
+  "translations": [
+   "خشبي",
+   "متخشب",
+   "جامد"
+  ],
+  "relations": {
+   "synonyms": [
+    "stiff",
+    "rigid",
+    "awkward",
+    "expressionless"
+   ],
+   "antonyms": [
+    "natural",
+    "lively",
+    "flexible"
+   ],
+   "collocations": [
+    "wooden spoon",
+    "wooden floor",
+    "wooden box",
+    "wooden door"
+   ]
+  },
+  "mnemonic": "من 'Wood' 'خشب'.. وزودنا 'en' عشان تبقى صفة.",
+  "phonetic_us": "/ˈwʊd.ən/",
+  "phonetic_uk": "/ˈwʊd.n̩/",
+  "syllables": "wood•en",
+  "semantic_tags": [
+   "material",
+   "wood",
+   "furniture",
+   "description"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Made of wood; (of a person or behavior) stiff, awkward, and showing little or no emotion.",
+  "explanation_ar": "مصنوع من الخشب، وتُستخدم أيضاً مجازياً لوصف الشخص أو الأداء المتخشب والجامد الخالي من التعبير.",
+  "examples": [
+   "She stirred the soup with a wooden spoon.",
+   "They built a small wooden house.",
+   "His acting was rather wooden and unconvincing."
+  ],
+  "translations": {
+   "arabic_ar": "خشبي متخشب جامد"
+  },
+  "synonyms": [
+   "stiff",
+   "rigid",
+   "awkward",
+   "expressionless"
+  ],
+  "antonyms": [
+   "natural",
+   "lively",
+   "flexible"
+  ],
+  "collocations": [
+   "wooden spoon",
+   "wooden floor",
+   "wooden box",
+   "wooden door"
+  ],
+  "mnemonic_ar": "من 'Wood' 'خشب'.. وزودنا 'en' عشان تبقى صفة."
+ }
+}

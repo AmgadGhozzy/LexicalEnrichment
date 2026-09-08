@@ -1,0 +1,5866 @@
+{
+ "eval_id": "eval_seeded60_v1",
+ "seed": 600115,
+ "items": [
+  {
+   "eval_id": "eval_seeded60_v1-0001",
+   "lemma": "accurate",
+   "pos": "adj",
+   "armA": {
+    "definition": "Correct in all details; exact and free from error.",
+    "arabic": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+    "examples": [
+     "The clock is accurate.",
+     "Is this information accurate?",
+     "Please give an accurate description.",
+     "The figures are not completely accurate.",
+     "Accurate forecasting is essential for business.",
+     "Historians strive for an accurate account of events."
+    ],
+    "translations": "دقيق",
+    "relations": {
+     "synonyms": [
+      "precise",
+      "correct",
+      "exact"
+     ],
+     "antonyms": [
+      "inaccurate",
+      "wrong"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح."
+   },
+   "armB": {
+    "definition": "Correct in all details; exact and free from error.",
+    "arabic": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+    "examples": [
+     "Is this information accurate?",
+     "Please give an accurate description.",
+     "The figures are not completely accurate."
+    ],
+    "translations": "دقيق مضبوط",
+    "relations": {
+     "synonyms": [
+      "precise",
+      "correct",
+      "exact"
+     ],
+     "antonyms": [
+      "inaccurate",
+      "wrong"
+     ],
+     "collocations": [
+      "accurate description",
+      "accurate record",
+      "highly accurate"
+     ]
+    },
+    "mnemonic": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0002",
+   "lemma": "administer",
+   "pos": "verb",
+   "armA": {
+    "definition": "To manage and organize the affairs of a company or to give a treatment to a patient.",
+    "arabic": "يدير أو يعطي. ممكن تيجي بمعنى يدير شغل أو منظمة، وممكن تيجي بمعنى يعطي دواء لمريض.",
+    "examples": [
+     "He administers the group.",
+     "The doctor administers the medicine.",
+     "She helps to administer the school's daily operations.",
+     "The fund is administered by a professional bank.",
+     "The nurse was trained to administer first aid in emergencies.",
+     "The court has the authority to administer justice in this region."
+    ],
+    "translations": "يدير / يعطي (دواء)",
+    "relations": {
+     "synonyms": [
+      "manage",
+      "direct",
+      "dispense",
+      "provide"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Admin'.. الـ 'Admin' هو اللي بيعمل 'Administer' 'بيدير' الجروب أو الشغل."
+   },
+   "armB": {
+    "definition": "To manage and organize the affairs of a business or institution, or to officially give or apply something such as medicine or justice.",
+    "arabic": "يدير أو يُشرف على عمل أو مؤسسة، أو يعطي علاجاً/دواءً لمريض، أو يطبّق وينفّذ إجراءً رسمياً مثل تطبيق العدالة.",
+    "examples": [
+     "She helps to administer the school's daily operations.",
+     "The nurse was trained to administer first aid in emergencies.",
+     "The court has the authority to administer justice in this region."
+    ],
+    "translations": "يدير يعطي (دواءً) يطبّق (العدالة/القانون)",
+    "relations": {
+     "synonyms": [
+      "manage",
+      "direct",
+      "dispense",
+      "execute"
+     ],
+     "antonyms": [
+      "mismanage",
+      "neglect"
+     ],
+     "collocations": [
+      "administer justice",
+      "administer medication",
+      "administer a test",
+      "administer first aid"
+     ]
+    },
+    "mnemonic": "جاية من 'Admin'.. الـ 'Admin' هو اللي بيعمل 'Administer' 'بيدير' الجروب أو الشغل."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0003",
+   "lemma": "archbishop",
+   "pos": "noun",
+   "armA": {
+    "definition": "A chief bishop responsible for an archdiocese.",
+    "arabic": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+    "examples": [
+     "He was appointed as the new archbishop.",
+     "The archbishop delivered a sermon on peace.",
+     "Ecclesiastical laws are interpreted by the archbishop."
+    ],
+    "translations": "رئيس الأساقفة",
+    "relations": {
+     "synonyms": [
+      "primate",
+      "metropolitan"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "appoint an archbishop",
+      "archbishop of Canterbury",
+      "archbishop's palace"
+     ]
+    },
+    "mnemonic": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'."
+   },
+   "armB": {
+    "definition": "A chief bishop responsible for an archdiocese.",
+    "arabic": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+    "examples": [
+     "The archbishop prayed.",
+     "We saw the archbishop at the church.",
+     "The Archbishop of Canterbury is a famous figure.",
+     "He was appointed as the new archbishop.",
+     "The archbishop delivered a sermon on peace.",
+     "Ecclesiastical laws are interpreted by the archbishop."
+    ],
+    "translations": "رئيس الأساقفة",
+    "relations": {
+     "synonyms": [
+      "high priest",
+      "primate"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0004",
+   "lemma": "articulate",
+   "pos": "adj",
+   "armA": {
+    "definition": "Able to express thoughts and feelings clearly and effectively.",
+    "arabic": "شخص فصيح، بيعرف يعبر عن أفكاره بوضوح ولباقة.",
+    "examples": [
+     "She is very articulate for her age.",
+     "He is an intelligent and articulate speaker.",
+     "The teacher gave an articulate explanation."
+    ],
+    "translations": "فصيح بليغ مُعبِّر لبق",
+    "relations": {
+     "synonyms": [
+      "eloquent",
+      "fluent",
+      "coherent",
+      "expressive"
+     ],
+     "antonyms": [
+      "inarticulate",
+      "hesitant",
+      "unclear"
+     ],
+     "collocations": [
+      "highly articulate",
+      "articulate speaker",
+      "articulate speech"
+     ]
+    },
+    "mnemonic": "زي 'Article' 'مقال'.. الشخص الـ 'Articulate' بيتكلم بوضوح وترتيب كأنه بيقرا 'Article' مكتوب ببراعة."
+   },
+   "armB": {
+    "definition": "Able to express thoughts and feelings clearly and effectively.",
+    "arabic": "شخص فصيح، بيعرف يعبر عن أفكاره بوضوح ولباقة.",
+    "examples": [
+     "He speaks clearly.",
+     "She is very articulate for her age.",
+     "The teacher gave an articulate explanation.",
+     "He is an intelligent and articulate speaker.",
+     "She was unusually articulate about her feelings.",
+     "The lawyer presented a highly articulate defense of his client."
+    ],
+    "translations": "واضح / بوضوح",
+    "relations": {
+     "synonyms": [
+      "eloquent",
+      "fluent",
+      "coherent",
+      "expressive"
+     ],
+     "antonyms": [
+      "inarticulate",
+      "hesitant",
+      "unclear"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "زي 'Article' 'مقال'.. الشخص الـ 'Articulate' بيتكلم بوضوح وترتيب كأنه بيقرا 'Article' مكتوب ببراعة."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0005",
+   "lemma": "but",
+   "pos": "prep",
+   "armA": {
+    "definition": "Except; apart from.",
+    "arabic": "بتيجي بمعنى 'إلا' أو 'باستثناء'. زي لما تقول 'كلهم مشيوا ما عدا هو'.",
+    "examples": [
+     "Everyone but Tom was there.",
+     "I have nothing left but hope.",
+     "There is no one here but me.",
+     "The last but one.",
+     "Anything but that.",
+     "They had no alternative but to surrender."
+    ],
+    "translations": "باستثناء / عدا",
+    "relations": {
+     "synonyms": [
+      "except",
+      "save",
+      "apart from"
+     ],
+     "antonyms": [
+      "including"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "Except; apart from.",
+    "arabic": "بتيجي بمعنى 'إلا' أو 'باستثناء'. زي لما تقول 'كلهم مشيوا ما عدا هو'.",
+    "examples": [
+     "Everyone but Tom was there.",
+     "There is no one here but me.",
+     "They had no alternative but to surrender."
+    ],
+    "translations": "باستثناء عدا إلا ما عدا",
+    "relations": {
+     "synonyms": [
+      "except",
+      "apart from",
+      "save"
+     ],
+     "antonyms": [
+      "including"
+     ],
+     "collocations": [
+      "everyone but",
+      "nothing but",
+      "all but",
+      "anything but"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0006",
+   "lemma": "call",
+   "pos": "verb",
+   "armA": {
+    "definition": "To contact someone by phone or shout to them.",
+    "arabic": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+    "examples": [
+     "Please call me tomorrow.",
+     "They call him 'Big Joe'.",
+     "I will call a taxi for you."
+    ],
+    "translations": "يَتَّصِل يُنَادِي يُسَمِّي",
+    "relations": {
+     "synonyms": [
+      "phone",
+      "name",
+      "summon",
+      "shout"
+     ],
+     "antonyms": [
+      "whisper",
+      "ignore"
+     ],
+     "collocations": [
+      "call back",
+      "call off",
+      "call for",
+      "call on"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "To contact someone by phone or shout to them.",
+    "arabic": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+    "examples": [
+     "Please call me tomorrow.",
+     "They call him 'Big Joe'.",
+     "I will call a taxi for you.",
+     "The meeting was called to order.",
+     "I call into question his honesty.",
+     "The situation calls for immediate action."
+    ],
+    "translations": "يَتَّصِل / يُنَادِي",
+    "relations": {
+     "synonyms": [
+      "phone",
+      "name",
+      "summon",
+      "shout"
+     ],
+     "antonyms": [
+      "whisper",
+      "ignore"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0007",
+   "lemma": "can",
+   "pos": "modal",
+   "armA": {
+    "definition": "To be able to or permitted to do something.",
+    "arabic": "بمعنى 'يقدر' أو 'يستطيع' عمل شيء، أو يُستخدم لطلب الإذن.",
+    "examples": [
+     "I can swim.",
+     "Can you help me?",
+     "You can park here."
+    ],
+    "translations": "يستطيع يقدر يمكن أن",
+    "relations": {
+     "synonyms": [
+      "able to",
+      "capable of"
+     ],
+     "antonyms": [
+      "cannot",
+      "can't"
+     ],
+     "collocations": [
+      "can do",
+      "can be",
+      "can help"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "To be able to or permitted to do something.",
+    "arabic": "بمعنى 'يقدر' أو 'يستطيع' يعمل حاجة.",
+    "examples": [
+     "I can swim.",
+     "Can you help me?",
+     "You can park here.",
+     "Can it be true?",
+     "I can't help thinking about it.",
+     "One can hardly imagine the difficulty."
+    ],
+    "translations": "يستطيع",
+    "relations": {
+     "synonyms": [
+      "able to",
+      "capable of"
+     ],
+     "antonyms": [
+      "cannot",
+      "can't"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0008",
+   "lemma": "chat",
+   "pos": "verb",
+   "armA": {
+    "definition": "To talk in a friendly and informal way.",
+    "arabic": "يدردش أو يتكلم مع حد بشكل ودي وبسيط.",
+    "examples": [
+     "I like to chat with my friends online.",
+     "She likes to chat on the phone.",
+     "They often sit in the café and chat for hours."
+    ],
+    "translations": "يدردش يتحدث بود",
+    "relations": {
+     "synonyms": [
+      "talk",
+      "converse",
+      "chatter"
+     ],
+     "antonyms": [
+      "ignore",
+      "keep silent"
+     ],
+     "collocations": [
+      "chat with",
+      "chat online",
+      "chat away"
+     ]
+    },
+    "mnemonic": "نفس كلمة 'شات'.. بتعمل شات مع صاحبك."
+   },
+   "armB": {
+    "definition": "To talk in a friendly and informal way.",
+    "arabic": "يدردش أو يتكلم مع حد بشكل ودي وبسيط.",
+    "examples": [
+     "I chat with my friends.",
+     "She likes to chat on the phone.",
+     "We chatted for hours about nothing.",
+     "He was chatting up a girl at the bar.",
+     "They chatted amiably despite their differences.",
+     "We chatted away the afternoon in the garden."
+    ],
+    "translations": "يدردش",
+    "relations": {
+     "synonyms": [
+      "talk",
+      "gossip",
+      "converse",
+      "jabber"
+     ],
+     "antonyms": [
+      "ignore"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "نفس كلمة 'شات'.. بتعمل شات مع صاحبك."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0009",
+   "lemma": "chin",
+   "pos": "noun",
+   "armA": {
+    "definition": "The protruding part of the face below the mouth.",
+    "arabic": "منطقة الدقن اللي في وشك تحت بوقك.",
+    "examples": [
+     "He has a small chin.",
+     "She rested her chin on her hand.",
+     "He rubbed the stubble on his chin.",
+     "Keep your chin up, things will get better.",
+     "The boxer took a heavy blow to the chin.",
+     "He has a prominent, cleft chin."
+    ],
+    "translations": "ذقن",
+    "relations": {
+     "synonyms": [
+      "jaw",
+      "mentum"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Chin' قريبة من 'Cheek'.. الاتنين في الوش."
+   },
+   "armB": {
+    "definition": "The protruding part of the face below the mouth.",
+    "arabic": "منطقة الدقن اللي في وشك تحت بوقك.",
+    "examples": [
+     "She rested her chin on her hand.",
+     "He rubbed the stubble on his chin.",
+     "The boxer took a heavy blow to the chin."
+    ],
+    "translations": "ذقن",
+    "relations": {
+     "synonyms": [],
+     "antonyms": [],
+     "collocations": [
+      "double chin",
+      "cleft chin",
+      "keep your chin up",
+      "stroke one's chin"
+     ]
+    },
+    "mnemonic": "كلمة 'Chin' قريبة من 'Cheek'.. الاتنين في الوش."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0010",
+   "lemma": "chop",
+   "pos": "verb",
+   "armA": {
+    "definition": "To cut something into pieces with a sharp tool like a knife or axe.",
+    "arabic": "يقطع أو يفرم. تقطع حاجة حتت صغيرة بالسكينة أو الفاس.",
+    "examples": [
+     "Please chop the onions into small pieces.",
+     "Use a sharp axe to chop wood for the fire.",
+     "They plan to chop down the old tree in the garden."
+    ],
+    "translations": "يَقْطَع يَفْرُم",
+    "relations": {
+     "synonyms": [
+      "cut",
+      "dice",
+      "slice",
+      "mince",
+      "hack"
+     ],
+     "antonyms": [
+      "attach",
+      "join"
+     ],
+     "collocations": [
+      "chop up",
+      "chop down",
+      "chop off"
+     ]
+    },
+    "mnemonic": "تخيل الشيف بيعمل 'Chop chop' بسرعة وهو بيقطع الخضار"
+   },
+   "armB": {
+    "definition": "To cut something into pieces with a sharp tool like a knife or axe.",
+    "arabic": "يقطع أو يفرم. تقطع حاجة حتت صغيرة بالسكينة أو الفاس.",
+    "examples": [
+     "Please chop the onions.",
+     "He chopped wood for the fire.",
+     "Chop the carrots into small cubes.",
+     "They chopped down the old tree in the garden.",
+     "The budget was chopped by fifty percent.",
+     "The helicopter blades chopped through the heavy air."
+    ],
+    "translations": "يَقْطَع / يَفْرُم",
+    "relations": {
+     "synonyms": [
+      "cut",
+      "dice",
+      "slice",
+      "mince",
+      "hack"
+     ],
+     "antonyms": [
+      "attach",
+      "join"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "تخيل الشيف بيعمل 'Chop chop' بسرعة وهو بيقطع الخضار"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0011",
+   "lemma": "colour",
+   "pos": "noun",
+   "armA": {
+    "definition": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects light.",
+    "arabic": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+    "examples": [
+     "The sky is a beautiful blue colour.",
+     "She added some colour to the drawing.",
+     "The leaves change colour in autumn."
+    ],
+    "translations": "لون",
+    "relations": {
+     "synonyms": [
+      "hue",
+      "shade",
+      "tint",
+      "tone"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "bright colour",
+      "dark colour",
+      "change colour",
+      "colour scheme",
+      "primary colour"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects light.",
+    "arabic": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+    "examples": [
+     "What is your favorite colour?",
+     "The sky is a beautiful blue colour.",
+     "She added some colour to the drawing.",
+     "The leaves change colour in autumn.",
+     "The festival was a riot of colour and sound.",
+     "His writing lacks colour and imagination."
+    ],
+    "translations": "لون",
+    "relations": {
+     "synonyms": [
+      "hue",
+      "shade",
+      "tint",
+      "tone"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0012",
+   "lemma": "correctly",
+   "pos": "adv",
+   "armA": {
+    "definition": "In a way that is true or accurate.",
+    "arabic": "إنك تعمل الحاجة صح من غير غلطات.",
+    "examples": [
+     "Spell your name correctly.",
+     "He answered correctly.",
+     "If I remember correctly, he was there.",
+     "The machine was not operating correctly.",
+     "She correctly predicted the outcome of the election.",
+     "The data must be interpreted correctly to be useful."
+    ],
+    "translations": "بشكل صحيح / صحيح",
+    "relations": {
+     "synonyms": [
+      "accurately",
+      "rightly",
+      "properly",
+      "precisely"
+     ],
+     "antonyms": [
+      "incorrectly",
+      "wrongly",
+      "falsely"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Correct' 'صح'.. يعني عملتها بشكل 'Correct'."
+   },
+   "armB": {
+    "definition": "In a way that is true or accurate.",
+    "arabic": "إنك تعمل الحاجة صح من غير غلطات.",
+    "examples": [
+     "Spell your name correctly.",
+     "He answered correctly.",
+     "If I remember correctly, he was there."
+    ],
+    "translations": "بشكل صحيح صحيح",
+    "relations": {
+     "synonyms": [
+      "accurately",
+      "rightly",
+      "properly",
+      "precisely"
+     ],
+     "antonyms": [
+      "incorrectly",
+      "wrongly",
+      "falsely"
+     ],
+     "collocations": [
+      "answer correctly",
+      "remember correctly",
+      "spell correctly",
+      "act correctly"
+     ]
+    },
+    "mnemonic": "جاية من 'Correct' 'صح'.. يعني عملتها بشكل 'Correct'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0013",
+   "lemma": "deal",
+   "pos": "noun",
+   "armA": {
+    "definition": "An agreement entered into by two or more parties for their mutual benefit.",
+    "arabic": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+    "examples": [
+     "It is a good deal.",
+     "We made a deal with the supplier.",
+     "The government signed a trade deal with China."
+    ],
+    "translations": "اتفاق صفقة",
+    "relations": {
+     "synonyms": [
+      "agreement",
+      "bargain",
+      "contract",
+      "arrangement",
+      "pact"
+     ],
+     "antonyms": [
+      "disagreement"
+     ],
+     "collocations": [
+      "make a deal",
+      "big deal",
+      "good deal",
+      "great deal",
+      "business deal"
+     ]
+    },
+    "mnemonic": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص."
+   },
+   "armB": {
+    "definition": "An agreement entered into by two or more parties for their mutual benefit.",
+    "arabic": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+    "examples": [
+     "It is a good deal.",
+     "We made a deal with the supplier.",
+     "I have a great deal of work to do today.",
+     "The government signed a trade deal with China.",
+     "He got a raw deal from the insurance company.",
+     "The peace deal was brokered under difficult circumstances."
+    ],
+    "translations": "اتفاق / صفقة",
+    "relations": {
+     "synonyms": [
+      "agreement",
+      "bargain",
+      "contract",
+      "arrangement",
+      "pact"
+     ],
+     "antonyms": [
+      "disagreement"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0014",
+   "lemma": "deal",
+   "pos": "verb",
+   "armA": {
+    "definition": "To take action to solve a problem (deal with) or to distribute cards in a game.",
+    "arabic": "إنك تتعامل مع مشكلة أو شخص، أو توزع الكوتشينة في اللعب.",
+    "examples": [
+     "I have to deal with this problem immediately.",
+     "We only deal with reputable companies.",
+     "Whose turn is it to deal the cards?"
+    ],
+    "translations": "يتعامل مع يوزع",
+    "relations": {
+     "synonyms": [
+      "handle",
+      "manage",
+      "cope",
+      "distribute"
+     ],
+     "antonyms": [
+      "ignore",
+      "avoid"
+     ],
+     "collocations": [
+      "deal with",
+      "deal cards",
+      "deal a blow",
+      "deal in",
+      "deal out"
+     ]
+    },
+    "mnemonic": "لما تقول 'Deal with it' يعني 'اتعامل' مع الموضوع وحله."
+   },
+   "armB": {
+    "definition": "To take action to solve a problem (deal with) or to distribute cards in a game.",
+    "arabic": "إنك تتعامل مع مشكلة أو شخص، أو توزع الكوتشينة في اللعب.",
+    "examples": [
+     "I deal the cards now.",
+     "I have to deal with this problem immediately.",
+     "The book deals with the history of Egypt.",
+     "We only deal with reputable companies.",
+     "She is used to dealing with difficult customers.",
+     "The sanctions were designed to deal a blow to the regime."
+    ],
+    "translations": "يتعامل مع / يوزع",
+    "relations": {
+     "synonyms": [
+      "handle",
+      "manage",
+      "cope",
+      "treat",
+      "distribute"
+     ],
+     "antonyms": [
+      "ignore",
+      "avoid"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "لما تقول 'Deal with it' يعني 'اتعامل' مع الموضوع وحله."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0015",
+   "lemma": "dependent",
+   "pos": "adj",
+   "armA": {
+    "definition": "Relying on someone or something else for support or survival.",
+    "arabic": "معتمد على حد أو حاجة تانية، مش مستقل بنفسه.",
+    "examples": [
+     "Babies are dependent on their mothers.",
+     "He is dependent on his parents for money.",
+     "Your grade is dependent on your final exam.",
+     "The country is heavily dependent on oil exports.",
+     "Drug dependent patients need special care.",
+     "The variables are mutually dependent in this equation."
+    ],
+    "translations": "معتمد / تابع",
+    "relations": {
+     "synonyms": [
+      "reliant",
+      "conditional",
+      "helpless"
+     ],
+     "antonyms": [
+      "independent",
+      "autonomous"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Depend' 'يعتمد'.. الـ 'Dependent' هو الشخص اللي بيعمل 'Depend' على غيره."
+   },
+   "armB": {
+    "definition": "Relying on someone or something else for support or survival.",
+    "arabic": "معتمد على حد أو حاجة تانية، مش مستقل بنفسه.",
+    "examples": [
+     "Babies are dependent on their mothers.",
+     "The country is heavily dependent on oil exports.",
+     "Your grade is dependent on your final exam."
+    ],
+    "translations": "معتمد تابع",
+    "relations": {
+     "synonyms": [
+      "reliant",
+      "conditional"
+     ],
+     "antonyms": [
+      "independent",
+      "autonomous"
+     ],
+     "collocations": [
+      "dependent on",
+      "chemically dependent",
+      "dependent children"
+     ]
+    },
+    "mnemonic": "جاية من 'Depend' 'يعتمد'.. الـ 'Dependent' هو الشخص اللي بيعمل 'Depend' على غيره."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0016",
+   "lemma": "dolphin",
+   "pos": "noun",
+   "armA": {
+    "definition": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+    "arabic": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+    "examples": [
+     "The dolphin swims fast.",
+     "I saw a dolphin in the sea.",
+     "A dolphin jumped out of the water next to our boat."
+    ],
+    "translations": "دلفين",
+    "relations": {
+     "synonyms": [],
+     "antonyms": [],
+     "collocations": [
+      "bottlenose dolphin",
+      "playful dolphin"
+     ]
+    },
+    "mnemonic": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب."
+   },
+   "armB": {
+    "definition": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+    "arabic": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+    "examples": [
+     "The dolphin swims fast.",
+     "I saw a dolphin in the sea.",
+     "Dolphins are known for their intelligence.",
+     "We went on a boat trip to watch the dolphins.",
+     "The dolphin's sonar capabilities are fascinating to scientists.",
+     "Conservationists are worried about the declining dolphin population."
+    ],
+    "translations": "دلفين",
+    "relations": {
+     "synonyms": [
+      "porpoise",
+      "cetacean"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0017",
+   "lemma": "double",
+   "pos": "pron",
+   "armA": {
+    "definition": "A thing or person that is the same as another; twice the quantity.",
+    "arabic": "حاجة أو شخص شبه التاني بالظبط، أو كمية مضاعفة.",
+    "examples": [
+     "Give me a double.",
+     "He is the double of his father.",
+     "Make that a double, please.",
+     "She acted as a double for the actress.",
+     "His body double did the dangerous stunts.",
+     "To pay double is unfair."
+    ],
+    "translations": "ضعف / شبيه",
+    "relations": {
+     "synonyms": [
+      "lookalike",
+      "twin",
+      "duplicate"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "Twice the amount, size, or number of something.",
+    "arabic": "ضِعف الشيء، أي مقداره أو كميته مرتين.",
+    "examples": [
+     "She earns double what I do for the same work.",
+     "To pay double for the same ticket is completely unfair.",
+     "We cooked enough food for ten guests, which was double what we needed."
+    ],
+    "translations": "ضِعْف مِثْلَا الشَّيْء",
+    "relations": {
+     "synonyms": [
+      "twice as much"
+     ],
+     "antonyms": [
+      "half"
+     ],
+     "collocations": [
+      "pay double",
+      "cost double",
+      "earn double"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0018",
+   "lemma": "downtown",
+   "pos": "adv",
+   "armA": {
+    "definition": "To or in the main business or commercial area of a town or city.",
+    "arabic": "في أو إلى وسط البلد، أي في أو نحو المنطقة التجارية والمركزية للمدينة.",
+    "examples": [
+     "She lives downtown.",
+     "He works downtown but lives in the suburbs.",
+     "We drove downtown to see the parade."
+    ],
+    "translations": "في وسط البلد إلى وسط البلد",
+    "relations": {
+     "synonyms": [
+      "to the city center",
+      "centrally"
+     ],
+     "antonyms": [
+      "uptown"
+     ],
+     "collocations": [
+      "go downtown",
+      "live downtown",
+      "head downtown",
+      "drive downtown"
+     ]
+    },
+    "mnemonic": "لما تقول 'I am going downtown' كأنك بتقول أنا نازل 'Down' لقلب الـ 'Town'."
+   },
+   "armB": {
+    "definition": "To or in the main business or commercial area of a town or city.",
+    "arabic": "ناحية وسط البلد، لما تكون رايح للمنطقة التجارية.",
+    "examples": [
+     "Let's go downtown.",
+     "She lives downtown.",
+     "We drove downtown to see the parade.",
+     "He works downtown but lives in the suburbs.",
+     "They ventured downtown to explore the nightlife.",
+     "The protest marched downtown, gathering momentum along the way."
+    ],
+    "translations": "إلى وسط البلد",
+    "relations": {
+     "synonyms": [
+      "centrally",
+      "to the city center"
+     ],
+     "antonyms": [
+      "uptown",
+      "suburban"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "لما تقول 'I am going downtown' كأنك بتقول أنا نازل 'Down' لقلب الـ 'Town'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0019",
+   "lemma": "draft",
+   "pos": "verb",
+   "armA": {
+    "definition": "To prepare a preliminary version of a text; or to recruit someone for military service.",
+    "arabic": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند حد في الجيش.",
+    "examples": [
+     "The legal team will draft a new contract tomorrow.",
+     "You should draft a preliminary outline before writing the final essay.",
+     "The military may draft eligible citizens during a national crisis."
+    ],
+    "translations": "يكتب مسودة يُعد مسودة يُجنّد",
+    "relations": {
+     "synonyms": [
+      "compose",
+      "outline",
+      "conscript",
+      "recruit"
+     ],
+     "antonyms": [
+      "finalize"
+     ],
+     "collocations": [
+      "draft a proposal",
+      "draft a contract",
+      "draft a plan"
+     ]
+    },
+    "mnemonic": "نفس فكرة الاسم.. بيعمل 'Draft' يعني بيجهز ويخطط."
+   },
+   "armB": {
+    "definition": "To prepare a preliminary version of a text; or to recruit someone for military service.",
+    "arabic": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند حد في الجيش.",
+    "examples": [
+     "Draft a letter.",
+     "We drafted a plan for the party.",
+     "She was drafted into the team.",
+     "Lawyers drafted the new contract.",
+     "He was drafted into the army at age 18.",
+     "The committee drafted a resolution to address the crisis."
+    ],
+    "translations": "مسودة",
+    "relations": {
+     "synonyms": [
+      "compose",
+      "outline",
+      "recruit",
+      "conscript"
+     ],
+     "antonyms": [
+      "finalize"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "نفس فكرة الاسم.. بيعمل 'Draft' يعني بيجهز ويخطط."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0020",
+   "lemma": "dry",
+   "pos": "verb",
+   "armA": {
+    "definition": "To make something free from water or liquid.",
+    "arabic": "إنك تنشف حاجة وتشيل منها المية.",
+    "examples": [
+     "You can dry your hands on the towel.",
+     "The sun will dry the clothes.",
+     "I need to dry my hair."
+    ],
+    "translations": "يجفف ينشف",
+    "relations": {
+     "synonyms": [
+      "dehydrate"
+     ],
+     "antonyms": [
+      "wet",
+      "moisten",
+      "soak"
+     ],
+     "collocations": [
+      "dry off",
+      "dry out",
+      "dry up"
+     ]
+    },
+    "mnemonic": "اربط الفعل بأجهزة شائعة مثل hairdryer (مجفف الشعر)؛ فالفعل dry يعني يجفف أو ينشف."
+   },
+   "armB": {
+    "definition": "To make something free from water or liquid.",
+    "arabic": "إنك تنشف حاجة وتشيل منها المية.",
+    "examples": [
+     "Dry your hands on the towel.",
+     "The sun will dry the clothes.",
+     "I need to dry my hair.",
+     "The wood needs time to dry out.",
+     "The tears dried on her cheeks.",
+     "The soil has dried up completely due to the drought."
+    ],
+    "translations": "يجفف",
+    "relations": {
+     "synonyms": [
+      "dehydrate",
+      "parch",
+      "drain"
+     ],
+     "antonyms": [
+      "wet",
+      "moisten",
+      "soak"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "نفس الاسم، 'Dry' يعني ينشف."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0021",
+   "lemma": "elbow",
+   "pos": "noun",
+   "armA": {
+    "definition": "The joint between the forearm and the upper arm.",
+    "arabic": "الكوع، المفصل اللي بيربط بين دراعك من فوق ومن تحت.",
+    "examples": [
+     "My elbow hurts.",
+     "He rested his elbows on the table.",
+     "She nudged him with her elbow.",
+     "The room was so crowded we were standing elbow to elbow.",
+     "He used some elbow grease to clean the floor.",
+     "She accidentally banged her funny bone, which is actually the nerve in the elbow."
+    ],
+    "translations": "مِرفَق / كوع",
+    "relations": {
+     "synonyms": [
+      "joint",
+      "arm joint"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Elbow' .. شكل الكوع عامل زي حرف 'L' .. 'L-bow'."
+   },
+   "armB": {
+    "definition": "The joint between the forearm and the upper arm.",
+    "arabic": "الكوع، المفصل اللي بيربط بين دراعك من فوق ومن تحت.",
+    "examples": [
+     "My elbow hurts.",
+     "She nudged him with her elbow.",
+     "He rested his elbow on the table."
+    ],
+    "translations": "مِرفَق كوع",
+    "relations": {
+     "synonyms": [],
+     "antonyms": [],
+     "collocations": [
+      "elbow grease",
+      "tennis elbow",
+      "rub elbows"
+     ]
+    },
+    "mnemonic": "كلمة 'Elbow' .. شكل الكوع عامل زي حرف 'L' .. 'L-bow'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0022",
+   "lemma": "embryo",
+   "pos": "noun",
+   "armA": {
+    "definition": "An unborn offspring in the process of development; an early stage of something.",
+    "arabic": "الجنين في مراحله الأولى قبل اكتمال تكوينه، أو مرحلة البداية والتطور المبكر لأي مشروع أو فكرة.",
+    "examples": [
+     "The doctor checked the health of the embryo.",
+     "Human embryo research is a controversial topic.",
+     "The idea of democracy was present in embryo in ancient Greece."
+    ],
+    "translations": "جنين طور جنيني مبكر",
+    "relations": {
+     "synonyms": [
+      "fetus",
+      "germ",
+      "rudiment"
+     ],
+     "antonyms": [
+      "adult"
+     ],
+     "collocations": [
+      "human embryo",
+      "frozen embryo",
+      "embryo transfer",
+      "in embryo"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "An unborn offspring in the process of development; an early stage of something.",
+    "arabic": "الجنين في مراحله الأولى خالص قبل ما يتكون شكله الكامل، أو بداية أي فكرة.",
+    "examples": [
+     "The egg has an embryo.",
+     "We studied the chicken embryo.",
+     "The doctor checked the health of the embryo.",
+     "The project is still in embryo.",
+     "Human embryo research is a controversial topic.",
+     "The idea of democracy was present in embryo in ancient Greece."
+    ],
+    "translations": "جنين / جرثومة",
+    "relations": {
+     "synonyms": [
+      "fetus",
+      "fertilized egg",
+      "beginning",
+      "germ"
+     ],
+     "antonyms": [
+      "adult"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0023",
+   "lemma": "example",
+   "pos": "noun",
+   "armA": {
+    "definition": "A thing characteristic of its kind or illustrating a general rule.",
+    "arabic": "مثال.. نموذج بيوضحلك الفكرة عشان تفهمها أحسن.",
+    "examples": [
+     "This is a good example.",
+     "Can you give me an example?",
+     "For example, you can eat fruit."
+    ],
+    "translations": "مثال",
+    "relations": {
+     "synonyms": [
+      "instance",
+      "sample",
+      "model"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "for example",
+      "good example",
+      "perfect example",
+      "set an example"
+     ]
+    },
+    "mnemonic": "كلمة 'Exam' 'امتحان' جزء منها.. والامتحان عبارة عن 'Examples' 'أمثلة' بنحلها."
+   },
+   "armB": {
+    "definition": "A thing characteristic of its kind or illustrating a general rule.",
+    "arabic": "مثال.. نموذج بيوضحلك الفكرة عشان تفهمها أحسن.",
+    "examples": [
+     "This is a good example.",
+     "Can you give me an example?",
+     "For example, you can eat fruit.",
+     "She sets a good example for her sister.",
+     "This case is a classic example of the problem.",
+     "He was punished to make an example of him."
+    ],
+    "translations": "مثال",
+    "relations": {
+     "synonyms": [
+      "instance",
+      "sample",
+      "specimen",
+      "model"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Exam' 'امتحان' جزء منها.. والامتحان عبارة عن 'Examples' 'أمثلة' بنحلها."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0024",
+   "lemma": "fowl",
+   "pos": "noun",
+   "armA": {
+    "definition": "Birds that are kept on a farm for their eggs or meat (like chickens), or wild birds hunted for food.",
+    "arabic": "الطيور اللي بتتربى في المزارع للأكل زي الفراخ والبط (الدواجن)، أو الطيور البرية التي تُصاد للأكل.",
+    "examples": [
+     "Chickens are a type of fowl.",
+     "They sell fish, meat, and fowl at the market.",
+     "The hunter returned with a brace of wild fowl."
+    ],
+    "translations": "طائر داجن دواجن",
+    "relations": {
+     "synonyms": [
+      "poultry",
+      "bird"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "wild fowl",
+      "guinea fowl",
+      "domestic fowl",
+      "fish and fowl"
+     ]
+    },
+    "mnemonic": "نفس نطق كلمة 'Foul' (فاول في الكورة) بس المعنى مختلف.. هنا معناها طيور أو دواجن."
+   },
+   "armB": {
+    "definition": "Birds that are kept on a farm for their eggs or meat (like chickens).",
+    "arabic": "الطيور اللي بتتربى في المزارع للأكل زي الفراخ والبط 'الدواجن'.",
+    "examples": [
+     "We keep fowl on the farm.",
+     "Chickens are a type of fowl.",
+     "They sell fish, meat, and fowl at the market.",
+     "The disease affected the local water fowl.",
+     "The hunter returned with a brace of wild fowl.",
+     "Guinea fowl are considered a delicacy in some cuisines."
+    ],
+    "translations": "طير / ديك",
+    "relations": {
+     "synonyms": [
+      "poultry",
+      "bird"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "نفس نطق كلمة 'Foul' 'فاول في الكورة' بس المعنى مختلف.. هنا معناها طيور."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0025",
+   "lemma": "hollow",
+   "pos": "adj",
+   "armA": {
+    "definition": "Having an empty space inside; not solid.",
+    "arabic": "مجوَّف.. يعني فاضي من جوا مش مصمت، زي الماسورة أو جذع شجرة فاضي",
+    "examples": [
+     "The ball is hollow inside.",
+     "Owls often live in hollow trees.",
+     "It was a hollow victory because nobody celebrated."
+    ],
+    "translations": "مجوَّف أجوف",
+    "relations": {
+     "synonyms": [
+      "empty",
+      "vacant",
+      "void"
+     ],
+     "antonyms": [
+      "solid",
+      "full",
+      "filled"
+     ],
+     "collocations": [
+      "hollow tree",
+      "hollow sound",
+      "hollow victory",
+      "hollow cheeks"
+     ]
+    },
+    "mnemonic": "كلمة 'Hollow' أولها 'Hole'.. يعني جواها خرم أو فراغ كبير"
+   },
+   "armB": {
+    "definition": "Having an empty space inside; not solid.",
+    "arabic": "مجوَّف.. يعني فاضي من جوا مش مصمت، زي الماسورة أو جذع شجرة فاضي",
+    "examples": [
+     "The ball is hollow inside.",
+     "Owls often live in hollow trees.",
+     "His voice sounded hollow in the empty room.",
+     "It was a hollow victory because nobody celebrated.",
+     "She felt a hollow emptiness in her chest after he left.",
+     "The politician's promises turned out to be hollow."
+    ],
+    "translations": "أجوف / مجوف",
+    "relations": {
+     "synonyms": [
+      "empty",
+      "vacant",
+      "void",
+      "cavity"
+     ],
+     "antonyms": [
+      "solid",
+      "full",
+      "filled"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Hollow' أولها 'Hole'.. يعني جواها خرم أو فراغ كبير"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0026",
+   "lemma": "indigenous",
+   "pos": "adj",
+   "armA": {
+    "definition": "Originating or occurring naturally in a particular place; native.",
+    "arabic": "أصلي أو بلدي؛ تُقال لوصف النباتات أو الحيوانات أو السكان الذين نشأوا وعاشوا في منطقة معينة بشكل طبيعي.",
+    "examples": [
+     "This plant is indigenous to Mexico.",
+     "The kangaroo is indigenous to Australia.",
+     "Globalization poses a threat to many indigenous languages and traditions."
+    ],
+    "translations": "أصلي متوطن محلي",
+    "relations": {
+     "synonyms": [
+      "native",
+      "aboriginal",
+      "local"
+     ],
+     "antonyms": [
+      "foreign",
+      "exotic",
+      "migrant"
+     ],
+     "collocations": [
+      "indigenous people",
+      "indigenous population",
+      "indigenous species"
+     ]
+    },
+    "mnemonic": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا."
+   },
+   "armB": {
+    "definition": "Originating or occurring naturally in a particular place; native.",
+    "arabic": "أصلي أو بلدي. بتتقال على السكان الأصليين لبلد، أو النباتات والحيوانات اللي نشأت في مكان معين طبيعياً.",
+    "examples": [
+     "Indigenous people live here.",
+     "This plant is indigenous to Mexico.",
+     "We learned about the indigenous culture.",
+     "The government protected the rights of indigenous tribes.",
+     "The kangaroo is indigenous to Australia.",
+     "Globalization poses a threat to many indigenous languages and traditions."
+    ],
+    "translations": "السكان الأصليين / فطري / طبيعي",
+    "relations": {
+     "synonyms": [
+      "native",
+      "aboriginal",
+      "local"
+     ],
+     "antonyms": [
+      "foreign",
+      "exotic",
+      "migrant"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0027",
+   "lemma": "jew",
+   "pos": "noun",
+   "armA": {
+    "definition": "A member of the people and cultural community whose traditional religion is Judaism.",
+    "arabic": "شخص بيتبع الديانة اليهودية أو بينتمي للشعب اليهودي.",
+    "examples": [
+     "He is a Jew.",
+     "Jews celebrate Hanukkah.",
+     "She learned about the history of the Jews.",
+     "The museum honors Jews who fought in the war.",
+     "Orthodox Jews follow strict dietary laws.",
+     "The diaspora of the Jews is a major historical subject."
+    ],
+    "translations": "اليهودي / يهودي",
+    "relations": {
+     "synonyms": [
+      "Hebrew",
+      "Israelite"
+     ],
+     "antonyms": [
+      "Gentile"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "A member of the people and cultural community whose traditional religion is Judaism.",
+    "arabic": "شخص بيتبع الديانة اليهودية أو بينتمي للشعب اليهودي.",
+    "examples": [
+     "He was raised as a Jew and continues to observe traditional holidays.",
+     "As a practicing Jew, David observes the Sabbath every Saturday.",
+     "A secular Jew may celebrate cultural traditions without being strictly religious."
+    ],
+    "translations": "يهودي",
+    "relations": {
+     "synonyms": [
+      "Hebrew",
+      "Israelite"
+     ],
+     "antonyms": [
+      "Gentile"
+     ],
+     "collocations": [
+      "Orthodox Jew",
+      "secular Jew",
+      "Jew and Gentile"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0028",
+   "lemma": "leaflet",
+   "pos": "noun",
+   "armA": {
+    "definition": "A printed sheet of paper containing information or advertising, usually distributed for free.",
+    "arabic": "ورقة مطبوعة صغيرة بتتوزع في الشارع أو بتيجي مع الدواء فيها معلومات أو إعلانات.",
+    "examples": [
+     "The leaflet explains how to use the device.",
+     "Check the side effects in the patient information leaflet.",
+     "We designed a promotional leaflet for the campaign."
+    ],
+    "translations": "نشرة منشور كتيب صغير",
+    "relations": {
+     "synonyms": [
+      "flyer",
+      "pamphlet",
+      "brochure",
+      "handout",
+      "circular"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "information leaflet",
+      "patient information leaflet",
+      "advertising leaflet",
+      "promotional leaflet"
+     ]
+    },
+    "mnemonic": "كلمة 'Leaf' يعني ورقة شجر.. والـ 'Leaflet' ورقة صغيرة زي ورقة الشجر."
+   },
+   "armB": {
+    "definition": "A printed sheet of paper containing information or advertising, usually distributed for free.",
+    "arabic": "ورقة مطبوعة صغيرة بتتوزع في الشارع أو بتيجي مع الدواء فيها معلومات أو إعلانات.",
+    "examples": [
+     "Read the leaflet.",
+     "They handed out a leaflet.",
+     "The leaflet explains how to use the device.",
+     "Check the side effects in the patient information leaflet.",
+     "We designed a promotional leaflet for the campaign.",
+     "Dropping leaflets from the air was a common propaganda tactic."
+    ],
+    "translations": "نشرة / منشور",
+    "relations": {
+     "synonyms": [
+      "flyer",
+      "brochure",
+      "pamphlet",
+      "handout",
+      "circular"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Leaf' يعني ورقة شجر.. والـ 'Leaflet' ورقة صغيرة زي ورقة الشجر."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0029",
+   "lemma": "medieval",
+   "pos": "adj",
+   "armA": {
+    "definition": "Relating to the Middle Ages (roughly 500–1500 AD).",
+    "arabic": "حاجة ليها علاقة بالعصور الوسطى، زمن القلاع والفرسان.",
+    "examples": [
+     "We visited a medieval town in France.",
+     "The museum has a collection of medieval art.",
+     "The legal system was described as positively medieval."
+    ],
+    "translations": "من العصور الوسطى قروسطي خاص بالقرون الوسطى",
+    "relations": {
+     "synonyms": [
+      "antiquated",
+      "archaic"
+     ],
+     "antonyms": [
+      "modern",
+      "contemporary"
+     ],
+     "collocations": [
+      "medieval architecture",
+      "medieval castle",
+      "medieval history",
+      "medieval times"
+     ]
+    },
+    "mnemonic": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى."
+   },
+   "armB": {
+    "definition": "Relating to the Middle Ages (roughly 500–1500 AD).",
+    "arabic": "حاجة ليها علاقة بالعصور الوسطى، زمن القلاع والفرسان.",
+    "examples": [
+     "An old castle.",
+     "Knights lived in medieval times.",
+     "We visited a medieval town in France.",
+     "The museum has a collection of medieval art.",
+     "The legal system was described as positively medieval.",
+     "Medieval philosophy attempted to reconcile faith with reason."
+    ],
+    "translations": "في العصور الوسطى / القرون الوسطى",
+    "relations": {
+     "synonyms": [
+      "Gothic",
+      "feudal",
+      "antiquated"
+     ],
+     "antonyms": [
+      "modern",
+      "contemporary"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0030",
+   "lemma": "merely",
+   "pos": "adv",
+   "armA": {
+    "definition": "Used to emphasize that you mean exactly what you are saying and nothing more.",
+    "arabic": "يعني 'فقط' أو 'بس'.. بتستخدمها لما تحب تقلل من حجم أو أهمية حاجة.",
+    "examples": [
+     "I am merely trying to help.",
+     "We are merely suggesting a different approach.",
+     "He said nothing, merely smiled and walked away."
+    ],
+    "translations": "مجرد فقط",
+    "relations": {
+     "synonyms": [
+      "simply",
+      "just",
+      "only",
+      "solely"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "merely a matter of",
+      "not merely",
+      "merely symbolic"
+     ]
+    },
+    "mnemonic": "شبه كلمة 'Mirror' 'مراية'.. هي 'Merely' 'مجرد' انعكاس"
+   },
+   "armB": {
+    "definition": "Used to emphasize that you mean exactly what you are saying and nothing more.",
+    "arabic": "يعني 'فقط' أو 'بس'.. بتستخدمها لما تحب تقلل من حجم أو أهمية حاجة.",
+    "examples": [
+     "It is merely a cat.",
+     "I am merely trying to help.",
+     "The movie is merely okay, not great.",
+     "We are merely suggesting a different approach.",
+     "He said nothing, merely smiled and walked away.",
+     "The philosopher argued that life is merely a series of sensory experiences."
+    ],
+    "translations": "مجرد",
+    "relations": {
+     "synonyms": [
+      "simply",
+      "just",
+      "only",
+      "solely"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "شبه كلمة 'Mirror' 'مراية'.. هي 'Merely' 'مجرد' انعكاس"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0031",
+   "lemma": "much",
+   "pos": "det",
+   "armA": {
+    "definition": "A large amount of (used before uncountable nouns).",
+    "arabic": "كتير.. بتيجي قبل الاسم عشان توصف كميته.",
+    "examples": [
+     "How much water?",
+     "I don't have much hope.",
+     "There isn't much difference.",
+     "He caused much trouble.",
+     "With much regret, I decline.",
+     "After much consideration, we agreed."
+    ],
+    "translations": "كثير",
+    "relations": {
+     "synonyms": [
+      "a lot of"
+     ],
+     "antonyms": [
+      "little"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "A large amount of (used before uncountable nouns).",
+    "arabic": "كتير.. بتيجي قبل الاسم عشان توصف كميته.",
+    "examples": [
+     "I don't have much hope.",
+     "There isn't much difference.",
+     "He caused much trouble."
+    ],
+    "translations": "كثير",
+    "relations": {
+     "synonyms": [
+      "a lot of"
+     ],
+     "antonyms": [
+      "little"
+     ],
+     "collocations": [
+      "much time",
+      "much effort",
+      "much money"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0032",
+   "lemma": "mud",
+   "pos": "noun",
+   "armA": {
+    "definition": "Soft, wet earth.",
+    "arabic": "التراب لما يختلط بالمية ويبقى طين أو وحل.",
+    "examples": [
+     "The car got stuck in the mud.",
+     "My shoes are covered in mud.",
+     "Pigs like to roll in the mud."
+    ],
+    "translations": "طين وحل",
+    "relations": {
+     "synonyms": [
+      "mire",
+      "sludge",
+      "dirt"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "covered in mud",
+      "stuck in the mud",
+      "thick mud"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "Soft, wet earth.",
+    "arabic": "التراب لما يختلط بالمية ويبقى طين أو وحل.",
+    "examples": [
+     "My shoes are covered in mud.",
+     "Pigs like to roll in the mud.",
+     "The car got stuck in the mud.",
+     "Heavy rain turned the field into a sea of mud.",
+     "His name is mud around here after what he did.",
+     "The political campaign descended into mere mud-slinging."
+    ],
+    "translations": "الطين",
+    "relations": {
+     "synonyms": [
+      "dirt",
+      "mire",
+      "sludge",
+      "clay"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0033",
+   "lemma": "often",
+   "pos": "adv",
+   "armA": {
+    "definition": "Frequently; many times; on many occasions.",
+    "arabic": "غالباً، أو في أوقات كثيرة وبشكل متكرر (كتير، وعكسها نادراً).",
+    "examples": [
+     "I often go to the park.",
+     "How often do you brush your teeth?",
+     "He often works late at night."
+    ],
+    "translations": "غالباً كثيراً في كثير من الأحيان",
+    "relations": {
+     "synonyms": [
+      "frequently",
+      "repeatedly",
+      "regularly"
+     ],
+     "antonyms": [
+      "rarely",
+      "seldom",
+      "never"
+     ],
+     "collocations": [
+      "how often",
+      "very often",
+      "quite often",
+      "more often than not",
+      "as often as"
+     ]
+    },
+    "mnemonic": "شبه 'Off' و 'On'.. النور بيقطع عندنا 'Often' كتير"
+   },
+   "armB": {
+    "definition": "Frequently; many times; on many occasions.",
+    "arabic": "كتير، أو في أوقات كتير. عكسها نادراً.",
+    "examples": [
+     "I often go to the park.",
+     "How often do you brush your teeth?",
+     "We visit them as often as possible.",
+     "He often works late at night.",
+     "Old houses often need repairs.",
+     "It is often said that time heals all wounds."
+    ],
+    "translations": "غالباً",
+    "relations": {
+     "synonyms": [
+      "frequently",
+      "repeatedly",
+      "regularly",
+      "commonly",
+      "usually"
+     ],
+     "antonyms": [
+      "rarely",
+      "seldom",
+      "never"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "شبه 'Off' و 'On'.. النور بيقطع عندنا 'Often' كتير"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0034",
+   "lemma": "permission",
+   "pos": "noun",
+   "armA": {
+    "definition": "The act of allowing someone to do something.",
+    "arabic": "الإذن أو السماح.. لما تطلب من حد يوافق إنك تعمل حاجة",
+    "examples": [
+     "You need permission to park here.",
+     "She gave me permission to use her car.",
+     "He entered the building without permission."
+    ],
+    "translations": "إذن سماح تصريح",
+    "relations": {
+     "synonyms": [
+      "authorization",
+      "consent",
+      "approval"
+     ],
+     "antonyms": [
+      "prohibition",
+      "ban",
+      "refusal"
+     ],
+     "collocations": [
+      "ask for permission",
+      "give permission",
+      "grant permission",
+      "written permission"
+     ]
+    },
+    "mnemonic": "جاية من 'Permit' يسمح.. أو افتكر إن أي 'Mission' 'مهمة' محتاجة 'Permission' 'إذن' عشان تبدأ"
+   },
+   "armB": {
+    "definition": "The act of allowing someone to do something.",
+    "arabic": "الإذن أو السماح.. لما تطلب من حد يوافق إنك تعمل حاجة",
+    "examples": [
+     "Can I have permission to leave?",
+     "You need permission to park here.",
+     "She gave me permission to use her car.",
+     "He entered the building without permission.",
+     "Planning permission was granted for the new extension.",
+     "The usage of copyright material requires explicit written permission."
+    ],
+    "translations": "إذن",
+    "relations": {
+     "synonyms": [
+      "authorization",
+      "consent",
+      "leave",
+      "license"
+     ],
+     "antonyms": [
+      "prohibition",
+      "ban",
+      "refusal"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Permit' يسمح.. أو افتكر إن أي 'Mission' 'مهمة' محتاجة 'Permission' 'إذن' عشان تبدأ"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0035",
+   "lemma": "pier",
+   "pos": "noun",
+   "armA": {
+    "definition": "A structure leading out from the shore into a body of water, used as a landing stage.",
+    "arabic": "رصيف خشبي أو حجري ممدود جوه البحر عشان الناس تمشي عليه أو المراكب تقف عنده.",
+    "examples": [
+     "People were fishing off the end of the pier.",
+     "The storm damaged the wooden pier.",
+     "The pier features an amusement park and restaurants."
+    ],
+    "translations": "رصيف بحري",
+    "relations": {
+     "synonyms": [
+      "dock",
+      "jetty",
+      "wharf",
+      "quay"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "fishing pier",
+      "wooden pier",
+      "walk along the pier"
+     ]
+    },
+    "mnemonic": "شبه كلمة 'Peer' 'يبحلق'.. بنقف على الـ 'Pier' ونبص على البحر."
+   },
+   "armB": {
+    "definition": "A structure leading out from the shore into a body of water, used as a landing stage.",
+    "arabic": "رصيف خشبي أو حجري ممدود جوه البحر عشان الناس تمشي عليه أو المراكب تقف عنده.",
+    "examples": [
+     "We walked on the pier.",
+     "The boat is at the pier.",
+     "People were fishing off the end of the pier.",
+     "The storm damaged the wooden pier.",
+     "The pier features an amusement park and restaurants.",
+     "The bridge is supported by concrete piers sunk into the riverbed."
+    ],
+    "translations": "رصيف بحري",
+    "relations": {
+     "synonyms": [
+      "dock",
+      "jetty",
+      "wharf",
+      "quay"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "شبه كلمة 'Peer' 'يبحلق'.. بنقف على الـ 'Pier' ونبص على البحر."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0036",
+   "lemma": "plus",
+   "pos": "prep",
+   "armA": {
+    "definition": "With the addition of; together with.",
+    "arabic": "بنستخدمها لما نكون بنضيف حاجة لحاجة تانية، بمعنى 'زائد' أو 'وكمان'.",
+    "examples": [
+     "One plus one equals two.",
+     "The cost is $10 plus tax.",
+     "I have three meetings plus a lunch appointment.",
+     "The hotel offers breakfast plus free Wi-Fi.",
+     "Intelligence plus ambition is a powerful combination.",
+     "The salary includes a base rate plus a commission on sales."
+    ],
+    "translations": "زائد / بالإضافة إلى",
+    "relations": {
+     "synonyms": [
+      "and",
+      "added to",
+      "together with"
+     ],
+     "antonyms": [
+      "minus",
+      "less"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "With the addition of; together with.",
+    "arabic": "تُستخدم عند إضافة شيء إلى شيء آخر، بمعنى 'زائد' أو 'بالإضافة إلى'.",
+    "examples": [
+     "One plus one equals two.",
+     "The cost is $10 plus tax.",
+     "I have three meetings plus a lunch appointment."
+    ],
+    "translations": "زائد بالإضافة إلى",
+    "relations": {
+     "synonyms": [
+      "added to",
+      "together with",
+      "and"
+     ],
+     "antonyms": [
+      "minus",
+      "less"
+     ],
+     "collocations": [
+      "plus tax",
+      "plus interest",
+      "cost plus"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0037",
+   "lemma": "precious",
+   "pos": "adj",
+   "armA": {
+    "definition": "Of great value; not to be wasted or treated carelessly.",
+    "arabic": "غالي جداً وثمين، سواء بقيمته المادية أو العاطفية.",
+    "examples": [
+     "Gold is a precious metal.",
+     "My family is precious to me.",
+     "Don't waste precious time."
+    ],
+    "translations": "ثمين نفيس غالٍ",
+    "relations": {
+     "synonyms": [
+      "valuable",
+      "cherished",
+      "dear"
+     ],
+     "antonyms": [
+      "worthless",
+      "cheap"
+     ],
+     "collocations": [
+      "precious metal",
+      "precious stone",
+      "precious time"
+     ]
+    },
+    "mnemonic": "زي 'Price' (سعر).. الشيء الـ 'Precious' هو اللي الـ 'Price' وقيمته عالية جداً."
+   },
+   "armB": {
+    "definition": "Of great value; not to be wasted or treated carelessly.",
+    "arabic": "غالي جداً وثمين، سواء فلوس أو قيمة عاطفية.",
+    "examples": [
+     "Gold is a precious metal.",
+     "My family is precious to me.",
+     "Don't waste precious time.",
+     "She keeps her precious memories in a box.",
+     "Water is a precious resource in the desert.",
+     "He was accused of being precious about his art."
+    ],
+    "translations": "ثمين / نفيس",
+    "relations": {
+     "synonyms": [
+      "valuable",
+      "cherished",
+      "dear"
+     ],
+     "antonyms": [
+      "worthless",
+      "cheap"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "زي 'Price' 'سعر'.. الـ 'Precious' هو اللي الـ 'Price' بتاعه عالي جداً."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0038",
+   "lemma": "preliminary",
+   "pos": "adj",
+   "armA": {
+    "definition": "Coming before a more important action or event; preparatory.",
+    "arabic": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+    "examples": [
+     "The preliminary findings suggest a significant correlation.",
+     "The team passed the preliminary round with ease.",
+     "After a preliminary investigation, the committee approved the proposal."
+    ],
+    "translations": "تمهيدي مبدئي",
+    "relations": {
+     "synonyms": [
+      "initial",
+      "preparatory",
+      "introductory"
+     ],
+     "antonyms": [
+      "final",
+      "concluding",
+      "closing"
+     ],
+     "collocations": [
+      "preliminary results",
+      "preliminary investigation",
+      "preliminary hearing",
+      "preliminary round"
+     ]
+    },
+    "mnemonic": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية."
+   },
+   "armB": {
+    "definition": "Coming before a more important action or event; preparatory.",
+    "arabic": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+    "examples": [
+     "This is just the start.",
+     "We did a quick check first.",
+     "These are preliminary results.",
+     "The team passed the preliminary round.",
+     "Preliminary discussions were held yesterday.",
+     "The preliminary findings suggest a significant correlation."
+    ],
+    "translations": "تمهيدي / الأولية",
+    "relations": {
+     "synonyms": [
+      "initial",
+      "preparatory",
+      "introductory",
+      "opening"
+     ],
+     "antonyms": [
+      "final",
+      "concluding",
+      "closing"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0039",
+   "lemma": "proper",
+   "pos": "adj",
+   "armA": {
+    "definition": "Truly what something is said or regarded to be; genuine or appropriate.",
+    "arabic": "مناسب أو صحيح.. الحاجة المضبوطة اللي المفروض تتعمل بالشكل الصح.",
+    "examples": [
+     "This is the proper way.",
+     "Please put it in the proper place.",
+     "You need the proper tools for the job.",
+     "It is not proper to speak like that to your boss.",
+     "Without proper authorization, you cannot enter.",
+     "Technically, the suburbs are not part of the city proper."
+    ],
+    "translations": "سليم / مناسب",
+    "relations": {
+     "synonyms": [
+      "correct",
+      "appropriate",
+      "suitable",
+      "right"
+     ],
+     "antonyms": [
+      "improper",
+      "wrong",
+      "incorrect"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Proper' قريبة من 'Prop' 'دعامة'.. الدعامة لازم تكون 'Proper' 'سليمة' عشان تشيل المبنى"
+   },
+   "armB": {
+    "definition": "Correct, suitable, or acceptable according to an agreed or socially approved standard.",
+    "arabic": "مناسب أو صحيح.. الحاجة المضبوطة اللي المفروض تتعمل بالشكل الصح.",
+    "examples": [
+     "Please put it in the proper place.",
+     "You need the proper tools for the job.",
+     "It is not proper to speak like that to your boss."
+    ],
+    "translations": "مناسب صحيح لائق",
+    "relations": {
+     "synonyms": [
+      "appropriate",
+      "correct",
+      "suitable",
+      "right"
+     ],
+     "antonyms": [
+      "improper",
+      "inappropriate",
+      "incorrect"
+     ],
+     "collocations": [
+      "proper way",
+      "proper care",
+      "proper training",
+      "proper tools"
+     ]
+    },
+    "mnemonic": "كلمة 'Proper' قريبة من 'Prop' 'دعامة'.. الدعامة لازم تكون 'Proper' 'سليمة' عشان تشيل المبنى"
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0040",
+   "lemma": "radiation",
+   "pos": "noun",
+   "armA": {
+    "definition": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+    "arabic": "الإشعاع. طاقة بتتحرك في الجو، ممكن تكون مفيدة زي أشعة الشمس، أو خطيرة زي الإشعاع النووي.",
+    "examples": [
+     "The sun gives off radiation.",
+     "Too much radiation is bad for you.",
+     "Radiation therapy is used to treat cancer.",
+     "They measured the levels of radiation in the area.",
+     "The ozone layer protects us from ultraviolet radiation.",
+     "Cosmic radiation poses a significant risk to astronauts on long missions."
+    ],
+    "translations": "إشعاع",
+    "relations": {
+     "synonyms": [
+      "emission",
+      "rays",
+      "radioactivity"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' 'الإشعاع الكهرومغناطيسي'."
+   },
+   "armB": {
+    "definition": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+    "arabic": "الإشعاع. طاقة بتتحرك في الجو، ممكن تكون مفيدة زي أشعة الشمس، أو خطيرة زي الإشعاع النووي.",
+    "examples": [
+     "The sun gives off radiation.",
+     "They measured the levels of radiation in the area.",
+     "The ozone layer protects us from ultraviolet radiation."
+    ],
+    "translations": "إشعاع",
+    "relations": {
+     "synonyms": [
+      "emission",
+      "radioactivity"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "solar radiation",
+      "nuclear radiation",
+      "radiation therapy",
+      "radiation levels"
+     ]
+    },
+    "mnemonic": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' 'الإشعاع الكهرومغناطيسي'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0041",
+   "lemma": "rebuild",
+   "pos": "verb",
+   "armA": {
+    "definition": "To build something again after it has been damaged or destroyed.",
+    "arabic": "إنك تبني حاجة تاني من الأول بعد ما اتكسرت أو اتهدمت، سواء بيت أو حتى حياتك.",
+    "examples": [
+     "They rebuild the house.",
+     "We must rebuild the wall.",
+     "The city had to rebuild after the fire.",
+     "It takes time to rebuild trust in a relationship.",
+     "The government promised to rebuild the shattered economy.",
+     "They sought to rebuild the philosophical foundations of the movement."
+    ],
+    "translations": "إعادة بناء",
+    "relations": {
+     "synonyms": [
+      "reconstruct",
+      "restore",
+      "renovate",
+      "remake"
+     ],
+     "antonyms": [
+      "destroy",
+      "demolish",
+      "ruin"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "المقطع 'Re' يعني تاني، و 'Build' يعني يبني.. يبقى المعنى يبني تاني."
+   },
+   "armB": {
+    "definition": "To build something again after it has been damaged or destroyed.",
+    "arabic": "إنك تبني حاجة تاني من الأول بعد ما اتكسرت أو اتهدمت، سواء بيت أو حتى حياتك.",
+    "examples": [
+     "The city had to rebuild after the fire.",
+     "It takes time to rebuild trust in a relationship.",
+     "The government promised to rebuild the shattered economy."
+    ],
+    "translations": "يعيد بناء يُعيد إعمار إعادة بناء",
+    "relations": {
+     "synonyms": [
+      "reconstruct",
+      "restore",
+      "renovate",
+      "remake"
+     ],
+     "antonyms": [
+      "destroy",
+      "demolish",
+      "ruin"
+     ],
+     "collocations": [
+      "rebuild trust",
+      "rebuild a life",
+      "rebuild the economy",
+      "completely rebuild"
+     ]
+    },
+    "mnemonic": "المقطع 'Re' يعني تاني، و 'Build' يعني يبني.. يبقى المعنى يبني تاني."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0042",
+   "lemma": "reign",
+   "pos": "verb",
+   "armA": {
+    "definition": "To rule as a monarch, or to prevail and predominate in a particular place or situation.",
+    "arabic": "يحكم كملك أو ملكة، أو يسود ويعم في مكان أو موقف معين (مثل سيادة الفوضى أو الهدوء).",
+    "examples": [
+     "The monarch is expected to reign for many years to come.",
+     "If the peace talks fail, complete chaos will reign across the region.",
+     "Few tennis players could hope to reign supreme over their rivals for so long."
+    ],
+    "translations": "يحكم يسود يعم",
+    "relations": {
+     "synonyms": [
+      "rule",
+      "govern",
+      "prevail",
+      "dominate"
+     ],
+     "antonyms": [
+      "serve",
+      "obey",
+      "submit"
+     ],
+     "collocations": [
+      "reign supreme",
+      "reign over",
+      "continue to reign"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "To rule as a king or queen; to be the best or most important.",
+    "arabic": "يحكم ويسيطر كملك، أو لما حاجة معينة هي اللي تسود وتنتشر.",
+    "examples": [
+     "The King reigns.",
+     "She reigned for 50 years.",
+     "Chaos reigned in the streets.",
+     "He reigns supreme in the boxing world.",
+     "Silence reigned after the announcement.",
+     "The champion still reigns over the division."
+    ],
+    "translations": "حكم / سيطرة / نفوذ",
+    "relations": {
+     "synonyms": [
+      "rule",
+      "govern",
+      "dominate"
+     ],
+     "antonyms": [
+      "serve",
+      "obey"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0043",
+   "lemma": "reluctantly",
+   "pos": "adv",
+   "armA": {
+    "definition": "In an unwilling and hesitant way.",
+    "arabic": "لما تعمل حاجة وإنت مش عايز تعملها، بتعملها بتقل وبدون نفس.",
+    "examples": [
+     "I reluctantly agreed to help him.",
+     "They reluctantly accepted the offer.",
+     "The government reluctantly admitted its mistake."
+    ],
+    "translations": "عَلَى مَضَض بِتَرَدُّد",
+    "relations": {
+     "synonyms": [
+      "unwillingly",
+      "hesitantly",
+      "grudgingly"
+     ],
+     "antonyms": [
+      "willingly",
+      "eagerly",
+      "gladly"
+     ],
+     "collocations": [
+      "agreed reluctantly",
+      "accepted reluctantly",
+      "reluctantly admit"
+     ]
+    },
+    "mnemonic": "'Reluctant' قريبة من 'Lock'.. كأنك 'Locked' ومجبر تعمل الحاجة فبتعملها 'Reluctantly'."
+   },
+   "armB": {
+    "definition": "In an unwilling and hesitant way.",
+    "arabic": "لما تعمل حاجة وإنت مش عايز تعملها، بتعملها بتقل وبدون نفس.",
+    "examples": [
+     "He went reluctantly.",
+     "She reluctantly said yes.",
+     "I reluctantly agreed to help him.",
+     "They reluctantly accepted the offer.",
+     "The government reluctantly admitted its mistake.",
+     "He reluctantly relinquished control of the company he founded."
+    ],
+    "translations": "عَلَى مَضَض",
+    "relations": {
+     "synonyms": [
+      "unwillingly",
+      "hesitantly",
+      "grudgingly"
+     ],
+     "antonyms": [
+      "willingly",
+      "eagerly",
+      "gladly"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "'Reluctant' قريبة من 'Lock'.. كأنك 'Locked' ومجبر تعمل الحاجة فبتعملها 'Reluctantly'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0044",
+   "lemma": "restrain",
+   "pos": "verb",
+   "armA": {
+    "definition": "To keep someone or something under control or prevent them from doing something.",
+    "arabic": "إنك تمنع حد أو حاجة من الحركة، أو تسيطر على تصرفاتهم بالقوة.",
+    "examples": [
+     "Please restrain your dog.",
+     "He couldn't restrain his anger.",
+     "Police had to restrain the crowd.",
+     "You must restrain the child in a car seat.",
+     "She tried to restrain her disappointment.",
+     "The government took measures to restrain inflation."
+    ],
+    "translations": "كبح",
+    "relations": {
+     "synonyms": [
+      "hold back",
+      "control",
+      "confine"
+     ],
+     "antonyms": [
+      "release",
+      "liberate",
+      "free"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "قريبة من 'Strain' يعني شد.. لما تعمل 'Restrain' لحد، إنت بتشده لورا وتمنعه."
+   },
+   "armB": {
+    "definition": "To keep someone or something under control or prevent them from doing something.",
+    "arabic": "إنك تمنع حد أو حاجة من الحركة، أو تسيطر على تصرفاتهم بالقوة.",
+    "examples": [
+     "Police had to restrain the crowd.",
+     "He couldn't restrain his anger.",
+     "The government took measures to restrain inflation."
+    ],
+    "translations": "يكبح يقيد يضبط",
+    "relations": {
+     "synonyms": [
+      "hold back",
+      "control",
+      "curb",
+      "suppress",
+      "confine"
+     ],
+     "antonyms": [
+      "release",
+      "liberate",
+      "free"
+     ],
+     "collocations": [
+      "restrain yourself",
+      "physically restrain",
+      "restrain inflation"
+     ]
+    },
+    "mnemonic": "قريبة من 'Strain' يعني شد.. لما تعمل 'Restrain' لحد، إنت بتشده لورا وتمنعه."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0045",
+   "lemma": "reverberate",
+   "pos": "verb",
+   "armA": {
+    "definition": "To echo or resound repeatedly, or to have continuing and widespread effects.",
+    "arabic": "الصوت لما يتردد ويعمل صدى قوي، أو خبر ينتشر ويعمل ضجة.",
+    "examples": [
+     "The loud organ music began to reverberate through the grand hall.",
+     "Her unexpected resignation will reverberate across the political landscape.",
+     "The economic crash will reverberate for decades to come."
+    ],
+    "translations": "يتردد صداه يدوي يترك أثراً واسعاً",
+    "relations": {
+     "synonyms": [
+      "echo",
+      "resound",
+      "boom",
+      "ring"
+     ],
+     "antonyms": [
+      "dampen",
+      "quiet"
+     ],
+     "collocations": [
+      "reverberate through",
+      "reverberate across",
+      "continue to reverberate"
+     ]
+    },
+    "mnemonic": "فيها جزء 'Vibrate' 'يهتز'.. الصوت لما يـ 'Reverberate' بيعمل اهتزاز وصدى في المكان."
+   },
+   "armB": {
+    "definition": "To echo or resound repeatedly.",
+    "arabic": "الصوت لما يتردد ويعمل صدى قوي، أو خبر ينتشر ويعمل ضجة.",
+    "examples": [
+     "The sound hit the wall.",
+     "The loud noise made the room shake.",
+     "The drum beat reverberated through the hall.",
+     "Her voice reverberated around the empty church.",
+     "The scandal reverberated through the political world.",
+     "The economic crash will reverberate for decades to come."
+    ],
+    "translations": "يتردد صداه / يدوي",
+    "relations": {
+     "synonyms": [
+      "echo",
+      "resound",
+      "boom",
+      "ring"
+     ],
+     "antonyms": [
+      "dampen",
+      "quiet"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "فيها جزء 'Vibrate' 'يهتز'.. الصوت لما يـ 'Reverberate' بيعمل اهتزاز وصدى في المكان."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0046",
+   "lemma": "round",
+   "pos": "adv",
+   "armA": {
+    "definition": "In a circle or curve; around.",
+    "arabic": "بشكل دائري، أو في كل مكان.",
+    "examples": [
+     "Turn round.",
+     "Pass the papers round.",
+     "He looked round the room.",
+     "There is enough food to go round.",
+     "The wheels went round and round.",
+     "She won him round to her point of view."
+    ],
+    "translations": "دائري / جولة",
+    "relations": {
+     "synonyms": [
+      "around",
+      "about",
+      "circularly"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "نفس الرابط."
+   },
+   "armB": {
+    "definition": "In a circle or curve, or so as to face in the opposite direction; around.",
+    "arabic": "بشكل دائري، أو في الاتجاه المعاكس (لوراء)، أو في كل مكان.",
+    "examples": [
+     "Turn round so I can see your face.",
+     "Pass the papers round to everyone in the room.",
+     "There is enough food to go round."
+    ],
+    "translations": "حول للخلف في دائرة على الجميع",
+    "relations": {
+     "synonyms": [
+      "around",
+      "about"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "turn round",
+      "go round",
+      "look round",
+      "all year round"
+     ]
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0047",
+   "lemma": "rural",
+   "pos": "adj",
+   "armA": {
+    "definition": "Relating to or characteristic of the countryside rather than the town.",
+    "arabic": "ريفي.. أي حاجة ليها علاقة بالريف والزراعة، عكس المدن.",
+    "examples": [
+     "She lives in a rural area.",
+     "Rural life is very quiet.",
+     "We drove through the rural countryside.",
+     "The government is investing in rural development.",
+     "Rural depopulation is a major issue in this region.",
+     "The dichotomy between rural and urban values is stark."
+    ],
+    "translations": "ريفي / قروي",
+    "relations": {
+     "synonyms": [
+      "country",
+      "rustic",
+      "pastoral",
+      "agricultural"
+     ],
+     "antonyms": [
+      "urban",
+      "city"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف."
+   },
+   "armB": {
+    "definition": "Relating to or characteristic of the countryside rather than the town.",
+    "arabic": "ريفي.. أي حاجة ليها علاقة بالريف والزراعة، عكس المدن.",
+    "examples": [
+     "She lives in a peaceful rural area.",
+     "Public transport is often limited in rural communities.",
+     "The government is investing in rural development."
+    ],
+    "translations": "ريفي قروي",
+    "relations": {
+     "synonyms": [
+      "country",
+      "rustic",
+      "pastoral",
+      "agricultural"
+     ],
+     "antonyms": [
+      "urban"
+     ],
+     "collocations": [
+      "rural area",
+      "rural community",
+      "rural development",
+      "rural population"
+     ]
+    },
+    "mnemonic": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0048",
+   "lemma": "since",
+   "pos": "conj",
+   "armA": {
+    "definition": "From a past time until now, or used to show the reason for something.",
+    "arabic": "كلمة بنستخدمها عشان نقول إن حاجة بدأت من وقت معين في الماضي ومستمرة، أو عشان نقول السبب 'بمعنى عشان أو بما إن'.",
+    "examples": [
+     "I have been here since Monday.",
+     "She hasn't eaten since breakfast.",
+     "Since you are here, please help me.",
+     "He has improved a lot since he joined the team.",
+     "It has long since been forgotten by the public.",
+     "Since the premise is flawed, the conclusion must be rejected."
+    ],
+    "translations": "منذ / لأن",
+    "relations": {
+     "synonyms": [
+      "because",
+      "as",
+      "from",
+      "after"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "اربطها بكلمة 'Sense'.. لما يكون عندك 'Sense' بالوقت، هتعرف إن الموضوع بدأ 'Since' فترة."
+   },
+   "armB": {
+    "definition": "From a past time until now, or used to show the reason for something.",
+    "arabic": "كلمة بنستخدمها عشان نقول إن حاجة بدأت من وقت معين في الماضي ومستمرة، أو عشان نقول السبب 'بمعنى عشان أو بما إن'.",
+    "examples": [
+     "Since you are here, please help me.",
+     "He has improved a lot since he joined the team.",
+     "We stayed inside since it was raining."
+    ],
+    "translations": "منذ أن بما أن لأن",
+    "relations": {
+     "synonyms": [
+      "because",
+      "as"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "ever since",
+      "long since",
+      "since then"
+     ]
+    },
+    "mnemonic": "اربطها بكلمة 'Sense'.. لما يكون عندك 'Sense' بالوقت، هتعرف إن الموضوع بدأ 'Since' فترة."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0049",
+   "lemma": "since",
+   "pos": "prep",
+   "armA": {
+    "definition": "In the period after a specified time in the past.",
+    "arabic": "من وقت معين في الماضي ومستمر لحد دلوقتي.",
+    "examples": [
+     "I have been here since Monday.",
+     "She has known him since childhood.",
+     "It has been raining since this morning."
+    ],
+    "translations": "منذ",
+    "relations": {
+     "synonyms": [
+      "from",
+      "after"
+     ],
+     "antonyms": [
+      "until"
+     ],
+     "collocations": [
+      "since then",
+      "since yesterday",
+      "since childhood"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "In the period after a specified time in the past.",
+    "arabic": "من وقت معين في الماضي ومستمر لحد دلوقتي.",
+    "examples": [
+     "I have been here since Monday.",
+     "She has known him since childhood.",
+     "It has been raining since this morning.",
+     "Since the war began, many have fled.",
+     "Since the dawn of time, humans have looked at the stars.",
+     "The regulations have changed since the last audit."
+    ],
+    "translations": "منذ",
+    "relations": {
+     "synonyms": [
+      "from",
+      "after"
+     ],
+     "antonyms": [
+      "until"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0050",
+   "lemma": "spectacular",
+   "pos": "adj",
+   "armA": {
+    "definition": "Beautiful, dramatic, and eye-catching; extremely impressive to see or experience.",
+    "arabic": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها أو روعتها.",
+    "examples": [
+     "The mountain range offers spectacular scenery for hikers.",
+     "She looked spectacular in that dress.",
+     "The team suffered a spectacular failure."
+    ],
+    "translations": "مذهل مبهر رائع",
+    "relations": {
+     "synonyms": [
+      "breathtaking",
+      "stunning",
+      "magnificent",
+      "impressive"
+     ],
+     "antonyms": [
+      "ordinary",
+      "dull",
+      "unimpressive"
+     ],
+     "collocations": [
+      "spectacular view",
+      "spectacular success",
+      "spectacular scenery",
+      "look spectacular"
+     ]
+    },
+    "mnemonic": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس."
+   },
+   "armB": {
+    "definition": "Beautiful in a dramatic and eye-catching way.",
+    "arabic": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها.",
+    "examples": [
+     "The view is spectacular.",
+     "We saw a spectacular show.",
+     "The fireworks were spectacular.",
+     "She looked spectacular in that dress.",
+     "The team suffered a spectacular failure.",
+     "The mountain range offers spectacular scenery for hikers."
+    ],
+    "translations": "مذهل",
+    "relations": {
+     "synonyms": [
+      "breathtaking",
+      "stunning",
+      "magnificent",
+      "impressive"
+     ],
+     "antonyms": [
+      "ordinary",
+      "dull",
+      "unimpressive"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0051",
+   "lemma": "spell",
+   "pos": "noun",
+   "armA": {
+    "definition": "A form of words used as a magical charm; OR a short period of time.",
+    "arabic": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+    "examples": [
+     "The witch cast a spell.",
+     "We had a spell of hot weather.",
+     "He rested for a short spell.",
+     "She fell under his spell.",
+     "The dry spell damaged the crops.",
+     "The wizard recited an ancient spell to unlock the door."
+    ],
+    "translations": "تعويذة / فترة",
+    "relations": {
+     "synonyms": [
+      "charm",
+      "period",
+      "interval",
+      "bout"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد."
+   },
+   "armB": {
+    "definition": "A form of words used as a magical charm; OR a short period of time.",
+    "arabic": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+    "examples": [
+     "The dry spell damaged the crops across the entire region.",
+     "After working for hours, he paused to rest for a short spell.",
+     "According to legend, the witch cast a powerful spell over the kingdom."
+    ],
+    "translations": "تعويذة فترة موجة",
+    "relations": {
+     "synonyms": [
+      "period",
+      "interval",
+      "bout",
+      "charm",
+      "incantation"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "cast a spell",
+      "under a spell",
+      "cold spell",
+      "dry spell"
+     ]
+    },
+    "mnemonic": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0052",
+   "lemma": "spell",
+   "pos": "verb",
+   "armA": {
+    "definition": "To write or name the letters that form a word in the correct sequence.",
+    "arabic": "يتهجى، يعني يقول حروف الكلمة بالترتيب الصح.",
+    "examples": [
+     "Can you spell your name?",
+     "How do you spell 'cat'?",
+     "I can't spell very well.",
+     "Please spell out the details.",
+     "The new policy spells disaster for small businesses.",
+     "His silence spelled the end of their relationship."
+    ],
+    "translations": "يتهجى",
+    "relations": {
+     "synonyms": [
+      "write",
+      "letter"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "أكيد عارف الـ 'Spelling'.. الفعل 'Spell' يعني يتهجى الكلمة."
+   },
+   "armB": {
+    "definition": "To write or name the letters that form a word in the correct sequence.",
+    "arabic": "يتهجى، يعني يقول حروف الكلمة بالترتيب الصح.",
+    "examples": [
+     "Can you spell your name?",
+     "How do you spell 'cat'?",
+     "I can't spell very well."
+    ],
+    "translations": "يتهجى",
+    "relations": {
+     "synonyms": [],
+     "antonyms": [
+      "misspell"
+     ],
+     "collocations": [
+      "spell correctly",
+      "how to spell",
+      "spell out"
+     ]
+    },
+    "mnemonic": "أكيد عارف الـ 'Spelling'.. الفعل 'Spell' يعني يتهجى الكلمة."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0053",
+   "lemma": "study",
+   "pos": "verb",
+   "armA": {
+    "definition": "To learn about a subject, usually at school or university.",
+    "arabic": "تخصص وقت ومجهود عشان تتعلم حاجة أو تفهم موضوع، زي المذاكرة.",
+    "examples": [
+     "I study English every day.",
+     "We study together in the library after school.",
+     "You need to study hard to pass the test."
+    ],
+    "translations": "يدرس يذاكر",
+    "relations": {
+     "synonyms": [
+      "learn",
+      "revise"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "study hard",
+      "study for an exam",
+      "study abroad"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "To learn about a subject, usually at school or university.",
+    "arabic": "تخصص وقت ومجهود عشان تتعلم حاجة أو تفهم موضوع، زي المذاكرة.",
+    "examples": [
+     "I study English every day.",
+     "She is studying to be a doctor.",
+     "He studied the map carefully.",
+     "Scientists are studying the effects of the virus.",
+     "We need to study the proposal in detail.",
+     "He studied his opponent's face for any sign of weakness."
+    ],
+    "translations": "يدرس / يذاكر",
+    "relations": {
+     "synonyms": [
+      "learn",
+      "revise",
+      "examine"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0054",
+   "lemma": "this",
+   "pos": "det",
+   "armA": {
+    "definition": "Used to identify a specific person or thing close at hand.",
+    "arabic": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+    "examples": [
+     "I like this car.",
+     "This week has been busy.",
+     "We need to solve this problem."
+    ],
+    "translations": "هذا هذه",
+    "relations": {
+     "synonyms": [],
+     "antonyms": [
+      "that"
+     ],
+     "collocations": [
+      "this morning",
+      "this year",
+      "this way",
+      "this time"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "Used to identify a specific person or thing close at hand.",
+    "arabic": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+    "examples": [
+     "I like this car.",
+     "This week has been busy.",
+     "We need to solve this problem.",
+     "In this country, people drive on the left.",
+     "At this point in time, we cannot comment.",
+     "Under this particular interpretation, the law is invalid."
+    ],
+    "translations": "هذا",
+    "relations": {
+     "synonyms": [
+      "that"
+     ],
+     "antonyms": [
+      "that"
+     ],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0055",
+   "lemma": "tractor",
+   "pos": "noun",
+   "armA": {
+    "definition": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+    "arabic": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+    "examples": [
+     "The farmer drives a tractor.",
+     "A red tractor is in the field.",
+     "He used a tractor to pull the heavy trailer.",
+     "Modern tractors are equipped with GPS technology.",
+     "The agricultural sector relies heavily on tractor maintenance.",
+     "The mechanization of farming began with the introduction of the steam tractor."
+    ],
+    "translations": "جرار",
+    "relations": {
+     "synonyms": [
+      "farm vehicle",
+      "hauler"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة."
+   },
+   "armB": {
+    "definition": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+    "arabic": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+    "examples": [
+     "The farmer drives a tractor.",
+     "A red tractor is in the field.",
+     "He used a tractor to pull the heavy trailer."
+    ],
+    "translations": "جرار جرار زراعي",
+    "relations": {
+     "synonyms": [
+      "farm vehicle",
+      "hauler"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "drive a tractor",
+      "farm tractor",
+      "tractor trailer"
+     ]
+    },
+    "mnemonic": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0056",
+   "lemma": "unite",
+   "pos": "verb",
+   "armA": {
+    "definition": "To come or bring together for a common purpose or action.",
+    "arabic": "يعني يتحدوا أو يتجمعوا عشان هدف واحد. زي لما الناس تتحد عشان تعمل تغيير أو الدول تتحد في حلف.",
+    "examples": [
+     "We must unite now.",
+     "The team united to win the game.",
+     "Music can unite people from different cultures.",
+     "The two companies decided to unite to increase profits.",
+     "The tragedy served to unite the community in grief.",
+     "Various factions attempted to unite under a single banner of revolution."
+    ],
+    "translations": "يتحد / يوحد",
+    "relations": {
+     "synonyms": [
+      "join",
+      "combine",
+      "merge",
+      "unify",
+      "link"
+     ],
+     "antonyms": [
+      "divide",
+      "separate",
+      "split"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "جاية من 'Unit' يعني وحدة.. لما الناس تعمل 'Unite' بيتحولوا لـ 'Unit' 'وحدة' واحدة قوية."
+   },
+   "armB": {
+    "definition": "To come or bring together for a common purpose or action.",
+    "arabic": "يعني يتحدوا أو يتجمعوا عشان هدف واحد. زي لما الناس تتحد عشان تعمل تغيير أو الدول تتحد في حلف.",
+    "examples": [
+     "Music can unite people from different cultures.",
+     "The two companies decided to unite to increase profits.",
+     "The tragedy served to unite the community in grief."
+    ],
+    "translations": "يتحد يوحد",
+    "relations": {
+     "synonyms": [
+      "join",
+      "combine",
+      "merge",
+      "unify",
+      "link"
+     ],
+     "antonyms": [
+      "divide",
+      "separate",
+      "split"
+     ],
+     "collocations": [
+      "unite against",
+      "unite behind",
+      "unite the country"
+     ]
+    },
+    "mnemonic": "جاية من 'Unit' يعني وحدة.. لما الناس تعمل 'Unite' بيتحولوا لـ 'Unit' 'وحدة' واحدة قوية."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0057",
+   "lemma": "utter",
+   "pos": "adj",
+   "armA": {
+    "definition": "Complete; absolute.",
+    "arabic": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+    "examples": [
+     "It was utter silence.",
+     "The room was in utter darkness.",
+     "That is utter nonsense.",
+     "The party was an utter failure.",
+     "He looked at me in utter amazement.",
+     "The situation descended into utter chaos after the announcement."
+    ],
+    "translations": "مطلق / تام",
+    "relations": {
+     "synonyms": [
+      "complete",
+      "total",
+      "absolute",
+      "sheer"
+     ],
+     "antonyms": [
+      "partial",
+      "incomplete",
+      "limited"
+     ],
+     "collocations": []
+    },
+    "mnemonic": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'."
+   },
+   "armB": {
+    "definition": "Complete; absolute.",
+    "arabic": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+    "examples": [
+     "The situation descended into utter chaos after the announcement.",
+     "He looked at me in utter amazement.",
+     "That explanation turned out to be utter nonsense."
+    ],
+    "translations": "مُطْلَق تَامّ كَامِل",
+    "relations": {
+     "synonyms": [
+      "complete",
+      "total",
+      "absolute",
+      "sheer"
+     ],
+     "antonyms": [
+      "partial",
+      "incomplete",
+      "limited"
+     ],
+     "collocations": [
+      "utter chaos",
+      "utter nonsense",
+      "utter darkness",
+      "utter silence"
+     ]
+    },
+    "mnemonic": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0058",
+   "lemma": "via",
+   "pos": "prep",
+   "armA": {
+    "definition": "Through a place on the way to another destination, or by means of a particular system, method, or medium.",
+    "arabic": "عبر أو بالمرور بمكان ما في الطريق إلى وجهة أخرى، أو بواسطة وسيلة أو طريقة معينة.",
+    "examples": [
+     "We are flying to Tokyo via Dubai.",
+     "He sent the message via email.",
+     "The news was broadcast via satellite to millions."
+    ],
+    "translations": "عَبْر عَنْ طَرِيق بِوَاسِطَة",
+    "relations": {
+     "synonyms": [
+      "through",
+      "by means of",
+      "by way of"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "travel via",
+      "via email",
+      "via satellite"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "Traveling through a place on the way to a destination, or by means of.",
+    "arabic": "إنك تروح مكان عن طريق مكان تاني، أو تعمل حاجة بواسطة أداة معينة.",
+    "examples": [
+     "I went home via the park.",
+     "He sent the message via email.",
+     "We are flying to Tokyo via Dubai.",
+     "The news was broadcast via satellite to millions.",
+     "She achieved success via a highly unconventional route.",
+     "The disease is transmitted via respiratory droplets in the air."
+    ],
+    "translations": "عبر / بواسطة",
+    "relations": {
+     "synonyms": [
+      "through",
+      "by means of",
+      "using"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0059",
+   "lemma": "weigh",
+   "pos": "verb",
+   "armA": {
+    "definition": "To measure how heavy someone or something is.",
+    "arabic": "توزن حاجة عشان تعرف هي كام كيلو، أو تفكر في قرار وتقارن بين الاختيارات.",
+    "examples": [
+     "I weigh 70 kilos.",
+     "Please weigh the fruit.",
+     "He weighed himself on the scales.",
+     "You need to weigh the pros and cons.",
+     "The evidence weighed heavily against him.",
+     "She had to weigh her words carefully before speaking."
+    ],
+    "translations": "وزن",
+    "relations": {
+     "synonyms": [
+      "measure",
+      "evaluate",
+      "consider"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": "كلمة 'Way' 'طريق'.. وانت في الـ 'Way' للمطار لازم تعمل 'Weigh' 'وزن' للشنط بتاعتك."
+   },
+   "armB": {
+    "definition": "To measure how heavy someone or something is, or to consider something carefully before making a choice.",
+    "arabic": "توزن حاجة عشان تعرف هي كام كيلو، أو تفكر في قرار وتقارن بين الاختيارات.",
+    "examples": [
+     "Please weigh the fruit.",
+     "You need to weigh the pros and cons.",
+     "She had to weigh her words carefully before speaking."
+    ],
+    "translations": "يَزِن يقيس وزن يوازن",
+    "relations": {
+     "synonyms": [
+      "measure",
+      "evaluate",
+      "consider"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "weigh the pros and cons",
+      "weigh in",
+      "weigh down",
+      "weigh carefully"
+     ]
+    },
+    "mnemonic": "كلمة 'Way' 'طريق'.. وانت في الـ 'Way' للمطار لازم تعمل 'Weigh' 'وزن' للشنط بتاعتك."
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  },
+  {
+   "eval_id": "eval_seeded60_v1-0060",
+   "lemma": "yet",
+   "pos": "conj",
+   "armA": {
+    "definition": "But; nevertheless; despite that.",
+    "arabic": "بتيجي بمعنى 'لكن' أو 'مع ذلك' عشان تربط جملتين فيهم تناقض.",
+    "examples": [
+     "It is small yet strong.",
+     "The path was dark, yet I found my way.",
+     "He has a good job, and yet he never seems to have any money."
+    ],
+    "translations": "لكن مع ذلك",
+    "relations": {
+     "synonyms": [
+      "but",
+      "however",
+      "nevertheless"
+     ],
+     "antonyms": [],
+     "collocations": [
+      "and yet",
+      "simple yet effective"
+     ]
+    },
+    "mnemonic": null
+   },
+   "armB": {
+    "definition": "But; nevertheless; despite that.",
+    "arabic": "بتيجي بمعنى 'لكن' أو 'مع ذلك' عشان تربط جملتين فيهم تناقض.",
+    "examples": [
+     "It is small yet strong.",
+     "He is old, yet he runs fast.",
+     "The path was dark, yet I found my way.",
+     "It was a strange yet beautiful song.",
+     "He has a good job, and yet he never seems to have any money.",
+     "Simple yet profound, the theory explains everything."
+    ],
+    "translations": "مع ذلك / لكن",
+    "relations": {
+     "synonyms": [
+      "but",
+      "however",
+      "nevertheless"
+     ],
+     "antonyms": [],
+     "collocations": []
+    },
+    "mnemonic": null
+   },
+   "ballot": {
+    "fields": {
+     "definition": "unjudged",
+     "arabic_explanation": "unjudged",
+     "sense_separation": "unjudged",
+     "examples": "unjudged",
+     "translations": "unjudged",
+     "relations": "unjudged",
+     "mnemonic": "unjudged"
+    },
+    "critical_errors": {
+     "wrong_meaning": {
+      "side": null,
+      "evidence": ""
+     },
+     "misleading_arabic": {
+      "side": null,
+      "evidence": ""
+     },
+     "invalid_relation_synonym": {
+      "side": null,
+      "evidence": ""
+     },
+     "example_semantic_error": {
+      "side": null,
+      "evidence": ""
+     },
+     "target_word_violation": {
+      "side": null,
+      "evidence": ""
+     },
+     "fabricated_etymology_mnemonic": {
+      "side": null,
+      "evidence": ""
+     },
+     "cefr_learner_mismatch": {
+      "side": null,
+      "evidence": ""
+     }
+    }
+   }
+  }
+ ]
+}

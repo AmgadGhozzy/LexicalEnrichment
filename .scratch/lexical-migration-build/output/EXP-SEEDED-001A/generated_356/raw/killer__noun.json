@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "killer",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "killer",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person or thing that kills; informally, something very difficult or impressive.",
+  "explanation_ar": "الشخص أو الشيء الذي يقتل، وفي التعبير العامي يُطلق على أمر صعب للغاية أو مجهد أو مذهل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person, animal, or thing that kills.",
+    "definition_ar": "شخص أو حيوان أو شيء يتسبب في الموت أو القتل.",
+    "examples": [
+     "The police are looking for the killer.",
+     "Heart disease is the silent killer in modern society."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Something that is extremely difficult, painful, or impressive (informal).",
+    "definition_ar": "شيء بالغ الصعوبة أو مرهق جداً؛ وأحياناً شيء مذهل للغاية (غير رسمي).",
+    "examples": [
+     "That math exam was a real killer."
+    ]
+   }
+  ],
+  "examples": [
+   "The police are looking for the killer.",
+   "Heart disease is the silent killer in modern society.",
+   "That math exam was a real killer."
+  ],
+  "translations": [
+   "قاتل",
+   "مهلك",
+   "شاق للغاية"
+  ],
+  "relations": {
+   "synonyms": [
+    "murderer",
+    "assassin",
+    "slayer"
+   ],
+   "antonyms": [
+    "victim",
+    "lifesaver"
+   ],
+   "collocations": [
+    "serial killer",
+    "silent killer",
+    "pain killer"
+   ]
+  },
+  "mnemonic": "من 'Kill' يقتل.. الـ 'Killer' هو القاتل.",
+  "phonetic_us": "ˈkɪlər",
+  "phonetic_uk": "ˈkɪlə",
+  "syllables": "kil-ler",
+  "semantic_tags": [
+   "crime",
+   "death",
+   "slang"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person or thing that kills; informally, something very difficult or impressive.",
+  "explanation_ar": "الشخص أو الشيء الذي يقتل، وفي التعبير العامي يُطلق على أمر صعب للغاية أو مجهد أو مذهل.",
+  "examples": [
+   "The police are looking for the killer.",
+   "Heart disease is the silent killer in modern society.",
+   "That math exam was a real killer."
+  ],
+  "translations": {
+   "arabic_ar": "قاتل مهلك شاق للغاية"
+  },
+  "synonyms": [
+   "murderer",
+   "assassin",
+   "slayer"
+  ],
+  "antonyms": [
+   "victim",
+   "lifesaver"
+  ],
+  "collocations": [
+   "serial killer",
+   "silent killer",
+   "pain killer"
+  ],
+  "mnemonic_ar": "من 'Kill' يقتل.. الـ 'Killer' هو القاتل."
+ }
+}

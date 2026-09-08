@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "smile",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "smile",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To form one's features into a pleased, kind, or amused expression.",
+  "explanation_ar": "إنك تعمل حركة بشفايفك تبين إنك مبسوط أو بتضحك من غير صوت.",
+  "senses": [
+   {
+    "sense_id": "smile_v_01",
+    "definition_en": "To form one's features into a pleased, kind, or amused expression.",
+    "definition_ar": "يبتسم، يظهر تعبير السعادة أو الود على وجهه",
+    "pos": "verb",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "I smile when I am happy.",
+   "Please smile for the camera.",
+   "They always smile when they greet someone."
+  ],
+  "translations": [
+   "يبتسم",
+   "يتبسم"
+  ],
+  "relations": {
+   "synonyms": [
+    "grin",
+    "beam"
+   ],
+   "antonyms": [
+    "frown"
+   ],
+   "collocations": [
+    "smile at",
+    "smile happily",
+    "make someone smile"
+   ],
+   "word_family": {
+    "verb": "smile",
+    "noun": "smile",
+    "adjective": "smiling",
+    "adverb": "smilingly"
+   }
+  },
+  "mnemonic": "كلمة 'Smile' قريبة من 'Smell' 'يشم'.. لما بتشم وردة بتعمل 'Smile'.",
+  "phonetic_us": "ˈsmaɪl",
+  "phonetic_uk": "smaɪl",
+  "syllables": "smile",
+  "semantic_tags": [
+   "#Expression",
+   "#Happiness",
+   "#Face"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To form one's features into a pleased, kind, or amused expression.",
+  "explanation_ar": "إنك تعمل حركة بشفايفك تبين إنك مبسوط أو بتضحك من غير صوت.",
+  "examples": [
+   "I smile when I am happy.",
+   "Please smile for the camera.",
+   "They always smile when they greet someone."
+  ],
+  "translations": {
+   "arabic_ar": "يبتسم يتبسم"
+  },
+  "synonyms": [
+   "grin",
+   "beam"
+  ],
+  "antonyms": [
+   "frown"
+  ],
+  "collocations": [
+   "smile at",
+   "smile happily",
+   "make someone smile"
+  ],
+  "mnemonic_ar": "كلمة 'Smile' قريبة من 'Smell' 'يشم'.. لما بتشم وردة بتعمل 'Smile'."
+ }
+}

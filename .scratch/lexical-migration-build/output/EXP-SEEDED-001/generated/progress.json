@@ -1,0 +1,16 @@
+{
+ "items": {
+  "bottom/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "refuse/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bucket/noun": {
+   "status": "success",
+   "artifact_pass": true
+  }
+ }
+}

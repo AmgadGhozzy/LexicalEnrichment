@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3392",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3392",
+  "lemma": "resident",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3392,
+  "lemma": "resident",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈrɛzɪdənt",
+  "phonetic_uk": null,
+  "phonetic_ar": "رِزِدَنْت",
+  "definition_en": "Living or staying in a particular place, or based permanently within an organization.",
+  "explanation_ar": "تصف شخصا او كائنا يقيم بشكل دائم في مكان معين، او شخصا يعمل بشكل رسمي ومستقر داخل مؤسسة او فندق.",
+  "examples": [
+   {
+    "example_text": "She is the resident doctor at the community clinic.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The island has a large resident population of seabirds.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "He serves as the resident DJ for the luxury hotel.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الجزء الاول يشبه فعل \"reside\" اي يقيم، فالصفة تعني مقيم او دائم في المكان.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Living or staying in a particular place, especially on a permanent or long-term basis.",
+    "short_def_en": "living in a place",
+    "definition_ar": "مقيم او ساكن في منطقة معينة بشكل دائم او لفترة طويلة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "housing",
+     "living",
+     "demographics"
+    ],
+    "usage_note": "Often used before nouns like population, species, or birds.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Employed to work and live on the premises of an institution, hotel, or hospital.",
+    "short_def_en": "based on site",
+    "definition_ar": "معين للعمل او السكن داخل مقر مؤسسة او منشأة رسمية.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "employment",
+     "roles",
+     "institutions"
+    ],
+    "usage_note": "Commonly modifies professional titles such as doctor, engineer, or chef.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "resident doctor",
+   "resident population",
+   "resident alien",
+   "resident artist",
+   "resident species"
+  ],
+  "synonyms": [
+   "inhabiting",
+   "dwelling",
+   "local",
+   "living",
+   "settled"
+  ],
+  "antonyms": [
+   "migratory",
+   "visiting",
+   "nonresident"
+  ],
+  "related_words": {
+   "en": [
+    "residence",
+    "residency",
+    "reside",
+    "residential"
+   ],
+   "ar": [
+    "مقر إقامة",
+    "فترة إقامة",
+    "يقيم",
+    "سكني"
+   ]
+  },
+  "word_family": {
+   "noun": "residence",
+   "verb": "reside",
+   "adj": "resident",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مُقِيم / ساكِن",
+   "french_fr": "résident",
+   "german_de": "ansässig",
+   "spanish_es": "residente",
+   "chinese_zh": "居住的 (jūzhù de)",
+   "russian_ru": "постоянно проживающий",
+   "portuguese_pt": "residente",
+   "japanese_ja": "居住する (Kyojū suru)",
+   "italian_it": "residente",
+   "turkish_tr": "yerleşik"
+  }
+ },
+ "provenance": {
+  "output_hash": "0b6a0fe85f99d222ba0a8b1ae5e9cce52ec4f13d6db4a8c7584a92a6792f57a4",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

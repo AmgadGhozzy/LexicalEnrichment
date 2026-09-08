@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "terrible",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "terrible",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Extremely bad or causing great fear or distress.",
+  "explanation_ar": "حاجة سيئة جداً أو مرعبة، زي حادثة فظيعة أو طعم أكل وحش.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Extremely bad or causing great fear or distress.",
+    "definition_ar": "سيئ جداً أو فظيع ومخيف.",
+    "examples": [
+     "I have a terrible headache.",
+     "The weather is terrible today.",
+     "It was a terrible mistake to leave the door open."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a terrible headache.",
+   "The weather is terrible today.",
+   "It was a terrible mistake to leave the door open."
+  ],
+  "translations": [
+   "فظيع",
+   "رهيب",
+   "سيئ جداً"
+  ],
+  "relations": {
+   "synonyms": [
+    "awful",
+    "dreadful",
+    "horrible",
+    "appalling"
+   ],
+   "antonyms": [
+    "wonderful",
+    "excellent",
+    "great"
+   ],
+   "collocations": [
+    "terrible mistake",
+    "terrible news",
+    "feel terrible"
+   ]
+  },
+  "mnemonic": "من نفس أصل 'Terror' رُعْب.. الحاجة الـ 'Terrible' مُرْعِبة وسَيِّئَة.",
+  "phonetic_us": "ˈtɛrəbəl",
+  "phonetic_uk": "ˈterəbl",
+  "syllables": "ter•ri•ble",
+  "semantic_tags": [
+   "#Negative",
+   "#Fear",
+   "#Quality"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Extremely bad or causing great fear or distress.",
+  "explanation_ar": "حاجة سيئة جداً أو مرعبة، زي حادثة فظيعة أو طعم أكل وحش.",
+  "examples": [
+   "I have a terrible headache.",
+   "The weather is terrible today.",
+   "It was a terrible mistake to leave the door open."
+  ],
+  "translations": {
+   "arabic_ar": "فظيع رهيب سيئ جداً"
+  },
+  "synonyms": [
+   "awful",
+   "dreadful",
+   "horrible",
+   "appalling"
+  ],
+  "antonyms": [
+   "wonderful",
+   "excellent",
+   "great"
+  ],
+  "collocations": [
+   "terrible mistake",
+   "terrible news",
+   "feel terrible"
+  ],
+  "mnemonic_ar": "من نفس أصل 'Terror' رُعْب.. الحاجة الـ 'Terrible' مُرْعِبة وسَيِّئَة."
+ }
+}

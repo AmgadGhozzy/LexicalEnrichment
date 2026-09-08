@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "card",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "card",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A small rectangular piece of stiff paper or plastic used for various purposes.",
+  "explanation_ar": "قطعة ورق مقوى أو بلاستيك، زي كارت البنك، أو كروت اللعب، أو كارت المعايدة.",
+  "senses": [
+   {
+    "definition_en": "A small rectangular piece of stiff paper or plastic used for various purposes.",
+    "explanation_ar": "قطعة ورق مقوى أو بلاستيك، زي كارت البنك، أو كروت اللعب، أو كارت المعايدة.",
+    "examples": [
+     "Can I pay by credit card?",
+     "I sent a birthday card to my mom.",
+     "Pick a card from the deck."
+    ]
+   }
+  ],
+  "examples": [
+   "Can I pay by credit card?",
+   "I sent a birthday card to my mom.",
+   "Pick a card from the deck."
+  ],
+  "translations": [
+   "بطاقة",
+   "كارت"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "credit card",
+    "playing card",
+    "business card",
+    "birthday card"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Cart' 'عربية تسوق'.. عشان تشتري بالـ 'Cart' محتاج 'Card' تدفع بيه.",
+  "phonetic_us": "kɑrd",
+  "phonetic_uk": "kɑːd",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Money",
+   "#Games",
+   "#Identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A small rectangular piece of stiff paper or plastic used for various purposes.",
+  "explanation_ar": "قطعة ورق مقوى أو بلاستيك، زي كارت البنك، أو كروت اللعب، أو كارت المعايدة.",
+  "examples": [
+   "Can I pay by credit card?",
+   "I sent a birthday card to my mom.",
+   "Pick a card from the deck."
+  ],
+  "translations": {
+   "arabic_ar": "بطاقة كارت"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "credit card",
+   "playing card",
+   "business card",
+   "birthday card"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Cart' 'عربية تسوق'.. عشان تشتري بالـ 'Cart' محتاج 'Card' تدفع بيه."
+ }
+}

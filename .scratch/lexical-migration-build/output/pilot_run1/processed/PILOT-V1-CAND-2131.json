@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2131",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2131",
+  "lemma": "core",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2131,
+  "lemma": "core",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "kɔːr",
+  "phonetic_uk": "kɔː",
+  "phonetic_ar": "كُور",
+  "definition_en": "Most important, basic, or central to something.",
+  "explanation_ar": "يصف الشيء الاساسي او الجوهري الذي يعتمد عليه كل ما سواه.",
+  "examples": [
+   {
+    "example_text": "Reading and writing are core skills taught in primary school.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The company decided to focus on its core business and sell smaller branches.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Honesty remains one of our core values.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان لب الفاكهة او نواتها يسمى بالانجليزية \"core\" ومنه جاء وصف اي امر اساسي وجوهري بانه \"core\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Most important, basic, or central to something.",
+    "short_def_en": "most basic and central",
+    "definition_ar": "اساسي او جوهري ومركزي في امر ما.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "importance",
+     "basics",
+     "business"
+    ],
+    "usage_note": "Almost always placed directly before a noun.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "core values",
+   "core skills",
+   "core business",
+   "core subjects",
+   "core team"
+  ],
+  "synonyms": [
+   "central",
+   "fundamental",
+   "essential",
+   "primary",
+   "basic"
+  ],
+  "antonyms": [
+   "peripheral",
+   "secondary",
+   "minor"
+  ],
+  "related_words": {
+   "en": [
+    "heart",
+    "center",
+    "foundation",
+    "nucleus"
+   ],
+   "ar": [
+    "قلب",
+    "مركز",
+    "اساس",
+    "نواة"
+   ]
+  },
+  "word_family": {
+   "noun": "core",
+   "verb": "core",
+   "adj": "core",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "اساسي / جوهري",
+   "french_fr": "fondamental",
+   "german_de": "zentral",
+   "spanish_es": "fundamental",
+   "chinese_zh": "核心的 (héxīn de)",
+   "russian_ru": "основной",
+   "portuguese_pt": "central",
+   "japanese_ja": "中心的な (Chūshin-teki na)",
+   "italian_it": "fondamentale",
+   "turkish_tr": "temel"
+  }
+ },
+ "provenance": {
+  "output_hash": "f62f515a4e75a7d7ff9e755ed0e77f77c1eae244c0c42ac26aff1ab644b61b47",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3324",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3324",
+  "lemma": "precious",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3324,
+  "lemma": "precious",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈprɛʃəs",
+  "phonetic_uk": null,
+  "phonetic_ar": "بْرِشَس",
+  "definition_en": "Having great value, importance, or emotional worth and therefore treated with care.",
+  "explanation_ar": "يصف الشيء الثمين أو الغالي جدا، سواء كانت قيمته مادية عالية كالمجوهرات، أو معنوية كالوقت والذكريات العزيزة.",
+  "examples": [
+   {
+    "example_text": "Clean water is a precious resource that must not be wasted.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She keeps all her precious family photographs in a fireproof box.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Gold and diamonds are classic examples of precious metals and gems.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة price وتعني سعر فشيء precious يعني له ثمن وقيمة عالية جدا لا تعوض",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Having great value, importance, or emotional worth and therefore treated with care.",
+    "short_def_en": "valuable and deeply cherished",
+    "definition_ar": "ثمين او ذو قيمة مادية او معنوية كبرى",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "value",
+     "importance",
+     "emotion"
+    ],
+    "usage_note": "Used for both material wealth like gems and abstract concepts like time or memories.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Rare and worth a lot of money, especially referring to metals or stones.",
+    "short_def_en": "monetarily valuable",
+    "definition_ar": "نفيس وغالي الثمن ماديا",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "wealth",
+     "materials",
+     "geology"
+    ],
+    "usage_note": "Commonly collocated with metals or stones.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "precious metal",
+   "precious stones",
+   "precious time",
+   "precious memories",
+   "precious resource"
+  ],
+  "synonyms": [
+   "valuable",
+   "treasured",
+   "priceless",
+   "cherished"
+  ],
+  "antonyms": [
+   "worthless",
+   "valueless"
+  ],
+  "related_words": {
+   "en": [
+    "gem",
+    "treasure",
+    "jewel",
+    "value"
+   ],
+   "ar": [
+    "جوهرة",
+    "كنز",
+    "حجر كريم",
+    "قيمة"
+   ]
+  },
+  "word_family": {
+   "noun": "preciousness",
+   "verb": "",
+   "adj": "precious",
+   "adv": "preciously"
+  },
+  "translations": {
+   "arabic_ar": "ثَمِين / نَفِيس / غَالٍ",
+   "french_fr": "précieux",
+   "german_de": "kostbar",
+   "spanish_es": "precioso",
+   "chinese_zh": "宝贵的 (bǎoguì de)",
+   "russian_ru": "драгоценный",
+   "portuguese_pt": "precioso",
+   "japanese_ja": "貴重な (Kichō na)",
+   "italian_it": "prezioso",
+   "turkish_tr": "değerli"
+  }
+ },
+ "provenance": {
+  "output_hash": "c742a3df9ac1fcb619b814337ea8862356e989ac7bfeaee121bd4a8426797451",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

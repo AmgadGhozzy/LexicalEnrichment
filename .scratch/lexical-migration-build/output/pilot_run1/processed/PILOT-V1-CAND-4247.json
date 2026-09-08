@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4247",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4247",
+  "lemma": "combine",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4247,
+  "lemma": "combine",
+  "pos": "verb",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "kəmˈbaɪn",
+  "phonetic_uk": null,
+  "phonetic_ar": "كَمْبَايْن",
+  "definition_en": "To join two or more things together to form a single unit or whole.",
+  "explanation_ar": "يجمع أو يخلط شيئين أو أكثر معاً ليصبحا شيئاً واحداً أو لتحقيق نتيجة مشتركة.",
+  "examples": [
+   {
+    "example_text": "You can combine these two ingredients to make a delicious sauce.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Many students try to combine part-time work with their university studies.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The new design will combine comfort with high performance.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر بداية الكلمة com وتعني معاً، مثل كلمة company التي تعني صحبة، فالكلمة تعني جمع الأشياء معاً.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To join two or more things together to form a single unit or whole.",
+    "short_def_en": "join or mix together",
+    "definition_ar": "يخلط أو يدمج شيئين أو أكثر لتكوين كل واحد متكامل.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "mixing",
+     "joining",
+     "uniting"
+    ],
+    "usage_note": "Often followed by the preposition 'with'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To have or do two different features, roles, or activities at the same time.",
+    "short_def_en": "have or do simultaneously",
+    "definition_ar": "يجمع بين وظيفتين أو سمتين مختلفتين في وقت واحد.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "balance",
+     "multitasking",
+     "roles"
+    ],
+    "usage_note": "Frequently used when talking about balancing work, studies, or personal qualities.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "combine forces",
+   "combine ingredients",
+   "combine business with pleasure",
+   "combine theory and practice"
+  ],
+  "synonyms": [
+   "mix",
+   "blend",
+   "merge",
+   "unite",
+   "integrate"
+  ],
+  "antonyms": [
+   "separate",
+   "divide",
+   "split"
+  ],
+  "related_words": {
+   "en": [
+    "mixture",
+    "union",
+    "fusion",
+    "joint"
+   ],
+   "ar": [
+    "خليط",
+    "اتحاد",
+    "اندماج",
+    "مشترك"
+   ]
+  },
+  "word_family": {
+   "noun": "combination",
+   "verb": "combine",
+   "adj": "combined",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يجمع / يدمج / يخلط",
+   "french_fr": "combiner",
+   "german_de": "kombinieren",
+   "spanish_es": "combinar",
+   "chinese_zh": "结合 (jiéhé)",
+   "russian_ru": "объединять",
+   "portuguese_pt": "combinar",
+   "japanese_ja": "結びつける (Musubitsukeru)",
+   "italian_it": "combinare",
+   "turkish_tr": "birleştirmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "84ea259ffe63053fdd09e05459a01d4b0906dac2da5c8521b955070a416124a5",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

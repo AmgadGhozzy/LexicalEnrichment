@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "sunlight",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "sunlight",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The light that comes from the sun.",
+  "explanation_ar": "النور اللي بيجي من الشمس.",
+  "senses": [
+   {
+    "definition_en": "The light that comes from the sun.",
+    "explanation_ar": "ضوء الشمس أو النور المنبعث من الشمس."
+   }
+  ],
+  "examples": [
+   "Plants need sunlight to grow.",
+   "Bright sunlight filled the room.",
+   "Avoid direct sunlight on your skin at noon."
+  ],
+  "translations": [
+   "ضوء الشمس"
+  ],
+  "relations": {
+   "synonyms": [
+    "sunshine",
+    "daylight"
+   ],
+   "antonyms": [
+    "darkness",
+    "shade",
+    "shadow"
+   ],
+   "collocations": [
+    "direct sunlight",
+    "bright sunlight",
+    "morning sunlight"
+   ]
+  },
+  "mnemonic": "كلمة مركبة من 'Sun' شمس و 'Light' ضوء.. يعني ضوء الشمس.",
+  "phonetic_us": "ˈsʌnˌlaɪt",
+  "phonetic_uk": "ˈsʌnlaɪt",
+  "syllables": "sun•light",
+  "semantic_tags": [
+   "Nature",
+   "Light",
+   "Sun",
+   "Day"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The light that comes from the sun.",
+  "explanation_ar": "النور اللي بيجي من الشمس.",
+  "examples": [
+   "Plants need sunlight to grow.",
+   "Bright sunlight filled the room.",
+   "Avoid direct sunlight on your skin at noon."
+  ],
+  "translations": {
+   "arabic_ar": "ضوء الشمس"
+  },
+  "synonyms": [
+   "sunshine",
+   "daylight"
+  ],
+  "antonyms": [
+   "darkness",
+   "shade",
+   "shadow"
+  ],
+  "collocations": [
+   "direct sunlight",
+   "bright sunlight",
+   "morning sunlight"
+  ],
+  "mnemonic_ar": "كلمة مركبة من 'Sun' شمس و 'Light' ضوء.. يعني ضوء الشمس."
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3877",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3877",
+  "lemma": "developer",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3877,
+  "lemma": "developer",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Work & Business",
+  "ai_confidence": 0.98,
+  "phonetic_us": "dɪˈvɛləpər",
+  "phonetic_uk": "dɪˈveləpə",
+  "phonetic_ar": "دِفيلوبَر",
+  "definition_en": "A person or company that creates software or builds houses and other structures.",
+  "explanation_ar": "شخص او شركة متخصصة في برمجة وتطوير البرمجيات والتطبيقات، او في تشييد المباني وتطوير العقارات.",
+  "examples": [
+   {
+    "example_text": "She works as a senior software developer at an international technology firm.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "A private developer purchased the land to build fifty new residential houses.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Every web developer needs a strong foundation in basic coding principles.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person or company that writes code to create computer programs, applications, or systems.",
+    "short_def_en": "software creator or programmer",
+    "definition_ar": "مبرمج يصمم وينشئ برامج وتطبيقات الحاسوب والانظمة الرقمية.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "Technology",
+     "Computing",
+     "Jobs"
+    ],
+    "usage_note": "Often paired with specific technologies such as web, app, or software.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A person or firm that buys land and arranges the construction of new buildings.",
+    "short_def_en": "real estate builder",
+    "definition_ar": "مستثمر او مقاول يشتري الاراضي لتشييد المباني وتطوير المشاريع العقارية.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "Real Estate",
+     "Construction",
+     "Business"
+    ],
+    "usage_note": "Commonly called a property developer or real estate developer.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "software developer",
+   "web developer",
+   "property developer",
+   "real estate developer",
+   "experienced developer"
+  ],
+  "synonyms": [
+   "programmer",
+   "coder",
+   "builder"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "programming",
+    "code",
+    "software",
+    "property",
+    "construction"
+   ],
+   "ar": [
+    "برمجة",
+    "شفرة برمجية",
+    "برمجيات",
+    "عقار",
+    "بناء"
+   ]
+  },
+  "word_family": {
+   "noun": "development",
+   "verb": "develop",
+   "adj": "developing",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مطور / مبرمج / مطور عقاري",
+   "french_fr": "développeur",
+   "german_de": "Entwickler",
+   "spanish_es": "desarrollador",
+   "chinese_zh": "开发者 (Kāifā zhě)",
+   "russian_ru": "разработчик",
+   "portuguese_pt": "desenvolvedor",
+   "japanese_ja": "開発者 (Kaihatsusha)",
+   "italian_it": "sviluppatore",
+   "turkish_tr": "geliştirici"
+  }
+ },
+ "provenance": {
+  "output_hash": "db2acaec0acdaf930cb0da5d95a2b551150188b472f22aa1a5dd36dd29b518ce",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

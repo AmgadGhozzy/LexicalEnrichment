@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "archbishop",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "archbishop",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A chief bishop responsible for an archdiocese.",
+  "explanation_ar": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+  "senses": [
+   {
+    "definition_en": "A chief bishop responsible for an archdiocese.",
+    "explanation_ar": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+    "examples": [
+     "He was appointed as the new archbishop.",
+     "The archbishop delivered a sermon on peace.",
+     "Ecclesiastical laws are interpreted by the archbishop."
+    ]
+   }
+  ],
+  "examples": [
+   "He was appointed as the new archbishop.",
+   "The archbishop delivered a sermon on peace.",
+   "Ecclesiastical laws are interpreted by the archbishop."
+  ],
+  "translations": [
+   "رئيس الأساقفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "primate",
+    "metropolitan"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "appoint an archbishop",
+    "archbishop of Canterbury",
+    "archbishop's palace"
+   ]
+  },
+  "mnemonic": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'.",
+  "phonetic_us": "ˌɑːrtʃˈbɪʃ.əp",
+  "phonetic_uk": "ˌɑːtʃˈbɪʃ.əp",
+  "syllables": "arch•bish•op",
+  "semantic_tags": [
+   "#Religion",
+   "#Leader",
+   "#Church",
+   "#Rank"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A chief bishop responsible for an archdiocese.",
+  "explanation_ar": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+  "examples": [
+   "He was appointed as the new archbishop.",
+   "The archbishop delivered a sermon on peace.",
+   "Ecclesiastical laws are interpreted by the archbishop."
+  ],
+  "translations": {
+   "arabic_ar": "رئيس الأساقفة"
+  },
+  "synonyms": [
+   "primate",
+   "metropolitan"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "appoint an archbishop",
+   "archbishop of Canterbury",
+   "archbishop's palace"
+  ],
+  "mnemonic_ar": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'."
+ }
+}

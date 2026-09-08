@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6959",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6959",
+  "lemma": "attractiveness",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6959,
+  "lemma": "attractiveness",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈtræktɪvnəs",
+  "phonetic_uk": null,
+  "phonetic_ar": "أتْراكْتِفْنِس",
+  "definition_en": "The quality of being pleasing, interesting, or enjoyable to look at or consider.",
+  "explanation_ar": "صفة الجاذبية أو الحسن التي تجعل الشيء أو الشخص ممتعا للنظر أو مرغوبا ومثيرا للاهتمام.",
+  "examples": [
+   {
+    "example_text": "The natural beauty and cultural heritage add to the attractiveness of the city.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Physical attractiveness often influences initial impressions in social settings.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Lower tax rates increased the attractiveness of the region for foreign investors.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل attract بمعنى يجذب فاللاحقة ness تحوله لاسم ليعني الجاذبية او حسن المظهر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The quality of being pleasing or appealing to look at, especially physically.",
+    "short_def_en": "physical beauty or appeal",
+    "definition_ar": "الجاذبية الجسدية او المظهر الجميل الذي يلفت الانتباه ويعجب الناظرين.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "beauty",
+     "appearance",
+     "perception"
+    ],
+    "usage_note": "Often refers specifically to human looks or aesthetic appeal.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The quality of having features that make something desirable, advantageous, or worth choosing.",
+    "short_def_en": "desirability or advantage",
+    "definition_ar": "صفة تجعل الشيء مغريا او مرغوبا فيه كالفرص الاستثمارية او العروض.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "appeal",
+     "advantage",
+     "business"
+    ],
+    "usage_note": "Common in business, finance, and decision-making contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "physical attractiveness",
+   "overall attractiveness",
+   "enhance the attractiveness",
+   "commercial attractiveness",
+   "relative attractiveness"
+  ],
+  "synonyms": [
+   "appeal",
+   "allure",
+   "charm",
+   "desirability",
+   "comeliness"
+  ],
+  "antonyms": [
+   "unattractiveness",
+   "ugliness"
+  ],
+  "related_words": {
+   "en": [
+    "attraction",
+    "magnetism",
+    "charisma",
+    "fascination"
+   ],
+   "ar": [
+    "انجذاب",
+    "مغناطيسية",
+    "كاريزما",
+    "افتتان"
+   ]
+  },
+  "word_family": {
+   "noun": "attraction",
+   "verb": "attract",
+   "adj": "attractive",
+   "adv": "attractively"
+  },
+  "translations": {
+   "arabic_ar": "جاذبية / فتنة",
+   "french_fr": "attrait",
+   "german_de": "Attraktivität",
+   "spanish_es": "atractivo",
+   "chinese_zh": "吸引力 (xīyǐnlì)",
+   "russian_ru": "привлекательность",
+   "portuguese_pt": "atratividade",
+   "japanese_ja": "魅力 (Miryoku)",
+   "italian_it": "attrattiva",
+   "turkish_tr": "çekicilik"
+  }
+ },
+ "provenance": {
+  "output_hash": "131a3b2048cb71534f560f5bd5865e62b88cfe45a10f33ecb66b5d6359cb3f4d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

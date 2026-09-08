@@ -1,0 +1,139 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5381",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5381",
+  "lemma": "fond",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5381,
+  "lemma": "fond",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.95,
+  "phonetic_us": "fɑːnd",
+  "phonetic_uk": "fɒnd",
+  "phonetic_ar": "فوند",
+  "definition_en": "Having a strong liking, affection, or love for someone or something.",
+  "explanation_ar": "يصف الشعور بالمودة والمحبة تجاه شخص ما، أو الميل الشديد والاستمتاع بالقيام بشيء معين.",
+  "examples": [
+   {
+    "example_text": "Over the years, she grew remarkably fond of her quiet rural neighbors.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "He has always been fond of classical music and spends hours listening to concerts.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She shared a fond memory of the summers they spent together by the sea.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"fond\" بالربط مع حلوى الشوكولاتة الذائبة فوندو \"fondue\" لأن كلاهما يعبر عن حب الشيء والولع الشديد به",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Having affection, warmth, or a strong liking for a person or activity.",
+    "short_def_en": "having affection or liking",
+    "definition_ar": "محب لشيء او شخص ويشعر بمودة تجاهه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "Affection",
+     "Preferences",
+     "Emotions",
+     "Relationships"
+    ],
+    "usage_note": "Most frequently used in the predicate with the preposition of, as in to be fond of.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Expressing or showing love, tenderness, or pleasant memories.",
+    "short_def_en": "tender or loving",
+    "definition_ar": "معبر عن الحب او يحمل ذكريات دافئة وجميلة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "Memory",
+     "Tenderness",
+     "Feelings"
+    ],
+    "usage_note": "Commonly modifies nouns such as memories, regards, hopes, or farewell.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "fond of",
+   "fond memory",
+   "fond farewell",
+   "fond regards",
+   "fond hopes"
+  ],
+  "synonyms": [
+   "affectionate",
+   "loving",
+   "tender",
+   "attached",
+   "partial"
+  ],
+  "antonyms": [
+   "indifferent",
+   "averse",
+   "hostile"
+  ],
+  "related_words": {
+   "en": [
+    "affection",
+    "attachment",
+    "warmth",
+    "devotion",
+    "tenderness"
+   ],
+   "ar": [
+    "مودة",
+    "تعلق",
+    "دفء",
+    "إخلاص",
+    "رقة"
+   ]
+  },
+  "word_family": {
+   "noun": "fondness",
+   "verb": "",
+   "adj": "fond",
+   "adv": "fondly"
+  },
+  "translations": {
+   "arabic_ar": "محب / مولع / ودود",
+   "french_fr": "aimant / attaché",
+   "german_de": "zugetan / liebend",
+   "spanish_es": "afectuoso / encariñado",
+   "chinese_zh": "喜爱的 (Xǐ'ài de)",
+   "russian_ru": "любящий / нежный",
+   "portuguese_pt": "afetuoso / afeiçoado",
+   "japanese_ja": "好んでいる (Konde iru)",
+   "italian_it": "affezionato / tenero",
+   "turkish_tr": "düşkün / şefkatli"
+  }
+ },
+ "provenance": {
+  "output_hash": "55ba302d2c3c7d3f1e96d0d28717f29a2d0313f0e396f1e0e75e456d60b30235",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

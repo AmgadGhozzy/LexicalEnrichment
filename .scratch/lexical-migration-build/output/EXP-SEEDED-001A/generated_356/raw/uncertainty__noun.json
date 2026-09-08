@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "uncertainty",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "uncertainty",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The state of being unsure or not knowing what will happen.",
+  "explanation_ar": "حالة عدم التأكد أو الشك في حاجة معينة وإنك مش عارف إيه اللي هيحصل.",
+  "senses": [
+   {
+    "definition_en": "The state of being unsure or not knowing what will happen.",
+    "definition_ar": "حالة عدم التأكد أو الشك بشأن ما سيحدث.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "There is still some uncertainty regarding the date.",
+   "Economic uncertainty affects everyone.",
+   "The uncertainty made him nervous."
+  ],
+  "translations": [
+   "عدم اليقين",
+   "ريبة",
+   "شك"
+  ],
+  "relations": {
+   "synonyms": [
+    "doubt",
+    "unpredictability",
+    "ambiguity"
+   ],
+   "antonyms": [
+    "certainty",
+    "confidence"
+   ],
+   "collocations": [
+    "great uncertainty",
+    "period of uncertainty",
+    "economic uncertainty",
+    "uncertainty principle"
+   ]
+  },
+  "mnemonic": "عكس 'Certainty' 'يقين'.. الـ 'Uncertainty' هي 'الحيرة' وعدم التأكد.",
+  "phonetic_us": "ʌnˈsɜrtənti",
+  "phonetic_uk": "ʌnˈsɜːtnti",
+  "syllables": "un•cer•tain•ty",
+  "semantic_tags": [
+   "#Doubt",
+   "#Future",
+   "#Risk",
+   "#Confusion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of being unsure or not knowing what will happen.",
+  "explanation_ar": "حالة عدم التأكد أو الشك في حاجة معينة وإنك مش عارف إيه اللي هيحصل.",
+  "examples": [
+   "There is still some uncertainty regarding the date.",
+   "Economic uncertainty affects everyone.",
+   "The uncertainty made him nervous."
+  ],
+  "translations": {
+   "arabic_ar": "عدم اليقين ريبة شك"
+  },
+  "synonyms": [
+   "doubt",
+   "unpredictability",
+   "ambiguity"
+  ],
+  "antonyms": [
+   "certainty",
+   "confidence"
+  ],
+  "collocations": [
+   "great uncertainty",
+   "period of uncertainty",
+   "economic uncertainty",
+   "uncertainty principle"
+  ],
+  "mnemonic_ar": "عكس 'Certainty' 'يقين'.. الـ 'Uncertainty' هي 'الحيرة' وعدم التأكد."
+ }
+}

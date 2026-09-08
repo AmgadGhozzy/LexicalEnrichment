@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "multiply",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "multiply",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To increase greatly in number or quantity, or to perform the mathematical operation of multiplication.",
+  "explanation_ar": "يضاعف أو يضرب؛ أن تزيد الأشياء بشكل ملحوظ في العدد أو الكمية، أو تُجري عملية الضرب الحسابية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To add a number to itself a particular number of times.",
+    "definition_ar": "يضرب أرقاماً في الحساب",
+    "cefr": "A2"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To increase by a large amount or number, or to reproduce and generate offspring.",
+    "definition_ar": "يتضاعف أو يتكاثر بسرعة",
+    "cefr": "B2"
+   }
+  ],
+  "examples": [
+   "Can you multiply five by two?",
+   "Rabbits multiply very quickly.",
+   "The risks multiply when you ignore safety regulations."
+  ],
+  "translations": [
+   "يضرب",
+   "يضاعف",
+   "يتكاثر"
+  ],
+  "relations": {
+   "synonyms": [
+    "increase",
+    "proliferate",
+    "reproduce",
+    "expand"
+   ],
+   "antonyms": [
+    "divide",
+    "decrease",
+    "reduce"
+   ],
+   "collocations": [
+    "multiply by",
+    "multiply quickly",
+    "multiply profits"
+   ]
+  },
+  "mnemonic": "كلمة 'Multi' يعني كتير.. فالـ 'Multiply' يعني بتخلي الحاجة تزيد وتبقى كتير",
+  "phonetic_us": "ˈmʌltəˌplaɪ",
+  "phonetic_uk": "ˈmʌltɪplaɪ",
+  "syllables": "mul•ti•ply",
+  "semantic_tags": [
+   "#Math",
+   "#Increase",
+   "#Numbers",
+   "#Growth"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To increase greatly in number or quantity, or to perform the mathematical operation of multiplication.",
+  "explanation_ar": "يضاعف أو يضرب؛ أن تزيد الأشياء بشكل ملحوظ في العدد أو الكمية، أو تُجري عملية الضرب الحسابية.",
+  "examples": [
+   "Can you multiply five by two?",
+   "Rabbits multiply very quickly.",
+   "The risks multiply when you ignore safety regulations."
+  ],
+  "translations": {
+   "arabic_ar": "يضرب يضاعف يتكاثر"
+  },
+  "synonyms": [
+   "increase",
+   "proliferate",
+   "reproduce",
+   "expand"
+  ],
+  "antonyms": [
+   "divide",
+   "decrease",
+   "reduce"
+  ],
+  "collocations": [
+   "multiply by",
+   "multiply quickly",
+   "multiply profits"
+  ],
+  "mnemonic_ar": "كلمة 'Multi' يعني كتير.. فالـ 'Multiply' يعني بتخلي الحاجة تزيد وتبقى كتير"
+ }
+}

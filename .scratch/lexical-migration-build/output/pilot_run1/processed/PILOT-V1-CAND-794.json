@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-794",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-794",
+  "lemma": "ground",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 794,
+  "lemma": "ground",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɡraʊnd",
+  "phonetic_uk": null,
+  "phonetic_ar": "جْرَاوْنْد",
+  "definition_en": "The solid surface of the earth that people walk on.",
+  "explanation_ar": "سطح الأرض الصلب أو التراب الذي نقف ونمشي عليه في الهواء الطلق.",
+  "examples": [
+   {
+    "example_text": "He dropped his keys on the ground.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The ground was cold and wet after the rain.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "We sat together on the ground to eat our lunch.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تلعب العاب فيديو وتختار وضعية \"round\" في الحلبة، والقتال يدور دائما على \"ground\" اي الارض الصلبة تحت قدميك.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The solid surface of the earth that people walk on.",
+    "short_def_en": "earth surface outdoors",
+    "definition_ar": "سطح الأرض الخارجي الذي يمشي عليه الناس.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "nature",
+     "earth",
+     "land",
+     "surface"
+    ],
+    "usage_note": "Used for the outdoor surface; indoors we use floor.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "An area of land used for a particular purpose or activity.",
+    "short_def_en": "designated area of land",
+    "definition_ar": "مساحة من الأرض مخصصة لغرض او نشاط محدد مثل الرياضة.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "sports",
+     "land",
+     "area",
+     "places"
+    ],
+    "usage_note": "Often seen in combinations like sports ground or training ground.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "hit the ground",
+   "on the ground",
+   "above the ground",
+   "sports ground",
+   "solid ground"
+  ],
+  "synonyms": [
+   "earth",
+   "soil",
+   "surface",
+   "land",
+   "terrain"
+  ],
+  "antonyms": [
+   "sky"
+  ],
+  "related_words": {
+   "en": [
+    "floor",
+    "dirt",
+    "mud",
+    "grass",
+    "underground"
+   ],
+   "ar": [
+    "أرضية",
+    "تراب",
+    "طين",
+    "عشب",
+    "تحت الأرض"
+   ]
+  },
+  "word_family": {
+   "noun": "ground",
+   "verb": "ground",
+   "adj": "groundless",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "أرض / يابسة",
+   "french_fr": "sol",
+   "german_de": "Boden",
+   "spanish_es": "suelo",
+   "chinese_zh": "地面 (Dìmiàn)",
+   "russian_ru": "земля",
+   "portuguese_pt": "chão",
+   "japanese_ja": "地面 (Jimen)",
+   "italian_it": "terra",
+   "turkish_tr": "yer"
+  }
+ },
+ "provenance": {
+  "output_hash": "06fd175bd4d2f7ad0d3bd54f980fd197347c339951aed880dd412f9c3fb7bd18",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

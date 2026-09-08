@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6860",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6860",
+  "lemma": "embryo",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6860,
+  "lemma": "embryo",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Nature & Science",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɛmbrioʊ",
+  "phonetic_uk": "ˈembriəʊ",
+  "phonetic_ar": "إِمْبْرِيو",
+  "definition_en": "An animal or human in the earliest stages of development before birth or hatching.",
+  "explanation_ar": "كائن حي، كالإنسان أو الحيوان، في أولى مراحل تكوّنه ونموه قبل الولادة أو الفقس؛ ويُطلق مجازياً على الفكرة أو المشروع في بداياته الأولى.",
+  "examples": [
+   {
+    "example_text": "The fertility clinic carefully monitored the development of each embryo.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "During the first eight weeks, the developing human is scientifically referred to as an embryo.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Their business plan was still only an embryo when they secured initial funding.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر بداية الكلمة em تشبه كلمة embedded اي مغروس بالداخل واللاحقة bryo يونانية تعني ينمو او ينتفخ فالكلمة تعني الكائن الصغير المنغرس في بداية نموه",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An unborn offspring in the initial stages of development within a womb or egg.",
+    "short_def_en": "early stage developing organism",
+    "definition_ar": "الكائن الحي في المرحلة المبكرة جدا من تشكله قبل اكتمال خلقه وولادته",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "biology",
+     "medicine",
+     "reproduction",
+     "development"
+    ],
+    "usage_note": "In humans, usually refers to the period from fertilization up to the end of the eighth week, after which it is called a fetus.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Something in a very early stage of development, such as a plan or idea.",
+    "short_def_en": "rudimentary or early stage",
+    "definition_ar": "بداية تشكل فكرة او مشروع في طوره التمهيدي",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "metaphor",
+     "planning",
+     "beginning",
+     "development"
+    ],
+    "usage_note": "Often used in the phrase 'in embryo' to mean undeveloped or in an early form.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "human embryo",
+   "frozen embryo",
+   "embryo transfer",
+   "in embryo",
+   "embryo research"
+  ],
+  "synonyms": [
+   "fetus",
+   "germ",
+   "nucleus"
+  ],
+  "antonyms": [
+   "adult"
+  ],
+  "related_words": {
+   "en": [
+    "fertilization",
+    "fetus",
+    "womb",
+    "gestation",
+    "cell",
+    "development"
+   ],
+   "ar": [
+    "إخصاب",
+    "جنين",
+    "رحم",
+    "حمل",
+    "خلية",
+    "نمو"
+   ]
+  },
+  "word_family": {
+   "noun": "embryology",
+   "verb": "",
+   "adj": "embryonic",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "جنين / بداية / بذرة أولى",
+   "french_fr": "embryon",
+   "german_de": "Embryo",
+   "spanish_es": "embrión",
+   "chinese_zh": "胚胎 (Pēitāi)",
+   "russian_ru": "эмбрион",
+   "portuguese_pt": "embrião",
+   "japanese_ja": "胚 (Hai)",
+   "italian_it": "embrione",
+   "turkish_tr": "embriyo"
+  }
+ },
+ "provenance": {
+  "output_hash": "a450ab040115757819c2349942b1a1daa0754fd7a17c4fe6b9b69be7e8e17e02",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

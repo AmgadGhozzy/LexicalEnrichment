@@ -1,0 +1,154 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5068",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5068",
+  "lemma": "lightly",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5068,
+  "lemma": "lightly",
+  "pos": "adv",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈlaɪtli",
+  "phonetic_uk": null,
+  "phonetic_ar": "لايْتلي",
+  "definition_en": "With very little force, pressure, or weight, or without taking something seriously.",
+  "explanation_ar": "بخفة أو برفق دون استخدام قوة أو ضغط كبير، وتستخدم مجازيا بمعنى عدم أخذ الأمر بجدية أو استخفاف به.",
+  "examples": [
+   {
+    "example_text": "She tapped him lightly on the shoulder to get his attention.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Season the grilled fish lightly with salt and black pepper.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "This serious warning should not be taken lightly by anyone.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"light\" بمعنى خفيف، فإضافة \"ly\" تحولها إلى حال يعني بخفة أو دون ثقل.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "With gentle physical touch or very little force or weight.",
+    "short_def_en": "gently or softly",
+    "definition_ar": "برفق أو بخفة دون ضغط قوي",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "manner",
+     "touch",
+     "movement"
+    ],
+    "usage_note": "Commonly describes physical actions like touching, tapping, or stepping.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "In a small amount or thin layer.",
+    "short_def_en": "in small amounts",
+    "definition_ar": "بكمية قليلة أو طبقة رقيقة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "quantity",
+     "cooking",
+     "measurement"
+    ],
+    "usage_note": "Frequently used in cooking and decorating contexts.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "Without giving something serious thought or treating it with proper importance.",
+    "short_def_en": "without seriousness",
+    "definition_ar": "باستخفاف أو دون اهتمام كاف",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "attitude",
+     "thinking",
+     "decision"
+    ],
+    "usage_note": "Almost always appears in phrases like 'take something lightly'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "take something lightly",
+   "touch lightly",
+   "tread lightly",
+   "season lightly",
+   "brush lightly"
+  ],
+  "synonyms": [
+   "gently",
+   "softly",
+   "delicately",
+   "casually",
+   "faintly"
+  ],
+  "antonyms": [
+   "heavily",
+   "seriously",
+   "forcefully"
+  ],
+  "related_words": {
+   "en": [
+    "light",
+    "weight",
+    "gentle",
+    "careful",
+    "serious"
+   ],
+   "ar": [
+    "خفيف",
+    "وزن",
+    "لطيف",
+    "حذر",
+    "جاد"
+   ]
+  },
+  "word_family": {
+   "noun": "lightness",
+   "verb": "lighten",
+   "adj": "light",
+   "adv": "lightly"
+  },
+  "translations": {
+   "arabic_ar": "بخفة / برفق / باستهانة",
+   "french_fr": "légèrement",
+   "german_de": "leicht",
+   "spanish_es": "ligeramente",
+   "chinese_zh": "轻轻地 (qīng qīng de)",
+   "russian_ru": "легко",
+   "portuguese_pt": "levemente",
+   "japanese_ja": "軽く (Karuku)",
+   "italian_it": "leggermente",
+   "turkish_tr": "hafifçe"
+  }
+ },
+ "provenance": {
+  "output_hash": "a855a24c6824e363cfc519883384f25bc159d11bf488b7397c0d9cab097f527d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

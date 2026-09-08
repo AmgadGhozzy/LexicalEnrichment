@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "dust",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "dust",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Fine powder made of dirt or waste that covers surfaces.",
+  "explanation_ar": "التراب الناعم أو الغبار اللي بيتجمع على الأسطح لما ما تتنضفش فترة.",
+  "senses": [
+   {
+    "definition_en": "Fine powder made of dirt or waste that covers surfaces.",
+    "explanation_ar": "التراب الناعم أو الغبار اللي بيتجمع على الأسطح لما ما تتنضفش فترة.",
+    "translations": [
+     "تراب",
+     "غبار"
+    ]
+   }
+  ],
+  "examples": [
+   "There is dust on the table.",
+   "She wiped the dust off the old book.",
+   "The car left a cloud of dust behind it."
+  ],
+  "translations": [
+   "تراب",
+   "غبار"
+  ],
+  "relations": {
+   "synonyms": [
+    "dirt",
+    "powder"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "gather dust",
+    "dust storm",
+    "thick dust"
+   ]
+  },
+  "mnemonic": "الـ 'Dust' هو التراب.. افتكر كلمة 'Duster' اللي هي فوطة التراب.",
+  "phonetic_us": "/dʌst/",
+  "phonetic_uk": "/dʌst/",
+  "syllables": "dust",
+  "semantic_tags": [
+   "cleaning",
+   "dirt",
+   "home",
+   "nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Fine powder made of dirt or waste that covers surfaces.",
+  "explanation_ar": "التراب الناعم أو الغبار اللي بيتجمع على الأسطح لما ما تتنضفش فترة.",
+  "examples": [
+   "There is dust on the table.",
+   "She wiped the dust off the old book.",
+   "The car left a cloud of dust behind it."
+  ],
+  "translations": {
+   "arabic_ar": "تراب غبار"
+  },
+  "synonyms": [
+   "dirt",
+   "powder"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "gather dust",
+   "dust storm",
+   "thick dust"
+  ],
+  "mnemonic_ar": "الـ 'Dust' هو التراب.. افتكر كلمة 'Duster' اللي هي فوطة التراب."
+ }
+}

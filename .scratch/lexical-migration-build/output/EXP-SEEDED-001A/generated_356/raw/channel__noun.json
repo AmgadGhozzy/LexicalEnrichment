@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "channel",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "channel",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A television station, or a path through which water or information flows.",
+  "explanation_ar": "محطة تلفزيون، أو مسار بتمشي فيه الماية، أو حتى طريقة لتوصيل المعلومات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A television station and its programs.",
+    "definition_ar": "محطة أو قناة تلفزيونية.",
+    "examples": [
+     "What is your favorite TV channel?"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A method, route, or system used for directing communication or business.",
+    "definition_ar": "مسار أو وسيلة لنقل المعلومات أو الاتصالات.",
+    "examples": [
+     "We need an open channel of communication."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "A passage or body of water through which boats pass, or along which water flows.",
+    "definition_ar": "مجرى مائي أو ممر تسير فيه المياه أو السفن.",
+    "examples": [
+     "The water flows through a narrow channel."
+    ]
+   }
+  ],
+  "examples": [
+   "What is your favorite TV channel?",
+   "We need an open channel of communication.",
+   "The water flows through a narrow channel."
+  ],
+  "translations": [
+   "قناة",
+   "مجرى",
+   "مسار"
+  ],
+  "relations": {
+   "synonyms": [
+    "station",
+    "network",
+    "path",
+    "route",
+    "medium"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "TV channel",
+    "communication channel",
+    "change the channel"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Channel' في التلفزيون.. هي مَسار بتوصلك منه المَعلومة.",
+  "phonetic_us": "ˈtʃænəl",
+  "phonetic_uk": "ˈtʃæn.əl",
+  "syllables": "chan•nel",
+  "semantic_tags": [
+   "Media",
+   "Communication",
+   "Water"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A television station, or a path through which water or information flows.",
+  "explanation_ar": "محطة تلفزيون، أو مسار بتمشي فيه الماية، أو حتى طريقة لتوصيل المعلومات.",
+  "examples": [
+   "What is your favorite TV channel?",
+   "We need an open channel of communication.",
+   "The water flows through a narrow channel."
+  ],
+  "translations": {
+   "arabic_ar": "قناة مجرى مسار"
+  },
+  "synonyms": [
+   "station",
+   "network",
+   "path",
+   "route",
+   "medium"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "TV channel",
+   "communication channel",
+   "change the channel"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Channel' في التلفزيون.. هي مَسار بتوصلك منه المَعلومة."
+ }
+}

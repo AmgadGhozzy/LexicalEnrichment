@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "lifestyle",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "lifestyle",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The way in which a person or group lives.",
+  "explanation_ar": "طريقة حياتك، بتاكل إيه، بتلبس إيه، بتقضي وقتك إزاي، وكل عاداتك اليومية.",
+  "senses": [
+   {
+    "sense_id": "lifestyle-noun-1",
+    "definition_en": "The way in which a person or group lives.",
+    "definition_ar": "أسلوب الحياة أو الطريقة التي يعيش بها شخص أو جماعة.",
+    "examples": [
+     "A healthy lifestyle is important.",
+     "He has a busy lifestyle.",
+     "They enjoy a luxurious lifestyle."
+    ]
+   }
+  ],
+  "examples": [
+   "A healthy lifestyle is important.",
+   "He has a busy lifestyle.",
+   "They enjoy a luxurious lifestyle."
+  ],
+  "translations": [
+   "نمط الحياة",
+   "أسلوب الحياة"
+  ],
+  "relations": {
+   "synonyms": [
+    "way of life"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "healthy lifestyle",
+    "active lifestyle",
+    "busy lifestyle",
+    "change your lifestyle"
+   ]
+  },
+  "mnemonic": "'Life' 'حياة' + 'Style' 'أسلوب'.. يعني أسلوب الحياة.",
+  "phonetic_us": "ˈlaɪf.staɪl",
+  "phonetic_uk": "ˈlaɪf.staɪl",
+  "syllables": "life•style",
+  "semantic_tags": [
+   "habits",
+   "living",
+   "culture",
+   "daily life"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The way in which a person or group lives.",
+  "explanation_ar": "طريقة حياتك، بتاكل إيه، بتلبس إيه، بتقضي وقتك إزاي، وكل عاداتك اليومية.",
+  "examples": [
+   "A healthy lifestyle is important.",
+   "He has a busy lifestyle.",
+   "They enjoy a luxurious lifestyle."
+  ],
+  "translations": {
+   "arabic_ar": "نمط الحياة أسلوب الحياة"
+  },
+  "synonyms": [
+   "way of life"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "healthy lifestyle",
+   "active lifestyle",
+   "busy lifestyle",
+   "change your lifestyle"
+  ],
+  "mnemonic_ar": "'Life' 'حياة' + 'Style' 'أسلوب'.. يعني أسلوب الحياة."
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4309",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4309",
+  "lemma": "grip",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4309,
+  "lemma": "grip",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɡrɪp",
+  "phonetic_uk": null,
+  "phonetic_ar": "غْرِبْ",
+  "definition_en": "To hold something firmly, or to deeply capture someone's attention or emotion.",
+  "explanation_ar": "يمسك بالشيء بإحكام وقوة، أو يستحوذ على انتباه الشخص ومشاعره بالكامل.",
+  "examples": [
+   {
+    "example_text": "You must grip the steering wheel firmly with both hands while driving on icy roads.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Intense fear can completely grip a person during an unexpected crisis.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Novelists often strive to grip the reader from the very first paragraph.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"grip\" بأن صوتها يشبه كلمة قَرَّب، فعندما تريد أن تمسك شيئا بإحكام تقربه إليك بقوة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To hold tightly with the hands or fingers.",
+    "short_def_en": "hold tightly",
+    "definition_ar": "يمسك بقوة وإحكام بواسطة اليدين أو الأصابع.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "physical action",
+     "hands",
+     "force"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To deeply affect someone emotionally or command their total attention.",
+    "short_def_en": "deeply fascinate or affect",
+    "definition_ar": "يستحوذ على الانتباه تماما أو يسيطر على المشاعر.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "attention",
+     "emotion",
+     "psychology"
+    ],
+    "usage_note": "Often used passively or with feelings like fear, panic, or excitement as the subject.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "grip tightly",
+   "grip firmly",
+   "grip attention",
+   "fear grip"
+  ],
+  "synonyms": [
+   "grasp",
+   "clutch",
+   "hold",
+   "captivate",
+   "seize"
+  ],
+  "antonyms": [
+   "release",
+   "loosen",
+   "drop"
+  ],
+  "related_words": {
+   "en": [
+    "friction",
+    "handle",
+    "control",
+    "tension"
+   ],
+   "ar": [
+    "احتكاك",
+    "مقبض",
+    "سيطرة",
+    "توتر"
+   ]
+  },
+  "word_family": {
+   "noun": "grip",
+   "verb": "grip",
+   "adj": "gripping",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يمسك بإحكام / يستحوذ على",
+   "french_fr": "saisir",
+   "german_de": "greifen",
+   "spanish_es": "agarrar",
+   "chinese_zh": "紧握 (jǐnwò)",
+   "russian_ru": "сжимать",
+   "portuguese_pt": "agarrar",
+   "japanese_ja": "握る (Nigiru)",
+   "italian_it": "afferrare",
+   "turkish_tr": "kavramak"
+  }
+ },
+ "provenance": {
+  "output_hash": "7c7698d22d7469b1eff78121042771514957925b44fd42dd7bfdef397b6547d3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

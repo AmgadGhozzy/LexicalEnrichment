@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "bottom",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "bottom",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "In the lowest position; lowest.",
+  "explanation_ar": "صفة للحاجة اللي تحت خالص، في أقل مستوى.",
+  "senses": [
+   {
+    "definition_en": "In the lowest position; lowest.",
+    "explanation_ar": "صفة تعني الكائن في أسفل مكان أو عند أدنى مستوى.",
+    "examples": [
+     "Look at the bottom shelf.",
+     "Write your name on the bottom line.",
+     "The bottom drawer is stuck."
+    ]
+   }
+  ],
+  "examples": [
+   "Look at the bottom shelf.",
+   "Write your name on the bottom line.",
+   "The bottom drawer is stuck."
+  ],
+  "translations": [
+   "سفلي",
+   "أسفل"
+  ],
+  "relations": {
+   "synonyms": [
+    "lowest"
+   ],
+   "antonyms": [
+    "top",
+    "upper",
+    "highest"
+   ],
+   "collocations": [
+    "bottom line",
+    "bottom shelf",
+    "bottom drawer"
+   ]
+  },
+  "mnemonic": "كلمة 'Bottom' شبه 'بطن'.. والبطن تحت الصدر، يعني في الجزء الأسفل.",
+  "phonetic_us": "ˈbɑːtəm",
+  "phonetic_uk": "ˈbɒtəm",
+  "syllables": "bot•tom",
+  "semantic_tags": [
+   "Position",
+   "Location",
+   "Order"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In the lowest position; lowest.",
+  "explanation_ar": "صفة للحاجة اللي تحت خالص، في أقل مستوى.",
+  "examples": [
+   "Look at the bottom shelf.",
+   "Write your name on the bottom line.",
+   "The bottom drawer is stuck."
+  ],
+  "translations": {
+   "arabic_ar": "سفلي أسفل"
+  },
+  "synonyms": [
+   "lowest"
+  ],
+  "antonyms": [
+   "top",
+   "upper",
+   "highest"
+  ],
+  "collocations": [
+   "bottom line",
+   "bottom shelf",
+   "bottom drawer"
+  ],
+  "mnemonic_ar": "كلمة 'Bottom' شبه 'بطن'.. والبطن تحت الصدر، يعني في الجزء الأسفل."
+ }
+}

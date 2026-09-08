@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "chop",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "chop",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To cut something into pieces with a sharp tool like a knife or axe.",
+  "explanation_ar": "يقطع أو يفرم. تقطع حاجة حتت صغيرة بالسكينة أو الفاس.",
+  "senses": [
+   {
+    "definition_en": "To cut something into pieces with a sharp tool like a knife or axe.",
+    "definition_ar": "يقطع أو يفرم شيئاً باستخدام أداة حادة كالسكين أو الفأس.",
+    "examples": [
+     "Please chop the onions into small pieces.",
+     "Use a sharp axe to chop wood for the fire.",
+     "They plan to chop down the old tree in the garden."
+    ]
+   }
+  ],
+  "examples": [
+   "Please chop the onions into small pieces.",
+   "Use a sharp axe to chop wood for the fire.",
+   "They plan to chop down the old tree in the garden."
+  ],
+  "translations": [
+   "يَقْطَع",
+   "يَفْرُم"
+  ],
+  "relations": {
+   "synonyms": [
+    "cut",
+    "dice",
+    "slice",
+    "mince",
+    "hack"
+   ],
+   "antonyms": [
+    "attach",
+    "join"
+   ],
+   "collocations": [
+    "chop up",
+    "chop down",
+    "chop off"
+   ]
+  },
+  "mnemonic": "تخيل الشيف بيعمل 'Chop chop' بسرعة وهو بيقطع الخضار",
+  "phonetic_us": "tʃɑp",
+  "phonetic_uk": "tʃɒp",
+  "syllables": null,
+  "semantic_tags": [
+   "#Cooking",
+   "#Cutting",
+   "#Kitchen"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To cut something into pieces with a sharp tool like a knife or axe.",
+  "explanation_ar": "يقطع أو يفرم. تقطع حاجة حتت صغيرة بالسكينة أو الفاس.",
+  "examples": [
+   "Please chop the onions into small pieces.",
+   "Use a sharp axe to chop wood for the fire.",
+   "They plan to chop down the old tree in the garden."
+  ],
+  "translations": {
+   "arabic_ar": "يَقْطَع يَفْرُم"
+  },
+  "synonyms": [
+   "cut",
+   "dice",
+   "slice",
+   "mince",
+   "hack"
+  ],
+  "antonyms": [
+   "attach",
+   "join"
+  ],
+  "collocations": [
+   "chop up",
+   "chop down",
+   "chop off"
+  ],
+  "mnemonic_ar": "تخيل الشيف بيعمل 'Chop chop' بسرعة وهو بيقطع الخضار"
+ }
+}

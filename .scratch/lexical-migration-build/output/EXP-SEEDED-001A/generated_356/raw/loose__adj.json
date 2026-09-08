@@ -1,0 +1,115 @@
+{
+ "identity": {
+  "lemma": "loose",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "loose",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Not firmly or tightly fixed in place; detached or able to be detached.",
+  "explanation_ar": "حاجة مش مربوطة كويس أو واسعة زيادة عن اللزوم. زي لما تلبس قميص واسع 'فضفاض' أو مسمار بيتحرك من مكانه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Not firmly fixed, tied, or fastened in place.",
+    "definition_ar": "غير مثبت بإحكام أو مفكوك أو مرتخٍ.",
+    "examples": [
+     "There is a loose connection in the wiring."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Not fitting tightly on the body; baggy and comfortable.",
+    "definition_ar": "فضفاض أو واسع ومريح في اللبس.",
+    "examples": [
+     "She wore a loose shirt."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "Not tied up, restrained, or locked in; free.",
+    "definition_ar": "طليق أو غير مقيد أو هارب.",
+    "examples": [
+     "The dog got loose and ran away."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a loose connection in the wiring.",
+   "She wore a loose shirt.",
+   "The dog got loose and ran away."
+  ],
+  "translations": [
+   "فضفاض",
+   "مفكوك",
+   "مرتخٍ",
+   "طليق"
+  ],
+  "relations": {
+   "synonyms": [
+    "slack",
+    "baggy",
+    "free",
+    "detached",
+    "unsecured"
+   ],
+   "antonyms": [
+    "tight",
+    "firm",
+    "fixed"
+   ],
+   "collocations": [
+    "break loose",
+    "loose clothing",
+    "loose change",
+    "come loose",
+    "loose ends"
+   ]
+  },
+  "mnemonic": "افتكر فعل 'Lose' 'يخسر'.. لو الزرار كان 'Loose' 'مفكوك'، غالباً هتعمله 'Lose' وتضيّعه.",
+  "phonetic_us": "luːs",
+  "phonetic_uk": "luːs",
+  "syllables": 1,
+  "semantic_tags": [
+   "Clothing",
+   "Structure",
+   "Freedom",
+   "PhysicalState"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Not firmly or tightly fixed in place; detached or able to be detached.",
+  "explanation_ar": "حاجة مش مربوطة كويس أو واسعة زيادة عن اللزوم. زي لما تلبس قميص واسع 'فضفاض' أو مسمار بيتحرك من مكانه.",
+  "examples": [
+   "There is a loose connection in the wiring.",
+   "She wore a loose shirt.",
+   "The dog got loose and ran away."
+  ],
+  "translations": {
+   "arabic_ar": "فضفاض مفكوك مرتخٍ طليق"
+  },
+  "synonyms": [
+   "slack",
+   "baggy",
+   "free",
+   "detached",
+   "unsecured"
+  ],
+  "antonyms": [
+   "tight",
+   "firm",
+   "fixed"
+  ],
+  "collocations": [
+   "break loose",
+   "loose clothing",
+   "loose change",
+   "come loose",
+   "loose ends"
+  ],
+  "mnemonic_ar": "افتكر فعل 'Lose' 'يخسر'.. لو الزرار كان 'Loose' 'مفكوك'، غالباً هتعمله 'Lose' وتضيّعه."
+ }
+}

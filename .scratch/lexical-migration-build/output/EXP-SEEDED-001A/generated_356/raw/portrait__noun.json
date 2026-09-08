@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "portrait",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "portrait",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A painting, drawing, or photograph of a person, especially of the face.",
+  "explanation_ar": "صورة مرسومة أو متصورة لشخص، بتركز غالباً على وشه وملامحه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A painting, drawing, or photograph of a person, especially of the face.",
+    "explanation_ar": "صورة لشخص (مرسومة أو فوتوغرافية)، خاصة للوجه والملامح.",
+    "examples": [
+     "This is a portrait of my mother.",
+     "The artist painted a portrait.",
+     "She wants a family portrait."
+    ]
+   }
+  ],
+  "examples": [
+   "This is a portrait of my mother.",
+   "The artist painted a portrait.",
+   "She wants a family portrait."
+  ],
+  "translations": [
+   "صورة شخصية",
+   "بورتريه"
+  ],
+  "relations": {
+   "synonyms": [
+    "likeness",
+    "picture"
+   ],
+   "antonyms": [
+    "landscape"
+   ],
+   "collocations": [
+    "family portrait",
+    "self portrait",
+    "portrait painter",
+    "paint a portrait"
+   ],
+   "word_family": {
+    "noun": "portrait",
+    "verb": "portray"
+   }
+  },
+  "mnemonic": "قريبة من 'Portray' 'يصور/يوصف'.. الـ 'Portrait' هي الصورة نفسها.",
+  "phonetic_us": "ˈpɔrtrət",
+  "phonetic_uk": "ˈpɔːtreɪt",
+  "syllables": "por•trait",
+  "semantic_tags": [
+   "#Art",
+   "#Painting",
+   "#Photography",
+   "#Face"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A painting, drawing, or photograph of a person, especially of the face.",
+  "explanation_ar": "صورة مرسومة أو متصورة لشخص، بتركز غالباً على وشه وملامحه.",
+  "examples": [
+   "This is a portrait of my mother.",
+   "The artist painted a portrait.",
+   "She wants a family portrait."
+  ],
+  "translations": {
+   "arabic_ar": "صورة شخصية بورتريه"
+  },
+  "synonyms": [
+   "likeness",
+   "picture"
+  ],
+  "antonyms": [
+   "landscape"
+  ],
+  "collocations": [
+   "family portrait",
+   "self portrait",
+   "portrait painter",
+   "paint a portrait"
+  ],
+  "mnemonic_ar": "قريبة من 'Portray' 'يصور/يوصف'.. الـ 'Portrait' هي الصورة نفسها."
+ }
+}

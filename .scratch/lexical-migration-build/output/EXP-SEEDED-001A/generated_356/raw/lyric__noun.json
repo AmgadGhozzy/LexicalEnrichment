@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "lyric",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "lyric",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The words of a song (usually plural: lyrics), or a short poem expressing personal feelings.",
+  "explanation_ar": "كلمات الأغنية (وغالبًا ما تُستخدم بصيغة الجمع lyrics)، أو قصيدة غنائية قصيرة تعبّر عن مشاعر شخصية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The words of a song (usually plural: lyrics), or a short poem expressing personal feelings.",
+    "explanation_ar": "كلمات الأغنية (وغالبًا ما تُستخدم بصيغة الجمع lyrics)، أو قصيدة غنائية قصيرة تعبّر عن مشاعر شخصية."
+   }
+  ],
+  "examples": [
+   "I know the lyric to this song.",
+   "She quoted a memorable lyric from her favorite track.",
+   "He spent hours trying to write the perfect lyric for the chorus."
+  ],
+  "translations": [
+   "كلمات أغنية",
+   "قصيدة غنائية"
+  ],
+  "relations": {
+   "synonyms": [
+    "words",
+    "verse"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "song lyric",
+    "write lyrics",
+    "read the lyrics"
+   ]
+  },
+  "mnemonic": "كلمة 'Lyric' قريبة من 'Lyre' 'القيثارة'.. زمان كانوا بيغنوا الشعر على القيثارة.",
+  "phonetic_us": "ˈlɪrɪk",
+  "phonetic_uk": "ˈlɪrɪk",
+  "syllables": "lyr·ic",
+  "semantic_tags": [
+   "#Music",
+   "#Song",
+   "#Writing"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "The words of a song (usually plural: lyrics), or a short poem expressing personal feelings.",
+  "explanation_ar": "كلمات الأغنية (وغالبًا ما تُستخدم بصيغة الجمع lyrics)، أو قصيدة غنائية قصيرة تعبّر عن مشاعر شخصية.",
+  "examples": [
+   "I know the lyric to this song.",
+   "She quoted a memorable lyric from her favorite track.",
+   "He spent hours trying to write the perfect lyric for the chorus."
+  ],
+  "translations": {
+   "arabic_ar": "كلمات أغنية قصيدة غنائية"
+  },
+  "synonyms": [
+   "words",
+   "verse"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "song lyric",
+   "write lyrics",
+   "read the lyrics"
+  ],
+  "mnemonic_ar": "كلمة 'Lyric' قريبة من 'Lyre' 'القيثارة'.. زمان كانوا بيغنوا الشعر على القيثارة."
+ }
+}

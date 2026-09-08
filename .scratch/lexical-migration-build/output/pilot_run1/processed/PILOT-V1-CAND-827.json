@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-827",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-827",
+  "lemma": "return",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 827,
+  "lemma": "return",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "rɪˈtɜːrn",
+  "phonetic_uk": "rɪˈtɜːn",
+  "phonetic_ar": "رِيتِيرن",
+  "definition_en": "An act of coming or going back to a place, person, or previous state.",
+  "explanation_ar": "العودة أو الرجوع إلى مكان ما، أو تذكرة السفر ذهابا وإيابا.",
+  "examples": [
+   {
+    "example_text": "I bought a return to London on the train.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "We are waiting for his safe return from his trip.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Please confirm the date of your return.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر البادئة re وتعني مجددا مع كلمة turn التي تعني دور أو التفت كانك تدور للوراء لتبدا رحلة العودة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An act of coming or going back to a place or condition.",
+    "short_def_en": "act of going back",
+    "definition_ar": "الرجوع او العودة الى مكان او وضع سابق",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "travel",
+     "journey",
+     "movement"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A ticket that allows travel to a destination and back again.",
+    "short_def_en": "round-trip ticket",
+    "definition_ar": "تذكرة ذهاب واياب",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "travel",
+     "transport",
+     "ticket"
+    ],
+    "usage_note": "Common in British English; equivalent to round-trip ticket in American English.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "safe return",
+   "return ticket",
+   "date of return",
+   "return journey"
+  ],
+  "synonyms": [
+   "arrival",
+   "homecoming"
+  ],
+  "antonyms": [
+   "departure"
+  ],
+  "related_words": {
+   "en": [
+    "trip",
+    "ticket",
+    "travel",
+    "journey"
+   ],
+   "ar": [
+    "رحلة",
+    "تذكرة",
+    "سفر",
+    "مشوار"
+   ]
+  },
+  "word_family": {
+   "noun": "return",
+   "verb": "return",
+   "adj": "returnable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "عودة / رجوع / تذكرة ذهاب وإياب",
+   "french_fr": "retour",
+   "german_de": "Rückkehr",
+   "spanish_es": "regreso",
+   "chinese_zh": "返回 (fǎnhuí)",
+   "russian_ru": "возвращение",
+   "portuguese_pt": "retorno",
+   "japanese_ja": "帰り (Kaeri)",
+   "italian_it": "ritorno",
+   "turkish_tr": "dönüş"
+  }
+ },
+ "provenance": {
+  "output_hash": "cb247a3b69ded70188c4ed4e4ce5f12c7ab78d912d8464b866f0fb1373dee2ff",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

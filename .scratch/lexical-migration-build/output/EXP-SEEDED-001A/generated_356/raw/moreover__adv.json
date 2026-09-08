@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "moreover",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "moreover",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "As a further matter; besides; in addition.",
+  "explanation_ar": "علاوة على ذلك، أو بالإضافة للي فات.. بتستخدمها لما تكون عايز تزود معلومة تأكد كلامك.",
+  "senses": [
+   {
+    "definition_en": "In addition to what has already been said; furthermore.",
+    "explanation_ar": "علاوة على ذلك، أو بالإضافة إلى ما سبق ذكره لتقوية الحجة أو تأكيد المعنى.",
+    "examples": [
+     "The rent is reasonable, and moreover the location is perfect.",
+     "Texting is dangerous while driving; moreover, it is illegal.",
+     "The report is incomplete; moreover, it contains factual errors."
+    ]
+   }
+  ],
+  "examples": [
+   "The rent is reasonable, and moreover the location is perfect.",
+   "Texting is dangerous while driving; moreover, it is illegal.",
+   "The report is incomplete; moreover, it contains factual errors."
+  ],
+  "translations": [
+   "عَلاوَةً عَلَى ذَلِك",
+   "بِالإِضَافَةِ إِلَى ذَلِك",
+   "فَضْلًا عَن ذَلِك"
+  ],
+  "relations": {
+   "synonyms": [
+    "furthermore",
+    "besides",
+    "additionally",
+    "what is more"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "and moreover"
+   ]
+  },
+  "mnemonic": "مركبة من 'More' 'أكتر' و 'Over' 'فوق'.. يعني 'فوق كدة وكمان' أو 'علاوة على ذلك'.",
+  "phonetic_us": "mɔrˈoʊvər",
+  "phonetic_uk": "mɔːrˈəʊvə",
+  "syllables": "more•over",
+  "semantic_tags": [
+   "#LinkingWords",
+   "#Writing",
+   "#Argument",
+   "#Addition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "As a further matter; besides; in addition.",
+  "explanation_ar": "علاوة على ذلك، أو بالإضافة للي فات.. بتستخدمها لما تكون عايز تزود معلومة تأكد كلامك.",
+  "examples": [
+   "The rent is reasonable, and moreover the location is perfect.",
+   "Texting is dangerous while driving; moreover, it is illegal.",
+   "The report is incomplete; moreover, it contains factual errors."
+  ],
+  "translations": {
+   "arabic_ar": "عَلاوَةً عَلَى ذَلِك بِالإِضَافَةِ إِلَى ذَلِك فَضْلًا عَن ذَلِك"
+  },
+  "synonyms": [
+   "furthermore",
+   "besides",
+   "additionally",
+   "what is more"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "and moreover"
+  ],
+  "mnemonic_ar": "مركبة من 'More' 'أكتر' و 'Over' 'فوق'.. يعني 'فوق كدة وكمان' أو 'علاوة على ذلك'."
+ }
+}

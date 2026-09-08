@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "rebuild",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "rebuild",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To build something again after it has been damaged or destroyed.",
+  "explanation_ar": "إنك تبني حاجة تاني من الأول بعد ما اتكسرت أو اتهدمت، سواء بيت أو حتى حياتك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To build a structure, city, or physical object again after destruction or damage.",
+    "explanation_ar": "إعادة بناء شيء مادي كالمباني أو المدن بعد تدميره أو تضرره."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To restore, re-establish, or start anew (such as trust, an economy, or one's life).",
+    "explanation_ar": "إعادة ترميم أو استعادة شيء معنوي كالثقة أو الاقتصاد أو مسار الحياة."
+   }
+  ],
+  "examples": [
+   "The city had to rebuild after the fire.",
+   "It takes time to rebuild trust in a relationship.",
+   "The government promised to rebuild the shattered economy."
+  ],
+  "translations": [
+   "يعيد بناء",
+   "يُعيد إعمار",
+   "إعادة بناء"
+  ],
+  "relations": {
+   "synonyms": [
+    "reconstruct",
+    "restore",
+    "renovate",
+    "remake"
+   ],
+   "antonyms": [
+    "destroy",
+    "demolish",
+    "ruin"
+   ],
+   "collocations": [
+    "rebuild trust",
+    "rebuild a life",
+    "rebuild the economy",
+    "completely rebuild"
+   ]
+  },
+  "mnemonic": "المقطع 'Re' يعني تاني، و 'Build' يعني يبني.. يبقى المعنى يبني تاني.",
+  "phonetic_us": "ˌriːˈbɪld",
+  "phonetic_uk": "ˌriːˈbɪld",
+  "syllables": "re•build",
+  "semantic_tags": [
+   "#Construction",
+   "#Recovery",
+   "#Restoration",
+   "#Renewal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To build something again after it has been damaged or destroyed.",
+  "explanation_ar": "إنك تبني حاجة تاني من الأول بعد ما اتكسرت أو اتهدمت، سواء بيت أو حتى حياتك.",
+  "examples": [
+   "The city had to rebuild after the fire.",
+   "It takes time to rebuild trust in a relationship.",
+   "The government promised to rebuild the shattered economy."
+  ],
+  "translations": {
+   "arabic_ar": "يعيد بناء يُعيد إعمار إعادة بناء"
+  },
+  "synonyms": [
+   "reconstruct",
+   "restore",
+   "renovate",
+   "remake"
+  ],
+  "antonyms": [
+   "destroy",
+   "demolish",
+   "ruin"
+  ],
+  "collocations": [
+   "rebuild trust",
+   "rebuild a life",
+   "rebuild the economy",
+   "completely rebuild"
+  ],
+  "mnemonic_ar": "المقطع 'Re' يعني تاني، و 'Build' يعني يبني.. يبقى المعنى يبني تاني."
+ }
+}

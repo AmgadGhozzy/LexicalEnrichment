@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "cargo",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "cargo",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Goods carried on a ship, aircraft, or motor vehicle.",
+  "explanation_ar": "البضاعة التقيلة اللي بتتنقل بالسفن أو الطيارات أو العربيات الكبيرة.",
+  "senses": [
+   {
+    "definition_en": "Goods carried on a ship, aircraft, or motor vehicle.",
+    "explanation_ar": "البضائع أو الشحنات المنقولة على متن سفينة أو طائرة أو مركبة تجارية.",
+    "examples": [
+     "They loaded the cargo onto the truck.",
+     "Customs officials inspected the cargo for illegal items.",
+     "The jettisoning of cargo was necessary to save the sinking vessel."
+    ]
+   }
+  ],
+  "examples": [
+   "They loaded the cargo onto the truck.",
+   "Customs officials inspected the cargo for illegal items.",
+   "The jettisoning of cargo was necessary to save the sinking vessel."
+  ],
+  "translations": [
+   "بضائع",
+   "حمولة",
+   "شحنة"
+  ],
+  "relations": {
+   "synonyms": [
+    "freight",
+    "load",
+    "shipment",
+    "merchandise"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cargo ship",
+    "cargo plane",
+    "precious cargo",
+    "cargo hold"
+   ]
+  },
+  "mnemonic": "'Car' + 'Go'.. البضاعة اللي بنحطها في الـ 'Car' عشان الـ 'Go' 'السفر'.",
+  "phonetic_us": "ˈkɑɹɡoʊ",
+  "phonetic_uk": "ˈkɑːɡəʊ",
+  "syllables": "car•go",
+  "semantic_tags": [
+   "#Transport",
+   "#Trade",
+   "#Shipping",
+   "#Goods"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Goods carried on a ship, aircraft, or motor vehicle.",
+  "explanation_ar": "البضاعة التقيلة اللي بتتنقل بالسفن أو الطيارات أو العربيات الكبيرة.",
+  "examples": [
+   "They loaded the cargo onto the truck.",
+   "Customs officials inspected the cargo for illegal items.",
+   "The jettisoning of cargo was necessary to save the sinking vessel."
+  ],
+  "translations": {
+   "arabic_ar": "بضائع حمولة شحنة"
+  },
+  "synonyms": [
+   "freight",
+   "load",
+   "shipment",
+   "merchandise"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cargo ship",
+   "cargo plane",
+   "precious cargo",
+   "cargo hold"
+  ],
+  "mnemonic_ar": "'Car' + 'Go'.. البضاعة اللي بنحطها في الـ 'Car' عشان الـ 'Go' 'السفر'."
+ }
+}

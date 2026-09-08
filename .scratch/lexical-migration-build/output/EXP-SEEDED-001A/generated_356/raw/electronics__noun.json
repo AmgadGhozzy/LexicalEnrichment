@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "electronics",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "electronics",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The branch of science dealing with electric circuits; or electronic devices.",
+  "explanation_ar": "علم الإلكترونيات أو الأجهزة نفسها زي الكمبيوتر والموبايل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Electronic equipment or devices, such as computers and phones.",
+    "definition_ar": "الأجهزة والمعدات الإلكترونية.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The branch of science and technology dealing with electric circuits and components.",
+    "definition_ar": "علم الإلكترونيات ودراسة الدوائر الكهربائية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "He studies electronics at college.",
+   "This shop sells electronics.",
+   "Modern electronics have revolutionized communication."
+  ],
+  "translations": [
+   "إلكترونيات",
+   "علم الإلكترونيات"
+  ],
+  "relations": {
+   "synonyms": [
+    "devices",
+    "gadgets"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "consumer electronics",
+    "electronics industry",
+    "electronics engineer",
+    "digital electronics"
+   ]
+  },
+  "mnemonic": "جاية من 'Electric' كهرباء.. الأجهزة اللي بتشتغل بكهرباء دقيقة.",
+  "phonetic_us": "ɪˌlɛkˈtrɑnɪks",
+  "phonetic_uk": "ɪˌlekˈtrɒnɪks",
+  "syllables": "elec•tron•ics",
+  "semantic_tags": [
+   "#Technology",
+   "#Science",
+   "#Devices"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The branch of science dealing with electric circuits; or electronic devices.",
+  "explanation_ar": "علم الإلكترونيات أو الأجهزة نفسها زي الكمبيوتر والموبايل.",
+  "examples": [
+   "He studies electronics at college.",
+   "This shop sells electronics.",
+   "Modern electronics have revolutionized communication."
+  ],
+  "translations": {
+   "arabic_ar": "إلكترونيات علم الإلكترونيات"
+  },
+  "synonyms": [
+   "devices",
+   "gadgets"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "consumer electronics",
+   "electronics industry",
+   "electronics engineer",
+   "digital electronics"
+  ],
+  "mnemonic_ar": "جاية من 'Electric' كهرباء.. الأجهزة اللي بتشتغل بكهرباء دقيقة."
+ }
+}

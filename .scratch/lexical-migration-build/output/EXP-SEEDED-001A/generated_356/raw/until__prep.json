@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "until",
+  "pos": "prep",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "until",
+  "pos": "prep",
+  "cefr": "A1",
+  "definition_en": "Up to the point in time or the event mentioned.",
+  "explanation_ar": "لغاية وقت معين. زي لما تقول: هستناك لغاية الساعة 5.",
+  "senses": [
+   {
+    "definition_en": "Up to the point in time or the event mentioned.",
+    "explanation_ar": "لغاية وقت معين أو حتى حدوث أمر ما.",
+    "examples": [
+     "Wait until tomorrow.",
+     "The shop is open until 5 PM.",
+     "He stayed until the end of the movie."
+    ]
+   }
+  ],
+  "examples": [
+   "Wait until tomorrow.",
+   "The shop is open until 5 PM.",
+   "He stayed until the end of the movie."
+  ],
+  "translations": [
+   "حتى",
+   "إلى",
+   "لغاية"
+  ],
+  "relations": {
+   "synonyms": [
+    "till",
+    "up to"
+   ],
+   "antonyms": [
+    "since"
+   ],
+   "collocations": [
+    "up until",
+    "wait until",
+    "until now"
+   ],
+   "related_words": [
+    "before",
+    "after",
+    "during"
+   ]
+  },
+  "mnemonic": "زي 'Antel' 'أنتل'.. هستناك تركب الـ 'Antel' 'until' ما الإشارة تيجي.",
+  "phonetic_us": "ənˈtɪl",
+  "phonetic_uk": "ənˈtɪl",
+  "syllables": "un•til",
+  "semantic_tags": [
+   "Time",
+   "Limit",
+   "Duration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Up to the point in time or the event mentioned.",
+  "explanation_ar": "لغاية وقت معين. زي لما تقول: هستناك لغاية الساعة 5.",
+  "examples": [
+   "Wait until tomorrow.",
+   "The shop is open until 5 PM.",
+   "He stayed until the end of the movie."
+  ],
+  "translations": {
+   "arabic_ar": "حتى إلى لغاية"
+  },
+  "synonyms": [
+   "till",
+   "up to"
+  ],
+  "antonyms": [
+   "since"
+  ],
+  "collocations": [
+   "up until",
+   "wait until",
+   "until now"
+  ],
+  "mnemonic_ar": "زي 'Antel' 'أنتل'.. هستناك تركب الـ 'Antel' 'until' ما الإشارة تيجي."
+ }
+}

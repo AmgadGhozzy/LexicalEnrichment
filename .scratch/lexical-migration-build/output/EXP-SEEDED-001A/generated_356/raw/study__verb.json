@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "study",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "study",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To learn about a subject, usually at school or university.",
+  "explanation_ar": "تخصص وقت ومجهود عشان تتعلم حاجة أو تفهم موضوع، زي المذاكرة.",
+  "senses": [
+   {
+    "definition_en": "To learn about a subject, usually at school or university.",
+    "explanation_ar": "أن تدرس أو تذاكر موضوعاً ما في المدرسة أو الجامعة.",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "I study English every day.",
+   "They study hard for the exam.",
+   "We study math and science at school."
+  ],
+  "translations": [
+   "يدرس",
+   "يذاكر"
+  ],
+  "relations": {
+   "synonyms": [
+    "learn",
+    "revise"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "study hard",
+    "study for an exam",
+    "study abroad"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈstʌdi",
+  "phonetic_uk": "ˈstʌdi",
+  "syllables": "stud-y",
+  "semantic_tags": [
+   "#Learn",
+   "#School",
+   "#Examine"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To learn about a subject, usually at school or university.",
+  "explanation_ar": "تخصص وقت ومجهود عشان تتعلم حاجة أو تفهم موضوع، زي المذاكرة.",
+  "examples": [
+   "I study English every day.",
+   "They study hard for the exam.",
+   "We study math and science at school."
+  ],
+  "translations": {
+   "arabic_ar": "يدرس يذاكر"
+  },
+  "synonyms": [
+   "learn",
+   "revise"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "study hard",
+   "study for an exam",
+   "study abroad"
+  ],
+  "mnemonic_ar": null
+ }
+}

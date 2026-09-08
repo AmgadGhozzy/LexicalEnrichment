@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "width",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "width",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The measurement or extent of something from side to side.",
+  "explanation_ar": "العرض بتاع أي حاجة، يعني المسافة من الجنب ده للجنب ده.",
+  "senses": [
+   {
+    "definition_en": "The measurement or extent of something from side to side.",
+    "explanation_ar": "العرض؛ المسافة أو القياس من جانب إلى جانب آخر.",
+    "examples": [
+     "Measure the width of the room.",
+     "The road varies in width.",
+     "They swam the entire width of the river against the current."
+    ]
+   }
+  ],
+  "examples": [
+   "Measure the width of the room.",
+   "The road varies in width.",
+   "They swam the entire width of the river against the current."
+  ],
+  "translations": [
+   "عرض"
+  ],
+  "relations": {
+   "synonyms": [
+    "breadth",
+    "wideness",
+    "span"
+   ],
+   "antonyms": [
+    "length",
+    "narrowness"
+   ],
+   "collocations": [
+    "full width",
+    "width and height",
+    "vary in width",
+    "shoulder width"
+   ]
+  },
+  "mnemonic": "جاية من 'Wide' 'واسع'.. الـ 'Width' هو قديش الحاجة واسعة.",
+  "phonetic_us": "wɪdθ",
+  "phonetic_uk": "wɪdθ",
+  "syllables": [
+   "width"
+  ],
+  "semantic_tags": [
+   "#Measurement",
+   "#Size",
+   "#Geometry",
+   "#Dimensions"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The measurement or extent of something from side to side.",
+  "explanation_ar": "العرض بتاع أي حاجة، يعني المسافة من الجنب ده للجنب ده.",
+  "examples": [
+   "Measure the width of the room.",
+   "The road varies in width.",
+   "They swam the entire width of the river against the current."
+  ],
+  "translations": {
+   "arabic_ar": "عرض"
+  },
+  "synonyms": [
+   "breadth",
+   "wideness",
+   "span"
+  ],
+  "antonyms": [
+   "length",
+   "narrowness"
+  ],
+  "collocations": [
+   "full width",
+   "width and height",
+   "vary in width",
+   "shoulder width"
+  ],
+  "mnemonic_ar": "جاية من 'Wide' 'واسع'.. الـ 'Width' هو قديش الحاجة واسعة."
+ }
+}

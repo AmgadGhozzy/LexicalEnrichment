@@ -1,0 +1,107 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "reign",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "reign",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To rule as a monarch, or to prevail and predominate in a particular place or situation.",
+  "explanation_ar": "يحكم كملك أو ملكة، أو يسود ويعم في مكان أو موقف معين (مثل سيادة الفوضى أو الهدوء).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To hold royal office and rule as a king, queen, or monarch.",
+    "definition_ar": "يحكم كملك أو حاكم",
+    "examples": [
+     "The monarch is expected to reign for many years to come."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To prevail or be predominant in a particular place, condition, or period.",
+    "definition_ar": "يسود أو يعم أو يسيطر على الموقف",
+    "examples": [
+     "If the peace talks fail, complete chaos will reign across the region.",
+     "Few tennis players could hope to reign supreme over their rivals for so long."
+    ]
+   }
+  ],
+  "examples": [
+   "The monarch is expected to reign for many years to come.",
+   "If the peace talks fail, complete chaos will reign across the region.",
+   "Few tennis players could hope to reign supreme over their rivals for so long."
+  ],
+  "translations": [
+   "يحكم",
+   "يسود",
+   "يعم"
+  ],
+  "relations": {
+   "synonyms": [
+    "rule",
+    "govern",
+    "prevail",
+    "dominate"
+   ],
+   "antonyms": [
+    "serve",
+    "obey",
+    "submit"
+   ],
+   "collocations": [
+    "reign supreme",
+    "reign over",
+    "continue to reign"
+   ],
+   "word_family": {
+    "noun": "reign",
+    "verb": "reign",
+    "adjective": "reigning"
+   }
+  },
+  "mnemonic": null,
+  "phonetic_us": "ɹeɪn",
+  "phonetic_uk": "reɪn",
+  "syllables": [
+   "reign"
+  ],
+  "semantic_tags": [
+   "#Rule",
+   "#Power",
+   "#Lead"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To rule as a monarch, or to prevail and predominate in a particular place or situation.",
+  "explanation_ar": "يحكم كملك أو ملكة، أو يسود ويعم في مكان أو موقف معين (مثل سيادة الفوضى أو الهدوء).",
+  "examples": [
+   "The monarch is expected to reign for many years to come.",
+   "If the peace talks fail, complete chaos will reign across the region.",
+   "Few tennis players could hope to reign supreme over their rivals for so long."
+  ],
+  "translations": {
+   "arabic_ar": "يحكم يسود يعم"
+  },
+  "synonyms": [
+   "rule",
+   "govern",
+   "prevail",
+   "dominate"
+  ],
+  "antonyms": [
+   "serve",
+   "obey",
+   "submit"
+  ],
+  "collocations": [
+   "reign supreme",
+   "reign over",
+   "continue to reign"
+  ],
+  "mnemonic_ar": null
+ }
+}

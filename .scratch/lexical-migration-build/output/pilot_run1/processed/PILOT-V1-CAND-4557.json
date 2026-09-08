@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4557",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4557",
+  "lemma": "prosecution",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4557,
+  "lemma": "prosecution",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌprɑːsɪˈkjuːʃn",
+  "phonetic_uk": "ˌprɒsɪˈkjuːʃn",
+  "phonetic_ar": "بروسِكْيُوشَن",
+  "definition_en": "The legal process of putting someone on trial for a crime, or the lawyers conducting it.",
+  "explanation_ar": "المحاكمة القانونية أو رفع دعوى قضائية جنائية ضد شخص ما، ويُطلق المصطلح أيضًا على هيئة الادعاء أو النيابة العامة في المحكمة.",
+  "examples": [
+   {
+    "example_text": "The company faced prosecution for violating federal safety regulations.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The prosecution presented several credible witnesses to support the criminal charge.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "He was granted immunity from prosecution in exchange for his full cooperation with investigators.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الجزء الاول يشبه كلمة \"pursue\" اي يلاحق والمحامون في النيابة يلاحقون المتهم قانونيا حتى النهاية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The act of officially charging someone with a crime and putting them on trial.",
+    "short_def_en": "criminal trial process",
+    "definition_ar": "الملاحقة القضائية أو إقامة دعوى جنائية ضد متهم في المحكمة.",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "Law",
+     "Crime",
+     "Courts",
+     "Justice"
+    ],
+    "usage_note": "Often used in phrases like 'immunity from prosecution' or 'bring a prosecution'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The lawyers in a criminal case who try to prove that the accused person is guilty.",
+    "short_def_en": "lawyers against defendant",
+    "definition_ar": "هيئة الادعاء أو جهة النيابة العامة التي تسعى لإثبات إدانة المتهم.",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "Law",
+     "Legal actors",
+     "Courts"
+    ],
+    "usage_note": "Typically preceded by the definite article 'the' and contrasts directly with 'the defence'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "face prosecution",
+   "lead to prosecution",
+   "prosecution witness",
+   "bring a prosecution",
+   "immunity from prosecution"
+  ],
+  "synonyms": [
+   "indictment",
+   "legal proceeding",
+   "trial"
+  ],
+  "antonyms": [
+   "defense",
+   "defence"
+  ],
+  "related_words": {
+   "en": [
+    "prosecutor",
+    "charge",
+    "court",
+    "verdict",
+    "trial",
+    "defendant"
+   ],
+   "ar": [
+    "مدعي عام",
+    "تهمة",
+    "محكمة",
+    "حكم",
+    "محاكمة",
+    "متهم"
+   ]
+  },
+  "word_family": {
+   "noun": "prosecutor",
+   "verb": "prosecute",
+   "adj": "prosecutorial",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ملاحقة قضائية / ادعاء / نيابة عامة",
+   "french_fr": "poursuite judiciaire",
+   "german_de": "Strafverfolgung",
+   "spanish_es": "procesamiento",
+   "chinese_zh": "起诉 (Qǐsù)",
+   "russian_ru": "судебное преследование",
+   "portuguese_pt": "processo judicial",
+   "japanese_ja": "起訴 (Kiso)",
+   "italian_it": "azione penale",
+   "turkish_tr": "kovuşturma"
+  }
+ },
+ "provenance": {
+  "output_hash": "6e6f65e6445ca7fd5867020873d55dfe48092cdb5ab1f98745d0f1af493f878b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

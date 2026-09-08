@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "import",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "import",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To bring goods or services into a country from abroad for sale.",
+  "explanation_ar": "يستورد: يشتري بضائع أو خدمات من دولة أخرى ويدخلها إلى بلده لبيعها أو استخدامها.",
+  "senses": [
+   {
+    "definition_en": "To bring goods or services into a country from abroad.",
+    "definition_ar": "يستورد بضائع أو خدمات من الخارج.",
+    "pos": "verb"
+   },
+   {
+    "definition_en": "To bring data or files into a computer program from an external source.",
+    "definition_ar": "يستورد بيانات أو ملفات إلى برنامج حاسوبي.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "They import cars from Germany.",
+   "The country has to import most of its oil.",
+   "It is cheaper to import these parts than to make them."
+  ],
+  "translations": [
+   "يستورد"
+  ],
+  "relations": {
+   "synonyms": [
+    "bring in",
+    "buy in"
+   ],
+   "antonyms": [
+    "export"
+   ],
+   "collocations": [
+    "import goods",
+    "import data",
+    "import from"
+   ]
+  },
+  "mnemonic": "نفس فكرة الكلمة: In + Port.. إدخال البضائع إلى الميناء (Port) داخل البلد (In).",
+  "phonetic_us": "ɪmˈpɔːrt",
+  "phonetic_uk": "ɪmˈpɔːt",
+  "syllables": "im•port",
+  "semantic_tags": [
+   "Trade",
+   "Economy",
+   "Logistics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To bring goods or services into a country from abroad for sale.",
+  "explanation_ar": "يستورد: يشتري بضائع أو خدمات من دولة أخرى ويدخلها إلى بلده لبيعها أو استخدامها.",
+  "examples": [
+   "They import cars from Germany.",
+   "The country has to import most of its oil.",
+   "It is cheaper to import these parts than to make them."
+  ],
+  "translations": {
+   "arabic_ar": "يستورد"
+  },
+  "synonyms": [
+   "bring in",
+   "buy in"
+  ],
+  "antonyms": [
+   "export"
+  ],
+  "collocations": [
+   "import goods",
+   "import data",
+   "import from"
+  ],
+  "mnemonic_ar": "نفس فكرة الكلمة: In + Port.. إدخال البضائع إلى الميناء (Port) داخل البلد (In)."
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "stem",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "stem",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To stop something unwanted from spreading or increasing; also to originate from.",
+  "explanation_ar": "ليها معنيين: يا إما يوقف تدفق أو انتشار حاجة (زي الدم أو أزمة)، يا إما ينبع أو ييجي من (زي المشاكل اللي بتيجي من سبب معين).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To stop something unwanted from spreading or increasing.",
+    "definition_ar": "يوقف أو يحد من انتشار شيء غير مرغوب فيه (مثل نزيف أو تدفق).",
+    "examples": [
+     "They tried to stem the bleeding.",
+     "The government took measures to stem the tide of illegal immigration."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To originate or develop as the result of something (usually followed by 'from').",
+    "definition_ar": "ينبع من أو ينشأ عن شيء آخر.",
+    "examples": [
+     "Most of his health problems stem from smoking."
+    ]
+   }
+  ],
+  "examples": [
+   "They tried to stem the bleeding.",
+   "The government took measures to stem the tide of illegal immigration.",
+   "Most of his health problems stem from smoking."
+  ],
+  "translations": [
+   "يوقف",
+   "يحد من",
+   "ينبع من"
+  ],
+  "relations": {
+   "synonyms": [
+    "stop",
+    "halt",
+    "originate",
+    "arise"
+   ],
+   "antonyms": [
+    "encourage",
+    "cause",
+    "result in"
+   ],
+   "collocations": [
+    "stem from",
+    "stem the flow",
+    "stem the tide",
+    "stem bleeding"
+   ]
+  },
+  "mnemonic": "زي ما الـ 'Stem' 'الساق' بيطلع من الأرض، المشاكل ممكن 'Stem from' 'تنبع من' أسباب معينة.",
+  "phonetic_us": "/stɛm/",
+  "phonetic_uk": "/stem/",
+  "syllables": "stem",
+  "semantic_tags": [
+   "Stop",
+   "Origin",
+   "Flow",
+   "Control"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To stop something unwanted from spreading or increasing; also to originate from.",
+  "explanation_ar": "ليها معنيين: يا إما يوقف تدفق أو انتشار حاجة (زي الدم أو أزمة)، يا إما ينبع أو ييجي من (زي المشاكل اللي بتيجي من سبب معين).",
+  "examples": [
+   "They tried to stem the bleeding.",
+   "The government took measures to stem the tide of illegal immigration.",
+   "Most of his health problems stem from smoking."
+  ],
+  "translations": {
+   "arabic_ar": "يوقف يحد من ينبع من"
+  },
+  "synonyms": [
+   "stop",
+   "halt",
+   "originate",
+   "arise"
+  ],
+  "antonyms": [
+   "encourage",
+   "cause",
+   "result in"
+  ],
+  "collocations": [
+   "stem from",
+   "stem the flow",
+   "stem the tide",
+   "stem bleeding"
+  ],
+  "mnemonic_ar": "زي ما الـ 'Stem' 'الساق' بيطلع من الأرض، المشاكل ممكن 'Stem from' 'تنبع من' أسباب معينة."
+ }
+}

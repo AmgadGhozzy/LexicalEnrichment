@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "weigh",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "weigh",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To measure how heavy someone or something is, or to consider something carefully before making a choice.",
+  "explanation_ar": "توزن حاجة عشان تعرف هي كام كيلو، أو تفكر في قرار وتقارن بين الاختيارات.",
+  "senses": [
+   {
+    "definition_en": "To measure how heavy someone or something is, or to have a specific weight.",
+    "definition_ar": "يقيس وزن شيء أو شخص، أو يكون له وزن معين.",
+    "examples": [
+     "Please weigh the fruit."
+    ]
+   },
+   {
+    "definition_en": "To consider or compare facts or choices carefully before deciding.",
+    "definition_ar": "يفكّر ملياً ويوازن بين الخيارات قبل اتخاذ قرار.",
+    "examples": [
+     "You need to weigh the pros and cons.",
+     "She had to weigh her words carefully before speaking."
+    ]
+   }
+  ],
+  "examples": [
+   "Please weigh the fruit.",
+   "You need to weigh the pros and cons.",
+   "She had to weigh her words carefully before speaking."
+  ],
+  "translations": [
+   "يَزِن",
+   "يقيس وزن",
+   "يوازن"
+  ],
+  "relations": {
+   "synonyms": [
+    "measure",
+    "evaluate",
+    "consider"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "weigh the pros and cons",
+    "weigh in",
+    "weigh down",
+    "weigh carefully"
+   ]
+  },
+  "mnemonic": "كلمة 'Way' 'طريق'.. وانت في الـ 'Way' للمطار لازم تعمل 'Weigh' 'وزن' للشنط بتاعتك.",
+  "phonetic_us": "weɪ",
+  "phonetic_uk": "weɪ",
+  "syllables": "weigh",
+  "semantic_tags": [
+   "measurement",
+   "decision"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To measure how heavy someone or something is, or to consider something carefully before making a choice.",
+  "explanation_ar": "توزن حاجة عشان تعرف هي كام كيلو، أو تفكر في قرار وتقارن بين الاختيارات.",
+  "examples": [
+   "Please weigh the fruit.",
+   "You need to weigh the pros and cons.",
+   "She had to weigh her words carefully before speaking."
+  ],
+  "translations": {
+   "arabic_ar": "يَزِن يقيس وزن يوازن"
+  },
+  "synonyms": [
+   "measure",
+   "evaluate",
+   "consider"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "weigh the pros and cons",
+   "weigh in",
+   "weigh down",
+   "weigh carefully"
+  ],
+  "mnemonic_ar": "كلمة 'Way' 'طريق'.. وانت في الـ 'Way' للمطار لازم تعمل 'Weigh' 'وزن' للشنط بتاعتك."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "option",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "option",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A thing that is or may be chosen.",
+  "explanation_ar": "خيار أو بديل، حاجة ممكن تختارها من وسط حاجات تانية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A thing that is or may be chosen.",
+    "definition_ar": "خيار أو بديل يمكن اختياره من بين عدة احتمالات.",
+    "examples": [
+     "I have no other option.",
+     "Select an option from the menu.",
+     "Going by train is a good option."
+    ]
+   }
+  ],
+  "examples": [
+   "I have no other option.",
+   "Select an option from the menu.",
+   "Going by train is a good option."
+  ],
+  "translations": [
+   "خيار",
+   "بديل"
+  ],
+  "relations": {
+   "synonyms": [
+    "choice",
+    "alternative",
+    "selection"
+   ],
+   "antonyms": [
+    "necessity",
+    "obligation"
+   ],
+   "collocations": [
+    "no option",
+    "best option",
+    "keep options open"
+   ]
+  },
+  "mnemonic": "جاية من 'Opt' 'يختار'.. لما يكون عندك 'Option' يعني عندك حرية الاختيار.",
+  "phonetic_us": "ˈɑːpʃn",
+  "phonetic_uk": "ˈɒpʃn",
+  "syllables": "op•tion",
+  "semantic_tags": [
+   "#Choice",
+   "#Decision",
+   "#Freedom"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing that is or may be chosen.",
+  "explanation_ar": "خيار أو بديل، حاجة ممكن تختارها من وسط حاجات تانية.",
+  "examples": [
+   "I have no other option.",
+   "Select an option from the menu.",
+   "Going by train is a good option."
+  ],
+  "translations": {
+   "arabic_ar": "خيار بديل"
+  },
+  "synonyms": [
+   "choice",
+   "alternative",
+   "selection"
+  ],
+  "antonyms": [
+   "necessity",
+   "obligation"
+  ],
+  "collocations": [
+   "no option",
+   "best option",
+   "keep options open"
+  ],
+  "mnemonic_ar": "جاية من 'Opt' 'يختار'.. لما يكون عندك 'Option' يعني عندك حرية الاختيار."
+ }
+}

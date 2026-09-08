@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "cushion",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "cushion",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A soft bag of cloth filled with soft material, used for sitting on or leaning against.",
+  "explanation_ar": "المخدة الصغيرة اللي بنحطها على الكنبة عشان نسند عليها ضهرنا أو نقعد عليها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A cloth bag filled with soft material, used on a seat or sofa for comfort.",
+    "definition_ar": "وسادة أو مسند صغير يوضع على الكراسي أو الكنب للجلوس عليه أو إسناد الظهر.",
+    "examples": [
+     "She put a cushion behind her back."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Something that protects against a shock, impact, or financial hardship.",
+    "definition_ar": "حماية أو وسيلة أمان تخفف من أثر صدمة أو صعوبة مالية.",
+    "examples": [
+     "Savings can provide a financial cushion against unemployment."
+    ]
+   }
+  ],
+  "examples": [
+   "She put a cushion behind her back.",
+   "The wooden chair is hard, so I need a soft cushion.",
+   "Savings can provide a financial cushion against unemployment."
+  ],
+  "translations": [
+   "وسادة",
+   "مسند",
+   "مخدة"
+  ],
+  "relations": {
+   "synonyms": [
+    "pad",
+    "pillow",
+    "bolster"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "seat cushion",
+    "scatter cushion",
+    "financial cushion"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'كوشة' اللي العرسان بيقعدوا فيها على 'Cushion' مريح.",
+  "phonetic_us": "ˈkʊʃən",
+  "phonetic_uk": "ˈkʊʃən",
+  "syllables": "cush•ion",
+  "semantic_tags": [
+   "#Furniture",
+   "#Comfort",
+   "#Home"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A soft bag of cloth filled with soft material, used for sitting on or leaning against.",
+  "explanation_ar": "المخدة الصغيرة اللي بنحطها على الكنبة عشان نسند عليها ضهرنا أو نقعد عليها.",
+  "examples": [
+   "She put a cushion behind her back.",
+   "The wooden chair is hard, so I need a soft cushion.",
+   "Savings can provide a financial cushion against unemployment."
+  ],
+  "translations": {
+   "arabic_ar": "وسادة مسند مخدة"
+  },
+  "synonyms": [
+   "pad",
+   "pillow",
+   "bolster"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "seat cushion",
+   "scatter cushion",
+   "financial cushion"
+  ],
+  "mnemonic_ar": "شبه كلمة 'كوشة' اللي العرسان بيقعدوا فيها على 'Cushion' مريح."
+ }
+}

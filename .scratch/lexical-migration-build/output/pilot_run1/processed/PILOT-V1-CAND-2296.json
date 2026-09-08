@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2296",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2296",
+  "lemma": "appointed",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2296,
+  "lemma": "appointed",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈpɔɪntɪd",
+  "phonetic_uk": null,
+  "phonetic_ar": "أَبُويْنتِد",
+  "definition_en": "Decided on or officially arranged beforehand.",
+  "explanation_ar": "يصف وقتا او مكانا او ترتيبا تم تحديده والاتفاق عليه مسبقا وبشكل رسمي.",
+  "examples": [
+   {
+    "example_text": "All delegates arrived at the appointed time for the opening remarks.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "We agreed to gather at the appointed place right after the conference.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "He failed to appear at the appointed hour, causing concern among his peers.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"point\" اي يشير او يحدد نقطة محددة، فالشيء الذي يكون \"appointed\" هو ما تم تحديد نقطته وزمنه مسبقا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Decided on or fixed in advance by authority or agreement.",
+    "short_def_en": "agreed or set beforehand",
+    "definition_ar": "محدد او متفق عليه مسبقا وبشكل رسمي",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "scheduling",
+     "formality"
+    ],
+    "usage_note": "Usually placed before nouns like time, hour, day, or place.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Equipped, furnished, or decorated to a specified standard.",
+    "short_def_en": "furnished or equipped",
+    "definition_ar": "مؤثث او مجهز بمستوى معين",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "furniture",
+     "decor",
+     "quality"
+    ],
+    "usage_note": "Almost always modified by adverbs such as 'well', 'handsomely', or 'poorly'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "appointed time",
+   "appointed hour",
+   "appointed day",
+   "appointed place",
+   "well-appointed room"
+  ],
+  "synonyms": [
+   "designated",
+   "agreed",
+   "scheduled",
+   "fixed",
+   "prescribed"
+  ],
+  "antonyms": [
+   "unscheduled",
+   "spontaneous",
+   "unfixed"
+  ],
+  "related_words": {
+   "en": [
+    "schedule",
+    "designate",
+    "deadline",
+    "arrangement",
+    "timing"
+   ],
+   "ar": [
+    "جدول",
+    "تعيين",
+    "موعد نهائي",
+    "ترتيب",
+    "توقيت"
+   ]
+  },
+  "word_family": {
+   "noun": "appointment",
+   "verb": "appoint",
+   "adj": "appointed",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مُحَدَّد / مُعَيَّن / مُجَهَّز",
+   "french_fr": "fixé",
+   "german_de": "festgesetzt",
+   "spanish_es": "fijado",
+   "chinese_zh": "约定的 (yuēdìng de)",
+   "russian_ru": "назначенный",
+   "portuguese_pt": "designado",
+   "japanese_ja": "定められた (Sadamerareta)",
+   "italian_it": "stabilito",
+   "turkish_tr": "belirlenmiş"
+  }
+ },
+ "provenance": {
+  "output_hash": "2856aebe86088324a9a446bfbaebb1198fa2100294175fb0702d76a6eff42d69",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

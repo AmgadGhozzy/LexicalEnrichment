@@ -1,0 +1,117 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1489",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1489",
+  "lemma": "fat",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1489,
+  "lemma": "fat",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Food & Drink",
+  "ai_confidence": 0.98,
+  "phonetic_us": "fæt",
+  "phonetic_uk": null,
+  "phonetic_ar": "فَات",
+  "definition_en": "An oily substance found in animal bodies and plant seeds, essential in food and nutrition.",
+  "explanation_ar": "مادة دهنية تتواجد في أجسام الكائنات الحية والنباتات، وتعتبر مصدرا هاما للطاقة في الغذاء.",
+  "examples": [
+   {
+    "example_text": "This milk has thirty percent less fat than regular milk.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "You should trim the excess fat from the meat before cooking.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Exercise helps your body burn fat more efficiently.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"fat\" تشبه في نطقها كلمة فت بالعامية كانك تفت الخبز المشبع بالسمن والدهن.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An oily solid or liquid substance found in plants and animals, used in food.",
+    "short_def_en": "oily food nutrient",
+    "definition_ar": "مادة دهنية توجد في الأطعمة أو أجساد الحيوانات والنباتات.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "nutrition",
+     "biology",
+     "cooking"
+    ],
+    "usage_note": "Often uncountable when referring to dietary substance, but countable when referring to types of fats.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "body fat",
+   "saturated fat",
+   "burn fat",
+   "low in fat",
+   "cut down on fat"
+  ],
+  "synonyms": [
+   "grease",
+   "lipid",
+   "oil",
+   "tallow"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "calorie",
+    "diet",
+    "nutrition",
+    "cholesterol",
+    "obesity"
+   ],
+   "ar": [
+    "سعرة حرارية",
+    "حمية",
+    "تغذية",
+    "كوليسترول",
+    "سمنة"
+   ]
+  },
+  "word_family": {
+   "noun": "fatness",
+   "verb": "fatten",
+   "adj": "fatty",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "دُهْن / دُهُون",
+   "french_fr": "graisse",
+   "german_de": "Fett",
+   "spanish_es": "grasa",
+   "chinese_zh": "脂肪 (zhīfáng)",
+   "russian_ru": "жир",
+   "portuguese_pt": "gordura",
+   "japanese_ja": "脂肪 (Shibō)",
+   "italian_it": "grasso",
+   "turkish_tr": "yağ"
+  }
+ },
+ "provenance": {
+  "output_hash": "30fde01c189170c75718f02465335146e7d5691b1dbf1f01413147bb9a0118c9",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

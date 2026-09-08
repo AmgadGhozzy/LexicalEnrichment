@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "pledge",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "pledge",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A solemn promise or undertaking.",
+  "explanation_ar": "وعد رسمي أو عهد قاطع بإنك تعمل حاجة.",
+  "senses": [
+   {
+    "definition_en": "A solemn promise or undertaking.",
+    "explanation_ar": "وعد رسمي أو عهد قاطع بإنك تعمل حاجة.",
+    "pos": "noun",
+    "cefr": "C1"
+   }
+  ],
+  "examples": [
+   "The government gave a pledge to improve schools.",
+   "He took a solemn pledge of secrecy.",
+   "The donor honored his pledge of one million dollars to the charity."
+  ],
+  "translations": [
+   "تعهد",
+   "عهد",
+   "وعد رسمي"
+  ],
+  "relations": {
+   "synonyms": [
+    "promise",
+    "vow",
+    "oath",
+    "commitment"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "make a pledge",
+    "honor a pledge",
+    "fulfill a pledge",
+    "campaign pledge"
+   ]
+  },
+  "mnemonic": "كلمة 'Pledge' قريبة من 'Please'.. كأنك بتقول 'Please believe me' أنا بوعدك.",
+  "phonetic_us": "plɛdʒ",
+  "phonetic_uk": "pledʒ",
+  "syllables": "pledge",
+  "semantic_tags": [
+   "#Promise",
+   "#Agreement",
+   "#Commitment"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A solemn promise or undertaking.",
+  "explanation_ar": "وعد رسمي أو عهد قاطع بإنك تعمل حاجة.",
+  "examples": [
+   "The government gave a pledge to improve schools.",
+   "He took a solemn pledge of secrecy.",
+   "The donor honored his pledge of one million dollars to the charity."
+  ],
+  "translations": {
+   "arabic_ar": "تعهد عهد وعد رسمي"
+  },
+  "synonyms": [
+   "promise",
+   "vow",
+   "oath",
+   "commitment"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "make a pledge",
+   "honor a pledge",
+   "fulfill a pledge",
+   "campaign pledge"
+  ],
+  "mnemonic_ar": "كلمة 'Pledge' قريبة من 'Please'.. كأنك بتقول 'Please believe me' أنا بوعدك."
+ }
+}

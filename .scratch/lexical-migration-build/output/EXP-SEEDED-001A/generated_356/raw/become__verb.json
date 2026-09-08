@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "become",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "become",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To begin to be something; to turn into something.",
+  "explanation_ar": "يعني تتحول لحاجة تانية أو تبدأ تكون في حالة جديدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To begin to be something; to turn into something.",
+    "explanation_ar": "أن تصبح شيئاً أو تتحول إلى حالة جديدة.",
+    "examples": [
+     "He wants to become a doctor.",
+     "People often become nervous before an exam.",
+     "Leaves become yellow in autumn."
+    ]
+   }
+  ],
+  "examples": [
+   "He wants to become a doctor.",
+   "People often become nervous before an exam.",
+   "Leaves become yellow in autumn."
+  ],
+  "translations": [
+   "يُصْبِح"
+  ],
+  "relations": {
+   "synonyms": [
+    "turn into",
+    "grow",
+    "get"
+   ],
+   "antonyms": [
+    "remain",
+    "stay"
+   ],
+   "collocations": [
+    "become aware",
+    "become clear",
+    "become famous",
+    "become a member"
+   ]
+  },
+  "mnemonic": "كلمة 'Become' فيها 'Be' 'يكون' و 'Come' 'ييجي'.. يعني لما الحالة 'Come' وتخليك 'Be' حاجة تانية، يبقى إنت 'Become' 'أصبحت'.",
+  "phonetic_us": "bɪˈkʌm",
+  "phonetic_uk": "bɪˈkʌm",
+  "syllables": "be•come",
+  "semantic_tags": [
+   "Change",
+   "Development",
+   "Future"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To begin to be something; to turn into something.",
+  "explanation_ar": "يعني تتحول لحاجة تانية أو تبدأ تكون في حالة جديدة.",
+  "examples": [
+   "He wants to become a doctor.",
+   "People often become nervous before an exam.",
+   "Leaves become yellow in autumn."
+  ],
+  "translations": {
+   "arabic_ar": "يُصْبِح"
+  },
+  "synonyms": [
+   "turn into",
+   "grow",
+   "get"
+  ],
+  "antonyms": [
+   "remain",
+   "stay"
+  ],
+  "collocations": [
+   "become aware",
+   "become clear",
+   "become famous",
+   "become a member"
+  ],
+  "mnemonic_ar": "كلمة 'Become' فيها 'Be' 'يكون' و 'Come' 'ييجي'.. يعني لما الحالة 'Come' وتخليك 'Be' حاجة تانية، يبقى إنت 'Become' 'أصبحت'."
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "cheer",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "cheer",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To shout for joy or in praise of someone; to comfort or encourage.",
+  "explanation_ar": "إنك تهتف وتشجع حد بصوت عالي، أو تحاول تبسط حد وتفرحه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To shout loudly to encourage, praise, or show support for someone.",
+    "definition_ar": "أن تهتف بصوت عالٍ لتشجيع شخص أو إظهار الدعم والإعجاب به.",
+    "examples": [
+     "We cheer for our team whenever they play at home.",
+     "The crowd began to cheer as the players walked onto the pitch."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To make someone feel happier, more cheerful, or less worried.",
+    "definition_ar": "أن تُبهج شخصاً أو ترفع معنوياته وتجعله يشعر بالسعادة.",
+    "examples": [
+     "I tried to cheer him up with a joke, but he was still upset."
+    ]
+   }
+  ],
+  "examples": [
+   "We cheer for our team whenever they play at home.",
+   "I tried to cheer him up with a joke, but he was still upset.",
+   "The crowd began to cheer as the players walked onto the pitch."
+  ],
+  "translations": [
+   "يهتف",
+   "يشجع",
+   "يُبهج"
+  ],
+  "relations": {
+   "synonyms": [
+    "applaud",
+    "encourage",
+    "acclaim",
+    "comfort"
+   ],
+   "antonyms": [
+    "boo",
+    "jeer",
+    "discourage"
+   ],
+   "collocations": [
+    "cheer up",
+    "cheer on",
+    "cheer for",
+    "loudly cheer"
+   ]
+  },
+  "mnemonic": "لما الـ 'Cheerleaders' بيشجعوا الفريق، بيعملوا 'Cheer'.",
+  "phonetic_us": "tʃɪr",
+  "phonetic_uk": "tʃɪə",
+  "syllables": [
+   "cheer"
+  ],
+  "semantic_tags": [
+   "#Shout",
+   "#Support",
+   "#Encourage",
+   "#Happy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To shout for joy or in praise of someone; to comfort or encourage.",
+  "explanation_ar": "إنك تهتف وتشجع حد بصوت عالي، أو تحاول تبسط حد وتفرحه.",
+  "examples": [
+   "We cheer for our team whenever they play at home.",
+   "I tried to cheer him up with a joke, but he was still upset.",
+   "The crowd began to cheer as the players walked onto the pitch."
+  ],
+  "translations": {
+   "arabic_ar": "يهتف يشجع يُبهج"
+  },
+  "synonyms": [
+   "applaud",
+   "encourage",
+   "acclaim",
+   "comfort"
+  ],
+  "antonyms": [
+   "boo",
+   "jeer",
+   "discourage"
+  ],
+  "collocations": [
+   "cheer up",
+   "cheer on",
+   "cheer for",
+   "loudly cheer"
+  ],
+  "mnemonic_ar": "لما الـ 'Cheerleaders' بيشجعوا الفريق، بيعملوا 'Cheer'."
+ }
+}

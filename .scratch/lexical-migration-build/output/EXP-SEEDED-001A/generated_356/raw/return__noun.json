@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "return",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "return",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The act of coming or going back to a place.",
+  "explanation_ar": "العودة لمكان كنت فيه قبل كده، أو ترجيع حاجة لصاحبها.",
+  "senses": [
+   {
+    "definition_en": "The act of coming or going back to a place.",
+    "explanation_ar": "العودة إلى مكان ما.",
+    "translations": [
+     "عودة",
+     "رجوع"
+    ]
+   }
+  ],
+  "examples": [
+   "I am waiting for his return.",
+   "The return trip took two hours.",
+   "She bought a return ticket."
+  ],
+  "translations": [
+   "عودة"
+  ],
+  "relations": {
+   "synonyms": [
+    "comeback",
+    "reappearance"
+   ],
+   "antonyms": [
+    "departure"
+   ],
+   "collocations": [
+    "return ticket",
+    "in return",
+    "tax return"
+   ]
+  },
+  "mnemonic": "زي زرار 'Return' في الكيبورد.. بيرجعك للسطر اللي قبله.",
+  "phonetic_us": "rɪˈtɜːrn",
+  "phonetic_uk": "rɪˈtɜːn",
+  "syllables": "re•turn",
+  "semantic_tags": [
+   "#Travel",
+   "#Back",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The act of coming or going back to a place.",
+  "explanation_ar": "العودة لمكان كنت فيه قبل كده، أو ترجيع حاجة لصاحبها.",
+  "examples": [
+   "I am waiting for his return.",
+   "The return trip took two hours.",
+   "She bought a return ticket."
+  ],
+  "translations": {
+   "arabic_ar": "عودة"
+  },
+  "synonyms": [
+   "comeback",
+   "reappearance"
+  ],
+  "antonyms": [
+   "departure"
+  ],
+  "collocations": [
+   "return ticket",
+   "in return",
+   "tax return"
+  ],
+  "mnemonic_ar": "زي زرار 'Return' في الكيبورد.. بيرجعك للسطر اللي قبله."
+ }
+}

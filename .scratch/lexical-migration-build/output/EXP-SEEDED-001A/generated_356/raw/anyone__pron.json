@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "anyone",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "anyone",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "Any person at all; used in questions and negative sentences.",
+  "explanation_ar": "أي شخص مهما كان، بتستخدم عادة في الأسئلة والنفي زي 'محدش جه' أو 'هل فيه حد هنا؟'.",
+  "senses": [
+   {
+    "sense_id": "anyone_1",
+    "definition_en": "Any person at all; used in questions and negative sentences.",
+    "explanation_ar": "أي شخص مهما كان، وتُستخدم عادة في الأسئلة والجمل المنفية.",
+    "examples": [
+     "Can anyone help me?",
+     "I don't know anyone here.",
+     "Has anyone seen my keys?"
+    ]
+   }
+  ],
+  "examples": [
+   "Can anyone help me?",
+   "I don't know anyone here.",
+   "Has anyone seen my keys?"
+  ],
+  "translations": [
+   "أي شخص",
+   "أحد"
+  ],
+  "relations": {
+   "synonyms": [
+    "anybody"
+   ],
+   "antonyms": [
+    "no one",
+    "nobody"
+   ],
+   "collocations": [
+    "anyone else",
+    "can anyone",
+    "does anyone"
+   ]
+  },
+  "mnemonic": "'Any' 'أي' + 'One' 'واحد'.. يعني أي واحد.",
+  "phonetic_us": "ˈɛniˌwʌn",
+  "phonetic_uk": null,
+  "syllables": "any•one",
+  "semantic_tags": [
+   "#Pronouns",
+   "#People"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Any person at all; used in questions and negative sentences.",
+  "explanation_ar": "أي شخص مهما كان، بتستخدم عادة في الأسئلة والنفي زي 'محدش جه' أو 'هل فيه حد هنا؟'.",
+  "examples": [
+   "Can anyone help me?",
+   "I don't know anyone here.",
+   "Has anyone seen my keys?"
+  ],
+  "translations": {
+   "arabic_ar": "أي شخص أحد"
+  },
+  "synonyms": [
+   "anybody"
+  ],
+  "antonyms": [
+   "no one",
+   "nobody"
+  ],
+  "collocations": [
+   "anyone else",
+   "can anyone",
+   "does anyone"
+  ],
+  "mnemonic_ar": "'Any' 'أي' + 'One' 'واحد'.. يعني أي واحد."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "slash",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "slash",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To cut with a violent sweeping movement or reduce greatly.",
+  "explanation_ar": "يقطع حاجة بقوة وعنف، أو يقلل الأسعار بشكل كبير جداً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To cut with a violent sweeping movement.",
+    "definition_ar": "يقطع أو يشق بحركة عنيفة وسريعة."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To reduce something greatly, especially prices, costs, or budgets.",
+    "definition_ar": "يخفض أو يقلل بشدة (خاصة الأسعار أو التكاليف أو الميزانيات)."
+   }
+  ],
+  "examples": [
+   "Do not slash the seat.",
+   "The company decided to slash the prices.",
+   "The new policy aims to slash unemployment rates."
+  ],
+  "translations": [
+   "يخفض",
+   "يقطع"
+  ],
+  "relations": {
+   "synonyms": [
+    "cut",
+    "reduce",
+    "gash",
+    "slit"
+   ],
+   "antonyms": [
+    "raise",
+    "increase"
+   ],
+   "collocations": [
+    "slash prices",
+    "slash costs",
+    "slash tires",
+    "slash budget"
+   ]
+  },
+  "mnemonic": "زي لما المحلات تعمل 'Sale'.. بتعمل 'Slash' للأسعار يعني بتقصها للنص.",
+  "phonetic_us": "slæʃ",
+  "phonetic_uk": "slæʃ",
+  "syllables": [
+   "slash"
+  ],
+  "semantic_tags": [
+   "Violence",
+   "Economy",
+   "Reduction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To cut with a violent sweeping movement or reduce greatly.",
+  "explanation_ar": "يقطع حاجة بقوة وعنف، أو يقلل الأسعار بشكل كبير جداً.",
+  "examples": [
+   "Do not slash the seat.",
+   "The company decided to slash the prices.",
+   "The new policy aims to slash unemployment rates."
+  ],
+  "translations": {
+   "arabic_ar": "يخفض يقطع"
+  },
+  "synonyms": [
+   "cut",
+   "reduce",
+   "gash",
+   "slit"
+  ],
+  "antonyms": [
+   "raise",
+   "increase"
+  ],
+  "collocations": [
+   "slash prices",
+   "slash costs",
+   "slash tires",
+   "slash budget"
+  ],
+  "mnemonic_ar": "زي لما المحلات تعمل 'Sale'.. بتعمل 'Slash' للأسعار يعني بتقصها للنص."
+ }
+}

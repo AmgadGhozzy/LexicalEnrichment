@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3316",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3316",
+  "lemma": "wooden",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3316,
+  "lemma": "wooden",
+  "pos": "adj",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈwʊd.n",
+  "phonetic_uk": null,
+  "phonetic_ar": "وُودِن",
+  "definition_en": "Made of the hard material that comes from trees.",
+  "explanation_ar": "تصف الشيء المصنوع من الخشب، مثل الأثاث أو الأدوات أو الأبواب المصنوعة من جذوع الأشجار.",
+  "examples": [
+   {
+    "example_text": "We sat around a large wooden table in the dining room.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "She keeps her jewelry in an old wooden box.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The house had a sturdy wooden door with an iron handle.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"wood\" التي تعني خشب، واللاحقة \"en\" تجعل الاسم صفة تشير إلى المادة المصنوع منها الشيء مثل \"golden\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Made entirely or partly of timber from trees.",
+    "short_def_en": "made of wood",
+    "definition_ar": "مصنوع من مادة الخشب",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "materials",
+     "furniture",
+     "objects"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Stiff and awkward in behavior or movement, lacking natural warmth or emotion.",
+    "short_def_en": "stiff and unnatural",
+    "definition_ar": "متخشب أو متصلب الحركات وبلا تعبير طبيعي",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "behavior",
+     "acting",
+     "personality"
+    ],
+    "usage_note": "Used metaphorically to describe an actor, smile, or manner that seems unnatural, like a motionless piece of timber.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "wooden spoon",
+   "wooden box",
+   "wooden floor",
+   "wooden chair",
+   "wooden frame"
+  ],
+  "synonyms": [
+   "timber"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "wood",
+    "carpenter",
+    "forest",
+    "timber",
+    "furniture"
+   ],
+   "ar": [
+    "خشب",
+    "نجار",
+    "غابة",
+    "أخشاب",
+    "أثاث"
+   ]
+  },
+  "word_family": {
+   "noun": "wood",
+   "verb": "",
+   "adj": "wooden",
+   "adv": "woodenly"
+  },
+  "translations": {
+   "arabic_ar": "خشبي / مصنوع من خشب",
+   "french_fr": "en bois",
+   "german_de": "hölzern",
+   "spanish_es": "de madera",
+   "chinese_zh": "木制的 (mù zhì de)",
+   "russian_ru": "деревянный",
+   "portuguese_pt": "de madeira",
+   "japanese_ja": "木製の (mokusei no)",
+   "italian_it": "di legno",
+   "turkish_tr": "ahşap"
+  }
+ },
+ "provenance": {
+  "output_hash": "ec7270ea741c695ebdafcb814c90fc49cb9fc938d1ad26bde6e162cdacb3b793",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

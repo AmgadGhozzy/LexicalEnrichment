@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "quickly",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "quickly",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "At a fast speed; rapidly.",
+  "explanation_ar": "بسرعة.. لما تعمل حاجة في وقت قليل.",
+  "senses": [
+   {
+    "definition_en": "At a fast speed; rapidly or within a short time.",
+    "definition_ar": "بسرعة، في وقت قصير",
+    "pos": "adv",
+    "examples": [
+     "Come here quickly!",
+     "She walked quickly to the shop.",
+     "We need to act quickly to solve this problem."
+    ]
+   }
+  ],
+  "examples": [
+   "Come here quickly!",
+   "She walked quickly to the shop.",
+   "We need to act quickly to solve this problem."
+  ],
+  "translations": [
+   "بسرعة"
+  ],
+  "relations": {
+   "synonyms": [
+    "fast",
+    "rapidly",
+    "swiftly"
+   ],
+   "antonyms": [
+    "slowly",
+    "gradually"
+   ],
+   "collocations": [
+    "move quickly",
+    "respond quickly",
+    "learn quickly",
+    "act quickly"
+   ]
+  },
+  "mnemonic": "كلمة 'Quick' يعني سريع.. ومشروب 'Nesquik' بيتعمل 'Quickly' بسرعة.",
+  "phonetic_us": "ˈkwɪkli",
+  "phonetic_uk": "ˈkwɪkli",
+  "syllables": "quick•ly",
+  "semantic_tags": [
+   "#Speed",
+   "#Time",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "At a fast speed; rapidly.",
+  "explanation_ar": "بسرعة.. لما تعمل حاجة في وقت قليل.",
+  "examples": [
+   "Come here quickly!",
+   "She walked quickly to the shop.",
+   "We need to act quickly to solve this problem."
+  ],
+  "translations": {
+   "arabic_ar": "بسرعة"
+  },
+  "synonyms": [
+   "fast",
+   "rapidly",
+   "swiftly"
+  ],
+  "antonyms": [
+   "slowly",
+   "gradually"
+  ],
+  "collocations": [
+   "move quickly",
+   "respond quickly",
+   "learn quickly",
+   "act quickly"
+  ],
+  "mnemonic_ar": "كلمة 'Quick' يعني سريع.. ومشروب 'Nesquik' بيتعمل 'Quickly' بسرعة."
+ }
+}

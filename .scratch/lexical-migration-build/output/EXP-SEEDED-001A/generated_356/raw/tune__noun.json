@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "tune",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "tune",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A melody, especially one that characterizes a particular piece of music, or the state of being at the correct musical pitch.",
+  "explanation_ar": "اللحن أو النغمة الموسيقية، وتُستخدم أيضاً للإشارة إلى ضبط النغمات أو الدوزان الموسيقي الصحيح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A series of musical notes that produce a pleasing, recognizable melody.",
+    "definition_ar": "لحن أو نغمة مميزة لأغنية أو مقطوعة موسيقية.",
+    "examples": [
+     "She hummed a happy tune.",
+     "Do you recognize this tune?"
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The correct musical pitch or harmony.",
+    "definition_ar": "ضبط النغمة الموسيقية أو الدوزان الصحيح للآلة.",
+    "examples": [
+     "The piano is out of tune."
+    ]
+   }
+  ],
+  "examples": [
+   "She hummed a happy tune.",
+   "Do you recognize this tune?",
+   "The piano is out of tune."
+  ],
+  "translations": [
+   "لحن",
+   "نغمة",
+   "دوزان"
+  ],
+  "relations": {
+   "synonyms": [
+    "melody",
+    "air",
+    "theme"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "catchy tune",
+    "in tune",
+    "out of tune",
+    "change one's tune"
+   ]
+  },
+  "mnemonic": "كلمة 'Tune' زي 'iTunes'.. البرنامج اللي بنسمع عليه نغمات وألحان موسيقية.",
+  "phonetic_us": "/tuːn/",
+  "phonetic_uk": "/tjuːn/",
+  "syllables": [
+   "tune"
+  ],
+  "semantic_tags": [
+   "music",
+   "sound",
+   "art"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A melody, especially one that characterizes a particular piece of music, or the state of being at the correct musical pitch.",
+  "explanation_ar": "اللحن أو النغمة الموسيقية، وتُستخدم أيضاً للإشارة إلى ضبط النغمات أو الدوزان الموسيقي الصحيح.",
+  "examples": [
+   "She hummed a happy tune.",
+   "Do you recognize this tune?",
+   "The piano is out of tune."
+  ],
+  "translations": {
+   "arabic_ar": "لحن نغمة دوزان"
+  },
+  "synonyms": [
+   "melody",
+   "air",
+   "theme"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "catchy tune",
+   "in tune",
+   "out of tune",
+   "change one's tune"
+  ],
+  "mnemonic_ar": "كلمة 'Tune' زي 'iTunes'.. البرنامج اللي بنسمع عليه نغمات وألحان موسيقية."
+ }
+}

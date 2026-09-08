@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "thereupon",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "thereupon",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "Immediately or shortly after that.",
+  "explanation_ar": "فوراً بعد ذلك، أو بناءً على ذلك (كلمة رسمية وأدبية تعني عندئذٍ أو على إثر ذلك).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Immediately or shortly after that; as a result of that.",
+    "explanation_ar": "فوراً بعد ذلك، أو بناءً على ذلك.",
+    "examples": [
+     "The agreement was signed, and thereupon the work commenced.",
+     "The crowd cheered, and thereupon the speaker resumed his address.",
+     "The king died, and thereupon his son took the throne."
+    ]
+   }
+  ],
+  "examples": [
+   "The agreement was signed, and thereupon the work commenced.",
+   "The crowd cheered, and thereupon the speaker resumed his address.",
+   "The king died, and thereupon his son took the throne."
+  ],
+  "translations": [
+   "عندئذ",
+   "بناء على ذلك",
+   "على إثر ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "thereafter",
+    "consequently",
+    "then",
+    "forthwith"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "and thereupon",
+    "immediately thereupon"
+   ]
+  },
+  "mnemonic": "'There' 'هناك' + 'Upon' 'على'.. يعني بناءً على اللي حصل هناك/دلوقتي، حصل كذا.",
+  "phonetic_us": "ˌðɛrəˈpɑːn",
+  "phonetic_uk": "ˌðɛrəˈpɒn",
+  "syllables": "there•upon",
+  "semantic_tags": [
+   "Time",
+   "Sequence",
+   "Formal",
+   "Literature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Immediately or shortly after that.",
+  "explanation_ar": "فوراً بعد ذلك، أو بناءً على ذلك (كلمة رسمية وأدبية تعني عندئذٍ أو على إثر ذلك).",
+  "examples": [
+   "The agreement was signed, and thereupon the work commenced.",
+   "The crowd cheered, and thereupon the speaker resumed his address.",
+   "The king died, and thereupon his son took the throne."
+  ],
+  "translations": {
+   "arabic_ar": "عندئذ بناء على ذلك على إثر ذلك"
+  },
+  "synonyms": [
+   "thereafter",
+   "consequently",
+   "then",
+   "forthwith"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "and thereupon",
+   "immediately thereupon"
+  ],
+  "mnemonic_ar": "'There' 'هناك' + 'Upon' 'على'.. يعني بناءً على اللي حصل هناك/دلوقتي، حصل كذا."
+ }
+}

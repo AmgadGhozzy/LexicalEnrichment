@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "awareness",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "awareness",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Knowledge or perception of a situation or fact.",
+  "explanation_ar": "إنك تكون عارف وفاهم إيه اللي بيحصل حواليك، أو عندك علم بموضوع معين.",
+  "senses": [
+   {
+    "sense_id": "awareness_noun_1",
+    "definition_en": "Knowledge or perception of a situation or fact.",
+    "explanation_ar": "المعرفة أو الإدراك بحقيقة أو موقف معين، والوعي بما يدور حولك.",
+    "examples": [
+     "The campaign aims to raise awareness of pollution.",
+     "There is a growing awareness of environmental issues.",
+     "He has no awareness of the danger."
+    ]
+   }
+  ],
+  "examples": [
+   "The campaign aims to raise awareness of pollution.",
+   "There is a growing awareness of environmental issues.",
+   "He has no awareness of the danger."
+  ],
+  "translations": [
+   "وعي",
+   "إدراك"
+  ],
+  "relations": {
+   "synonyms": [
+    "consciousness",
+    "perception",
+    "understanding",
+    "realization"
+   ],
+   "antonyms": [
+    "ignorance",
+    "unawareness"
+   ],
+   "collocations": [
+    "raise awareness",
+    "public awareness",
+    "growing awareness",
+    "self-awareness"
+   ]
+  },
+  "mnemonic": "لما تكون 'Aware' يعني صاحي وواخد بالك.. فالـ 'Awareness' هي الوعي والانتباه.",
+  "phonetic_us": "əˈwɛrnəs",
+  "phonetic_uk": "əˈweənəs",
+  "syllables": "a•ware•ness",
+  "semantic_tags": [
+   "Knowledge",
+   "Society",
+   "Mind"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Knowledge or perception of a situation or fact.",
+  "explanation_ar": "إنك تكون عارف وفاهم إيه اللي بيحصل حواليك، أو عندك علم بموضوع معين.",
+  "examples": [
+   "The campaign aims to raise awareness of pollution.",
+   "There is a growing awareness of environmental issues.",
+   "He has no awareness of the danger."
+  ],
+  "translations": {
+   "arabic_ar": "وعي إدراك"
+  },
+  "synonyms": [
+   "consciousness",
+   "perception",
+   "understanding",
+   "realization"
+  ],
+  "antonyms": [
+   "ignorance",
+   "unawareness"
+  ],
+  "collocations": [
+   "raise awareness",
+   "public awareness",
+   "growing awareness",
+   "self-awareness"
+  ],
+  "mnemonic_ar": "لما تكون 'Aware' يعني صاحي وواخد بالك.. فالـ 'Awareness' هي الوعي والانتباه."
+ }
+}

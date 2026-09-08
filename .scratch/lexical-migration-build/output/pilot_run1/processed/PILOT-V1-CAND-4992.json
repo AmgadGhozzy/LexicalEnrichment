@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4992",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4992",
+  "lemma": "frontier",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4992,
+  "lemma": "frontier",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "frʌnˈtɪr",
+  "phonetic_uk": "ˈfrʌn.tɪər",
+  "phonetic_ar": "فرَنتِير",
+  "definition_en": "A border separating two countries, or the extreme limit of settled land or knowledge.",
+  "explanation_ar": "الحد الفاصل بين دولتين، أو أقصى نقطة وصل إليها الاستيطان البشري، وتستخدم مجازيا للإشارة إلى حدود المعرفة والاكتشاف.",
+  "examples": [
+   {
+    "example_text": "Security was tightened along the international frontier to prevent illegal crossings.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Space exploration represents the final frontier of modern human adventure.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Gene editing has pushed back the frontier of biological medicine.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"front\" وتعني الواجهة أو المقدمة، فالكلمة تشير إلى أقصى حد أو واجهة البلاد وأطرافها المتقدمة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The political border dividing two distinct countries or territories.",
+    "short_def_en": "border between countries",
+    "definition_ar": "الحدود الفاصلة بين بلدين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "geography",
+     "politics",
+     "travel"
+    ],
+    "usage_note": "More commonly used in British and European contexts where American English often prefers 'border'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The furthest edge of explored or settled territory, or the outer limits of knowledge in a field.",
+    "short_def_en": "outer limit of knowledge or exploration",
+    "definition_ar": "تخوم الاستكشاف أو حدود المعرفة",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "exploration",
+     "science",
+     "history"
+    ],
+    "usage_note": "Often used metaphorically in phrases like 'new frontiers' or 'the final frontier'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "cross the frontier",
+   "international frontier",
+   "the final frontier",
+   "new frontier",
+   "frontier post"
+  ],
+  "synonyms": [
+   "border",
+   "boundary",
+   "limit",
+   "edge",
+   "borderline"
+  ],
+  "antonyms": [
+   "interior",
+   "center"
+  ],
+  "related_words": {
+   "en": [
+    "border",
+    "boundary",
+    "territory",
+    "exploration",
+    "pioneer"
+   ],
+   "ar": [
+    "حد",
+    "تخم",
+    "إقليم",
+    "استكشاف",
+    "رائد"
+   ]
+  },
+  "word_family": {
+   "noun": "frontier",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "حدود / تخوم",
+   "french_fr": "frontière",
+   "german_de": "Grenze",
+   "spanish_es": "frontera",
+   "chinese_zh": "边界 (Biānjiè)",
+   "russian_ru": "граница",
+   "portuguese_pt": "fronteira",
+   "japanese_ja": "国境 (Kokkyō)",
+   "italian_it": "frontiera",
+   "turkish_tr": "sınır"
+  }
+ },
+ "provenance": {
+  "output_hash": "0d2495fcb8e1ef51c0b91b52e7e39b4ae14c4efdfc9563591a36d61295e2042f",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

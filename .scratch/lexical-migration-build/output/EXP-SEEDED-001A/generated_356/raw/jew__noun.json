@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "jew",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "jew",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+  "explanation_ar": "شخص يتبع الديانة اليهودية أو ينتمي إلى الشعب اليهودي.",
+  "senses": [
+   {
+    "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+    "explanation_ar": "شخص يتبع الديانة اليهودية أو ينتمي إلى الشعب اليهودي.",
+    "examples": [
+     "As a practicing Jew, he observes the Sabbath from Friday evening to Saturday night.",
+     "She spoke about her experience growing up as a secular Jew in a diverse city.",
+     "Every Jew in the congregation participated in the annual holiday service."
+    ]
+   }
+  ],
+  "examples": [
+   "As a practicing Jew, he observes the Sabbath from Friday evening to Saturday night.",
+   "She spoke about her experience growing up as a secular Jew in a diverse city.",
+   "Every Jew in the congregation participated in the annual holiday service."
+  ],
+  "translations": [
+   "يهودي"
+  ],
+  "relations": {
+   "synonyms": [
+    "Hebrew",
+    "Israelite"
+   ],
+   "antonyms": [
+    "Gentile"
+   ],
+   "collocations": [
+    "Orthodox Jew",
+    "secular Jew",
+    "practicing Jew"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/dʒuː/",
+  "phonetic_uk": "/dʒuː/",
+  "syllables": "jew",
+  "semantic_tags": [
+   "Religion",
+   "Culture",
+   "History",
+   "Identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+  "explanation_ar": "شخص يتبع الديانة اليهودية أو ينتمي إلى الشعب اليهودي.",
+  "examples": [
+   "As a practicing Jew, he observes the Sabbath from Friday evening to Saturday night.",
+   "She spoke about her experience growing up as a secular Jew in a diverse city.",
+   "Every Jew in the congregation participated in the annual holiday service."
+  ],
+  "translations": {
+   "arabic_ar": "يهودي"
+  },
+  "synonyms": [
+   "Hebrew",
+   "Israelite"
+  ],
+  "antonyms": [
+   "Gentile"
+  ],
+  "collocations": [
+   "Orthodox Jew",
+   "secular Jew",
+   "practicing Jew"
+  ],
+  "mnemonic_ar": null
+ }
+}

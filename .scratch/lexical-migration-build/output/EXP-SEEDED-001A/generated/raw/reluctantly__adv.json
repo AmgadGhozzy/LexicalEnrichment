@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "reluctantly",
+  "pos": "adv"
+ },
+ "candidate": {
+  "lemma": "reluctantly",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "In an unwilling and hesitant way.",
+  "explanation_ar": "لما تعمل حاجة وإنت مش عايز تعملها، بتعملها بتقل وبدون نفس.",
+  "senses": [
+   {
+    "definition_en": "In an unwilling and hesitant way.",
+    "definition_ar": "على مضض أو بتردد ودون رغبة حقيقية.",
+    "examples": [
+     "I reluctantly agreed to help him.",
+     "They reluctantly accepted the offer.",
+     "The government reluctantly admitted its mistake."
+    ]
+   }
+  ],
+  "examples": [
+   "I reluctantly agreed to help him.",
+   "They reluctantly accepted the offer.",
+   "The government reluctantly admitted its mistake."
+  ],
+  "translations": [
+   "عَلَى مَضَض",
+   "بِتَرَدُّد"
+  ],
+  "relations": {
+   "synonyms": [
+    "unwillingly",
+    "hesitantly",
+    "grudgingly"
+   ],
+   "antonyms": [
+    "willingly",
+    "eagerly",
+    "gladly"
+   ],
+   "collocations": [
+    "agreed reluctantly",
+    "accepted reluctantly",
+    "reluctantly admit"
+   ]
+  },
+  "mnemonic": "'Reluctant' قريبة من 'Lock'.. كأنك 'Locked' ومجبر تعمل الحاجة فبتعملها 'Reluctantly'.",
+  "phonetic_us": "/rɪˈlʌktəntli/",
+  "phonetic_uk": "/rɪˈlʌktəntli/",
+  "syllables": "re•luc•tant•ly",
+  "semantic_tags": [
+   "#Unwilling",
+   "#Hesitant",
+   "#Feeling",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In an unwilling and hesitant way.",
+  "explanation_ar": "لما تعمل حاجة وإنت مش عايز تعملها، بتعملها بتقل وبدون نفس.",
+  "examples": [
+   "I reluctantly agreed to help him.",
+   "They reluctantly accepted the offer.",
+   "The government reluctantly admitted its mistake."
+  ],
+  "translations": {
+   "arabic_ar": "عَلَى مَضَض بِتَرَدُّد"
+  },
+  "synonyms": [
+   "unwillingly",
+   "hesitantly",
+   "grudgingly"
+  ],
+  "antonyms": [
+   "willingly",
+   "eagerly",
+   "gladly"
+  ],
+  "collocations": [
+   "agreed reluctantly",
+   "accepted reluctantly",
+   "reluctantly admit"
+  ],
+  "mnemonic_ar": "'Reluctant' قريبة من 'Lock'.. كأنك 'Locked' ومجبر تعمل الحاجة فبتعملها 'Reluctantly'."
+ }
+}

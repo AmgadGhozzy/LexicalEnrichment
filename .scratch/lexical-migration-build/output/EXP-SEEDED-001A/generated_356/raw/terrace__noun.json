@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "terrace",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "terrace",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A level paved area or platform next to a building; a patio or balcony.",
+  "explanation_ar": "شرفة واسعة أو مساحة مبلطة قدام البيت 'تراس'.",
+  "senses": [
+   {
+    "definition_en": "A level paved area or platform next to a building; a patio or balcony.",
+    "definition_ar": "شرفة واسعة أو مساحة مبلطة قدام البيت 'تراس'.",
+    "examples": [
+     "We sat on the terrace.",
+     "They ate lunch on the sunny terrace.",
+     "The penthouse features a wrap-around terrace with city views."
+    ]
+   }
+  ],
+  "examples": [
+   "We sat on the terrace.",
+   "They ate lunch on the sunny terrace.",
+   "The penthouse features a wrap-around terrace with city views."
+  ],
+  "translations": [
+   "شُرْفَة",
+   "تِرَاس"
+  ],
+  "relations": {
+   "synonyms": [
+    "patio",
+    "balcony",
+    "veranda",
+    "deck"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "roof terrace",
+    "sun terrace",
+    "terrace house"
+   ]
+  },
+  "mnemonic": "نفس الكلمة بنستخدمها 'تراس'.",
+  "phonetic_us": "ˈtɛrəs",
+  "phonetic_uk": "ˈterəs",
+  "syllables": "ter•race",
+  "semantic_tags": [
+   "#House",
+   "#Architecture",
+   "#Outdoors"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A level paved area or platform next to a building; a patio or balcony.",
+  "explanation_ar": "شرفة واسعة أو مساحة مبلطة قدام البيت 'تراس'.",
+  "examples": [
+   "We sat on the terrace.",
+   "They ate lunch on the sunny terrace.",
+   "The penthouse features a wrap-around terrace with city views."
+  ],
+  "translations": {
+   "arabic_ar": "شُرْفَة تِرَاس"
+  },
+  "synonyms": [
+   "patio",
+   "balcony",
+   "veranda",
+   "deck"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "roof terrace",
+   "sun terrace",
+   "terrace house"
+  ],
+  "mnemonic_ar": "نفس الكلمة بنستخدمها 'تراس'."
+ }
+}

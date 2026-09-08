@@ -1,0 +1,111 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1028",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1028",
+  "lemma": "attention",
+  "pos": "excl",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1028,
+  "lemma": "attention",
+  "pos": "excl",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈtɛnʃən",
+  "phonetic_uk": null,
+  "phonetic_ar": "أتِنْشَن",
+  "definition_en": "Said loudly to tell people to listen, watch, or stand straight in a formal situation.",
+  "explanation_ar": "صيغة نداء أو أمر تقال بصوت عال لجذب انتباه الحاضرين أو تنبيههم للاستماع، وتستخدم كثيرا في السياقات الرسمية والعسكرية.",
+  "examples": [
+   {
+    "example_text": "Attention, please! The flight to Rome is now boarding.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The officer shouted, \"Attention!\" and all the soldiers stood up straight.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Attention, everyone, we need to begin the meeting immediately.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر بداية الكلمة أت مثل إشارة لتنبيه شخص ليسمع ما ستقوله بصوت مرتفع عند النداء في المطار أو الطابور",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Said loudly to tell people to listen, watch, or stand straight in a formal situation.",
+    "short_def_en": "call for people to listen",
+    "definition_ar": "صيحة أو نداء لجذب الاستماع والانتباه فورا في سياق عام أو رسمي",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "communication",
+     "announcements",
+     "commands"
+    ],
+    "usage_note": "Often followed by \"please\" in public announcements, or used alone as a military command to stand upright.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "attention please",
+   "call attention",
+   "pay attention"
+  ],
+  "synonyms": [
+   "listen",
+   "look here"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "announcement",
+    "notice",
+    "listen",
+    "command"
+   ],
+   "ar": [
+    "إعلان",
+    "ملاحظة",
+    "استماع",
+    "أمر"
+   ]
+  },
+  "word_family": {
+   "noun": "attention",
+   "verb": "",
+   "adj": "attentive",
+   "adv": "attentively"
+  },
+  "translations": {
+   "arabic_ar": "انتباه! / انتبهوا!",
+   "french_fr": "attention !",
+   "german_de": "Achtung!",
+   "spanish_es": "¡atención!",
+   "chinese_zh": "注意 (Zhùyì)!",
+   "russian_ru": "внимание!",
+   "portuguese_pt": "atenção!",
+   "japanese_ja": "注目 (Chūmoku)!",
+   "italian_it": "attenzione!",
+   "turkish_tr": "dikkat!"
+  }
+ },
+ "provenance": {
+  "output_hash": "09f55bcf97977da774f344ea0404b444a472505bd127e0f91b01a642e6262776",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

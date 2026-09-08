@@ -1,0 +1,118 @@
+{
+ "candidate_id": "PILOT-V1-CAND-120",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-120",
+  "lemma": "here",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 120,
+  "lemma": "here",
+  "pos": "adv",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "General / Common",
+  "ai_confidence": 0.99,
+  "phonetic_us": "hɪr",
+  "phonetic_uk": "hɪə",
+  "phonetic_ar": "هِير",
+  "definition_en": "In, at, or to this place or current location.",
+  "explanation_ar": "يستخدم للإشارة إلى المكان الذي يتواجد فيه المتحدث الآن، أي هذا الموضع القريب.",
+  "examples": [
+   {
+    "example_text": "Please sit here next to me.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "I have lived here for five years.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Put the groceries here on the kitchen counter.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"here\" موجودة حرفيا داخل كلمة \"where\" فإذا حذفت الواو من اين حصلت على هنا",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "In, at, or to this place or position.",
+    "short_def_en": "at this place",
+    "definition_ar": "في هذا المكان او الموقع الحالي",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "location",
+     "space",
+     "position"
+    ],
+    "usage_note": "Used to denote proximity to the speaker, in contrast with there.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "come here",
+   "right here",
+   "over here",
+   "stay here",
+   "around here"
+  ],
+  "synonyms": [
+   "in this place"
+  ],
+  "antonyms": [
+   "there",
+   "away",
+   "elsewhere"
+  ],
+  "related_words": {
+   "en": [
+    "now",
+    "where",
+    "there",
+    "local",
+    "nearby"
+   ],
+   "ar": [
+    "الان",
+    "اين",
+    "هناك",
+    "محلي",
+    "قريب"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": "here"
+  },
+  "translations": {
+   "arabic_ar": "هنا",
+   "french_fr": "ici",
+   "german_de": "hier",
+   "spanish_es": "aquí",
+   "chinese_zh": "这里 (Zhèlǐ)",
+   "russian_ru": "здесь",
+   "portuguese_pt": "aqui",
+   "japanese_ja": "ここ (Koko)",
+   "italian_it": "qui",
+   "turkish_tr": "burada"
+  }
+ },
+ "provenance": {
+  "output_hash": "9d877edc8addb17c4ae4f15f14f19ab42b5493b6982c524877df51fb9ede07e4",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

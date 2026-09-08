@@ -1,0 +1,131 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1845",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1845",
+  "lemma": "nuclear",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1845,
+  "lemma": "nuclear",
+  "pos": "adj",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Nature & Science",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈnuːkliər",
+  "phonetic_uk": "ˈnjuːkliə",
+  "phonetic_ar": "نْيُوكْلِيَر",
+  "definition_en": "Relating to the energy released when atoms are split or joined together.",
+  "explanation_ar": "صفة تشير إلى ما يتعلق بالطاقة أو الأسلحة الناتجة عن شطر نواة الذرة أو دمجها، أو ما يرتبط بنواة الذرة عموما.",
+  "examples": [
+   {
+    "example_text": "Many countries use nuclear power to generate electricity.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "World leaders met to discuss the threat of nuclear weapons.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A typical nuclear family consists of parents and their children living together.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"nucleus\" التي تعني نواة الذرة فكلمة \"nuclear\" هي الصفة منها وتشير إلى كل ما يتعلق بالنواة وطاقتها.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Relating to the powerful energy or weapons produced by splitting or fusing atomic centers.",
+    "short_def_en": "relating to atomic energy or weapons",
+    "definition_ar": "متعلق بالطاقة الذرية او الاسلحة الناتجة عن انشطار الذرة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "energy",
+     "physics",
+     "military"
+    ],
+    "usage_note": "Most commonly used in collocations like nuclear energy, power, or weapon.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Relating to a basic family unit formed only by two parents and their children.",
+    "short_def_en": "relating to a two-parent family unit",
+    "definition_ar": "متعلق بالاسرة الصغيرة المكونة فقط من الابوين والاطفال",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "family",
+     "society",
+     "relationships"
+    ],
+    "usage_note": "Almost exclusively found in the set phrase nuclear family.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "nuclear energy",
+   "nuclear power",
+   "nuclear weapon",
+   "nuclear family",
+   "nuclear plant"
+  ],
+  "synonyms": [
+   "atomic"
+  ],
+  "antonyms": [
+   "non-nuclear",
+   "conventional"
+  ],
+  "related_words": {
+   "en": [
+    "atom",
+    "radiation",
+    "reactor",
+    "physics"
+   ],
+   "ar": [
+    "ذرة",
+    "إشعاع",
+    "مفاعل",
+    "فيزياء"
+   ]
+  },
+  "word_family": {
+   "noun": "nucleus",
+   "verb": "",
+   "adj": "nuclear",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "نَوَوِيّ",
+   "french_fr": "nucléaire",
+   "german_de": "nuklear",
+   "spanish_es": "nuclear",
+   "chinese_zh": "核子的 (hé zǐ de)",
+   "russian_ru": "ядерный",
+   "portuguese_pt": "nuclear",
+   "japanese_ja": "核の (kaku no)",
+   "italian_it": "nucleare",
+   "turkish_tr": "nükleer"
+  }
+ },
+ "provenance": {
+  "output_hash": "112eca04a1e4d0d8f5972b40fb635a9d9d6f3368b333b9727b0ee241e605d0c4",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

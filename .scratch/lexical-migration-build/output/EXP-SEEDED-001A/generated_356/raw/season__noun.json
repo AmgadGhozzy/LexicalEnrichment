@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "season",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "season",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "One of the four periods of the year (spring, summer, autumn, winter).",
+  "explanation_ar": "الموسم أو الفصل.. زي الصيف والشتاء، أو موسم الكورة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "One of the four periods of the year (spring, summer, autumn, or winter).",
+    "definition_ar": "فصل من فصول السنة الأربعة (الربيع، الصيف، الخريف، الشتاء)."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A specific period of the year during which a particular activity or event takes place.",
+    "definition_ar": "موسم أو فترة مخصصة لنشاط أو حدث معين (مثل موسم كرة القدم أو موسم الحصاد)."
+   }
+  ],
+  "examples": [
+   "Summer is my favorite season.",
+   "It is the rainy season.",
+   "The football season starts soon."
+  ],
+  "translations": [
+   "فصل",
+   "موسم"
+  ],
+  "relations": {
+   "synonyms": [
+    "period",
+    "time"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "four seasons",
+    "holiday season",
+    "in season",
+    "out of season"
+   ]
+  },
+  "mnemonic": "الـ 'Sea' 'البحر' بنروحه في 'Season' الصيف.",
+  "phonetic_us": "ˈsiːzən",
+  "phonetic_uk": "ˈsiːzən",
+  "syllables": "sea•son",
+  "semantic_tags": [
+   "Weather",
+   "Time",
+   "Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "One of the four periods of the year (spring, summer, autumn, winter).",
+  "explanation_ar": "الموسم أو الفصل.. زي الصيف والشتاء، أو موسم الكورة.",
+  "examples": [
+   "Summer is my favorite season.",
+   "It is the rainy season.",
+   "The football season starts soon."
+  ],
+  "translations": {
+   "arabic_ar": "فصل موسم"
+  },
+  "synonyms": [
+   "period",
+   "time"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "four seasons",
+   "holiday season",
+   "in season",
+   "out of season"
+  ],
+  "mnemonic_ar": "الـ 'Sea' 'البحر' بنروحه في 'Season' الصيف."
+ }
+}

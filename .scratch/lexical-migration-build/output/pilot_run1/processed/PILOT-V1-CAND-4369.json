@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4369",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4369",
+  "lemma": "citizenship",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4369,
+  "lemma": "citizenship",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈsɪtɪzənʃɪp",
+  "phonetic_uk": "ˈsɪtɪznʃɪp",
+  "phonetic_ar": "سِتيزِنْشِب",
+  "definition_en": "The legal status and rights of belonging to a particular country, or good community participation.",
+  "explanation_ar": "الصفة القانونية التي تجعل الشخص فردا معترفا به في دولة معينة، وتشمل أيضا أداء الواجبات والمشاركة الإيجابية في المجتمع.",
+  "examples": [
+   {
+    "example_text": "After living abroad for ten years, she decided to apply for dual citizenship.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Active citizenship requires individuals to participate in democratic decisions and local governance.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The school presented an award to honor her outstanding citizenship and service to others.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل كلمة \"city\" اي مدينة ومعها سفينة \"ship\"، والركاب الذين يحملون صفة الانتماء القانوني للمدينة يملكون هذه التذكرة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The state or legal right of being a full member of a nation.",
+    "short_def_en": "legal status of national belonging",
+    "definition_ar": "الجنسية او الصفة القانونية للمواطن في دولة ما",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "law",
+     "politics",
+     "nationality",
+     "identity"
+    ],
+    "usage_note": "Often used with verbs like apply for, grant, acquire, or renounce.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The duties, character, and responsible behavior of an individual within a social group or community.",
+    "short_def_en": "civic conduct and responsibility",
+    "definition_ar": "المواطنة الصالحة والمشاركة المسؤولة في المجتمع",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "society",
+     "ethics",
+     "community",
+     "duty"
+    ],
+    "usage_note": "Usually refers to active civic engagement or good moral conduct.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "dual citizenship",
+   "apply for citizenship",
+   "grant citizenship",
+   "active citizenship",
+   "good citizenship"
+  ],
+  "synonyms": [
+   "nationality"
+  ],
+  "antonyms": [
+   "statelessness"
+  ],
+  "related_words": {
+   "en": [
+    "citizen",
+    "passport",
+    "civic",
+    "naturalization",
+    "sovereignty"
+   ],
+   "ar": [
+    "مواطن",
+    "جواز سفر",
+    "مدني",
+    "تجنس",
+    "سيادة"
+   ]
+  },
+  "word_family": {
+   "noun": "citizen",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مواطنة / جنسية",
+   "french_fr": "citoyenneté",
+   "german_de": "Staatsbürgerschaft",
+   "spanish_es": "ciudadanía",
+   "chinese_zh": "公民身份 (Gōngmín shēnfèn)",
+   "russian_ru": "гражданство",
+   "portuguese_pt": "cidadania",
+   "japanese_ja": "市民権 (Shiminken)",
+   "italian_it": "cittadinanza",
+   "turkish_tr": "vatandaşlık"
+  }
+ },
+ "provenance": {
+  "output_hash": "0798809bca92f0785756cb61cb5c1f3a100232da964f1e9559cbc529c366949b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "precious",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "precious",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Of great value; not to be wasted or treated carelessly.",
+  "explanation_ar": "غالي جداً وثمين، سواء مادياً أو لقيمته المعنوية والعاطفية.",
+  "senses": [
+   {
+    "definition_en": "Of great value; not to be wasted or treated carelessly.",
+    "definition_ar": "ثمين أو نفيس، ذو قيمة مادية أو معنوية كبيرة.",
+    "examples": [
+     "Gold is a precious metal.",
+     "Don't waste precious time.",
+     "My family is precious to me."
+    ]
+   }
+  ],
+  "examples": [
+   "Gold is a precious metal.",
+   "Don't waste precious time.",
+   "My family is precious to me."
+  ],
+  "translations": [
+   "ثمين",
+   "نفيس",
+   "غالٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "valuable",
+    "cherished",
+    "dear"
+   ],
+   "antonyms": [
+    "worthless",
+    "cheap"
+   ],
+   "collocations": [
+    "precious metal",
+    "precious stone",
+    "precious time"
+   ]
+  },
+  "mnemonic": "زي 'Price' (سعر).. كلمة 'precious' بتفكرنا بالشيء اللي الـ 'Price' أو القيمة بتاعته عالية جداً.",
+  "phonetic_us": "ˈprɛʃəs",
+  "phonetic_uk": "ˈprɛʃəs",
+  "syllables": "pre•cious",
+  "semantic_tags": [
+   "Value",
+   "Love",
+   "Money"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Of great value; not to be wasted or treated carelessly.",
+  "explanation_ar": "غالي جداً وثمين، سواء مادياً أو لقيمته المعنوية والعاطفية.",
+  "examples": [
+   "Gold is a precious metal.",
+   "Don't waste precious time.",
+   "My family is precious to me."
+  ],
+  "translations": {
+   "arabic_ar": "ثمين نفيس غالٍ"
+  },
+  "synonyms": [
+   "valuable",
+   "cherished",
+   "dear"
+  ],
+  "antonyms": [
+   "worthless",
+   "cheap"
+  ],
+  "collocations": [
+   "precious metal",
+   "precious stone",
+   "precious time"
+  ],
+  "mnemonic_ar": "زي 'Price' (سعر).. كلمة 'precious' بتفكرنا بالشيء اللي الـ 'Price' أو القيمة بتاعته عالية جداً."
+ }
+}

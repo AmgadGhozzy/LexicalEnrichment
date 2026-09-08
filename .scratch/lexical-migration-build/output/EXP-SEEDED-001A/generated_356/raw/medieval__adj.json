@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "medieval",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "medieval",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to the Middle Ages (roughly 500–1500 AD).",
+  "explanation_ar": "متعلق بالعصور الوسطى في تاريخ أوروبا (زمن القلاع والفرسان).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Connected with or belonging to the Middle Ages (the historical period from roughly 500 to 1500 CE).",
+    "definition_ar": "مرتبط بفترة العصور الوسطى التاريخية.",
+    "examples": [
+     "We spent the afternoon exploring a medieval castle on the hill.",
+     "The museum features an impressive collection of medieval art."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Old-fashioned, primitive, or extremely harsh (informal/figurative).",
+    "definition_ar": "قديم جداً، متخلف، أو قاسٍ بشكل مبالغ فيه (استخدام مجازي).",
+    "examples": [
+     "The plumbing in this old building is positively medieval."
+    ]
+   }
+  ],
+  "examples": [
+   "We visited a medieval town in France.",
+   "The museum has a collection of medieval art.",
+   "Historians still debate the daily life of peasants in medieval Europe."
+  ],
+  "translations": [
+   "عائِدٌ إِلَى العُصُور الوُسْطَى",
+   "قُرُوسَطِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "feudal",
+    "Gothic",
+    "archaic"
+   ],
+   "antonyms": [
+    "modern",
+    "contemporary"
+   ],
+   "collocations": [
+    "medieval castle",
+    "medieval history",
+    "medieval architecture",
+    "medieval times"
+   ]
+  },
+  "mnemonic": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى (Middle Ages).",
+  "phonetic_us": "ˌmɛdiˈiːvəl",
+  "phonetic_uk": "ˌmedɪˈiːvəl",
+  "syllables": "me•di•e•val",
+  "semantic_tags": [
+   "#History",
+   "#MiddleAges",
+   "#Europe"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Relating to the Middle Ages (roughly 500–1500 AD).",
+  "explanation_ar": "متعلق بالعصور الوسطى في تاريخ أوروبا (زمن القلاع والفرسان).",
+  "examples": [
+   "We visited a medieval town in France.",
+   "The museum has a collection of medieval art.",
+   "Historians still debate the daily life of peasants in medieval Europe."
+  ],
+  "translations": {
+   "arabic_ar": "عائِدٌ إِلَى العُصُور الوُسْطَى قُرُوسَطِيّ"
+  },
+  "synonyms": [
+   "feudal",
+   "Gothic",
+   "archaic"
+  ],
+  "antonyms": [
+   "modern",
+   "contemporary"
+  ],
+  "collocations": [
+   "medieval castle",
+   "medieval history",
+   "medieval architecture",
+   "medieval times"
+  ],
+  "mnemonic_ar": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى (Middle Ages)."
+ }
+}

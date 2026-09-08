@@ -1,0 +1,154 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5118",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5118",
+  "lemma": "tense",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5118,
+  "lemma": "tense",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.95,
+  "phonetic_us": "tɛns",
+  "phonetic_uk": null,
+  "phonetic_ar": "تِنْس",
+  "definition_en": "Nervous, stressed, and unable to relax; causing anxiety or strain.",
+  "explanation_ar": "وصف للشخص القلق العاجز عن الاسترخاء، أو للموقف المليء بالضغط والترقب العصبي.",
+  "examples": [
+   {
+    "example_text": "He felt very tense before stepping onto the stage for his presentation.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "There was a tense silence in the meeting room after the bad news.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The border dispute created a tense situation between both nations.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"tension\" أي التوتر فالصفة \"tense\" تصف الشخص أو الموقف المتوتر المشدود مثل وتر الآلة الموسيقية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Feeling nervous, worried, and not able to relax.",
+    "short_def_en": "nervous and anxious",
+    "definition_ar": "متوتر وقلق وغير قادر على الهدوء",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "anxiety",
+     "stress",
+     "emotion"
+    ],
+    "usage_note": "Commonly used to describe people experiencing mental or emotional pressure.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Causing anxiety or making people feel uncertain and nervous.",
+    "short_def_en": "causing anxiety or strain",
+    "definition_ar": "مشحون ومثير للقلق والترقب",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "conflict",
+     "atmosphere",
+     "pressure"
+    ],
+    "usage_note": "Used for situations, moments, or atmospheres, such as a tense standoff.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "Tight, stiff, and not relaxed, especially referring to muscles.",
+    "short_def_en": "stretched tight or stiff",
+    "definition_ar": "مشدود او مصلب في العضلات",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "body",
+     "muscles",
+     "physical state"
+    ],
+    "usage_note": "Refers to physical rigidity or tightness in the body.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "tense situation",
+   "tense moment",
+   "tense atmosphere",
+   "tense muscles",
+   "grow tense"
+  ],
+  "synonyms": [
+   "anxious",
+   "nervous",
+   "strained",
+   "stressed",
+   "taut"
+  ],
+  "antonyms": [
+   "relaxed",
+   "calm",
+   "loose"
+  ],
+  "related_words": {
+   "en": [
+    "tension",
+    "stress",
+    "worry",
+    "strain",
+    "pressure"
+   ],
+   "ar": [
+    "توتر",
+    "ضغط عصبي",
+    "قلق",
+    "إجهاد",
+    "ضغط"
+   ]
+  },
+  "word_family": {
+   "noun": "tension",
+   "verb": "tense",
+   "adj": "tense",
+   "adv": "tensely"
+  },
+  "translations": {
+   "arabic_ar": "متوتر / مشدود",
+   "french_fr": "tendu",
+   "german_de": "angespannt",
+   "spanish_es": "tenso",
+   "chinese_zh": "紧张的 (jǐnzhāng de)",
+   "russian_ru": "напряжённый",
+   "portuguese_pt": "tenso",
+   "japanese_ja": "緊張した (Kinchō shita)",
+   "italian_it": "teso",
+   "turkish_tr": "gergin"
+  }
+ },
+ "provenance": {
+  "output_hash": "4123a11fa5115cdd26688901ae759dbbdb7d39bf0efe501e593e40b1234b11c0",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

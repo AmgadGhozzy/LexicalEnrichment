@@ -1,0 +1,92 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0001": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "tie",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "Arm A includes noun-sense examples under exclamation POS: 'Ladies and gentlemen, may I have your attention?' and 'Attention to detail is critical in this job.'"
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes examples where 'attention' functions as a common noun rather than the exclamation/interjection POS specified in the contract. Arm B strictly adheres to the exclamatory sense in definition, Arabic gloss, and all examples."
+  },
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal MSA explanation and accurate translations including playing cards ('ورقة لعب'). Arm B lists loosely related synonyms ('ticket', 'pass', 'badge') which are not direct synonyms of the general noun 'card', whereas Arm A provides valid collocations. Arm A's mnemonic directly connects to the familiar loanword 'كارت'."
+  }
+ },
+ "attempts": {
+  "EVAL-BLIND-V1-0001": 6,
+  "EVAL-BLIND-V1-0002": 5
+ }
+}

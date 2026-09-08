@@ -1,0 +1,83 @@
+{
+ "scope": "348 evaluated cards (EXP-SEEDED-001A advisory)",
+ "cards": 348,
+ "g3_actions": {
+  "keep": 1397,
+  "promote": 1387,
+  "manual": 348
+ },
+ "g3_per_field": {
+  "definition_en": {
+   "keep": 298,
+   "promote": 50
+  },
+  "examples": {
+   "keep": 185,
+   "promote": 163
+  },
+  "explanation_ar": {
+   "promote": 77,
+   "keep": 271
+  },
+  "mnemonic": {
+   "keep": 325,
+   "promote": 23
+  },
+  "relations_antonyms": {
+   "promote": 232,
+   "keep": 116
+  },
+  "relations_collocations": {
+   "promote": 345,
+   "keep": 3
+  },
+  "relations_synonyms": {
+   "promote": 328,
+   "keep": 20
+  },
+  "sense_separation": {
+   "manual": 348
+  },
+  "translations": {
+   "promote": 169,
+   "keep": 179
+  }
+ },
+ "provenance_gap_cards": [
+  "billion/num"
+ ],
+ "provenance_gap_count": 1,
+ "g1_identity": {
+  "exact_lemma_pos_11": 356,
+  "missing": 0,
+  "multi": 0
+ },
+ "cefr_drift": [
+  [
+   "deal/verb",
+   "A2",
+   "B1"
+  ],
+  [
+   "double/pron",
+   "A2",
+   "B1"
+  ],
+  [
+   "spell/verb",
+   "A1",
+   "C1"
+  ]
+ ],
+ "source_inputs": {
+  "eval_input": "86b3ea701153370130172c74a9147e6f65b54d2773652f79f3596e7177512545",
+  "eval_identity_map_len": 348,
+  "decode_analysis": "7485e017144da283b6bf13f10b109b880dd55f3b3dd60a6d71db86f2d9aa493a",
+  "batch_merge": {
+   "requests_a_input": "c72019e262d20ade586dc21c452a116d632c81518a2be5b34ea256e02a6eb831",
+   "requests_b_input": "23f7e33117e97e12bdd90814eee0f8d83692b094bb86bcd258f249041ed5001b"
+  },
+  "canonical_writes_in_merge": 0,
+  "wordsMaster_readonly": "/home/aamgadghozzy/projects/LexicalEnrichment/WordsMaster.db"
+ }
+}

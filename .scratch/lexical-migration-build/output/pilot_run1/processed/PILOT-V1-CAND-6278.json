@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6278",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6278",
+  "lemma": "lyric",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6278,
+  "lemma": "lyric",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈlɪrɪk",
+  "phonetic_uk": null,
+  "phonetic_ar": "لِيرِك",
+  "definition_en": "The words of a song, or a short poem expressing personal feelings.",
+  "explanation_ar": "كلمات أغنية، أو قصيدة غنائية قصيرة تعبر عن مشاعر شخصية.",
+  "examples": [
+   {
+    "example_text": "She wrote every single lyric of the title track herself.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "A thoughtful lyric can turn a simple melody into a classic.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The poet published a delicate lyric reflecting on lost youth.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة قيثارة بالإنجليزية \"lyre\" وهي آلة موسيقية قديمة، فكلمة \"lyric\" تعني أصلا كلمات تصاحب عزف الموسيقى",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The text or words of a song.",
+    "short_def_en": "words of a song",
+    "definition_ar": "نص الاغنية او الكلمات المغناة وغالبا ما تستخدم بصيغة الجمع",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "music",
+     "songs",
+     "writing"
+    ],
+    "usage_note": "Frequently used in the plural form lyrics to refer to all the words of a track.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A short poem that directly expresses the writer's personal emotions and thoughts.",
+    "short_def_en": "personal emotional poem",
+    "definition_ar": "قصيدة وجدانية قصيرة تعبر عن مشاعر شخصية",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "poetry",
+     "literature",
+     "art"
+    ],
+    "usage_note": "Common in literary analysis of romantic and classical poetry.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "song lyric",
+   "clever lyric",
+   "write a lyric",
+   "lyric sheet"
+  ],
+  "synonyms": [
+   "verse",
+   "poem",
+   "words",
+   "text"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "melody",
+    "rhyme",
+    "songwriter",
+    "stanza",
+    "vocal"
+   ],
+   "ar": [
+    "لحن",
+    "قافية",
+    "كاتب أغان",
+    "مقطع شعري",
+    "صوتي"
+   ]
+  },
+  "word_family": {
+   "noun": "lyricist",
+   "verb": "",
+   "adj": "lyrical",
+   "adv": "lyrically"
+  },
+  "translations": {
+   "arabic_ar": "كلمات أغنية / قصيدة غنائية",
+   "french_fr": "parole / poème lyrique",
+   "german_de": "Liedtext / Lyrik",
+   "spanish_es": "letra / poema lírico",
+   "chinese_zh": "歌词 (Gēcí) / 抒情诗 (Shūqíngshī)",
+   "russian_ru": "текст песни / лирическое стихотворение",
+   "portuguese_pt": "letra / poema lírico",
+   "japanese_ja": "歌詞 (Kashi) / 抒情詩 (Jojōshi)",
+   "italian_it": "testo di una canzone / lirica",
+   "turkish_tr": "şarkı sözü / lirik şiir"
+  }
+ },
+ "provenance": {
+  "output_hash": "db3288906da5fde23eef35c7560a354ca61721de5569052e0a68ea9084f7cd0e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

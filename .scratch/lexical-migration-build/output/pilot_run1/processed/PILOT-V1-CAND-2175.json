@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2175",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2175",
+  "lemma": "editor",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2175,
+  "lemma": "editor",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɛdɪtər",
+  "phonetic_uk": "ˈedɪtə",
+  "phonetic_ar": "إِدِتَر",
+  "definition_en": "A person responsible for checking, correcting, and preparing texts, films, or newspapers for publication.",
+  "explanation_ar": "الشخص المسؤول عن مراجعة النصوص أو المواد الإعلامية وتصحيحها وإعدادها قبل النشر أو العرض.",
+  "examples": [
+   {
+    "example_text": "The newspaper editor decided to put the story on the front page.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She sent her completed book draft to the editor for final corrections.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A skilled film editor can dramatically change the mood of a scene.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"edit\" اي يعدل ويصحح واضف عليها اللاحقة \"or\" التي تدل على الشخص الفاعل لتصبح الشخص الذي يقوم بالتعديل والمراجعة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person who prepares text, articles, or books by correcting errors and improving style.",
+    "short_def_en": "text or publication supervisor",
+    "definition_ar": "محرر صحفي او لغوي يتولى تصحيح النصوص وتجهيزها للطباعة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "publishing",
+     "journalism",
+     "media",
+     "writing"
+    ],
+    "usage_note": "Can refer both to the person in charge of a department (e.g., sports editor) and to someone doing line editing.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A computer program used to write, change, or format text or code.",
+    "short_def_en": "software for editing",
+    "definition_ar": "برنامج حاسوبي يستخدم لكتابة وتعديل النصوص او الشيفرات البرمجية",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "computing",
+     "software",
+     "technology"
+    ],
+    "usage_note": "Often seen in compounds like text editor or code editor.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "chief editor",
+   "managing editor",
+   "newspaper editor",
+   "text editor",
+   "letter to the editor"
+  ],
+  "synonyms": [
+   "proofreader",
+   "reviser",
+   "compiler"
+  ],
+  "antonyms": [
+   "author",
+   "writer"
+  ],
+  "related_words": {
+   "en": [
+    "journalism",
+    "publishing",
+    "manuscript",
+    "article",
+    "revision"
+   ],
+   "ar": [
+    "صحافة",
+    "نشر",
+    "مخطوطة",
+    "مقال",
+    "مراجعة"
+   ]
+  },
+  "word_family": {
+   "noun": "edition",
+   "verb": "edit",
+   "adj": "editorial",
+   "adv": "editorially"
+  },
+  "translations": {
+   "arabic_ar": "محرر / رئيس تحرير",
+   "french_fr": "éditeur / rédacteur en chef",
+   "german_de": "Redakteur / Herausgeber",
+   "spanish_es": "editor / redactor",
+   "chinese_zh": "编辑 (Biānjí)",
+   "russian_ru": "редактор",
+   "portuguese_pt": "editor / redator",
+   "japanese_ja": "編集者 (Henshūsha)",
+   "italian_it": "redattore / curatore",
+   "turkish_tr": "editör / yazı işleri müdürü"
+  }
+ },
+ "provenance": {
+  "output_hash": "1f6eef93cada18714de21b43d9deeb599ce26f1d4594e0f6af0cf17d7cb5e066",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7223",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7223",
+  "lemma": "inhabitant",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7223,
+  "lemma": "inhabitant",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɪnˈhæb.ə.tənt",
+  "phonetic_uk": "ɪnˈhæb.ɪ.tənt",
+  "phonetic_ar": "إِنْهَابِتَانْت",
+  "definition_en": "A person or animal that lives permanently or regularly in a particular place.",
+  "explanation_ar": "شخص أو كائن حي يقيم أو يعيش بصورة دائمة أو معتادة في مكان معين كمدينة أو جزيرة.",
+  "examples": [
+   {
+    "example_text": "Every inhabitant of the village took part in the annual harvest festival.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The small island has only one permanent inhabitant during the winter months.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "As an inhabitant of this coastal city, she is deeply concerned about rising sea levels.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة habit اي عادة ومسكن قديم فمن يقيم in مكان كعادة مستمرة هو ساكن او inhabitant",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person or animal that lives permanently or regularly in a particular place.",
+    "short_def_en": "person living in a place",
+    "definition_ar": "شخص او كائن حي يستوطن مكانا معينا ويعيش فيه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "population",
+     "residence",
+     "geography"
+    ],
+    "usage_note": "Often used in formal, official, or demographic contexts rather than casual conversation.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "local inhabitant",
+   "permanent inhabitant",
+   "island inhabitant",
+   "native inhabitant",
+   "city inhabitant"
+  ],
+  "synonyms": [
+   "resident",
+   "dweller",
+   "occupant",
+   "denizen"
+  ],
+  "antonyms": [
+   "visitor",
+   "tourist",
+   "transient"
+  ],
+  "related_words": {
+   "en": [
+    "population",
+    "community",
+    "settlement",
+    "citizen"
+   ],
+   "ar": [
+    "سكان",
+    "مجتمع",
+    "مستوطنة",
+    "مواطن"
+   ]
+  },
+  "word_family": {
+   "noun": "habitation",
+   "verb": "inhabit",
+   "adj": "habitable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ساكن / قاطن",
+   "french_fr": "habitant",
+   "german_de": "Einwohner",
+   "spanish_es": "habitante",
+   "chinese_zh": "居民 (Jūmín)",
+   "russian_ru": "житель",
+   "portuguese_pt": "habitante",
+   "japanese_ja": "住民 (Jūmin)",
+   "italian_it": "abitante",
+   "turkish_tr": "sakin"
+  }
+ },
+ "provenance": {
+  "output_hash": "2399e091963dbc34fe71ea7b42046b34deafeffbab3a40c19f3e909fe7b1049e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

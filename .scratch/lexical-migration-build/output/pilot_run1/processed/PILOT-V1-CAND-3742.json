@@ -1,0 +1,121 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3742",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3742",
+  "lemma": "civilian",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3742,
+  "lemma": "civilian",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "səˈvɪljən",
+  "phonetic_uk": null,
+  "phonetic_ar": "سِفِليان",
+  "definition_en": "A person who is not a member of the armed forces or police.",
+  "explanation_ar": "شخص مدني ليس فردا في الجيش أو الشرطة ولا يرتدي زيا عسكريا.",
+  "examples": [
+   {
+    "example_text": "The international treaty aims to protect every civilian during times of armed conflict.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "After completing his military service, he found it challenging to adapt as an ordinary civilian.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "A trained civilian assisted the rescue team until emergency personnel arrived at the scene.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة civil اي مدني او حضاري وكلمة civilian تعني ببساطة الشخص المدني غير العسكري",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person who is not serving in the armed forces or police.",
+    "short_def_en": "non-military person",
+    "definition_ar": "شخص مدني غير منتم للقوات المسلحة او اجهزة الامن",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "military",
+     "society",
+     "law",
+     "citizenship"
+    ],
+    "usage_note": "Commonly contrasted with soldiers, combatants, or police officers.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "innocent civilian",
+   "civilian casualties",
+   "civilian life",
+   "civilian population",
+   "ordinary civilian"
+  ],
+  "synonyms": [
+   "non-combatant",
+   "citizen",
+   "private citizen"
+  ],
+  "antonyms": [
+   "soldier",
+   "combatant",
+   "military"
+  ],
+  "related_words": {
+   "en": [
+    "civil",
+    "military",
+    "casualty",
+    "citizen",
+    "warfare"
+   ],
+   "ar": [
+    "مدني",
+    "عسكري",
+    "ضحية",
+    "مواطن",
+    "حرب"
+   ]
+  },
+  "word_family": {
+   "noun": "civilian",
+   "verb": "civilize",
+   "adj": "civilian",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مدني",
+   "french_fr": "civil",
+   "german_de": "Zivilist",
+   "spanish_es": "civil",
+   "chinese_zh": "平民 (Píngmín)",
+   "russian_ru": "гражданский",
+   "portuguese_pt": "civil",
+   "japanese_ja": "民間人 (Minkanjin)",
+   "italian_it": "civile",
+   "turkish_tr": "sivil"
+  }
+ },
+ "provenance": {
+  "output_hash": "fb0e902f701b4f1ad6cdd57e2942a171274e3a95d17b99fa64977eb42812b344",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

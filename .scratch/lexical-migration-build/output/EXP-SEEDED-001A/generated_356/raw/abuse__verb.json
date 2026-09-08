@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "abuse",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "abuse",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To use something to bad effect or for a bad purpose; to treat with cruelty.",
+  "explanation_ar": "إنك تستخدم حاجة غلط، أو تعامل حد معاملة وحشة وعنيفة.",
+  "senses": [
+   {
+    "definition_en": "To use something in a bad, harmful, or dishonest way.",
+    "definition_ar": "يسيء استخدام شيء (مثل السلطة أو الثقة).",
+    "examples": [
+     "People often abuse alcohol when they are stressed.",
+     "Don't abuse the hospitality of your hosts."
+    ]
+   },
+   {
+    "definition_en": "To treat a person or animal with cruelty or violence.",
+    "definition_ar": "يعامل شخصًا أو كائنًا بقسوة أو عنف.",
+    "examples": [
+     "Do not abuse animals."
+    ]
+   }
+  ],
+  "examples": [
+   "Do not abuse animals.",
+   "People often abuse alcohol when they are stressed.",
+   "Don't abuse the hospitality of your hosts."
+  ],
+  "translations": [
+   "يسيء استخدام",
+   "يعامل بقسوة"
+  ],
+  "relations": {
+   "synonyms": [
+    "misuse",
+    "mistreat",
+    "exploit",
+    "harm"
+   ],
+   "antonyms": [
+    "cherish",
+    "protect",
+    "respect"
+   ],
+   "collocations": [
+    "abuse power",
+    "abuse trust",
+    "abuse drugs",
+    "abuse rights"
+   ]
+  },
+  "mnemonic": "الفعل من 'Use' يستخدم.. 'Abuse' يسيء الاستخدام.",
+  "phonetic_us": "əˈbjuːz",
+  "phonetic_uk": "əˈbjuːz",
+  "syllables": "a·buse",
+  "semantic_tags": [
+   "#Violence",
+   "#Harm",
+   "#Misuse"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To use something to bad effect or for a bad purpose; to treat with cruelty.",
+  "explanation_ar": "إنك تستخدم حاجة غلط، أو تعامل حد معاملة وحشة وعنيفة.",
+  "examples": [
+   "Do not abuse animals.",
+   "People often abuse alcohol when they are stressed.",
+   "Don't abuse the hospitality of your hosts."
+  ],
+  "translations": {
+   "arabic_ar": "يسيء استخدام يعامل بقسوة"
+  },
+  "synonyms": [
+   "misuse",
+   "mistreat",
+   "exploit",
+   "harm"
+  ],
+  "antonyms": [
+   "cherish",
+   "protect",
+   "respect"
+  ],
+  "collocations": [
+   "abuse power",
+   "abuse trust",
+   "abuse drugs",
+   "abuse rights"
+  ],
+  "mnemonic_ar": "الفعل من 'Use' يستخدم.. 'Abuse' يسيء الاستخدام."
+ }
+}

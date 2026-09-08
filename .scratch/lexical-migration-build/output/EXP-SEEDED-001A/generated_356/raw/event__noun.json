@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "event",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "event",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A thing that happens, especially one of importance.",
+  "explanation_ar": "حدث أو مناسبة مهمة. زي حفلة، اجتماع، أو حتى ماتش كورة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A thing that happens, especially one of importance or an organized public occasion.",
+    "explanation_ar": "حدث أو مناسبة مهمة ومخطط لها.",
+    "examples": [
+     "It was a big event.",
+     "The party is a fun event.",
+     "The Olympics is a sporting event."
+    ]
+   }
+  ],
+  "examples": [
+   "It was a big event.",
+   "The party is a fun event.",
+   "The Olympics is a sporting event."
+  ],
+  "translations": [
+   "حدث",
+   "مناسبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "occasion",
+    "happening",
+    "incident"
+   ],
+   "antonyms": [
+    "non-event"
+   ],
+   "collocations": [
+    "sporting event",
+    "social event",
+    "main event",
+    "in the event of"
+   ]
+  },
+  "mnemonic": "كلمة 'Event' قريبة من 'Invent'.. الـ 'Event' هو حاجة بتحصل وممكن نـ 'Invent' 'نبتكر' فيها.",
+  "phonetic_us": "ɪˈvɛnt",
+  "phonetic_uk": "ɪˈvent",
+  "syllables": "e-vent",
+  "semantic_tags": [
+   "#Happening",
+   "#Time",
+   "#Social"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing that happens, especially one of importance.",
+  "explanation_ar": "حدث أو مناسبة مهمة. زي حفلة، اجتماع، أو حتى ماتش كورة.",
+  "examples": [
+   "It was a big event.",
+   "The party is a fun event.",
+   "The Olympics is a sporting event."
+  ],
+  "translations": {
+   "arabic_ar": "حدث مناسبة"
+  },
+  "synonyms": [
+   "occasion",
+   "happening",
+   "incident"
+  ],
+  "antonyms": [
+   "non-event"
+  ],
+  "collocations": [
+   "sporting event",
+   "social event",
+   "main event",
+   "in the event of"
+  ],
+  "mnemonic_ar": "كلمة 'Event' قريبة من 'Invent'.. الـ 'Event' هو حاجة بتحصل وممكن نـ 'Invent' 'نبتكر' فيها."
+ }
+}

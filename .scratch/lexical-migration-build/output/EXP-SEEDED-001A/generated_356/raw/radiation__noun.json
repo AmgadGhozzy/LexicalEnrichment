@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "radiation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "radiation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+  "explanation_ar": "الإشعاع: طاقة تنتقل على شكل موجات أو جسيمات، قد تكون طبيعية ومفيدة مثل أشعة الشمس أو خطيرة مثل الإشعاع النووي.",
+  "senses": [
+   {
+    "definition_en": "Energy sent out in the form of electromagnetic waves or moving subatomic particles.",
+    "definition_ar": "طاقة منبعثة في شكل موجات كهرومغناطيسية أو جسيمات ذرية.",
+    "examples": [
+     "The ozone layer protects us from ultraviolet radiation.",
+     "They measured the levels of radiation in the area.",
+     "Radiation therapy is used to treat cancer."
+    ]
+   }
+  ],
+  "examples": [
+   "The ozone layer protects us from ultraviolet radiation.",
+   "They measured the levels of radiation in the area.",
+   "Radiation therapy is used to treat cancer."
+  ],
+  "translations": [
+   "إشعاع"
+  ],
+  "relations": {
+   "synonyms": [
+    "emission",
+    "radioactivity"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "solar radiation",
+    "nuclear radiation",
+    "radiation therapy",
+    "radiation levels",
+    "ultraviolet radiation"
+   ],
+   "word_family": {
+    "noun": "radiation",
+    "verb": "radiate",
+    "adjective": "radioactive"
+   }
+  },
+  "mnemonic": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' (الإشعاع الكهرومغناطيسي).",
+  "phonetic_us": "ˌreɪdiˈeɪʃən",
+  "phonetic_uk": "ˌreɪdiˈeɪʃn",
+  "syllables": "ra•di•a•tion",
+  "semantic_tags": [
+   "#Physics",
+   "#Nuclear",
+   "#Energy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Energy that moves in waves or particles, like heat, light, or nuclear energy.",
+  "explanation_ar": "الإشعاع: طاقة تنتقل على شكل موجات أو جسيمات، قد تكون طبيعية ومفيدة مثل أشعة الشمس أو خطيرة مثل الإشعاع النووي.",
+  "examples": [
+   "The ozone layer protects us from ultraviolet radiation.",
+   "They measured the levels of radiation in the area.",
+   "Radiation therapy is used to treat cancer."
+  ],
+  "translations": {
+   "arabic_ar": "إشعاع"
+  },
+  "synonyms": [
+   "emission",
+   "radioactivity"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "solar radiation",
+   "nuclear radiation",
+   "radiation therapy",
+   "radiation levels",
+   "ultraviolet radiation"
+  ],
+  "mnemonic_ar": "جاية من 'Radio'.. الراديو بيشتغل عن طريق موجات الـ 'Radiation' (الإشعاع الكهرومغناطيسي)."
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3439",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3439",
+  "lemma": "wisdom",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3439,
+  "lemma": "wisdom",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈwɪzdəm",
+  "phonetic_uk": null,
+  "phonetic_ar": "وِزْدَم",
+  "definition_en": "The ability to use knowledge and experience to make sensible decisions and good judgments.",
+  "explanation_ar": "القدرة على استخدام المعرفة والخبرة الحياتية لاتخاذ قرارات صائبة وأحكام سديدة؛ الحكمة.",
+  "examples": [
+   {
+    "example_text": "She gained a great deal of wisdom through years of teaching in different countries.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Before signing the long-term contract, he questioned the wisdom of such a risky investment.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Many people turned to the community elder for her practical advice and wisdom.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الشخص الحكيم \"wise\" يمتلك دوم \"dom\" الحكمة، مثل \"kingdom\" مملكة الحكيم.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The ability to use knowledge and experience to make sensible decisions and good judgments.",
+    "short_def_en": "ability to judge wisely",
+    "definition_ar": "القدرة على اتخاذ قرارات سديدة بناء على المعرفة والخبرة المتراكمة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "intelligence",
+     "judgment",
+     "philosophy",
+     "maturity"
+    ],
+    "usage_note": "Commonly treated as an uncountable abstract noun.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A collection of knowledge, wise beliefs, or teachings accumulated over time by a group or culture.",
+    "short_def_en": "accumulated traditional knowledge",
+    "definition_ar": "مجموعة المعارف والمفاهيم المتوارثة التي تنتقل عبر الأجيال",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "tradition",
+     "culture",
+     "knowledge"
+    ],
+    "usage_note": "Often seen in phrases like 'conventional wisdom' or 'ancient wisdom'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "conventional wisdom",
+   "ancient wisdom",
+   "words of wisdom",
+   "accumulated wisdom",
+   "question the wisdom"
+  ],
+  "synonyms": [
+   "sagacity",
+   "insight",
+   "discernment",
+   "prudence",
+   "judiciousness"
+  ],
+  "antonyms": [
+   "folly",
+   "foolishness",
+   "stupidity"
+  ],
+  "related_words": {
+   "en": [
+    "knowledge",
+    "experience",
+    "insight",
+    "philosophy",
+    "sage",
+    "judgment"
+   ],
+   "ar": [
+    "معرفة",
+    "خبرة",
+    "بصيرة",
+    "فلسفة",
+    "حكيم",
+    "حكم"
+   ]
+  },
+  "word_family": {
+   "noun": "wisdom",
+   "verb": "",
+   "adj": "wise",
+   "adv": "wisely"
+  },
+  "translations": {
+   "arabic_ar": "حكمة",
+   "french_fr": "sagesse",
+   "german_de": "Weisheit",
+   "spanish_es": "sabiduría",
+   "chinese_zh": "智慧 (zhìhuì)",
+   "russian_ru": "мудрость",
+   "portuguese_pt": "sabedoria",
+   "japanese_ja": "知恵 (Chie)",
+   "italian_it": "saggezza",
+   "turkish_tr": "bilgelik"
+  }
+ },
+ "provenance": {
+  "output_hash": "d524215b5af708c1fcc8a5c9f07653075632044f6104e730433d23e475ec6105",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "identity": {
+  "cefr": "A2",
+  "lemma": "dolphin",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "dolphin",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+  "explanation_ar": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+  "senses": [
+   {
+    "definition_en": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+    "definition_ar": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+    "pos": "noun",
+    "examples": [
+     "The dolphin swims fast.",
+     "I saw a dolphin in the sea.",
+     "A dolphin jumped out of the water next to our boat."
+    ]
+   }
+  ],
+  "examples": [
+   "The dolphin swims fast.",
+   "I saw a dolphin in the sea.",
+   "A dolphin jumped out of the water next to our boat."
+  ],
+  "translations": [
+   "دلفين"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "bottlenose dolphin",
+    "playful dolphin"
+   ]
+  },
+  "mnemonic": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب.",
+  "phonetic_us": "ˈdɑːlfɪn",
+  "phonetic_uk": "ˈdɒlfɪn",
+  "syllables": "dol•phin",
+  "semantic_tags": [
+   "#Sea",
+   "#Mammal",
+   "#Intelligent"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+  "explanation_ar": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+  "examples": [
+   "The dolphin swims fast.",
+   "I saw a dolphin in the sea.",
+   "A dolphin jumped out of the water next to our boat."
+  ],
+  "translations": {
+   "arabic_ar": "دلفين"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "bottlenose dolphin",
+   "playful dolphin"
+  ],
+  "mnemonic_ar": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب."
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2265",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2265",
+  "lemma": "instance",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2265,
+  "lemma": "instance",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɪnstəns",
+  "phonetic_uk": null,
+  "phonetic_ar": "إنْسْتَانْس",
+  "definition_en": "A particular example or single occurrence of something.",
+  "explanation_ar": "حالة أو نموذج محدد يمثل حدوث شيء ما أو يوضح فكرة عامة.",
+  "examples": [
+   {
+    "example_text": "This is a clear instance of how bad communication leads to delays.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "In the first instance, you should contact customer support directly.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "There was only one recorded instance of equipment failure this year.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر عبارة for instance الشهيرة التي تعني على سبيل المثال، فكلمة \"instance\" بحد ذاتها تعني مثال أو حالة ملموسة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A specific example or case that illustrates a general situation.",
+    "short_def_en": "specific example or case",
+    "definition_ar": "مثال محدد أو حالة توضح فكرة أو وضعا عاما",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "examples",
+     "evidence",
+     "cases"
+    ],
+    "usage_note": "Frequently used in the fixed phrase 'for instance' to introduce an example.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A single occurrence or event of a particular kind.",
+    "short_def_en": "particular occurrence",
+    "definition_ar": "واقعة أو حالة حدوث مفردة لأمر ما",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "occurrence",
+     "frequency",
+     "events"
+    ],
+    "usage_note": "Common in formal or technical contexts when counting incidents.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "for instance",
+   "in this instance",
+   "in the first instance",
+   "a rare instance",
+   "a classic instance"
+  ],
+  "synonyms": [
+   "example",
+   "case",
+   "occurrence",
+   "illustration",
+   "specimen"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "example",
+    "sample",
+    "occurrence",
+    "incident",
+    "situation"
+   ],
+   "ar": [
+    "مثال",
+    "عينة",
+    "حدوث",
+    "حادثة",
+    "موقف"
+   ]
+  },
+  "word_family": {
+   "noun": "instance",
+   "verb": "instance",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مثال / حالة / واقعة",
+   "french_fr": "exemple",
+   "german_de": "Beispiel",
+   "spanish_es": "ejemplo",
+   "chinese_zh": "例子 (Lìzi)",
+   "russian_ru": "пример",
+   "portuguese_pt": "exemplo",
+   "japanese_ja": "例 (Rei)",
+   "italian_it": "esempio",
+   "turkish_tr": "örnek"
+  }
+ },
+ "provenance": {
+  "output_hash": "516c113cb1dec75af00b58be2299d03feabbc8b2837450b10c28ac95b687387a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

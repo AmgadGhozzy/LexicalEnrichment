@@ -1,0 +1,1816 @@
+{
+ "n_cards": 30,
+ "per_field": {
+  "definition": {
+   "n": 30,
+   "agree": 26,
+   "flip": 0,
+   "abstain": 0,
+   "mismatch": 4,
+   "legacy_only": 0,
+   "candidate_only": 5
+  },
+  "arabic_explanation": {
+   "n": 30,
+   "agree": 26,
+   "flip": 0,
+   "abstain": 0,
+   "mismatch": 4,
+   "legacy_only": 1,
+   "candidate_only": 9
+  },
+  "sense_separation": {
+   "n": 30,
+   "agree": 16,
+   "flip": 0,
+   "abstain": 10,
+   "mismatch": 4,
+   "legacy_only": 0,
+   "candidate_only": 1
+  },
+  "examples": {
+   "n": 30,
+   "agree": 12,
+   "flip": 6,
+   "abstain": 0,
+   "mismatch": 12,
+   "legacy_only": 6,
+   "candidate_only": 24
+  },
+  "translations": {
+   "n": 30,
+   "agree": 19,
+   "flip": 1,
+   "abstain": 0,
+   "mismatch": 10,
+   "legacy_only": 0,
+   "candidate_only": 7
+  },
+  "relations": {
+   "n": 30,
+   "agree": 21,
+   "flip": 1,
+   "abstain": 0,
+   "mismatch": 8,
+   "legacy_only": 1,
+   "candidate_only": 20
+  },
+  "mnemonic": {
+   "n": 30,
+   "agree": 26,
+   "flip": 0,
+   "abstain": 0,
+   "mismatch": 4,
+   "legacy_only": 0,
+   "candidate_only": 2
+  }
+ },
+ "agreement": {
+  "overall": 0.6952,
+  "per_field": {
+   "definition": 0.8667,
+   "arabic_explanation": 0.8667,
+   "sense_separation": 0.5333,
+   "examples": 0.4,
+   "translations": 0.6333,
+   "relations": 0.7,
+   "mnemonic": 0.8667
+  },
+  "watch_fields": {
+   "translations": 0.6333,
+   "relations": 0.7,
+   "sense_separation": 0.5333
+  }
+ },
+ "human_v3_criticals": [
+  [
+   "eval_seeded348_v1-0018",
+   "invalid_relation_synonym",
+   "A"
+  ],
+  [
+   "eval_seeded348_v1-0093",
+   "invalid_relation_synonym",
+   "B"
+  ],
+  [
+   "eval_seeded348_v1-0119",
+   "invalid_relation_synonym",
+   "A"
+  ],
+  [
+   "eval_seeded348_v1-0287",
+   "invalid_relation_synonym",
+   "B"
+  ],
+  [
+   "eval_seeded348_v1-0311",
+   "invalid_relation_synonym",
+   "B"
+  ]
+ ],
+ "ai_v3_criticals": [
+  [
+   "eval_seeded348_v1-0010",
+   "example_semantic_error",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0010",
+   "invalid_relation_synonym",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0040",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0071",
+   "example_semantic_error",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0072",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0093",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0114",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0149",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0166",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0208",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0273",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0287",
+   "invalid_relation_synonym",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0287",
+   "target_word_violation",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0311",
+   "invalid_relation_synonym",
+   "legacy"
+  ],
+  [
+   "eval_seeded348_v1-0336",
+   "target_word_violation",
+   "legacy"
+  ]
+ ],
+ "non_v3_human_criticals": [
+  [
+   "eval_seeded348_v1-0071",
+   "example_sense_error",
+   "A",
+   "'a great deal of work' (quantity sense) and 'raw deal' (treatment sense) are not covered by the agreement/transaction definition."
+  ],
+  [
+   "eval_seeded348_v1-0072",
+   "example_sense_error",
+   "A",
+   "A (legacy) includes 'deal a blow to the regime'; the displayed A definition covers deal-with and cards only, and the full record (candidate senses 1-2) also does NOT separate the 'deal a blow' sense => example_sense_error on A per the reviewer's conditional rule."
+  ],
+  [
+   "eval_seeded348_v1-0245",
+   "mnemonic_quality_error",
+   "A",
+   "Volcano is a weak indirect association for 'provoke' (note: shared mnemonic text; flaw attached to side A per the reviewer)."
+  ]
+ ],
+ "critical_overlap": [
+  [
+   "eval_seeded348_v1-0287",
+   "invalid_relation_synonym"
+  ],
+  [
+   "eval_seeded348_v1-0311",
+   "invalid_relation_synonym"
+  ]
+ ],
+ "critical_human_only": [
+  [
+   "eval_seeded348_v1-0018",
+   "invalid_relation_synonym"
+  ],
+  [
+   "eval_seeded348_v1-0093",
+   "invalid_relation_synonym"
+  ],
+  [
+   "eval_seeded348_v1-0119",
+   "invalid_relation_synonym"
+  ]
+ ],
+ "critical_ai_only": [
+  [
+   "eval_seeded348_v1-0010",
+   "example_semantic_error"
+  ],
+  [
+   "eval_seeded348_v1-0010",
+   "invalid_relation_synonym"
+  ],
+  [
+   "eval_seeded348_v1-0040",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0071",
+   "example_semantic_error"
+  ],
+  [
+   "eval_seeded348_v1-0072",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0093",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0114",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0149",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0166",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0208",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0273",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0287",
+   "target_word_violation"
+  ],
+  [
+   "eval_seeded348_v1-0336",
+   "target_word_violation"
+  ]
+ ],
+ "regression_scan": {
+  "count": 7,
+  "watch_count": 1,
+  "systematic": false,
+  "entries": [
+   {
+    "eval_id": "eval_seeded348_v1-0018",
+    "field": "relations",
+    "human": "legacy",
+    "ai": "candidate"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0006",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "tie"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0010",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "candidate"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0018",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "candidate"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0149",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "candidate"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0200",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "tie"
+   },
+   {
+    "eval_id": "eval_seeded348_v1-0260",
+    "field": "examples",
+    "human": "legacy",
+    "ai": "tie"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "eval_id": "eval_seeded348_v1-0006",
+   "key": "additionally/adv",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0010",
+   "key": "age/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "candidate",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "invalid_relation_synonym",
+      "side": "legacy",
+      "evidence": "Arm B provides synonyms 'era' and 'period' which contradict the stated definition 'The number of years that a person has lived.'"
+     },
+     {
+      "class": "example_semantic_error",
+      "side": "legacy",
+      "evidence": "Arm B includes 'We live in a digital age.' (historical period/era), contradicting the stated sense of age as years lived."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0018",
+   "key": "archbishop/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "candidate",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "legacy",
+     "ai": "candidate",
+     "status": "flip"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {
+     "invalid_relation_synonym": "A"
+    },
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0023",
+   "key": "awareness/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0029",
+   "key": "billion/num",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0040",
+   "key": "call/verb",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "In Arm B's example 'The meeting was called to order.', 'called' is an inflected form (past participle) violating the exact lemma token requirement, and in 'The situation calls for immediate action.', 'calls' is inflected."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0046",
+   "key": "channel/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "legacy",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0052",
+   "key": "citizenship/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "legacy",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0057",
+   "key": "congressional/adj",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0071",
+   "key": "deal/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "example_semantic_error",
+      "side": "legacy",
+      "evidence": "In Arm A, 'I have a great deal of work to do today' uses 'deal' as a quantifier (amount), contradicting the stated sense of an agreement/transaction."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0072",
+   "key": "deal/verb",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm A uses inflected forms 'deals' and 'dealing' ('The book deals with...', 'She is used to dealing with...') violating exact target lemma."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0093",
+   "key": "elbow/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {
+     "invalid_relation_synonym": "B"
+    },
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B uses inflected form 'elbows' in 'He rested his elbows on the table.' violating exact target lemma requirement."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0114",
+   "key": "feature/verb",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B uses inflected forms 'features' and 'is featured' violating exact standalone target lemma 'feature'."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0119",
+   "key": "fish/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "legacy",
+     "status": "flip"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {
+     "invalid_relation_synonym": "A"
+    },
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0129",
+   "key": "fun/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0139",
+   "key": "guarantee/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "legacy",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0145",
+   "key": "hierarchy/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "legacy",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0149",
+   "key": "ignore/verb",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "candidate",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm A uses inflected past tense form in: 'He ignored the sign.' and 'She ignored his advice completely.' violating exact lemma requirement."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0153",
+   "key": "import/verb",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "legacy",
+     "status": "flip"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0166",
+   "key": "jew/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B uses inflected plural forms ('Jews') instead of the exact target lemma 'Jew' across multiple examples."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0200",
+   "key": "my/excl",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0208",
+   "key": "option/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "legacy",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B includes plural inflections 'options' instead of the exact target lemma: 'We are keeping our options open.' and 'Stock options are part of the salary package.'"
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0245",
+   "key": "provoke/verb",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0260",
+   "key": "reporter/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "legacy",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0273",
+   "key": "settler/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "cannot-judge",
+     "status": "abstain"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B uses plural inflections 'settlers' across multiple examples instead of exact target lemma 'settler'"
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0287",
+   "key": "sponge/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "arabic_explanation": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "candidate",
+     "status": "mismatch"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {
+     "invalid_relation_synonym": "B"
+    },
+    "ai": [
+     {
+      "class": "invalid_relation_synonym",
+      "side": "legacy",
+      "evidence": "Arm B lists 'absorber' and 'wipe' as synonyms for the noun sponge."
+     },
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm B includes 'Natural sponges are harvested from the sea' which uses plural 'sponges' instead of the exact target lemma."
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0299",
+   "key": "sunlight/noun",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0311",
+   "key": "this/det",
+   "candidate_side": "A",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "tie",
+     "status": "mismatch"
+    },
+    "translations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {
+     "invalid_relation_synonym": "B"
+    },
+    "ai": [
+     {
+      "class": "invalid_relation_synonym",
+      "side": "legacy",
+      "evidence": "Arm B lists 'that' as both an antonym and synonym of 'this'"
+     }
+    ]
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0317",
+   "key": "trainer/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": []
+   }
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0336",
+   "key": "web/noun",
+   "candidate_side": "B",
+   "fields": {
+    "definition": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "arabic_explanation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "sense_separation": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    },
+    "examples": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "translations": {
+     "human": "tie",
+     "ai": "legacy",
+     "status": "mismatch"
+    },
+    "relations": {
+     "human": "candidate",
+     "ai": "candidate",
+     "status": "agree"
+    },
+    "mnemonic": {
+     "human": "tie",
+     "ai": "tie",
+     "status": "agree"
+    }
+   },
+   "criticals": {
+    "human_v3": {},
+    "ai": [
+     {
+      "class": "target_word_violation",
+      "side": "legacy",
+      "evidence": "Arm A includes 'The duck's webbed feet help it swim efficiently.', where 'webbed' is an inflected/derived adjective rather than the exact target noun 'web'."
+     }
+    ]
+   }
+  }
+ ]
+}

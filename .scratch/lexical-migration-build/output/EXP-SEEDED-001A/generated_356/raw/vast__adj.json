@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "vast",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "vast",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Of very great extent or quantity; immense.",
+  "explanation_ar": "حاجة ضخمة جداً وواسعة، سواء في المساحة أو العدد.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Of very great extent or quantity; immense.",
+    "definition_ar": "شاسع أو هائل الحجم أو الكمية.",
+    "examples": [
+     "The vast majority of students passed.",
+     "They crossed a vast desert.",
+     "His knowledge of the subject is vast."
+    ]
+   }
+  ],
+  "examples": [
+   "The vast majority of students passed.",
+   "They crossed a vast desert.",
+   "His knowledge of the subject is vast."
+  ],
+  "translations": [
+   "شاسع",
+   "واسع",
+   "هائل"
+  ],
+  "relations": {
+   "synonyms": [
+    "huge",
+    "enormous",
+    "immense",
+    "massive",
+    "gigantic"
+   ],
+   "antonyms": [
+    "tiny",
+    "small",
+    "limited"
+   ],
+   "collocations": [
+    "vast majority",
+    "vast amount",
+    "vast area"
+   ]
+  },
+  "mnemonic": "كلمة 'Vast' شبه 'Fast' 'سريع'.. عشان تقطع مسافة 'Vast' 'واسعة' لازم تمشي 'Fast'.",
+  "phonetic_us": "væst",
+  "phonetic_uk": "vɑːst",
+  "syllables": "vast",
+  "semantic_tags": [
+   "#Size",
+   "#Quantity",
+   "#Space"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Of very great extent or quantity; immense.",
+  "explanation_ar": "حاجة ضخمة جداً وواسعة، سواء في المساحة أو العدد.",
+  "examples": [
+   "The vast majority of students passed.",
+   "They crossed a vast desert.",
+   "His knowledge of the subject is vast."
+  ],
+  "translations": {
+   "arabic_ar": "شاسع واسع هائل"
+  },
+  "synonyms": [
+   "huge",
+   "enormous",
+   "immense",
+   "massive",
+   "gigantic"
+  ],
+  "antonyms": [
+   "tiny",
+   "small",
+   "limited"
+  ],
+  "collocations": [
+   "vast majority",
+   "vast amount",
+   "vast area"
+  ],
+  "mnemonic_ar": "كلمة 'Vast' شبه 'Fast' 'سريع'.. عشان تقطع مسافة 'Vast' 'واسعة' لازم تمشي 'Fast'."
+ }
+}

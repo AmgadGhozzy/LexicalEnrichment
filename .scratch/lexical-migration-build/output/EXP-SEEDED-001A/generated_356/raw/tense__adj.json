@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "tense",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "tense",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Stretched tight or rigid; unable to relax due to nervousness or anxiety.",
+  "explanation_ar": "وصف للشخص لما يكون قلقان ومش قادر يسترخي، أو للجو/الموقف لما يكون مشحون ومتوتر، أو للعضلة لما تكون مشدودة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Feeling nervous, worried, and unable to relax; or causing such a feeling.",
+    "definition_ar": "متوتر، قلق، أو مشحون بالتوتر (للأشخاص أو المواقف).",
+    "examples": [
+     "The atmosphere in the room was very tense.",
+     "She gets tense before exams."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Stretched tight or rigid; not relaxed (especially of muscles or the body).",
+    "definition_ar": "مشدود أو متصلب (خاصة لعضلات الجسم).",
+    "examples": [
+     "My muscles are tense after the gym."
+    ]
+   }
+  ],
+  "examples": [
+   "The atmosphere in the room was very tense.",
+   "She gets tense before exams.",
+   "My muscles are tense after the gym."
+  ],
+  "translations": [
+   "متوتر",
+   "مشدود",
+   "مشحون"
+  ],
+  "relations": {
+   "synonyms": [
+    "anxious",
+    "nervous",
+    "tight",
+    "stressed"
+   ],
+   "antonyms": [
+    "relaxed",
+    "calm",
+    "loose"
+   ],
+   "collocations": [
+    "tense muscles",
+    "tense situation",
+    "feel tense",
+    "tense atmosphere"
+   ],
+   "word_family": {
+    "adj": "tense",
+    "adv": "tensely",
+    "noun": "tension",
+    "verb": "tense"
+   }
+  },
+  "mnemonic": "شبه 'Ten' 'عشرة'.. كأنك شايل 'Ten' كيلو على كتافك فبقيت 'Tense'.",
+  "phonetic_us": "tɛns",
+  "phonetic_uk": "tens",
+  "syllables": "tense",
+  "semantic_tags": [
+   "#Nervous",
+   "#Stress",
+   "#Tight",
+   "#Mood"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Stretched tight or rigid; unable to relax due to nervousness or anxiety.",
+  "explanation_ar": "وصف للشخص لما يكون قلقان ومش قادر يسترخي، أو للجو/الموقف لما يكون مشحون ومتوتر، أو للعضلة لما تكون مشدودة.",
+  "examples": [
+   "The atmosphere in the room was very tense.",
+   "She gets tense before exams.",
+   "My muscles are tense after the gym."
+  ],
+  "translations": {
+   "arabic_ar": "متوتر مشدود مشحون"
+  },
+  "synonyms": [
+   "anxious",
+   "nervous",
+   "tight",
+   "stressed"
+  ],
+  "antonyms": [
+   "relaxed",
+   "calm",
+   "loose"
+  ],
+  "collocations": [
+   "tense muscles",
+   "tense situation",
+   "feel tense",
+   "tense atmosphere"
+  ],
+  "mnemonic_ar": "شبه 'Ten' 'عشرة'.. كأنك شايل 'Ten' كيلو على كتافك فبقيت 'Tense'."
+ }
+}

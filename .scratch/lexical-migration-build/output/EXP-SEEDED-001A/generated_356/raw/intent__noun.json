@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "intent",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intent",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Intention or purpose.",
+  "explanation_ar": "النية أو القصد من فعل شيء معين.",
+  "senses": [
+   {
+    "definition_en": "Intention or purpose, especially when considered in formal, official, or legal contexts.",
+    "definition_ar": "النية أو القصد، لا سيما في السياقات الرسمية أو القانونية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "It was not my intent to hurt you.",
+   "The intent of the law is to protect citizens.",
+   "He was charged with possession with intent to supply."
+  ],
+  "translations": [
+   "نية",
+   "قصد"
+  ],
+  "relations": {
+   "synonyms": [
+    "intention",
+    "purpose",
+    "aim",
+    "goal"
+   ],
+   "antonyms": [
+    "accident",
+    "chance"
+   ],
+   "collocations": [
+    "criminal intent",
+    "good intent",
+    "letter of intent"
+   ]
+  },
+  "mnemonic": "جاية من 'Intend' 'ينوي'.. الـ 'Intent' هي النية نفسها.",
+  "phonetic_us": "ɪnˈtɛnt",
+  "phonetic_uk": "ɪnˈtent",
+  "syllables": "in•tent",
+  "semantic_tags": [
+   "#Law",
+   "#Purpose",
+   "#Mind"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Intention or purpose.",
+  "explanation_ar": "النية أو القصد من فعل شيء معين.",
+  "examples": [
+   "It was not my intent to hurt you.",
+   "The intent of the law is to protect citizens.",
+   "He was charged with possession with intent to supply."
+  ],
+  "translations": {
+   "arabic_ar": "نية قصد"
+  },
+  "synonyms": [
+   "intention",
+   "purpose",
+   "aim",
+   "goal"
+  ],
+  "antonyms": [
+   "accident",
+   "chance"
+  ],
+  "collocations": [
+   "criminal intent",
+   "good intent",
+   "letter of intent"
+  ],
+  "mnemonic_ar": "جاية من 'Intend' 'ينوي'.. الـ 'Intent' هي النية نفسها."
+ }
+}

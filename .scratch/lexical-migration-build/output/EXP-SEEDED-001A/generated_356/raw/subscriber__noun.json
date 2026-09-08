@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "subscriber",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "subscriber",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who pays to receive a service or publication regularly.",
+  "explanation_ar": "الشخص اللي دافع اشتراك عشان توصله خدمة أو مجلة بانتظام، أو مشترك في قناة يوتيوب.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who pays to receive a service, publication, or product regularly.",
+    "definition_ar": "شخص يدفع اشتراكاً دورياً للحصول على خدمة أو مطبوعة بانتظام.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A person who registers to receive content or updates from an online platform, channel, or newsletter.",
+    "definition_ar": "شخص يشترك في منصة أو قناة رقمية أو نشرة بريدية لمتابعة محتواها بانتظام.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "As a loyal subscriber, she receives the print edition of the journal every month.",
+   "Each new subscriber is entitled to a complimentary trial period.",
+   "The platform notified every subscriber about the upcoming changes to the membership policy."
+  ],
+  "translations": [
+   "مشترك"
+  ],
+  "relations": {
+   "synonyms": [
+    "member",
+    "customer",
+    "patron",
+    "follower"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "loyal subscriber",
+    "new subscriber",
+    "monthly subscriber",
+    "subscriber base"
+   ],
+   "word_family": {
+    "noun": "subscription",
+    "verb": "subscribe"
+   }
+  },
+  "mnemonic": "جاية من 'Sub' 'تحت' و 'Scribe' 'يكتب'.. يعني كتبت اسمك تحت العقد واشتركت.",
+  "phonetic_us": "səbˈskraɪbər",
+  "phonetic_uk": "səbˈskraɪbə",
+  "syllables": "sub•scriber",
+  "semantic_tags": [
+   "#Internet",
+   "#Business",
+   "#Media",
+   "#Customer"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who pays to receive a service or publication regularly.",
+  "explanation_ar": "الشخص اللي دافع اشتراك عشان توصله خدمة أو مجلة بانتظام، أو مشترك في قناة يوتيوب.",
+  "examples": [
+   "As a loyal subscriber, she receives the print edition of the journal every month.",
+   "Each new subscriber is entitled to a complimentary trial period.",
+   "The platform notified every subscriber about the upcoming changes to the membership policy."
+  ],
+  "translations": {
+   "arabic_ar": "مشترك"
+  },
+  "synonyms": [
+   "member",
+   "customer",
+   "patron",
+   "follower"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "loyal subscriber",
+   "new subscriber",
+   "monthly subscriber",
+   "subscriber base"
+  ],
+  "mnemonic_ar": "جاية من 'Sub' 'تحت' و 'Scribe' 'يكتب'.. يعني كتبت اسمك تحت العقد واشتركت."
+ }
+}

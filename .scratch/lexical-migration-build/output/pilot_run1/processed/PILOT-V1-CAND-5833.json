@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5833",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5833",
+  "lemma": "prop",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5833,
+  "lemma": "prop",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "prɑːp",
+  "phonetic_uk": "prɒp",
+  "phonetic_ar": "بْروبْ",
+  "definition_en": "An object used by actors in a play or film, or an item used to support something.",
+  "explanation_ar": "أداة مسرحية أو سينمائية يستخدمها الممثل أثناء الأداء، أو دعامة وسند مادي يُستخدم لتثبيت شيء ومنعه من السقوط.",
+  "examples": [
+   {
+    "example_text": "He used a wooden prop to keep the heavy cellar door open.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The vintage telephone on the desk was just a stage prop.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Without an external prop, the old fence will collapse in strong winds.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"property\" في المسرح؛ حيث أن كلمة \"prop\" اختصار لها وتعني الأغراض والأدوات التي يمسكها الممثل لدعم المشهد.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An object used by actors in a play or movie during a performance.",
+    "short_def_en": "theatrical object or accessory",
+    "definition_ar": "إكسسوار أو أداة تمثيلية يستخدمها الممثل في المسرح أو السينما.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "theater",
+     "cinema",
+     "performance"
+    ],
+    "usage_note": "Short for theatrical property.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A physical object placed against or under something to support and hold it upright.",
+    "short_def_en": "physical support or brace",
+    "definition_ar": "دعامة أو ركيزة مادية تسند شيئا وتمنعه من الانهيار.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "construction",
+     "support",
+     "structures"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "stage prop",
+   "wooden prop",
+   "act as a prop"
+  ],
+  "synonyms": [
+   "support",
+   "brace",
+   "stay",
+   "strut",
+   "accessory"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "theater",
+    "backstage",
+    "support",
+    "beam"
+   ],
+   "ar": [
+    "مسرح",
+    "كواليس",
+    "دعم",
+    "عارضة"
+   ]
+  },
+  "word_family": {
+   "noun": "prop",
+   "verb": "prop",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "إكسسوار مسرحي / دعامة",
+   "french_fr": "accessoire / étai",
+   "german_de": "Requisite / Stütze",
+   "spanish_es": "utilería / puntal",
+   "chinese_zh": "道具 (dàojù) / 支柱 (zhīzhù)",
+   "russian_ru": "реквизит / подпорка",
+   "portuguese_pt": "adereço / escora",
+   "japanese_ja": "小道具 (Kodōgu) / 支え (Sasae)",
+   "italian_it": "oggetto di scena / puntello",
+   "turkish_tr": "aksesuar / destek"
+  }
+ },
+ "provenance": {
+  "output_hash": "25d6814ad9d326cfa3dd4f252e3bf468b822c7d48e6fa42cb47cfde9dcf5b8d3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "jealousy",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "jealousy",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An unhappy and angry feeling caused by wanting what someone else has, or fearing that someone you love will prefer another person.",
+  "explanation_ar": "الغيرة، لما تحس بضيق عشان حد عنده حاجة مش عندك أو خايف حد ياخد مكانك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An unhappy and angry feeling caused by wanting what someone else has, or fearing that someone you love will prefer another person.",
+    "definition_ar": "شعور بالضيق والغضب لرغبتك في امتلاك ما لدى غيرك، أو لخوفك من أن يفضل شخص تحبه أحداً آخر.",
+    "examples": [
+     "Feelings of jealousy can destroy a healthy relationship.",
+     "She tried to hide her jealousy when he talked to other girls.",
+     "His professional jealousy prevented him from praising his colleague."
+    ]
+   }
+  ],
+  "examples": [
+   "Feelings of jealousy can destroy a healthy relationship.",
+   "She tried to hide her jealousy when he talked to other girls.",
+   "His professional jealousy prevented him from praising his colleague."
+  ],
+  "translations": [
+   "غِيرَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "envy",
+    "resentment",
+    "bitterness"
+   ],
+   "antonyms": [
+    "trust",
+    "contentment"
+   ],
+   "collocations": [
+    "fit of jealousy",
+    "mad with jealousy",
+    "pang of jealousy"
+   ]
+  },
+  "mnemonic": "جاية من 'Jealous'.. ممكن نقول 'Jealousy' زي 'Jail'.. الغيرة بتحطك في سجن أفكارك.",
+  "phonetic_us": "ˈdʒɛləsi",
+  "phonetic_uk": "ˈdʒeləsi",
+  "syllables": "jeal•ousy",
+  "semantic_tags": [
+   "Feelings & Emotions",
+   "Relationships",
+   "Envy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An unhappy and angry feeling caused by wanting what someone else has, or fearing that someone you love will prefer another person.",
+  "explanation_ar": "الغيرة، لما تحس بضيق عشان حد عنده حاجة مش عندك أو خايف حد ياخد مكانك.",
+  "examples": [
+   "Feelings of jealousy can destroy a healthy relationship.",
+   "She tried to hide her jealousy when he talked to other girls.",
+   "His professional jealousy prevented him from praising his colleague."
+  ],
+  "translations": {
+   "arabic_ar": "غِيرَة"
+  },
+  "synonyms": [
+   "envy",
+   "resentment",
+   "bitterness"
+  ],
+  "antonyms": [
+   "trust",
+   "contentment"
+  ],
+  "collocations": [
+   "fit of jealousy",
+   "mad with jealousy",
+   "pang of jealousy"
+  ],
+  "mnemonic_ar": "جاية من 'Jealous'.. ممكن نقول 'Jealousy' زي 'Jail'.. الغيرة بتحطك في سجن أفكارك."
+ }
+}

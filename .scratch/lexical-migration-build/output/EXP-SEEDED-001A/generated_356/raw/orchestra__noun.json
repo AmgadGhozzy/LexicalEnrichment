@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "orchestra",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "orchestra",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A large group of musicians who play many different instruments together, usually led by a conductor.",
+  "explanation_ar": "فرقة موسيقية كبيرة تضم عازفين على آلات متعددة (كالوتريات وآلات النفخ والإيقاع) يعزفون معاً بقيادة المايسترو.",
+  "senses": [
+   {
+    "sense_id": "orchestra_noun_1",
+    "definition_en": "A large group of musicians who play many different instruments together.",
+    "definition_ar": "فرقة موسيقية كبيرة تعزف على آلات متنوعة معاً.",
+    "examples": [
+     "The orchestra gave a wonderful concert.",
+     "I play violin in the school orchestra.",
+     "The composer wrote this piece specifically for a chamber orchestra."
+    ]
+   }
+  ],
+  "examples": [
+   "The orchestra gave a wonderful concert.",
+   "I play violin in the school orchestra.",
+   "The composer wrote this piece specifically for a chamber orchestra."
+  ],
+  "translations": [
+   "أوركسترا",
+   "فرقة موسيقية"
+  ],
+  "relations": {
+   "synonyms": [
+    "ensemble",
+    "symphony orchestra"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "conduct an orchestra",
+    "symphony orchestra",
+    "chamber orchestra"
+   ],
+   "word_family": {
+    "noun": "orchestra",
+    "adjective": "orchestral",
+    "verb": "orchestrate"
+   }
+  },
+  "mnemonic": "نفس الكلمة المستخدمة بالعربية 'أوركسترا'، وتشير إلى الفرقة الموسيقية الكبيرة ذاتها.",
+  "phonetic_us": "ˈɔːrkəstrə",
+  "phonetic_uk": "ˈɔːkɪstrə",
+  "syllables": "or•ches•tra",
+  "semantic_tags": [
+   "Music",
+   "Concert",
+   "Instruments"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large group of musicians who play many different instruments together, usually led by a conductor.",
+  "explanation_ar": "فرقة موسيقية كبيرة تضم عازفين على آلات متعددة (كالوتريات وآلات النفخ والإيقاع) يعزفون معاً بقيادة المايسترو.",
+  "examples": [
+   "The orchestra gave a wonderful concert.",
+   "I play violin in the school orchestra.",
+   "The composer wrote this piece specifically for a chamber orchestra."
+  ],
+  "translations": {
+   "arabic_ar": "أوركسترا فرقة موسيقية"
+  },
+  "synonyms": [
+   "ensemble",
+   "symphony orchestra"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "conduct an orchestra",
+   "symphony orchestra",
+   "chamber orchestra"
+  ],
+  "mnemonic_ar": "نفس الكلمة المستخدمة بالعربية 'أوركسترا'، وتشير إلى الفرقة الموسيقية الكبيرة ذاتها."
+ }
+}

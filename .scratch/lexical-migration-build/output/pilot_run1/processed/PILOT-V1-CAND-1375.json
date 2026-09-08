@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1375",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1375",
+  "lemma": "material",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1375,
+  "lemma": "material",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "məˈtɪriəl",
+  "phonetic_uk": "məˈtɪəriəl",
+  "phonetic_ar": "مَتيرْيَل",
+  "definition_en": "Important enough to influence a decision or outcome; having significant relevance.",
+  "explanation_ar": "يُقصد به في السياق الرسمي أو القانوني الشيء المهم والمؤثر جدا في القرار أو النتيجة، أو الشيء المادي الملموس بدلا من الروحي.",
+  "examples": [
+   {
+    "example_text": "The witness provided material evidence that changed the course of the trial.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "There was a material change in the company's financial status this quarter.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "She cared more about intellectual growth than material comfort.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة matter التي تعني مسألة مهمة، فالصفة material تعني شيئا هاما وحاسما في القرار أو شيئا واقعيا ملموسا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Significant enough to make a real difference to an outcome or evaluation.",
+    "short_def_en": "significant or crucial",
+    "definition_ar": "جوهري أو ذو أهمية حاسمة تؤثر في النتيجة.",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "importance",
+     "law",
+     "business"
+    ],
+    "usage_note": "Commonly used in formal, legal, and financial contexts such as 'material fact' or 'material difference'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Relating to physical substances or worldly possessions rather than spiritual or intellectual things.",
+    "short_def_en": "physical and worldly",
+    "definition_ar": "مادي ملموس يتعلق بالجسد والمقتنيات وليس بالروح والفكر.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "philosophy",
+     "lifestyle",
+     "society"
+    ],
+    "usage_note": "Often contrasted directly with spiritual or emotional aspects of life.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "material fact",
+   "material difference",
+   "material effect",
+   "material world",
+   "material wealth"
+  ],
+  "synonyms": [
+   "significant",
+   "substantial",
+   "relevant",
+   "physical",
+   "tangible"
+  ],
+  "antonyms": [
+   "immaterial",
+   "insignificant",
+   "spiritual"
+  ],
+  "related_words": {
+   "en": [
+    "matter",
+    "evidence",
+    "substance",
+    "reality"
+   ],
+   "ar": [
+    "مادة",
+    "دليل",
+    "جوهر",
+    "واقع"
+   ]
+  },
+  "word_family": {
+   "noun": "material",
+   "verb": "materialize",
+   "adj": "material",
+   "adv": "materially"
+  },
+  "translations": {
+   "arabic_ar": "جوهري / مادي",
+   "french_fr": "matériel",
+   "german_de": "wesentlich",
+   "spanish_es": "material",
+   "chinese_zh": "实质性的 (Shízhì xìng de)",
+   "russian_ru": "существенный",
+   "portuguese_pt": "material",
+   "japanese_ja": "実質的な (Jisshitsuteki na)",
+   "italian_it": "rilevante",
+   "turkish_tr": "maddi"
+  }
+ },
+ "provenance": {
+  "output_hash": "c07786c75a27477387ec3ea47d85ac232720e7861e2e9389ce8ddb3f0b2c5295",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

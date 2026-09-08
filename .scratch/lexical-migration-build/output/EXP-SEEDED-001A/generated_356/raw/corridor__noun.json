@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "corridor",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "corridor",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A long passage in a building with doors leading into rooms on either side.",
+  "explanation_ar": "ممر طويل داخل مبنى، توجد به أبواب تؤدي إلى غرف على الجانبين، مثل ممرات المدارس أو المستشفيات أو الفنادق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A long passage in a building with doors leading into rooms on either side.",
+    "definition_ar": "ممر طويل داخل مبنى توجد على جانبيه أبواب لغرف مختلفة.",
+    "examples": [
+     "Her office is at the end of the long corridor.",
+     "The hotel corridor was lined with beautiful paintings.",
+     "Students waited in the corridor for the class to start."
+    ]
+   }
+  ],
+  "examples": [
+   "Her office is at the end of the long corridor.",
+   "The hotel corridor was lined with beautiful paintings.",
+   "Students waited in the corridor for the class to start."
+  ],
+  "translations": [
+   "مَمَرّ",
+   "رِوَاق"
+  ],
+  "relations": {
+   "synonyms": [
+    "hallway",
+    "passage",
+    "hall"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "long corridor",
+    "narrow corridor",
+    "hotel corridor",
+    "school corridor"
+   ]
+  },
+  "mnemonic": "كلمة 'Corridor' تشبه 'Car' و 'Door'؛ تخيل أنك تقود 'Car' صغيرة داخل 'Corridor' طويل مليء بـ 'Doors' على الجانبين.",
+  "phonetic_us": "ˈkɔːrɪdɔːr",
+  "phonetic_uk": "ˈkɒrɪdɔː",
+  "syllables": "cor•ri•dor",
+  "semantic_tags": [
+   "Architecture",
+   "Building",
+   "Passage"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A long passage in a building with doors leading into rooms on either side.",
+  "explanation_ar": "ممر طويل داخل مبنى، توجد به أبواب تؤدي إلى غرف على الجانبين، مثل ممرات المدارس أو المستشفيات أو الفنادق.",
+  "examples": [
+   "Her office is at the end of the long corridor.",
+   "The hotel corridor was lined with beautiful paintings.",
+   "Students waited in the corridor for the class to start."
+  ],
+  "translations": {
+   "arabic_ar": "مَمَرّ رِوَاق"
+  },
+  "synonyms": [
+   "hallway",
+   "passage",
+   "hall"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "long corridor",
+   "narrow corridor",
+   "hotel corridor",
+   "school corridor"
+  ],
+  "mnemonic_ar": "كلمة 'Corridor' تشبه 'Car' و 'Door'؛ تخيل أنك تقود 'Car' صغيرة داخل 'Corridor' طويل مليء بـ 'Doors' على الجانبين."
+ }
+}

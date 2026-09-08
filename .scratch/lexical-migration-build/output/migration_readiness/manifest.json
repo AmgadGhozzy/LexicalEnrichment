@@ -1,0 +1,5 @@
+{
+ "export_sha256": "a053dba7aa0a4e4aa65526955f76c2db1fe83f9957448ac7329d422886b13fa4",
+ "policy": "G3 v1: promote iff verdict==candidate AND candidate non-empty; sense=manual; identity/id/rank never promoted",
+ "embargo": "readiness only — 0 canonical writes"
+}

@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "chin",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "chin",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The protruding part of the face below the mouth.",
+  "explanation_ar": "منطقة الدقن اللي في وشك تحت بوقك.",
+  "senses": [
+   {
+    "definition_en": "The protruding part of the face below the mouth.",
+    "explanation_ar": "الجزء السفلي من الوجه أسفل الفم (الذقن).",
+    "examples": [
+     "She rested her chin on her hand.",
+     "He rubbed the stubble on his chin.",
+     "The boxer took a heavy blow to the chin."
+    ]
+   }
+  ],
+  "examples": [
+   "She rested her chin on her hand.",
+   "He rubbed the stubble on his chin.",
+   "The boxer took a heavy blow to the chin."
+  ],
+  "translations": [
+   "ذقن"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "double chin",
+    "cleft chin",
+    "keep your chin up",
+    "stroke one's chin"
+   ]
+  },
+  "mnemonic": "كلمة 'Chin' قريبة من 'Cheek'.. الاتنين في الوش.",
+  "phonetic_us": "tʃɪn",
+  "phonetic_uk": "tʃɪn",
+  "syllables": "chin",
+  "semantic_tags": [
+   "Body",
+   "Face",
+   "Anatomy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The protruding part of the face below the mouth.",
+  "explanation_ar": "منطقة الدقن اللي في وشك تحت بوقك.",
+  "examples": [
+   "She rested her chin on her hand.",
+   "He rubbed the stubble on his chin.",
+   "The boxer took a heavy blow to the chin."
+  ],
+  "translations": {
+   "arabic_ar": "ذقن"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "double chin",
+   "cleft chin",
+   "keep your chin up",
+   "stroke one's chin"
+  ],
+  "mnemonic_ar": "كلمة 'Chin' قريبة من 'Cheek'.. الاتنين في الوش."
+ }
+}

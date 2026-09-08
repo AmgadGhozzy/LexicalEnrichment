@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "debt",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "debt",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Something, typically money, that is owed or due.",
+  "explanation_ar": "الديون، الفلوس اللي عليك ولازم ترجعها لحد تاني.",
+  "senses": [
+   {
+    "definition_en": "A sum of money that is owed or due to be paid back.",
+    "definition_ar": "مبلغ من المال مستحق الدفع لشخص أو جهة أخرى.",
+    "examples": [
+     "The company is trying to reduce its debt.",
+     "National debt has reached an all-time high."
+    ]
+   },
+   {
+    "definition_en": "The state of owing money or an obligation.",
+    "definition_ar": "حالة المديونية أو الالتزام بدفع المال أو رد الجميل.",
+    "examples": [
+     "She is in debt to the bank."
+    ]
+   }
+  ],
+  "examples": [
+   "The company is trying to reduce its debt.",
+   "She is in debt to the bank.",
+   "National debt has reached an all-time high."
+  ],
+  "translations": [
+   "دين",
+   "مديونية"
+  ],
+  "relations": {
+   "synonyms": [
+    "liability",
+    "obligation",
+    "arrears"
+   ],
+   "antonyms": [
+    "asset",
+    "credit"
+   ],
+   "collocations": [
+    "in debt",
+    "pay off debt",
+    "national debt",
+    "debt collector"
+   ]
+  },
+  "mnemonic": "حرف الـ 'b' ساكت مبيتنطقش، زي ما أنت ساكت لما حد يطلب منك سداد الـ 'Debt' 'الدين'.",
+  "phonetic_us": "dɛt",
+  "phonetic_uk": "det",
+  "syllables": "debt",
+  "semantic_tags": [
+   "Money",
+   "Finance",
+   "Economy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Something, typically money, that is owed or due.",
+  "explanation_ar": "الديون، الفلوس اللي عليك ولازم ترجعها لحد تاني.",
+  "examples": [
+   "The company is trying to reduce its debt.",
+   "She is in debt to the bank.",
+   "National debt has reached an all-time high."
+  ],
+  "translations": {
+   "arabic_ar": "دين مديونية"
+  },
+  "synonyms": [
+   "liability",
+   "obligation",
+   "arrears"
+  ],
+  "antonyms": [
+   "asset",
+   "credit"
+  ],
+  "collocations": [
+   "in debt",
+   "pay off debt",
+   "national debt",
+   "debt collector"
+  ],
+  "mnemonic_ar": "حرف الـ 'b' ساكت مبيتنطقش، زي ما أنت ساكت لما حد يطلب منك سداد الـ 'Debt' 'الدين'."
+ }
+}

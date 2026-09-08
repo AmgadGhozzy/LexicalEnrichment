@@ -1,0 +1,114 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "administer",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "administer",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To manage and organize the affairs of a business or institution, or to officially give or apply something such as medicine or justice.",
+  "explanation_ar": "يدير أو يُشرف على عمل أو مؤسسة، أو يعطي علاجاً/دواءً لمريض، أو يطبّق وينفّذ إجراءً رسمياً مثل تطبيق العدالة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "To manage and organize the affairs of a business, organization, or institution.",
+    "definition_ar": "يدير أو يتولى شؤون منظمة أو عمل.",
+    "examples": [
+     "She helps to administer the school's daily operations."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "To dispense, give, or apply a medicine or medical treatment.",
+    "definition_ar": "يعطي أو يحقن دواءً أو علاجاً لمريض.",
+    "examples": [
+     "The nurse was trained to administer first aid in emergencies."
+    ]
+   },
+   {
+    "sense_number": 3,
+    "definition_en": "To carry out, enforce, or formally apply something (such as the law, justice, or a test).",
+    "definition_ar": "يطبّق أو يقيم (كالعدالة أو القانون) أو يُجري اختباراً.",
+    "examples": [
+     "The court has the authority to administer justice in this region."
+    ]
+   }
+  ],
+  "examples": [
+   "She helps to administer the school's daily operations.",
+   "The nurse was trained to administer first aid in emergencies.",
+   "The court has the authority to administer justice in this region."
+  ],
+  "translations": [
+   "يدير",
+   "يعطي (دواءً)",
+   "يطبّق (العدالة/القانون)"
+  ],
+  "relations": {
+   "synonyms": [
+    "manage",
+    "direct",
+    "dispense",
+    "execute"
+   ],
+   "antonyms": [
+    "mismanage",
+    "neglect"
+   ],
+   "collocations": [
+    "administer justice",
+    "administer medication",
+    "administer a test",
+    "administer first aid"
+   ],
+   "word_family": {
+    "verb": "administer",
+    "noun": "administration",
+    "adjective": "administrative",
+    "adverb": "administratively"
+   }
+  },
+  "mnemonic": "جاية من 'Admin'.. الـ 'Admin' هو اللي بيعمل 'Administer' 'بيدير' الجروب أو الشغل.",
+  "phonetic_us": "ədˈmɪnɪstər",
+  "phonetic_uk": "ədˈmɪnɪstə",
+  "syllables": "ad•min•is•ter",
+  "semantic_tags": [
+   "#Management",
+   "#Medicine",
+   "#Business",
+   "#Law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To manage and organize the affairs of a business or institution, or to officially give or apply something such as medicine or justice.",
+  "explanation_ar": "يدير أو يُشرف على عمل أو مؤسسة، أو يعطي علاجاً/دواءً لمريض، أو يطبّق وينفّذ إجراءً رسمياً مثل تطبيق العدالة.",
+  "examples": [
+   "She helps to administer the school's daily operations.",
+   "The nurse was trained to administer first aid in emergencies.",
+   "The court has the authority to administer justice in this region."
+  ],
+  "translations": {
+   "arabic_ar": "يدير يعطي (دواءً) يطبّق (العدالة/القانون)"
+  },
+  "synonyms": [
+   "manage",
+   "direct",
+   "dispense",
+   "execute"
+  ],
+  "antonyms": [
+   "mismanage",
+   "neglect"
+  ],
+  "collocations": [
+   "administer justice",
+   "administer medication",
+   "administer a test",
+   "administer first aid"
+  ],
+  "mnemonic_ar": "جاية من 'Admin'.. الـ 'Admin' هو اللي بيعمل 'Administer' 'بيدير' الجروب أو الشغل."
+ }
+}

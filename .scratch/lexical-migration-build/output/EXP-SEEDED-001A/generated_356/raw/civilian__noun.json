@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "civilian",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "civilian",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who is not in the armed services or the police force.",
+  "explanation_ar": "الشخص المدني اللي مش عسكري ولا ظابط شرطة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who is not in the armed services or the police force.",
+    "definition_ar": "شخص مدني ليس فرداً في الجيش أو الشرطة.",
+    "examples": [
+     "He is not a soldier, he is a civilian.",
+     "As a civilian, she had never received any military training.",
+     "Under international law, an unarmed civilian must not be targeted during wartime."
+    ]
+   }
+  ],
+  "examples": [
+   "He is not a soldier, he is a civilian.",
+   "As a civilian, she had never received any military training.",
+   "Under international law, an unarmed civilian must not be targeted during wartime."
+  ],
+  "translations": [
+   "مدني"
+  ],
+  "relations": {
+   "synonyms": [
+    "non-combatant",
+    "citizen"
+   ],
+   "antonyms": [
+    "soldier",
+    "serviceman",
+    "combatant"
+   ],
+   "collocations": [
+    "innocent civilian",
+    "unarmed civilian",
+    "civilian population",
+    "civilian life"
+   ]
+  },
+  "mnemonic": "نفس فكرة الصفة.. 'Civil' مدني، فالـ 'Civilian' هو المواطن المدني.",
+  "phonetic_us": "sɪˈvɪljən",
+  "phonetic_uk": "səˈvɪliən",
+  "syllables": "ci•vil•ian",
+  "semantic_tags": [
+   "#People",
+   "#Society",
+   "#Status",
+   "#War"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who is not in the armed services or the police force.",
+  "explanation_ar": "الشخص المدني اللي مش عسكري ولا ظابط شرطة.",
+  "examples": [
+   "He is not a soldier, he is a civilian.",
+   "As a civilian, she had never received any military training.",
+   "Under international law, an unarmed civilian must not be targeted during wartime."
+  ],
+  "translations": {
+   "arabic_ar": "مدني"
+  },
+  "synonyms": [
+   "non-combatant",
+   "citizen"
+  ],
+  "antonyms": [
+   "soldier",
+   "serviceman",
+   "combatant"
+  ],
+  "collocations": [
+   "innocent civilian",
+   "unarmed civilian",
+   "civilian population",
+   "civilian life"
+  ],
+  "mnemonic_ar": "نفس فكرة الصفة.. 'Civil' مدني، فالـ 'Civilian' هو المواطن المدني."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "splendid",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "splendid",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Magnificent; very impressive; excellent.",
+  "explanation_ar": "رائع أو عظيم. كلمة بتوصف الجمال والفخامة.",
+  "senses": [
+   {
+    "definition_en": "Magnificent; very impressive; excellent.",
+    "explanation_ar": "رائع أو عظيم، يُستخدم للتعبير عن الجمال الباهر أو التميز والجودة العالية.",
+    "examples": [
+     "What a splendid idea!",
+     "The view from the top was splendid.",
+     "We had a splendid time."
+    ]
+   }
+  ],
+  "examples": [
+   "What a splendid idea!",
+   "The view from the top was splendid.",
+   "We had a splendid time."
+  ],
+  "translations": [
+   "رائع",
+   "عظيم",
+   "بديع"
+  ],
+  "relations": {
+   "synonyms": [
+    "magnificent",
+    "wonderful",
+    "superb"
+   ],
+   "antonyms": [
+    "terrible",
+    "awful",
+    "poor"
+   ],
+   "collocations": [
+    "splendid view",
+    "splendid idea",
+    "splendid time"
+   ]
+  },
+  "mnemonic": "قريبة من 'Splenda' السكر.. حاجة 'Splendid' يعني حلوة زي السكر.",
+  "phonetic_us": "ˈsplɛndɪd",
+  "phonetic_uk": "ˈsplɛndɪd",
+  "syllables": "splen•did",
+  "semantic_tags": [
+   "Good",
+   "Beautiful",
+   "Positive"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Magnificent; very impressive; excellent.",
+  "explanation_ar": "رائع أو عظيم. كلمة بتوصف الجمال والفخامة.",
+  "examples": [
+   "What a splendid idea!",
+   "The view from the top was splendid.",
+   "We had a splendid time."
+  ],
+  "translations": {
+   "arabic_ar": "رائع عظيم بديع"
+  },
+  "synonyms": [
+   "magnificent",
+   "wonderful",
+   "superb"
+  ],
+  "antonyms": [
+   "terrible",
+   "awful",
+   "poor"
+  ],
+  "collocations": [
+   "splendid view",
+   "splendid idea",
+   "splendid time"
+  ],
+  "mnemonic_ar": "قريبة من 'Splenda' السكر.. حاجة 'Splendid' يعني حلوة زي السكر."
+ }
+}

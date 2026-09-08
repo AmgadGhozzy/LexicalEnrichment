@@ -1,0 +1,121 @@
+{
+ "candidate_id": "PILOT-V1-CAND-447",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-447",
+  "lemma": "often",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 447,
+  "lemma": "often",
+  "pos": "adv",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɔːfən",
+  "phonetic_uk": "ɒfən",
+  "phonetic_ar": "أُوفَن",
+  "definition_en": "Many times or on many occasions.",
+  "explanation_ar": "يُستخدم للتعبير عن تكرار حدوث الشيء مرات عديدة أو بشكل معتاد.",
+  "examples": [
+   {
+    "example_text": "I often read books before going to sleep.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "How often do you visit your grandparents?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "It does not often rain in the desert during summer.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"often\" بربطها بكلمة \"soften\"، فالأمور تلين وتصبح أسهل عندما تمارسها مرات كثيرة وغالبا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Many times or on many occasions.",
+    "short_def_en": "frequently or many times",
+    "definition_ar": "في أوقات كثيرة أو بشكل متكرر",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "frequency",
+     "routine",
+     "repetition",
+     "time"
+    ],
+    "usage_note": "The letter 't' is traditionally silent, though pronouncing it is also accepted.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "how often",
+   "quite often",
+   "very often",
+   "as often as",
+   "more often"
+  ],
+  "synonyms": [
+   "frequently",
+   "regularly",
+   "repeatedly"
+  ],
+  "antonyms": [
+   "seldom",
+   "rarely",
+   "never"
+  ],
+  "related_words": {
+   "en": [
+    "always",
+    "sometimes",
+    "frequency",
+    "habit",
+    "usual"
+   ],
+   "ar": [
+    "دائما",
+    "أحيانا",
+    "تكرار",
+    "عادة",
+    "معتاد"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": "often"
+  },
+  "translations": {
+   "arabic_ar": "غالبا / كثيرا ما",
+   "french_fr": "souvent",
+   "german_de": "oft",
+   "spanish_es": "a menudo",
+   "chinese_zh": "经常 (Jīngcháng)",
+   "russian_ru": "часто",
+   "portuguese_pt": "frequentemente",
+   "japanese_ja": "よく (Yoku)",
+   "italian_it": "spesso",
+   "turkish_tr": "sık sık"
+  }
+ },
+ "provenance": {
+  "output_hash": "4a1b4133b3b6b84e5ac2e7697da055c660e27520dc0b2020d1f0f6ccc9e66ff6",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

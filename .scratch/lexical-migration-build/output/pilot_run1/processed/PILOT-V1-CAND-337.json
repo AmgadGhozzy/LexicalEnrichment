@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-337",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-337",
+  "lemma": "end",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 337,
+  "lemma": "end",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "General / Common",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɛnd",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِنْد",
+  "definition_en": "The final part of a period, event, story, or physical object.",
+  "explanation_ar": "الجزء الأخير أو النقطة الختامية لشيء ما، سواء كان وقتا، قصة، أو شيئا ماديا ملموسا.",
+  "examples": [
+   {
+    "example_text": "We stayed until the end of the concert.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "There is a small shop at the end of the road.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The movie has a very surprising end.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة The End الشهيرة التي تظهر دائما على شاشة السينما عند ختام الفيلم ونهايته.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The final part of something such as a period of time, activity, or story.",
+    "short_def_en": "final part or conclusion",
+    "definition_ar": "النقطة الختامية أو الجزء الأخير من نشاط أو وقت أو حدث.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "events",
+     "general"
+    ],
+    "usage_note": "Commonly used in phrases like 'at the end of' or 'in the end'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The furthest point or edge of a physical space, object, or surface.",
+    "short_def_en": "furthest point or edge",
+    "definition_ar": "الطرف أو الحافة الأبعد لشيء مادي أو مكان.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "space",
+     "location",
+     "objects"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "at the end of",
+   "in the end",
+   "bring to an end",
+   "the bitter end",
+   "from beginning to end"
+  ],
+  "synonyms": [
+   "finish",
+   "conclusion",
+   "close",
+   "termination",
+   "tip"
+  ],
+  "antonyms": [
+   "beginning",
+   "start"
+  ],
+  "related_words": {
+   "en": [
+    "finale",
+    "limit",
+    "boundary",
+    "outcome",
+    "deadline"
+   ],
+   "ar": [
+    "خاتمة",
+    "حد",
+    "حافة",
+    "نتيجة",
+    "موعد نهائي"
+   ]
+  },
+  "word_family": {
+   "noun": "end",
+   "verb": "end",
+   "adj": "endless",
+   "adv": "endlessly"
+  },
+  "translations": {
+   "arabic_ar": "نهاية / طرف",
+   "french_fr": "fin",
+   "german_de": "Ende",
+   "spanish_es": "fin / final",
+   "chinese_zh": "结束 (Jiéshù)",
+   "russian_ru": "конец",
+   "portuguese_pt": "fim / final",
+   "japanese_ja": "終わり (Owari)",
+   "italian_it": "fine",
+   "turkish_tr": "son"
+  }
+ },
+ "provenance": {
+  "output_hash": "b7c1541f0a0a88f40e4204d691004983c97ca0761312621f12fda72d05dc33af",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "subject",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "subject",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An area of knowledge studied in a school or college, or a person or thing being discussed or described.",
+  "explanation_ar": "الموضوع الذي يتم التحدث عنه أو مناقشته، أو المادة الدراسية التي تدرسها في المدرسة أو الجامعة.",
+  "senses": [
+   {
+    "definition_en": "An area of knowledge that is studied in a school, college, or university.",
+    "explanation_ar": "مادة دراسية يتم دراستها في المدرسة أو الجامعة.",
+    "examples": [
+     "Math is my favorite subject.",
+     "History is an interesting subject to study."
+    ]
+   },
+   {
+    "definition_en": "A person, thing, or topic that is being discussed, described, or dealt with.",
+    "explanation_ar": "موضوع الحديث أو النقاش.",
+    "examples": [
+     "We changed the subject of the conversation."
+    ]
+   }
+  ],
+  "examples": [
+   "Math is my favorite subject.",
+   "We changed the subject of the conversation.",
+   "History is an interesting subject to study."
+  ],
+  "translations": [
+   "مادة دراسية",
+   "موضوع"
+  ],
+  "relations": {
+   "synonyms": [
+    "topic",
+    "theme",
+    "discipline"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "favorite subject",
+    "change the subject",
+    "subject matter"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈsʌb.dʒɪkt",
+  "phonetic_uk": "ˈsʌb.dʒɪkt",
+  "syllables": "sub•ject",
+  "semantic_tags": [
+   "#Education",
+   "#School",
+   "#Topic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An area of knowledge studied in a school or college, or a person or thing being discussed or described.",
+  "explanation_ar": "الموضوع الذي يتم التحدث عنه أو مناقشته، أو المادة الدراسية التي تدرسها في المدرسة أو الجامعة.",
+  "examples": [
+   "Math is my favorite subject.",
+   "We changed the subject of the conversation.",
+   "History is an interesting subject to study."
+  ],
+  "translations": {
+   "arabic_ar": "مادة دراسية موضوع"
+  },
+  "synonyms": [
+   "topic",
+   "theme",
+   "discipline"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "favorite subject",
+   "change the subject",
+   "subject matter"
+  ],
+  "mnemonic_ar": null
+ }
+}

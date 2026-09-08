@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "fat",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "fat",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A natural oily or greasy substance in animal bodies or food.",
+  "explanation_ar": "الدهون اللي موجودة في الأكل أو في جسم الإنسان والحيوان.",
+  "senses": [
+   {
+    "definition_en": "A natural oily or greasy substance in animal bodies or food.",
+    "explanation_ar": "الدهون اللي موجودة في الأكل أو في جسم الإنسان والحيوان.",
+    "examples": [
+     "This meat has a lot of fat.",
+     "Butter is mostly made of fat.",
+     "The chef trimmed the excess fat from the steak."
+    ]
+   }
+  ],
+  "examples": [
+   "This meat has a lot of fat.",
+   "Butter is mostly made of fat.",
+   "The chef trimmed the excess fat from the steak."
+  ],
+  "translations": [
+   "دهن",
+   "شحم",
+   "دهون"
+  ],
+  "relations": {
+   "synonyms": [
+    "grease",
+    "oil"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "body fat",
+    "saturated fat",
+    "burn fat",
+    "low fat"
+   ]
+  },
+  "mnemonic": "نفس كلمة 'Fat' الصفة، بس هنا معناها المادة نفسها 'الدهون' اللي بتخلي الواحد 'Fat'.",
+  "phonetic_us": "fæt",
+  "phonetic_uk": "fæt",
+  "syllables": [
+   "fat"
+  ],
+  "semantic_tags": [
+   "#Nutrition",
+   "#Cooking",
+   "#Biology"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A natural oily or greasy substance in animal bodies or food.",
+  "explanation_ar": "الدهون اللي موجودة في الأكل أو في جسم الإنسان والحيوان.",
+  "examples": [
+   "This meat has a lot of fat.",
+   "Butter is mostly made of fat.",
+   "The chef trimmed the excess fat from the steak."
+  ],
+  "translations": {
+   "arabic_ar": "دهن شحم دهون"
+  },
+  "synonyms": [
+   "grease",
+   "oil"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "body fat",
+   "saturated fat",
+   "burn fat",
+   "low fat"
+  ],
+  "mnemonic_ar": "نفس كلمة 'Fat' الصفة، بس هنا معناها المادة نفسها 'الدهون' اللي بتخلي الواحد 'Fat'."
+ }
+}

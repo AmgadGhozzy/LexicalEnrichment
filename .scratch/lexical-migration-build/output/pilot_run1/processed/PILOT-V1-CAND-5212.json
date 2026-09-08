@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5212",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5212",
+  "lemma": "illustration",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5212,
+  "lemma": "illustration",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌɪləˈstreɪʃn",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِلَسْتْرِيشَنْ",
+  "definition_en": "A picture, drawing, or diagram in a book or magazine that explains or decorates text.",
+  "explanation_ar": "صورة أو رسم توضيحي يوضع في كتاب أو مجلة للشرح أو التزيين، وتأتي أيضا بمعنى مثال واضح يفسر فكرة معينة.",
+  "examples": [
+   {
+    "example_text": "The children's book contains a colorful illustration on every page.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He provided a clear illustration of how the new software functions.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "This case serves as a perfect illustration of why safety rules matter.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"illustrate\" التي تشبه \"lustre\" أو البريق والضوء اللاتيني، فالكلمة تعني تسليط الضوء على المعنى بالرسم أو المثال.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A drawing, painting, or diagram used to decorate or clarify written material.",
+    "short_def_en": "explanatory picture or drawing",
+    "definition_ar": "رسم توضيحي او صورة ترافق النص لبيانه او تزيينه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "publishing",
+     "art",
+     "media"
+    ],
+    "usage_note": "Refers specifically to visual artwork supporting text, unlike a standalone painting.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "An example or story used to make a point clear or prove something.",
+    "short_def_en": "clarifying example",
+    "definition_ar": "مثال او واقعة توضح فكرة او تثبتها",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "communication",
+     "academic",
+     "explanation"
+    ],
+    "usage_note": "Often used in the phrase 'by way of illustration'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "clear illustration",
+   "vivid illustration",
+   "by way of illustration",
+   "provide an illustration",
+   "book illustration"
+  ],
+  "synonyms": [
+   "picture",
+   "drawing",
+   "diagram",
+   "example",
+   "demonstration"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "illustrator",
+    "diagram",
+    "caption",
+    "visual",
+    "sample"
+   ],
+   "ar": [
+    "رسام توضيحي",
+    "مخطط",
+    "تعليق على صورة",
+    "بصري",
+    "عينة"
+   ]
+  },
+  "word_family": {
+   "noun": "illustration",
+   "verb": "illustrate",
+   "adj": "illustrative",
+   "adv": "illustratively"
+  },
+  "translations": {
+   "arabic_ar": "رسم توضيحي / مثال توضيحي",
+   "french_fr": "illustration",
+   "german_de": "Illustration",
+   "spanish_es": "ilustración",
+   "chinese_zh": "插图 (chātú)",
+   "russian_ru": "иллюстрация",
+   "portuguese_pt": "ilustração",
+   "japanese_ja": "挿絵 (Sashie)",
+   "italian_it": "illustrazione",
+   "turkish_tr": "resimleme / örnek"
+  }
+ },
+ "provenance": {
+  "output_hash": "cce24a4d9c4c049822f3a64f47c4b8a4bcfa207507f5a832efac073a33e1642b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

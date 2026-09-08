@@ -1,0 +1,150 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2182",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2182",
+  "lemma": "stream",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2182,
+  "lemma": "stream",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Nature & Science",
+  "ai_confidence": 0.95,
+  "phonetic_us": "striːm",
+  "phonetic_uk": null,
+  "phonetic_ar": "ستريم",
+  "definition_en": "A continuous flow of liquid, or a small narrow river.",
+  "explanation_ar": "مجرى مائي صغير وضيق يجري فيه الماء بشكل طبيعي، أو تدفق مستمر ومتواصل من السوائل أو الأشياء.",
+  "examples": [
+   {
+    "example_text": "We sat by a clear mountain stream to eat our lunch.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A constant stream of visitors entered the exhibition throughout the afternoon.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "A thin stream of blood trickled down his arm after the cut.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل كلمة \"stream\" مرتبطة بالمصطلح الشائع في عصر الإنترنت live stream، حيث يتدفق البث المباشر بلا انقطاع تماما مثل مجرى الماء المتدفق.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A small, narrow river that flows naturally along a channel.",
+    "short_def_en": "small narrow river",
+    "definition_ar": "جدول مائي طبيعي صغير وضيق.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "water",
+     "geography",
+     "nature"
+    ],
+    "usage_note": "A stream is generally smaller and shallower than a river.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A continuous flow of liquid, air, or gas moving in one direction.",
+    "short_def_en": "continuous moving flow",
+    "definition_ar": "تيار متصل ومستمر من سائل أو غاز.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "fluid",
+     "physics",
+     "flow"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "A large and continuous series of things or people moving along together.",
+    "short_def_en": "unbroken succession of items",
+    "definition_ar": "سيل أو تدفق متواصل لأشخاص أو أشياء.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "crowd",
+     "movement",
+     "traffic"
+    ],
+    "usage_note": "Often used metaphorically for traffic, data, visitors, or complaints.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "mountain stream",
+   "constant stream",
+   "steady stream",
+   "stream of visitors",
+   "stream of data"
+  ],
+  "synonyms": [
+   "brook",
+   "creek",
+   "flow",
+   "current",
+   "torrent"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "river",
+    "waterfall",
+    "tributary",
+    "channel",
+    "flow"
+   ],
+   "ar": [
+    "نهر",
+    "شلال",
+    "رافد",
+    "قناة",
+    "تدفق"
+   ]
+  },
+  "word_family": {
+   "noun": "stream",
+   "verb": "stream",
+   "adj": "streamy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "جدول / مجرى / تدفق",
+   "french_fr": "ruisseau",
+   "german_de": "Bach",
+   "spanish_es": "arroyo",
+   "chinese_zh": "小溪 (Xiǎoxī)",
+   "russian_ru": "ручей",
+   "portuguese_pt": "riacho",
+   "japanese_ja": "小川 (Ogawa)",
+   "italian_it": "ruscello",
+   "turkish_tr": "dere"
+  }
+ },
+ "provenance": {
+  "output_hash": "9784e0227259680c6b5762c3eaedd0150312e4b4e480c287ce0a3255e98ae72c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

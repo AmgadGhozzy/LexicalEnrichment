@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "uniform",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "uniform",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The distinctive clothing worn by members of the same organization or body.",
+  "explanation_ar": "الزي الموحد اللي بيلبسوه في المدارس أو الشغل أو الجيش.",
+  "senses": [
+   {
+    "definition_en": "The distinctive clothing worn by members of the same organization or body.",
+    "definition_ar": "الزي الموحد المخصص لأعضاء هيئة أو مدرسة أو جهة عمل معينة.",
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "She wears a blue uniform to school.",
+   "The police officer was in uniform.",
+   "He looked very smart in his military uniform."
+  ],
+  "translations": [
+   "زي مُوحَّد",
+   "يونيفورم"
+  ],
+  "relations": {
+   "synonyms": [
+    "outfit"
+   ],
+   "antonyms": [
+    "civilian clothes"
+   ],
+   "collocations": [
+    "school uniform",
+    "military uniform",
+    "wear a uniform",
+    "in uniform"
+   ]
+  },
+  "mnemonic": "كلمة 'يونيفورم' بنستخدمها في حياتنا العادية بنفس المعنى.",
+  "phonetic_us": "ˈjuː.nɪ.fɔːɹm",
+  "phonetic_uk": "ˈjuː.nɪ.fɔːm",
+  "syllables": "uni•form",
+  "semantic_tags": [
+   "Clothing",
+   "Work",
+   "School"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The distinctive clothing worn by members of the same organization or body.",
+  "explanation_ar": "الزي الموحد اللي بيلبسوه في المدارس أو الشغل أو الجيش.",
+  "examples": [
+   "She wears a blue uniform to school.",
+   "The police officer was in uniform.",
+   "He looked very smart in his military uniform."
+  ],
+  "translations": {
+   "arabic_ar": "زي مُوحَّد يونيفورم"
+  },
+  "synonyms": [
+   "outfit"
+  ],
+  "antonyms": [
+   "civilian clothes"
+  ],
+  "collocations": [
+   "school uniform",
+   "military uniform",
+   "wear a uniform",
+   "in uniform"
+  ],
+  "mnemonic_ar": "كلمة 'يونيفورم' بنستخدمها في حياتنا العادية بنفس المعنى."
+ }
+}

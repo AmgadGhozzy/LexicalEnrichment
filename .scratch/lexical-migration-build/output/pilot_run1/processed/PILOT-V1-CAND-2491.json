@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2491",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2491",
+  "lemma": "dumb",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2491,
+  "lemma": "dumb",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "dʌm",
+  "phonetic_uk": null,
+  "phonetic_ar": "دَم",
+  "definition_en": "Lacking intelligence or good judgment; foolish or stupid in informal contexts.",
+  "explanation_ar": "يستخدم هذا المصطلح غالبا بشكل غير رسمي لوصف تصرف او شخص غير ذكي او احمق، كما كان يستخدم تاريخيا لوصف العاجز عن الكلام.",
+  "examples": [
+   {
+    "example_text": "It was a dumb mistake that could have been avoided with a little care.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She stood dumb with astonishment when the unexpected verdict was read.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "He made a dumb decision to leave his secure job without another offer.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الحرف الأخير صامت مثل الشخص العاجز عن الكلام، فلا ينطق حرف b في كلمة \"dumb\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Lacking intelligence or showing poor judgment; foolish.",
+    "short_def_en": "stupid or foolish",
+    "definition_ar": "غبي او احمق ويظهر قلة تفكير",
+    "is_primary": true,
+    "register": "Informal",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "intelligence",
+     "judgment",
+     "behavior"
+    ],
+    "usage_note": "Very common in informal American English, though can sound blunt or mildly offensive.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Temporarily unable to speak because of shock, surprise, or strong emotion.",
+    "short_def_en": "unable to speak temporarily",
+    "definition_ar": "عاجز عن الكلام مؤقتا لشدة الدهشة",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "speech",
+     "emotion",
+     "shock"
+    ],
+    "usage_note": "Often found in literary phrases like 'struck dumb'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "dumb mistake",
+   "dumb luck",
+   "struck dumb",
+   "dumb question"
+  ],
+  "synonyms": [
+   "foolish",
+   "stupid",
+   "senseless",
+   "speechless",
+   "mute"
+  ],
+  "antonyms": [
+   "clever",
+   "intelligent",
+   "smart"
+  ],
+  "related_words": {
+   "en": [
+    "silence",
+    "fool",
+    "astonishment",
+    "speechless"
+   ],
+   "ar": [
+    "صمت",
+    "احمق",
+    "دهشة",
+    "عاجز عن الكلام"
+   ]
+  },
+  "word_family": {
+   "noun": "dumbness",
+   "verb": "",
+   "adj": "dumb",
+   "adv": "dumbly"
+  },
+  "translations": {
+   "arabic_ar": "غبي / اخرس",
+   "french_fr": "bête",
+   "german_de": "dumm",
+   "spanish_es": "tonto",
+   "chinese_zh": "愚蠢的 (yúchǔn de)",
+   "russian_ru": "глупый",
+   "portuguese_pt": "estúpido",
+   "japanese_ja": "ばかな (Bakana)",
+   "italian_it": "stupido",
+   "turkish_tr": "aptal"
+  }
+ },
+ "provenance": {
+  "output_hash": "d3359fc1ec7fac2e01cb77a4b95137c6ee560c5280e02150c071aeb2773ea943",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

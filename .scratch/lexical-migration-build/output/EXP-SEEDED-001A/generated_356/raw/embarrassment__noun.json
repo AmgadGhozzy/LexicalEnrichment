@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "embarrassment",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "embarrassment",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A feeling of shame, awkwardness, or self-consciousness, or a situation/person that causes it.",
+  "explanation_ar": "شعور بالخجل أو الكسوف لما يحصل موقف محرج أو سخيف قدام الناس، أو الشيء/الشخص اللي بيسبب الحرج ده.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A feeling of shame, awkwardness, or self-consciousness.",
+    "definition_ar": "شعور بالخجل أو الحرج والارتباك."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A person or thing that causes shame or awkwardness.",
+    "definition_ar": "شخص أو شيء يسبب الإحراج أو العار."
+   }
+  ],
+  "examples": [
+   "His face was red with embarrassment.",
+   "To my embarrassment, I forgot his name.",
+   "The scandal caused significant embarrassment to the government."
+  ],
+  "translations": [
+   "إحراج",
+   "حرج",
+   "خجل"
+  ],
+  "relations": {
+   "synonyms": [
+    "shame",
+    "awkwardness",
+    "humiliation"
+   ],
+   "antonyms": [
+    "pride",
+    "confidence"
+   ],
+   "collocations": [
+    "cause embarrassment",
+    "deep embarrassment",
+    "save from embarrassment"
+   ]
+  },
+  "mnemonic": "'Embarrassment' فيها 'Bar'.. لو دخلت 'Bar' غلط ممكن تحس بـ 'Embarrassment'.",
+  "phonetic_us": "ɪmˈbærəsmənt",
+  "phonetic_uk": "ɪmˈbærəsmənt",
+  "syllables": "em•bar•rass•ment",
+  "semantic_tags": [
+   "emotions",
+   "social",
+   "shame"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A feeling of shame, awkwardness, or self-consciousness, or a situation/person that causes it.",
+  "explanation_ar": "شعور بالخجل أو الكسوف لما يحصل موقف محرج أو سخيف قدام الناس، أو الشيء/الشخص اللي بيسبب الحرج ده.",
+  "examples": [
+   "His face was red with embarrassment.",
+   "To my embarrassment, I forgot his name.",
+   "The scandal caused significant embarrassment to the government."
+  ],
+  "translations": {
+   "arabic_ar": "إحراج حرج خجل"
+  },
+  "synonyms": [
+   "shame",
+   "awkwardness",
+   "humiliation"
+  ],
+  "antonyms": [
+   "pride",
+   "confidence"
+  ],
+  "collocations": [
+   "cause embarrassment",
+   "deep embarrassment",
+   "save from embarrassment"
+  ],
+  "mnemonic_ar": "'Embarrassment' فيها 'Bar'.. لو دخلت 'Bar' غلط ممكن تحس بـ 'Embarrassment'."
+ }
+}

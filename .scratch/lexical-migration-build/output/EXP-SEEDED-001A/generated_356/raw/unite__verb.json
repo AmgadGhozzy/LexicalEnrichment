@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "unite",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "unite",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To come or bring together for a common purpose or action.",
+  "explanation_ar": "يعني يتحدوا أو يتجمعوا عشان هدف واحد. زي لما الناس تتحد عشان تعمل تغيير أو الدول تتحد في حلف.",
+  "senses": [
+   {
+    "definition_en": "To come or bring together for a common purpose or action.",
+    "definition_ar": "أن يتحد أو يجمع أطرافاً مختلفة معاً لتحقيق هدف أو موقف مشترك.",
+    "examples": [
+     "Music can unite people from different cultures.",
+     "The two companies decided to unite to increase profits.",
+     "The tragedy served to unite the community in grief."
+    ]
+   }
+  ],
+  "examples": [
+   "Music can unite people from different cultures.",
+   "The two companies decided to unite to increase profits.",
+   "The tragedy served to unite the community in grief."
+  ],
+  "translations": [
+   "يتحد",
+   "يوحد"
+  ],
+  "relations": {
+   "synonyms": [
+    "join",
+    "combine",
+    "merge",
+    "unify",
+    "link"
+   ],
+   "antonyms": [
+    "divide",
+    "separate",
+    "split"
+   ],
+   "collocations": [
+    "unite against",
+    "unite behind",
+    "unite the country"
+   ]
+  },
+  "mnemonic": "جاية من 'Unit' يعني وحدة.. لما الناس تعمل 'Unite' بيتحولوا لـ 'Unit' 'وحدة' واحدة قوية.",
+  "phonetic_us": "juˈnaɪt",
+  "phonetic_uk": "juːˈnaɪt",
+  "syllables": "u-nite",
+  "semantic_tags": [
+   "#Teamwork",
+   "#Politics",
+   "#Connection"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To come or bring together for a common purpose or action.",
+  "explanation_ar": "يعني يتحدوا أو يتجمعوا عشان هدف واحد. زي لما الناس تتحد عشان تعمل تغيير أو الدول تتحد في حلف.",
+  "examples": [
+   "Music can unite people from different cultures.",
+   "The two companies decided to unite to increase profits.",
+   "The tragedy served to unite the community in grief."
+  ],
+  "translations": {
+   "arabic_ar": "يتحد يوحد"
+  },
+  "synonyms": [
+   "join",
+   "combine",
+   "merge",
+   "unify",
+   "link"
+  ],
+  "antonyms": [
+   "divide",
+   "separate",
+   "split"
+  ],
+  "collocations": [
+   "unite against",
+   "unite behind",
+   "unite the country"
+  ],
+  "mnemonic_ar": "جاية من 'Unit' يعني وحدة.. لما الناس تعمل 'Unite' بيتحولوا لـ 'Unit' 'وحدة' واحدة قوية."
+ }
+}

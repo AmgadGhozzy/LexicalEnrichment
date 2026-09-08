@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3451",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3451",
+  "lemma": "stem",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3451,
+  "lemma": "stem",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "stɛm",
+  "phonetic_uk": null,
+  "phonetic_ar": "سْتِم",
+  "definition_en": "To stop something unwanted from spreading, increasing, or continuing to develop.",
+  "explanation_ar": "يوقف أو يحد من تدفق شيء ما أو انتشاره غير المرغوب فيه، كإيقاف نزيف أو احتواء أزمة مالية.",
+  "examples": [
+   {
+    "example_text": "The government took drastic measures to stem the flow of illegal capital.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Paramedics applied firm pressure to stem the bleeding from the wound.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Effective leadership helped stem panic among the employees during the crisis.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تسد مجرى الماء بعود او ساق نبات stem صلب لتوقف التدفق",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To stop something unwanted from spreading, increasing, or continuing to develop.",
+    "short_def_en": "stop or check spread",
+    "definition_ar": "يوقف انتشار او تدفق شيء غير مرغوب فيه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "Control",
+     "Prevention",
+     "Limitation"
+    ],
+    "usage_note": "Frequently used with words like 'tide', 'flow', or 'bleeding'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To develop or originate as a natural result from something else.",
+    "short_def_en": "originate or arise from",
+    "definition_ar": "ينبع او ينشأ من سبب معين",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "Origin",
+     "Causation",
+     "Development"
+    ],
+    "usage_note": "Almost always followed by the preposition 'from'.",
+    "mnemonic_ar": "مثلما تنمو الاوراق من ساق النبات stem فإن المشكلات تنبع وتنشأ من جذورها"
+   }
+  ],
+  "collocations": [
+   "stem the tide",
+   "stem the flow",
+   "stem the bleeding",
+   "stem the spread",
+   "stem from"
+  ],
+  "synonyms": [
+   "halt",
+   "check",
+   "curb",
+   "arrest",
+   "contain"
+  ],
+  "antonyms": [
+   "encourage",
+   "foster",
+   "promote"
+  ],
+  "related_words": {
+   "en": [
+    "dam",
+    "blockage",
+    "source",
+    "outflow"
+   ],
+   "ar": [
+    "سد",
+    "انسداد",
+    "مصدر",
+    "تدفق خارجي"
+   ]
+  },
+  "word_family": {
+   "noun": "stem",
+   "verb": "stem",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يوقف / يصد / ينبع من",
+   "french_fr": "endiguer",
+   "german_de": "eindämmen",
+   "spanish_es": "frenar",
+   "chinese_zh": "遏制 (Èzhì)",
+   "russian_ru": "останавливать",
+   "portuguese_pt": "conter",
+   "japanese_ja": "食い止める (Kuitomeru)",
+   "italian_it": "arginare",
+   "turkish_tr": "durdurmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "0ad68cd1c7a3aba98fd8b8d82051b44eb0ff12b8ca450299050899ae27b66b9d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

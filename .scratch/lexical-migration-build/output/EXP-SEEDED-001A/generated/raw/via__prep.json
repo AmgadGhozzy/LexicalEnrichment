@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "via",
+  "pos": "prep"
+ },
+ "candidate": {
+  "lemma": "via",
+  "pos": "prep",
+  "cefr": "B2",
+  "definition_en": "Through a place on the way to another destination, or by means of a particular system, method, or medium.",
+  "explanation_ar": "عبر أو بالمرور بمكان ما في الطريق إلى وجهة أخرى، أو بواسطة وسيلة أو طريقة معينة.",
+  "senses": [
+   {
+    "definition_en": "Going through or stopping at a place on the way to a destination.",
+    "explanation_ar": "عبر أو بالمرور بمكان معين في الطريق إلى وجهة أخرى.",
+    "examples": [
+     "We are flying to Tokyo via Dubai."
+    ]
+   },
+   {
+    "definition_en": "Using a particular method, medium, or route to send or do something.",
+    "explanation_ar": "بواسطة أو عن طريق وسيلة أو قناة محددة.",
+    "examples": [
+     "He sent the message via email.",
+     "The news was broadcast via satellite to millions."
+    ]
+   }
+  ],
+  "examples": [
+   "We are flying to Tokyo via Dubai.",
+   "He sent the message via email.",
+   "The news was broadcast via satellite to millions."
+  ],
+  "translations": [
+   "عَبْر",
+   "عَنْ طَرِيق",
+   "بِوَاسِطَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "through",
+    "by means of",
+    "by way of"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "travel via",
+    "via email",
+    "via satellite"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈvaɪə",
+  "phonetic_uk": "ˈviːə",
+  "syllables": "vi-a",
+  "semantic_tags": [
+   "Travel",
+   "Method",
+   "Communication"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Through a place on the way to another destination, or by means of a particular system, method, or medium.",
+  "explanation_ar": "عبر أو بالمرور بمكان ما في الطريق إلى وجهة أخرى، أو بواسطة وسيلة أو طريقة معينة.",
+  "examples": [
+   "We are flying to Tokyo via Dubai.",
+   "He sent the message via email.",
+   "The news was broadcast via satellite to millions."
+  ],
+  "translations": {
+   "arabic_ar": "عَبْر عَنْ طَرِيق بِوَاسِطَة"
+  },
+  "synonyms": [
+   "through",
+   "by means of",
+   "by way of"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "travel via",
+   "via email",
+   "via satellite"
+  ],
+  "mnemonic_ar": null
+ }
+}

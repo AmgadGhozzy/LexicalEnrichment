@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4638",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4638",
+  "lemma": "medieval",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4638,
+  "lemma": "medieval",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌmed.iˈiː.vəl",
+  "phonetic_uk": "ˌmed.iˈiː.vəl",
+  "phonetic_ar": "مِيدِي إِيفَل",
+  "definition_en": "Connected with the Middle Ages, the historical period in Europe between roughly 500 and 1500 AD.",
+  "explanation_ar": "صفة تشير الى كل ما يتعلق بفترة القرون الوسطى في التاريخ الاوروبي، الممتدة تقريبا من القرن الخامس الى الخامس عشر الميلادي.",
+  "examples": [
+   {
+    "example_text": "The museum exhibits a stunning collection of medieval armor and weapons.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Scholars gathered to examine the rare medieval manuscript preserved in the vault.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Many European towns still preserve their medieval street layouts and stone walls.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الكلمة من جزايين لاتينيين med بمعنى وسط مثل middle و ev بمعنى عصر او زمن مثل era لتعني حرفيا العصور الوسطى",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Connected with the Middle Ages, the period in European history from roughly 500 to 1500 AD.",
+    "short_def_en": "relating to the Middle Ages",
+    "definition_ar": "متعلق بالعصور الوسطى في تاريخ اوروبا",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "history",
+     "europe",
+     "periods",
+     "culture"
+    ],
+    "usage_note": "Also spelled 'mediaeval' in older or formal British texts.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Extremely old-fashioned, primitive, or cruel in an unacceptable way.",
+    "short_def_en": "primitive or outdated",
+    "definition_ar": "بدائي او قديم جدا وغير ملائم للعصر الحديث",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "judgment",
+     "outdated",
+     "harsh"
+    ],
+    "usage_note": "Used disapprovingly or figuratively to criticize harsh conditions or backward ideas.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "medieval period",
+   "medieval history",
+   "medieval castle",
+   "medieval manuscript",
+   "medieval times"
+  ],
+  "synonyms": [
+   "Middle-Age",
+   "feudal"
+  ],
+  "antonyms": [
+   "modern",
+   "contemporary"
+  ],
+  "related_words": {
+   "en": [
+    "feudalism",
+    "knight",
+    "castle",
+    "chivalry",
+    "peasant"
+   ],
+   "ar": [
+    "اقطاعية",
+    "فارس",
+    "قلعة",
+    "فروسية",
+    "فلاح"
+   ]
+  },
+  "word_family": {
+   "noun": "medievalist",
+   "verb": "",
+   "adj": "medieval",
+   "adv": "medievallly"
+  },
+  "translations": {
+   "arabic_ar": "قروسطي / خاص بالقرون الوسطى",
+   "french_fr": "médiéval",
+   "german_de": "mittelalterlich",
+   "spanish_es": "medieval",
+   "chinese_zh": "中世纪的 (Zhōngshìjì de)",
+   "russian_ru": "средневековый",
+   "portuguese_pt": "medieval",
+   "japanese_ja": "中世の (Chūsei no)",
+   "italian_it": "medievale",
+   "turkish_tr": "ortaçağa ait"
+  }
+ },
+ "provenance": {
+  "output_hash": "0c5423d515e3030fb31094c644a7bd05f83e41aaf1c02f247eeb4ab47eae28e0",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

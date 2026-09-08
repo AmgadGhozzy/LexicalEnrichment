@@ -1,0 +1,115 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4515",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4515",
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4515,
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "2",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈbʌkɪt",
+  "phonetic_uk": null,
+  "phonetic_ar": "بَاكِت",
+  "definition_en": "An open container with a handle, mainly used for holding or carrying liquids or loose materials.",
+  "explanation_ar": "وعاء مفتوح من الأعلى وله مقبض يدوي، يُستخدم عادة لنقل أو حفظ السوائل كالمياه أو المواد السائبة كالحصى والرمل.",
+  "examples": [
+   {
+    "example_text": "He filled the plastic bucket with soapy water to wash the floor.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The little girl took a red bucket to the beach to build sandcastles.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A wooden bucket was left beside the well in the courtyard.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر عبارة bucket list اي قائمة الامنيات قبل ان يركل الانسان الدلو ويفارق الحياة كما في التعبير الشائع kick the bucket",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An open container with a handle, used for carrying liquids or uncompacted materials.",
+    "short_def_en": "container with a handle",
+    "definition_ar": "سطل او دلو يُحمل بمقبض لنقل الماء او الاشياء",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "containers",
+     "tools",
+     "cleaning",
+     "household"
+    ],
+    "usage_note": "Commonly called a pail in traditional or North American storytelling contexts, though bucket is far more common.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "plastic bucket",
+   "bucket of water",
+   "mop and bucket",
+   "fill a bucket",
+   "empty a bucket"
+  ],
+  "synonyms": [
+   "pail"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "mop",
+    "water",
+    "handle",
+    "sponge",
+    "well"
+   ],
+   "ar": [
+    "ممسحة",
+    "ماء",
+    "مقبض",
+    "إسفنجة",
+    "بئر"
+   ]
+  },
+  "word_family": {
+   "noun": "bucketful",
+   "verb": "bucket",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "دلو / سطل",
+   "french_fr": "seau",
+   "german_de": "Eimer",
+   "spanish_es": "cubo / balde",
+   "chinese_zh": "水桶 (shuǐ tǒng)",
+   "russian_ru": "ведро",
+   "portuguese_pt": "balde",
+   "japanese_ja": "バケツ (Baketsu)",
+   "italian_it": "secchio",
+   "turkish_tr": "kova"
+  }
+ },
+ "provenance": {
+  "output_hash": "511e85058d50261be05cea3fca49faab295d91930d0d8ba6df56c0985957c08a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

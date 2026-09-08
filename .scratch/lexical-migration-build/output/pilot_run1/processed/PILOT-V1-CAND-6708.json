@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6708",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6708",
+  "lemma": "trolley",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6708,
+  "lemma": "trolley",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "trɑːli",
+  "phonetic_uk": "trɒli",
+  "phonetic_ar": "ترولي",
+  "definition_en": "A small vehicle with wheels that you push to carry food, luggage, or shopping.",
+  "explanation_ar": "عربة صغيرة ذات عجلات تُدفع باليد لنقل البضائع في المتجر أو الحقائب في المطار أو تقديم الطعام.",
+  "examples": [
+   {
+    "example_text": "He pushed the heavy shopping trolley down the supermarket aisle.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "You can use a luggage trolley to carry your bags through the airport.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The flight attendant wheeled the drink trolley along the narrow cabin.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تجر او تدحرج عربة التسوق وتلف بها رول في المتجر لتتذكر كلمة trolley",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A metal or plastic basket on wheels used for carrying goods while shopping or travelling.",
+    "short_def_en": "wheeled cart for goods",
+    "definition_ar": "عربة يد ذات عجلات تستخدم لنقل البضائع او الامتعة اثناء التسوق او السفر",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "shopping",
+     "travel",
+     "transportation"
+    ],
+    "usage_note": "In British English, shopping trolley corresponds to shopping cart in American English.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A small table on wheels used for serving food or carrying medical supplies.",
+    "short_def_en": "service cart on wheels",
+    "definition_ar": "طاولة صغيرة متحركة على عجلات لتقديم الطعام او نقل المعدات",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "hospital",
+     "food service",
+     "equipment"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "shopping trolley",
+   "luggage trolley",
+   "supermarket trolley",
+   "push a trolley",
+   "trolley service"
+  ],
+  "synonyms": [
+   "cart",
+   "handcart",
+   "wagon"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "basket",
+    "wheels",
+    "supermarket",
+    "airport",
+    "groceries"
+   ],
+   "ar": [
+    "سلة",
+    "عجلات",
+    "سوبرماركت",
+    "مطار",
+    "بقالة"
+   ]
+  },
+  "word_family": {
+   "noun": "trolley",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "عربة تسوق / عربة يد",
+   "french_fr": "chariot",
+   "german_de": "Einkaufswagen",
+   "spanish_es": "carrito",
+   "chinese_zh": "手推车 (Shǒutuīchē)",
+   "russian_ru": "тележка",
+   "portuguese_pt": "carrinho",
+   "japanese_ja": "手押し車 (Teoshiguruma)",
+   "italian_it": "carrello",
+   "turkish_tr": "el arabası"
+  }
+ },
+ "provenance": {
+  "output_hash": "7294bd85222dc79ec9ba6f578cd7ca17915feb354d387d3ca95ca03cc915d9fd",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

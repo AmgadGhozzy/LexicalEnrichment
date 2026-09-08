@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "phone",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "phone",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To make a telephone call to someone.",
+  "explanation_ar": "يتصل بحد في التليفون.",
+  "senses": [
+   {
+    "sense_id": "phone_v_01",
+    "definition_en": "To make a telephone call to someone.",
+    "definition_ar": "يتصل بشخص عبر الهاتف.",
+    "examples": [
+     "I will phone a taxi.",
+     "Can you phone me later?",
+     "Don't forget to phone home."
+    ]
+   }
+  ],
+  "examples": [
+   "I will phone a taxi.",
+   "Can you phone me later?",
+   "Don't forget to phone home."
+  ],
+  "translations": [
+   "يتصل",
+   "يهاتف"
+  ],
+  "relations": {
+   "synonyms": [
+    "call",
+    "ring",
+    "dial",
+    "contact"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "phone a friend",
+    "phone home",
+    "phone in"
+   ]
+  },
+  "mnemonic": "الفعل من 'Phone'.. يعني يستخدم الـ 'Phone' عشان يكلم حد.",
+  "phonetic_us": "foʊn",
+  "phonetic_uk": "fəʊn",
+  "syllables": [
+   "phone"
+  ],
+  "semantic_tags": [
+   "#Call",
+   "#Talk",
+   "#Contact"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To make a telephone call to someone.",
+  "explanation_ar": "يتصل بحد في التليفون.",
+  "examples": [
+   "I will phone a taxi.",
+   "Can you phone me later?",
+   "Don't forget to phone home."
+  ],
+  "translations": {
+   "arabic_ar": "يتصل يهاتف"
+  },
+  "synonyms": [
+   "call",
+   "ring",
+   "dial",
+   "contact"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "phone a friend",
+   "phone home",
+   "phone in"
+  ],
+  "mnemonic_ar": "الفعل من 'Phone'.. يعني يستخدم الـ 'Phone' عشان يكلم حد."
+ }
+}

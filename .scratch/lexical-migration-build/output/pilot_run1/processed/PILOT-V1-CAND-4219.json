@@ -1,0 +1,117 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4219",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4219",
+  "lemma": "mud",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4219,
+  "lemma": "mud",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "mʌd",
+  "phonetic_uk": null,
+  "phonetic_ar": "مَد",
+  "definition_en": "Wet, soft, sticky earth formed by water mixing with soil.",
+  "explanation_ar": "تراب رطب وناعم يختلط بالماء ليصبح مادة لزجة، وهو ما يعرف بالطين أو الوحل.",
+  "examples": [
+   {
+    "example_text": "Heavy rain turned the garden path into thick mud.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The car got stuck in deep mud after leaving the road.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He wiped the dried mud off his walking boots before entering.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تخيل شخصا يمد يده في الطين فتتسخ، تذكر كلمة \"mud\" بصوت \"مَد\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Wet, soft, sticky earth formed by water mixing with soil.",
+    "short_def_en": "wet sticky soil",
+    "definition_ar": "خليط لين ولزج يتكون من اختلاط التراب بالماء، وهو الوحل أو الطين.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "nature",
+     "weather",
+     "earth",
+     "soil"
+    ],
+    "usage_note": "Used as an uncountable noun in most common contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "thick mud",
+   "deep mud",
+   "stuck in mud",
+   "covered in mud",
+   "splashed with mud"
+  ],
+  "synonyms": [
+   "sludge",
+   "mire",
+   "ooze"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "dirt",
+    "soil",
+    "clay",
+    "rain",
+    "puddle"
+   ],
+   "ar": [
+    "وسخ",
+    "تربة",
+    "صلصال",
+    "مطر",
+    "بركة ماء"
+   ]
+  },
+  "word_family": {
+   "noun": "mud",
+   "verb": "muddy",
+   "adj": "muddy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "طين / وحل",
+   "french_fr": "boue",
+   "german_de": "Schlamm",
+   "spanish_es": "barro",
+   "chinese_zh": "泥 (Ní)",
+   "russian_ru": "грязь",
+   "portuguese_pt": "lama",
+   "japanese_ja": "泥 (Doro)",
+   "italian_it": "fango",
+   "turkish_tr": "çamur"
+  }
+ },
+ "provenance": {
+  "output_hash": "dfe6a1f3c6fb5cb517c32a7d0cfe4d5102d62d292a2c48ab429f720149c40bc8",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

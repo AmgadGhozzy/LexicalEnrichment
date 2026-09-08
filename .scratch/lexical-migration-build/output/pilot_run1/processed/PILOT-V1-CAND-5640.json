@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5640",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5640",
+  "lemma": "pier",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5640,
+  "lemma": "pier",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "pɪr",
+  "phonetic_uk": "pɪə",
+  "phonetic_ar": "بِير",
+  "definition_en": "A long structure built out from land over water, used as a boat landing or walking area.",
+  "explanation_ar": "رصيف بحري أو جسر خشبي أو خرساني يمتد من الشاطئ فوق سطح الماء، يُستخدم لرسو القوارب أو للمشي والتنزه.",
+  "examples": [
+   {
+    "example_text": "We took a peaceful evening stroll along the wooden pier.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The ferry docked at the central pier to unload cargo and passengers.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Severe coastal storms caused extensive structural damage to the Victorian pier.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"pier\" بنطقها القريب من كلمة بير اي بئر في العامية لكنه رصيف يمتد وسط الماء",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A platform extending from the shore into water, used for docking boats or recreation.",
+    "short_def_en": "raised walkway over water",
+    "definition_ar": "رصيف او ممر ممتد فوق البحر لرسو السفن او التنزه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "coastal",
+     "architecture",
+     "maritime"
+    ],
+    "usage_note": "Often refers to seaside pleasure piers or docking platforms.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A vertical pillar or post supporting a heavy structure like an arch or bridge.",
+    "short_def_en": "bridge support pillar",
+    "definition_ar": "دعامة عمودية ضخمة تسند جسرا او قوسا معماريا",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "architecture",
+     "engineering",
+     "construction"
+    ],
+    "usage_note": "Used in civil engineering and architectural contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "wooden pier",
+   "walk along the pier",
+   "dock at the pier",
+   "pier support",
+   "coastal pier"
+  ],
+  "synonyms": [
+   "jetty",
+   "wharf",
+   "dock",
+   "quay",
+   "pillar"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "harbor",
+    "port",
+    "boardwalk",
+    "waterfront",
+    "ferry"
+   ],
+   "ar": [
+    "ميناء",
+    "مرفأ",
+    "ممشى خشبي",
+    "واجهة بحرية",
+    "عبارة"
+   ]
+  },
+  "word_family": {
+   "noun": "pier",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "رصيف بحري / دعامة جسر",
+   "french_fr": "jetée",
+   "german_de": "Pier",
+   "spanish_es": "embarcadero",
+   "chinese_zh": "码头 (mǎtóu)",
+   "russian_ru": "пирс",
+   "portuguese_pt": "cais",
+   "japanese_ja": "桟橋 (Sanbashi)",
+   "italian_it": "molo",
+   "turkish_tr": "iskele"
+  }
+ },
+ "provenance": {
+  "output_hash": "48d50a8ad40624f57644cf882999bd48461e8e09eb39e8750e7ecbbd45f8de64",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

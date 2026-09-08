@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "whilst",
+  "pos": "conj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "whilst",
+  "pos": "conj",
+  "cefr": "C1",
+  "definition_en": "During the time that; at the same time as.",
+  "explanation_ar": "بينما، أو في الوقت اللي بيحصل فيه حاجة تانية. 'كلمة رسمية أكتر من while'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "During the time that; at the same time as.",
+    "definition_ar": "في أثناء أو خلال وقت حدوث شيء آخر.",
+    "examples": [
+     "The system was upgraded whilst maintaining full operational capacity.",
+     "He listened whilst she spoke."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Whereas; although.",
+    "definition_ar": "في حين أن أو مع أن (لإظهار التناقض أو المقارنة).",
+    "examples": [
+     "Whilst some people love winter, others hate it."
+    ]
+   }
+  ],
+  "examples": [
+   "The system was upgraded whilst maintaining full operational capacity.",
+   "Whilst some people love winter, others hate it.",
+   "He listened whilst she spoke."
+  ],
+  "translations": [
+   "بينما",
+   "في حين"
+  ],
+  "relations": {
+   "synonyms": [
+    "while",
+    "whereas",
+    "although",
+    "as"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "whilst others",
+    "whilst at the same time",
+    "whilst on holiday"
+   ]
+  },
+  "mnemonic": "كلمة 'Whilst' هي هي 'While' بس فيها 'st' زيادة للدلع والرسميات.",
+  "phonetic_us": "/waɪlst/",
+  "phonetic_uk": "/waɪlst/",
+  "syllables": [
+   "whilst"
+  ],
+  "semantic_tags": [
+   "Time",
+   "Contrast",
+   "Formal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "During the time that; at the same time as.",
+  "explanation_ar": "بينما، أو في الوقت اللي بيحصل فيه حاجة تانية. 'كلمة رسمية أكتر من while'.",
+  "examples": [
+   "The system was upgraded whilst maintaining full operational capacity.",
+   "Whilst some people love winter, others hate it.",
+   "He listened whilst she spoke."
+  ],
+  "translations": {
+   "arabic_ar": "بينما في حين"
+  },
+  "synonyms": [
+   "while",
+   "whereas",
+   "although",
+   "as"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "whilst others",
+   "whilst at the same time",
+   "whilst on holiday"
+  ],
+  "mnemonic_ar": "كلمة 'Whilst' هي هي 'While' بس فيها 'st' زيادة للدلع والرسميات."
+ }
+}

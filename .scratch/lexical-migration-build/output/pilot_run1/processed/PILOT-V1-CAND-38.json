@@ -1,0 +1,118 @@
+{
+ "candidate_id": "PILOT-V1-CAND-38",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-38",
+  "lemma": "like",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 38,
+  "lemma": "like",
+  "pos": "verb",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.99,
+  "phonetic_us": "laɪk",
+  "phonetic_uk": null,
+  "phonetic_ar": "لايك",
+  "definition_en": "To find someone or something pleasant, enjoyable, or satisfactory.",
+  "explanation_ar": "أن تجد شيئا ممتعا أو شخصا لطيفا، ويعبر عن الميل الإيجابي أو الاستحسان دون بلوغ درجة الحب الشديد.",
+  "examples": [
+   {
+    "example_text": "I like fresh fruit in the morning.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Do you like to read books in your free time?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Many people like this restaurant because the service is friendly.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر زر الإعجاب الشهير في وسائل التواصل المكتوب عليه \"like\"، والذي تضغطه عندما يعجبك محتوى معين.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To find someone or something pleasant, enjoyable, or agreeable.",
+    "short_def_en": "enjoy or approve of",
+    "definition_ar": "يعجب بشيء أو يستحسنه ويستمتع به",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "preferences",
+     "feelings",
+     "interests"
+    ],
+    "usage_note": "Can be followed by a noun, a gerund (-ing), or a to-infinitive.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "like best",
+   "really like",
+   "would like",
+   "like doing something"
+  ],
+  "synonyms": [
+   "enjoy",
+   "fancy",
+   "appreciate",
+   "favor"
+  ],
+  "antonyms": [
+   "dislike",
+   "hate",
+   "detest"
+  ],
+  "related_words": {
+   "en": [
+    "love",
+    "preference",
+    "taste",
+    "favorite"
+   ],
+   "ar": [
+    "حب",
+    "تفضيل",
+    "ذوق",
+    "مفضل"
+   ]
+  },
+  "word_family": {
+   "noun": "liking",
+   "verb": "like",
+   "adj": "likable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يُحِبّ / يُعْجَب بـ",
+   "french_fr": "aimer",
+   "german_de": "mögen",
+   "spanish_es": "gustar",
+   "chinese_zh": "喜欢 (xǐhuan)",
+   "russian_ru": "нравиться",
+   "portuguese_pt": "gostar",
+   "japanese_ja": "好む (Konomu)",
+   "italian_it": "piacere",
+   "turkish_tr": "beğenmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "a035490a96093f519a30fdac3eef0264a35fe17f4945e273b1360810bad9f047",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

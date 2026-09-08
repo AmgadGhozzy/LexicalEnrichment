@@ -1,0 +1,140 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1973",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1973",
+  "lemma": "domestic",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1973,
+  "lemma": "domestic",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "dəˈmɛstɪk",
+  "phonetic_uk": null,
+  "phonetic_ar": "دوميستيك",
+  "definition_en": "Relating to the home, household affairs, or family life.",
+  "explanation_ar": "يصف ما يتعلق بالمنزل، أو شؤون الأسرة، أو الأعمال والحياة العائلية الداخلية، كما يستعمل لوصف ما هو محلي داخل الدولة.",
+  "examples": [
+   {
+    "example_text": "She shared the domestic chores equally with her partner.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The government announced new measures to stimulate domestic industry.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Passengers on the domestic flight were asked to show their identification.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة dome اي قبة البيت، فكل ما هو \"domestic\" يرتبط بداخل البيت او داخل الوطن",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Connected with the home, private house, or family life.",
+    "short_def_en": "relating to the home",
+    "definition_ar": "متعلق بالبيت وشؤون الاسرة او الحياة المنزلية",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "home",
+     "family",
+     "household",
+     "daily life"
+    ],
+    "usage_note": "Often paired with words like chores, appliances, or life.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Belonging to or occurring inside one particular country; not foreign or international.",
+    "short_def_en": "national or internal",
+    "definition_ar": "محلي او داخلي خاص بدولة واحدة وليس دوليا",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "politics",
+     "economy",
+     "travel",
+     "nation"
+    ],
+    "usage_note": "Frequently contrasted with foreign or international.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "domestic chores",
+   "domestic flight",
+   "domestic market",
+   "domestic violence",
+   "domestic animal"
+  ],
+  "synonyms": [
+   "household",
+   "internal",
+   "national",
+   "native",
+   "home"
+  ],
+  "antonyms": [
+   "foreign",
+   "international",
+   "wild"
+  ],
+  "related_words": {
+   "en": [
+    "home",
+    "household",
+    "family",
+    "interior",
+    "nation"
+   ],
+   "ar": [
+    "منزل",
+    "اسرة",
+    "عائلة",
+    "داخلي",
+    "وطن"
+   ]
+  },
+  "word_family": {
+   "noun": "domestication",
+   "verb": "domesticate",
+   "adj": "domestic",
+   "adv": "domestically"
+  },
+  "translations": {
+   "arabic_ar": "منزلي / محلي / داخلي",
+   "french_fr": "domestique",
+   "german_de": "häuslich / inländisch",
+   "spanish_es": "doméstico",
+   "chinese_zh": "国内的 (guónèi de) / 家庭的 (jiātíng de)",
+   "russian_ru": "домашний / внутренний",
+   "portuguese_pt": "doméstico",
+   "japanese_ja": "家庭の (Katei no) / 国内の (Kokunai no)",
+   "italian_it": "domestico",
+   "turkish_tr": "evcil / yerli"
+  }
+ },
+ "provenance": {
+  "output_hash": "0f7072124ea93d626ee2d647486a64f8fc228b5faf2134210cf36fe9d0a499cd",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

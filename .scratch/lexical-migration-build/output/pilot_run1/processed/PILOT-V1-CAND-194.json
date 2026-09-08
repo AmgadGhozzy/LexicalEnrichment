@@ -1,0 +1,129 @@
+{
+ "candidate_id": "PILOT-V1-CAND-194",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-194",
+  "lemma": "since",
+  "pos": "conj",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 194,
+  "lemma": "since",
+  "pos": "conj",
+  "cefr_level": "A2",
+  "difficulty_score": "4",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "sɪns",
+  "phonetic_uk": null,
+  "phonetic_ar": "سِنْس",
+  "definition_en": "Starting from a particular time in the past until now, or because of a reason.",
+  "explanation_ar": "تأتي أداة ربط بمعنى 'منذ أن' للإشارة إلى نقطة بداية زمنية استمر أثرها، أو بمعنى 'بما أن' لبيان السبب والعلة.",
+  "examples": [
+   {
+    "example_text": "I have lived in this city since I was a child.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Since it was raining heavily, we decided to stay at home.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Much has changed since the new manager took over the team.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر صوت كلمة \"since\" القريب من بداية كلمة \"سيناريو\"، وتخيل نقطة بداية السيناريو منذ وقت محدد في الماضي وحتى الآن.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "From a specific point in time or an event in the past until the present.",
+    "short_def_en": "from a past time until now",
+    "definition_ar": "منذ أن، من وقت حدث في الماضي حتى الحاضر.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "duration",
+     "history"
+    ],
+    "usage_note": "Typically followed by a past simple clause when the main clause is in the present perfect.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Because; as a result of a fact that is already known.",
+    "short_def_en": "because or as",
+    "definition_ar": "بما أن أو نظرا لأن، لذكر سبب أو علة معروفة.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "cause",
+     "reason",
+     "explanation"
+    ],
+    "usage_note": "Often used at the beginning of a sentence to introduce an accepted reason.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "ever since",
+   "long since",
+   "since when",
+   "since then"
+  ],
+  "synonyms": [
+   "because",
+   "as",
+   "seeing that"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "because",
+    "until",
+    "from",
+    "after"
+   ],
+   "ar": [
+    "لأن",
+    "حتى",
+    "من",
+    "بعد"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": "since"
+  },
+  "translations": {
+   "arabic_ar": "مُنْذُ أَنْ / بِمَا أَنَّ",
+   "french_fr": "depuis que / puisque",
+   "german_de": "seit / da",
+   "spanish_es": "desde que / ya que",
+   "chinese_zh": "自……以来 (Zì......yǐlái) / 既然 (Jìrán)",
+   "russian_ru": "с тех пор как / поскольку",
+   "portuguese_pt": "desde que / já que",
+   "japanese_ja": "〜以来 (Irai) / 〜だから (Dakara)",
+   "italian_it": "da quando / poiché",
+   "turkish_tr": "-den beri / mademki"
+  }
+ },
+ "provenance": {
+  "output_hash": "356001d052d37fcc51598d4ea7cca8f76c3c56710c69c413b93c06426c239de8",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

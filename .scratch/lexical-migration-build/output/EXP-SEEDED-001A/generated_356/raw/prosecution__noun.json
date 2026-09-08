@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "prosecution",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "prosecution",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The legal proceedings against someone in respect of a criminal charge.",
+  "explanation_ar": "الادعاء أو المقاضاة.. الجهة في المحكمة اللي بتحاول تثبت إن المتهم مذنب، عكس الدفاع.",
+  "senses": [
+   {
+    "definition_en": "The legal proceedings against someone in respect of a criminal charge.",
+    "definition_ar": "الملاحقة القضائية أو إقامة دعوى جنائية ضد شخص متهم بجريمة.",
+    "examples": [
+     "He escaped prosecution due to a lack of concrete evidence.",
+     "He faced prosecution for stealing."
+    ]
+   },
+   {
+    "definition_en": "The party, legal team, or lawyers conducting the case against an accused person in a criminal court.",
+    "definition_ar": "جهة الادعاء أو النيابة العامة في المحكمة.",
+    "examples": [
+     "The evidence provided by the prosecution was weak."
+    ]
+   }
+  ],
+  "examples": [
+   "He escaped prosecution due to a lack of concrete evidence.",
+   "The evidence provided by the prosecution was weak.",
+   "He faced prosecution for stealing."
+  ],
+  "translations": [
+   "ملاحقة قضائية",
+   "مقاضاة",
+   "ادعاء"
+  ],
+  "relations": {
+   "synonyms": [
+    "legal action",
+    "litigation",
+    "indictment"
+   ],
+   "antonyms": [
+    "defense"
+   ],
+   "collocations": [
+    "criminal prosecution",
+    "witness for the prosecution",
+    "face prosecution",
+    "Crown Prosecution Service"
+   ]
+  },
+  "mnemonic": "قريبة من 'Persecute' 'يضطهد' بس بالقانون.. الـ 'Prosecution' هي الجهة اللي بتلاحق المجرمين قانونياً",
+  "phonetic_us": "ˌprɑːsɪˈkjuːʃn",
+  "phonetic_uk": "ˌprɒsɪˈkjuːʃn",
+  "syllables": "pros•e•cu•tion",
+  "semantic_tags": [
+   "#Law",
+   "#Court",
+   "#Crime"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The legal proceedings against someone in respect of a criminal charge.",
+  "explanation_ar": "الادعاء أو المقاضاة.. الجهة في المحكمة اللي بتحاول تثبت إن المتهم مذنب، عكس الدفاع.",
+  "examples": [
+   "He escaped prosecution due to a lack of concrete evidence.",
+   "The evidence provided by the prosecution was weak.",
+   "He faced prosecution for stealing."
+  ],
+  "translations": {
+   "arabic_ar": "ملاحقة قضائية مقاضاة ادعاء"
+  },
+  "synonyms": [
+   "legal action",
+   "litigation",
+   "indictment"
+  ],
+  "antonyms": [
+   "defense"
+  ],
+  "collocations": [
+   "criminal prosecution",
+   "witness for the prosecution",
+   "face prosecution",
+   "Crown Prosecution Service"
+  ],
+  "mnemonic_ar": "قريبة من 'Persecute' 'يضطهد' بس بالقانون.. الـ 'Prosecution' هي الجهة اللي بتلاحق المجرمين قانونياً"
+ }
+}

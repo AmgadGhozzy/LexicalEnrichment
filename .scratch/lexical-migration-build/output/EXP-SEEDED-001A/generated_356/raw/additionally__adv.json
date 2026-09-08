@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "additionally",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "additionally",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "Also; as an extra factor or circumstance.",
+  "explanation_ar": "بالإضافة لكدة.. بتستخدمها عشان تزود معلومة على الكلام اللي قولته",
+  "senses": [
+   {
+    "definition_en": "Also; as an extra factor or circumstance.",
+    "explanation_ar": "بالإضافة لكدة.. بتستخدمها عشان تزود معلومة على الكلام اللي قولته",
+    "examples": [
+     "Additionally, the company will provide health insurance.",
+     "Members receive a discount; additionally, they get free shipping.",
+     "The drug is effective; additionally, it has few side effects."
+    ]
+   }
+  ],
+  "examples": [
+   "Additionally, the company will provide health insurance.",
+   "Members receive a discount; additionally, they get free shipping.",
+   "The drug is effective; additionally, it has few side effects."
+  ],
+  "translations": [
+   "بالإضافة إلى ذلك",
+   "علاوة على ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "furthermore",
+    "moreover",
+    "besides",
+    "also"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "additionally provide",
+    "additionally require"
+   ]
+  },
+  "mnemonic": "من 'Addition' 'إضافة'.. يعني بتضيف حاجة تانية للكلام",
+  "phonetic_us": "əˈdɪʃənəli",
+  "phonetic_uk": "əˈdɪʃənəlɪ",
+  "syllables": "ad•di•tion•al•ly",
+  "semantic_tags": [
+   "#Connector",
+   "#Writing",
+   "#Formal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Also; as an extra factor or circumstance.",
+  "explanation_ar": "بالإضافة لكدة.. بتستخدمها عشان تزود معلومة على الكلام اللي قولته",
+  "examples": [
+   "Additionally, the company will provide health insurance.",
+   "Members receive a discount; additionally, they get free shipping.",
+   "The drug is effective; additionally, it has few side effects."
+  ],
+  "translations": {
+   "arabic_ar": "بالإضافة إلى ذلك علاوة على ذلك"
+  },
+  "synonyms": [
+   "furthermore",
+   "moreover",
+   "besides",
+   "also"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "additionally provide",
+   "additionally require"
+  ],
+  "mnemonic_ar": "من 'Addition' 'إضافة'.. يعني بتضيف حاجة تانية للكلام"
+ }
+}

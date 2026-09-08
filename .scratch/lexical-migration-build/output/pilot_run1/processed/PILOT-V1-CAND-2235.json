@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2235",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2235",
+  "lemma": "border",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2235,
+  "lemma": "border",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈbɔːrdər",
+  "phonetic_uk": "ˈbɔːdə",
+  "phonetic_ar": "بُورْدَرْ",
+  "definition_en": "The official dividing line between two countries, states, or regions.",
+  "explanation_ar": "الخط الفاصل الرسمي الذي يفصل بين دولتين أو منطقتين، وتوجد عنده عادة نقاط التفتيش والجمارك.",
+  "examples": [
+   {
+    "example_text": "We had to show our passports before crossing the border into Canada.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The river forms a natural border between the two countries.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Strict security measures were introduced along the northern border.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل كلمة \"border\" تشبه كلمة \"board\" اي لوح خشبي يوضع حاجزا على خط الحدود ليمنع العبور دون إذن",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The official dividing line between two countries, states, or regions.",
+    "short_def_en": "dividing line between countries",
+    "definition_ar": "الحد السياسي الفاصل بين دولتين او اقليمين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "geography",
+     "travel",
+     "politics"
+    ],
+    "usage_note": "Often used with prepositions like 'across' or 'along'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "An outer edge or decorative strip surrounding something.",
+    "short_def_en": "outer edge or margin",
+    "definition_ar": "حافة او إطار يحيط بشيء ما للتزيين او التحديد",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "design",
+     "art",
+     "gardening"
+    ],
+    "usage_note": "Common in design, sewing, and flower gardens.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "cross the border",
+   "border control",
+   "border patrol",
+   "national border",
+   "flower border"
+  ],
+  "synonyms": [
+   "boundary",
+   "frontier",
+   "edge",
+   "margin"
+  ],
+  "antonyms": [
+   "center",
+   "interior"
+  ],
+  "related_words": {
+   "en": [
+    "customs",
+    "checkpoint",
+    "passport",
+    "territory",
+    "fence",
+    "barrier"
+   ],
+   "ar": [
+    "جمارك",
+    "نقطة تفتيش",
+    "جواز سفر",
+    "إقليم",
+    "سياج",
+    "حاجز"
+   ]
+  },
+  "word_family": {
+   "noun": "border",
+   "verb": "border",
+   "adj": "borderline",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "حدود / حافة",
+   "french_fr": "frontière",
+   "german_de": "Grenze",
+   "spanish_es": "frontera",
+   "chinese_zh": "边界 (Biānjiè)",
+   "russian_ru": "граница",
+   "portuguese_pt": "fronteira",
+   "japanese_ja": "国境 (Kokkyō)",
+   "italian_it": "confine",
+   "turkish_tr": "sınır"
+  }
+ },
+ "provenance": {
+  "output_hash": "f39f2afa1f847c74057efc4358066ed1f76e6ffe0951e66b9fb64507c7b4e90a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

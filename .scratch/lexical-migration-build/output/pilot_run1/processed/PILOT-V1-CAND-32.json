@@ -1,0 +1,116 @@
+{
+ "candidate_id": "PILOT-V1-CAND-32",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-32",
+  "lemma": "me",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 32,
+  "lemma": "me",
+  "pos": "pron",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "General / Common",
+  "ai_confidence": 0.99,
+  "phonetic_us": "mi",
+  "phonetic_uk": null,
+  "phonetic_ar": "مِي",
+  "definition_en": "The person speaking or writing, used as the object of a verb or preposition.",
+  "explanation_ar": "ضمير المتكلم في حالة المفعول به، يعادل في العربية ياء المتكلم مثل كلمني أو حرف الجر المتصل مثل لي وبي.",
+  "examples": [
+   {
+    "example_text": "Can you help me with this bag?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "She sent me an email yesterday.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "They are waiting for me outside.",
+    "intended_cefr": "A1"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The speaker or writer considered as the receiver of an action or after a preposition.",
+    "short_def_en": "speaker as object",
+    "definition_ar": "المتكلم عندما يقع عليه الفعل أو بعد حرف الجر، كقولك ساعدني أو من أجلي.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "grammar",
+     "pronouns",
+     "communication"
+    ],
+    "usage_note": "Used as an object pronoun; compare with I which is used as the subject.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "tell me",
+   "give me",
+   "help me",
+   "with me",
+   "for me"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "you"
+  ],
+  "related_words": {
+   "en": [
+    "I",
+    "my",
+    "mine",
+    "myself",
+    "we",
+    "us"
+   ],
+   "ar": [
+    "أنا",
+    "لي",
+    "ملكي",
+    "نفسي",
+    "نحن",
+    "إيانا"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ياء المتكلم / ني / إياي",
+   "french_fr": "me / moi",
+   "german_de": "mich / mir",
+   "spanish_es": "me / mí",
+   "chinese_zh": "我 (wǒ)",
+   "russian_ru": "меня / мне",
+   "portuguese_pt": "me / mim",
+   "japanese_ja": "私 (Watashi)",
+   "italian_it": "mi / me",
+   "turkish_tr": "beni / bana"
+  }
+ },
+ "provenance": {
+  "output_hash": "715e004b75623886eca0df94420aff04189f233f6d511146973d7cc6d4d8e0b6",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

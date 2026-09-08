@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3106",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3106",
+  "lemma": "connect",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3106,
+  "lemma": "connect",
+  "pos": "verb",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.98,
+  "phonetic_us": "kəˈnɛkt",
+  "phonetic_uk": null,
+  "phonetic_ar": "كَنِكْت",
+  "definition_en": "To join two or more things, people, or places together.",
+  "explanation_ar": "يربط أو يصل بين شيئين أو شخصين أو مكانين، سواء كان الربط ماديا كربط الأسلاك أو معنويا كالتواصل بين الناس.",
+  "examples": [
+   {
+    "example_text": "You can connect your phone to the computer with this cable.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "A new bridge will connect the two islands.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Good leaders connect with people on an emotional level.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"connect\" من خلال مقطع \"con\" الذي يعني معا، مثل فكرة وضع شيئين معا لربطهما.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To join two or more things physically or mechanically.",
+    "short_def_en": "join things physically",
+    "definition_ar": "يربط او يصل بين شيئين بشكل مادي او تقني",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "technology",
+     "physical action",
+     "linking"
+    ],
+    "usage_note": "Often used with 'to' or 'with' when joining devices or objects.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To establish good communication or feel sympathy with someone.",
+    "short_def_en": "relate well to someone",
+    "definition_ar": "يتواصل جيدا او ينسجم عاطفيا مع شخص اخر",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "social life",
+     "empathy",
+     "relationships"
+    ],
+    "usage_note": "Usually followed by the preposition 'with'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "connect to the internet",
+   "connect with people",
+   "connect the dots",
+   "directly connect"
+  ],
+  "synonyms": [
+   "join",
+   "link",
+   "attach",
+   "unite"
+  ],
+  "antonyms": [
+   "disconnect",
+   "separate",
+   "divide"
+  ],
+  "related_words": {
+   "en": [
+    "cable",
+    "network",
+    "relationship",
+    "bridge",
+    "link"
+   ],
+   "ar": [
+    "سلك",
+    "شبكة",
+    "علاقة",
+    "جسر",
+    "رابط"
+   ]
+  },
+  "word_family": {
+   "noun": "connection",
+   "verb": "connect",
+   "adj": "connected",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يربط / يتصل",
+   "french_fr": "connecter",
+   "german_de": "verbinden",
+   "spanish_es": "conectar",
+   "chinese_zh": "连接 (Liánjiē)",
+   "russian_ru": "соединять",
+   "portuguese_pt": "conectar",
+   "japanese_ja": "繋ぐ (Tsunagu)",
+   "italian_it": "collegare",
+   "turkish_tr": "bağlamak"
+  }
+ },
+ "provenance": {
+  "output_hash": "9a4a155523fe633c651f57f1866f93c60c6b6979271a518b104e8259b7a84c91",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

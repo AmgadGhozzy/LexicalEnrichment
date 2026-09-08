@@ -1,0 +1,122 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7007",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7007",
+  "lemma": "correlate",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7007,
+  "lemma": "correlate",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "kɔːrəleɪt",
+  "phonetic_uk": "kɒrəleɪt",
+  "phonetic_ar": "كورولَيت",
+  "definition_en": "To show or have a close connection or mutual relationship between two or more facts or numbers.",
+  "explanation_ar": "يربط بين أمرين أو يظهر وجود علاقة متبادلة وتأثير متبادل بين حقيقتين أو متغيرين أو أكثر.",
+  "examples": [
+   {
+    "example_text": "Researchers tried to correlate high stress levels with poor sleep quality.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The study found that income does not always correlate with personal happiness.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Scientists correlate these temperature changes directly with rising greenhouse gas emissions.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر بادئة \"co\" التي تعني معا وكلمة \"relate\" التي تعني يرتبط فالكلمة تعني يربط شيئين معا في علاقة متبادلة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To have a mutual connection or show that two or more things are connected.",
+    "short_def_en": "have or show mutual connection",
+    "definition_ar": "يرتبط أو يربط بين شيئين أو أكثر بعلاقة متبادلة",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "Statistics",
+     "Research",
+     "Logic",
+     "Cause and Effect"
+    ],
+    "usage_note": "Often used with the preposition 'with' (e.g., correlate with).",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "correlate strongly with",
+   "correlate directly with",
+   "fail to correlate",
+   "correlate with each other",
+   "attempt to correlate"
+  ],
+  "synonyms": [
+   "connect",
+   "link",
+   "associate",
+   "relate",
+   "correspond"
+  ],
+  "antonyms": [
+   "differ",
+   "disconnect"
+  ],
+  "related_words": {
+   "en": [
+    "correlation",
+    "correlative",
+    "variable",
+    "data",
+    "causation"
+   ],
+   "ar": [
+    "ارتباط",
+    "مترابط",
+    "متغير",
+    "بيانات",
+    "سببية"
+   ]
+  },
+  "word_family": {
+   "noun": "correlation",
+   "verb": "correlate",
+   "adj": "correlative",
+   "adv": "correlatively"
+  },
+  "translations": {
+   "arabic_ar": "يرتبط / يربط / يماثل",
+   "french_fr": "corréler",
+   "german_de": "korrelieren",
+   "spanish_es": "correlacionar",
+   "chinese_zh": "关联 (Guānlián)",
+   "russian_ru": "соотноситься",
+   "portuguese_pt": "correlacionar",
+   "japanese_ja": "関連づける (Kanrenzukeru)",
+   "italian_it": "correlare",
+   "turkish_tr": "ilişkilendirmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "11ce6919ffde6fbd659aec0d7db8f0e167c2804659f6e3083fce374a43c1d485",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

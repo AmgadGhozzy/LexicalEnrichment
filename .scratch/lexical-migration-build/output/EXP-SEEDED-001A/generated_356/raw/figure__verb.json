@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "figure",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "figure",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To calculate an amount or to think about and understand something.",
+  "explanation_ar": "تحسب حاجة أو تفكر في موضوع عشان تفهمه وتلاقي له حل.",
+  "senses": [
+   {
+    "definition_en": "To calculate or compute an amount or number.",
+    "definition_ar": "يحسب أو يقدّر مبلغاً أو تكلفة."
+   },
+   {
+    "definition_en": "To think, expect, or conclude that something is true.",
+    "definition_ar": "يعتقد أو يخمّن أو يستنتج."
+   },
+   {
+    "definition_en": "To understand or find a solution to a problem (commonly with 'out').",
+    "definition_ar": "يفهم أو يحل مسألة معينة."
+   }
+  ],
+  "examples": [
+   "Can you figure the total cost of the project?",
+   "We need to figure out how to get there on time.",
+   "I figure that we can finish the work before sunset."
+  ],
+  "translations": [
+   "يَحْسِب",
+   "يَسْتَنْتِج",
+   "يَعْتَقِد"
+  ],
+  "relations": {
+   "synonyms": [
+    "calculate",
+    "compute",
+    "deduce",
+    "think"
+   ],
+   "antonyms": [
+    "guess"
+   ],
+   "collocations": [
+    "figure out",
+    "figure in",
+    "go figure"
+   ]
+  },
+  "mnemonic": "لما تقول 'Figure it out' يعني بتحاول تـ 'Fix' 'تصلح' المشكلة وتفهمها.",
+  "phonetic_us": "ˈfɪɡjər",
+  "phonetic_uk": "ˈfɪɡə",
+  "syllables": "fig•ure",
+  "semantic_tags": [
+   "#Thinking",
+   "#Calculation",
+   "#Solving"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To calculate an amount or to think about and understand something.",
+  "explanation_ar": "تحسب حاجة أو تفكر في موضوع عشان تفهمه وتلاقي له حل.",
+  "examples": [
+   "Can you figure the total cost of the project?",
+   "We need to figure out how to get there on time.",
+   "I figure that we can finish the work before sunset."
+  ],
+  "translations": {
+   "arabic_ar": "يَحْسِب يَسْتَنْتِج يَعْتَقِد"
+  },
+  "synonyms": [
+   "calculate",
+   "compute",
+   "deduce",
+   "think"
+  ],
+  "antonyms": [
+   "guess"
+  ],
+  "collocations": [
+   "figure out",
+   "figure in",
+   "go figure"
+  ],
+  "mnemonic_ar": "لما تقول 'Figure it out' يعني بتحاول تـ 'Fix' 'تصلح' المشكلة وتفهمها."
+ }
+}

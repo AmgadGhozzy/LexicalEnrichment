@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "date",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "date",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A specific day of the month or year; a planned social or romantic meeting; or a sweet, dark brown fruit.",
+  "explanation_ar": "تأتي بمعنى تاريخ اليوم أو تاريخ محدد في التقويم، وتأتي أيضاً بمعنى موعد أو لقاء بين شخصين، وكذلك تعني ثمرة التمر.",
+  "senses": [
+   {
+    "definition_en": "A particular day of the month or year.",
+    "definition_ar": "تاريخ (يوم في التقويم)",
+    "examples": [
+     "What is the date today?",
+     "Please write your date of birth on the form."
+    ]
+   },
+   {
+    "definition_en": "A planned social or romantic meeting.",
+    "definition_ar": "موعد أو لقاء اجتماعي",
+    "examples": [
+     "I have a date with my friend tonight."
+    ]
+   }
+  ],
+  "examples": [
+   "What is the date today?",
+   "I have a date with my friend tonight.",
+   "Please write your date of birth on the form."
+  ],
+  "translations": [
+   "تاريخ",
+   "موعد",
+   "تمرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "appointment",
+    "meeting"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "date of birth",
+    "blind date",
+    "save the date",
+    "up to date"
+   ]
+  },
+  "mnemonic": "كلمة 'Day' تعني يوم.. والـ 'Date' هو تحديد هذا الـ 'Day' بالتاريخ واليوم بدقة.",
+  "phonetic_us": "deɪt",
+  "phonetic_uk": "deɪt",
+  "syllables": "date",
+  "semantic_tags": [
+   "#Calendar",
+   "#Time",
+   "#Relationships"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A specific day of the month or year; a planned social or romantic meeting; or a sweet, dark brown fruit.",
+  "explanation_ar": "تأتي بمعنى تاريخ اليوم أو تاريخ محدد في التقويم، وتأتي أيضاً بمعنى موعد أو لقاء بين شخصين، وكذلك تعني ثمرة التمر.",
+  "examples": [
+   "What is the date today?",
+   "I have a date with my friend tonight.",
+   "Please write your date of birth on the form."
+  ],
+  "translations": {
+   "arabic_ar": "تاريخ موعد تمرة"
+  },
+  "synonyms": [
+   "appointment",
+   "meeting"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "date of birth",
+   "blind date",
+   "save the date",
+   "up to date"
+  ],
+  "mnemonic_ar": "كلمة 'Day' تعني يوم.. والـ 'Date' هو تحديد هذا الـ 'Day' بالتاريخ واليوم بدقة."
+ }
+}

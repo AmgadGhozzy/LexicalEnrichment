@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "entertainment",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "entertainment",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The action of providing amusement or enjoyment, or performances and activities designed to entertain people.",
+  "explanation_ar": "الترفيه أو التسلية، زي الأفلام والمزيكا والألعاب.",
+  "senses": [
+   {
+    "sense_id": "entertainment_1",
+    "definition_en": "Performances, shows, films, or activities that provide amusement or enjoyment.",
+    "definition_ar": "وسائل أو أنشطة الترفيه والتسلية كالعروض والأفلام والموسيقى.",
+    "examples": [
+     "The hotel provides evening entertainment.",
+     "We watched TV for entertainment.",
+     "The entertainment industry is huge."
+    ]
+   }
+  ],
+  "examples": [
+   "The hotel provides evening entertainment.",
+   "We watched TV for entertainment.",
+   "The entertainment industry is huge."
+  ],
+  "translations": [
+   "ترفيه",
+   "تسلية"
+  ],
+  "relations": {
+   "synonyms": [
+    "amusement",
+    "fun",
+    "enjoyment",
+    "pastime"
+   ],
+   "antonyms": [
+    "boredom",
+    "work"
+   ],
+   "collocations": [
+    "entertainment industry",
+    "live entertainment",
+    "family entertainment"
+   ]
+  },
+  "mnemonic": "افتكر كلمة enter (يدخل): الترفيه حاجة بتدخل البهجة والسرور على قلبك.",
+  "phonetic_us": "ˌɛntərˈteɪnmənt",
+  "phonetic_uk": "ˌentəˈteɪnmənt",
+  "syllables": "en•ter•tain•ment",
+  "semantic_tags": [
+   "#Fun",
+   "#Media",
+   "#Leisure"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of providing amusement or enjoyment, or performances and activities designed to entertain people.",
+  "explanation_ar": "الترفيه أو التسلية، زي الأفلام والمزيكا والألعاب.",
+  "examples": [
+   "The hotel provides evening entertainment.",
+   "We watched TV for entertainment.",
+   "The entertainment industry is huge."
+  ],
+  "translations": {
+   "arabic_ar": "ترفيه تسلية"
+  },
+  "synonyms": [
+   "amusement",
+   "fun",
+   "enjoyment",
+   "pastime"
+  ],
+  "antonyms": [
+   "boredom",
+   "work"
+  ],
+  "collocations": [
+   "entertainment industry",
+   "live entertainment",
+   "family entertainment"
+  ],
+  "mnemonic_ar": "افتكر كلمة enter (يدخل): الترفيه حاجة بتدخل البهجة والسرور على قلبك."
+ }
+}

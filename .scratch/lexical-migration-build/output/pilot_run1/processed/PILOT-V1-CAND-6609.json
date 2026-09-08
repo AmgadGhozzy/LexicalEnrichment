@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6609",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6609",
+  "lemma": "stocking",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6609,
+  "lemma": "stocking",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈstɑːkɪŋ",
+  "phonetic_uk": "ˈstɒkɪŋ",
+  "phonetic_ar": "سْتَاكِنْغ",
+  "definition_en": "A close-fitting piece of clothing that covers the foot and leg, usually worn by women.",
+  "explanation_ar": "لباس ضيق يغطي القدم والساق وغالبا ما ترتديه النساء، أو جورب طويل يعلق للزينة في الأعياد لوضع الهدايا بداخله.",
+  "examples": [
+   {
+    "example_text": "She noticed a small tear running down her nylon stocking.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The child hung a large red stocking above the fireplace on Christmas Eve.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "A silk stocking was traditionally a luxury item before modern synthetic fabrics.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تخزن اشياء او تملأ مخزونك stock داخل جورب طويل معلق على الحائط مثل stocking المليء بالهدايا",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A close-fitting knitted garment worn by women that covers the foot and part of the leg.",
+    "short_def_en": "long fitted leg covering",
+    "definition_ar": "جورب نسائي طويل وضيق يغطي القدم وجزءا من الساق",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "clothing",
+     "fashion",
+     "accessories"
+    ],
+    "usage_note": "Often used in the plural 'stockings' when referring to a pair worn on both legs.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A large sock-shaped bag hung up at Christmas to be filled with small presents.",
+    "short_def_en": "holiday gift sock",
+    "definition_ar": "جورب زينة كبير يعلق في الاعياد ليوضع فيه الهدايا",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "traditions",
+     "celebration",
+     "clothing"
+    ],
+    "usage_note": "Commonly called a 'Christmas stocking'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "nylon stocking",
+   "silk stocking",
+   "Christmas stocking",
+   "stocking filler"
+  ],
+  "synonyms": [
+   "hose",
+   "hosiery"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "sock",
+    "tights",
+    "pantyhose",
+    "garter",
+    "legwear"
+   ],
+   "ar": [
+    "جورب",
+    "سروال ضيق",
+    "كيلون",
+    "رباط الجورب",
+    "ملابس الساقين"
+   ]
+  },
+  "word_family": {
+   "noun": "stocking",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "جورب طويل / جورب نسائي",
+   "french_fr": "bas",
+   "german_de": "Strumpf",
+   "spanish_es": "media",
+   "chinese_zh": "长筒袜 (chángtǒngwà)",
+   "russian_ru": "чулок",
+   "portuguese_pt": "meia",
+   "japanese_ja": "ストッキング (Sutokkingu)",
+   "italian_it": "calza",
+   "turkish_tr": "uzun çorap"
+  }
+ },
+ "provenance": {
+  "output_hash": "4d3ec57ce19c5364b55009e11753a51f93cf8815de309c5d5617c0348ec84f7d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

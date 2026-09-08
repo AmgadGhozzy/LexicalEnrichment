@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4274",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4274",
+  "lemma": "resume",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4274,
+  "lemma": "resume",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "rɪˈzuːm",
+  "phonetic_uk": "rɪˈzjuːm",
+  "phonetic_ar": "رِيزيُوم",
+  "definition_en": "To begin again or continue after a pause or interruption.",
+  "explanation_ar": "استئناف نشاط أو حديث بعد توقف مؤقت.",
+  "examples": [
+   {
+    "example_text": "We will resume the meeting after a short lunch break.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Normal train services are expected to resume tomorrow morning.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Both sides agreed to resume peace talks without preconditions.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان البادئة \"re\" تعني اعادة، فالفعل يعني اعادة البدء او الاستئناف بعد التوقف، ولا تخلط بينه وبين السيرة الذاتية التي تنطق بشكل مختلف.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To begin again or continue doing something after an interruption.",
+    "short_def_en": "start again after pause",
+    "definition_ar": "يعاود البدء او يواصل العمل بعد توقف مؤقت",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "continuation",
+     "activity",
+     "process"
+    ],
+    "usage_note": "Often followed by an object or used intransitively.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To take back or return to a former position or seat.",
+    "short_def_en": "return to a seat or post",
+    "definition_ar": "يعود الى مقعده او منصبه السابق",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "position",
+     "return",
+     "formal"
+    ],
+    "usage_note": "Mainly used in formal phrases like resume one's seat.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "resume talks",
+   "resume operations",
+   "resume work",
+   "resume negotiations",
+   "resume duties"
+  ],
+  "synonyms": [
+   "restart",
+   "continue",
+   "recommence",
+   "renew",
+   "reopen"
+  ],
+  "antonyms": [
+   "suspend",
+   "pause",
+   "halt"
+  ],
+  "related_words": {
+   "en": [
+    "interruption",
+    "pause",
+    "continuation",
+    "break"
+   ],
+   "ar": [
+    "مقاطعة",
+    "توقف مؤقت",
+    "استمرار",
+    "استراحة"
+   ]
+  },
+  "word_family": {
+   "noun": "resumption",
+   "verb": "resume",
+   "adj": "resumable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يستأنف / يواصل",
+   "french_fr": "reprendre",
+   "german_de": "wiederaufnehmen",
+   "spanish_es": "reanudar",
+   "chinese_zh": "重新开始 (Chóngxīn kāishǐ)",
+   "russian_ru": "возобновлять",
+   "portuguese_pt": "retomar",
+   "japanese_ja": "再開する (Saikai suru)",
+   "italian_it": "riprendere",
+   "turkish_tr": "sürdürmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "dbb4ea569f17f221d8a12c5e74e2ac7f3dc09bdc3c801c18dabcd6d9592d4e29",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

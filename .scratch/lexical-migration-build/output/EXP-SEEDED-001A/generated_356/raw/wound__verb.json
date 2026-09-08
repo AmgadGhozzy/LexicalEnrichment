@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "wound",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "wound",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To injure someone physically, especially with a weapon, or to hurt someone's feelings or pride deeply.",
+  "explanation_ar": "يجرح شخصاً جسدياً (خاصة بسلاح أو أداة حادة)، أو يجرح مشاعره وكبرياءه معنوياً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To inflict a physical injury on someone, especially with a weapon.",
+    "definition_ar": "يصيب أو يجرح جسدياً، ولا سيما بسلاح.",
+    "examples": [
+     "Be careful not to wound yourself with that broken glass.",
+     "A stray bullet can easily wound innocent bystanders."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To hurt someone's feelings, self-esteem, or pride.",
+    "definition_ar": "يجرح المشاعر أو الكبرياء معنوياً.",
+    "examples": [
+     "He did not intend to wound her feelings with his honest remark."
+    ]
+   }
+  ],
+  "examples": [
+   "Be careful not to wound yourself with that broken glass.",
+   "A stray bullet can easily wound innocent bystanders.",
+   "He did not intend to wound her feelings with his honest remark."
+  ],
+  "translations": [
+   "يجرح",
+   "يصيب"
+  ],
+  "relations": {
+   "synonyms": [
+    "injure",
+    "hurt",
+    "harm"
+   ],
+   "antonyms": [
+    "heal",
+    "cure"
+   ],
+   "collocations": [
+    "wound pride",
+    "wound deeply",
+    "fatally wound"
+   ]
+  },
+  "mnemonic": "نفس فكرة الاسم، حرف الـ 'W' يشبه غُرز خياطة الجرح.. 'Wound' يعني يجرح.",
+  "phonetic_us": "/wuːnd/",
+  "phonetic_uk": "/wuːnd/",
+  "syllables": "wound",
+  "semantic_tags": [
+   "#injury",
+   "#harm",
+   "#conflict",
+   "#emotions"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To injure someone physically, especially with a weapon, or to hurt someone's feelings or pride deeply.",
+  "explanation_ar": "يجرح شخصاً جسدياً (خاصة بسلاح أو أداة حادة)، أو يجرح مشاعره وكبرياءه معنوياً.",
+  "examples": [
+   "Be careful not to wound yourself with that broken glass.",
+   "A stray bullet can easily wound innocent bystanders.",
+   "He did not intend to wound her feelings with his honest remark."
+  ],
+  "translations": {
+   "arabic_ar": "يجرح يصيب"
+  },
+  "synonyms": [
+   "injure",
+   "hurt",
+   "harm"
+  ],
+  "antonyms": [
+   "heal",
+   "cure"
+  ],
+  "collocations": [
+   "wound pride",
+   "wound deeply",
+   "fatally wound"
+  ],
+  "mnemonic_ar": "نفس فكرة الاسم، حرف الـ 'W' يشبه غُرز خياطة الجرح.. 'Wound' يعني يجرح."
+ }
+}

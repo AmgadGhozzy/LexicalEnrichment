@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "remind",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "remind",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To cause someone to remember someone or something, or to cause them to remember a task or duty.",
+  "explanation_ar": "إنك تفكر حد بحاجة ناسيها أو تخليه يفتكر أمر معين أو شخص معين.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To help someone remember something that they must do or a fact they have forgotten.",
+    "definition_ar": "يُذكّر شخصاً بفعل شيء أو بأمر ما",
+    "examples": [
+     "Can you remind me to call him before noon?",
+     "I had to remind him about the meeting."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To make someone think of someone or something because of a similarity or connection.",
+    "definition_ar": "يُذكّر شخصاً بشيء أو شخص آخر بسبب الشبه أو الارتباط",
+    "examples": [
+     "You always remind me of my grandfather."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you remind me to call him before noon?",
+   "I had to remind him about the meeting.",
+   "You always remind me of my grandfather."
+  ],
+  "translations": [
+   "يُذكّر",
+   "يُنَبّه"
+  ],
+  "relations": {
+   "synonyms": [
+    "prompt",
+    "jog someone's memory"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "remind someone to",
+    "remind someone of",
+    "constantly remind"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Mind' (عقل).. يعني ترجع المعلومة للـ 'Mind' تاني.",
+  "phonetic_us": "rɪˈmaɪnd",
+  "phonetic_uk": "rɪˈmaɪnd",
+  "syllables": "re•mind",
+  "semantic_tags": [
+   "#Memory",
+   "#Communication",
+   "#Thinking"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To cause someone to remember someone or something, or to cause them to remember a task or duty.",
+  "explanation_ar": "إنك تفكر حد بحاجة ناسيها أو تخليه يفتكر أمر معين أو شخص معين.",
+  "examples": [
+   "Can you remind me to call him before noon?",
+   "I had to remind him about the meeting.",
+   "You always remind me of my grandfather."
+  ],
+  "translations": {
+   "arabic_ar": "يُذكّر يُنَبّه"
+  },
+  "synonyms": [
+   "prompt",
+   "jog someone's memory"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "remind someone to",
+   "remind someone of",
+   "constantly remind"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Mind' (عقل).. يعني ترجع المعلومة للـ 'Mind' تاني."
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5875",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5875",
+  "lemma": "maths",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5875,
+  "lemma": "maths",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "mæθs",
+  "phonetic_uk": null,
+  "phonetic_ar": "مَاثْس",
+  "definition_en": "The study of numbers, shapes, calculations, and measurements.",
+  "explanation_ar": "مادة الرياضيات او علم دراسة الارقام والاشكال والعمليات الحسابية، وهو الاختصار الشائع للكلمة في الانجليزية البريطانية.",
+  "examples": [
+   {
+    "example_text": "She helps her younger brother with his maths homework every evening.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Maths is my favourite subject at school because I love solving puzzles.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Good skills in maths are essential for studying engineering at university.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"maths\" هي ببساطة اختصار لكلمة \"mathematics\" البريطانية، وتنتهي بحرف s تماما مثل الكلمة الاصلية.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The study or school subject dealing with numbers, shapes, and calculations.",
+    "short_def_en": "study of numbers and calculations",
+    "definition_ar": "علم الرياضيات او مادة الحساب والارقام في المدرسة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "education",
+     "numbers",
+     "science"
+    ],
+    "usage_note": "Commonly used in British English and other Commonwealth varieties; American English prefers 'math'. Treated as singular despite ending in -s.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "maths teacher",
+   "maths test",
+   "do maths",
+   "mental maths",
+   "maths problem"
+  ],
+  "synonyms": [
+   "mathematics",
+   "math"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "arithmetic",
+    "algebra",
+    "geometry",
+    "calculation",
+    "number"
+   ],
+   "ar": [
+    "حساب",
+    "جبر",
+    "هندسة رياضية",
+    "عملية حسابية",
+    "رقم"
+   ]
+  },
+  "word_family": {
+   "noun": "mathematician",
+   "verb": "",
+   "adj": "mathematical",
+   "adv": "mathematically"
+  },
+  "translations": {
+   "arabic_ar": "رياضيات / علم الحساب",
+   "french_fr": "maths",
+   "german_de": "Mathe",
+   "spanish_es": "mates",
+   "chinese_zh": "数学 (Shùxué)",
+   "russian_ru": "математика",
+   "portuguese_pt": "matemática",
+   "japanese_ja": "数学 (Sūgaku)",
+   "italian_it": "matematica",
+   "turkish_tr": "matematik"
+  }
+ },
+ "provenance": {
+  "output_hash": "8e2536e5acc8aef86017f3535a95cd3ee0786a9174d0231bbdfefb6d438756a9",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

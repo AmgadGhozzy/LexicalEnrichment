@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "referendum",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "referendum",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A general vote by the electorate on a single political question.",
+  "explanation_ar": "استفتاء شعبي، يعني لما الحكومة تسأل الشعب كله عن رأيهم في موضوع مهم ويصوتوا بنعم أو لا.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A general vote by the electorate on a single political question.",
+    "definition_ar": "استفتاء شعبي؛ تصويت عام يدلي فيه أفراد الشعب برأيهم في مسألة سياسية محددة.",
+    "pos": "noun",
+    "cefr": "C1",
+    "examples": [
+     "They held a referendum on independence.",
+     "The government promised a referendum on the new constitution.",
+     "Critics argued the referendum was merely a political maneuver."
+    ]
+   }
+  ],
+  "examples": [
+   "They held a referendum on independence.",
+   "The government promised a referendum on the new constitution.",
+   "Critics argued the referendum was merely a political maneuver."
+  ],
+  "translations": [
+   "استفتاء",
+   "استفتاء شعبي"
+  ],
+  "relations": {
+   "synonyms": [
+    "plebiscite",
+    "popular vote",
+    "ballot"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "hold a referendum",
+    "national referendum",
+    "referendum result",
+    "call for a referendum"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Refer' (يرجع).. الحكومة بترجع للشعب تاخد رأيه في الـ 'Referendum'.",
+  "phonetic_us": "ˌrɛfəˈrɛndəm",
+  "phonetic_uk": "ˌrefəˈrendəm",
+  "syllables": "ref•er•en•dum",
+  "semantic_tags": [
+   "politics",
+   "voting",
+   "democracy",
+   "government"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A general vote by the electorate on a single political question.",
+  "explanation_ar": "استفتاء شعبي، يعني لما الحكومة تسأل الشعب كله عن رأيهم في موضوع مهم ويصوتوا بنعم أو لا.",
+  "examples": [
+   "They held a referendum on independence.",
+   "The government promised a referendum on the new constitution.",
+   "Critics argued the referendum was merely a political maneuver."
+  ],
+  "translations": {
+   "arabic_ar": "استفتاء استفتاء شعبي"
+  },
+  "synonyms": [
+   "plebiscite",
+   "popular vote",
+   "ballot"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "hold a referendum",
+   "national referendum",
+   "referendum result",
+   "call for a referendum"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Refer' (يرجع).. الحكومة بترجع للشعب تاخد رأيه في الـ 'Referendum'."
+ }
+}

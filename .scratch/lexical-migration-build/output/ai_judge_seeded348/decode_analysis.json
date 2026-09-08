@@ -1,0 +1,5469 @@
+{
+ "aggregates": {
+  "n_judged": 348,
+  "field_wins": {
+   "definition": {
+    "tie": 298,
+    "candidate": 50
+   },
+   "arabic_explanation": {
+    "candidate": 77,
+    "tie": 271
+   },
+   "sense_separation": {
+    "tie": 178,
+    "candidate": 59,
+    "cannot-judge": 109,
+    "legacy": 2
+   },
+   "examples": {
+    "tie": 166,
+    "candidate": 163,
+    "legacy": 19
+   },
+   "translations": {
+    "candidate": 169,
+    "tie": 158,
+    "legacy": 21
+   },
+   "relations": {
+    "candidate": 345,
+    "tie": 3
+   },
+   "mnemonic": {
+    "tie": 323,
+    "candidate": 25
+   }
+  },
+  "critical_counts": {
+   "wrong_meaning": {
+    "legacy": 1
+   },
+   "misleading_arabic": {
+    "legacy": 2
+   },
+   "invalid_relation_synonym": {
+    "legacy": 23
+   },
+   "example_semantic_error": {
+    "legacy": 14
+   },
+   "target_word_violation": {
+    "legacy": 110
+   },
+   "fabricated_etymology_mnemonic": {},
+   "cefr_learner_mismatch": {}
+  }
+ },
+ "items": [
+  {
+   "eval_id": "eval_seeded348_v1-0345",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "B lists 'wood' and 'timber' (nouns) as synonyms for adjective 'wooden', and 'metal'/'plastic' as antonyms."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0002",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0267",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0192",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A example \"An old castle.\" completely lacks the target word \"medieval\"."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0152",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'implemented' in 'The government implemented new tax laws' and 'The treaty was never fully implemented', violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0224",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes examples without the target word: 'I see it differently.' and 'That is my view.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0039",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected form 'buttered' in example: 'He really knows which side his bread is buttered on.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0065",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0250",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0142",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0118",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0141",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0312",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0049",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0233",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes an example with the plural inflection: 'The gallery has a collection of royal portraits.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0305",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0174",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0082",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0348",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0149",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected past tense form in: 'He ignored the sign.' and 'She ignored his advice completely.' violating exact lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0342",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0286",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0165",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0052",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0278",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "B uses inflected plural 'sisters' in 'The nuns in the convent are called sisters.' and 'rights of our sisters around the world.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0083",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0316",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0243",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0060",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'contained' (\"The letter contained good news.\") instead of the exact lemma token 'contain'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0055",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0078",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses the plural 'Atmospheric disturbances can affect radio signals.' rather than the exact target lemma token 'disturbance'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0279",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0234",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'posed' in 'The models posed for the camera.' and 'He posed as a doctor to enter the hospital unnoticed.', and 'poses' in 'Pollution poses a threat to wildlife.' and 'This new evidence poses a difficult question for the jury.' and 'The sheer size of the project poses a challenge.' violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0053",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'veteran' as an antonym of civilian; a veteran is a former member of the armed forces and typically considered a civilian now."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses the plural inflection 'civilians' in 5 out of 6 examples instead of the exact target lemma 'civilian'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0318",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B's first example 'They buy and sell things.' omits the target lemma 'transact' entirely."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0120",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0194",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0167",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0157",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0130",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0011",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0176",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses plural form in example: 'Sedentary lifestyles are contributing to the rise in chronic diseases.' where lemma is 'lifestyle'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0211",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes examples that do not contain the target word 'outbreak' at all: 'The war started.' and 'Everyone got sick suddenly.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0237",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A includes 'He was accused of being precious about his art', which uses the British/informal sense of overly delicate or affectedly refined, directly conflicting with the displayed definition ('Of great value; not to be wasted or treated carelessly')."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0044",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0040",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "In Arm B's example 'The meeting was called to order.', 'called' is an inflected form (past participle) violating the exact lemma token requirement, and in 'The situation calls for immediate action.', 'calls' is inflected."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0183",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "legacy",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0175",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'licensed' across multiple examples instead of the exact target lemma token 'license'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0148",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B includes misspelled synonym 'animocity'."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected plural form 'hostilities' in 'They ceased hostilities after the peace treaty.' instead of exact target lemma 'hostility'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0198",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses 'mud-slinging' in 'The political campaign descended into mere mud-slinging.', which is a compound/hyphenated derivative rather than the exact target lemma as a standalone token."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0201",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0090",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0210",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0251",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflected form 'Interest rates' in example: 'Interest rates are very low right now.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0221",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0004",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0100",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0021",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0027",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms violating exact lemma token rule: 'She believes in ghosts.' ('believes'), 'It is widely believed that...' ('believed')."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0182",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes examples with the plural inflection 'lyrics' ('Can you print the lyrics for me?', 'The lyrics of this song are very meaningful.') when the target lemma is noun 'lyric'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0222",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0281",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'smiled' in multiple examples instead of the exact target lemma token 'smile': 'She smiled at him across the room.', 'He smiled politely but didn't say anything.', 'Fate smiled on their venture.', 'She smiled a wry smile of resignation.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0241",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0191",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'beef', 'pork', 'lamb' as synonyms for meat (these are hyponyms/specific types, not synonyms)."
+    },
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B introduces a figurative sense in 'The real meat of the argument was in the second chapter.' which conflicts with its stated food definition."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0225",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected past tense forms 'phoned' in multiple examples ('She phoned to say she was late', 'He phoned in sick today', 'I phoned around to find the best price', 'The reporter phoned in the story from the scene') instead of the exact base lemma 'phone'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0018",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0028",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0122",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0263",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms: 'resumed' in four of its six examples, violating the exact lemma token requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0185",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0155",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0135",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0026",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes plural inflections 'beings' ('We are all human beings.', 'Strange beings from another planet landed here.') instead of the exact target lemma token 'being'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0265",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0217",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected plural form 'pairs' instead of exact target lemma 'pair' in: 'She has three pairs of glasses.' and 'Work in pairs to solve the problem.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0106",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0295",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms rather than the exact target lemma: 'studying', 'studied'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0334",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0037",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0209",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0297",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B violates the exact target lemma requirement by using inflected plural forms ('subscribers') in 5 out of 6 examples: 'The magazine has many subscribers.', 'Subscribers get a discount on books.', 'The channel reached one million subscribers.', etc."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0036",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0162",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0121",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes examples without the target lemma 'flourish': 'Flowers grow in the sun.' and 'The plant grows well here.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0331",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0264",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0081",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Examples use plural/possessive inflections 'Dolphins', 'dolphins', and \"dolphin's\" rather than the exact target lemma token 'dolphin'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0304",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "B lists 'microscope' as an antonym of 'telescope', but instruments with different purposes are not true antonyms."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflected forms in examples: 'Radio telescopes detect signals from deep space.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0124",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0146",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms violating the exact-target lemma guard: 'highlighted' (in 4 examples) and 'highlights' (in 1 example)."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0218",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0344",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0320",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0166",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected plural forms ('Jews') instead of the exact target lemma 'Jew' across multiple examples."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0159",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0332",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0181",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0054",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0269",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0115",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes an example with the derivative 'far-fetched' rather than the exact target lemma token 'fetch': 'This argument is a bit far-fetched (difficult to believe).'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0205",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0116",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflections ('figured') in multiple examples ('I figured that he would be late', 'They figured him...', 'The risks were not figured...') failing exact lemma requirement, whereas B keeps 'figure'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0193",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0158",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0311",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'that' as both an antonym and synonym of 'this'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0136",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0202",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0244",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0074",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes inflected forms in examples: 'The beauty of the scene defies description.' (lemma is defy, not defies)"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0284",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0043",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflections violating the exact target lemma requirement: 'She played her cards right...' and 'The organization holds all the cards...'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0069",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'damned' instead of the exact target lemma in four examples."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0035",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "B lists 'species' as a synonym for 'breed', whereas a breed is a subspecies/variety within a species."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0314",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes an inflectional plural form in 'Winter tires are essential for driving in snow.' where the exact target lemma is 'tire'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0046",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0303",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'tapped' in 'He tapped on the door', 'She tapped her fingers...', and 'His phone was tapped by the police', violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0113",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflections 'fats' in: 'Vegetable fats are often healthier than animal fats.' violating the exact target lemma token rule."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0063",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0261",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0163",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms: 'interprets' and 'interpreted' instead of the exact base lemma 'interpret'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0223",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0257",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0171",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0196",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0280",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected past-tense forms in multiple examples ('He slashed the tall grass', 'Someone slashed his car tires last night', 'Critics slashed the author's new novel') violating the exact lemma token requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0014",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0260",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0076",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0032",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflection 'blows' in 'They exchanged blows in the street.', violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0177",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0204",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0128",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflections in multiple examples: 'frustrates', 'frustrated'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0296",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0048",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'heart' as a synonym for the verb 'cheer'"
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflections 'cheered' in three examples instead of exact target lemma 'cheer'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0323",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0012",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0259",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0126",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes an example with the derivative 'frontal': 'They launched a full frontal attack.' instead of the exact target lemma 'front'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0061",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0098",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0114",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'features' and 'is featured' violating exact standalone target lemma 'feature'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0072",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'deals' and 'dealing' ('The book deals with...', 'She is used to dealing with...') violating exact target lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0274",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0325",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0329",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0203",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0307",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0309",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B's first example \"He left, and then I slept.\" omits the target word \"thereupon\" entirely."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0249",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'speeding' as a synonym for racing (the sport), which is invalid."
+    },
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A uses racing as a verb in 'His mind was racing with possibilities', which contradicts the noun POS and sport sense."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0285",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'letter' as a synonym for the verb 'spell'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0220",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0062",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0184",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0187",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses 'materialism' instead of the target lemma 'material' in 'Dialectical materialism is a philosophical concept.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0301",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'shiver' as an antonym of the verb 'sweat', which is not a direct or valid antonym."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "In the example 'She was sweating profusely as the fever broke.', the inflected form 'sweating' is used instead of the exact target lemma 'sweat'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0322",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0275",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0071",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "In Arm A, 'I have a great deal of work to do today' uses 'deal' as a quantifier (amount), contradicting the stated sense of an agreement/transaction."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0160",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0292",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0075",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0338",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0008",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0178",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0340",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0170",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "B includes 'He asked a leading question to trap the witness.', which uses 'leading question' (a legal/specialized sense: prompting the desired answer) that conflicts with the stated definition 'Most important, successful, or advanced.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0256",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0097",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected plural form 'emergencies' in: 'She keeps a flashlight for emergencies.' and 'The hospital has a contingency plan for handling civil emergencies.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0327",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes plural inflections 'uniforms' in 'new combat uniforms' and 'school uniforms', violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0031",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0057",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0270",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected form 'sacked' in 'She was sacked for stealing money.' and 'The quarterback was sacked three times in the first quarter.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0156",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses the plural inflection 'inhabitants' in 5 out of 6 examples ('The inhabitants of the village...', 'How many inhabitants...', 'The island has no human inhabitants...', etc.) instead of the exact target lemma token 'inhabitant'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0288",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0239",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0271",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0101",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0087",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'dried' in 'The tears dried on her cheeks.' and 'The soil has dried up completely due to the drought.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0096",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0272",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0197",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0168",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0050",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0134",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0092",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0293",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected/plural forms: 'Don't talk to strangers.' and possessive 'The stranger's mysterious arrival caused a stir.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0283",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0016",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B defines appointment as 'An arrangement to meet someone at a particular time and place', but includes examples of the job appointment sense ('His appointment as chairman was unexpected', 'The appointment of the new judges caused controversy') which contradict the stated definition."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0064",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms violating the exact-target lemma guard: 'Smoke correlates with fire', 'Hard work correlates with success', 'Obesity correlates strongly with heart disease'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0144",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected and compound forms instead of the exact target lemma: 'superhero', 'heroes', 'anti-hero'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0003",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A includes the example 'Act well.' which lacks the target word 'accordingly'."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Example 'Act well.' does not contain the target word 'accordingly'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0268",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'ruined' in 'The rain ruined the picnic.' and 'Industrial pollution has ruined the local ecosystem.' instead of the exact target lemma token 'ruin'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0326",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0335",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0179",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0089",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0212",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0190",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'myself' as a synonym of 'me', but they are distinct grammatical pronouns with different distributions (reflexive vs. standard object)."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0328",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0154",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0001",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0129",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0294",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0313",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0066",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0111",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms in multiple examples ('The engine failed to start', 'He failed to mention the cost', 'The crop failed due to the drought') violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0208",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes plural inflections 'options' instead of the exact target lemma: 'We are keeping our options open.' and 'Stock options are part of the salary package.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0058",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0246",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "wrong_meaning",
+     "side": "legacy",
+     "evidence": "B defines quantum as 'a significant amount', confusing the noun quantum with the figurative adjective in 'quantum leap'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0042",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0339",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0321",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0091",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'journalist' as a synonym for 'editor' (a person who determines final content/publication)."
+    },
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B includes 'Use a text editor to modify the code', which refers to a software program, contradicting the defined sense 'A person who determines the final content'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0151",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0095",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0289",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms ('stabbed') in multiple examples instead of the exact target lemma token."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0173",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0346",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'wounded' in 5 out of 6 examples ('The knife wounded his hand', 'He was wounded in the accident', etc.) violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0041",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses contracted form \"can't\" in \"I can't help thinking about it.\""
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0226",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0009",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0109",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0253",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0112",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected plural form 'fares' in 'Train fares have increased this year.' and 'The airline introduced a new range of low-cost fares.' violating exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0172",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms ('leaking', 'leaked') in examples instead of exact target lemma 'leak'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0228",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes 'Airline pilots undergo rigorous training.' where 'pilots' is plural instead of the exact target lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0180",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0324",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0188",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'calculus' as a synonym for 'maths', which is a specific subfield rather than a synonym."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0117",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A lists 'thumb' as a synonym of 'finger'."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected plural forms 'fingers' in examples ('I have ten fingers', 'They keep their fingers on the pulse of the market') failing the exact target lemma requirement for some examples."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0127",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0033",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0025",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A includes 'It does not become you to speak like that.', which means to be suitable/flattering, conflicting with the defined sense 'To begin to be something'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0213",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'open air' as a synonym for adverb outdoors, but 'open air' functions typically as a noun or attributive adjective."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0085",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0051",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'chopped' in 'He chopped wood...', 'They chopped down...', 'The budget was chopped...', and 'blades chopped...' rather than the exact target lemma token 'chop'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0248",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0010",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B provides synonyms 'era' and 'period' which contradict the stated definition 'The number of years that a person has lived.'"
+    },
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B includes 'We live in a digital age.' (historical period/era), contradicting the stated sense of age as years lived."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0022",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0059",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A includes examples that do not contain the target word: 'Parts of a whole. (Simplified)' and 'Voters choose leaders. (Simplified)'."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Examples 'Parts of a whole. (Simplified)' and 'Voters choose leaders. (Simplified)' completely omit the target lemma 'constituent'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0298",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0017",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0308",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'except' and 'besides' as synonyms for 'than' under the defined comparative sense."
+    },
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B gives 'Scarcely had we arrived than the storm broke.', which incorrectly uses 'than' instead of 'when'/'before' with 'scarcely'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0258",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes inflected forms in examples: 'That song reminds me of my childhood.' and 'The architecture reminds one of the Roman era.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0102",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0206",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0287",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'absorber' and 'wipe' as synonyms for the noun sponge."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes 'Natural sponges are harvested from the sea' which uses plural 'sponges' instead of the exact target lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0143",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses 'Herein' instead of the exact target lemma 'here' in 'Herein lies the proof of his innocence.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0302",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0235",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0236",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0317",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0231",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0045",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0110",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0047",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'chatted' and 'chatting' instead of the exact target lemma token 'chat' in multiple examples."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0103",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0088",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses derived form 'Playing' with 'dumb' rather than standalone target in 'Playing dumb won't help you now.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0013",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0330",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0252",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0266",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes sentences that lack the target word entirely: 'The sound hit the wall.' and 'The loud noise made the room shake.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0023",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0132",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0056",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes inflected forms 'concentrated' in 'Power is concentrated in the hands of a few.' and 'He concentrated his mind on the problem at hand.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0125",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0262",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0227",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes an example with the plural inflection 'piers' ('concrete piers sunk into the riverbed') rather than the exact target lemma 'pier'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0093",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected form 'elbows' in 'He rested his elbows on the table.' violating exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0341",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'whispered' in multiple examples instead of the exact target lemma token 'whisper'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0336",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes 'The duck's webbed feet help it swim efficiently.', where 'webbed' is an inflected/derived adjective rather than the exact target noun 'web'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0242",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0319",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes inflected forms 'translates' and 'translated' instead of the exact lemma token 'translate'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0067",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0030",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0333",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0073",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0147",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'cavity' (a noun) as a synonym for the adjective 'hollow'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0238",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes examples without the target word: 'This is just the start.' and 'We did a quick check first.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0214",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0186",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0290",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0247",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0029",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0038",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0215",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0019",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B example 'He speaks clearly.' does not contain the target word 'articulate'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0107",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes the example 'Everyone went except him.' which uses 'except' instead of the target lemma 'exception'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0337",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms in examples: \"He weighed himself on the scales.\" and \"The evidence weighed heavily against him.\""
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0299",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0119",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0153",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0161",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0347",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0254",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms rather than the exact target lemma token 'reign': 'reigns', 'reigned'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0273",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses plural inflections 'settlers' across multiple examples instead of exact target lemma 'settler'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0070",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes inflection/plural 'dates' in 'We ate dried dates for dessert.', violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0099",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses past tense inflections 'endured' in 'They endured many hardships during the war.', 'His fame endured for centuries.', and 'The company endured despite the economic crisis.' violating the exact lemma token requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0219",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes inflected plural forms 'Pearls' and 'pearls' ('Pearls come from the sea.', 'The necklace was made of real pearls.', 'He gave her a string of pearls for her birthday.') violating the exact target lemma token requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0276",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0034",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'base' (noun) and 'under' (preposition/adverb) as adjective synonyms for 'bottom'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0145",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0306",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes examples with plural inflections: 'The garden is built on several terraces.' and 'Rice is grown on terraces in the mountains.' violating the exact target lemma token requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0315",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms in examples: 'He tossed the keys to his brother.' and 'She tossed and turned all night, unable to sleep.' violating the exact target lemma requirement."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0230",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0343",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0240",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0195",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "legacy",
+    "examples": "legacy",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0005",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes plural inflections 'Activists' and 'activists' rather than the exact target lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0300",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected plural form 'swallows' in: 'The swallows migrate south in winter.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0245",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0137",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms 'gripped' in 5 out of 6 examples ('She gripped my hand...', 'The tires gripped...', 'Panic gripped...', 'I was gripped...', 'The nation was gripped...'), violating the exact target lemma requirement for English learner lexical display."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0084",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm A provides noun senses ('lookalike', 'twin', body double) for lemma 'double' specified as POS 'pron' (pronoun)."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0105",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0282",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0104",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses 'self-evident' in 'It is self-evident that all men are created equal.', which is a compound derivative rather than the exact standalone lemma 'evident'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0310",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes 'I am thinking.' where 'thinking' is the present participle / verb form rather than the target noun lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0077",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0086",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses inflected forms 'drafted' across 5 out of 6 examples instead of the exact base lemma token 'draft' for verb pos."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0229",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0080",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0164",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0015",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "misleading_arabic",
+     "side": "legacy",
+     "evidence": "Arm B states in Arabic 'ليها معنيين' omitting the primary 'decided on beforehand' sense from its Arabic explanation despite defining it in English and including it in examples."
+    },
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes 'The committee members were appointed by the president.' where 'appointed' is the past participle/verb form rather than the target adjective lemma."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0199",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A includes an inflected form: 'Our profits have multiplied since we started the online store.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0007",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes inflected forms violating the exact-target lemma requirement: 'He administers the group.' and 'The fund is administered by a professional bank.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0138",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "misleading_arabic",
+     "side": "legacy",
+     "evidence": "translations provides 'أرضي' (adjective) for noun lemma ground"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0189",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0291",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B includes examples without the target lemma 'stem': 'Stop the water.' and 'The problem comes from stress.'"
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0079",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms: 'The two species diverged millions of years ago.' and 'The novel diverges from the standard narrative structure.' instead of the exact base lemma 'diverge'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0277",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0140",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm B's examples 'It was a hairy drive down the mountain' and 'after a hairy descent' use the informal sense meaning dangerous/frightening, directly contradicting its stated definition 'Covered with a lot of hair'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0169",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0200",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0068",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0006",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "tie",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0024",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0108",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm A uses inflected forms ('exclaimed') instead of the exact target lemma token 'exclaim' across all examples."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0133",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0232",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0255",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "B includes compound derivative 'self-reliance' in 'Her self-reliance was forged during years of living alone in the wilderness.' instead of standalone target lemma 'reliance'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0216",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "invalid_relation_synonym",
+     "side": "legacy",
+     "evidence": "Arm B lists 'air' as a synonym for oxygen, but oxygen is only one component of air."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0094",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "target_word_violation",
+     "side": "legacy",
+     "evidence": "Arm B uses 'Micro-electronics' instead of the exact target lemma 'electronics'."
+    }
+   ]
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0150",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0131",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "legacy",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0139",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "legacy",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0207",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0123",
+   "fields": {
+    "definition": "candidate",
+    "arabic_explanation": "candidate",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "candidate",
+    "mnemonic": "candidate"
+   },
+   "criticals": []
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0020",
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "candidate",
+    "examples": "candidate",
+    "translations": "candidate",
+    "relations": "candidate",
+    "mnemonic": "tie"
+   },
+   "criticals": [
+    {
+     "class": "example_semantic_error",
+     "side": "legacy",
+     "evidence": "Arm A includes examples where 'attention' is a noun rather than an exclamation ('Ladies and gentlemen, may I have your attention?' and 'Attention to detail is critical in this job.'), contradicting the defined exclamation POS/sense."
+    }
+   ]
+  }
+ ]
+}

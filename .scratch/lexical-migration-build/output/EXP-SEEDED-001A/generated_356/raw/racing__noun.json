@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "racing",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "racing",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The sport or activity of competing in races.",
+  "explanation_ar": "رياضة السباق، زي سباق العربيات أو الخيل.",
+  "senses": [
+   {
+    "definition_en": "The sport or activity of competing in races.",
+    "explanation_ar": "رياضة السباق، زي سباق العربيات أو الخيل."
+   }
+  ],
+  "examples": [
+   "Horse racing is popular here.",
+   "I like car racing.",
+   "Racing is dangerous."
+  ],
+  "translations": [
+   "سِباق",
+   "رياضة السباق"
+  ],
+  "relations": {
+   "synonyms": [
+    "competition"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "horse racing",
+    "car racing",
+    "racing driver",
+    "racing car"
+   ]
+  },
+  "mnemonic": "جاية من 'Race' سباق.",
+  "phonetic_us": "ˈreɪsɪŋ",
+  "phonetic_uk": "ˈreɪsɪŋ",
+  "syllables": "rac•ing",
+  "semantic_tags": [
+   "Sport",
+   "Speed",
+   "Competition"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The sport or activity of competing in races.",
+  "explanation_ar": "رياضة السباق، زي سباق العربيات أو الخيل.",
+  "examples": [
+   "Horse racing is popular here.",
+   "I like car racing.",
+   "Racing is dangerous."
+  ],
+  "translations": {
+   "arabic_ar": "سِباق رياضة السباق"
+  },
+  "synonyms": [
+   "competition"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "horse racing",
+   "car racing",
+   "racing driver",
+   "racing car"
+  ],
+  "mnemonic_ar": "جاية من 'Race' سباق."
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2051",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2051",
+  "lemma": "abuse",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2051,
+  "lemma": "abuse",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈbjuz",
+  "phonetic_uk": null,
+  "phonetic_ar": "أبيُوز",
+  "definition_en": "To use something incorrectly, unfairly, or for a wrong or illegal purpose.",
+  "explanation_ar": "استخدام شيء ما بشكل سيئ أو غير عادل، مثل استغلال السلطة أو المنصب بطريقة خاطئة ومخالفة للأخلاق أو القانون.",
+  "examples": [
+   {
+    "example_text": "Corrupt officials often abuse their power for personal gain.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "He warned that if users abuse the service, their accounts will be suspended.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "People who abuse the trust of others often find themselves completely isolated.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الفعل ينتهي بصوت الزاي على عكس الاسم الذي ينتهي بصوت السين وهو مكون من \"ab\" بمعنى بعيدا عن و \"use\" اي استخدام غير صحيح",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To use something improperly, unfairly, or to your own advantage in a harmful way.",
+    "short_def_en": "misuse power or privilege",
+    "definition_ar": "يسيء استخدام سلطة او امتياز او حق لمصلحة غير مشروعة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "power",
+     "misconduct",
+     "legality"
+    ],
+    "usage_note": "As a verb, the ending is pronounced with a 'z' sound, whereas the noun ends with an 's' sound.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To treat a person or animal in a cruel, violent, or harmful way.",
+    "short_def_en": "treat cruelly or violently",
+    "definition_ar": "يعامل شخصا او حيوانا بقسوة او عنف وايذاء",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "violence",
+     "cruelty",
+     "harm"
+    ],
+    "usage_note": "Often used in legal and social contexts regarding neglect or physical harm.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "To speak to someone in an angry, insulting, or offensive manner.",
+    "short_def_en": "insult verbally",
+    "definition_ar": "يوجه شتائم او اهانات لفظية قاسية لشخص ما",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "insult",
+     "speech",
+     "hostility"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "abuse power",
+   "abuse authority",
+   "abuse trust",
+   "abuse a position",
+   "abuse privileges"
+  ],
+  "synonyms": [
+   "misuse",
+   "exploit",
+   "mistreat",
+   "maltreat",
+   "insult"
+  ],
+  "antonyms": [
+   "respect",
+   "protect",
+   "cherish"
+  ],
+  "related_words": {
+   "en": [
+    "corruption",
+    "privilege",
+    "authority",
+    "harm",
+    "violence",
+    "offense"
+   ],
+   "ar": [
+    "فساد",
+    "امتياز",
+    "سلطة",
+    "أذى",
+    "عنف",
+    "إهانة"
+   ]
+  },
+  "word_family": {
+   "noun": "abuse",
+   "verb": "abuse",
+   "adj": "abusive",
+   "adv": "abusively"
+  },
+  "translations": {
+   "arabic_ar": "يسيء استخدام / يضطهد / يشتم",
+   "french_fr": "abuser",
+   "german_de": "missbrauchen",
+   "spanish_es": "abusar",
+   "chinese_zh": "滥用 (làn yòng)",
+   "russian_ru": "злоупотреблять",
+   "portuguese_pt": "abusar",
+   "japanese_ja": "乱用する (ran'yō suru)",
+   "italian_it": "abusare",
+   "turkish_tr": "kötüye kullanmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "8316ffcbf62583e004e5b6bcae975505f37ac8207371fff893d1c7fc4d33116c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

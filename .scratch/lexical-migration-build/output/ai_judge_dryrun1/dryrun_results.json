@@ -1,0 +1,55 @@
+{
+ "EVAL-BLIND-V1-0001": {
+  "status": "terminal_unresolved",
+  "error": "JudgeError: missing fields object"
+ },
+ "EVAL-BLIND-V1-0002": {
+  "status": "terminal_unresolved",
+  "error": "JudgeError: missing fields object"
+ },
+ "EVAL-BLIND-V1-0003": {
+  "status": "judged",
+  "ballot": {
+   "fields": {
+    "arabic_explanation": "A-better",
+    "definition": "A-better",
+    "examples": "tie",
+    "mnemonic": "A-better",
+    "relations": "A-better",
+    "sense_separation": "tie",
+    "translations": "A-better"
+   },
+   "critical_errors": {
+    "cefr_learner_mismatch": {
+     "evidence": null,
+     "side": null
+    },
+    "example_semantic_error": {
+     "evidence": null,
+     "side": null
+    },
+    "fabricated_etymology_mnemonic": {
+     "evidence": null,
+     "side": null
+    },
+    "invalid_relation_synonym": {
+     "evidence": null,
+     "side": null
+    },
+    "misleading_arabic": {
+     "evidence": null,
+     "side": null
+    },
+    "target_word_violation": {
+     "evidence": null,
+     "side": null
+    },
+    "wrong_meaning": {
+     "evidence": null,
+     "side": null
+    }
+   },
+   "note": ""
+  }
+ }
+}

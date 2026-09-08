@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5739",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5739",
+  "lemma": "swallow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5739,
+  "lemma": "swallow",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "swɑːloʊ",
+  "phonetic_uk": "swɒləʊ",
+  "phonetic_ar": "سْوَالو",
+  "definition_en": "An act of passing food, drink, or saliva down the throat, or a single mouthful taken.",
+  "explanation_ar": "عملية بلع الطعام أو الشراب وتمريره عبر الحلق، أو المقدار الذي يتم ابتلاعه في رشفة واحدة كجرعة ماء.",
+  "examples": [
+   {
+    "example_text": "He took a quick swallow of water before continuing his presentation.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "With one nervous swallow, she stepped onto the stage to address the crowd.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "A single swallow of the bitter medicine made him shudder.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل شخصا يتناول رشفة ماء بصوت واضح يشبه كلمة \"swallow\" ليتذكر انها تعني جرعة او بلعة واحدة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An act of passing food, liquid, or saliva down the throat, or a small amount consumed.",
+    "short_def_en": "act of swallowing or mouthful",
+    "definition_ar": "حركة البلع او جرعة صغيرة من الشراب",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "body",
+     "action",
+     "drink"
+    ],
+    "usage_note": "Often used in the phrase 'take a swallow' to mean taking a gulp or sip.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A small migratory bird with pointed wings and a distinct forked tail.",
+    "short_def_en": "small migratory bird",
+    "definition_ar": "طائر السنونو المعروف باجنحته المدببة وذيله المشقوق",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "nature",
+     "animals",
+     "birds"
+    ],
+    "usage_note": "A common bird in idioms, such as 'one swallow does not make a summer'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "a quick swallow",
+   "a big swallow",
+   "take a swallow",
+   "gulp in one swallow",
+   "nervous swallow"
+  ],
+  "synonyms": [
+   "gulp",
+   "sip",
+   "draught"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "throat",
+    "mouthful",
+    "drink",
+    "bird",
+    "ingestion"
+   ],
+   "ar": [
+    "حلق",
+    "لقمة",
+    "مشروب",
+    "طائر",
+    "ابتلاع"
+   ]
+  },
+  "word_family": {
+   "noun": "swallow",
+   "verb": "swallow",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بلعة / جرعة / سنونو",
+   "french_fr": "gorgée",
+   "german_de": "Schluck",
+   "spanish_es": "trago",
+   "chinese_zh": "一口 (Yī kǒu)",
+   "russian_ru": "глоток",
+   "portuguese_pt": "gole",
+   "japanese_ja": "一口 (Hitokuchi)",
+   "italian_it": "sorso",
+   "turkish_tr": "yudum"
+  }
+ },
+ "provenance": {
+  "output_hash": "7e9e3db9b3ac31f69b977ed7586b60a55bdfb72ea0b19892bdd7dd476baddebb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

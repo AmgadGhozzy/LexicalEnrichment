@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "fond",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fond",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Having an affection or liking for someone or something.",
+  "explanation_ar": "لما تكون بتحب حد أو حاجة ومعتز بيها، أو عندك ذكريات حلوة معاها.",
+  "senses": [
+   {
+    "definition_en": "Having an affection or liking for someone or something (especially with 'of').",
+    "definition_ar": "محب أو معجب بشخص أو شيء ما (غالباً مع of).",
+    "examples": [
+     "I am fond of cats."
+    ]
+   },
+   {
+    "definition_en": "Warm, affectionate, or cherished (especially describing feelings or memories).",
+    "definition_ar": "دافئ أو مفعم بالمودة والعزة (خاصة مع المشاعر أو الذكريات).",
+    "examples": [
+     "He has fond memories of his childhood.",
+     "We bade each other a fond farewell."
+    ]
+   }
+  ],
+  "examples": [
+   "I am fond of cats.",
+   "He has fond memories of his childhood.",
+   "We bade each other a fond farewell."
+  ],
+  "translations": [
+   "مُغْرَم",
+   "مُولَع",
+   "مُحِبّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "affectionate",
+    "keen",
+    "attached",
+    "loving"
+   ],
+   "antonyms": [
+    "hostile",
+    "indifferent",
+    "averse"
+   ],
+   "collocations": [
+    "fond of",
+    "fond memories",
+    "fond farewell",
+    "fond hope"
+   ]
+  },
+  "mnemonic": "كلمة 'Fond' قريبة من 'Found' 'وجد'.. لما تلاقي حد بتحبه بتقول I found someone I am fond of.",
+  "phonetic_us": "/fɑːnd/",
+  "phonetic_uk": "/fɒnd/",
+  "syllables": [
+   "fond"
+  ],
+  "semantic_tags": [
+   "#Love",
+   "#Memory",
+   "#Liking",
+   "#Emotion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having an affection or liking for someone or something.",
+  "explanation_ar": "لما تكون بتحب حد أو حاجة ومعتز بيها، أو عندك ذكريات حلوة معاها.",
+  "examples": [
+   "I am fond of cats.",
+   "He has fond memories of his childhood.",
+   "We bade each other a fond farewell."
+  ],
+  "translations": {
+   "arabic_ar": "مُغْرَم مُولَع مُحِبّ"
+  },
+  "synonyms": [
+   "affectionate",
+   "keen",
+   "attached",
+   "loving"
+  ],
+  "antonyms": [
+   "hostile",
+   "indifferent",
+   "averse"
+  ],
+  "collocations": [
+   "fond of",
+   "fond memories",
+   "fond farewell",
+   "fond hope"
+  ],
+  "mnemonic_ar": "كلمة 'Fond' قريبة من 'Found' 'وجد'.. لما تلاقي حد بتحبه بتقول I found someone I am fond of."
+ }
+}

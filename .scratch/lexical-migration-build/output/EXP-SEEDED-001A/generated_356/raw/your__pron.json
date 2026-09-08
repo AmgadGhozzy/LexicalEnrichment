@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "your",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "your",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "Belonging to or associated with the person being addressed.",
+  "explanation_ar": "حاجة بتاعتك إنت.. بنستخدمها عشان ننسب الملكية للشخص اللي بنكلمه.",
+  "senses": [
+   {
+    "definition_en": "Belonging to or associated with the person being addressed.",
+    "explanation_ar": "خاص بك أو ملكك؛ تُستخدم لنسب الملكية أو الارتباط للشخص المخاطَب.",
+    "examples": [
+     "What is your name?",
+     "Is this your car?",
+     "Don't forget your passport."
+    ]
+   }
+  ],
+  "examples": [
+   "What is your name?",
+   "Is this your car?",
+   "Don't forget your passport."
+  ],
+  "translations": [
+   "لَك",
+   "خَاص بِك",
+   "ـكَ / ـكِ (كاف الملكية)"
+  ],
+  "relations": {
+   "synonyms": [
+    "thy"
+   ],
+   "antonyms": [
+    "my",
+    "his",
+    "her"
+   ],
+   "collocations": [
+    "your name",
+    "your turn",
+    "your own"
+   ]
+  },
+  "mnemonic": "كلمة 'Your' شبه 'You'.. بس بنحط 'r' عشان نقول إن الحاجة دي بتاعتك.",
+  "phonetic_us": "jʊr",
+  "phonetic_uk": "jɔːr",
+  "syllables": "your",
+  "semantic_tags": [
+   "#Possession",
+   "#Pronoun",
+   "#You"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Belonging to or associated with the person being addressed.",
+  "explanation_ar": "حاجة بتاعتك إنت.. بنستخدمها عشان ننسب الملكية للشخص اللي بنكلمه.",
+  "examples": [
+   "What is your name?",
+   "Is this your car?",
+   "Don't forget your passport."
+  ],
+  "translations": {
+   "arabic_ar": "لَك خَاص بِك ـكَ / ـكِ (كاف الملكية)"
+  },
+  "synonyms": [
+   "thy"
+  ],
+  "antonyms": [
+   "my",
+   "his",
+   "her"
+  ],
+  "collocations": [
+   "your name",
+   "your turn",
+   "your own"
+  ],
+  "mnemonic_ar": "كلمة 'Your' شبه 'You'.. بس بنحط 'r' عشان نقول إن الحاجة دي بتاعتك."
+ }
+}

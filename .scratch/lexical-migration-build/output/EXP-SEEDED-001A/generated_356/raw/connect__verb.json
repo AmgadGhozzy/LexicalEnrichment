@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "connect",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "connect",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To join two or more things together; to link people or things.",
+  "explanation_ar": "إنك توصل حاجتين ببعض أو تربط بينهم.. زي لما توصل الموبايل بالشاحن أو تربط فكرتين ببعض",
+  "senses": [
+   {
+    "definition_en": "To join two or more things together; to link people or things.",
+    "explanation_ar": "إنك توصل حاجتين ببعض أو تربط بينهم.. زي لما توصل الموبايل بالشاحن أو تربط فكرتين ببعض",
+    "examples": [
+     "Please connect the printer to the computer.",
+     "I connect my phone to the wifi.",
+     "The police tried to connect the two crimes."
+    ]
+   }
+  ],
+  "examples": [
+   "Please connect the printer to the computer.",
+   "I connect my phone to the wifi.",
+   "The police tried to connect the two crimes."
+  ],
+  "translations": [
+   "يتصل",
+   "يربط"
+  ],
+  "relations": {
+   "synonyms": [
+    "join",
+    "link",
+    "attach",
+    "unite"
+   ],
+   "antonyms": [
+    "disconnect",
+    "separate"
+   ],
+   "collocations": [
+    "connect to",
+    "connect with",
+    "stay connected"
+   ],
+   "word_family": {
+    "verb": "connect",
+    "noun": "connection",
+    "adj": "connected"
+   }
+  },
+  "mnemonic": "كلمة 'Connect' قريبة من 'Contact'.. يعني اتصال أو تواصل",
+  "phonetic_us": "kəˈnɛkt",
+  "phonetic_uk": null,
+  "syllables": "con•nect",
+  "semantic_tags": [
+   "#Technology",
+   "#Relationships",
+   "#Linking"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To join two or more things together; to link people or things.",
+  "explanation_ar": "إنك توصل حاجتين ببعض أو تربط بينهم.. زي لما توصل الموبايل بالشاحن أو تربط فكرتين ببعض",
+  "examples": [
+   "Please connect the printer to the computer.",
+   "I connect my phone to the wifi.",
+   "The police tried to connect the two crimes."
+  ],
+  "translations": {
+   "arabic_ar": "يتصل يربط"
+  },
+  "synonyms": [
+   "join",
+   "link",
+   "attach",
+   "unite"
+  ],
+  "antonyms": [
+   "disconnect",
+   "separate"
+  ],
+  "collocations": [
+   "connect to",
+   "connect with",
+   "stay connected"
+  ],
+  "mnemonic_ar": "كلمة 'Connect' قريبة من 'Contact'.. يعني اتصال أو تواصل"
+ }
+}

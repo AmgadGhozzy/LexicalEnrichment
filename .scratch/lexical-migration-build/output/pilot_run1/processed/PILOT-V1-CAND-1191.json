@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1191",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1191",
+  "lemma": "statement",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1191,
+  "lemma": "statement",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "3",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈsteɪtmənt",
+  "phonetic_uk": null,
+  "phonetic_ar": "سْتَيْتْمَنْت",
+  "definition_en": "Something that someone says or writes formally to give facts or information.",
+  "explanation_ar": "كلام أو نص رسمي يقال أو يكتب لتوضيح حقيقة أو إعطاء معلومة محددة.",
+  "examples": [
+   {
+    "example_text": "Is that a question or a statement?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The police asked her to write a short statement.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The company issued a formal statement about the problem.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل state بمعنى يصرح أو يوضح وعند إضافة ment يصبح الاسم statement أي تصريح أو بيان رسمي",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Something that someone says or writes formally to give facts or an opinion.",
+    "short_def_en": "formal spoken or written declaration",
+    "definition_ar": "تصريح أو بيان رسمي يعبر عن رأي أو حقيقة معينة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "communication",
+     "official",
+     "speech"
+    ],
+    "usage_note": "Used in both everyday contexts (like contrasting questions and statements) and official contexts.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A printed document showing financial transactions, money owed, or account activity.",
+    "short_def_en": "official financial record document",
+    "definition_ar": "كشف حساب مالي يوضح المعاملات أو المبالغ المدفوعة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "finance",
+     "banking",
+     "documents"
+    ],
+    "usage_note": "Commonly seen in banking as in bank statement.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "issue a statement",
+   "make a statement",
+   "official statement",
+   "written statement",
+   "bank statement"
+  ],
+  "synonyms": [
+   "declaration",
+   "announcement",
+   "assertion",
+   "remark"
+  ],
+  "antonyms": [
+   "question"
+  ],
+  "related_words": {
+   "en": [
+    "claim",
+    "report",
+    "opinion",
+    "fact",
+    "announcement"
+   ],
+   "ar": [
+    "ادعاء",
+    "تقرير",
+    "رأي",
+    "حقيقة",
+    "إعلان"
+   ]
+  },
+  "word_family": {
+   "noun": "statement",
+   "verb": "state",
+   "adj": "understated",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بيان / تصريح / كشف حساب",
+   "french_fr": "déclaration",
+   "german_de": "Aussage",
+   "spanish_es": "declaración",
+   "chinese_zh": "声明 (shēngmíng)",
+   "russian_ru": "заявление",
+   "portuguese_pt": "declaração",
+   "japanese_ja": "声明 (Seimei)",
+   "italian_it": "dichiarazione",
+   "turkish_tr": "ifade"
+  }
+ },
+ "provenance": {
+  "output_hash": "bbf39c41e56f2dcd9530669f4d4a45fb96f156ab621d6c9c9af7dd0218d2221d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

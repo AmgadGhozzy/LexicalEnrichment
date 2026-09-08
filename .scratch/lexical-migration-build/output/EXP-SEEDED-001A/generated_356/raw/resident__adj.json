@@ -1,0 +1,107 @@
+{
+ "identity": {
+  "lemma": "resident",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "resident",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Living somewhere on a long-term basis, or living and working at a particular institution.",
+  "explanation_ar": "صفة للشخص الذي يعيش أو يقيم في مكان معين بشكل دائم، أو يعمل ويقيم في مؤسسة معينة (مثل طبيب مقيم).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Living in a particular place, usually on a permanent or long-term basis.",
+    "definition_ar": "مقيم أو ساكن في مكان معين بصفة دائمة أو طويلة الأجل.",
+    "examples": [
+     "He is resident in London.",
+     "The resident population has doubled."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Living and working in a specified institution or location (such as a doctor or artist).",
+    "definition_ar": "مقيم في مؤسسة أو منشأة للعمل بها (مثل طبيب مقيم أو فنان مقيم).",
+    "examples": [
+     "The resident doctor is on call."
+    ]
+   }
+  ],
+  "examples": [
+   "He is resident in London.",
+   "The resident doctor is on call.",
+   "The resident population has doubled."
+  ],
+  "translations": [
+   "مقيم",
+   "ساكن"
+  ],
+  "relations": {
+   "synonyms": [
+    "living",
+    "inhabiting",
+    "dwelling"
+   ],
+   "antonyms": [
+    "non-resident",
+    "visiting"
+   ],
+   "collocations": [
+    "resident doctor",
+    "resident expert",
+    "resident population",
+    "resident alien"
+   ],
+   "related_words": [
+    "residence",
+    "reside",
+    "residential"
+   ],
+   "word_family": {
+    "verb": "reside",
+    "noun": "resident",
+    "adjective": "residential"
+   }
+  },
+  "mnemonic": "جاية من 'Reside' يعني يسكن.. وفيها شبه من 'President' الرئيس اللي هو 'Resident' في القصر.",
+  "phonetic_us": "ˈrezɪdənt",
+  "phonetic_uk": "ˈrezɪdənt",
+  "syllables": "res•i•dent",
+  "semantic_tags": [
+   "#Living",
+   "#Housing",
+   "#Status"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Living somewhere on a long-term basis, or living and working at a particular institution.",
+  "explanation_ar": "صفة للشخص الذي يعيش أو يقيم في مكان معين بشكل دائم، أو يعمل ويقيم في مؤسسة معينة (مثل طبيب مقيم).",
+  "examples": [
+   "He is resident in London.",
+   "The resident doctor is on call.",
+   "The resident population has doubled."
+  ],
+  "translations": {
+   "arabic_ar": "مقيم ساكن"
+  },
+  "synonyms": [
+   "living",
+   "inhabiting",
+   "dwelling"
+  ],
+  "antonyms": [
+   "non-resident",
+   "visiting"
+  ],
+  "collocations": [
+   "resident doctor",
+   "resident expert",
+   "resident population",
+   "resident alien"
+  ],
+  "mnemonic_ar": "جاية من 'Reside' يعني يسكن.. وفيها شبه من 'President' الرئيس اللي هو 'Resident' في القصر."
+ }
+}

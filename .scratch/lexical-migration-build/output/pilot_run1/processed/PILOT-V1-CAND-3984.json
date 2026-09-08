@@ -1,0 +1,130 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3984",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3984",
+  "lemma": "soap",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3984,
+  "lemma": "soap",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Health & Senses",
+  "ai_confidence": 0.98,
+  "phonetic_us": "soʊp",
+  "phonetic_uk": "səʊp",
+  "phonetic_ar": "سَوْب",
+  "definition_en": "A substance used with water for washing and cleaning the body or other objects.",
+  "explanation_ar": "مادة تُستخدم مع الماء لغسل اليدين، الجسم، أو الملابس وتنظيف الأوساخ.",
+  "examples": [
+   {
+    "example_text": "Wash your hands with soap and warm water before eating.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "I bought a fresh bar of soap from the local store.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "This liquid soap is gentle on sensitive skin.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"soup\" حساء، وتخيل انك لا ترغب ابدا في وضع \"soap\" الصابون داخل الحساء اثناء الغسيل",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A substance used with water for washing and cleaning the body or other objects.",
+    "short_def_en": "cleaning substance",
+    "definition_ar": "مادة تستخدم مع الماء للتنظيف والغسيل",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "hygiene",
+     "cleaning",
+     "bathroom"
+    ],
+    "usage_note": "Often used as an uncountable noun; use 'a bar of soap' or 'liquid soap' for individual units.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A television drama series about the daily lives and personal problems of a group of characters.",
+    "short_def_en": "television drama series",
+    "definition_ar": "مسلسل درامي تلفزيوني طويل يعالج الحياة اليومية والعلاقات الشخصية",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "entertainment",
+     "television",
+     "drama"
+    ],
+    "usage_note": "Short for 'soap opera', originally named because soap manufacturers sponsored these daytime shows.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bar of soap",
+   "liquid soap",
+   "soap and water",
+   "dish soap"
+  ],
+  "synonyms": [
+   "cleanser",
+   "detergent"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "wash",
+    "clean",
+    "bubbles",
+    "lather",
+    "shampoo"
+   ],
+   "ar": [
+    "غسل",
+    "تنظيف",
+    "فقاعات",
+    "رغوة",
+    "شامبو"
+   ]
+  },
+  "word_family": {
+   "noun": "soap",
+   "verb": "soap",
+   "adj": "soapy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "صابون / مسلسل درامي",
+   "french_fr": "savon",
+   "german_de": "Seife",
+   "spanish_es": "jabón",
+   "chinese_zh": "肥皂 (Féizào)",
+   "russian_ru": "мыло",
+   "portuguese_pt": "sabão",
+   "japanese_ja": "石鹸 (Sekken)",
+   "italian_it": "sapone",
+   "turkish_tr": "sabun"
+  }
+ },
+ "provenance": {
+  "output_hash": "40bad9584fe40dac938acfef0bef69ff1b1c51ae36dc8a8a663249984aa82dc9",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

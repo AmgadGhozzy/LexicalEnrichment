@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "hairy",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "hairy",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Covered with a lot of hair.",
+  "explanation_ar": "جسمه مليان شعر، أو وصف لحاجة فيها شعر كتير.",
+  "senses": [
+   {
+    "definition_en": "Covered with a lot of hair.",
+    "definition_ar": "مغطى بالكثير من الشعر أو الفرو.",
+    "register": "neutral"
+   },
+   {
+    "definition_en": "Frightening, dangerous, or difficult.",
+    "definition_ar": "مرعب أو محفوف بالمخاطر أو صعب.",
+    "register": "informal"
+   }
+  ],
+  "examples": [
+   "The dog is very hairy.",
+   "He has a hairy chest.",
+   "Spiders have hairy legs."
+  ],
+  "translations": [
+   "مشعر",
+   "كثير الشعر"
+  ],
+  "relations": {
+   "synonyms": [
+    "shaggy",
+    "furry",
+    "bushy"
+   ],
+   "antonyms": [
+    "bald",
+    "hairless",
+    "smooth"
+   ],
+   "collocations": [
+    "hairy chest",
+    "hairy legs",
+    "hairy spider"
+   ]
+  },
+  "mnemonic": "جاية من 'Hair' 'شعر'.. واضحة جداً",
+  "phonetic_us": "ˈhɛri",
+  "phonetic_uk": "ˈheəri",
+  "syllables": "hair-y",
+  "semantic_tags": [
+   "#Body",
+   "#Appearance",
+   "#Texture"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Covered with a lot of hair.",
+  "explanation_ar": "جسمه مليان شعر، أو وصف لحاجة فيها شعر كتير.",
+  "examples": [
+   "The dog is very hairy.",
+   "He has a hairy chest.",
+   "Spiders have hairy legs."
+  ],
+  "translations": {
+   "arabic_ar": "مشعر كثير الشعر"
+  },
+  "synonyms": [
+   "shaggy",
+   "furry",
+   "bushy"
+  ],
+  "antonyms": [
+   "bald",
+   "hairless",
+   "smooth"
+  ],
+  "collocations": [
+   "hairy chest",
+   "hairy legs",
+   "hairy spider"
+  ],
+  "mnemonic_ar": "جاية من 'Hair' 'شعر'.. واضحة جداً"
+ }
+}

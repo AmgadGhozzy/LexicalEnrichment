@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "instance",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "instance",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An example or single occurrence of something.",
+  "explanation_ar": "مثال أو حالة معينة لحاجة حصلت.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An example or single occurrence of something.",
+    "explanation_ar": "مثال أو حالة معينة لشيء ما.",
+    "examples": [
+     "In this particular instance, we can make an exception.",
+     "This is a rare instance of success.",
+     "For instance, look at this picture."
+    ]
+   }
+  ],
+  "examples": [
+   "In this particular instance, we can make an exception.",
+   "This is a rare instance of success.",
+   "For instance, look at this picture."
+  ],
+  "translations": [
+   "مثال",
+   "حالة",
+   "على سبيل المثال"
+  ],
+  "relations": {
+   "synonyms": [
+    "example",
+    "case",
+    "occurrence"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "for instance",
+    "in the first instance",
+    "isolated instance"
+   ]
+  },
+  "mnemonic": "كلمة 'Instance' قريبة من 'Instant'.. يعني لحظة أو حالة حصلت دلوقتي.",
+  "phonetic_us": "ˈɪnstəns",
+  "phonetic_uk": "ˈɪnstəns",
+  "syllables": "in•stance",
+  "semantic_tags": [
+   "#Example",
+   "#Occurrence"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An example or single occurrence of something.",
+  "explanation_ar": "مثال أو حالة معينة لحاجة حصلت.",
+  "examples": [
+   "In this particular instance, we can make an exception.",
+   "This is a rare instance of success.",
+   "For instance, look at this picture."
+  ],
+  "translations": {
+   "arabic_ar": "مثال حالة على سبيل المثال"
+  },
+  "synonyms": [
+   "example",
+   "case",
+   "occurrence"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "for instance",
+   "in the first instance",
+   "isolated instance"
+  ],
+  "mnemonic_ar": "كلمة 'Instance' قريبة من 'Instant'.. يعني لحظة أو حالة حصلت دلوقتي."
+ }
+}

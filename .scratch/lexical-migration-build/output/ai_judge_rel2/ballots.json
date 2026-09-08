@@ -1,0 +1,130 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0001": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "tie",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "Arm A includes noun examples under the exclamation POS: 'Ladies and gentlemen, may I have your attention?' and 'Attention to detail is critical in this job.'"
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B properly restricts examples to the exclamation POS, whereas Arm A includes noun uses ('may I have your attention', 'attention to detail')."
+  },
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'ticket', 'pass', 'badge' as direct synonyms for 'card' without qualifying context."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses plural forms 'cards' in multiple examples ('cards right', 'all the cards') instead of maintaining focus on the exact target lemma token."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic and precise definitions aligned with its examples. Arm B mixes colloquial Arabic ('زي كارت البنك'), introduces idiomatic plural expressions that deviate from the base noun sense, and provides inaccurate synonyms."
+  },
+  "EVAL-BLIND-V1-0003": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses formal, clear Modern Standard Arabic and provides a complete grammatical definition, useful collocations, and a historically accurate Latin etymological mnemonic, whereas Arm B uses informal dialectal Egyptian Arabic and lacks collocations and a mnemonic."
+  }
+ }
+}

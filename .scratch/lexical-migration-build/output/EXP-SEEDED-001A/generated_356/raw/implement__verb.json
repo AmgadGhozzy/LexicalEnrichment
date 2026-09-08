@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "implement",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "implement",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To put a decision, plan, or agreement into effect.",
+  "explanation_ar": "ينفذ خطة أو قرار ويطبقه على أرض الواقع.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To put a decision, plan, or agreement into effect.",
+    "explanation_ar": "ينفذ خطة أو قرار ويطبقه على أرض الواقع.",
+    "examples": [
+     "We need to implement the plan.",
+     "It will take time to implement these changes.",
+     "They failed to implement the recommendations of the committee."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to implement the plan.",
+   "It will take time to implement these changes.",
+   "They failed to implement the recommendations of the committee."
+  ],
+  "translations": [
+   "ينفذ",
+   "يطبق"
+  ],
+  "relations": {
+   "synonyms": [
+    "execute",
+    "apply",
+    "carry out",
+    "enact"
+   ],
+   "antonyms": [
+    "cancel",
+    "revoke",
+    "abolish"
+   ],
+   "collocations": [
+    "implement a plan",
+    "implement a policy",
+    "fully implement",
+    "implement reforms"
+   ]
+  },
+  "mnemonic": "قريبة من 'Imply'.. بس هنا معناها تنفذ الخطة وتطبقها.",
+  "phonetic_us": "ˈɪmpləmənt",
+  "phonetic_uk": "ˈɪmplɪment",
+  "syllables": "im•ple•ment",
+  "semantic_tags": [
+   "#Business",
+   "#Action",
+   "#Management"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To put a decision, plan, or agreement into effect.",
+  "explanation_ar": "ينفذ خطة أو قرار ويطبقه على أرض الواقع.",
+  "examples": [
+   "We need to implement the plan.",
+   "It will take time to implement these changes.",
+   "They failed to implement the recommendations of the committee."
+  ],
+  "translations": {
+   "arabic_ar": "ينفذ يطبق"
+  },
+  "synonyms": [
+   "execute",
+   "apply",
+   "carry out",
+   "enact"
+  ],
+  "antonyms": [
+   "cancel",
+   "revoke",
+   "abolish"
+  ],
+  "collocations": [
+   "implement a plan",
+   "implement a policy",
+   "fully implement",
+   "implement reforms"
+  ],
+  "mnemonic_ar": "قريبة من 'Imply'.. بس هنا معناها تنفذ الخطة وتطبقها."
+ }
+}

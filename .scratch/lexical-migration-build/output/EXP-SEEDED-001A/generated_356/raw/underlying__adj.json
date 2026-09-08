@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "underlying",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "underlying",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Significant as a cause, principle, or basis of something, but not always obvious or directly stated.",
+  "explanation_ar": "حاجة أساسية أو جوهرية بس مش ظاهرة على السطح، زي السبب الحقيقي أو الخفي لمشكلة.",
+  "senses": [
+   {
+    "sense_id": "underlying_adj_1",
+    "definition_en": "Significant as a cause, principle, or basis of something, but not always obvious or directly stated.",
+    "definition_ar": "أساسي أو كامن وغير واضح بشكل مباشر",
+    "cefr": "C1",
+    "examples": [
+     "Stress is often the underlying cause of illness.",
+     "The underlying message of the film was hope.",
+     "We need to address the underlying structural problems."
+    ]
+   }
+  ],
+  "examples": [
+   "Stress is often the underlying cause of illness.",
+   "The underlying message of the film was hope.",
+   "We need to address the underlying structural problems."
+  ],
+  "translations": [
+   "كامن",
+   "أساسي",
+   "جوهري"
+  ],
+  "relations": {
+   "synonyms": [
+    "fundamental",
+    "basic",
+    "root",
+    "latent"
+   ],
+   "antonyms": [
+    "surface",
+    "obvious"
+   ],
+   "collocations": [
+    "underlying cause",
+    "underlying principle",
+    "underlying condition",
+    "underlying problem"
+   ]
+  },
+  "mnemonic": "مكوّنة من under (تحت) وlying (مستلقٍ أو واقع)؛ الشيء الـ underlying كأنه مستلقٍ تحت السطح، مش باين مباشرة لكنه الأساس لكل شيء.",
+  "phonetic_us": "ˌʌn.dɚˈlaɪ.ɪŋ",
+  "phonetic_uk": "ˌʌn.dəˈlaɪ.ɪŋ",
+  "syllables": "un-der-ly-ing",
+  "semantic_tags": [
+   "Abstract",
+   "Causes",
+   "Hidden"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Significant as a cause, principle, or basis of something, but not always obvious or directly stated.",
+  "explanation_ar": "حاجة أساسية أو جوهرية بس مش ظاهرة على السطح، زي السبب الحقيقي أو الخفي لمشكلة.",
+  "examples": [
+   "Stress is often the underlying cause of illness.",
+   "The underlying message of the film was hope.",
+   "We need to address the underlying structural problems."
+  ],
+  "translations": {
+   "arabic_ar": "كامن أساسي جوهري"
+  },
+  "synonyms": [
+   "fundamental",
+   "basic",
+   "root",
+   "latent"
+  ],
+  "antonyms": [
+   "surface",
+   "obvious"
+  ],
+  "collocations": [
+   "underlying cause",
+   "underlying principle",
+   "underlying condition",
+   "underlying problem"
+  ],
+  "mnemonic_ar": "مكوّنة من under (تحت) وlying (مستلقٍ أو واقع)؛ الشيء الـ underlying كأنه مستلقٍ تحت السطح، مش باين مباشرة لكنه الأساس لكل شيء."
+ }
+}

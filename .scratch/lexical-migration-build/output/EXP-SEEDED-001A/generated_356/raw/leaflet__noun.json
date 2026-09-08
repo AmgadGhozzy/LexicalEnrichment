@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "leaflet",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "leaflet",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A printed sheet of paper containing information or advertising, usually distributed for free.",
+  "explanation_ar": "ورقة مطبوعة صغيرة بتتوزع في الشارع أو بتيجي مع الدواء فيها معلومات أو إعلانات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A printed sheet of paper containing information or advertising, usually distributed for free.",
+    "definition_ar": "نشرة أو مطوية إعلامية أو إعلانية ورقية مطبوعة تُوزع مجانًا.",
+    "examples": [
+     "The leaflet explains how to use the device.",
+     "Check the side effects in the patient information leaflet.",
+     "We designed a promotional leaflet for the campaign."
+    ]
+   }
+  ],
+  "examples": [
+   "The leaflet explains how to use the device.",
+   "Check the side effects in the patient information leaflet.",
+   "We designed a promotional leaflet for the campaign."
+  ],
+  "translations": [
+   "نشرة",
+   "منشور",
+   "مطوية"
+  ],
+  "relations": {
+   "synonyms": [
+    "flyer",
+    "brochure",
+    "pamphlet",
+    "handout",
+    "circular"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "information leaflet",
+    "advertising leaflet",
+    "distribute leaflets",
+    "hand out leaflets"
+   ],
+   "related_words": [
+    "booklet",
+    "leaf",
+    "paper",
+    "page"
+   ],
+   "word_family": {
+    "noun": "leaflet",
+    "verb": "leaflet"
+   }
+  },
+  "mnemonic": "كلمة 'Leaf' يعني ورقة شجر.. والـ 'Leaflet' ورقة صغيرة زي ورقة الشجر.",
+  "phonetic_us": "ˈliːf.lət",
+  "phonetic_uk": "ˈliːf.lət",
+  "syllables": "leaf-let",
+  "semantic_tags": [
+   "#Advertising",
+   "#Paper",
+   "#Information",
+   "#Marketing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A printed sheet of paper containing information or advertising, usually distributed for free.",
+  "explanation_ar": "ورقة مطبوعة صغيرة بتتوزع في الشارع أو بتيجي مع الدواء فيها معلومات أو إعلانات.",
+  "examples": [
+   "The leaflet explains how to use the device.",
+   "Check the side effects in the patient information leaflet.",
+   "We designed a promotional leaflet for the campaign."
+  ],
+  "translations": {
+   "arabic_ar": "نشرة منشور مطوية"
+  },
+  "synonyms": [
+   "flyer",
+   "brochure",
+   "pamphlet",
+   "handout",
+   "circular"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "information leaflet",
+   "advertising leaflet",
+   "distribute leaflets",
+   "hand out leaflets"
+  ],
+  "mnemonic_ar": "كلمة 'Leaf' يعني ورقة شجر.. والـ 'Leaflet' ورقة صغيرة زي ورقة الشجر."
+ }
+}

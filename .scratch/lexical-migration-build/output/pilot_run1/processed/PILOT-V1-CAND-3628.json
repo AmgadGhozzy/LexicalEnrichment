@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3628",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3628",
+  "lemma": "oral",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3628,
+  "lemma": "oral",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɔːrəl",
+  "phonetic_uk": "ˈɔːrəl",
+  "phonetic_ar": "أُورَال",
+  "definition_en": "Spoken rather than written, or connected with the mouth.",
+  "explanation_ar": "يصف ما يتم التعبير عنه عن طريق الكلام الشفهي وليس الكتابة، أو ما يرتبط بالفم طبيا.",
+  "examples": [
+   {
+    "example_text": "Candidates must pass both a written test and an oral examination to qualify.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Good oral hygiene helps prevent gum disease and tooth decay.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Ancient myths were transmitted across generations primarily through oral storytelling.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"oral\" بالربط مع جذرها اللاتيني الذي يشير إلى الفم كما في معجون الأسنان الشهير \"Oral-B\" المخصص لصحة الفم.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Expressed through speech rather than in writing.",
+    "short_def_en": "spoken rather than written",
+    "definition_ar": "شفهي أو منطوق باللسان وليس مكتوبا على ورق",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "speech",
+     "language",
+     "communication"
+    ],
+    "usage_note": "Frequently contrasts directly with 'written'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Relating to or done through the mouth.",
+    "short_def_en": "relating to the mouth",
+    "definition_ar": "متعلق بالفم أو يعطى عن طريقه",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "anatomy",
+     "medicine",
+     "health"
+    ],
+    "usage_note": "Common in medical and dental contexts such as 'oral hygiene' or 'oral medication'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "oral examination",
+   "oral history",
+   "oral hygiene",
+   "oral presentation",
+   "oral tradition"
+  ],
+  "synonyms": [
+   "spoken",
+   "verbal",
+   "vocal",
+   "unwritten"
+  ],
+  "antonyms": [
+   "written"
+  ],
+  "related_words": {
+   "en": [
+    "speech",
+    "mouth",
+    "voice",
+    "verbal",
+    "utterance"
+   ],
+   "ar": [
+    "كلام",
+    "فم",
+    "صوت",
+    "لفظي",
+    "نطق"
+   ]
+  },
+  "word_family": {
+   "noun": "oral",
+   "verb": "",
+   "adj": "oral",
+   "adv": "orally"
+  },
+  "translations": {
+   "arabic_ar": "شفهي / فموي",
+   "french_fr": "oral",
+   "german_de": "mündlich",
+   "spanish_es": "oral",
+   "chinese_zh": "口头的 (kǒutóu de)",
+   "russian_ru": "устный",
+   "portuguese_pt": "oral",
+   "japanese_ja": "口頭の (Kōtō no)",
+   "italian_it": "orale",
+   "turkish_tr": "sözlü"
+  }
+ },
+ "provenance": {
+  "output_hash": "391d020a5fad6562f0f7db460eb734403fbbd944e867ecd8e14a821ea7a41ed3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "cards": [
+  {
+   "eval_id": "eval_seeded348_v1-0040",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "mnemonic"
+   ],
+   "key": "call/verb",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "candidate,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0006",
+   "focus": [
+    "translations",
+    "examples"
+   ],
+   "key": "additionally/adv",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "candidate,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0010",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "age/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "candidate,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0139",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "guarantee/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "candidate,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0052",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic"
+   ],
+   "key": "citizenship/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "legacy,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0336",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "web/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "legacy,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0299",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "sunlight/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "tie,preserved"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0153",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "import/verb",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "tie,preserved"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0317",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "trainer/noun",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "tie,preserved"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0114",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "feature/verb",
+   "reason": "cand_changed/cand_other/legacy/tie",
+   "stratum": "translations",
+   "tags": "tie,changed"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0311",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "mnemonic"
+   ],
+   "key": "this/det",
+   "reason": "forced:this/det",
+   "stratum": "relations",
+   "tags": ""
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0119",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "fish/noun",
+   "reason": "forced:fish/noun",
+   "stratum": "relations",
+   "tags": ""
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0093",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples",
+    "definition_arabic"
+   ],
+   "key": "elbow/noun",
+   "reason": "emptied/preserved/candidate",
+   "stratum": "relations",
+   "tags": "emptied,candidate"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0273",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "settler/noun",
+   "reason": "emptied/preserved/candidate",
+   "stratum": "relations",
+   "tags": "legacy_preserved,candidate"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0200",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "my/excl",
+   "reason": "emptied/preserved/candidate",
+   "stratum": "relations",
+   "tags": "legacy_preserved,candidate"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0018",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "archbishop/noun",
+   "reason": "emptied/preserved/candidate",
+   "stratum": "relations",
+   "tags": "legacy_preserved,candidate"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0071",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "deal/noun",
+   "reason": "multi_pos/abstain",
+   "stratum": "sense_separation",
+   "tags": "multi_pos"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0072",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "deal/verb",
+   "reason": "multi_pos/abstain",
+   "stratum": "sense_separation",
+   "tags": "multi_pos"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0145",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "hierarchy/noun",
+   "reason": "multi_pos/abstain",
+   "stratum": "sense_separation",
+   "tags": "abstain"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0245",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples",
+    "definition_arabic"
+   ],
+   "key": "provoke/verb",
+   "reason": "multi_pos/abstain",
+   "stratum": "sense_separation",
+   "tags": "abstain"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0023",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "awareness/noun",
+   "reason": "multi_pos/abstain",
+   "stratum": "sense_separation",
+   "tags": "abstain"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0208",
+   "focus": [
+    "translations",
+    "relations",
+    "examples"
+   ],
+   "key": "option/noun",
+   "reason": "candidate/legacy/critical",
+   "stratum": "examples",
+   "tags": "candidate,critical_related"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0149",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "ignore/verb",
+   "reason": "candidate/legacy/critical",
+   "stratum": "examples",
+   "tags": "candidate,critical_related"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0046",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples"
+   ],
+   "key": "channel/noun",
+   "reason": "candidate/legacy/critical",
+   "stratum": "examples",
+   "tags": "legacy"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0166",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "jew/noun",
+   "reason": "candidate/legacy/critical",
+   "stratum": "examples",
+   "tags": "candidate,critical_related"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0029",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic"
+   ],
+   "key": "billion/num",
+   "reason": "forced:billion/num",
+   "stratum": "definition_arabic",
+   "tags": ""
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0129",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "fun/noun",
+   "reason": "semantic_change",
+   "stratum": "definition_arabic",
+   "tags": "semantic_change,tie"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0057",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "congressional/adj",
+   "reason": "semantic_change",
+   "stratum": "definition_arabic",
+   "tags": "semantic_change,tie"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0260",
+   "focus": [
+    "translations",
+    "relations",
+    "sense_separation",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "reporter/noun",
+   "reason": "indirect/changed_null",
+   "stratum": "mnemonic",
+   "tags": "llm_changed,indirect"
+  },
+  {
+   "eval_id": "eval_seeded348_v1-0287",
+   "focus": [
+    "translations",
+    "relations",
+    "examples",
+    "definition_arabic",
+    "mnemonic"
+   ],
+   "key": "sponge/noun",
+   "reason": "indirect/changed_null",
+   "stratum": "mnemonic",
+   "tags": "llm_changed"
+  }
+ ],
+ "eval_id": "human30",
+ "forced": {
+  "definition_arabic": [
+   "billion/num"
+  ],
+  "relations": [
+   "this/det",
+   "fish/noun"
+  ]
+ },
+ "n_cards": 30,
+ "seed": 600117,
+ "strata": {
+  "definition_arabic": 3,
+  "examples": 4,
+  "mnemonic": 2,
+  "relations": 6,
+  "sense_separation": 5,
+  "translations": 10
+ }
+}

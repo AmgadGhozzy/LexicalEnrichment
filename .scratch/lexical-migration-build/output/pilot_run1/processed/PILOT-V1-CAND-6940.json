@@ -1,0 +1,152 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6940",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6940",
+  "lemma": "restrain",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6940,
+  "lemma": "restrain",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "rɪˈstreɪn",
+  "phonetic_uk": null,
+  "phonetic_ar": "رِسْتْرَين",
+  "definition_en": "To stop someone or something from doing an action, often by using physical force or calm control.",
+  "explanation_ar": "كبح أو منع شخص أو شيء من التصرف بالقوة البدنية، أو ضبط النفس والسيطرة على المشاعر لمنع حدوث تصرف متهور.",
+  "examples": [
+   {
+    "example_text": "Security officers had to restrain the angry customer before violence broke out.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She struggled to restrain her laughter during the very serious lecture.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The government must restrain public spending to avoid severe inflation.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر المقطع \"re\" بمعنى إعادة أو للخلف والمقطع \"strain\" المرتبط بالشد والضغط، فتخيل أنك تشد شيئا للوراء لتمنعه من الحركة أو تضبطه.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To physically hold back someone or prevent them from moving freely.",
+    "short_def_en": "physically hold back",
+    "definition_ar": "يقيد حركة شخص أو يمنعه بالقوة الجسدية",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "control",
+     "force",
+     "movement"
+    ],
+    "usage_note": "Often implies using physical force, handcuffs, or bodily intervention.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To control or keep back strong feelings, desires, or impulses.",
+    "short_def_en": "control emotions or impulses",
+    "definition_ar": "يضبط نفسه أو يكبح مشاعره",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "feelings",
+     "self-control",
+     "mind"
+    ],
+    "usage_note": "Frequently used reflexively or with abstract nouns like anger, tears, or laughter.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "To limit the growth, increase, or development of something harmful.",
+    "short_def_en": "limit growth or spending",
+    "definition_ar": "يحد من نمو أو زيادة شيء",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Change",
+    "semantic_tags": [
+     "limit",
+     "economy",
+     "regulation"
+    ],
+    "usage_note": "Common in business, economic, and political contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "restrain oneself",
+   "restrain anger",
+   "restrain spending",
+   "physically restrain",
+   "struggle to restrain"
+  ],
+  "synonyms": [
+   "curb",
+   "suppress",
+   "contain",
+   "restrict",
+   "check"
+  ],
+  "antonyms": [
+   "encourage",
+   "release",
+   "unleash"
+  ],
+  "related_words": {
+   "en": [
+    "constraint",
+    "restriction",
+    "prohibition",
+    "control"
+   ],
+   "ar": [
+    "قيد",
+    "تقييد",
+    "حظر",
+    "سيطرة"
+   ]
+  },
+  "word_family": {
+   "noun": "restraint",
+   "verb": "restrain",
+   "adj": "restrained",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يكبح / يقيد / يضبط",
+   "french_fr": "retenir",
+   "german_de": "zurückhalten",
+   "spanish_es": "contener",
+   "chinese_zh": "克制 (Kèzhì)",
+   "russian_ru": "сдерживать",
+   "portuguese_pt": "conter",
+   "japanese_ja": "抑える (Osaeru)",
+   "italian_it": "trattenere",
+   "turkish_tr": "frenlemek"
+  }
+ },
+ "provenance": {
+  "output_hash": "cc40a3d12b76be4132a41f54a84908227667a135ad0ac108fefd1e6419f7b3bb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

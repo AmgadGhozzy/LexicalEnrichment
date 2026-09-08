@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2623",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2623",
+  "lemma": "permission",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2623,
+  "lemma": "permission",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "pərˈmɪʃən",
+  "phonetic_uk": "pəˈmɪʃn",
+  "phonetic_ar": "بِيرْمِشْن",
+  "definition_en": "The act of allowing someone to do something, or an official document that allows it.",
+  "explanation_ar": "الموافقة الرسمية أو السماح لشخص ما بالقيام بأمر معين.",
+  "examples": [
+   {
+    "example_text": "You need permission from the teacher to leave the classroom.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "He took the car without his father's permission.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The city granted them permission to build a new hospital.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل الشائع \"permit\" بمعنى يسمح، واللاحقة \"-mission\" تحول الفعل إلى اسم يعني إذن أو تصريح رسمي.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Approval or consent given to someone to do a particular thing.",
+    "short_def_en": "approval or consent to act",
+    "definition_ar": "الموافقة أو السماح لشخص بفعل شيء ما.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "rules",
+     "authority",
+     "consent"
+    ],
+    "usage_note": "Usually uncountable when referring to general consent, but often paired with verbs like ask for, give, or grant.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "ask for permission",
+   "give permission",
+   "grant permission",
+   "without permission",
+   "written permission"
+  ],
+  "synonyms": [
+   "authorization",
+   "consent",
+   "approval",
+   "allowance",
+   "clearance"
+  ],
+  "antonyms": [
+   "prohibition",
+   "refusal",
+   "ban"
+  ],
+  "related_words": {
+   "en": [
+    "rule",
+    "license",
+    "authority",
+    "access"
+   ],
+   "ar": [
+    "قاعدة",
+    "رخصة",
+    "سلطة",
+    "وصول"
+   ]
+  },
+  "word_family": {
+   "noun": "permission",
+   "verb": "permit",
+   "adj": "permissible",
+   "adv": "permissibly"
+  },
+  "translations": {
+   "arabic_ar": "إذن / تصريح / موافقة",
+   "french_fr": "permission",
+   "german_de": "Erlaubnis",
+   "spanish_es": "permiso",
+   "chinese_zh": "许可 (Xǔkě)",
+   "russian_ru": "разрешение",
+   "portuguese_pt": "permissão",
+   "japanese_ja": "許可 (Kyoka)",
+   "italian_it": "permesso",
+   "turkish_tr": "izin"
+  }
+ },
+ "provenance": {
+  "output_hash": "236818ca137c8767dc01ee7959fa4879fb53f0f5e50bc73779438b275ae0a6e3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

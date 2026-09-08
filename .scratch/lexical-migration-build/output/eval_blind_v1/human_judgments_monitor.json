@@ -1,0 +1,172 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0006": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Come here! lacks the target lemma"
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Come here! and shop examples lack exact lemma quickly"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "count clue deliberately ignored"
+  },
+  "EVAL-BLIND-V1-0014": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "doctor of physics: academic sense vs displayed medical sense"
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": ""
+  },
+  "EVAL-BLIND-V1-0019": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": "A",
+     "evidence": "priority-first framing mistranslates prior as precedence"
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "convictions example: quality not correctness, no critical recorded"
+  },
+  "EVAL-BLIND-V1-0020": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "marine life/seafood are categories, not synonyms of fish"
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "idioms plenty more fish / fish out of water vs literal displayed sense"
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": ""
+  }
+ }
+}

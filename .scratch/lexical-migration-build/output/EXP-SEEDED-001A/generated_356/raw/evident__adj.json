@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "evident",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "evident",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Plain or obvious; clearly seen or understood.",
+  "explanation_ar": "واضح جداً وظاهر للكل، ومش محتاج تفكير كتير عشان تفهمه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Plain or obvious; clearly seen or understood.",
+    "definition_ar": "واضح، ظاهر، بيّن للعيان",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "It became evident that he was lost.",
+   "Her talent was evident from a young age.",
+   "The success of the policy is evident in the statistics."
+  ],
+  "translations": [
+   "واضح",
+   "ظاهر",
+   "جلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "obvious",
+    "clear",
+    "apparent",
+    "plain"
+   ],
+   "antonyms": [
+    "hidden",
+    "obscure",
+    "unclear"
+   ],
+   "collocations": [
+    "become evident",
+    "clearly evident",
+    "painfully evident",
+    "self-evident"
+   ]
+  },
+  "mnemonic": "جاية من 'Evidence' 'دليل'.. لما الدليل يكون موجود، الحقيقة بتبقى 'Evident' 'واضحة'.",
+  "phonetic_us": "ˈɛvɪdənt",
+  "phonetic_uk": "ˈevɪdənt",
+  "syllables": "ev•i•dent",
+  "semantic_tags": [
+   "Clarity",
+   "Truth",
+   "Logic",
+   "Perception"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Plain or obvious; clearly seen or understood.",
+  "explanation_ar": "واضح جداً وظاهر للكل، ومش محتاج تفكير كتير عشان تفهمه.",
+  "examples": [
+   "It became evident that he was lost.",
+   "Her talent was evident from a young age.",
+   "The success of the policy is evident in the statistics."
+  ],
+  "translations": {
+   "arabic_ar": "واضح ظاهر جلي"
+  },
+  "synonyms": [
+   "obvious",
+   "clear",
+   "apparent",
+   "plain"
+  ],
+  "antonyms": [
+   "hidden",
+   "obscure",
+   "unclear"
+  ],
+  "collocations": [
+   "become evident",
+   "clearly evident",
+   "painfully evident",
+   "self-evident"
+  ],
+  "mnemonic_ar": "جاية من 'Evidence' 'دليل'.. لما الدليل يكون موجود، الحقيقة بتبقى 'Evident' 'واضحة'."
+ }
+}

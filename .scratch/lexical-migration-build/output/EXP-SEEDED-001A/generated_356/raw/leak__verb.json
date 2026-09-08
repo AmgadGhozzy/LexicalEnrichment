@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "leak",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "leak",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To allow liquid or gas to escape through a crack or hole, or to disclose secret information to the public.",
+  "explanation_ar": "يُسرِّب سائلًا أو غازًا عبر فتحة، أو يُسرِّب ويُفشي معلومات سرية للعلن.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To accidentally allow liquid or gas to escape or enter through a hole or crack.",
+    "definition_ar": "يُسرِّب سائلًا أو غازًا من ثقب أو شق."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To deliberately disclose secret or confidential information to the media or public.",
+    "definition_ar": "يُفشي أو يُسرِّب معلومات سرية للصحافة أو الرأي العام."
+   }
+  ],
+  "examples": [
+   "Old water pipes often leak when temperatures drop below freezing.",
+   "An anonymous insider decided to leak the classified documents to the press.",
+   "If the fuel tank continues to leak, the car could catch fire."
+  ],
+  "translations": [
+   "يسرّب",
+   "يفشي",
+   "ينضح"
+  ],
+  "relations": {
+   "synonyms": [
+    "disclose",
+    "reveal",
+    "seep",
+    "drip"
+   ],
+   "antonyms": [
+    "seal",
+    "contain",
+    "suppress"
+   ],
+   "collocations": [
+    "leak information",
+    "leak out",
+    "leak to the press"
+   ]
+  },
+  "mnemonic": "افتكر: الموظف قال للصحفي: هسرّب 'ليك' (leak) كل الأخبار السرية.",
+  "phonetic_us": "liːk",
+  "phonetic_uk": "liːk",
+  "syllables": "leak",
+  "semantic_tags": [
+   "water",
+   "secrets",
+   "media"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To allow liquid or gas to escape through a crack or hole, or to disclose secret information to the public.",
+  "explanation_ar": "يُسرِّب سائلًا أو غازًا عبر فتحة، أو يُسرِّب ويُفشي معلومات سرية للعلن.",
+  "examples": [
+   "Old water pipes often leak when temperatures drop below freezing.",
+   "An anonymous insider decided to leak the classified documents to the press.",
+   "If the fuel tank continues to leak, the car could catch fire."
+  ],
+  "translations": {
+   "arabic_ar": "يسرّب يفشي ينضح"
+  },
+  "synonyms": [
+   "disclose",
+   "reveal",
+   "seep",
+   "drip"
+  ],
+  "antonyms": [
+   "seal",
+   "contain",
+   "suppress"
+  ],
+  "collocations": [
+   "leak information",
+   "leak out",
+   "leak to the press"
+  ],
+  "mnemonic_ar": "افتكر: الموظف قال للصحفي: هسرّب 'ليك' (leak) كل الأخبار السرية."
+ }
+}

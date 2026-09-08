@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "toss",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "toss",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To throw something lightly or casually.",
+  "explanation_ar": "يرمي حاجة بخفة أو من غير اهتمام، زي لما ترمي المفاتيح على الترابيزة.",
+  "senses": [
+   {
+    "definition_en": "To throw something lightly or casually.",
+    "explanation_ar": "يرمي شيئاً بخفة أو دون مبالاة وبحركة بسيطة.",
+    "examples": [
+     "Don't just toss your clothes on the floor.",
+     "Let's toss a coin to decide who goes first."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't just toss your clothes on the floor.",
+   "Let's toss a coin to decide who goes first.",
+   "Please toss the ball back to the children."
+  ],
+  "translations": [
+   "يرمي بخفة",
+   "يقذف",
+   "يلقي"
+  ],
+  "relations": {
+   "synonyms": [
+    "throw",
+    "fling",
+    "chuck",
+    "cast"
+   ],
+   "antonyms": [
+    "catch",
+    "hold"
+   ],
+   "collocations": [
+    "toss a coin",
+    "toss and turn",
+    "toss a salad",
+    "toss away"
+   ]
+  },
+  "mnemonic": "زي 'طز'.. لما تقول لحد 'طز' ممكن تعمل 'Toss' 'ترمي' حاجة بإيدك.",
+  "phonetic_us": "tɑs",
+  "phonetic_uk": "tɒs",
+  "syllables": [
+   "toss"
+  ],
+  "semantic_tags": [
+   "Throw",
+   "Cooking",
+   "Movement",
+   "Casual"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To throw something lightly or casually.",
+  "explanation_ar": "يرمي حاجة بخفة أو من غير اهتمام، زي لما ترمي المفاتيح على الترابيزة.",
+  "examples": [
+   "Don't just toss your clothes on the floor.",
+   "Let's toss a coin to decide who goes first.",
+   "Please toss the ball back to the children."
+  ],
+  "translations": {
+   "arabic_ar": "يرمي بخفة يقذف يلقي"
+  },
+  "synonyms": [
+   "throw",
+   "fling",
+   "chuck",
+   "cast"
+  ],
+  "antonyms": [
+   "catch",
+   "hold"
+  ],
+  "collocations": [
+   "toss a coin",
+   "toss and turn",
+   "toss a salad",
+   "toss away"
+  ],
+  "mnemonic_ar": "زي 'طز'.. لما تقول لحد 'طز' ممكن تعمل 'Toss' 'ترمي' حاجة بإيدك."
+ }
+}

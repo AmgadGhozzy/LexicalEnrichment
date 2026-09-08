@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "editor",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "editor",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who determines the final content of a text or publication.",
+  "explanation_ar": "الشخص المسؤول عن مراجعة وتعديل المقالات أو الكتب قبل نشرها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who prepares, corrects, or decides the final content of a book, magazine, newspaper, or other text.",
+    "definition_ar": "محرر؛ الشخص الذي يتولى مراجعة وتنسيق وإعداد النصوص للطباعة والنشر.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A computer program used to create, view, or modify files such as text or code.",
+    "definition_ar": "محرر؛ برنامج حاسوبي يُستخدم لإنشاء وتعديل النصوص أو التعليمات البرمجية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The editor liked my story.",
+   "She works as a fashion editor.",
+   "The chief editor has the final say."
+  ],
+  "translations": [
+   "محرر"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "chief editor",
+    "managing editor",
+    "letter to the editor"
+   ]
+  },
+  "mnemonic": "جاية من 'Edit' يعني يعدل.. فالـ 'Editor' هو المعدل أو المحرر.",
+  "phonetic_us": "ˈed.ɪ.t̬ɚ",
+  "phonetic_uk": "ˈɛdɪtə",
+  "syllables": "ed•i•tor",
+  "semantic_tags": [
+   "#Job",
+   "#Media",
+   "#Writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who determines the final content of a text or publication.",
+  "explanation_ar": "الشخص المسؤول عن مراجعة وتعديل المقالات أو الكتب قبل نشرها.",
+  "examples": [
+   "The editor liked my story.",
+   "She works as a fashion editor.",
+   "The chief editor has the final say."
+  ],
+  "translations": {
+   "arabic_ar": "محرر"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "chief editor",
+   "managing editor",
+   "letter to the editor"
+  ],
+  "mnemonic_ar": "جاية من 'Edit' يعني يعدل.. فالـ 'Editor' هو المعدل أو المحرر."
+ }
+}

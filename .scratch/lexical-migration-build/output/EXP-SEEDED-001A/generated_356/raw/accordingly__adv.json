@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "accordingly",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "accordingly",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "In a way that is suitable or appropriate for the situation, or as a result of something mentioned.",
+  "explanation_ar": "يعني التصرف بما يناسب الموقف أو الظروف، أو بمعنى «بناءً على ذلك / نتيجةً لذلك».",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "In a way that is appropriate to the particular circumstances.",
+    "definition_ar": "بشكل ملائم أو مناسب للظروف والموقف.",
+    "examples": [
+     "Check the rules and act accordingly.",
+     "The cost of materials rose, and we adjusted our prices accordingly."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "In a way that corresponds to what has been done or said; therefore.",
+    "definition_ar": "بناءً على ذلك أو نتيجة لما سبق ذكره.",
+    "examples": [
+     "The circumstances have changed; accordingly, we must revise our strategy."
+    ]
+   }
+  ],
+  "examples": [
+   "Check the rules and act accordingly.",
+   "The cost of materials rose, and we adjusted our prices accordingly.",
+   "The circumstances have changed; accordingly, we must revise our strategy."
+  ],
+  "translations": [
+   "وفقاً لذلك",
+   "بناءً عليه",
+   "تبعاً لذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "appropriately",
+    "suitably",
+    "consequently",
+    "therefore",
+    "hence"
+   ],
+   "antonyms": [
+    "inappropriately"
+   ],
+   "collocations": [
+    "act accordingly",
+    "dress accordingly",
+    "respond accordingly",
+    "proceed accordingly"
+   ]
+  },
+  "mnemonic": "جاية من 'Accord' يعني اتفاق.. 'Accordingly' يعني طبقاً للاتفاق ده أو بناءً عليه.",
+  "phonetic_us": "əˈkɔːrdɪŋli",
+  "phonetic_uk": "əˈkɔːdɪŋli",
+  "syllables": "ac•cord•ing•ly",
+  "semantic_tags": [
+   "#Logic",
+   "#Consequence",
+   "#Formal",
+   "#Writing"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a way that is suitable or appropriate for the situation, or as a result of something mentioned.",
+  "explanation_ar": "يعني التصرف بما يناسب الموقف أو الظروف، أو بمعنى «بناءً على ذلك / نتيجةً لذلك».",
+  "examples": [
+   "Check the rules and act accordingly.",
+   "The cost of materials rose, and we adjusted our prices accordingly.",
+   "The circumstances have changed; accordingly, we must revise our strategy."
+  ],
+  "translations": {
+   "arabic_ar": "وفقاً لذلك بناءً عليه تبعاً لذلك"
+  },
+  "synonyms": [
+   "appropriately",
+   "suitably",
+   "consequently",
+   "therefore",
+   "hence"
+  ],
+  "antonyms": [
+   "inappropriately"
+  ],
+  "collocations": [
+   "act accordingly",
+   "dress accordingly",
+   "respond accordingly",
+   "proceed accordingly"
+  ],
+  "mnemonic_ar": "جاية من 'Accord' يعني اتفاق.. 'Accordingly' يعني طبقاً للاتفاق ده أو بناءً عليه."
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "frontier",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "frontier",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A line or border separating two countries, or the extreme limit of settled land or achievement.",
+  "explanation_ar": "الحدود الفاصلة بين بلدين، أو أقصى حدود الاستيطان والمعرفة قبل المجهول.",
+  "senses": [
+   {
+    "definition_en": "A border separating two countries.",
+    "definition_ar": "الحدود الدولية الفاصلة بين بلدين."
+   },
+   {
+    "definition_en": "The extreme limit of settled land, beyond which lies wilderness.",
+    "definition_ar": "تخوم الأرض المستقرة والمنطقة المتاخمة للبرية غير المستكشفة."
+   },
+   {
+    "definition_en": "The extreme limit of understanding, knowledge, or achievement in a particular field.",
+    "definition_ar": "أقصى حدود المعرفة أو التقدم في مجال معين."
+   }
+  ],
+  "examples": [
+   "We lived near the frontier with Canada.",
+   "Space is often described as the final frontier.",
+   "The novel explores the harsh life on the American frontier."
+  ],
+  "translations": [
+   "حدود",
+   "تخوم"
+  ],
+  "relations": {
+   "synonyms": [
+    "border",
+    "boundary",
+    "edge",
+    "limit"
+   ],
+   "antonyms": [
+    "center",
+    "interior",
+    "heartland"
+   ],
+   "collocations": [
+    "cross the frontier",
+    "final frontier",
+    "frontier town",
+    "new frontier"
+   ]
+  },
+  "mnemonic": "'Front' 'أمام'.. الـ 'Frontier' هو الخط اللي في الـ 'Front' بينك وبين العالم الجديد.",
+  "phonetic_us": "frʌnˈtɪr",
+  "phonetic_uk": "frʌnˈtɪə",
+  "syllables": "fron•tier",
+  "semantic_tags": [
+   "border",
+   "edge",
+   "exploration",
+   "limit"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A line or border separating two countries, or the extreme limit of settled land or achievement.",
+  "explanation_ar": "الحدود الفاصلة بين بلدين، أو أقصى حدود الاستيطان والمعرفة قبل المجهول.",
+  "examples": [
+   "We lived near the frontier with Canada.",
+   "Space is often described as the final frontier.",
+   "The novel explores the harsh life on the American frontier."
+  ],
+  "translations": {
+   "arabic_ar": "حدود تخوم"
+  },
+  "synonyms": [
+   "border",
+   "boundary",
+   "edge",
+   "limit"
+  ],
+  "antonyms": [
+   "center",
+   "interior",
+   "heartland"
+  ],
+  "collocations": [
+   "cross the frontier",
+   "final frontier",
+   "frontier town",
+   "new frontier"
+  ],
+  "mnemonic_ar": "'Front' 'أمام'.. الـ 'Frontier' هو الخط اللي في الـ 'Front' بينك وبين العالم الجديد."
+ }
+}

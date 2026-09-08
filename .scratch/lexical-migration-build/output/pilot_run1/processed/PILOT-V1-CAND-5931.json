@@ -1,0 +1,115 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5931",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5931",
+  "lemma": "jealousy",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5931,
+  "lemma": "jealousy",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈdʒɛləsi",
+  "phonetic_uk": null,
+  "phonetic_ar": "جِيلَسي",
+  "definition_en": "An unhappy feeling caused by wanting what someone else has or fearing loss of affection.",
+  "explanation_ar": "شعور بعدم الارتياح أو الضيق ينشأ عن الرغبة في امتلاك ما يملكه شخص آخر، أو الخوف من فقدان محبة واهتمام شخص ما لصالح منافس.",
+  "examples": [
+   {
+    "example_text": "His sudden success provoked intense jealousy among his former colleagues.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Unreasonable jealousy can quickly destroy trust within a relationship.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She felt a pang of jealousy when her friend bought a new car.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر نطق الكلمة الشبيه بعبارة \"جلس يغار\"؛ حيث يقود شعور \"jealousy\" صاحبه إلى الحزن والغيرة من نجاح الآخرين.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An unhappy feeling caused by wanting what someone else has or fearing loss of affection.",
+    "short_def_en": "feeling of envy or rivalry",
+    "definition_ar": "شعور بالغيرة أو الحسد تجاه ما يملكه شخص آخر أو بسبب الخوف من خسارة الاهتمام والمكانة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "emotions",
+     "relationships",
+     "psychology"
+    ],
+    "usage_note": "Can refer both to envy of others' possessions and possessive anxiety in personal relationships.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "feel jealousy",
+   "intense jealousy",
+   "pang of jealousy",
+   "consume with jealousy",
+   "spark jealousy"
+  ],
+  "synonyms": [
+   "envy",
+   "resentment",
+   "covetousness",
+   "bitterness"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "rivalry",
+    "suspicion",
+    "insecurity",
+    "possessive"
+   ],
+   "ar": [
+    "منافسة",
+    "شك",
+    "انعدام أمان",
+    "حب تملك"
+   ]
+  },
+  "word_family": {
+   "noun": "jealousy",
+   "verb": "",
+   "adj": "jealous",
+   "adv": "jealously"
+  },
+  "translations": {
+   "arabic_ar": "غيرة / حسد",
+   "french_fr": "jalousie",
+   "german_de": "Eifersucht",
+   "spanish_es": "celos",
+   "chinese_zh": "嫉妒 (Jídù)",
+   "russian_ru": "ревность",
+   "portuguese_pt": "ciúme",
+   "japanese_ja": "嫉妬 (Shitto)",
+   "italian_it": "gelosia",
+   "turkish_tr": "kıskançlık"
+  }
+ },
+ "provenance": {
+  "output_hash": "3969ccd8bacf41638bf4e4bfd08b328b303e52df56c9c40d75f3fc52ad77de0a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "candidate_id": "PILOT-V1-CAND-213",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-213",
+  "lemma": "when",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 213,
+  "lemma": "when",
+  "pos": "adv",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "wɛn",
+  "phonetic_uk": null,
+  "phonetic_ar": "وِين",
+  "definition_en": "At what time or period.",
+  "explanation_ar": "تُستخدم للسؤال أو الإشارة إلى الوقت أو الزمن المحدد لحدوث شيء ما.",
+  "examples": [
+   {
+    "example_text": "When does the train arrive?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "I do not know when the meeting starts.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Since when have you lived in this city?",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Used to ask about the time an event happens.",
+    "short_def_en": "at what time",
+    "definition_ar": "تستخدم في السؤال لطلب معرفة وقت حدوث شيء ما.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "question",
+     "interrogative"
+    ],
+    "usage_note": "Commonly placed at the beginning of direct questions about time.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Used to indicate the time at which something occurs in indirect questions or relative statements.",
+    "short_def_en": "the time that",
+    "definition_ar": "تستخدم كظرف وصل للإشارة إلى الوقت أو الفترة الزمنية التي يحدث فيها أمر ما.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "relative",
+     "reference"
+    ],
+    "usage_note": "Often follows nouns denoting time, such as day, year, or moment.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "since when",
+   "just when",
+   "exactly when",
+   "from when"
+  ],
+  "synonyms": [
+   "at what time"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "time",
+    "moment",
+    "date",
+    "schedule",
+    "now",
+    "then"
+   ],
+   "ar": [
+    "وقت",
+    "لحظة",
+    "تاريخ",
+    "جدول مواعيد",
+    "الآن",
+    "حينئذ"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "متى / حين",
+   "french_fr": "quand",
+   "german_de": "wann",
+   "spanish_es": "cuándo",
+   "chinese_zh": "什么时候 (shén me shí hou)",
+   "russian_ru": "когда",
+   "portuguese_pt": "quando",
+   "japanese_ja": "いつ (Itsu)",
+   "italian_it": "quando",
+   "turkish_tr": "ne zaman"
+  }
+ },
+ "provenance": {
+  "output_hash": "bab530f055e9fbcd5f33ff366e2a96c72fac383638ba12922a29e08a297c92fb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

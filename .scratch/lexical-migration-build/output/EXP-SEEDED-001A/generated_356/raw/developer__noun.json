@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "developer",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "developer",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person or company that creates new products, software, or buildings.",
+  "explanation_ar": "الشخص أو الشركة التي تقوم بتطوير منتجات أو برمجيات، أو مقاول/مستثمر يقوم بإنشاء مبانٍ وعقارات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person or company that creates computer software or applications.",
+    "definition_ar": "مبرمج أو شركة برمجيات تعمل على تصميم وتطوير التطبيقات والأنظمة.",
+    "examples": [
+     "As a web developer, you need to know JavaScript.",
+     "He works as a game developer for a major gaming studio."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A person or company that buys land and builds houses, offices, or other buildings on it.",
+    "definition_ar": "مطور عقاري يقوم بشراء الأراضي وتشييد المباني السكنية أو التجارية عليها.",
+    "examples": [
+     "The property developer bought the land to build new apartments."
+    ]
+   }
+  ],
+  "examples": [
+   "As a web developer, you need to know JavaScript.",
+   "He works as a game developer for a major gaming studio.",
+   "The property developer bought the land to build new apartments."
+  ],
+  "translations": [
+   "مُطَوِّر",
+   "مُبَرْمِج",
+   "مُطَوِّر عَقَارِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "programmer",
+    "builder",
+    "creator"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "software developer",
+    "web developer",
+    "property developer",
+    "game developer"
+   ]
+  },
+  "mnemonic": "من الفعل 'develop' (يطوّر).. بإضافة '-er' تصبح 'developer' أي الشخص أو الكيان المُطوِّر، سواء في البرمجة أو البناء العقاري.",
+  "phonetic_us": "dɪˈvel.ə.pɚ",
+  "phonetic_uk": "dɪˈvel.ə.pər",
+  "syllables": "de•vel•op•er",
+  "semantic_tags": [
+   "#Tech",
+   "#Building",
+   "#Job",
+   "#Creation"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person or company that creates new products, software, or buildings.",
+  "explanation_ar": "الشخص أو الشركة التي تقوم بتطوير منتجات أو برمجيات، أو مقاول/مستثمر يقوم بإنشاء مبانٍ وعقارات.",
+  "examples": [
+   "As a web developer, you need to know JavaScript.",
+   "He works as a game developer for a major gaming studio.",
+   "The property developer bought the land to build new apartments."
+  ],
+  "translations": {
+   "arabic_ar": "مُطَوِّر مُبَرْمِج مُطَوِّر عَقَارِيّ"
+  },
+  "synonyms": [
+   "programmer",
+   "builder",
+   "creator"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "software developer",
+   "web developer",
+   "property developer",
+   "game developer"
+  ],
+  "mnemonic_ar": "من الفعل 'develop' (يطوّر).. بإضافة '-er' تصبح 'developer' أي الشخص أو الكيان المُطوِّر، سواء في البرمجة أو البناء العقاري."
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "cannot",
+  "pos": "modal",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "cannot",
+  "pos": "modal",
+  "cefr": "A1",
+  "definition_en": "The negative form of can; to be unable to do something or not permitted to do something.",
+  "explanation_ar": "صيغة النفي من الفعل (can)؛ تعني «لا يستطيع» أو «غير قادر على»، وتُكتب ككلمة واحدة وتُعد أكثر رسمية من (can't).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To be unable to do something, or that something is not possible.",
+    "definition_ar": "لا يستطيع، أو غير قادر على فعل شيء، أو أن الأمر غير ممكن.",
+    "examples": [
+     "I cannot swim.",
+     "She cannot come to the party.",
+     "We cannot afford a new car right now."
+    ]
+   }
+  ],
+  "examples": [
+   "I cannot swim.",
+   "She cannot come to the party.",
+   "We cannot afford a new car right now."
+  ],
+  "translations": [
+   "لا يستطيع",
+   "لا يمكنه",
+   "غير قادر على"
+  ],
+  "relations": {
+   "synonyms": [
+    "can't",
+    "unable to"
+   ],
+   "antonyms": [
+    "can",
+    "able to"
+   ],
+   "collocations": [
+    "cannot wait",
+    "cannot believe",
+    "cannot afford",
+    "cannot help"
+   ]
+  },
+  "mnemonic": "هي كلمتين لازقين في بعض: 'Can' و 'Not'.. يعني 'أقدر' + 'لأ'.",
+  "phonetic_us": "ˈkæn.ɑːt",
+  "phonetic_uk": "ˈkæn.ɒt",
+  "syllables": "can•not",
+  "semantic_tags": [
+   "Ability",
+   "Negative",
+   "Modal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The negative form of can; to be unable to do something or not permitted to do something.",
+  "explanation_ar": "صيغة النفي من الفعل (can)؛ تعني «لا يستطيع» أو «غير قادر على»، وتُكتب ككلمة واحدة وتُعد أكثر رسمية من (can't).",
+  "examples": [
+   "I cannot swim.",
+   "She cannot come to the party.",
+   "We cannot afford a new car right now."
+  ],
+  "translations": {
+   "arabic_ar": "لا يستطيع لا يمكنه غير قادر على"
+  },
+  "synonyms": [
+   "can't",
+   "unable to"
+  ],
+  "antonyms": [
+   "can",
+   "able to"
+  ],
+  "collocations": [
+   "cannot wait",
+   "cannot believe",
+   "cannot afford",
+   "cannot help"
+  ],
+  "mnemonic_ar": "هي كلمتين لازقين في بعض: 'Can' و 'Not'.. يعني 'أقدر' + 'لأ'."
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6570",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6570",
+  "lemma": "pronunciation",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6570,
+  "lemma": "pronunciation",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "prəˌnʌnsiˈeɪʃn",
+  "phonetic_uk": "prəˌnʌnsiˈeɪʃn",
+  "phonetic_ar": "برونانسييشن",
+  "definition_en": "The way in which a word or language is spoken.",
+  "explanation_ar": "طريقة نطق الكلمات أو إخراج أصوات الحروف في لغة معينة.",
+  "examples": [
+   {
+    "example_text": "Good pronunciation helps other people understand you easily.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Her English pronunciation improved after living in London.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Listen to the audio recording to check the correct pronunciation of the word.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الفعل هو \"pronounce\" باضافة \"ou\" بينما الاسم يكتب \"pronun\" بدون حرف \"o\" في الوسط ليركز على طريقة الصوت",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The way in which a word or language is spoken.",
+    "short_def_en": "way of speaking words",
+    "definition_ar": "طريقة اخراج اصوات الكلمات عند التحدث بها",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "speech",
+     "language",
+     "linguistics",
+     "phonetics"
+    ],
+    "usage_note": "Notice the spelling difference between the verb pronounce (with -oun-) and the noun pronunciation (with -un-).",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "correct pronunciation",
+   "clear pronunciation",
+   "improve pronunciation",
+   "English pronunciation",
+   "native pronunciation"
+  ],
+  "synonyms": [
+   "accent",
+   "articulation",
+   "enunciation",
+   "diction",
+   "inflection"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "accent",
+    "phonetics",
+    "speech",
+    "sound",
+    "vowel",
+    "consonant"
+   ],
+   "ar": [
+    "لهجة",
+    "صوتيات",
+    "كلام",
+    "صوت",
+    "حرف علة",
+    "حرف ساكن"
+   ]
+  },
+  "word_family": {
+   "noun": "pronunciation",
+   "verb": "pronounce",
+   "adj": "pronounceable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "نطق / طريقة اللفظ",
+   "french_fr": "prononciation",
+   "german_de": "Aussprache",
+   "spanish_es": "pronunciación",
+   "chinese_zh": "发音 (Fāyīn)",
+   "russian_ru": "произношение",
+   "portuguese_pt": "pronúncia",
+   "japanese_ja": "発音 (Hatsuon)",
+   "italian_it": "pronuncia",
+   "turkish_tr": "telaffuz"
+  }
+ },
+ "provenance": {
+  "output_hash": "c9e1d629409404e3430ac3a6b02ffe08aa4adc61090dd910686684b6941296e6",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

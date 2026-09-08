@@ -1,0 +1,119 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1868",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1868",
+  "lemma": "emergency",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1868,
+  "lemma": "emergency",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪˈmɜːrdʒənsi",
+  "phonetic_uk": "ɪˈmɜːdʒənsi",
+  "phonetic_ar": "إِمِرْجِنْسِي",
+  "definition_en": "A sudden, serious, and dangerous situation that requires immediate action to deal with it.",
+  "explanation_ar": "حالة طارئة وخطيرة تحدث فجأة وتتطلب تدخلا ومساعدة سريعة لحماية الأرواح أو الممتلكات.",
+  "examples": [
+   {
+    "example_text": "In case of an emergency, call nine one one immediately.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The hospital opened an extra ward to cope with the medical emergency.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The pilot had to make an emergency landing after the engine failed.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل emerge ويعني يظهر فجأة، فالأمر الطارئ emergency هو حدث مفاجئ يظهر دون سابق إنذار ويتطلب تحركا سريعا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A sudden, dangerous situation requiring immediate action or urgent help.",
+    "short_def_en": "urgent unexpected crisis",
+    "definition_ar": "حالة طارئة تستوجب تصرفا فوريا وسريعا لتفادي الخطر.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "danger",
+     "safety",
+     "health",
+     "urgent"
+    ],
+    "usage_note": "Often used with prepositions like 'in an emergency' or attributively as in 'emergency services'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "state of emergency",
+   "emergency services",
+   "medical emergency",
+   "emergency exit",
+   "in case of emergency"
+  ],
+  "synonyms": [
+   "crisis",
+   "urgency",
+   "exigency"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "urgent",
+    "accident",
+    "ambulance",
+    "rescue",
+    "hazard",
+    "paramedic"
+   ],
+   "ar": [
+    "عاجل",
+    "حادث",
+    "إسعاف",
+    "إنقاذ",
+    "خطر",
+    "مسعف"
+   ]
+  },
+  "word_family": {
+   "noun": "emergence",
+   "verb": "emerge",
+   "adj": "emergent",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "طوارئ / حالة طارئة",
+   "french_fr": "urgence",
+   "german_de": "Notfall",
+   "spanish_es": "emergencia",
+   "chinese_zh": "紧急情况 (Jǐnjí qíngkuàng)",
+   "russian_ru": "чрезвычайная ситуация",
+   "portuguese_pt": "emergência",
+   "japanese_ja": "緊急事態 (Kinkyū jitai)",
+   "italian_it": "emergenza",
+   "turkish_tr": "acil durum"
+  }
+ },
+ "provenance": {
+  "output_hash": "8ce4892db66a26b2711a034afb00c28b72d3ec309608be94e4d079fb170985d2",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

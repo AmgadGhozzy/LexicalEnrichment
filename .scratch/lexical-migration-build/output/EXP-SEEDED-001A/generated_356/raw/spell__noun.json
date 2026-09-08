@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "spell",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "spell",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A form of words used as a magical charm; OR a short period of time.",
+  "explanation_ar": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A continuous short period of a particular condition, activity, or weather.",
+    "definition_ar": "فترة زمنية قصيرة أو موجة من حالة أو طقس معين.",
+    "examples": [
+     "The dry spell damaged the crops.",
+     "We had a spell of hot weather."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Spoken words believed to have magical power, or a magical charm.",
+    "definition_ar": "تعويذة أو رقية سحرية.",
+    "examples": [
+     "The wizard recited an ancient spell to unlock the door."
+    ]
+   }
+  ],
+  "examples": [
+   "The dry spell damaged the crops.",
+   "We had a spell of hot weather.",
+   "The wizard recited an ancient spell to unlock the door."
+  ],
+  "translations": [
+   "تعويذة",
+   "فترة",
+   "موجة"
+  ],
+  "relations": {
+   "synonyms": [
+    "charm",
+    "period",
+    "interval",
+    "bout"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cast a spell",
+    "under a spell",
+    "cold spell",
+    "dry spell"
+   ]
+  },
+  "mnemonic": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد.",
+  "phonetic_us": "spɛl",
+  "phonetic_uk": "spel",
+  "syllables": [
+   "spell"
+  ],
+  "semantic_tags": [
+   "#Magic",
+   "#Time",
+   "#Period"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A form of words used as a magical charm; OR a short period of time.",
+  "explanation_ar": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+  "examples": [
+   "The dry spell damaged the crops.",
+   "We had a spell of hot weather.",
+   "The wizard recited an ancient spell to unlock the door."
+  ],
+  "translations": {
+   "arabic_ar": "تعويذة فترة موجة"
+  },
+  "synonyms": [
+   "charm",
+   "period",
+   "interval",
+   "bout"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cast a spell",
+   "under a spell",
+   "cold spell",
+   "dry spell"
+  ],
+  "mnemonic_ar": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد."
+ }
+}

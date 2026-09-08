@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "offspring",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "offspring",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person's child or children, or the young of an animal.",
+  "explanation_ar": "يعني الذرية أو النسل (الأولاد)، سواء للبشر أو صغار الحيوانات، وتُستخدم غالباً في سياقات رسمية أو علمية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person's child or children.",
+    "definition_ar": "ذرية أو نسل الشخص من الأولاد.",
+    "examples": [
+     "She is the only offspring of a wealthy family."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The young of an animal.",
+    "definition_ar": "صغار الحيوان أو نتاجه.",
+    "examples": [
+     "The disease can be passed from parents to their offspring.",
+     "Genetic traits are transmitted to offspring through DNA."
+    ]
+   }
+  ],
+  "examples": [
+   "She is the only offspring of a wealthy family.",
+   "The disease can be passed from parents to their offspring.",
+   "Genetic traits are transmitted to offspring through DNA."
+  ],
+  "translations": [
+   "ذرية",
+   "نسل",
+   "صغار الحيوان"
+  ],
+  "relations": {
+   "synonyms": [
+    "progeny",
+    "children",
+    "descendants",
+    "young"
+   ],
+   "antonyms": [
+    "parent",
+    "ancestor",
+    "forefather"
+   ],
+   "collocations": [
+    "produce offspring",
+    "female offspring",
+    "male offspring",
+    "human offspring"
+   ]
+  },
+  "mnemonic": "الـ 'Offspring' هما الأطفال أو الصغار اللي 'Spring' (ينبعوا أو يتفرعوا) من أهلهم.",
+  "phonetic_us": "ˈɔːf.sprɪŋ",
+  "phonetic_uk": "ˈɒf.sprɪŋ",
+  "syllables": "off•spring",
+  "semantic_tags": [
+   "#Family",
+   "#Children",
+   "#Biology",
+   "#Genetics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person's child or children, or the young of an animal.",
+  "explanation_ar": "يعني الذرية أو النسل (الأولاد)، سواء للبشر أو صغار الحيوانات، وتُستخدم غالباً في سياقات رسمية أو علمية.",
+  "examples": [
+   "She is the only offspring of a wealthy family.",
+   "The disease can be passed from parents to their offspring.",
+   "Genetic traits are transmitted to offspring through DNA."
+  ],
+  "translations": {
+   "arabic_ar": "ذرية نسل صغار الحيوان"
+  },
+  "synonyms": [
+   "progeny",
+   "children",
+   "descendants",
+   "young"
+  ],
+  "antonyms": [
+   "parent",
+   "ancestor",
+   "forefather"
+  ],
+  "collocations": [
+   "produce offspring",
+   "female offspring",
+   "male offspring",
+   "human offspring"
+  ],
+  "mnemonic_ar": "الـ 'Offspring' هما الأطفال أو الصغار اللي 'Spring' (ينبعوا أو يتفرعوا) من أهلهم."
+ }
+}

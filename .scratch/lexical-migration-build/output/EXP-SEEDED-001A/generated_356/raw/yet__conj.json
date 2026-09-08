@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "yet",
+  "pos": "conj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "yet",
+  "pos": "conj",
+  "cefr": "B2",
+  "definition_en": "Used to link two contrasting ideas or clauses; but, nevertheless.",
+  "explanation_ar": "أداة ربط بتيجي بمعنى 'لكن' أو 'مع ذلك' للربط بين جملتين أو صفتين بينهما تناقض.",
+  "senses": [
+   {
+    "definition_en": "Used to connect two contrasting statements or ideas; but, nevertheless.",
+    "definition_ar": "تُستخدم للربط بين فكرتين أو جملتين متناقضتين بمعنى 'لكن' أو 'مع ذلك'.",
+    "examples": [
+     "It was a strange yet beautiful song.",
+     "The path was dark, yet I found my way.",
+     "He has a good job, and yet he never seems to have any money."
+    ]
+   }
+  ],
+  "examples": [
+   "It was a strange yet beautiful song.",
+   "The path was dark, yet I found my way.",
+   "He has a good job, and yet he never seems to have any money."
+  ],
+  "translations": [
+   "لكن",
+   "مع ذلك",
+   "رغم ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "but",
+    "nevertheless",
+    "still"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "and yet",
+    "simple yet effective"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/jɛt/",
+  "phonetic_uk": "/jet/",
+  "syllables": [
+   "yet"
+  ],
+  "semantic_tags": [
+   "contrast",
+   "conjunction",
+   "linking words"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to link two contrasting ideas or clauses; but, nevertheless.",
+  "explanation_ar": "أداة ربط بتيجي بمعنى 'لكن' أو 'مع ذلك' للربط بين جملتين أو صفتين بينهما تناقض.",
+  "examples": [
+   "It was a strange yet beautiful song.",
+   "The path was dark, yet I found my way.",
+   "He has a good job, and yet he never seems to have any money."
+  ],
+  "translations": {
+   "arabic_ar": "لكن مع ذلك رغم ذلك"
+  },
+  "synonyms": [
+   "but",
+   "nevertheless",
+   "still"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "and yet",
+   "simple yet effective"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "incidental",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "incidental",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Happening as a minor accompaniment to something else; not the main part.",
+  "explanation_ar": "حاجة بتحصل بالصدفة أو كشيء جانبي مش أساسي مع حاجة تانية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Happening as a minor accompaniment to something else; not the main part.",
+    "explanation_ar": "عارض أو ثانوي، يحدث كشيء جانبي مرافق لشيء آخر وأقل أهمية منه.",
+    "examples": [
+     "Any resemblance to real persons is purely incidental.",
+     "The discovery was incidental to their main research.",
+     "Cognitive development is not merely incidental to physical growth."
+    ]
+   }
+  ],
+  "examples": [
+   "Any resemblance to real persons is purely incidental.",
+   "The discovery was incidental to their main research.",
+   "Cognitive development is not merely incidental to physical growth."
+  ],
+  "translations": [
+   "عَرَضي",
+   "جانبي",
+   "ثانوي"
+  ],
+  "relations": {
+   "synonyms": [
+    "secondary",
+    "subsidiary",
+    "minor",
+    "peripheral"
+   ],
+   "antonyms": [
+    "essential",
+    "fundamental",
+    "basic"
+   ],
+   "collocations": [
+    "incidental expenses",
+    "incidental music",
+    "purely incidental",
+    "incidental finding"
+   ]
+  },
+  "mnemonic": "جاية من 'Incident' 'حادثة/واقعة'.. الـ 'Incidental' هو الشيء العارِض اللي بيحصل على الهامش.",
+  "phonetic_us": "ˌɪnsɪˈdɛntəl",
+  "phonetic_uk": "ˌɪnsɪˈdentəl",
+  "syllables": "in•ci•den•tal",
+  "semantic_tags": [
+   "Business",
+   "Events",
+   "Details"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Happening as a minor accompaniment to something else; not the main part.",
+  "explanation_ar": "حاجة بتحصل بالصدفة أو كشيء جانبي مش أساسي مع حاجة تانية.",
+  "examples": [
+   "Any resemblance to real persons is purely incidental.",
+   "The discovery was incidental to their main research.",
+   "Cognitive development is not merely incidental to physical growth."
+  ],
+  "translations": {
+   "arabic_ar": "عَرَضي جانبي ثانوي"
+  },
+  "synonyms": [
+   "secondary",
+   "subsidiary",
+   "minor",
+   "peripheral"
+  ],
+  "antonyms": [
+   "essential",
+   "fundamental",
+   "basic"
+  ],
+  "collocations": [
+   "incidental expenses",
+   "incidental music",
+   "purely incidental",
+   "incidental finding"
+  ],
+  "mnemonic_ar": "جاية من 'Incident' 'حادثة/واقعة'.. الـ 'Incidental' هو الشيء العارِض اللي بيحصل على الهامش."
+ }
+}

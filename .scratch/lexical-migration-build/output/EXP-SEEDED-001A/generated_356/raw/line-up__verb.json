@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "line-up",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "line-up",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To arrange people or things in a row; to organize or prepare.",
+  "explanation_ar": "يصطف أو يوقف ناس في طابور، وممكن تيجي بمعنى يجهز أو يرتب لحاجة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To form a row or place people or things into a row or queue.",
+    "definition_ar": "يصطف أو يرتب أشخاصاً أو أشياء في صف واحد",
+    "examples": [
+     "Spectators began to line-up along the street hours before the parade started.",
+     "The director asked the actors to line-up on stage for the final curtain call."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To organize, secure, or schedule someone or something for an event.",
+    "definition_ar": "يجهز أو يرتب أو يوفر أشخاصاً أو خدمات لحدث معين",
+    "examples": [
+     "The committee managed to line-up several prominent keynote speakers for the summit."
+    ]
+   }
+  ],
+  "examples": [
+   "Spectators began to line-up along the street hours before the parade started.",
+   "The director asked the actors to line-up on stage for the final curtain call.",
+   "The committee managed to line-up several prominent keynote speakers for the summit."
+  ],
+  "translations": [
+   "يصطف",
+   "يرتب",
+   "يجهز"
+  ],
+  "relations": {
+   "synonyms": [
+    "align",
+    "queue",
+    "arrange",
+    "organize"
+   ],
+   "antonyms": [
+    "scatter",
+    "disperse"
+   ],
+   "collocations": [
+    "line-up for",
+    "line-up behind",
+    "line-up against"
+   ]
+  },
+  "mnemonic": "'Line' 'خط' + 'Up'.. يعني اعملوا 'Line' 'خط' واقفين 'Up'.",
+  "phonetic_us": "ˈlaɪn.ʌp",
+  "phonetic_uk": "ˌlaɪnˈʌp",
+  "syllables": "line•up",
+  "semantic_tags": [
+   "#Order",
+   "#Organization",
+   "#Queue",
+   "#Arrangement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To arrange people or things in a row; to organize or prepare.",
+  "explanation_ar": "يصطف أو يوقف ناس في طابور، وممكن تيجي بمعنى يجهز أو يرتب لحاجة.",
+  "examples": [
+   "Spectators began to line-up along the street hours before the parade started.",
+   "The director asked the actors to line-up on stage for the final curtain call.",
+   "The committee managed to line-up several prominent keynote speakers for the summit."
+  ],
+  "translations": {
+   "arabic_ar": "يصطف يرتب يجهز"
+  },
+  "synonyms": [
+   "align",
+   "queue",
+   "arrange",
+   "organize"
+  ],
+  "antonyms": [
+   "scatter",
+   "disperse"
+  ],
+  "collocations": [
+   "line-up for",
+   "line-up behind",
+   "line-up against"
+  ],
+  "mnemonic_ar": "'Line' 'خط' + 'Up'.. يعني اعملوا 'Line' 'خط' واقفين 'Up'."
+ }
+}

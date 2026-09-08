@@ -1,0 +1,119 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6685",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6685",
+  "lemma": "gasp",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6685,
+  "lemma": "gasp",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɡæsp",
+  "phonetic_uk": "ɡɑːsp",
+  "phonetic_ar": "غَاسْب",
+  "definition_en": "A short, sudden intake of breath, often caused by surprise, shock, pain, or physical exhaustion.",
+  "explanation_ar": "شهقة مفاجئة وسريعة لسحب الهواء إلى الرئتين، تحدث غالبا بسبب الصدمة أو المفاجأة أو الألم الشديد.",
+  "examples": [
+   {
+    "example_text": "A sharp gasp of surprise echoed through the room when the lights went out.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The injured runner took a painful gasp of air before continuing the race.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She drew a sudden gasp when she heard the unexpected announcement.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل شخصا انقطع نفسه فجأة ونطق صوت \"gasp\" وهو يشهق بشدة من المفاجأة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A short, sudden intake of breath, often caused by surprise, shock, pain, or physical exhaustion.",
+    "short_def_en": "sudden catch of breath",
+    "definition_ar": "شهقة مفاجئة من الدهشة او الالم او التعب",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "breathing",
+     "reactions",
+     "emotions",
+     "body"
+    ],
+    "usage_note": "Frequently used with verbs like give, utter, draw, or let out.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "gasp of surprise",
+   "sharp gasp",
+   "audible gasp",
+   "gasp of horror",
+   "let out a gasp"
+  ],
+  "synonyms": [
+   "pant",
+   "puff",
+   "wheeze"
+  ],
+  "antonyms": [
+   "sigh"
+  ],
+  "related_words": {
+   "en": [
+    "breath",
+    "inhale",
+    "choke",
+    "shock",
+    "astonishment"
+   ],
+   "ar": [
+    "نفس",
+    "شهيق",
+    "اختناق",
+    "صدمة",
+    "ذهول"
+   ]
+  },
+  "word_family": {
+   "noun": "gasp",
+   "verb": "gasp",
+   "adj": "gasping",
+   "adv": "gaspingly"
+  },
+  "translations": {
+   "arabic_ar": "شَهْقَة",
+   "french_fr": "souffle court",
+   "german_de": "Keuchen",
+   "spanish_es": "jadeo",
+   "chinese_zh": "倒抽气 (Dào chōuqì)",
+   "russian_ru": "вздох",
+   "portuguese_pt": "arquejo",
+   "japanese_ja": "息をのむこと (Iki o nomu koto)",
+   "italian_it": "ansito",
+   "turkish_tr": "nefes nefese kalma"
+  }
+ },
+ "provenance": {
+  "output_hash": "0d28ca85287a79b2faf2165300d6f7e46fbe5b59dd06188f18d123f5447dd65c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

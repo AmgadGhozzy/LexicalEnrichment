@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "pair",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "pair",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Two things of the same type that are used together, or an object made of two connected parts.",
+  "explanation_ar": "شيئان متماثلان يُستخدمان معاً كزوج (مثل فردتي حذاء)، أو أداة واحدة مكوّنة من جزأين متصلين (مثل النظارة أو المقص)، أو شخصان مرتبطان.",
+  "senses": [
+   {
+    "sense_id": "pair_noun_1",
+    "definition_en": "Two things of the same kind that are used together or belong together.",
+    "definition_ar": "زوج من شيئين متطابقين يُستخدمان معاً (مثل حذاء أو قفازين).",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": "pair_noun_2",
+    "definition_en": "An object that is made of two joined or matching parts.",
+    "definition_ar": "أداة مفردة تتكون من جزأين متصلين (مثل النظارة أو البنطال أو المقص).",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": "pair_noun_3",
+    "definition_en": "Two people who are working together, closely connected, or seen together.",
+    "definition_ar": "شخصان يعملان معاً أو مرتبطان كفريق أو زوجين.",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "I need a new pair of shoes.",
+   "Where did you put that pair of scissors?",
+   "They are a happy pair and work well together."
+  ],
+  "translations": [
+   "زوج",
+   "جوز"
+  ],
+  "relations": {
+   "synonyms": [
+    "couple",
+    "duo"
+   ],
+   "antonyms": [
+    "single"
+   ],
+   "collocations": [
+    "pair of shoes",
+    "pair of glasses",
+    "pair of scissors",
+    "in a pair",
+    "perfect pair"
+   ]
+  },
+  "mnemonic": "الكلمة تُنطق مثل Pear (كمثرى)، لكن وجود حرف 'i' في pair يذكرك بأنها تعني فردتين أو شيئين معاً كزوج.",
+  "phonetic_us": "/per/",
+  "phonetic_uk": "/peə/",
+  "syllables": "pair",
+  "semantic_tags": [
+   "#Quantity",
+   "#Clothing",
+   "#Relationships",
+   "#Two"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Two things of the same type that are used together, or an object made of two connected parts.",
+  "explanation_ar": "شيئان متماثلان يُستخدمان معاً كزوج (مثل فردتي حذاء)، أو أداة واحدة مكوّنة من جزأين متصلين (مثل النظارة أو المقص)، أو شخصان مرتبطان.",
+  "examples": [
+   "I need a new pair of shoes.",
+   "Where did you put that pair of scissors?",
+   "They are a happy pair and work well together."
+  ],
+  "translations": {
+   "arabic_ar": "زوج جوز"
+  },
+  "synonyms": [
+   "couple",
+   "duo"
+  ],
+  "antonyms": [
+   "single"
+  ],
+  "collocations": [
+   "pair of shoes",
+   "pair of glasses",
+   "pair of scissors",
+   "in a pair",
+   "perfect pair"
+  ],
+  "mnemonic_ar": "الكلمة تُنطق مثل Pear (كمثرى)، لكن وجود حرف 'i' في pair يذكرك بأنها تعني فردتين أو شيئين معاً كزوج."
+ }
+}

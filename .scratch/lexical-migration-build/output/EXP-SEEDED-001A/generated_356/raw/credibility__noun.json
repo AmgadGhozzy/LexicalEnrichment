@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "credibility",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "credibility",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The quality of being trusted and believed in.",
+  "explanation_ar": "المصداقية.. يعني الناس تصدقك وتثق في كلامك.",
+  "senses": [
+   {
+    "definition_en": "The quality of being trusted and believed in.",
+    "explanation_ar": "المصداقية والقدرة على كسب ثقة الآخرين وتصديقهم.",
+    "examples": [
+     "The scandal damaged the company's credibility.",
+     "She built her credibility through years of hard work.",
+     "The report lacks scientific credibility."
+    ]
+   }
+  ],
+  "examples": [
+   "The scandal damaged the company's credibility.",
+   "She built her credibility through years of hard work.",
+   "The report lacks scientific credibility."
+  ],
+  "translations": [
+   "مصداقية"
+  ],
+  "relations": {
+   "synonyms": [
+    "trustworthiness",
+    "reliability",
+    "integrity"
+   ],
+   "antonyms": [
+    "unreliability",
+    "distrust"
+   ],
+   "collocations": [
+    "lose credibility",
+    "gain credibility",
+    "lack credibility"
+   ]
+  },
+  "mnemonic": "جاية من 'Credit'.. لما يكون عندك 'Credit' عند الناس يعني بيثقوا فيك وعندك 'Credibility'.",
+  "phonetic_us": "ˌkrɛdəˈbɪləti",
+  "phonetic_uk": "ˌkredɪˈbɪlɪti",
+  "syllables": "cred•i•bil•i•ty",
+  "semantic_tags": [
+   "trust",
+   "reputation",
+   "truth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The quality of being trusted and believed in.",
+  "explanation_ar": "المصداقية.. يعني الناس تصدقك وتثق في كلامك.",
+  "examples": [
+   "The scandal damaged the company's credibility.",
+   "She built her credibility through years of hard work.",
+   "The report lacks scientific credibility."
+  ],
+  "translations": {
+   "arabic_ar": "مصداقية"
+  },
+  "synonyms": [
+   "trustworthiness",
+   "reliability",
+   "integrity"
+  ],
+  "antonyms": [
+   "unreliability",
+   "distrust"
+  ],
+  "collocations": [
+   "lose credibility",
+   "gain credibility",
+   "lack credibility"
+  ],
+  "mnemonic_ar": "جاية من 'Credit'.. لما يكون عندك 'Credit' عند الناس يعني بيثقوا فيك وعندك 'Credibility'."
+ }
+}

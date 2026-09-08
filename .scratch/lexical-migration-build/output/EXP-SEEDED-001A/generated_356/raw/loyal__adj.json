@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "loyal",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "loyal",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Giving or showing firm and constant support or allegiance.",
+  "explanation_ar": "وفي ومخلص، الشخص اللي مبيخونش وبيفضل ثابت على العهد.",
+  "senses": [
+   {
+    "definition_en": "Giving or showing firm and constant support or allegiance to a person, country, or cause.",
+    "explanation_ar": "وفي ومخلص لشخص أو جهة أو مبدأ.",
+    "examples": [
+     "He is a loyal friend who always supports those he cares about.",
+     "The shop has many loyal customers who return every week.",
+     "She remained loyal to her principles despite facing severe criticism."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a loyal friend who always supports those he cares about.",
+   "The shop has many loyal customers who return every week.",
+   "She remained loyal to her principles despite facing severe criticism."
+  ],
+  "translations": [
+   "وَفِيّ",
+   "مُخْلِص"
+  ],
+  "relations": {
+   "synonyms": [
+    "faithful",
+    "devoted",
+    "trustworthy",
+    "staunch"
+   ],
+   "antonyms": [
+    "disloyal",
+    "treacherous",
+    "unfaithful"
+   ],
+   "collocations": [
+    "loyal friend",
+    "loyal customer",
+    "remain loyal",
+    "loyal support"
+   ]
+  },
+  "mnemonic": "كلمة 'Loyal' قريبة من 'Law' 'قانون'.. المخلص هو اللي بيمشي على قانون الوفاء.",
+  "phonetic_us": "ˈlɔɪəl",
+  "phonetic_uk": "ˈlɔɪəl",
+  "syllables": "loy•al",
+  "semantic_tags": [
+   "#Friendship",
+   "#Trust",
+   "#Character"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Giving or showing firm and constant support or allegiance.",
+  "explanation_ar": "وفي ومخلص، الشخص اللي مبيخونش وبيفضل ثابت على العهد.",
+  "examples": [
+   "He is a loyal friend who always supports those he cares about.",
+   "The shop has many loyal customers who return every week.",
+   "She remained loyal to her principles despite facing severe criticism."
+  ],
+  "translations": {
+   "arabic_ar": "وَفِيّ مُخْلِص"
+  },
+  "synonyms": [
+   "faithful",
+   "devoted",
+   "trustworthy",
+   "staunch"
+  ],
+  "antonyms": [
+   "disloyal",
+   "treacherous",
+   "unfaithful"
+  ],
+  "collocations": [
+   "loyal friend",
+   "loyal customer",
+   "remain loyal",
+   "loyal support"
+  ],
+  "mnemonic_ar": "كلمة 'Loyal' قريبة من 'Law' 'قانون'.. المخلص هو اللي بيمشي على قانون الوفاء."
+ }
+}

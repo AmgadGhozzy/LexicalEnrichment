@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "faculty",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "faculty",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The teaching staff or an academic department of a university, or an inherent mental or physical power.",
+  "explanation_ar": "ليها معنيين: الكلية أو هيئة التدريس في الجامعة، أو قدرة عقلية وبدنية عند الإنسان.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The teaching staff or a department in a university or college.",
+    "definition_ar": "هيئة التدريس أو كلية في الجامعة.",
+    "translations": [
+     "كلية",
+     "هيئة التدريس"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An inherent mental or physical ability or power.",
+    "definition_ar": "قدرة أو ملكة عقلية أو جسدية طبيعية.",
+    "translations": [
+     "قدرة",
+     "ملكة"
+    ]
+   }
+  ],
+  "examples": [
+   "She joined the law faculty.",
+   "The faculty voted unanimously on the new curriculum.",
+   "She showed a remarkable faculty for learning foreign languages."
+  ],
+  "translations": [
+   "كلية",
+   "هيئة التدريس",
+   "قدرة",
+   "ملكة"
+  ],
+  "relations": {
+   "synonyms": [
+    "department",
+    "staff",
+    "capability",
+    "ability"
+   ],
+   "antonyms": [
+    "inability"
+   ],
+   "collocations": [
+    "faculty member",
+    "mental faculty",
+    "faculty of medicine"
+   ]
+  },
+  "mnemonic": "فاكرتني؟ 'Fact'.. الكلية 'Faculty' مكان بندرس فيه الـ 'Facts' الحقائق.",
+  "phonetic_us": "ˈfækəlti",
+  "phonetic_uk": "ˈfækəlti",
+  "syllables": "fac•ul•ty",
+  "semantic_tags": [
+   "#University",
+   "#Ability",
+   "#Education"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The teaching staff or an academic department of a university, or an inherent mental or physical power.",
+  "explanation_ar": "ليها معنيين: الكلية أو هيئة التدريس في الجامعة، أو قدرة عقلية وبدنية عند الإنسان.",
+  "examples": [
+   "She joined the law faculty.",
+   "The faculty voted unanimously on the new curriculum.",
+   "She showed a remarkable faculty for learning foreign languages."
+  ],
+  "translations": {
+   "arabic_ar": "كلية هيئة التدريس قدرة ملكة"
+  },
+  "synonyms": [
+   "department",
+   "staff",
+   "capability",
+   "ability"
+  ],
+  "antonyms": [
+   "inability"
+  ],
+  "collocations": [
+   "faculty member",
+   "mental faculty",
+   "faculty of medicine"
+  ],
+  "mnemonic_ar": "فاكرتني؟ 'Fact'.. الكلية 'Faculty' مكان بندرس فيه الـ 'Facts' الحقائق."
+ }
+}

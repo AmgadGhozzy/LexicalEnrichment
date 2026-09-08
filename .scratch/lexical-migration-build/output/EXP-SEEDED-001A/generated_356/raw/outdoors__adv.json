@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "outdoors",
+  "pos": "adv",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "outdoors",
+  "pos": "adv",
+  "cefr": "B1",
+  "definition_en": "In or into the open air; outside a building.",
+  "explanation_ar": "بره البيت، في الهواء الطلق أو الشارع.",
+  "senses": [
+   {
+    "sense_id": "outdoors-adv-1",
+    "definition_en": "In or into the open air; outside a building.",
+    "definition_ar": "في الهواء الطلق، بره المبنى.",
+    "pos": "adv",
+    "examples": [
+     "They enjoy eating outdoors in summer.",
+     "You should spend more time outdoors.",
+     "The wedding was held outdoors despite the risk of rain."
+    ]
+   }
+  ],
+  "examples": [
+   "They enjoy eating outdoors in summer.",
+   "You should spend more time outdoors.",
+   "The wedding was held outdoors despite the risk of rain."
+  ],
+  "translations": [
+   "في الهواء الطلق",
+   "في الخلاء",
+   "برّه"
+  ],
+  "relations": {
+   "synonyms": [
+    "outside"
+   ],
+   "antonyms": [
+    "indoors",
+    "inside"
+   ],
+   "collocations": [
+    "play outdoors",
+    "go outdoors",
+    "sleep outdoors"
+   ]
+  },
+  "mnemonic": "'Out' بره.. 'Doors' البيبان.. يعني بره بيبان البيت.",
+  "phonetic_us": "ˌaʊtˈdɔrz",
+  "phonetic_uk": "ˌaʊtˈdɔːz",
+  "syllables": "out•doors",
+  "semantic_tags": [
+   "#Nature",
+   "#Location",
+   "#Outside"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In or into the open air; outside a building.",
+  "explanation_ar": "بره البيت، في الهواء الطلق أو الشارع.",
+  "examples": [
+   "They enjoy eating outdoors in summer.",
+   "You should spend more time outdoors.",
+   "The wedding was held outdoors despite the risk of rain."
+  ],
+  "translations": {
+   "arabic_ar": "في الهواء الطلق في الخلاء برّه"
+  },
+  "synonyms": [
+   "outside"
+  ],
+  "antonyms": [
+   "indoors",
+   "inside"
+  ],
+  "collocations": [
+   "play outdoors",
+   "go outdoors",
+   "sleep outdoors"
+  ],
+  "mnemonic_ar": "'Out' بره.. 'Doors' البيبان.. يعني بره بيبان البيت."
+ }
+}

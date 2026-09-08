@@ -1,0 +1,112 @@
+{
+ "identity": {
+  "lemma": "constituent",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "constituent",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A voting member of a community, or a component part of something.",
+  "explanation_ar": "ليها معنيين: الناخب اللي بيصوت في الدايرة الانتخابية، أو عنصر أساسي مكون لشيء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "One of the parts or substances that combine to form something.",
+    "definition_ar": "عنصر أو مُكوِّن أساسي يدخل في تركيب شيء ما.",
+    "pos": "noun",
+    "cefr": "C1",
+    "examples": [
+     "Oxygen is a major constituent of air.",
+     "The chemist tested each constituent of the mixture to determine its purity."
+    ],
+    "synonyms": [
+     "component",
+     "element",
+     "ingredient"
+    ],
+    "antonyms": [
+     "whole"
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A person who lives and can vote in a particular electoral district.",
+    "definition_ar": "ناخب مقيم في دائرة انتخابية يمثله مسؤول منتخب.",
+    "pos": "noun",
+    "cefr": "C1",
+    "examples": [
+     "As a constituent, she wrote to her representative about the proposed law."
+    ],
+    "synonyms": [
+     "voter",
+     "elector"
+    ],
+    "antonyms": []
+   }
+  ],
+  "examples": [
+   "Oxygen is a major constituent of air.",
+   "As a constituent, she wrote to her representative about the proposed law.",
+   "The chemist tested each constituent of the mixture to determine its purity."
+  ],
+  "translations": [
+   "مُكوِّن",
+   "عنصر",
+   "ناخب"
+  ],
+  "relations": {
+   "synonyms": [
+    "component",
+    "element",
+    "voter"
+   ],
+   "antonyms": [
+    "whole"
+   ],
+   "collocations": [
+    "major constituent",
+    "active constituent",
+    "essential constituent"
+   ]
+  },
+  "mnemonic": "جاية من 'Constitution' 'دستور'.. الـ 'Constituent' هو اللي بيصوت للدستور أو بيمثله.",
+  "phonetic_us": "kənˈstɪtʃuənt",
+  "phonetic_uk": "kənˈstɪtjuənt",
+  "syllables": "con·stit·u·ent",
+  "semantic_tags": [
+   "#Politics",
+   "#Voting",
+   "#Parts",
+   "#Chemistry"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A voting member of a community, or a component part of something.",
+  "explanation_ar": "ليها معنيين: الناخب اللي بيصوت في الدايرة الانتخابية، أو عنصر أساسي مكون لشيء.",
+  "examples": [
+   "Oxygen is a major constituent of air.",
+   "As a constituent, she wrote to her representative about the proposed law.",
+   "The chemist tested each constituent of the mixture to determine its purity."
+  ],
+  "translations": {
+   "arabic_ar": "مُكوِّن عنصر ناخب"
+  },
+  "synonyms": [
+   "component",
+   "element",
+   "voter"
+  ],
+  "antonyms": [
+   "whole"
+  ],
+  "collocations": [
+   "major constituent",
+   "active constituent",
+   "essential constituent"
+  ],
+  "mnemonic_ar": "جاية من 'Constitution' 'دستور'.. الـ 'Constituent' هو اللي بيصوت للدستور أو بيمثله."
+ }
+}

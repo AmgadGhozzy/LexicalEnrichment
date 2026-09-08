@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "illustration",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "illustration",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A picture illustrating a book or newspaper, or an example that clarifies something.",
+  "explanation_ar": "صورة بتترسم عشان توضح فكرة في كتاب أو مجلة، أو مثال بيتشرح عشان يسهل الفهم.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A picture, drawing, or diagram in a book, magazine, or other publication.",
+    "definition_ar": "رسم توضيحي أو صورة في كتاب أو مطبوعة توضح المحتوى.",
+    "examples": [
+     "The illustration shows how the machine works."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An example or clear demonstration that explains or proves something.",
+    "definition_ar": "مثال توضيحي أو دليل يبين حقيقة أمر ما.",
+    "examples": [
+     "Let me give you an illustration of what I mean.",
+     "The incident serves as a graphic illustration of the dangers involved."
+    ]
+   }
+  ],
+  "examples": [
+   "The illustration shows how the machine works.",
+   "Let me give you an illustration of what I mean.",
+   "The incident serves as a graphic illustration of the dangers involved."
+  ],
+  "translations": [
+   "رسم توضيحي",
+   "توضيح",
+   "مثال توضيحي"
+  ],
+  "relations": {
+   "synonyms": [
+    "picture",
+    "drawing",
+    "example",
+    "demonstration",
+    "image"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "graphic illustration",
+    "by way of illustration",
+    "full-page illustration",
+    "medical illustration"
+   ],
+   "word_family": {
+    "verb": "illustrate",
+    "noun": "illustrator",
+    "adj": "illustrative",
+    "adv": "illustratively"
+   }
+  },
+  "mnemonic": "جاية من 'Illustrate' يعني يوضح.. الـ 'Illustration' هي الصورة اللي بتوضح المعنى.",
+  "phonetic_us": "ˌɪləˈstreɪʃən",
+  "phonetic_uk": "ˌɪləˈstreɪʃn",
+  "syllables": "il•lus•tra•tion",
+  "semantic_tags": [
+   "#Art",
+   "#Books",
+   "#Explanation",
+   "#Visual"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A picture illustrating a book or newspaper, or an example that clarifies something.",
+  "explanation_ar": "صورة بتترسم عشان توضح فكرة في كتاب أو مجلة، أو مثال بيتشرح عشان يسهل الفهم.",
+  "examples": [
+   "The illustration shows how the machine works.",
+   "Let me give you an illustration of what I mean.",
+   "The incident serves as a graphic illustration of the dangers involved."
+  ],
+  "translations": {
+   "arabic_ar": "رسم توضيحي توضيح مثال توضيحي"
+  },
+  "synonyms": [
+   "picture",
+   "drawing",
+   "example",
+   "demonstration",
+   "image"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "graphic illustration",
+   "by way of illustration",
+   "full-page illustration",
+   "medical illustration"
+  ],
+  "mnemonic_ar": "جاية من 'Illustrate' يعني يوضح.. الـ 'Illustration' هي الصورة اللي بتوضح المعنى."
+ }
+}

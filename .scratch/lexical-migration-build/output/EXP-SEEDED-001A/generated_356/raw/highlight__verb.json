@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "highlight",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "highlight",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To emphasize something or make people notice it.",
+  "explanation_ar": "يبرز أهمية حاجة أو يعلم عليها بقلم فسفوري عشان تبان.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "verb",
+    "definition_en": "To emphasize something or make people notice it.",
+    "definition_ar": "يسلط الضوء على شيء أو يبرز أهميته للفت الانتباه إليه.",
+    "examples": [
+     "We want to highlight the main benefits of this new program.",
+     "The conference aims to highlight the challenges facing public education."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "pos": "verb",
+    "definition_en": "To mark text with a bright colour to make it stand out.",
+    "definition_ar": "يعلم على نص بلون مميز لتمييزه وتسهيل قراءته.",
+    "examples": [
+     "Please highlight the correct answer on your worksheet."
+    ]
+   }
+  ],
+  "examples": [
+   "Please highlight the correct answer on your worksheet.",
+   "We want to highlight the main benefits of this new program.",
+   "The conference aims to highlight the challenges facing public education."
+  ],
+  "translations": [
+   "يسلط الضوء على",
+   "يبرز",
+   "يعلم بقلم تمييز"
+  ],
+  "relations": {
+   "synonyms": [
+    "emphasize",
+    "underline",
+    "stress"
+   ],
+   "antonyms": [
+    "ignore",
+    "hide"
+   ],
+   "collocations": [
+    "highlight a problem",
+    "highlight text",
+    "highlight importance"
+   ]
+  },
+  "mnemonic": "بتخلي الحاجة 'High' في الأهمية لما تحط عليها 'Light'.",
+  "phonetic_us": "ˈhaɪlaɪt",
+  "phonetic_uk": "ˈhaɪlaɪt",
+  "syllables": "high•light",
+  "semantic_tags": [
+   "#Emphasize",
+   "#Mark",
+   "#Focus"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To emphasize something or make people notice it.",
+  "explanation_ar": "يبرز أهمية حاجة أو يعلم عليها بقلم فسفوري عشان تبان.",
+  "examples": [
+   "Please highlight the correct answer on your worksheet.",
+   "We want to highlight the main benefits of this new program.",
+   "The conference aims to highlight the challenges facing public education."
+  ],
+  "translations": {
+   "arabic_ar": "يسلط الضوء على يبرز يعلم بقلم تمييز"
+  },
+  "synonyms": [
+   "emphasize",
+   "underline",
+   "stress"
+  ],
+  "antonyms": [
+   "ignore",
+   "hide"
+  ],
+  "collocations": [
+   "highlight a problem",
+   "highlight text",
+   "highlight importance"
+  ],
+  "mnemonic_ar": "بتخلي الحاجة 'High' في الأهمية لما تحط عليها 'Light'."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "exact",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "exact",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Not approximated in any way; precise and accurate.",
+  "explanation_ar": "يعني دقيق جداً أو مضبوط بالمللي. حاجة مفيهاش أي غلطة أو تقريب.",
+  "senses": [
+   {
+    "definition_en": "Not approximated in any way; precise and accurate.",
+    "explanation_ar": "دقيق جداً أو مضبوط دون أي خطأ أو تقريب.",
+    "examples": [
+     "What is the exact time?",
+     "We need the exact amount of money.",
+     "I can't remember his exact words."
+    ]
+   }
+  ],
+  "examples": [
+   "What is the exact time?",
+   "We need the exact amount of money.",
+   "I can't remember his exact words."
+  ],
+  "translations": [
+   "دقيق",
+   "مضبوط"
+  ],
+  "relations": {
+   "synonyms": [
+    "precise",
+    "accurate",
+    "correct",
+    "specific"
+   ],
+   "antonyms": [
+    "approximate",
+    "vague",
+    "imprecise"
+   ],
+   "collocations": [
+    "exact time",
+    "exact location",
+    "exact same",
+    "to be exact"
+   ]
+  },
+  "mnemonic": "عشان تنجح في الـ 'Exam' 'الامتحان'، لازم إجابتك تكون 'Exact' 'دقيقة' وصح.",
+  "phonetic_us": "ɪɡˈzækt",
+  "phonetic_uk": "ɪɡˈzækt",
+  "syllables": "ex•act",
+  "semantic_tags": [
+   "#Precision",
+   "#Accuracy",
+   "#Truth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Not approximated in any way; precise and accurate.",
+  "explanation_ar": "يعني دقيق جداً أو مضبوط بالمللي. حاجة مفيهاش أي غلطة أو تقريب.",
+  "examples": [
+   "What is the exact time?",
+   "We need the exact amount of money.",
+   "I can't remember his exact words."
+  ],
+  "translations": {
+   "arabic_ar": "دقيق مضبوط"
+  },
+  "synonyms": [
+   "precise",
+   "accurate",
+   "correct",
+   "specific"
+  ],
+  "antonyms": [
+   "approximate",
+   "vague",
+   "imprecise"
+  ],
+  "collocations": [
+   "exact time",
+   "exact location",
+   "exact same",
+   "to be exact"
+  ],
+  "mnemonic_ar": "عشان تنجح في الـ 'Exam' 'الامتحان'، لازم إجابتك تكون 'Exact' 'دقيقة' وصح."
+ }
+}

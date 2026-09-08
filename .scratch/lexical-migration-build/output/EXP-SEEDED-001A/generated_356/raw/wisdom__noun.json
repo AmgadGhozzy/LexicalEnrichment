@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "wisdom",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "wisdom",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The quality of having experience, knowledge, and good judgment.",
+  "explanation_ar": "الحكمة، يعني لما يكون عندك خبرة ومعرفة تخليك تاخد قرارات صح.",
+  "senses": [
+   {
+    "definition_en": "The quality of having experience, knowledge, and good judgment.",
+    "definition_ar": "الحكمة؛ امتلاك المعرفة والخبرة وحسن التقدير لاتخاذ قرارات صائبة.",
+    "examples": [
+     "Listen to the wisdom of your parents.",
+     "I question the wisdom of that decision.",
+     "The conventional wisdom was challenged by new findings."
+    ]
+   }
+  ],
+  "examples": [
+   "Listen to the wisdom of your parents.",
+   "I question the wisdom of that decision.",
+   "The conventional wisdom was challenged by new findings."
+  ],
+  "translations": [
+   "حكمة"
+  ],
+  "relations": {
+   "synonyms": [
+    "sagacity",
+    "prudence",
+    "insight"
+   ],
+   "antonyms": [
+    "folly",
+    "stupidity",
+    "ignorance"
+   ],
+   "collocations": [
+    "conventional wisdom",
+    "words of wisdom",
+    "infinite wisdom"
+   ]
+  },
+  "mnemonic": "جاية من 'Wise' حكيم.. الـ 'Wisdom' هي الحكمة اللي بتيجي مع السن والخبرة.",
+  "phonetic_us": "ˈwɪzdəm",
+  "phonetic_uk": "ˈwɪzdəm",
+  "syllables": "wis•dom",
+  "semantic_tags": [
+   "Knowledge",
+   "Experience",
+   "Philosophy",
+   "Mind"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The quality of having experience, knowledge, and good judgment.",
+  "explanation_ar": "الحكمة، يعني لما يكون عندك خبرة ومعرفة تخليك تاخد قرارات صح.",
+  "examples": [
+   "Listen to the wisdom of your parents.",
+   "I question the wisdom of that decision.",
+   "The conventional wisdom was challenged by new findings."
+  ],
+  "translations": {
+   "arabic_ar": "حكمة"
+  },
+  "synonyms": [
+   "sagacity",
+   "prudence",
+   "insight"
+  ],
+  "antonyms": [
+   "folly",
+   "stupidity",
+   "ignorance"
+  ],
+  "collocations": [
+   "conventional wisdom",
+   "words of wisdom",
+   "infinite wisdom"
+  ],
+  "mnemonic_ar": "جاية من 'Wise' حكيم.. الـ 'Wisdom' هي الحكمة اللي بتيجي مع السن والخبرة."
+ }
+}

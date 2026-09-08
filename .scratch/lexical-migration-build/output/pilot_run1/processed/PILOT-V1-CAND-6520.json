@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6520",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6520",
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6520,
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈflɜːrɪʃ",
+  "phonetic_uk": "ˈflʌrɪʃ",
+  "phonetic_ar": "فْلَارِش",
+  "definition_en": "To grow, develop, or be successful in a healthy and vigorous way.",
+  "explanation_ar": "ينمو أو يزدهر ويتطور بنجاح وقوة في بيئة مناسبة، سواء كان ذلك لنبات أو شخص أو عمل تجاري.",
+  "examples": [
+   {
+    "example_text": "Few plants can flourish in such dry and rocky soil.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Local businesses continue to flourish despite the difficult economic climate.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Creative arts flourish when freedom of expression is protected.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة flower اي زهرة فكلمة \"flourish\" تعني ان تزهر وتتفتح وتزدهر بنجاح",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To grow, develop, or be successful in a healthy and vigorous way.",
+    "short_def_en": "thrive or prosper",
+    "definition_ar": "يزدهر او ينمو بنجاح وقوة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "growth",
+     "success",
+     "development",
+     "nature"
+    ],
+    "usage_note": "Often used interchangeably with thrive, applying to organisms, economies, and ideas.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To wave something around in a bold or dramatic way to attract attention.",
+    "short_def_en": "wave dramatically",
+    "definition_ar": "يلوح بشيء بحركة استعراضية",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "movement",
+     "gesture",
+     "dramatic"
+    ],
+    "usage_note": "Usually followed by an object such as a sword, pen, or document.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "flourish under",
+   "flourish in",
+   "continue to flourish",
+   "arts flourish"
+  ],
+  "synonyms": [
+   "thrive",
+   "prosper",
+   "bloom",
+   "blossom"
+  ],
+  "antonyms": [
+   "wither",
+   "languish",
+   "deteriorate"
+  ],
+  "related_words": {
+   "en": [
+    "prosperity",
+    "growth",
+    "bloom",
+    "success"
+   ],
+   "ar": [
+    "ازدهار",
+    "نمو",
+    "تفتح",
+    "نجاح"
+   ]
+  },
+  "word_family": {
+   "noun": "flourish",
+   "verb": "flourish",
+   "adj": "flourishing",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يزدهر / ينمو بنشاط",
+   "french_fr": "prospérer",
+   "german_de": "gedeihen",
+   "spanish_es": "prosperar",
+   "chinese_zh": "繁荣 (Fánróng)",
+   "russian_ru": "процветать",
+   "portuguese_pt": "prosperar",
+   "japanese_ja": "繁栄する (Han'ei suru)",
+   "italian_it": "prosperare",
+   "turkish_tr": "gelişmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "bce4ae40a02ca8556fa9d933ccd0ba847250bec18788ac266b382d53378cabca",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

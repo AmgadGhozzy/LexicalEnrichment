@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "stream",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "stream",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A continuous flow of liquid, air, or people; or a small, narrow river.",
+  "explanation_ar": "تيار متدفق (سواء ماء، هواء، أو حركة مستمرة)، أو جدول ماء ونهر صغير.",
+  "senses": [
+   {
+    "definition_en": "A continuous flow of liquid, air, gas, or people moving in one direction.",
+    "definition_ar": "تيار أو تدفق مستمر لشيء ما في اتجاه معين",
+    "examples": [
+     "A stream of cold air came into the room.",
+     "The company has a steady stream of income."
+    ]
+   },
+   {
+    "definition_en": "A small, narrow river.",
+    "definition_ar": "جدول ماء أو نهر صغير",
+    "examples": [
+     "There is a small stream near my house."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a small stream near my house.",
+   "A stream of cold air came into the room.",
+   "The company has a steady stream of income."
+  ],
+  "translations": [
+   "جدول ماء",
+   "مجرى مائي",
+   "تيار",
+   "تدفق"
+  ],
+  "relations": {
+   "synonyms": [
+    "current",
+    "flow",
+    "brook",
+    "creek"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "steady stream",
+    "mountain stream",
+    "live stream",
+    "stream of consciousness"
+   ]
+  },
+  "mnemonic": "قريبة من 'Street' (شارع).. الـ 'Stream' هو شارع المية الجاري.. أو تذكر 'Live Stream' (بث مباشر يتدفق باستمرار).",
+  "phonetic_us": "striːm",
+  "phonetic_uk": "striːm",
+  "syllables": [
+   "stream"
+  ],
+  "semantic_tags": [
+   "water",
+   "nature",
+   "flow",
+   "movement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A continuous flow of liquid, air, or people; or a small, narrow river.",
+  "explanation_ar": "تيار متدفق (سواء ماء، هواء، أو حركة مستمرة)، أو جدول ماء ونهر صغير.",
+  "examples": [
+   "There is a small stream near my house.",
+   "A stream of cold air came into the room.",
+   "The company has a steady stream of income."
+  ],
+  "translations": {
+   "arabic_ar": "جدول ماء مجرى مائي تيار تدفق"
+  },
+  "synonyms": [
+   "current",
+   "flow",
+   "brook",
+   "creek"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "steady stream",
+   "mountain stream",
+   "live stream",
+   "stream of consciousness"
+  ],
+  "mnemonic_ar": "قريبة من 'Street' (شارع).. الـ 'Stream' هو شارع المية الجاري.. أو تذكر 'Live Stream' (بث مباشر يتدفق باستمرار)."
+ }
+}

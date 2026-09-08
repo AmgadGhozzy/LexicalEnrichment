@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "frustrate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "frustrate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To prevent someone from achieving something, causing them to feel annoyed.",
+  "explanation_ar": "إنك تحسس حد بالعجز أو الضيق عشان مش عارف يحقق اللي هو عايزه، أو إنك تبوظ خطة حد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "verb",
+    "definition_en": "To make someone feel annoyed and impatient by preventing them from achieving what they want.",
+    "definition_ar": "يُحبط شخصًا أو يثير ضيقه وعجزه لعدم قدرته على تحقيق ما يريد."
+   },
+   {
+    "sense_id": 2,
+    "pos": "verb",
+    "definition_en": "To prevent a plan, attempt, or effort from succeeding.",
+    "definition_ar": "يُحبط أو يُعيق خطة أو مسعى ويمنع نجاحه."
+   }
+  ],
+  "examples": [
+   "His constant interruptions were designed to frustrate the speaker.",
+   "Such unexpected delays will only frustrate the passengers waiting at the gate.",
+   "Bureaucratic regulations can frustrate attempts to reform the current system."
+  ],
+  "translations": [
+   "يُحْبِط",
+   "يُعِيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "thwart",
+    "foil",
+    "discourage",
+    "annoy"
+   ],
+   "antonyms": [
+    "encourage",
+    "facilitate",
+    "assist"
+   ],
+   "collocations": [
+    "frustrate efforts",
+    "frustrate plans",
+    "frustrate attempts"
+   ]
+  },
+  "mnemonic": "لما تكون 'Frustrated' 'محبط'، بتبقى عايز تخرج الـ 'Rust' 'الصدأ' والضيق اللي جواك.",
+  "phonetic_us": "ˈfrʌstreɪt",
+  "phonetic_uk": "frʌˈstreɪt",
+  "syllables": "frus•trate",
+  "semantic_tags": [
+   "Emotion",
+   "Block",
+   "Annoy",
+   "Fail"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To prevent someone from achieving something, causing them to feel annoyed.",
+  "explanation_ar": "إنك تحسس حد بالعجز أو الضيق عشان مش عارف يحقق اللي هو عايزه، أو إنك تبوظ خطة حد.",
+  "examples": [
+   "His constant interruptions were designed to frustrate the speaker.",
+   "Such unexpected delays will only frustrate the passengers waiting at the gate.",
+   "Bureaucratic regulations can frustrate attempts to reform the current system."
+  ],
+  "translations": {
+   "arabic_ar": "يُحْبِط يُعِيق"
+  },
+  "synonyms": [
+   "thwart",
+   "foil",
+   "discourage",
+   "annoy"
+  ],
+  "antonyms": [
+   "encourage",
+   "facilitate",
+   "assist"
+  ],
+  "collocations": [
+   "frustrate efforts",
+   "frustrate plans",
+   "frustrate attempts"
+  ],
+  "mnemonic_ar": "لما تكون 'Frustrated' 'محبط'، بتبقى عايز تخرج الـ 'Rust' 'الصدأ' والضيق اللي جواك."
+ }
+}

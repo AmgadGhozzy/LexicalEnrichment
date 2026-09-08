@@ -1,0 +1,129 @@
+{
+ "candidate_id": "PILOT-V1-CAND-884",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-884",
+  "lemma": "cannot",
+  "pos": "modal",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 884,
+  "lemma": "cannot",
+  "pos": "modal",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "General / Common",
+  "ai_confidence": 0.99,
+  "phonetic_us": "ˈkænɑːt",
+  "phonetic_uk": "ˈkænɒt",
+  "phonetic_ar": "كَانَات",
+  "definition_en": "To not be able to do something or to not have the ability or permission.",
+  "explanation_ar": "فعل ناقص يعبر عن عدم القدرة أو الاستطاعة على فعل شيء ما، أو عدم السماح به.",
+  "examples": [
+   {
+    "example_text": "I cannot swim in deep water.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "We cannot open the door without a key.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "You cannot park your car here.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر انها دمج لكلمة \"can\" التي تعني يستطيع مع كلمة النفي \"not\" ككلمة واحدة تعني لا يستطيع",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To lack the ability, power, or possibility to perform an action.",
+    "short_def_en": "be unable to",
+    "definition_ar": "لا يستطيع أو يعجز عن القيام بعمل معين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "ability",
+     "possibility",
+     "negation"
+    ],
+    "usage_note": "Spelled as a single word in standard English, unlike most modal negatives.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To not be permitted or allowed to do something.",
+    "short_def_en": "not be allowed to",
+    "definition_ar": "لا يجوز له أو غير مسموح له بفعل شيء",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "rules",
+     "permission",
+     "prohibition"
+    ],
+    "usage_note": "Commonly used in rules, regulations, and instructions.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "cannot afford",
+   "cannot wait",
+   "cannot believe",
+   "cannot help"
+  ],
+  "synonyms": [
+   "can't"
+  ],
+  "antonyms": [
+   "can"
+  ],
+  "related_words": {
+   "en": [
+    "unable",
+    "impossible",
+    "prohibited",
+    "forbidden"
+   ],
+   "ar": [
+    "غير قادر",
+    "مستحيل",
+    "محظور",
+    "ممنوع"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "لا يستطيع / لا يمكنه",
+   "french_fr": "ne pouvoir pas",
+   "german_de": "nicht können",
+   "spanish_es": "no poder",
+   "chinese_zh": "不能 (bù néng)",
+   "russian_ru": "не мочь",
+   "portuguese_pt": "não poder",
+   "japanese_ja": "できない (Dekinai)",
+   "italian_it": "non potere",
+   "turkish_tr": "yapamamak"
+  }
+ },
+ "provenance": {
+  "output_hash": "8e92bad99fda137180ec007569945afd30d41d55eb1dbdd8f4892449570f5218",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

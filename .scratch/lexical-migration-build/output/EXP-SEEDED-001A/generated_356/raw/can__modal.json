@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "can",
+  "pos": "modal",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "can",
+  "pos": "modal",
+  "cefr": "A1",
+  "definition_en": "To be able to or permitted to do something.",
+  "explanation_ar": "فعل ناقص يُستخدم للتعبير عن القدرة والاستطاعة أو الإذن، بمعنى يقدر أو يستطيع.",
+  "senses": [
+   {
+    "sense_id": "ability",
+    "definition_en": "To have the ability, skill, or opportunity to do something.",
+    "definition_ar": "القدرة أو الاستطاعة على فعل شيء ما."
+   },
+   {
+    "sense_id": "permission",
+    "definition_en": "To be allowed or permitted to do something.",
+    "definition_ar": "إعطاء الإذن أو السماح بفعل شيء ما."
+   }
+  ],
+  "examples": [
+   "I can swim.",
+   "You can park here.",
+   "She can speak two languages."
+  ],
+  "translations": [
+   "يستطيع",
+   "يقدر",
+   "يمكنه"
+  ],
+  "relations": {
+   "synonyms": [
+    "be able to"
+   ],
+   "antonyms": [
+    "cannot"
+   ],
+   "collocations": [
+    "can do",
+    "can see",
+    "can help"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/kæn/",
+  "phonetic_uk": "/kæn/",
+  "syllables": "can",
+  "semantic_tags": [
+   "ability",
+   "permission",
+   "modal verb"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be able to or permitted to do something.",
+  "explanation_ar": "فعل ناقص يُستخدم للتعبير عن القدرة والاستطاعة أو الإذن، بمعنى يقدر أو يستطيع.",
+  "examples": [
+   "I can swim.",
+   "You can park here.",
+   "She can speak two languages."
+  ],
+  "translations": {
+   "arabic_ar": "يستطيع يقدر يمكنه"
+  },
+  "synonyms": [
+   "be able to"
+  ],
+  "antonyms": [
+   "cannot"
+  ],
+  "collocations": [
+   "can do",
+   "can see",
+   "can help"
+  ],
+  "mnemonic_ar": null
+ }
+}

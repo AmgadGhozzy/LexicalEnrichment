@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "activist",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "activist",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who campaigns to bring about political or social change.",
+  "explanation_ar": "شخص ناشط بيتحرك وبيطالب بحقوق أو تغيير في المجتمع، مش بيسكت على الغلط.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "noun",
+    "definition_en": "A person who campaigns to bring about political or social change.",
+    "explanation_ar": "شخص ناشط يعمل على إحداث تغيير سياسي أو اجتماعي.",
+    "examples": [
+     "He is a well-known human rights activist.",
+     "As an environmental activist, she spoke out against the construction of the new chemical plant.",
+     "The local community rallied behind the activist during the public hearing."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a well-known human rights activist.",
+   "As an environmental activist, she spoke out against the construction of the new chemical plant.",
+   "The local community rallied behind the activist during the public hearing."
+  ],
+  "translations": [
+   "ناشط"
+  ],
+  "relations": {
+   "synonyms": [
+    "campaigner",
+    "advocate",
+    "reformer",
+    "protester"
+   ],
+   "antonyms": [
+    "bystander",
+    "observer"
+   ],
+   "collocations": [
+    "human rights activist",
+    "political activist",
+    "environmental activist",
+    "social activist"
+   ]
+  },
+  "mnemonic": "جاية من 'Active' 'نشيط'.. هو شخص 'Active' في السياسة والمجتمع.",
+  "phonetic_us": "ˈæk.tə.vɪst",
+  "phonetic_uk": "ˈæk.tɪ.vɪst",
+  "syllables": "ac-tiv-ist",
+  "semantic_tags": [
+   "#Politics",
+   "#Change",
+   "#Society",
+   "#Campaign"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who campaigns to bring about political or social change.",
+  "explanation_ar": "شخص ناشط بيتحرك وبيطالب بحقوق أو تغيير في المجتمع، مش بيسكت على الغلط.",
+  "examples": [
+   "He is a well-known human rights activist.",
+   "As an environmental activist, she spoke out against the construction of the new chemical plant.",
+   "The local community rallied behind the activist during the public hearing."
+  ],
+  "translations": {
+   "arabic_ar": "ناشط"
+  },
+  "synonyms": [
+   "campaigner",
+   "advocate",
+   "reformer",
+   "protester"
+  ],
+  "antonyms": [
+   "bystander",
+   "observer"
+  ],
+  "collocations": [
+   "human rights activist",
+   "political activist",
+   "environmental activist",
+   "social activist"
+  ],
+  "mnemonic_ar": "جاية من 'Active' 'نشيط'.. هو شخص 'Active' في السياسة والمجتمع."
+ }
+}

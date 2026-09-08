@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "chef",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "chef",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A professional cook who leads a kitchen.",
+  "explanation_ar": "الطباخ المحترف اللي بيكون مسؤول عن المطبخ في المطاعم الكبيرة.",
+  "senses": [
+   {
+    "definition_en": "A professional cook who leads a kitchen.",
+    "explanation_ar": "طاهٍ محترف يكون مسؤولاً عن المطبخ وإعداد الطعام.",
+    "examples": [
+     "He wants to be a chef in a hotel.",
+     "The head chef manages the kitchen staff.",
+     "She trained as a pastry chef in Paris."
+    ]
+   }
+  ],
+  "examples": [
+   "He wants to be a chef in a hotel.",
+   "The head chef manages the kitchen staff.",
+   "She trained as a pastry chef in Paris."
+  ],
+  "translations": [
+   "شيف",
+   "طاهٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "cook"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "head chef",
+    "executive chef",
+    "pastry chef"
+   ]
+  },
+  "mnemonic": "هي كلمة 'Chief' يعني رئيس، بس شيلنا الـ i وبقت 'Chef' رئيس المطبخ",
+  "phonetic_us": "ʃef",
+  "phonetic_uk": "ʃef",
+  "syllables": [
+   "chef"
+  ],
+  "semantic_tags": [
+   "#Food",
+   "#Cooking",
+   "#Jobs",
+   "#Restaurant"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A professional cook who leads a kitchen.",
+  "explanation_ar": "الطباخ المحترف اللي بيكون مسؤول عن المطبخ في المطاعم الكبيرة.",
+  "examples": [
+   "He wants to be a chef in a hotel.",
+   "The head chef manages the kitchen staff.",
+   "She trained as a pastry chef in Paris."
+  ],
+  "translations": {
+   "arabic_ar": "شيف طاهٍ"
+  },
+  "synonyms": [
+   "cook"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "head chef",
+   "executive chef",
+   "pastry chef"
+  ],
+  "mnemonic_ar": "هي كلمة 'Chief' يعني رئيس، بس شيلنا الـ i وبقت 'Chef' رئيس المطبخ"
+ }
+}

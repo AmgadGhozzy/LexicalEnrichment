@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-130",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-130",
+  "lemma": "being",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 130,
+  "lemma": "being",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈbiːɪŋ",
+  "phonetic_uk": null,
+  "phonetic_ar": "بِينْغ",
+  "definition_en": "The state of existing, or any living creature such as a person or animal.",
+  "explanation_ar": "الوجود كحالة عامة للحياة والتحقق، أو الكائن الحي في حد ذاته سواء كان إنسانا أو مخلوقا آخر.",
+  "examples": [
+   {
+    "example_text": "Every living being deserves respect and care.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Scientists wonder if any alien being could survive in such harsh conditions.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The poem explores the mystery of human being and consciousness.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الفعل be يعني يكون، وبإضافة ing يتحول الى اسم ليعبر عن الكائن او الوجود نفسه.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A real or imaginary living creature, especially a person.",
+    "short_def_en": "living creature or person",
+    "definition_ar": "مخلوق حي أو إنسان، حقيقي أو خيالي.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "creature",
+     "life",
+     "organism",
+     "human"
+    ],
+    "usage_note": "Often combined in fixed phrases like 'human being' or 'living being'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The state or fact of existing.",
+    "short_def_en": "state of existing",
+    "definition_ar": "حالة الوجود أو البقاء على قيد الحياة.",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "existence",
+     "reality",
+     "philosophy"
+    ],
+    "usage_note": "Common in philosophical contexts and idioms like 'come into being'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "human being",
+   "living being",
+   "come into being",
+   "bring into being"
+  ],
+  "synonyms": [
+   "creature",
+   "entity",
+   "organism",
+   "existence",
+   "individual"
+  ],
+  "antonyms": [
+   "nonexistence",
+   "nothingness"
+  ],
+  "related_words": {
+   "en": [
+    "exist",
+    "life",
+    "creature",
+    "presence",
+    "soul"
+   ],
+   "ar": [
+    "يوجد",
+    "حياة",
+    "مخلوق",
+    "حضور",
+    "روح"
+   ]
+  },
+  "word_family": {
+   "noun": "being",
+   "verb": "be",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "كائن / وجود",
+   "french_fr": "être",
+   "german_de": "Wesen / Dasein",
+   "spanish_es": "ser",
+   "chinese_zh": "生物 (Shēngwù) / 存在 (Cúnzài)",
+   "russian_ru": "существо / бытие",
+   "portuguese_pt": "ser",
+   "japanese_ja": "存在 (Sonzai) / 生き物 (Ikimono)",
+   "italian_it": "essere",
+   "turkish_tr": "varlık"
+  }
+ },
+ "provenance": {
+  "output_hash": "27866ac8193528007c56e22161c3aeda5c8931d6586065396b3c8d0268d54501",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2001",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2001",
+  "lemma": "ancient",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2001,
+  "lemma": "ancient",
+  "pos": "adj",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈeɪnʃənt",
+  "phonetic_uk": null,
+  "phonetic_ar": "إينشَنت",
+  "definition_en": "Belonging to a period of history thousands of years in the past, or very old.",
+  "explanation_ar": "يصف شيئا موغلا في القدم يعود لآلاف السنين وتاريخ الحضارات القديمة، أو شيئا قديما جدا.",
+  "examples": [
+   {
+    "example_text": "They studied the ruins of an ancient city in Greece.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The museum has a large collection of ancient coins.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "In ancient times, people traveled across the desert by camel.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر نطق كلمة \"ancient\" القريب من بداية جملة \"عنده شأن\" تاريخي عظيم؛ شيء قديم جدا وله تاريخ يمتد لآلاف السنين.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Belonging to the distant past, especially the time before the end of the Roman Empire.",
+    "short_def_en": "belonging to the distant past",
+    "definition_ar": "قديم جدا ويعود إلى تاريخ العصور والحضارات الغابرة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "history",
+     "civilization",
+     "archaeology",
+     "time"
+    ],
+    "usage_note": "Often contrasted with modern.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Having existed for a very long time; extremely old.",
+    "short_def_en": "extremely old",
+    "definition_ar": "معمر للغاية أو موجود منذ أمد بعيد جدا.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "age",
+     "nature",
+     "objects"
+    ],
+    "usage_note": "Commonly used for natural features like ancient trees or ancient forests.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "ancient history",
+   "ancient civilization",
+   "ancient times",
+   "ancient city",
+   "ancient ruins"
+  ],
+  "synonyms": [
+   "prehistoric",
+   "antique",
+   "age-old",
+   "archaic",
+   "earliest"
+  ],
+  "antonyms": [
+   "modern",
+   "contemporary",
+   "recent"
+  ],
+  "related_words": {
+   "en": [
+    "archaeology",
+    "civilization",
+    "history",
+    "monument",
+    "pyramid",
+    "ruins"
+   ],
+   "ar": [
+    "علم الآثار",
+    "حضارة",
+    "تاريخ",
+    "نصب تذكاري",
+    "هرم",
+    "أطلال"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "ancient",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "قديم / عتيق",
+   "french_fr": "ancien",
+   "german_de": "antiken",
+   "spanish_es": "antiguo",
+   "chinese_zh": "古代的 (Gǔdài de)",
+   "russian_ru": "древний",
+   "portuguese_pt": "antigo",
+   "japanese_ja": "古代の (Kodai no)",
+   "italian_it": "antico",
+   "turkish_tr": "antik"
+  }
+ },
+ "provenance": {
+  "output_hash": "3ec536996626cae5fc08fb80122cd117f51c95abdf06310e4141d84ee4ce0e87",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

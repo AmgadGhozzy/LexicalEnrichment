@@ -1,0 +1,153 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5250",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5250",
+  "lemma": "pledge",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5250,
+  "lemma": "pledge",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "pledʒ",
+  "phonetic_uk": null,
+  "phonetic_ar": "بليدج",
+  "definition_en": "A formal, serious promise or agreement to do something, especially publicly or officially.",
+  "explanation_ar": "تعهد او وعد رسمي قاطع يلتزم به شخص او جهة للقيام بعمل ما او تقديم دعم معين.",
+  "examples": [
+   {
+    "example_text": "The government honored its pledge to invest heavily in public healthcare.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She made a substantial financial pledge to help rebuild the historic library.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The candidate signed a formal pledge promising not to raise taxes.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل شخصا يضع يده على قلبه ليقدم تعهدا جادا بالالتزام؛ كلمة \"pledge\" تشبه نطق كلمة تدل على حافة الالتزام والجدية.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A serious or formal promise, especially one made publicly or officially.",
+    "short_def_en": "solemn formal promise",
+    "definition_ar": "وعد او تعهد رسمي وجاد بالقيام بامر معين",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "promises",
+     "agreements",
+     "commitments",
+     "politics"
+    ],
+    "usage_note": "Often used in politics, charity, and formal agreements rather than casual everyday promises.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "An amount of money promised to be given to an organization or charity.",
+    "short_def_en": "financial commitment to charity",
+    "definition_ar": "مبلغ مالي يتم التعهد بالتبرع به لجمعية او قضية",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "charity",
+     "fundraising",
+     "finance"
+    ],
+    "usage_note": "Common in fundraising campaigns where donors promise future payments.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "Something valuable given to a lender as security until a debt is repaid.",
+    "short_def_en": "security deposit or collateral",
+    "definition_ar": "رهن او ضمان مادي يقدم للدائن حتى سداد الدين",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "law",
+     "finance",
+     "debt"
+    ],
+    "usage_note": "A traditional legal and commercial term closely related to pawning or collateral.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "make a pledge",
+   "honor a pledge",
+   "fulfill a pledge",
+   "campaign pledge",
+   "solemn pledge"
+  ],
+  "synonyms": [
+   "promise",
+   "vow",
+   "commitment",
+   "oath",
+   "undertaking"
+  ],
+  "antonyms": [
+   "breach"
+  ],
+  "related_words": {
+   "en": [
+    "promise",
+    "guarantee",
+    "donation",
+    "collateral",
+    "obligation"
+   ],
+   "ar": [
+    "وعد",
+    "ضمان",
+    "تبرع",
+    "رهن",
+    "التزام"
+   ]
+  },
+  "word_family": {
+   "noun": "pledge",
+   "verb": "pledge",
+   "adj": "pledged",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "تعهد / وعد رسمي / رهن",
+   "french_fr": "engagement",
+   "german_de": "Gelöbnis",
+   "spanish_es": "promesa",
+   "chinese_zh": "誓约 (shìyuē)",
+   "russian_ru": "обязательство",
+   "portuguese_pt": "compromisso",
+   "japanese_ja": "誓約 (Seiyaku)",
+   "italian_it": "impegno",
+   "turkish_tr": "taahhüt"
+  }
+ },
+ "provenance": {
+  "output_hash": "416fe047a76ade7f72dacca6d3cc4c5a86a5360a319d16e0a941723f0582822d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

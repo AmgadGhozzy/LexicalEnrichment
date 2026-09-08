@@ -1,0 +1,111 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6156",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6156",
+  "lemma": "dolphin",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6156,
+  "lemma": "dolphin",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈdɑːlfɪn",
+  "phonetic_uk": "ˈdɒlfɪn",
+  "phonetic_ar": "دُولْفِن",
+  "definition_en": "An intelligent sea animal with a smooth grey body and a curved snout that breathes air.",
+  "explanation_ar": "حيوان بحري ذكي وودود من الثدييات، رمادي اللون وله خطم مميز، يعيش في مجموعات ويقفز فوق الماء.",
+  "examples": [
+   {
+    "example_text": "We were lucky to see a friendly dolphin swimming near our boat.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The trainer tossed a small fish to the dolphin after the jump.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Marine biologists rescued an injured dolphin stranded along the shallow shore.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "الكلمة قريبة جدا من اللفظ العربي المتداول دلفين، فقط تذكر ان ph تلفظ مثل حرف الفاء في كلمة \"dolphin\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An intelligent aquatic mammal with a smooth body and a beak-like snout.",
+    "short_def_en": "intelligent marine mammal",
+    "definition_ar": "حيوان ثديي بحري ذكي يتميز بجسم رشيق وانف مدبب.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "animals",
+     "marine life",
+     "biology"
+    ],
+    "usage_note": "Biologically a mammal, not a fish, because it breathes air and nurses its young.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bottlenose dolphin",
+   "dolphin pod",
+   "swim with a dolphin",
+   "wild dolphin"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "whale",
+    "porpoise",
+    "mammal",
+    "ocean",
+    "pod"
+   ],
+   "ar": [
+    "حوت",
+    "خنزير البحر",
+    "ثديي",
+    "محيط",
+    "سرب"
+   ]
+  },
+  "word_family": {
+   "noun": "dolphin",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "دلفين",
+   "french_fr": "dauphin",
+   "german_de": "Delfin",
+   "spanish_es": "delfín",
+   "chinese_zh": "海豚 (Hǎitún)",
+   "russian_ru": "дельфин",
+   "portuguese_pt": "golfinho",
+   "japanese_ja": "イルカ (Iruka)",
+   "italian_it": "delfino",
+   "turkish_tr": "yunus"
+  }
+ },
+ "provenance": {
+  "output_hash": "dd17e2bcf3fc0164f8d14057d66e7c627e6c682aec6ac3dc77859ae1fa19bde8",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1803",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1803",
+  "lemma": "web",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1803,
+  "lemma": "web",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "wɛb",
+  "phonetic_uk": null,
+  "phonetic_ar": "وِب",
+  "definition_en": "A net of thin threads made by a spider to catch insects.",
+  "explanation_ar": "شبكة خيوط دقيقة ورفيعة ينسجها العنكبوت لاصطياد الحشرات، وتستخدم المجازات المشتقة منها للإشارة إلى شبكة الإنترنت أو الشبكات المعقدة.",
+  "examples": [
+   {
+    "example_text": "A tiny spider made a web in the corner of the room.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Morning dew covered the silk web outside our window.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "You can find extensive information across the global web.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"web\" تشبه صوت بداية \"website\"، لان شبكة الانترنت مستوحاة اساسا من خيوط العنكبوت المتشابكة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A structure of fine threads made by a spider to catch insects.",
+    "short_def_en": "spider net structure",
+    "definition_ar": "شبكة خيوط رفيعة ينسجها العنكبوت لصيد الحشرات.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "animals",
+     "nature",
+     "insects"
+    ],
+    "usage_note": "Often called a spiderweb or cobweb when found in buildings.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The World Wide Web or the global system of connected computer documents.",
+    "short_def_en": "the internet network",
+    "definition_ar": "شبكة الانترنت العالمية وما تحتويه من مواقع وصفحات متصلة.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "technology",
+     "internet",
+     "computers"
+    ],
+    "usage_note": "Usually written with a capital W or preceded by 'the'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "A complex system of interconnected things, ideas, or relationships.",
+    "short_def_en": "interconnected network",
+    "definition_ar": "شبكة معقدة ومتشابكة من العلاقات او الاحداث او الاكاذيب.",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "relationships",
+     "abstract",
+     "patterns"
+    ],
+    "usage_note": "Commonly used in metaphorical expressions like 'a web of lies'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "spider web",
+   "spin a web",
+   "the World Wide Web",
+   "web of lies",
+   "browse the web"
+  ],
+  "synonyms": [
+   "cobweb",
+   "network",
+   "mesh",
+   "net"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "spider",
+    "internet",
+    "online",
+    "network",
+    "silk",
+    "site"
+   ],
+   "ar": [
+    "عنكبوت",
+    "إنترنت",
+    "متصل بالإنترنت",
+    "شبكة",
+    "حرير",
+    "موقع"
+   ]
+  },
+  "word_family": {
+   "noun": "web",
+   "verb": "web",
+   "adj": "webbed",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "شبكة العنكبوت / شبكة الإنترنت",
+   "french_fr": "toile",
+   "german_de": "Netz",
+   "spanish_es": "telaraña",
+   "chinese_zh": "网 (Wǎng)",
+   "russian_ru": "паутина",
+   "portuguese_pt": "teia",
+   "japanese_ja": "蜘蛛の巣 (Kumo no su)",
+   "italian_it": "ragnatela",
+   "turkish_tr": "örümcek ağı"
+  }
+ },
+ "provenance": {
+  "output_hash": "83569a52a875eae8b5db300643b3fd820ae3d894f888ad2a663b9829aab75b8e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

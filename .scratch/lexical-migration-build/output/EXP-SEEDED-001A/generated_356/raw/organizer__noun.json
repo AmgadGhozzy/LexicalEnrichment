@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "organizer",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "organizer",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who plans and arranges an event or activity, or a device, book, or software used to organize personal schedules and tasks.",
+  "explanation_ar": "الشخص الذي يتولى تنظيم فعالية أو حدث، أو الأداة (كالمفكرة أو التطبيق) التي تُستخدم لتنظيم المواعيد والمهام.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who plans or coordinates an event, activity, or group.",
+    "explanation_ar": "شخص يخطط لحدث أو نشاط أو ينسقه.",
+    "examples": [
+     "The event organizer made sure everything ran smoothly.",
+     "He worked as a community organizer to support local families."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A book, software application, or container designed to keep appointments or items in order.",
+    "explanation_ar": "مفكرة أو تطبيق أو أداة تُستخدم لتنظيم المواعيد أو ترتيب الأغراض.",
+    "examples": [
+     "She bought a neat desk organizer to store her pens and paperclips."
+    ]
+   }
+  ],
+  "examples": [
+   "The event organizer made sure everything ran smoothly.",
+   "She bought a neat desk organizer to store her pens and paperclips.",
+   "He worked as a community organizer to support local families."
+  ],
+  "translations": [
+   "مُنَظِّم",
+   "مُفَكِّرَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "planner",
+    "coordinator"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "event organizer",
+    "union organizer",
+    "community organizer",
+    "desk organizer"
+   ]
+  },
+  "mnemonic": "مشتقة من الفعل 'organize' (يُنظم) مع اللاحقة '-er' لتدل على الفاعل؛ فهو إما الشخص أو الشيء الذي يقوم بعملية التنظيم.",
+  "phonetic_us": "ˈɔːrɡənaɪzər",
+  "phonetic_uk": "ˈɔːɡənaɪzə",
+  "syllables": "or•ga•niz•er",
+  "semantic_tags": [
+   "jobs",
+   "events",
+   "tools"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who plans and arranges an event or activity, or a device, book, or software used to organize personal schedules and tasks.",
+  "explanation_ar": "الشخص الذي يتولى تنظيم فعالية أو حدث، أو الأداة (كالمفكرة أو التطبيق) التي تُستخدم لتنظيم المواعيد والمهام.",
+  "examples": [
+   "The event organizer made sure everything ran smoothly.",
+   "She bought a neat desk organizer to store her pens and paperclips.",
+   "He worked as a community organizer to support local families."
+  ],
+  "translations": {
+   "arabic_ar": "مُنَظِّم مُفَكِّرَة"
+  },
+  "synonyms": [
+   "planner",
+   "coordinator"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "event organizer",
+   "union organizer",
+   "community organizer",
+   "desk organizer"
+  ],
+  "mnemonic_ar": "مشتقة من الفعل 'organize' (يُنظم) مع اللاحقة '-er' لتدل على الفاعل؛ فهو إما الشخص أو الشيء الذي يقوم بعملية التنظيم."
+ }
+}

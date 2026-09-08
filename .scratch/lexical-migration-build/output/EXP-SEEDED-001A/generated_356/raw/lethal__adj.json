@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "lethal",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "lethal",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Sufficient to cause death; very harmful or destructive.",
+  "explanation_ar": "قاتل أو مميت. حاجة خطيرة جداً لدرجة إنها ممكن تسبب الوفاة.",
+  "senses": [
+   {
+    "definition_en": "Sufficient to cause death; capable of causing fatal harm.",
+    "definition_ar": "مُهْلِك أو مُمِيت، قادر على التسبب في الموت.",
+    "examples": [
+     "The chemical is lethal in small doses.",
+     "The government approved the use of lethal force.",
+     "A lethal combination of drugs was found in his system."
+    ]
+   }
+  ],
+  "examples": [
+   "The chemical is lethal in small doses.",
+   "The government approved the use of lethal force.",
+   "A lethal combination of drugs was found in his system."
+  ],
+  "translations": [
+   "مميت",
+   "قاتل"
+  ],
+  "relations": {
+   "synonyms": [
+    "deadly",
+    "fatal",
+    "mortal"
+   ],
+   "antonyms": [
+    "harmless",
+    "safe",
+    "non-lethal"
+   ],
+   "collocations": [
+    "lethal injection",
+    "lethal weapon",
+    "lethal dose",
+    "lethal force"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Last' 'أخير'.. الجرعة الـ 'Lethal' هي الـ 'Last' 'آخر' حاجة هتاخدها في حياتك.",
+  "phonetic_us": "ˈliː.θəl",
+  "phonetic_uk": "ˈliː.θəl",
+  "syllables": "le-thal",
+  "semantic_tags": [
+   "#Danger",
+   "#Death",
+   "#Weapon",
+   "#Poison"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Sufficient to cause death; very harmful or destructive.",
+  "explanation_ar": "قاتل أو مميت. حاجة خطيرة جداً لدرجة إنها ممكن تسبب الوفاة.",
+  "examples": [
+   "The chemical is lethal in small doses.",
+   "The government approved the use of lethal force.",
+   "A lethal combination of drugs was found in his system."
+  ],
+  "translations": {
+   "arabic_ar": "مميت قاتل"
+  },
+  "synonyms": [
+   "deadly",
+   "fatal",
+   "mortal"
+  ],
+  "antonyms": [
+   "harmless",
+   "safe",
+   "non-lethal"
+  ],
+  "collocations": [
+   "lethal injection",
+   "lethal weapon",
+   "lethal dose",
+   "lethal force"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Last' 'أخير'.. الجرعة الـ 'Lethal' هي الـ 'Last' 'آخر' حاجة هتاخدها في حياتك."
+ }
+}

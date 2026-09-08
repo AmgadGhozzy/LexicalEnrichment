@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "border",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "border",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A line separating two countries or areas.",
+  "explanation_ar": "الخط الفاصل بين بلدين أو منطقتين، أو الحافة الخارجية لشيء معين.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The official dividing line between two countries or administrative areas.",
+    "definition_ar": "الحد الجغرافي أو السياسي الفاصل بين بلدين أو منطقتين."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A strip or edge that forms an outer boundary around something.",
+    "definition_ar": "إطار أو شريط يحيط بحافة شيء ما."
+   }
+  ],
+  "examples": [
+   "We live near the border.",
+   "You need a passport to cross the border.",
+   "The border between the two countries is closed."
+  ],
+  "translations": [
+   "حدود",
+   "حد",
+   "حافة"
+  ],
+  "relations": {
+   "synonyms": [
+    "boundary",
+    "frontier",
+    "edge",
+    "limit"
+   ],
+   "antonyms": [
+    "center",
+    "interior"
+   ],
+   "collocations": [
+    "cross the border",
+    "border control",
+    "border patrol",
+    "national border"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة board (لوح خشب)؛ تخيل لوح خشب موضوع كحاجز فاصل على الـ border (الحدود).",
+  "phonetic_us": "/ˈbɔːrdər/",
+  "phonetic_uk": "/ˈbɔːdə/",
+  "syllables": "bor•der",
+  "semantic_tags": [
+   "Geography",
+   "Travel",
+   "Politics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A line separating two countries or areas.",
+  "explanation_ar": "الخط الفاصل بين بلدين أو منطقتين، أو الحافة الخارجية لشيء معين.",
+  "examples": [
+   "We live near the border.",
+   "You need a passport to cross the border.",
+   "The border between the two countries is closed."
+  ],
+  "translations": {
+   "arabic_ar": "حدود حد حافة"
+  },
+  "synonyms": [
+   "boundary",
+   "frontier",
+   "edge",
+   "limit"
+  ],
+  "antonyms": [
+   "center",
+   "interior"
+  ],
+  "collocations": [
+   "cross the border",
+   "border control",
+   "border patrol",
+   "national border"
+  ],
+  "mnemonic_ar": "اربطها بكلمة board (لوح خشب)؛ تخيل لوح خشب موضوع كحاجز فاصل على الـ border (الحدود)."
+ }
+}

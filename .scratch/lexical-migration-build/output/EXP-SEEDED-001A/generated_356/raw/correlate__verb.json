@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "correlate",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "correlate",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To have a mutual relationship or connection, or to show that such a connection exists between two or more things.",
+  "explanation_ar": "يربط بين حاجتين ويشوف العلاقة بينهم، أو إن الحاجتين يكونوا مرتبطين ببعض.",
+  "senses": [
+   {
+    "definition_en": "To have a mutual relationship or connection.",
+    "definition_ar": "أن يكون هناك ارتباط أو علاقة متبادلة بين شيئين.",
+    "pos": "verb"
+   },
+   {
+    "definition_en": "To show or prove a connection between two or more things.",
+    "definition_ar": "أن يربط بين شيئين ويوضح العلاقة الإحصائية أو المنطقية بينهما.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The figures do not correlate with our results.",
+   "Researchers tried to correlate the data with the observed trends.",
+   "It is difficult to correlate these two disparate sets of statistics."
+  ],
+  "translations": [
+   "يربط",
+   "يترابط",
+   "يتناسب"
+  ],
+  "relations": {
+   "synonyms": [
+    "associate",
+    "connect",
+    "correspond",
+    "link"
+   ],
+   "antonyms": [
+    "differ",
+    "disconnect",
+    "separate"
+   ],
+   "collocations": [
+    "correlate with",
+    "positively correlate",
+    "strongly correlate"
+   ]
+  },
+  "mnemonic": "جاية من 'Co' 'مع' + 'Relate' 'يربط'.. يعني يربط الأشياء مع بعض.",
+  "phonetic_us": "ˈkɔːrəleɪt",
+  "phonetic_uk": "ˈkɒrəleɪt",
+  "syllables": "cor•re•late",
+  "semantic_tags": [
+   "Link",
+   "Connect",
+   "Data"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To have a mutual relationship or connection, or to show that such a connection exists between two or more things.",
+  "explanation_ar": "يربط بين حاجتين ويشوف العلاقة بينهم، أو إن الحاجتين يكونوا مرتبطين ببعض.",
+  "examples": [
+   "The figures do not correlate with our results.",
+   "Researchers tried to correlate the data with the observed trends.",
+   "It is difficult to correlate these two disparate sets of statistics."
+  ],
+  "translations": {
+   "arabic_ar": "يربط يترابط يتناسب"
+  },
+  "synonyms": [
+   "associate",
+   "connect",
+   "correspond",
+   "link"
+  ],
+  "antonyms": [
+   "differ",
+   "disconnect",
+   "separate"
+  ],
+  "collocations": [
+   "correlate with",
+   "positively correlate",
+   "strongly correlate"
+  ],
+  "mnemonic_ar": "جاية من 'Co' 'مع' + 'Relate' 'يربط'.. يعني يربط الأشياء مع بعض."
+ }
+}

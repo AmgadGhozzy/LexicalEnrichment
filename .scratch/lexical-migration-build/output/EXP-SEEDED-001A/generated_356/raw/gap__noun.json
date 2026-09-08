@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "gap",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "gap",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A break or space in an object or between two objects; a difference.",
+  "explanation_ar": "الفجوة أو الفراغ اللي بين حاجتين، أو الفرق الكبير بين مستويين.",
+  "senses": [
+   {
+    "definition_en": "An empty space between two things, or an opening in something.",
+    "definition_ar": "فراغ أو فتحة بين شيئين أو ثقب في شيء ما.",
+    "examples": [
+     "There is a gap in the fence.",
+     "Mind the gap between the train and the platform."
+    ]
+   },
+   {
+    "definition_en": "A difference or disparity between two things, people, or situations.",
+    "definition_ar": "فرق أو تفاوت بين شيئين أو شخصين أو حالتين.",
+    "examples": [
+     "There is a big age gap between them."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a gap in the fence.",
+   "Mind the gap between the train and the platform.",
+   "There is a big age gap between them."
+  ],
+  "translations": [
+   "فجوة",
+   "فراغ"
+  ],
+  "relations": {
+   "synonyms": [
+    "space",
+    "opening",
+    "hole",
+    "difference"
+   ],
+   "antonyms": [
+    "closure",
+    "continuity",
+    "connection"
+   ],
+   "collocations": [
+    "generation gap",
+    "bridge the gap",
+    "age gap",
+    "gender gap"
+   ]
+  },
+  "mnemonic": "الـ 'Gap' هي الفتحة أو الفراغ اللي بين حاجتين.. زي الـ 'Gap' بين الأسنان.",
+  "phonetic_us": "ɡæp",
+  "phonetic_uk": "ɡæp",
+  "syllables": "gap",
+  "semantic_tags": [
+   "space",
+   "difference",
+   "hole"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A break or space in an object or between two objects; a difference.",
+  "explanation_ar": "الفجوة أو الفراغ اللي بين حاجتين، أو الفرق الكبير بين مستويين.",
+  "examples": [
+   "There is a gap in the fence.",
+   "Mind the gap between the train and the platform.",
+   "There is a big age gap between them."
+  ],
+  "translations": {
+   "arabic_ar": "فجوة فراغ"
+  },
+  "synonyms": [
+   "space",
+   "opening",
+   "hole",
+   "difference"
+  ],
+  "antonyms": [
+   "closure",
+   "continuity",
+   "connection"
+  ],
+  "collocations": [
+   "generation gap",
+   "bridge the gap",
+   "age gap",
+   "gender gap"
+  ],
+  "mnemonic_ar": "الـ 'Gap' هي الفتحة أو الفراغ اللي بين حاجتين.. زي الـ 'Gap' بين الأسنان."
+ }
+}

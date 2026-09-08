@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "accurate",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "accurate",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Correct in all details; exact and free from error.",
+  "explanation_ar": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Correct in all details; exact and free from error.",
+    "definition_ar": "دقيق ومضبوط وخالٍ من الخطأ.",
+    "examples": [
+     "The figures are not completely accurate.",
+     "Please give an accurate description.",
+     "Is this information accurate?"
+    ]
+   }
+  ],
+  "examples": [
+   "The figures are not completely accurate.",
+   "Please give an accurate description.",
+   "Is this information accurate?"
+  ],
+  "translations": [
+   "دقيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "precise",
+    "correct",
+    "exact"
+   ],
+   "antonyms": [
+    "inaccurate",
+    "wrong"
+   ],
+   "collocations": [
+    "accurate description",
+    "accurate record",
+    "highly accurate"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح.",
+  "phonetic_us": "ˈæk.jɚ.ət",
+  "phonetic_uk": "ˈæk.jə.rət",
+  "syllables": "ac•cu•rate",
+  "semantic_tags": [
+   "#Precision",
+   "#Truth",
+   "#Science"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Correct in all details; exact and free from error.",
+  "explanation_ar": "دقيق ومظبوط جدًا، مفيهوش أي غلطة.",
+  "examples": [
+   "The figures are not completely accurate.",
+   "Please give an accurate description.",
+   "Is this information accurate?"
+  ],
+  "translations": {
+   "arabic_ar": "دقيق"
+  },
+  "synonyms": [
+   "precise",
+   "correct",
+   "exact"
+  ],
+  "antonyms": [
+   "inaccurate",
+   "wrong"
+  ],
+  "collocations": [
+   "accurate description",
+   "accurate record",
+   "highly accurate"
+  ],
+  "mnemonic_ar": "شبه كلمة 'A cure' 'علاج'.. الدكتور الشاطر لازم تشخيصه يكون 'Accurate' عشان يديك الـ 'Cure' الصح."
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6595",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6595",
+  "lemma": "multiply",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6595,
+  "lemma": "multiply",
+  "pos": "verb",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈmʌltəˌplaɪ",
+  "phonetic_uk": "ˈmʌltɪplaɪ",
+  "phonetic_ar": "مَلتِبْلاي",
+  "definition_en": "To increase greatly in number or amount, or to calculate the total of repeated additions.",
+  "explanation_ar": "يعني أن يزيد الشيء ويتضاعف بشكل ملحوظ، أو يقوم بعملية الضرب الحسابية في الرياضيات.",
+  "examples": [
+   {
+    "example_text": "If you multiply four by five, the answer is twenty.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Bacteria can multiply rapidly in warm and moist environments.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Without clear regulations, minor administrative problems will quickly multiply across the company.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر الكلمة الشائعة \"multi\" التي تعني متعدد، فالفعل يعني أن تجعل الشيء متعددا وكثيرا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To calculate the result of adding a number to itself a specific number of times.",
+    "short_def_en": "do multiplication",
+    "definition_ar": "يضرب في الحساب",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "arithmetic",
+     "math",
+     "calculation"
+    ],
+    "usage_note": "Frequently used with the preposition 'by', as in multiply X by Y.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To increase substantially in number, quantity, or degree over time.",
+    "short_def_en": "increase rapidly",
+    "definition_ar": "يتضاعف أو يتكاثر",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Change",
+    "semantic_tags": [
+     "increase",
+     "growth",
+     "biology"
+    ],
+    "usage_note": "Can refer both to living organisms reproducing and problems or costs increasing.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "multiply rapidly",
+   "multiply by",
+   "multiply exponentially",
+   "problems multiply"
+  ],
+  "synonyms": [
+   "increase",
+   "proliferate",
+   "reproduce",
+   "compound"
+  ],
+  "antonyms": [
+   "divide",
+   "decrease",
+   "diminish"
+  ],
+  "related_words": {
+   "en": [
+    "multiplication",
+    "multiple",
+    "arithmetic",
+    "fraction"
+   ],
+   "ar": [
+    "عملية الضرب",
+    "مضاعف",
+    "حساب",
+    "كسر"
+   ]
+  },
+  "word_family": {
+   "noun": "multiplication",
+   "verb": "multiply",
+   "adj": "multiple",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يضرب / يتضاعف / يتكاثر",
+   "french_fr": "multiplier",
+   "german_de": "multiplizieren",
+   "spanish_es": "multiplicar",
+   "chinese_zh": "乘 (chéng)",
+   "russian_ru": "умножать",
+   "portuguese_pt": "multiplicar",
+   "japanese_ja": "掛ける (Kakeru)",
+   "italian_it": "moltiplicare",
+   "turkish_tr": "çarpmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "c0122211f198884c5d96e7059a081034500e92aac2fe9b6c055aa782822c5738",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

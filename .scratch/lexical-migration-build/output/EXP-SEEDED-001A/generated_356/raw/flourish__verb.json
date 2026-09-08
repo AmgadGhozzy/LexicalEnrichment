@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To grow or develop in a healthy, vigorous, or highly successful way.",
+  "explanation_ar": "يزدهر وينمو بقوة ونجاح، سواء كان ذلك لنبات، أو نشاط تجاري، أو شخص، أو مجتمع.",
+  "senses": [
+   {
+    "definition_en": "To grow or develop in a healthy, vigorous, or highly successful way.",
+    "definition_ar": "يزدهر أو ينمو بنجاح وقوة",
+    "examples": [
+     "Bacteria flourish in warm, damp environments.",
+     "Few businesses can flourish without proper financial planning.",
+     "The arts continue to flourish in this historic city."
+    ]
+   }
+  ],
+  "examples": [
+   "Bacteria flourish in warm, damp environments.",
+   "Few businesses can flourish without proper financial planning.",
+   "The arts continue to flourish in this historic city."
+  ],
+  "translations": [
+   "يزدهر",
+   "ينمو بقوة"
+  ],
+  "relations": {
+   "synonyms": [
+    "thrive",
+    "prosper",
+    "bloom"
+   ],
+   "antonyms": [
+    "wither",
+    "decline",
+    "fail"
+   ],
+   "collocations": [
+    "flourish in",
+    "continue to flourish",
+    "begin to flourish"
+   ]
+  },
+  "mnemonic": "زي الـ 'Flower' (الوردة) لما تفتح وتكبر.. المشروع أو الكائن الحي بيـ 'Flourish' (يزدهر).",
+  "phonetic_us": "ˈflɜːrɪʃ",
+  "phonetic_uk": "ˈflʌrɪʃ",
+  "syllables": "flour•ish",
+  "semantic_tags": [
+   "growth",
+   "success",
+   "nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To grow or develop in a healthy, vigorous, or highly successful way.",
+  "explanation_ar": "يزدهر وينمو بقوة ونجاح، سواء كان ذلك لنبات، أو نشاط تجاري، أو شخص، أو مجتمع.",
+  "examples": [
+   "Bacteria flourish in warm, damp environments.",
+   "Few businesses can flourish without proper financial planning.",
+   "The arts continue to flourish in this historic city."
+  ],
+  "translations": {
+   "arabic_ar": "يزدهر ينمو بقوة"
+  },
+  "synonyms": [
+   "thrive",
+   "prosper",
+   "bloom"
+  ],
+  "antonyms": [
+   "wither",
+   "decline",
+   "fail"
+  ],
+  "collocations": [
+   "flourish in",
+   "continue to flourish",
+   "begin to flourish"
+  ],
+  "mnemonic_ar": "زي الـ 'Flower' (الوردة) لما تفتح وتكبر.. المشروع أو الكائن الحي بيـ 'Flourish' (يزدهر)."
+ }
+}

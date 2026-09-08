@@ -1,0 +1,150 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2390",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2390",
+  "lemma": "perspective",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2390,
+  "lemma": "perspective",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "pərˈspektɪv",
+  "phonetic_uk": "pəˈspektɪv",
+  "phonetic_ar": "بَرْسْبِكْتِف",
+  "definition_en": "A particular way of viewing or thinking about something, influenced by personal experience.",
+  "explanation_ar": "زاوية رؤية أو وجهة نظر خاصة يفكر بها الشخص في موضوع معين بناء على تجاربه وظروفه.",
+  "examples": [
+   {
+    "example_text": "Traveling abroad gave him a completely fresh perspective on life.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "We need to look at this issue from a broader perspective.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Talking to a close friend helped put her problems into perspective.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الجزء spect في كلمة \"perspective\" يعني النظر والرؤية مثل كلمة \"inspect\" لذلك تعني الكلمة زاوية النظر للامور او وجهة النظر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A particular way of considering or thinking about something.",
+    "short_def_en": "point of view",
+    "definition_ar": "وجهة نظر او زاوية رؤية للامور",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "opinion",
+     "viewpoint",
+     "thinking"
+    ],
+    "usage_note": "Often used in phrases like 'from my perspective' or 'gain perspective'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The ability to judge the relative importance or value of things realistically.",
+    "short_def_en": "balanced judgment",
+    "definition_ar": "القدرة على تقييم الاشياء بحجمها الحقيقي وموضوعية",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "judgment",
+     "balance",
+     "reasoning"
+    ],
+    "usage_note": "Most commonly used in idioms like 'keep things in perspective' or 'lose perspective'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "An artistic technique creating the illusion of three-dimensional depth on a flat surface.",
+    "short_def_en": "depth in drawing",
+    "definition_ar": "المنظور في الرسم لاظهار العمق والابعاد",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "art",
+     "design",
+     "drawing"
+    ],
+    "usage_note": "Specialized sense in fine art and architecture.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "broader perspective",
+   "put into perspective",
+   "keep in perspective",
+   "fresh perspective",
+   "different perspective"
+  ],
+  "synonyms": [
+   "viewpoint",
+   "standpoint",
+   "outlook",
+   "angle",
+   "stance"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "perception",
+    "view",
+    "aspect",
+    "horizon",
+    "opinion"
+   ],
+   "ar": [
+    "ادراك",
+    "راي",
+    "جانب",
+    "افق",
+    "وجهة نظر"
+   ]
+  },
+  "word_family": {
+   "noun": "perspective",
+   "verb": "",
+   "adj": "perspectival",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "وجهة نظر / منظور",
+   "french_fr": "perspective",
+   "german_de": "Perspektive",
+   "spanish_es": "perspectiva",
+   "chinese_zh": "视角 (Shìjiǎo)",
+   "russian_ru": "перспектива",
+   "portuguese_pt": "perspetiva",
+   "japanese_ja": "視点 (Shiten)",
+   "italian_it": "prospettiva",
+   "turkish_tr": "bakış açısı"
+  }
+ },
+ "provenance": {
+  "output_hash": "efe8b8d63a9e3278f37d531f0ac143ea7a2a8b21a1926db3446beebdc340c81d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

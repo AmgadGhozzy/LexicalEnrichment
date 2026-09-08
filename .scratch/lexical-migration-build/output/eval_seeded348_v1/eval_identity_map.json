@@ -1,0 +1,1397 @@
+{
+ "eval_id": "eval_seeded348_v1",
+ "map": {
+  "eval_seeded348_v1-0001": {
+   "candidate_side": "B",
+   "candidate_key": "abandon/noun"
+  },
+  "eval_seeded348_v1-0002": {
+   "candidate_side": "B",
+   "candidate_key": "abuse/verb"
+  },
+  "eval_seeded348_v1-0003": {
+   "candidate_side": "B",
+   "candidate_key": "accordingly/adv"
+  },
+  "eval_seeded348_v1-0004": {
+   "candidate_side": "B",
+   "candidate_key": "accurate/adj"
+  },
+  "eval_seeded348_v1-0005": {
+   "candidate_side": "A",
+   "candidate_key": "activist/noun"
+  },
+  "eval_seeded348_v1-0006": {
+   "candidate_side": "B",
+   "candidate_key": "additionally/adv"
+  },
+  "eval_seeded348_v1-0007": {
+   "candidate_side": "A",
+   "candidate_key": "administer/verb"
+  },
+  "eval_seeded348_v1-0008": {
+   "candidate_side": "B",
+   "candidate_key": "advanced/adj"
+  },
+  "eval_seeded348_v1-0009": {
+   "candidate_side": "A",
+   "candidate_key": "aeroplane/noun"
+  },
+  "eval_seeded348_v1-0010": {
+   "candidate_side": "A",
+   "candidate_key": "age/noun"
+  },
+  "eval_seeded348_v1-0011": {
+   "candidate_side": "A",
+   "candidate_key": "amateur/adj"
+  },
+  "eval_seeded348_v1-0012": {
+   "candidate_side": "B",
+   "candidate_key": "amusing/adj"
+  },
+  "eval_seeded348_v1-0013": {
+   "candidate_side": "B",
+   "candidate_key": "ancient/adj"
+  },
+  "eval_seeded348_v1-0014": {
+   "candidate_side": "B",
+   "candidate_key": "anyone/pron"
+  },
+  "eval_seeded348_v1-0015": {
+   "candidate_side": "A",
+   "candidate_key": "appointed/adj"
+  },
+  "eval_seeded348_v1-0016": {
+   "candidate_side": "A",
+   "candidate_key": "appointment/noun"
+  },
+  "eval_seeded348_v1-0017": {
+   "candidate_side": "A",
+   "candidate_key": "approximate/adj"
+  },
+  "eval_seeded348_v1-0018": {
+   "candidate_side": "B",
+   "candidate_key": "archbishop/noun"
+  },
+  "eval_seeded348_v1-0019": {
+   "candidate_side": "A",
+   "candidate_key": "articulate/adj"
+  },
+  "eval_seeded348_v1-0020": {
+   "candidate_side": "B",
+   "candidate_key": "attention/excl"
+  },
+  "eval_seeded348_v1-0021": {
+   "candidate_side": "B",
+   "candidate_key": "attractiveness/noun"
+  },
+  "eval_seeded348_v1-0022": {
+   "candidate_side": "A",
+   "candidate_key": "aunt/noun"
+  },
+  "eval_seeded348_v1-0023": {
+   "candidate_side": "A",
+   "candidate_key": "awareness/noun"
+  },
+  "eval_seeded348_v1-0024": {
+   "candidate_side": "B",
+   "candidate_key": "bass/adj"
+  },
+  "eval_seeded348_v1-0025": {
+   "candidate_side": "B",
+   "candidate_key": "become/verb"
+  },
+  "eval_seeded348_v1-0026": {
+   "candidate_side": "A",
+   "candidate_key": "being/noun"
+  },
+  "eval_seeded348_v1-0027": {
+   "candidate_side": "B",
+   "candidate_key": "believe/verb"
+  },
+  "eval_seeded348_v1-0028": {
+   "candidate_side": "A",
+   "candidate_key": "besides/adv"
+  },
+  "eval_seeded348_v1-0029": {
+   "candidate_side": "A",
+   "candidate_key": "billion/num"
+  },
+  "eval_seeded348_v1-0030": {
+   "candidate_side": "A",
+   "candidate_key": "bizarre/adj"
+  },
+  "eval_seeded348_v1-0031": {
+   "candidate_side": "A",
+   "candidate_key": "bleak/adj"
+  },
+  "eval_seeded348_v1-0032": {
+   "candidate_side": "A",
+   "candidate_key": "blow/noun"
+  },
+  "eval_seeded348_v1-0033": {
+   "candidate_side": "B",
+   "candidate_key": "border/noun"
+  },
+  "eval_seeded348_v1-0034": {
+   "candidate_side": "A",
+   "candidate_key": "bottom/adj"
+  },
+  "eval_seeded348_v1-0035": {
+   "candidate_side": "A",
+   "candidate_key": "breed/noun"
+  },
+  "eval_seeded348_v1-0036": {
+   "candidate_side": "B",
+   "candidate_key": "bucket/noun"
+  },
+  "eval_seeded348_v1-0037": {
+   "candidate_side": "A",
+   "candidate_key": "budget/noun"
+  },
+  "eval_seeded348_v1-0038": {
+   "candidate_side": "A",
+   "candidate_key": "but/prep"
+  },
+  "eval_seeded348_v1-0039": {
+   "candidate_side": "A",
+   "candidate_key": "butter/noun"
+  },
+  "eval_seeded348_v1-0040": {
+   "candidate_side": "A",
+   "candidate_key": "call/verb"
+  },
+  "eval_seeded348_v1-0041": {
+   "candidate_side": "A",
+   "candidate_key": "can/modal"
+  },
+  "eval_seeded348_v1-0042": {
+   "candidate_side": "A",
+   "candidate_key": "cannot/modal"
+  },
+  "eval_seeded348_v1-0043": {
+   "candidate_side": "A",
+   "candidate_key": "card/noun"
+  },
+  "eval_seeded348_v1-0044": {
+   "candidate_side": "A",
+   "candidate_key": "cargo/noun"
+  },
+  "eval_seeded348_v1-0045": {
+   "candidate_side": "A",
+   "candidate_key": "cautious/adj"
+  },
+  "eval_seeded348_v1-0046": {
+   "candidate_side": "A",
+   "candidate_key": "channel/noun"
+  },
+  "eval_seeded348_v1-0047": {
+   "candidate_side": "A",
+   "candidate_key": "chat/verb"
+  },
+  "eval_seeded348_v1-0048": {
+   "candidate_side": "B",
+   "candidate_key": "cheer/verb"
+  },
+  "eval_seeded348_v1-0049": {
+   "candidate_side": "B",
+   "candidate_key": "chef/noun"
+  },
+  "eval_seeded348_v1-0050": {
+   "candidate_side": "B",
+   "candidate_key": "chin/noun"
+  },
+  "eval_seeded348_v1-0051": {
+   "candidate_side": "B",
+   "candidate_key": "chop/verb"
+  },
+  "eval_seeded348_v1-0052": {
+   "candidate_side": "B",
+   "candidate_key": "citizenship/noun"
+  },
+  "eval_seeded348_v1-0053": {
+   "candidate_side": "A",
+   "candidate_key": "civilian/noun"
+  },
+  "eval_seeded348_v1-0054": {
+   "candidate_side": "A",
+   "candidate_key": "colour/noun"
+  },
+  "eval_seeded348_v1-0055": {
+   "candidate_side": "A",
+   "candidate_key": "combine/verb"
+  },
+  "eval_seeded348_v1-0056": {
+   "candidate_side": "B",
+   "candidate_key": "concentrate/verb"
+  },
+  "eval_seeded348_v1-0057": {
+   "candidate_side": "A",
+   "candidate_key": "congressional/adj"
+  },
+  "eval_seeded348_v1-0058": {
+   "candidate_side": "B",
+   "candidate_key": "connect/verb"
+  },
+  "eval_seeded348_v1-0059": {
+   "candidate_side": "B",
+   "candidate_key": "constituent/noun"
+  },
+  "eval_seeded348_v1-0060": {
+   "candidate_side": "B",
+   "candidate_key": "contain/verb"
+  },
+  "eval_seeded348_v1-0061": {
+   "candidate_side": "B",
+   "candidate_key": "core/adj"
+  },
+  "eval_seeded348_v1-0062": {
+   "candidate_side": "B",
+   "candidate_key": "corporate/adj"
+  },
+  "eval_seeded348_v1-0063": {
+   "candidate_side": "A",
+   "candidate_key": "correctly/adv"
+  },
+  "eval_seeded348_v1-0064": {
+   "candidate_side": "A",
+   "candidate_key": "correlate/verb"
+  },
+  "eval_seeded348_v1-0065": {
+   "candidate_side": "B",
+   "candidate_key": "corridor/noun"
+  },
+  "eval_seeded348_v1-0066": {
+   "candidate_side": "A",
+   "candidate_key": "credibility/noun"
+  },
+  "eval_seeded348_v1-0067": {
+   "candidate_side": "B",
+   "candidate_key": "curly/adj"
+  },
+  "eval_seeded348_v1-0068": {
+   "candidate_side": "B",
+   "candidate_key": "cushion/noun"
+  },
+  "eval_seeded348_v1-0069": {
+   "candidate_side": "B",
+   "candidate_key": "damn/verb"
+  },
+  "eval_seeded348_v1-0070": {
+   "candidate_side": "B",
+   "candidate_key": "date/noun"
+  },
+  "eval_seeded348_v1-0071": {
+   "candidate_side": "B",
+   "candidate_key": "deal/noun"
+  },
+  "eval_seeded348_v1-0072": {
+   "candidate_side": "B",
+   "candidate_key": "deal/verb"
+  },
+  "eval_seeded348_v1-0073": {
+   "candidate_side": "B",
+   "candidate_key": "debt/noun"
+  },
+  "eval_seeded348_v1-0074": {
+   "candidate_side": "B",
+   "candidate_key": "defy/verb"
+  },
+  "eval_seeded348_v1-0075": {
+   "candidate_side": "A",
+   "candidate_key": "dependent/adj"
+  },
+  "eval_seeded348_v1-0076": {
+   "candidate_side": "B",
+   "candidate_key": "developer/noun"
+  },
+  "eval_seeded348_v1-0077": {
+   "candidate_side": "B",
+   "candidate_key": "devil/noun"
+  },
+  "eval_seeded348_v1-0078": {
+   "candidate_side": "A",
+   "candidate_key": "disturbance/noun"
+  },
+  "eval_seeded348_v1-0079": {
+   "candidate_side": "B",
+   "candidate_key": "diverge/verb"
+  },
+  "eval_seeded348_v1-0080": {
+   "candidate_side": "B",
+   "candidate_key": "doctor/noun"
+  },
+  "eval_seeded348_v1-0081": {
+   "candidate_side": "A",
+   "candidate_key": "dolphin/noun"
+  },
+  "eval_seeded348_v1-0082": {
+   "candidate_side": "A",
+   "candidate_key": "domestic/adj"
+  },
+  "eval_seeded348_v1-0083": {
+   "candidate_side": "A",
+   "candidate_key": "doorway/noun"
+  },
+  "eval_seeded348_v1-0084": {
+   "candidate_side": "B",
+   "candidate_key": "double/pron"
+  },
+  "eval_seeded348_v1-0085": {
+   "candidate_side": "A",
+   "candidate_key": "downtown/adv"
+  },
+  "eval_seeded348_v1-0086": {
+   "candidate_side": "A",
+   "candidate_key": "draft/verb"
+  },
+  "eval_seeded348_v1-0087": {
+   "candidate_side": "B",
+   "candidate_key": "dry/verb"
+  },
+  "eval_seeded348_v1-0088": {
+   "candidate_side": "A",
+   "candidate_key": "dumb/adj"
+  },
+  "eval_seeded348_v1-0089": {
+   "candidate_side": "B",
+   "candidate_key": "durable/adj"
+  },
+  "eval_seeded348_v1-0090": {
+   "candidate_side": "B",
+   "candidate_key": "dust/noun"
+  },
+  "eval_seeded348_v1-0091": {
+   "candidate_side": "A",
+   "candidate_key": "editor/noun"
+  },
+  "eval_seeded348_v1-0092": {
+   "candidate_side": "B",
+   "candidate_key": "educate/verb"
+  },
+  "eval_seeded348_v1-0093": {
+   "candidate_side": "A",
+   "candidate_key": "elbow/noun"
+  },
+  "eval_seeded348_v1-0094": {
+   "candidate_side": "A",
+   "candidate_key": "electronics/noun"
+  },
+  "eval_seeded348_v1-0095": {
+   "candidate_side": "A",
+   "candidate_key": "embarrassment/noun"
+  },
+  "eval_seeded348_v1-0096": {
+   "candidate_side": "A",
+   "candidate_key": "embryo/noun"
+  },
+  "eval_seeded348_v1-0097": {
+   "candidate_side": "A",
+   "candidate_key": "emergency/noun"
+  },
+  "eval_seeded348_v1-0098": {
+   "candidate_side": "B",
+   "candidate_key": "end/noun"
+  },
+  "eval_seeded348_v1-0099": {
+   "candidate_side": "B",
+   "candidate_key": "endure/verb"
+  },
+  "eval_seeded348_v1-0100": {
+   "candidate_side": "A",
+   "candidate_key": "entertainment/noun"
+  },
+  "eval_seeded348_v1-0101": {
+   "candidate_side": "A",
+   "candidate_key": "essential/adj"
+  },
+  "eval_seeded348_v1-0102": {
+   "candidate_side": "A",
+   "candidate_key": "estate/noun"
+  },
+  "eval_seeded348_v1-0103": {
+   "candidate_side": "A",
+   "candidate_key": "event/noun"
+  },
+  "eval_seeded348_v1-0104": {
+   "candidate_side": "A",
+   "candidate_key": "evident/adj"
+  },
+  "eval_seeded348_v1-0105": {
+   "candidate_side": "A",
+   "candidate_key": "exact/adj"
+  },
+  "eval_seeded348_v1-0106": {
+   "candidate_side": "A",
+   "candidate_key": "example/noun"
+  },
+  "eval_seeded348_v1-0107": {
+   "candidate_side": "A",
+   "candidate_key": "exception/noun"
+  },
+  "eval_seeded348_v1-0108": {
+   "candidate_side": "B",
+   "candidate_key": "exclaim/verb"
+  },
+  "eval_seeded348_v1-0109": {
+   "candidate_side": "B",
+   "candidate_key": "exposure/noun"
+  },
+  "eval_seeded348_v1-0110": {
+   "candidate_side": "B",
+   "candidate_key": "faculty/noun"
+  },
+  "eval_seeded348_v1-0111": {
+   "candidate_side": "A",
+   "candidate_key": "fail/verb"
+  },
+  "eval_seeded348_v1-0112": {
+   "candidate_side": "A",
+   "candidate_key": "fare/noun"
+  },
+  "eval_seeded348_v1-0113": {
+   "candidate_side": "A",
+   "candidate_key": "fat/noun"
+  },
+  "eval_seeded348_v1-0114": {
+   "candidate_side": "A",
+   "candidate_key": "feature/verb"
+  },
+  "eval_seeded348_v1-0115": {
+   "candidate_side": "B",
+   "candidate_key": "fetch/verb"
+  },
+  "eval_seeded348_v1-0116": {
+   "candidate_side": "B",
+   "candidate_key": "figure/verb"
+  },
+  "eval_seeded348_v1-0117": {
+   "candidate_side": "B",
+   "candidate_key": "finger/noun"
+  },
+  "eval_seeded348_v1-0118": {
+   "candidate_side": "B",
+   "candidate_key": "firstly/adv"
+  },
+  "eval_seeded348_v1-0119": {
+   "candidate_side": "B",
+   "candidate_key": "fish/noun"
+  },
+  "eval_seeded348_v1-0120": {
+   "candidate_side": "B",
+   "candidate_key": "flash/noun"
+  },
+  "eval_seeded348_v1-0121": {
+   "candidate_side": "B",
+   "candidate_key": "flourish/verb"
+  },
+  "eval_seeded348_v1-0122": {
+   "candidate_side": "B",
+   "candidate_key": "fond/adj"
+  },
+  "eval_seeded348_v1-0123": {
+   "candidate_side": "A",
+   "candidate_key": "formulation/noun"
+  },
+  "eval_seeded348_v1-0124": {
+   "candidate_side": "A",
+   "candidate_key": "fourth/adj"
+  },
+  "eval_seeded348_v1-0125": {
+   "candidate_side": "A",
+   "candidate_key": "fowl/noun"
+  },
+  "eval_seeded348_v1-0126": {
+   "candidate_side": "B",
+   "candidate_key": "front/adj"
+  },
+  "eval_seeded348_v1-0127": {
+   "candidate_side": "B",
+   "candidate_key": "frontier/noun"
+  },
+  "eval_seeded348_v1-0128": {
+   "candidate_side": "A",
+   "candidate_key": "frustrate/verb"
+  },
+  "eval_seeded348_v1-0129": {
+   "candidate_side": "A",
+   "candidate_key": "fun/noun"
+  },
+  "eval_seeded348_v1-0130": {
+   "candidate_side": "A",
+   "candidate_key": "gap/noun"
+  },
+  "eval_seeded348_v1-0131": {
+   "candidate_side": "B",
+   "candidate_key": "gasoline/noun"
+  },
+  "eval_seeded348_v1-0132": {
+   "candidate_side": "B",
+   "candidate_key": "gasp/noun"
+  },
+  "eval_seeded348_v1-0133": {
+   "candidate_side": "A",
+   "candidate_key": "gold/adj"
+  },
+  "eval_seeded348_v1-0134": {
+   "candidate_side": "B",
+   "candidate_key": "good/noun"
+  },
+  "eval_seeded348_v1-0135": {
+   "candidate_side": "B",
+   "candidate_key": "grasp/noun"
+  },
+  "eval_seeded348_v1-0136": {
+   "candidate_side": "B",
+   "candidate_key": "grateful/adj"
+  },
+  "eval_seeded348_v1-0137": {
+   "candidate_side": "B",
+   "candidate_key": "grip/verb"
+  },
+  "eval_seeded348_v1-0138": {
+   "candidate_side": "A",
+   "candidate_key": "ground/noun"
+  },
+  "eval_seeded348_v1-0139": {
+   "candidate_side": "A",
+   "candidate_key": "guarantee/noun"
+  },
+  "eval_seeded348_v1-0140": {
+   "candidate_side": "A",
+   "candidate_key": "hairy/adj"
+  },
+  "eval_seeded348_v1-0141": {
+   "candidate_side": "A",
+   "candidate_key": "heavy/adj"
+  },
+  "eval_seeded348_v1-0142": {
+   "candidate_side": "B",
+   "candidate_key": "helpless/adj"
+  },
+  "eval_seeded348_v1-0143": {
+   "candidate_side": "A",
+   "candidate_key": "here/adv"
+  },
+  "eval_seeded348_v1-0144": {
+   "candidate_side": "A",
+   "candidate_key": "hero/noun"
+  },
+  "eval_seeded348_v1-0145": {
+   "candidate_side": "A",
+   "candidate_key": "hierarchy/noun"
+  },
+  "eval_seeded348_v1-0146": {
+   "candidate_side": "B",
+   "candidate_key": "highlight/verb"
+  },
+  "eval_seeded348_v1-0147": {
+   "candidate_side": "A",
+   "candidate_key": "hollow/adj"
+  },
+  "eval_seeded348_v1-0148": {
+   "candidate_side": "A",
+   "candidate_key": "hostility/noun"
+  },
+  "eval_seeded348_v1-0149": {
+   "candidate_side": "B",
+   "candidate_key": "ignore/verb"
+  },
+  "eval_seeded348_v1-0150": {
+   "candidate_side": "A",
+   "candidate_key": "illustration/noun"
+  },
+  "eval_seeded348_v1-0151": {
+   "candidate_side": "A",
+   "candidate_key": "imagery/noun"
+  },
+  "eval_seeded348_v1-0152": {
+   "candidate_side": "A",
+   "candidate_key": "implement/verb"
+  },
+  "eval_seeded348_v1-0153": {
+   "candidate_side": "B",
+   "candidate_key": "import/verb"
+  },
+  "eval_seeded348_v1-0154": {
+   "candidate_side": "A",
+   "candidate_key": "incidental/adj"
+  },
+  "eval_seeded348_v1-0155": {
+   "candidate_side": "A",
+   "candidate_key": "indigenous/adj"
+  },
+  "eval_seeded348_v1-0156": {
+   "candidate_side": "A",
+   "candidate_key": "inhabitant/noun"
+  },
+  "eval_seeded348_v1-0157": {
+   "candidate_side": "B",
+   "candidate_key": "initiative/noun"
+  },
+  "eval_seeded348_v1-0158": {
+   "candidate_side": "B",
+   "candidate_key": "innovation/noun"
+  },
+  "eval_seeded348_v1-0159": {
+   "candidate_side": "B",
+   "candidate_key": "insertion/noun"
+  },
+  "eval_seeded348_v1-0160": {
+   "candidate_side": "A",
+   "candidate_key": "instance/noun"
+  },
+  "eval_seeded348_v1-0161": {
+   "candidate_side": "B",
+   "candidate_key": "instant/adj"
+  },
+  "eval_seeded348_v1-0162": {
+   "candidate_side": "A",
+   "candidate_key": "intent/noun"
+  },
+  "eval_seeded348_v1-0163": {
+   "candidate_side": "B",
+   "candidate_key": "interpret/verb"
+  },
+  "eval_seeded348_v1-0164": {
+   "candidate_side": "B",
+   "candidate_key": "irrespective/prep"
+  },
+  "eval_seeded348_v1-0165": {
+   "candidate_side": "A",
+   "candidate_key": "jealousy/noun"
+  },
+  "eval_seeded348_v1-0166": {
+   "candidate_side": "A",
+   "candidate_key": "jew/noun"
+  },
+  "eval_seeded348_v1-0167": {
+   "candidate_side": "A",
+   "candidate_key": "killer/noun"
+  },
+  "eval_seeded348_v1-0168": {
+   "candidate_side": "A",
+   "candidate_key": "largely/adv"
+  },
+  "eval_seeded348_v1-0169": {
+   "candidate_side": "A",
+   "candidate_key": "laugh/noun"
+  },
+  "eval_seeded348_v1-0170": {
+   "candidate_side": "A",
+   "candidate_key": "leading/adj"
+  },
+  "eval_seeded348_v1-0171": {
+   "candidate_side": "B",
+   "candidate_key": "leaflet/noun"
+  },
+  "eval_seeded348_v1-0172": {
+   "candidate_side": "B",
+   "candidate_key": "leak/verb"
+  },
+  "eval_seeded348_v1-0173": {
+   "candidate_side": "B",
+   "candidate_key": "leap/noun"
+  },
+  "eval_seeded348_v1-0174": {
+   "candidate_side": "A",
+   "candidate_key": "lethal/adj"
+  },
+  "eval_seeded348_v1-0175": {
+   "candidate_side": "B",
+   "candidate_key": "license/verb"
+  },
+  "eval_seeded348_v1-0176": {
+   "candidate_side": "B",
+   "candidate_key": "lifestyle/noun"
+  },
+  "eval_seeded348_v1-0177": {
+   "candidate_side": "A",
+   "candidate_key": "lightly/adv"
+  },
+  "eval_seeded348_v1-0178": {
+   "candidate_side": "A",
+   "candidate_key": "like/verb"
+  },
+  "eval_seeded348_v1-0179": {
+   "candidate_side": "B",
+   "candidate_key": "loose/adj"
+  },
+  "eval_seeded348_v1-0180": {
+   "candidate_side": "B",
+   "candidate_key": "loosely/adv"
+  },
+  "eval_seeded348_v1-0181": {
+   "candidate_side": "B",
+   "candidate_key": "loyal/adj"
+  },
+  "eval_seeded348_v1-0182": {
+   "candidate_side": "B",
+   "candidate_key": "lyric/noun"
+  },
+  "eval_seeded348_v1-0183": {
+   "candidate_side": "B",
+   "candidate_key": "majesty/noun"
+  },
+  "eval_seeded348_v1-0184": {
+   "candidate_side": "A",
+   "candidate_key": "mandatory/adj"
+  },
+  "eval_seeded348_v1-0185": {
+   "candidate_side": "A",
+   "candidate_key": "mass/adj"
+  },
+  "eval_seeded348_v1-0186": {
+   "candidate_side": "B",
+   "candidate_key": "matching/noun"
+  },
+  "eval_seeded348_v1-0187": {
+   "candidate_side": "A",
+   "candidate_key": "material/adj"
+  },
+  "eval_seeded348_v1-0188": {
+   "candidate_side": "B",
+   "candidate_key": "maths/noun"
+  },
+  "eval_seeded348_v1-0189": {
+   "candidate_side": "A",
+   "candidate_key": "mature/adj"
+  },
+  "eval_seeded348_v1-0190": {
+   "candidate_side": "B",
+   "candidate_key": "me/pron"
+  },
+  "eval_seeded348_v1-0191": {
+   "candidate_side": "A",
+   "candidate_key": "meat/noun"
+  },
+  "eval_seeded348_v1-0192": {
+   "candidate_side": "B",
+   "candidate_key": "medieval/adj"
+  },
+  "eval_seeded348_v1-0193": {
+   "candidate_side": "A",
+   "candidate_key": "merchant/noun"
+  },
+  "eval_seeded348_v1-0194": {
+   "candidate_side": "B",
+   "candidate_key": "merely/adv"
+  },
+  "eval_seeded348_v1-0195": {
+   "candidate_side": "B",
+   "candidate_key": "might/modal"
+  },
+  "eval_seeded348_v1-0196": {
+   "candidate_side": "B",
+   "candidate_key": "moreover/adv"
+  },
+  "eval_seeded348_v1-0197": {
+   "candidate_side": "A",
+   "candidate_key": "much/det"
+  },
+  "eval_seeded348_v1-0198": {
+   "candidate_side": "A",
+   "candidate_key": "mud/noun"
+  },
+  "eval_seeded348_v1-0199": {
+   "candidate_side": "B",
+   "candidate_key": "multiply/verb"
+  },
+  "eval_seeded348_v1-0200": {
+   "candidate_side": "A",
+   "candidate_key": "my/excl"
+  },
+  "eval_seeded348_v1-0201": {
+   "candidate_side": "A",
+   "candidate_key": "natural/adj"
+  },
+  "eval_seeded348_v1-0202": {
+   "candidate_side": "B",
+   "candidate_key": "novel/noun"
+  },
+  "eval_seeded348_v1-0203": {
+   "candidate_side": "B",
+   "candidate_key": "nuclear/adj"
+  },
+  "eval_seeded348_v1-0204": {
+   "candidate_side": "B",
+   "candidate_key": "occasion/noun"
+  },
+  "eval_seeded348_v1-0205": {
+   "candidate_side": "B",
+   "candidate_key": "offset/verb"
+  },
+  "eval_seeded348_v1-0206": {
+   "candidate_side": "A",
+   "candidate_key": "offspring/noun"
+  },
+  "eval_seeded348_v1-0207": {
+   "candidate_side": "B",
+   "candidate_key": "often/adv"
+  },
+  "eval_seeded348_v1-0208": {
+   "candidate_side": "A",
+   "candidate_key": "option/noun"
+  },
+  "eval_seeded348_v1-0209": {
+   "candidate_side": "B",
+   "candidate_key": "orchestra/noun"
+  },
+  "eval_seeded348_v1-0210": {
+   "candidate_side": "B",
+   "candidate_key": "organizer/noun"
+  },
+  "eval_seeded348_v1-0211": {
+   "candidate_side": "B",
+   "candidate_key": "outbreak/noun"
+  },
+  "eval_seeded348_v1-0212": {
+   "candidate_side": "B",
+   "candidate_key": "outdoor/adj"
+  },
+  "eval_seeded348_v1-0213": {
+   "candidate_side": "A",
+   "candidate_key": "outdoors/adv"
+  },
+  "eval_seeded348_v1-0214": {
+   "candidate_side": "A",
+   "candidate_key": "outlook/noun"
+  },
+  "eval_seeded348_v1-0215": {
+   "candidate_side": "B",
+   "candidate_key": "outwards/adv"
+  },
+  "eval_seeded348_v1-0216": {
+   "candidate_side": "A",
+   "candidate_key": "oxygen/noun"
+  },
+  "eval_seeded348_v1-0217": {
+   "candidate_side": "A",
+   "candidate_key": "pair/noun"
+  },
+  "eval_seeded348_v1-0218": {
+   "candidate_side": "B",
+   "candidate_key": "pathway/noun"
+  },
+  "eval_seeded348_v1-0219": {
+   "candidate_side": "A",
+   "candidate_key": "pearl/noun"
+  },
+  "eval_seeded348_v1-0220": {
+   "candidate_side": "A",
+   "candidate_key": "penny/noun"
+  },
+  "eval_seeded348_v1-0221": {
+   "candidate_side": "A",
+   "candidate_key": "permission/noun"
+  },
+  "eval_seeded348_v1-0222": {
+   "candidate_side": "B",
+   "candidate_key": "perpetual/adj"
+  },
+  "eval_seeded348_v1-0223": {
+   "candidate_side": "B",
+   "candidate_key": "personally/adv"
+  },
+  "eval_seeded348_v1-0224": {
+   "candidate_side": "A",
+   "candidate_key": "perspective/noun"
+  },
+  "eval_seeded348_v1-0225": {
+   "candidate_side": "B",
+   "candidate_key": "phone/verb"
+  },
+  "eval_seeded348_v1-0226": {
+   "candidate_side": "B",
+   "candidate_key": "photography/noun"
+  },
+  "eval_seeded348_v1-0227": {
+   "candidate_side": "B",
+   "candidate_key": "pier/noun"
+  },
+  "eval_seeded348_v1-0228": {
+   "candidate_side": "B",
+   "candidate_key": "pilot/noun"
+  },
+  "eval_seeded348_v1-0229": {
+   "candidate_side": "B",
+   "candidate_key": "pledge/noun"
+  },
+  "eval_seeded348_v1-0230": {
+   "candidate_side": "A",
+   "candidate_key": "plus/prep"
+  },
+  "eval_seeded348_v1-0231": {
+   "candidate_side": "A",
+   "candidate_key": "polite/adj"
+  },
+  "eval_seeded348_v1-0232": {
+   "candidate_side": "B",
+   "candidate_key": "pope/noun"
+  },
+  "eval_seeded348_v1-0233": {
+   "candidate_side": "A",
+   "candidate_key": "portrait/noun"
+  },
+  "eval_seeded348_v1-0234": {
+   "candidate_side": "A",
+   "candidate_key": "pose/verb"
+  },
+  "eval_seeded348_v1-0235": {
+   "candidate_side": "A",
+   "candidate_key": "possible/adj"
+  },
+  "eval_seeded348_v1-0236": {
+   "candidate_side": "B",
+   "candidate_key": "practice/noun"
+  },
+  "eval_seeded348_v1-0237": {
+   "candidate_side": "B",
+   "candidate_key": "precious/adj"
+  },
+  "eval_seeded348_v1-0238": {
+   "candidate_side": "A",
+   "candidate_key": "preliminary/adj"
+  },
+  "eval_seeded348_v1-0239": {
+   "candidate_side": "B",
+   "candidate_key": "premium/noun"
+  },
+  "eval_seeded348_v1-0240": {
+   "candidate_side": "B",
+   "candidate_key": "prior/adj"
+  },
+  "eval_seeded348_v1-0241": {
+   "candidate_side": "A",
+   "candidate_key": "pronunciation/noun"
+  },
+  "eval_seeded348_v1-0242": {
+   "candidate_side": "B",
+   "candidate_key": "prop/noun"
+  },
+  "eval_seeded348_v1-0243": {
+   "candidate_side": "B",
+   "candidate_key": "proper/adj"
+  },
+  "eval_seeded348_v1-0244": {
+   "candidate_side": "B",
+   "candidate_key": "prosecution/noun"
+  },
+  "eval_seeded348_v1-0245": {
+   "candidate_side": "B",
+   "candidate_key": "provoke/verb"
+  },
+  "eval_seeded348_v1-0246": {
+   "candidate_side": "A",
+   "candidate_key": "quantum/noun"
+  },
+  "eval_seeded348_v1-0247": {
+   "candidate_side": "B",
+   "candidate_key": "quickly/adv"
+  },
+  "eval_seeded348_v1-0248": {
+   "candidate_side": "B",
+   "candidate_key": "quit/verb"
+  },
+  "eval_seeded348_v1-0249": {
+   "candidate_side": "B",
+   "candidate_key": "racing/noun"
+  },
+  "eval_seeded348_v1-0250": {
+   "candidate_side": "A",
+   "candidate_key": "radiation/noun"
+  },
+  "eval_seeded348_v1-0251": {
+   "candidate_side": "A",
+   "candidate_key": "rate/noun"
+  },
+  "eval_seeded348_v1-0252": {
+   "candidate_side": "A",
+   "candidate_key": "rebuild/verb"
+  },
+  "eval_seeded348_v1-0253": {
+   "candidate_side": "B",
+   "candidate_key": "referendum/noun"
+  },
+  "eval_seeded348_v1-0254": {
+   "candidate_side": "A",
+   "candidate_key": "reign/verb"
+  },
+  "eval_seeded348_v1-0255": {
+   "candidate_side": "A",
+   "candidate_key": "reliance/noun"
+  },
+  "eval_seeded348_v1-0256": {
+   "candidate_side": "B",
+   "candidate_key": "reluctant/adj"
+  },
+  "eval_seeded348_v1-0257": {
+   "candidate_side": "A",
+   "candidate_key": "reluctantly/adv"
+  },
+  "eval_seeded348_v1-0258": {
+   "candidate_side": "B",
+   "candidate_key": "remind/verb"
+  },
+  "eval_seeded348_v1-0259": {
+   "candidate_side": "A",
+   "candidate_key": "renewal/noun"
+  },
+  "eval_seeded348_v1-0260": {
+   "candidate_side": "B",
+   "candidate_key": "reporter/noun"
+  },
+  "eval_seeded348_v1-0261": {
+   "candidate_side": "B",
+   "candidate_key": "resident/adj"
+  },
+  "eval_seeded348_v1-0262": {
+   "candidate_side": "A",
+   "candidate_key": "restrain/verb"
+  },
+  "eval_seeded348_v1-0263": {
+   "candidate_side": "B",
+   "candidate_key": "resume/verb"
+  },
+  "eval_seeded348_v1-0264": {
+   "candidate_side": "A",
+   "candidate_key": "retirement/noun"
+  },
+  "eval_seeded348_v1-0265": {
+   "candidate_side": "B",
+   "candidate_key": "return/noun"
+  },
+  "eval_seeded348_v1-0266": {
+   "candidate_side": "B",
+   "candidate_key": "reverberate/verb"
+  },
+  "eval_seeded348_v1-0267": {
+   "candidate_side": "B",
+   "candidate_key": "round/adv"
+  },
+  "eval_seeded348_v1-0268": {
+   "candidate_side": "A",
+   "candidate_key": "ruin/verb"
+  },
+  "eval_seeded348_v1-0269": {
+   "candidate_side": "B",
+   "candidate_key": "rural/adj"
+  },
+  "eval_seeded348_v1-0270": {
+   "candidate_side": "B",
+   "candidate_key": "sack/verb"
+  },
+  "eval_seeded348_v1-0271": {
+   "candidate_side": "A",
+   "candidate_key": "season/noun"
+  },
+  "eval_seeded348_v1-0272": {
+   "candidate_side": "A",
+   "candidate_key": "sensitive/adj"
+  },
+  "eval_seeded348_v1-0273": {
+   "candidate_side": "A",
+   "candidate_key": "settler/noun"
+  },
+  "eval_seeded348_v1-0274": {
+   "candidate_side": "B",
+   "candidate_key": "similarly/adv"
+  },
+  "eval_seeded348_v1-0275": {
+   "candidate_side": "B",
+   "candidate_key": "since/conj"
+  },
+  "eval_seeded348_v1-0276": {
+   "candidate_side": "A",
+   "candidate_key": "since/prep"
+  },
+  "eval_seeded348_v1-0277": {
+   "candidate_side": "B",
+   "candidate_key": "singular/adj"
+  },
+  "eval_seeded348_v1-0278": {
+   "candidate_side": "A",
+   "candidate_key": "sister/noun"
+  },
+  "eval_seeded348_v1-0279": {
+   "candidate_side": "B",
+   "candidate_key": "skipper/noun"
+  },
+  "eval_seeded348_v1-0280": {
+   "candidate_side": "B",
+   "candidate_key": "slash/verb"
+  },
+  "eval_seeded348_v1-0281": {
+   "candidate_side": "B",
+   "candidate_key": "smile/verb"
+  },
+  "eval_seeded348_v1-0282": {
+   "candidate_side": "A",
+   "candidate_key": "soap/noun"
+  },
+  "eval_seeded348_v1-0283": {
+   "candidate_side": "A",
+   "candidate_key": "spectacular/adj"
+  },
+  "eval_seeded348_v1-0284": {
+   "candidate_side": "A",
+   "candidate_key": "spell/noun"
+  },
+  "eval_seeded348_v1-0285": {
+   "candidate_side": "B",
+   "candidate_key": "spell/verb"
+  },
+  "eval_seeded348_v1-0286": {
+   "candidate_side": "B",
+   "candidate_key": "splendid/adj"
+  },
+  "eval_seeded348_v1-0287": {
+   "candidate_side": "A",
+   "candidate_key": "sponge/noun"
+  },
+  "eval_seeded348_v1-0288": {
+   "candidate_side": "A",
+   "candidate_key": "squeeze/noun"
+  },
+  "eval_seeded348_v1-0289": {
+   "candidate_side": "A",
+   "candidate_key": "stab/verb"
+  },
+  "eval_seeded348_v1-0290": {
+   "candidate_side": "A",
+   "candidate_key": "statement/noun"
+  },
+  "eval_seeded348_v1-0291": {
+   "candidate_side": "A",
+   "candidate_key": "stem/verb"
+  },
+  "eval_seeded348_v1-0292": {
+   "candidate_side": "B",
+   "candidate_key": "stocking/noun"
+  },
+  "eval_seeded348_v1-0293": {
+   "candidate_side": "B",
+   "candidate_key": "stranger/noun"
+  },
+  "eval_seeded348_v1-0294": {
+   "candidate_side": "B",
+   "candidate_key": "stream/noun"
+  },
+  "eval_seeded348_v1-0295": {
+   "candidate_side": "B",
+   "candidate_key": "study/verb"
+  },
+  "eval_seeded348_v1-0296": {
+   "candidate_side": "B",
+   "candidate_key": "subject/noun"
+  },
+  "eval_seeded348_v1-0297": {
+   "candidate_side": "A",
+   "candidate_key": "subscriber/noun"
+  },
+  "eval_seeded348_v1-0298": {
+   "candidate_side": "B",
+   "candidate_key": "subsequent/adj"
+  },
+  "eval_seeded348_v1-0299": {
+   "candidate_side": "A",
+   "candidate_key": "sunlight/noun"
+  },
+  "eval_seeded348_v1-0300": {
+   "candidate_side": "B",
+   "candidate_key": "swallow/noun"
+  },
+  "eval_seeded348_v1-0301": {
+   "candidate_side": "A",
+   "candidate_key": "sweat/verb"
+  },
+  "eval_seeded348_v1-0302": {
+   "candidate_side": "A",
+   "candidate_key": "tackle/verb"
+  },
+  "eval_seeded348_v1-0303": {
+   "candidate_side": "B",
+   "candidate_key": "tap/verb"
+  },
+  "eval_seeded348_v1-0304": {
+   "candidate_side": "A",
+   "candidate_key": "telescope/noun"
+  },
+  "eval_seeded348_v1-0305": {
+   "candidate_side": "B",
+   "candidate_key": "tense/adj"
+  },
+  "eval_seeded348_v1-0306": {
+   "candidate_side": "B",
+   "candidate_key": "terrace/noun"
+  },
+  "eval_seeded348_v1-0307": {
+   "candidate_side": "B",
+   "candidate_key": "terrible/adj"
+  },
+  "eval_seeded348_v1-0308": {
+   "candidate_side": "A",
+   "candidate_key": "than/conj"
+  },
+  "eval_seeded348_v1-0309": {
+   "candidate_side": "A",
+   "candidate_key": "thereupon/adv"
+  },
+  "eval_seeded348_v1-0310": {
+   "candidate_side": "B",
+   "candidate_key": "thinking/noun"
+  },
+  "eval_seeded348_v1-0311": {
+   "candidate_side": "A",
+   "candidate_key": "this/det"
+  },
+  "eval_seeded348_v1-0312": {
+   "candidate_side": "B",
+   "candidate_key": "threshold/noun"
+  },
+  "eval_seeded348_v1-0313": {
+   "candidate_side": "B",
+   "candidate_key": "through/adv"
+  },
+  "eval_seeded348_v1-0314": {
+   "candidate_side": "B",
+   "candidate_key": "tire/noun"
+  },
+  "eval_seeded348_v1-0315": {
+   "candidate_side": "B",
+   "candidate_key": "toss/verb"
+  },
+  "eval_seeded348_v1-0316": {
+   "candidate_side": "A",
+   "candidate_key": "tractor/noun"
+  },
+  "eval_seeded348_v1-0317": {
+   "candidate_side": "B",
+   "candidate_key": "trainer/noun"
+  },
+  "eval_seeded348_v1-0318": {
+   "candidate_side": "A",
+   "candidate_key": "transact/verb"
+  },
+  "eval_seeded348_v1-0319": {
+   "candidate_side": "A",
+   "candidate_key": "translate/verb"
+  },
+  "eval_seeded348_v1-0320": {
+   "candidate_side": "A",
+   "candidate_key": "trolley/noun"
+  },
+  "eval_seeded348_v1-0321": {
+   "candidate_side": "A",
+   "candidate_key": "true/adj"
+  },
+  "eval_seeded348_v1-0322": {
+   "candidate_side": "B",
+   "candidate_key": "tune/noun"
+  },
+  "eval_seeded348_v1-0323": {
+   "candidate_side": "A",
+   "candidate_key": "uncertainty/noun"
+  },
+  "eval_seeded348_v1-0324": {
+   "candidate_side": "B",
+   "candidate_key": "underlying/adj"
+  },
+  "eval_seeded348_v1-0325": {
+   "candidate_side": "A",
+   "candidate_key": "underwear/noun"
+  },
+  "eval_seeded348_v1-0326": {
+   "candidate_side": "A",
+   "candidate_key": "unduly/adv"
+  },
+  "eval_seeded348_v1-0327": {
+   "candidate_side": "A",
+   "candidate_key": "uniform/noun"
+  },
+  "eval_seeded348_v1-0328": {
+   "candidate_side": "B",
+   "candidate_key": "unite/verb"
+  },
+  "eval_seeded348_v1-0329": {
+   "candidate_side": "A",
+   "candidate_key": "universe/noun"
+  },
+  "eval_seeded348_v1-0330": {
+   "candidate_side": "A",
+   "candidate_key": "until/prep"
+  },
+  "eval_seeded348_v1-0331": {
+   "candidate_side": "B",
+   "candidate_key": "unveil/verb"
+  },
+  "eval_seeded348_v1-0332": {
+   "candidate_side": "B",
+   "candidate_key": "utter/adj"
+  },
+  "eval_seeded348_v1-0333": {
+   "candidate_side": "B",
+   "candidate_key": "vast/adj"
+  },
+  "eval_seeded348_v1-0334": {
+   "candidate_side": "A",
+   "candidate_key": "via/prep"
+  },
+  "eval_seeded348_v1-0335": {
+   "candidate_side": "B",
+   "candidate_key": "violin/noun"
+  },
+  "eval_seeded348_v1-0336": {
+   "candidate_side": "B",
+   "candidate_key": "web/noun"
+  },
+  "eval_seeded348_v1-0337": {
+   "candidate_side": "B",
+   "candidate_key": "weigh/verb"
+  },
+  "eval_seeded348_v1-0338": {
+   "candidate_side": "B",
+   "candidate_key": "well/adv"
+  },
+  "eval_seeded348_v1-0339": {
+   "candidate_side": "B",
+   "candidate_key": "when/adv"
+  },
+  "eval_seeded348_v1-0340": {
+   "candidate_side": "A",
+   "candidate_key": "whilst/conj"
+  },
+  "eval_seeded348_v1-0341": {
+   "candidate_side": "A",
+   "candidate_key": "whisper/verb"
+  },
+  "eval_seeded348_v1-0342": {
+   "candidate_side": "A",
+   "candidate_key": "whole/noun"
+  },
+  "eval_seeded348_v1-0343": {
+   "candidate_side": "B",
+   "candidate_key": "width/noun"
+  },
+  "eval_seeded348_v1-0344": {
+   "candidate_side": "A",
+   "candidate_key": "wisdom/noun"
+  },
+  "eval_seeded348_v1-0345": {
+   "candidate_side": "A",
+   "candidate_key": "wooden/adj"
+  },
+  "eval_seeded348_v1-0346": {
+   "candidate_side": "A",
+   "candidate_key": "wound/verb"
+  },
+  "eval_seeded348_v1-0347": {
+   "candidate_side": "B",
+   "candidate_key": "yet/conj"
+  },
+  "eval_seeded348_v1-0348": {
+   "candidate_side": "B",
+   "candidate_key": "your/pron"
+  }
+ }
+}

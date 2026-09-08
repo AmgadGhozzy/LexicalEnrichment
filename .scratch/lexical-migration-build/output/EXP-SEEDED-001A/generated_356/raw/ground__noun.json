@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "ground",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "ground",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The solid surface of the earth.",
+  "explanation_ar": "السطح الصلب للأرض الذي نمشي أو نقف عليه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The solid surface of the earth.",
+    "definition_ar": "السطح الصلب للأرض.",
+    "examples": [
+     "He sat on the ground.",
+     "The ground was wet after the rain.",
+     "He dropped his keys on the ground."
+    ]
+   }
+  ],
+  "examples": [
+   "He sat on the ground.",
+   "The ground was wet after the rain.",
+   "He dropped his keys on the ground."
+  ],
+  "translations": [
+   "أرض",
+   "سطح الأرض"
+  ],
+  "relations": {
+   "synonyms": [
+    "earth",
+    "soil",
+    "land",
+    "surface"
+   ],
+   "antonyms": [
+    "sky",
+    "air"
+   ],
+   "collocations": [
+    "on the ground",
+    "fall to the ground",
+    "hit the ground",
+    "above the ground",
+    "ground floor"
+   ]
+  },
+  "mnemonic": "كلمة 'Ground' قريبة من 'Round'.. الأرض اللي بنمشي عليها جزء من كوكب 'Round' (مدوّر).",
+  "phonetic_us": "ɡraʊnd",
+  "phonetic_uk": "ɡraʊnd",
+  "syllables": [
+   "ground"
+  ],
+  "semantic_tags": [
+   "#Nature",
+   "#Place",
+   "#Surface"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The solid surface of the earth.",
+  "explanation_ar": "السطح الصلب للأرض الذي نمشي أو نقف عليه.",
+  "examples": [
+   "He sat on the ground.",
+   "The ground was wet after the rain.",
+   "He dropped his keys on the ground."
+  ],
+  "translations": {
+   "arabic_ar": "أرض سطح الأرض"
+  },
+  "synonyms": [
+   "earth",
+   "soil",
+   "land",
+   "surface"
+  ],
+  "antonyms": [
+   "sky",
+   "air"
+  ],
+  "collocations": [
+   "on the ground",
+   "fall to the ground",
+   "hit the ground",
+   "above the ground",
+   "ground floor"
+  ],
+  "mnemonic_ar": "كلمة 'Ground' قريبة من 'Round'.. الأرض اللي بنمشي عليها جزء من كوكب 'Round' (مدوّر)."
+ }
+}

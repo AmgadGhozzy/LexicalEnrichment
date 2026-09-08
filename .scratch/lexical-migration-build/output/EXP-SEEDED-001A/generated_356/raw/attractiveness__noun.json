@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "attractiveness",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "attractiveness",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The quality of being pleasing, appealing, or beautiful.",
+  "explanation_ar": "الجاذبية والجمال.. إن الحاجة تكون حلوة وتشد الناس ليها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The quality of being pleasing, appealing, or beautiful.",
+    "definition_ar": "الجاذبية والجمال.. إن الحاجة تكون حلوة وتشد الناس ليها.",
+    "examples": [
+     "The low price increased the attractiveness of the deal.",
+     "The attractiveness of the investment lies in its low risk.",
+     "Studies show a bias toward physical attractiveness in hiring."
+    ]
+   }
+  ],
+  "examples": [
+   "The low price increased the attractiveness of the deal.",
+   "The attractiveness of the investment lies in its low risk.",
+   "Studies show a bias toward physical attractiveness in hiring."
+  ],
+  "translations": [
+   "جاذبية"
+  ],
+  "relations": {
+   "synonyms": [
+    "appeal",
+    "beauty",
+    "charm",
+    "allure"
+   ],
+   "antonyms": [
+    "repulsiveness",
+    "ugliness"
+   ],
+   "collocations": [
+    "physical attractiveness",
+    "sexual attractiveness",
+    "enhance attractiveness",
+    "lack of attractiveness"
+   ]
+  },
+  "mnemonic": "جاية من 'Attract' 'يجذب'.. قدرة الشخص أو الشيء إنه يشدك ليه.",
+  "phonetic_us": "əˈtræktɪvnəs",
+  "phonetic_uk": "əˈtræktɪvnəs",
+  "syllables": "at•trac•tive•ness",
+  "semantic_tags": [
+   "#Beauty",
+   "#Appeal",
+   "#Charm"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The quality of being pleasing, appealing, or beautiful.",
+  "explanation_ar": "الجاذبية والجمال.. إن الحاجة تكون حلوة وتشد الناس ليها.",
+  "examples": [
+   "The low price increased the attractiveness of the deal.",
+   "The attractiveness of the investment lies in its low risk.",
+   "Studies show a bias toward physical attractiveness in hiring."
+  ],
+  "translations": {
+   "arabic_ar": "جاذبية"
+  },
+  "synonyms": [
+   "appeal",
+   "beauty",
+   "charm",
+   "allure"
+  ],
+  "antonyms": [
+   "repulsiveness",
+   "ugliness"
+  ],
+  "collocations": [
+   "physical attractiveness",
+   "sexual attractiveness",
+   "enhance attractiveness",
+   "lack of attractiveness"
+  ],
+  "mnemonic_ar": "جاية من 'Attract' 'يجذب'.. قدرة الشخص أو الشيء إنه يشدك ليه."
+ }
+}

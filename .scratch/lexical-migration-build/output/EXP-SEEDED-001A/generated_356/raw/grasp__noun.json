@@ -1,0 +1,118 @@
+{
+ "identity": {
+  "lemma": "grasp",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "grasp",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A firm hold or grip; a comprehensive mental understanding of something.",
+  "explanation_ar": "إما مسكة أو قبضة قوية باليد، وإما فهم واستيعاب كامل لموضوع معين.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A firm hold or grip with the hands.",
+    "definition_ar": "قبضة محكمة أو مسكة قوية باليد.",
+    "examples": [
+     "He kept a firm grasp on the railing as the boat rocked."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "A complete understanding or mastery of a subject or concept.",
+    "definition_ar": "استيعاب وفهم عميق لمسألة أو فكرة معينة.",
+    "examples": [
+     "She has an excellent grasp of complex financial concepts."
+    ]
+   },
+   {
+    "sense_number": 3,
+    "definition_en": "The limit of one's ability to achieve or control something.",
+    "definition_ar": "القدرة أو الإمكانية على نيل أو تحقيق شيء (في المتناول).",
+    "examples": [
+     "Victory is finally within our grasp after months of preparation."
+    ]
+   }
+  ],
+  "examples": [
+   "She has a good grasp of French grammar.",
+   "Victory is finally within our grasp after months of preparation.",
+   "He kept a firm grasp on the railing as the boat rocked."
+  ],
+  "translations": [
+   "قبضة",
+   "مسكة",
+   "فهم",
+   "استيعاب"
+  ],
+  "relations": {
+   "synonyms": [
+    "grip",
+    "hold",
+    "understanding",
+    "comprehension",
+    "mastery"
+   ],
+   "antonyms": [
+    "ignorance",
+    "release",
+    "incomprehension"
+   ],
+   "collocations": [
+    "firm grasp",
+    "good grasp",
+    "within grasp",
+    "grasp of reality"
+   ],
+   "word_family": {
+    "noun": "grasp",
+    "verb": "grasp",
+    "adjective": "grasping"
+   }
+  },
+  "mnemonic": "افتكر 'Grab' (يمسك).. الـ 'Grasp' هي المسكة القوية بإيدك، أو إنك تمسك الفكرة بعقلك وتفهمها كويس.",
+  "phonetic_us": "ɡɹæsp",
+  "phonetic_uk": "ɡrɑːsp",
+  "syllables": "grasp",
+  "semantic_tags": [
+   "#Knowledge",
+   "#Mind",
+   "#Action",
+   "#Power"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A firm hold or grip; a comprehensive mental understanding of something.",
+  "explanation_ar": "إما مسكة أو قبضة قوية باليد، وإما فهم واستيعاب كامل لموضوع معين.",
+  "examples": [
+   "She has a good grasp of French grammar.",
+   "Victory is finally within our grasp after months of preparation.",
+   "He kept a firm grasp on the railing as the boat rocked."
+  ],
+  "translations": {
+   "arabic_ar": "قبضة مسكة فهم استيعاب"
+  },
+  "synonyms": [
+   "grip",
+   "hold",
+   "understanding",
+   "comprehension",
+   "mastery"
+  ],
+  "antonyms": [
+   "ignorance",
+   "release",
+   "incomprehension"
+  ],
+  "collocations": [
+   "firm grasp",
+   "good grasp",
+   "within grasp",
+   "grasp of reality"
+  ],
+  "mnemonic_ar": "افتكر 'Grab' (يمسك).. الـ 'Grasp' هي المسكة القوية بإيدك، أو إنك تمسك الفكرة بعقلك وتفهمها كويس."
+ }
+}

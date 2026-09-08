@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "fetch",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "fetch",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To go for and then bring back someone or something.",
+  "explanation_ar": "تروح تجيب حاجة وترجع بيها. مشهورة جداً في اللعب مع الكلاب 'Go fetch'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To go for and then bring back someone or something.",
+    "definition_ar": "أن تذهب لإحضار شخص أو شيء ثم تعود به.",
+    "examples": [
+     "Can you fetch me a glass of water?",
+     "I have to go and fetch the kids from school.",
+     "She sent him to fetch the doctor immediately."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you fetch me a glass of water?",
+   "I have to go and fetch the kids from school.",
+   "She sent him to fetch the doctor immediately."
+  ],
+  "translations": [
+   "يجلب",
+   "يحضر"
+  ],
+  "relations": {
+   "synonyms": [
+    "retrieve",
+    "bring",
+    "get",
+    "collect"
+   ],
+   "antonyms": [
+    "leave"
+   ],
+   "collocations": [
+    "fetch water",
+    "go and fetch"
+   ]
+  },
+  "mnemonic": "ارمي الكورة للكلب وقوله 'Fetch'.. يعني 'هاتها'.",
+  "phonetic_us": "/fɛtʃ/",
+  "phonetic_uk": "/fetʃ/",
+  "syllables": [
+   "fetch"
+  ],
+  "semantic_tags": [
+   "#Movement",
+   "#Retrieval",
+   "#Actions"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To go for and then bring back someone or something.",
+  "explanation_ar": "تروح تجيب حاجة وترجع بيها. مشهورة جداً في اللعب مع الكلاب 'Go fetch'.",
+  "examples": [
+   "Can you fetch me a glass of water?",
+   "I have to go and fetch the kids from school.",
+   "She sent him to fetch the doctor immediately."
+  ],
+  "translations": {
+   "arabic_ar": "يجلب يحضر"
+  },
+  "synonyms": [
+   "retrieve",
+   "bring",
+   "get",
+   "collect"
+  ],
+  "antonyms": [
+   "leave"
+  ],
+  "collocations": [
+   "fetch water",
+   "go and fetch"
+  ],
+  "mnemonic_ar": "ارمي الكورة للكلب وقوله 'Fetch'.. يعني 'هاتها'."
+ }
+}

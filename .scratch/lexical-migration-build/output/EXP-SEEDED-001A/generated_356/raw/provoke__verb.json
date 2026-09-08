@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "provoke",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "provoke",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To deliberately make someone angry, or to stimulate or give rise to a particular reaction or emotion.",
+  "explanation_ar": "إنك تستفز شخص وتخليه يتعصب، أو تثير وتسبب رد فعل معين (زي إثارة نقاش أو غضب).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To deliberately make someone annoyed or angry.",
+    "definition_ar": "يستفز شخصاً عمداً ويثير غضبه.",
+    "examples": [
+     "Do not provoke the dog.",
+     "He tried to provoke me into a fight."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To stimulate or cause a particular reaction, feeling, or discussion.",
+    "definition_ar": "يثير أو يسبب رد فعل أو نقاشاً.",
+    "examples": [
+     "The article was written to provoke discussion."
+    ]
+   }
+  ],
+  "examples": [
+   "Do not provoke the dog.",
+   "He tried to provoke me into a fight.",
+   "The article was written to provoke discussion."
+  ],
+  "translations": [
+   "يستفز",
+   "يثير"
+  ],
+  "relations": {
+   "synonyms": [
+    "arouse",
+    "incite",
+    "instigate",
+    "trigger",
+    "spark"
+   ],
+   "antonyms": [
+    "calm",
+    "soothe",
+    "appease"
+   ],
+   "collocations": [
+    "provoke anger",
+    "provoke a reaction",
+    "provoke discussion",
+    "provoke outrage"
+   ],
+   "word_family": {
+    "verb": "provoke",
+    "noun": "provocation",
+    "adjective": "provocative",
+    "adverb": "provocatively"
+   }
+  },
+  "mnemonic": "كلمة 'Provoke' قريبة من 'Volcano' 'بركان'.. لما تعمل 'Provoke' لحد بتخليه ينفجر زي البركان.",
+  "phonetic_us": "prəˈvoʊk",
+  "phonetic_uk": "prəˈvəʊk",
+  "syllables": "pro•voke",
+  "semantic_tags": [
+   "#Conflict",
+   "#Emotion",
+   "#Reaction"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "To deliberately make someone angry, or to stimulate or give rise to a particular reaction or emotion.",
+  "explanation_ar": "إنك تستفز شخص وتخليه يتعصب، أو تثير وتسبب رد فعل معين (زي إثارة نقاش أو غضب).",
+  "examples": [
+   "Do not provoke the dog.",
+   "He tried to provoke me into a fight.",
+   "The article was written to provoke discussion."
+  ],
+  "translations": {
+   "arabic_ar": "يستفز يثير"
+  },
+  "synonyms": [
+   "arouse",
+   "incite",
+   "instigate",
+   "trigger",
+   "spark"
+  ],
+  "antonyms": [
+   "calm",
+   "soothe",
+   "appease"
+  ],
+  "collocations": [
+   "provoke anger",
+   "provoke a reaction",
+   "provoke discussion",
+   "provoke outrage"
+  ],
+  "mnemonic_ar": "كلمة 'Provoke' قريبة من 'Volcano' 'بركان'.. لما تعمل 'Provoke' لحد بتخليه ينفجر زي البركان."
+ }
+}

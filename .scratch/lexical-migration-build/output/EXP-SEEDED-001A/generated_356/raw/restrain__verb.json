@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "restrain",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "restrain",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To keep someone or something under control or prevent them from doing something.",
+  "explanation_ar": "إنك تمنع حد أو حاجة من الحركة بالقوة، أو تكبح جماح مشاعرك وتسيطر عليها.",
+  "senses": [
+   {
+    "definition_en": "To physically prevent someone or something from moving or acting freely.",
+    "explanation_ar": "أن تمنع شخصاً أو شيئاً من الحركة أو التصرف بالقوة.",
+    "examples": [
+     "Police had to restrain the crowd."
+    ]
+   },
+   {
+    "definition_en": "To control or hold back an emotion, impulse, or rate of increase.",
+    "explanation_ar": "أن تكبح مشاعرك وانفعالاتك أو تمنع زيادة شيء وتسيطر عليه.",
+    "examples": [
+     "He couldn't restrain his anger.",
+     "The government took measures to restrain inflation."
+    ]
+   }
+  ],
+  "examples": [
+   "Police had to restrain the crowd.",
+   "He couldn't restrain his anger.",
+   "The government took measures to restrain inflation."
+  ],
+  "translations": [
+   "يكبح",
+   "يقيّد",
+   "يمنع",
+   "يضبط"
+  ],
+  "relations": {
+   "synonyms": [
+    "hold back",
+    "control",
+    "confine"
+   ],
+   "antonyms": [
+    "release",
+    "liberate",
+    "free"
+   ],
+   "collocations": [
+    "restrain yourself",
+    "physically restrain",
+    "restrain inflation"
+   ]
+  },
+  "mnemonic": "قريبة من 'Strain' يعني شد.. لما تعمل 'Restrain' لحد، إنت بتشده لورا وتمنعه.",
+  "phonetic_us": "rɪˈstreɪn",
+  "phonetic_uk": "rɪsˈtreɪn",
+  "syllables": "re•strain",
+  "semantic_tags": [
+   "#Control",
+   "#Stop",
+   "#Police",
+   "#Limit"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To keep someone or something under control or prevent them from doing something.",
+  "explanation_ar": "إنك تمنع حد أو حاجة من الحركة بالقوة، أو تكبح جماح مشاعرك وتسيطر عليها.",
+  "examples": [
+   "Police had to restrain the crowd.",
+   "He couldn't restrain his anger.",
+   "The government took measures to restrain inflation."
+  ],
+  "translations": {
+   "arabic_ar": "يكبح يقيّد يمنع يضبط"
+  },
+  "synonyms": [
+   "hold back",
+   "control",
+   "confine"
+  ],
+  "antonyms": [
+   "release",
+   "liberate",
+   "free"
+  ],
+  "collocations": [
+   "restrain yourself",
+   "physically restrain",
+   "restrain inflation"
+  ],
+  "mnemonic_ar": "قريبة من 'Strain' يعني شد.. لما تعمل 'Restrain' لحد، إنت بتشده لورا وتمنعه."
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "photography",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "photography",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The art, practice, or job of taking and processing photographs.",
+  "explanation_ar": "فن أو هواية أو مهنة التقاط الصور ومعالجتها باستخدام الكاميرا.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The art, practice, or job of taking and processing photographs.",
+    "explanation_ar": "فن أو هواية أو مهنة التقاط الصور ومعالجتها باستخدام الكاميرا.",
+    "examples": [
+     "She studies photography at school.",
+     "Digital photography is very popular now.",
+     "He wants to pursue a career in fashion photography."
+    ]
+   }
+  ],
+  "examples": [
+   "She studies photography at school.",
+   "Digital photography is very popular now.",
+   "He wants to pursue a career in fashion photography."
+  ],
+  "translations": [
+   "التصوير الفوتوغرافي",
+   "التصوير"
+  ],
+  "relations": {
+   "synonyms": [
+    "camerawork",
+    "picture taking"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "digital photography",
+    "portrait photography",
+    "photography studio",
+    "director of photography"
+   ],
+   "related_words": [
+    "camera",
+    "lens",
+    "image",
+    "photographer",
+    "photograph"
+   ],
+   "word_family": {
+    "noun": "photography",
+    "verb": "photograph",
+    "adj": "photographic",
+    "adv": "photographically"
+   }
+  },
+  "mnemonic": "كلمة Photography أصلها يوناني: Photo تعني 'ضوء' و Graph تعني 'رسم' أو 'كتابة'؛ أي الرسم بالضوء لإنتاج الصورة.",
+  "phonetic_us": "fəˈtɑːɡrəfi",
+  "phonetic_uk": "fəˈtɒɡrəfi",
+  "syllables": "pho•tog•ra•phy",
+  "semantic_tags": [
+   "#Art",
+   "#Camera",
+   "#Hobby",
+   "#Media"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The art, practice, or job of taking and processing photographs.",
+  "explanation_ar": "فن أو هواية أو مهنة التقاط الصور ومعالجتها باستخدام الكاميرا.",
+  "examples": [
+   "She studies photography at school.",
+   "Digital photography is very popular now.",
+   "He wants to pursue a career in fashion photography."
+  ],
+  "translations": {
+   "arabic_ar": "التصوير الفوتوغرافي التصوير"
+  },
+  "synonyms": [
+   "camerawork",
+   "picture taking"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "digital photography",
+   "portrait photography",
+   "photography studio",
+   "director of photography"
+  ],
+  "mnemonic_ar": "كلمة Photography أصلها يوناني: Photo تعني 'ضوء' و Graph تعني 'رسم' أو 'كتابة'؛ أي الرسم بالضوء لإنتاج الصورة."
+ }
+}

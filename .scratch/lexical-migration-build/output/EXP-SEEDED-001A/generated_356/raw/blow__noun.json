@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "blow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "blow",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A hard hit with a hand or weapon, or an unexpected event that causes shock and misfortune.",
+  "explanation_ar": "خبطة قوية بالإيد أو بأداة، وممكن تيجي بمعنى مصيبة أو صدمة مفاجئة.",
+  "senses": [
+   {
+    "definition_en": "A hard hit with a hand, weapon, or other object.",
+    "definition_ar": "ضربة قوية باليد أو بأداة",
+    "examples": [
+     "It was a heavy blow to his head."
+    ]
+   },
+   {
+    "definition_en": "A sudden disappointment, setback, or shock.",
+    "definition_ar": "صدمة مفاجئة أو مصيبة أو نكسة غير متوقعة",
+    "examples": [
+     "Losing his job was a severe blow.",
+     "The news dealt a crushing blow to their hopes."
+    ]
+   }
+  ],
+  "examples": [
+   "It was a heavy blow to his head.",
+   "Losing his job was a severe blow.",
+   "The news dealt a crushing blow to their hopes."
+  ],
+  "translations": [
+   "ضربة",
+   "صدمة",
+   "نكسة"
+  ],
+  "relations": {
+   "synonyms": [
+    "hit",
+    "strike",
+    "shock",
+    "setback",
+    "impact"
+   ],
+   "antonyms": [
+    "relief",
+    "blessing",
+    "boon"
+   ],
+   "collocations": [
+    "heavy blow",
+    "crushing blow",
+    "deal a blow",
+    "soften the blow"
+   ]
+  },
+  "mnemonic": "افتكر لما 'Blue' 'أزرق'.. لما تاخد 'Blow' قوية جسمك بيزرق.",
+  "phonetic_us": "bloʊ",
+  "phonetic_uk": "bləʊ",
+  "syllables": "blow",
+  "semantic_tags": [
+   "#Conflict",
+   "#Injury",
+   "#Disaster"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A hard hit with a hand or weapon, or an unexpected event that causes shock and misfortune.",
+  "explanation_ar": "خبطة قوية بالإيد أو بأداة، وممكن تيجي بمعنى مصيبة أو صدمة مفاجئة.",
+  "examples": [
+   "It was a heavy blow to his head.",
+   "Losing his job was a severe blow.",
+   "The news dealt a crushing blow to their hopes."
+  ],
+  "translations": {
+   "arabic_ar": "ضربة صدمة نكسة"
+  },
+  "synonyms": [
+   "hit",
+   "strike",
+   "shock",
+   "setback",
+   "impact"
+  ],
+  "antonyms": [
+   "relief",
+   "blessing",
+   "boon"
+  ],
+  "collocations": [
+   "heavy blow",
+   "crushing blow",
+   "deal a blow",
+   "soften the blow"
+  ],
+  "mnemonic_ar": "افتكر لما 'Blue' 'أزرق'.. لما تاخد 'Blow' قوية جسمك بيزرق."
+ }
+}

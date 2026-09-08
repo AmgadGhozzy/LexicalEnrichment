@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3438",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3438",
+  "lemma": "devil",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3438,
+  "lemma": "devil",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈdɛv.əl",
+  "phonetic_uk": null,
+  "phonetic_ar": "دِفِل",
+  "definition_en": "A powerful evil spirit or being, especially the supreme enemy of God in religious belief.",
+  "explanation_ar": "كائن شرير خارق، ويشير تحديدا إلى إبليس أو الشيطان الأكبر العدو لله في المعتقدات الدينية، كما يطلق مجازا على الشخص الشرير أو الماكر.",
+  "examples": [
+   {
+    "example_text": "He decided to play devil advocate during the meeting to test the strength of our proposal.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "In many folklore traditions, the devil appears in disguise to tempt ordinary people.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She was caught between the devil and the deep blue sea, facing two equally terrible choices.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"evil\" التي تعني الشر وأضف حرف d في البداية ليعطيك \"devil\" أي رأس الشر والشيطان.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The most powerful evil spirit opposing God, or any harmful supernatural evil being.",
+    "short_def_en": "supreme evil spirit",
+    "definition_ar": "إبليس أو الشيطان، الكائن الشرير الأكبر في المعتقد الديني.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "religion",
+     "belief",
+     "folklore"
+    ],
+    "usage_note": "Often capitalized as 'the Devil' when referring to the supreme figure in Christianity or Islam.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A person who is exceptionally wicked, cruel, cunning, or mischievous.",
+    "short_def_en": "wicked or mischievous person",
+    "definition_ar": "شخص شديد القسوة والشر، أو شخص ماكر ومشاغب.",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "personality",
+     "behavior",
+     "informal"
+    ],
+    "usage_note": "Can be used playfully (e.g., 'a cheeky devil') or pejoratively.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "speak of the devil",
+   "play devil's advocate",
+   "between the devil and the deep blue sea",
+   "the devil is in the details",
+   "poor devil"
+  ],
+  "synonyms": [
+   "Satan",
+   "fiend",
+   "demon",
+   "Lucifer"
+  ],
+  "antonyms": [
+   "angel",
+   "saint"
+  ],
+  "related_words": {
+   "en": [
+    "evil",
+    "hell",
+    "temptation",
+    "sin",
+    "malice"
+   ],
+   "ar": [
+    "شر",
+    "جحيم",
+    "إغواء",
+    "خطيئة",
+    "خبث"
+   ]
+  },
+  "word_family": {
+   "noun": "devil",
+   "verb": "devil",
+   "adj": "devilish",
+   "adv": "devilishly"
+  },
+  "translations": {
+   "arabic_ar": "شيطان / إبليس",
+   "french_fr": "diable",
+   "german_de": "Teufel",
+   "spanish_es": "diablo",
+   "chinese_zh": "魔鬼 (Móguǐ)",
+   "russian_ru": "дьявол",
+   "portuguese_pt": "diabo",
+   "japanese_ja": "悪魔 (Akuma)",
+   "italian_it": "diavolo",
+   "turkish_tr": "şeytan"
+  }
+ },
+ "provenance": {
+  "output_hash": "83b968cefdd8d6406590fb77e7d10614a4da205bf08e9a93ed44910e4a39226c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "cefr": "A2",
+  "lemma": "since",
+  "pos": "prep"
+ },
+ "candidate": {
+  "lemma": "since",
+  "pos": "prep",
+  "cefr": "A2",
+  "definition_en": "In the period after a specified time in the past.",
+  "explanation_ar": "من وقت معين في الماضي ومستمر لحد دلوقتي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "prep",
+    "definition_en": "From a particular time or event in the past until now or until another time in the past.",
+    "definition_ar": "منذ / من وقت معين في الماضي وحتى الآن"
+   }
+  ],
+  "examples": [
+   "I have been here since Monday.",
+   "She has known him since childhood.",
+   "It has been raining since this morning."
+  ],
+  "translations": [
+   "منذ"
+  ],
+  "relations": {
+   "synonyms": [
+    "from",
+    "after"
+   ],
+   "antonyms": [
+    "until"
+   ],
+   "collocations": [
+    "since then",
+    "since yesterday",
+    "since childhood"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "sɪns",
+  "phonetic_uk": "sɪns",
+  "syllables": "since",
+  "semantic_tags": [
+   "#Time",
+   "#Start",
+   "#Duration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In the period after a specified time in the past.",
+  "explanation_ar": "من وقت معين في الماضي ومستمر لحد دلوقتي.",
+  "examples": [
+   "I have been here since Monday.",
+   "She has known him since childhood.",
+   "It has been raining since this morning."
+  ],
+  "translations": {
+   "arabic_ar": "منذ"
+  },
+  "synonyms": [
+   "from",
+   "after"
+  ],
+  "antonyms": [
+   "until"
+  ],
+  "collocations": [
+   "since then",
+   "since yesterday",
+   "since childhood"
+  ],
+  "mnemonic_ar": null
+ }
+}

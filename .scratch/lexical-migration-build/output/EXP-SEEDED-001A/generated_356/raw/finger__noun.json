@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "finger",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "finger",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "One of the five digits on the hand.",
+  "explanation_ar": "صباع الإيد.",
+  "senses": [
+   {
+    "definition_en": "One of the five digits on the hand.",
+    "explanation_ar": "إصبع اليد.",
+    "examples": [
+     "She pointed a finger at the door.",
+     "He cut his finger while cooking.",
+     "She wore a gold ring on her finger."
+    ]
+   }
+  ],
+  "examples": [
+   "She pointed a finger at the door.",
+   "He cut his finger while cooking.",
+   "She wore a gold ring on her finger."
+  ],
+  "translations": [
+   "إصبع",
+   "صباع"
+  ],
+  "relations": {
+   "synonyms": [
+    "digit"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "index finger",
+    "little finger",
+    "cross your fingers",
+    "finger food"
+   ]
+  },
+  "mnemonic": "كلمة 'Finger'.. زي 'Chicken Fingers' أصابع الفراخ.",
+  "phonetic_us": "ˈfɪŋgər",
+  "phonetic_uk": "ˈfɪŋgə",
+  "syllables": "fin•ger",
+  "semantic_tags": [
+   "#Body",
+   "#Hand",
+   "#Touch"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "One of the five digits on the hand.",
+  "explanation_ar": "صباع الإيد.",
+  "examples": [
+   "She pointed a finger at the door.",
+   "He cut his finger while cooking.",
+   "She wore a gold ring on her finger."
+  ],
+  "translations": {
+   "arabic_ar": "إصبع صباع"
+  },
+  "synonyms": [
+   "digit"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "index finger",
+   "little finger",
+   "cross your fingers",
+   "finger food"
+  ],
+  "mnemonic_ar": "كلمة 'Finger'.. زي 'Chicken Fingers' أصابع الفراخ."
+ }
+}

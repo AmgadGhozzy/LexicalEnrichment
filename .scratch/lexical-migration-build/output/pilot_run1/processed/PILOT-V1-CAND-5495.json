@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5495",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5495",
+  "lemma": "lethal",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5495,
+  "lemma": "lethal",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈliːθəl",
+  "phonetic_uk": null,
+  "phonetic_ar": "لِيثَل",
+  "definition_en": "Able to cause death; extremely dangerous or harmful.",
+  "explanation_ar": "يصف شيئا مميتا وقادرا على التسبب في الموت أو إلحاق ضرر مدمر للغاية.",
+  "examples": [
+   {
+    "example_text": "The snake venom carries a lethal dose of toxin that acts within minutes.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Police officers were trained to avoid the use of lethal force whenever possible.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Combining alcohol with these prescription sleeping pills can prove lethal.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الكلمة تبدأ بصوت يشبه ليل في الظلام الدامس الذي يرمز للنهاية والموت فكلمة \"lethal\" تعني مميت",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Able or sufficient to cause death.",
+    "short_def_en": "causing death",
+    "definition_ar": "قاتل او يسبب الموت المحقق",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "danger",
+     "death",
+     "medicine",
+     "weapons"
+    ],
+    "usage_note": "Frequently used with words like weapon, injection, dose, or force.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Extremely harmful, damaging, or disastrous in effect.",
+    "short_def_en": "extremely damaging",
+    "definition_ar": "مدمر للغاية او ذو اثر كارثي",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "destruction",
+     "impact",
+     "harm"
+    ],
+    "usage_note": "Used figuratively for actions, mistakes, or combinations that cause severe ruin.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "lethal weapon",
+   "lethal dose",
+   "lethal force",
+   "lethal injection",
+   "lethal combination"
+  ],
+  "synonyms": [
+   "deadly",
+   "fatal",
+   "mortal",
+   "destructive"
+  ],
+  "antonyms": [
+   "harmless",
+   "safe"
+  ],
+  "related_words": {
+   "en": [
+    "death",
+    "poison",
+    "fatal",
+    "toxic",
+    "casualty"
+   ],
+   "ar": [
+    "موت",
+    "سم",
+    "مهلك",
+    "سام",
+    "ضحية"
+   ]
+  },
+  "word_family": {
+   "noun": "lethality",
+   "verb": "",
+   "adj": "lethal",
+   "adv": "lethally"
+  },
+  "translations": {
+   "arabic_ar": "قاتل / مميت",
+   "french_fr": "létal",
+   "german_de": "tödlich",
+   "spanish_es": "letal",
+   "chinese_zh": "致命的 (Zhìmìng de)",
+   "russian_ru": "смертельный",
+   "portuguese_pt": "letal",
+   "japanese_ja": "致命的な (Chimeiteki na)",
+   "italian_it": "letale",
+   "turkish_tr": "ölümcül"
+  }
+ },
+ "provenance": {
+  "output_hash": "e17f008696991f1c194d250fc3c8a75cfaa553c3c90911b707489fc677286878",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

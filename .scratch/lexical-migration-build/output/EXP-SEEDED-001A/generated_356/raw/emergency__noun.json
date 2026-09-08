@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "emergency",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "emergency",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A serious, unexpected, and dangerous situation requiring immediate action.",
+  "explanation_ar": "حالة طارئة وخطيرة بتحصل فجأة ولازم نتصرف فيها بسرعة جداً، زي الحوادث أو الحريق.",
+  "senses": [
+   {
+    "definition_en": "A serious, unexpected, and dangerous situation requiring immediate action.",
+    "explanation_ar": "حالة طارئة وخطيرة تحدث فجأة وتتطلب تدخلاً سريعاً.",
+    "examples": [
+     "Call 911 in an emergency.",
+     "The pilot had to make an emergency landing.",
+     "The government declared a state of emergency."
+    ]
+   }
+  ],
+  "examples": [
+   "Call 911 in an emergency.",
+   "The pilot had to make an emergency landing.",
+   "The government declared a state of emergency."
+  ],
+  "translations": [
+   "حالة طوارئ",
+   "طوارئ"
+  ],
+  "relations": {
+   "synonyms": [
+    "crisis",
+    "urgency"
+   ],
+   "antonyms": [
+    "routine",
+    "normalcy"
+   ],
+   "collocations": [
+    "emergency room",
+    "emergency exit",
+    "state of emergency",
+    "emergency services"
+   ]
+  },
+  "mnemonic": "جاية من فعل 'Emerge' 'يظهر فجأة'.. الـ 'Emergency' هي المشكلة اللي بتظهر فجأة ومحتاجة حل.",
+  "phonetic_us": "ɪˈmɜːrdʒənsi",
+  "phonetic_uk": "ɪˈmɜːdʒənsi",
+  "syllables": "emer•gen•cy",
+  "semantic_tags": [
+   "#Danger",
+   "#Medical",
+   "#Safety",
+   "#Urgent"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A serious, unexpected, and dangerous situation requiring immediate action.",
+  "explanation_ar": "حالة طارئة وخطيرة بتحصل فجأة ولازم نتصرف فيها بسرعة جداً، زي الحوادث أو الحريق.",
+  "examples": [
+   "Call 911 in an emergency.",
+   "The pilot had to make an emergency landing.",
+   "The government declared a state of emergency."
+  ],
+  "translations": {
+   "arabic_ar": "حالة طوارئ طوارئ"
+  },
+  "synonyms": [
+   "crisis",
+   "urgency"
+  ],
+  "antonyms": [
+   "routine",
+   "normalcy"
+  ],
+  "collocations": [
+   "emergency room",
+   "emergency exit",
+   "state of emergency",
+   "emergency services"
+  ],
+  "mnemonic_ar": "جاية من فعل 'Emerge' 'يظهر فجأة'.. الـ 'Emergency' هي المشكلة اللي بتظهر فجأة ومحتاجة حل."
+ }
+}

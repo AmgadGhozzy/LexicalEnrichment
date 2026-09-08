@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "dry",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "dry",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To make something free from water or liquid.",
+  "explanation_ar": "إنك تنشف حاجة وتشيل منها المية.",
+  "senses": [
+   {
+    "sense_id": "dry_v_1",
+    "definition_en": "To make something free from water or liquid, or to become dry.",
+    "explanation_ar": "أن تُجفف شيئاً أو ينشف بإزالة الماء أو الرطوبة منه.",
+    "examples": [
+     "Dry your hands on the towel.",
+     "The sun will dry the clothes.",
+     "I need to dry my hair."
+    ]
+   }
+  ],
+  "examples": [
+   "Dry your hands on the towel.",
+   "The sun will dry the clothes.",
+   "I need to dry my hair."
+  ],
+  "translations": [
+   "يجفف",
+   "ينشف"
+  ],
+  "relations": {
+   "synonyms": [
+    "dry out",
+    "dehydrate"
+   ],
+   "antonyms": [
+    "wet",
+    "moisten",
+    "soak"
+   ],
+   "collocations": [
+    "dry off",
+    "dry out",
+    "dry up"
+   ]
+  },
+  "mnemonic": "تذكّر كلمة مجفف الشعر (Hair dryer)؛ الكلمة الأساسية منها هي الفعل 'dry' ومعناها يجفف أو ينشف.",
+  "phonetic_us": "draɪ",
+  "phonetic_uk": "draɪ",
+  "syllables": "dry",
+  "semantic_tags": [
+   "#Clean",
+   "#Action",
+   "#Water"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "To make something free from water or liquid.",
+  "explanation_ar": "إنك تنشف حاجة وتشيل منها المية.",
+  "examples": [
+   "Dry your hands on the towel.",
+   "The sun will dry the clothes.",
+   "I need to dry my hair."
+  ],
+  "translations": {
+   "arabic_ar": "يجفف ينشف"
+  },
+  "synonyms": [
+   "dry out",
+   "dehydrate"
+  ],
+  "antonyms": [
+   "wet",
+   "moisten",
+   "soak"
+  ],
+  "collocations": [
+   "dry off",
+   "dry out",
+   "dry up"
+  ],
+  "mnemonic_ar": "تذكّر كلمة مجفف الشعر (Hair dryer)؛ الكلمة الأساسية منها هي الفعل 'dry' ومعناها يجفف أو ينشف."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "reliance",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "reliance",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state of depending on or trusting in something or someone.",
+  "explanation_ar": "الاعتماد الكلي على حد أو حاجة، وإنك تكون واثق إنهم هيساعدوك.",
+  "senses": [
+   {
+    "definition_en": "The state of depending on or trusting in something or someone.",
+    "explanation_ar": "الاعتماد أو الاتكال على شخص أو شيء، والثقة في دعمه.",
+    "examples": [
+     "The country's reliance on oil imports is risky.",
+     "Heavy reliance on technology can be a problem.",
+     "The company needs to reduce its reliance on a single supplier."
+    ]
+   }
+  ],
+  "examples": [
+   "The country's reliance on oil imports is risky.",
+   "Heavy reliance on technology can be a problem.",
+   "The company needs to reduce its reliance on a single supplier."
+  ],
+  "translations": [
+   "اعتماد",
+   "اتكال"
+  ],
+  "relations": {
+   "synonyms": [
+    "dependence",
+    "trust",
+    "confidence"
+   ],
+   "antonyms": [
+    "independence",
+    "distrust"
+   ],
+   "collocations": [
+    "heavy reliance",
+    "reliance on",
+    "place reliance on"
+   ]
+  },
+  "mnemonic": "جاية من 'Rely' يعني يعتمد.. الـ 'Reliance' هي الثقة والاعتماد ده.",
+  "phonetic_us": "rɪˈlaɪəns",
+  "phonetic_uk": "rɪˈlaɪəns",
+  "syllables": "re•liance",
+  "semantic_tags": [
+   "trust",
+   "dependence",
+   "relationship"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of depending on or trusting in something or someone.",
+  "explanation_ar": "الاعتماد الكلي على حد أو حاجة، وإنك تكون واثق إنهم هيساعدوك.",
+  "examples": [
+   "The country's reliance on oil imports is risky.",
+   "Heavy reliance on technology can be a problem.",
+   "The company needs to reduce its reliance on a single supplier."
+  ],
+  "translations": {
+   "arabic_ar": "اعتماد اتكال"
+  },
+  "synonyms": [
+   "dependence",
+   "trust",
+   "confidence"
+  ],
+  "antonyms": [
+   "independence",
+   "distrust"
+  ],
+  "collocations": [
+   "heavy reliance",
+   "reliance on",
+   "place reliance on"
+  ],
+  "mnemonic_ar": "جاية من 'Rely' يعني يعتمد.. الـ 'Reliance' هي الثقة والاعتماد ده."
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "outdoor",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "outdoor",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Located, happening, or used outside of a building.",
+  "explanation_ar": "أي حاجة بتتعمل أو موجودة برة البيت في الهواء الطلق.",
+  "senses": [
+   {
+    "definition_en": "Located, happening, or used outside of a building.",
+    "explanation_ar": "موجود أو بيحصل برة في الهواء الطلق أو خارج المبنى.",
+    "examples": [
+     "Let's go to the outdoor market.",
+     "They have a heated outdoor swimming pool.",
+     "The restaurant offers an outdoor dining experience."
+    ]
+   }
+  ],
+  "examples": [
+   "Let's go to the outdoor market.",
+   "They have a heated outdoor swimming pool.",
+   "The restaurant offers an outdoor dining experience."
+  ],
+  "translations": [
+   "خارجي",
+   "في الهواء الطلق"
+  ],
+  "relations": {
+   "synonyms": [
+    "open-air",
+    "outside",
+    "external"
+   ],
+   "antonyms": [
+    "indoor",
+    "inside"
+   ],
+   "collocations": [
+    "outdoor activities",
+    "outdoor clothing",
+    "outdoor pool"
+   ],
+   "related_words": [
+    "outdoors",
+    "outside",
+    "exterior"
+   ],
+   "word_family": {
+    "adj": "outdoor",
+    "adv": "outdoors",
+    "noun": "outdoors"
+   }
+  },
+  "mnemonic": "كلمة مركبة من 'Out' 'برة' و 'Door' 'باب'.. يعني برة باب البيت.",
+  "phonetic_us": "ˌaʊtˈdɔːr",
+  "phonetic_uk": "ˌaʊtˈdɔː",
+  "syllables": "out•door",
+  "semantic_tags": [
+   "Nature",
+   "Activities",
+   "Location"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Located, happening, or used outside of a building.",
+  "explanation_ar": "أي حاجة بتتعمل أو موجودة برة البيت في الهواء الطلق.",
+  "examples": [
+   "Let's go to the outdoor market.",
+   "They have a heated outdoor swimming pool.",
+   "The restaurant offers an outdoor dining experience."
+  ],
+  "translations": {
+   "arabic_ar": "خارجي في الهواء الطلق"
+  },
+  "synonyms": [
+   "open-air",
+   "outside",
+   "external"
+  ],
+  "antonyms": [
+   "indoor",
+   "inside"
+  ],
+  "collocations": [
+   "outdoor activities",
+   "outdoor clothing",
+   "outdoor pool"
+  ],
+  "mnemonic_ar": "كلمة مركبة من 'Out' 'برة' و 'Door' 'باب'.. يعني برة باب البيت."
+ }
+}

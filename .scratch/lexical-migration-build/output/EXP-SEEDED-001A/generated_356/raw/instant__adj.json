@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "instant",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "instant",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Happening immediately; prepared very quickly.",
+  "explanation_ar": "حاجة بتحصل فوراً من غير تأخير، أو بتجهز بسرعة جداً.",
+  "senses": [
+   {
+    "definition_en": "Happening immediately; occurring without delay.",
+    "explanation_ar": "يحدث فوراً دون أي تأخير؛ فوري أو لحظي.",
+    "translations": [
+     "فوري",
+     "لحظي"
+    ]
+   },
+   {
+    "definition_en": "Designed to be prepared quickly and easily, typically by adding hot liquid.",
+    "explanation_ar": "سريع التحضير (للأطعمة والمشروبات).",
+    "translations": [
+     "سريع التحضير"
+    ]
+   }
+  ],
+  "examples": [
+   "The book was an instant success.",
+   "The medication provided instant relief from the pain.",
+   "Modern technology allows for instant global communication."
+  ],
+  "translations": [
+   "فوري",
+   "لحظي",
+   "سريع التحضير"
+  ],
+  "relations": {
+   "synonyms": [
+    "immediate",
+    "instantaneous",
+    "prompt"
+   ],
+   "antonyms": [
+    "delayed",
+    "gradual",
+    "slow"
+   ],
+   "collocations": [
+    "instant access",
+    "instant coffee",
+    "instant message",
+    "instant replay"
+   ]
+  },
+  "mnemonic": "الـ 'Instagram' مليان صور 'Instant' لحظية وفورية.",
+  "phonetic_us": "ˈɪnstənt",
+  "phonetic_uk": "ˈɪnstənt",
+  "syllables": "in•stant",
+  "semantic_tags": [
+   "#Fast",
+   "#Now",
+   "#Time",
+   "#Quick"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Happening immediately; prepared very quickly.",
+  "explanation_ar": "حاجة بتحصل فوراً من غير تأخير، أو بتجهز بسرعة جداً.",
+  "examples": [
+   "The book was an instant success.",
+   "The medication provided instant relief from the pain.",
+   "Modern technology allows for instant global communication."
+  ],
+  "translations": {
+   "arabic_ar": "فوري لحظي سريع التحضير"
+  },
+  "synonyms": [
+   "immediate",
+   "instantaneous",
+   "prompt"
+  ],
+  "antonyms": [
+   "delayed",
+   "gradual",
+   "slow"
+  ],
+  "collocations": [
+   "instant access",
+   "instant coffee",
+   "instant message",
+   "instant replay"
+  ],
+  "mnemonic_ar": "الـ 'Instagram' مليان صور 'Instant' لحظية وفورية."
+ }
+}

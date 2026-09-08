@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "medieval",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "medieval",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to the Middle Ages (roughly 500–1500 AD).",
+  "explanation_ar": "حاجة ليها علاقة بالعصور الوسطى، زمن القلاع والفرسان.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Connected with or dating from the Middle Ages in European history.",
+    "definition_ar": "متعلق بالعصور الوسطى في التاريخ الأوروبي.",
+    "examples": [
+     "We visited a medieval town in France.",
+     "The museum has a collection of medieval art."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Extremely old-fashioned, primitive, or harsh (used disapprovingly).",
+    "definition_ar": "متخلف أو بدائي أو قاسٍ بشكل مبالغ فيه (مجازياً).",
+    "examples": [
+     "The legal system was described as positively medieval."
+    ]
+   }
+  ],
+  "examples": [
+   "We visited a medieval town in France.",
+   "The museum has a collection of medieval art.",
+   "The legal system was described as positively medieval."
+  ],
+  "translations": [
+   "من العصور الوسطى",
+   "قروسطي",
+   "خاص بالقرون الوسطى"
+  ],
+  "relations": {
+   "synonyms": [
+    "antiquated",
+    "archaic"
+   ],
+   "antonyms": [
+    "modern",
+    "contemporary"
+   ],
+   "collocations": [
+    "medieval architecture",
+    "medieval castle",
+    "medieval history",
+    "medieval times"
+   ]
+  },
+  "mnemonic": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى.",
+  "phonetic_us": "ˌmɛdiˈiːvəl",
+  "phonetic_uk": "ˌmedɪˈiːvəl",
+  "syllables": "med·i·e·val",
+  "semantic_tags": [
+   "#History",
+   "#MiddleAges",
+   "#Knights",
+   "#Europe"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to the Middle Ages (roughly 500–1500 AD).",
+  "explanation_ar": "حاجة ليها علاقة بالعصور الوسطى، زمن القلاع والفرسان.",
+  "examples": [
+   "We visited a medieval town in France.",
+   "The museum has a collection of medieval art.",
+   "The legal system was described as positively medieval."
+  ],
+  "translations": {
+   "arabic_ar": "من العصور الوسطى قروسطي خاص بالقرون الوسطى"
+  },
+  "synonyms": [
+   "antiquated",
+   "archaic"
+  ],
+  "antonyms": [
+   "modern",
+   "contemporary"
+  ],
+  "collocations": [
+   "medieval architecture",
+   "medieval castle",
+   "medieval history",
+   "medieval times"
+  ],
+  "mnemonic_ar": "فيها 'Mid' يعني وسط.. 'Medieval' يعني العصور الوسطى."
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "identity": {
+  "lemma": "fourth",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fourth",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Coming after the third in a series.",
+  "explanation_ar": "الرابع في الترتيب، اللي بيجي بعد التالت.",
+  "senses": [
+   {
+    "definition_en": "Coming after the third in a series.",
+    "explanation_ar": "الرابع في الترتيب، اللي بيجي بعد التالت.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "It is his fourth birthday.",
+   "They live on the fourth floor.",
+   "This is the fourth time I've seen this movie."
+  ],
+  "translations": [
+   "الرابع"
+  ],
+  "relations": {
+   "synonyms": [
+    "4th"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fourth floor",
+    "fourth grade",
+    "fourth of July"
+   ]
+  },
+  "mnemonic": "جاية من 'Four' 'أربعة'.. يبقى 'Fourth' يعني الرابع",
+  "phonetic_us": "fɔːrθ",
+  "phonetic_uk": "fɔːθ",
+  "syllables": null,
+  "semantic_tags": [
+   "#Ordering",
+   "#Rank"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Coming after the third in a series.",
+  "explanation_ar": "الرابع في الترتيب، اللي بيجي بعد التالت.",
+  "examples": [
+   "It is his fourth birthday.",
+   "They live on the fourth floor.",
+   "This is the fourth time I've seen this movie."
+  ],
+  "translations": {
+   "arabic_ar": "الرابع"
+  },
+  "synonyms": [
+   "4th"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fourth floor",
+   "fourth grade",
+   "fourth of July"
+  ],
+  "mnemonic_ar": "جاية من 'Four' 'أربعة'.. يبقى 'Fourth' يعني الرابع"
+ }
+}

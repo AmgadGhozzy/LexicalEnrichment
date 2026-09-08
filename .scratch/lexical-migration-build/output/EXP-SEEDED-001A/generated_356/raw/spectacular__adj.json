@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "spectacular",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "spectacular",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Beautiful in a dramatic and eye-catching way.",
+  "explanation_ar": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها.",
+  "senses": [
+   {
+    "definition_en": "Beautiful in a dramatic and eye-catching way.",
+    "definition_ar": "مبهر، ملفت للنظر وخاطف للأنظار بجماله وروfront.",
+    "examples": [
+     "The mountain range offers spectacular scenery for hikers.",
+     "She looked spectacular in that dress.",
+     "The fireworks were spectacular."
+    ]
+   }
+  ],
+  "examples": [
+   "The mountain range offers spectacular scenery for hikers.",
+   "She looked spectacular in that dress.",
+   "The fireworks were spectacular."
+  ],
+  "translations": [
+   "مذهل",
+   "باهر",
+   "ملفت للنظر"
+  ],
+  "relations": {
+   "synonyms": [
+    "breathtaking",
+    "stunning",
+    "magnificent",
+    "impressive"
+   ],
+   "antonyms": [
+    "ordinary",
+    "dull",
+    "unimpressive"
+   ],
+   "collocations": [
+    "spectacular view",
+    "spectacular success",
+    "spectacular scenery",
+    "look spectacular"
+   ]
+  },
+  "mnemonic": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس.",
+  "phonetic_us": "spɛkˈtæk.jə.lɚ",
+  "phonetic_uk": "spɛkˈtæk.jə.lər",
+  "syllables": "spec•tac•u•lar",
+  "semantic_tags": [
+   "#Amazing",
+   "#Beautiful",
+   "#Grand"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Beautiful in a dramatic and eye-catching way.",
+  "explanation_ar": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها.",
+  "examples": [
+   "The mountain range offers spectacular scenery for hikers.",
+   "She looked spectacular in that dress.",
+   "The fireworks were spectacular."
+  ],
+  "translations": {
+   "arabic_ar": "مذهل باهر ملفت للنظر"
+  },
+  "synonyms": [
+   "breathtaking",
+   "stunning",
+   "magnificent",
+   "impressive"
+  ],
+  "antonyms": [
+   "ordinary",
+   "dull",
+   "unimpressive"
+  ],
+  "collocations": [
+   "spectacular view",
+   "spectacular success",
+   "spectacular scenery",
+   "look spectacular"
+  ],
+  "mnemonic_ar": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس."
+ }
+}

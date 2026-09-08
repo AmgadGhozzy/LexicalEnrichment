@@ -1,0 +1,46 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Synonyms 'ticket', 'pass', 'badge' do not share core synonymy with the noun 'card' generally or in the senses provided."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Examples use plural form 'cards' ('She played her cards right...', 'The organization holds all the cards...') instead of the exact target lemma token 'card'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic and pairs examples precisely to the defined senses, keeping the exact lemma token throughout. Arm B includes plural tokens in idioms that violate the exact lemma requirement, uses colloquial Egyptian Arabic, and lists questionable synonyms."
+  }
+ }
+}

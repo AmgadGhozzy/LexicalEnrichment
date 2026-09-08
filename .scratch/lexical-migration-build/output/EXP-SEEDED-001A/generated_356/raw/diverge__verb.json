@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "diverge",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "diverge",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To separate and go in different directions.",
+  "explanation_ar": "لما طريق واحد يتقسم لطريقين وكل واحد يروح في ناحية، أو الآراء تختلف وتبعد عن بعض.",
+  "senses": [
+   {
+    "definition_en": "To separate and go in different directions from a common point.",
+    "definition_ar": "يتفرع أو ينفصل إلى مسارات مختلفة (للطرق أو الخطوط)"
+   },
+   {
+    "definition_en": "To become different or develop in distinct directions.",
+    "definition_ar": "يتباعد أو يختلف (للآراء أو التطورات)"
+   }
+  ],
+  "examples": [
+   "The roads diverge here.",
+   "Their opinions began to diverge on the issue.",
+   "Global economic trends are starting to diverge significantly."
+  ],
+  "translations": [
+   "يتفرع",
+   "يتباعد",
+   "ينحرف",
+   "يختلف"
+  ],
+  "relations": {
+   "synonyms": [
+    "separate",
+    "part",
+    "split",
+    "deviate"
+   ],
+   "antonyms": [
+    "converge",
+    "join",
+    "meet"
+   ],
+   "collocations": [
+    "paths diverge",
+    "views diverge",
+    "markedly diverge"
+   ]
+  },
+  "mnemonic": "عكس 'Converge'. الطرق بتعمل 'Diverge' زي حرف V بتوسع وتبعد.",
+  "phonetic_us": "daɪˈvɝːdʒ",
+  "phonetic_uk": "daɪˈvɜːdʒ",
+  "syllables": "di•verge",
+  "semantic_tags": [
+   "direction",
+   "separation",
+   "difference"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To separate and go in different directions.",
+  "explanation_ar": "لما طريق واحد يتقسم لطريقين وكل واحد يروح في ناحية، أو الآراء تختلف وتبعد عن بعض.",
+  "examples": [
+   "The roads diverge here.",
+   "Their opinions began to diverge on the issue.",
+   "Global economic trends are starting to diverge significantly."
+  ],
+  "translations": {
+   "arabic_ar": "يتفرع يتباعد ينحرف يختلف"
+  },
+  "synonyms": [
+   "separate",
+   "part",
+   "split",
+   "deviate"
+  ],
+  "antonyms": [
+   "converge",
+   "join",
+   "meet"
+  ],
+  "collocations": [
+   "paths diverge",
+   "views diverge",
+   "markedly diverge"
+  ],
+  "mnemonic_ar": "عكس 'Converge'. الطرق بتعمل 'Diverge' زي حرف V بتوسع وتبعد."
+ }
+}

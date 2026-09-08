@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "prior",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "prior",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Existing or happening before something else in time or order.",
+  "explanation_ar": "حاجة بتحصل قبل حاجة تانية في الوقت، أو حاجة ليها أولوية ومجهزة من بدري.",
+  "senses": [
+   {
+    "definition_en": "Existing or happening before something else in time or order.",
+    "explanation_ar": "سابق أو مُسبَق؛ يحدث أو يوجد قبل أمر آخر.",
+    "examples": [
+     "I had no prior knowledge of the test.",
+     "Please give us prior notice if you cancel.",
+     "The contract requires prior approval from the manager."
+    ]
+   }
+  ],
+  "examples": [
+   "I had no prior knowledge of the test.",
+   "Please give us prior notice if you cancel.",
+   "The contract requires prior approval from the manager."
+  ],
+  "translations": [
+   "سابق",
+   "مُسبَق"
+  ],
+  "relations": {
+   "synonyms": [
+    "previous",
+    "earlier",
+    "preceding"
+   ],
+   "antonyms": [
+    "subsequent",
+    "later",
+    "following"
+   ],
+   "collocations": [
+    "prior knowledge",
+    "prior notice",
+    "prior approval",
+    "prior engagement"
+   ]
+  },
+  "mnemonic": "كلمة 'Prior' شبه 'Prayer' 'الصلاة'.. والصلاة دايماً 'Prior' 'سابقة' ولها الأولوية قبل أي شغل.",
+  "phonetic_us": "ˈpɹaɪɚ",
+  "phonetic_uk": "ˈpraɪə",
+  "syllables": "pri•or",
+  "semantic_tags": [
+   "#Time",
+   "#Order",
+   "#Preceding"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Existing or happening before something else in time or order.",
+  "explanation_ar": "حاجة بتحصل قبل حاجة تانية في الوقت، أو حاجة ليها أولوية ومجهزة من بدري.",
+  "examples": [
+   "I had no prior knowledge of the test.",
+   "Please give us prior notice if you cancel.",
+   "The contract requires prior approval from the manager."
+  ],
+  "translations": {
+   "arabic_ar": "سابق مُسبَق"
+  },
+  "synonyms": [
+   "previous",
+   "earlier",
+   "preceding"
+  ],
+  "antonyms": [
+   "subsequent",
+   "later",
+   "following"
+  ],
+  "collocations": [
+   "prior knowledge",
+   "prior notice",
+   "prior approval",
+   "prior engagement"
+  ],
+  "mnemonic_ar": "كلمة 'Prior' شبه 'Prayer' 'الصلاة'.. والصلاة دايماً 'Prior' 'سابقة' ولها الأولوية قبل أي شغل."
+ }
+}

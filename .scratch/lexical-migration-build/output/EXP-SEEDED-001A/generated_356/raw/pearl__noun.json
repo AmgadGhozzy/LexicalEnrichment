@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "pearl",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "pearl",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A hard, lustrous spherical mass, typically white, formed within the shell of an oyster.",
+  "explanation_ar": "حجر كريم لونه أبيض وبيلمع بيطلع من المحار في البحر، وغالي جداً.",
+  "senses": [
+   {
+    "definition_en": "A hard, lustrous spherical mass, typically white, formed within the shell of an oyster.",
+    "definition_ar": "لؤلؤة؛ جسم صلب لامع يتكون داخل صدفة المحار ويستخدم في المجوهرات والحلي.",
+    "pos": "noun",
+    "examples": [
+     "She has a pearl ring.",
+     "The diver found a rare black pearl.",
+     "Her wisdom was a pearl of great price in our troubled times."
+    ]
+   }
+  ],
+  "examples": [
+   "She has a pearl ring.",
+   "The diver found a rare black pearl.",
+   "Her wisdom was a pearl of great price in our troubled times."
+  ],
+  "translations": [
+   "لؤلؤة",
+   "لؤلؤ"
+  ],
+  "relations": {
+   "synonyms": [
+    "gem",
+    "jewel"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "pearl necklace",
+    "pearl of wisdom",
+    "mother of pearl"
+   ],
+   "word_family": {
+    "noun": "pearl",
+    "adjective": "pearly"
+   }
+  },
+  "mnemonic": "افتكر 'Pearl Harbor'.. الميناء اللي فيه 'Pearl' لؤلؤ.",
+  "phonetic_us": "pɜːrl",
+  "phonetic_uk": "pɜːl",
+  "syllables": "pearl",
+  "semantic_tags": [
+   "#Jewelry",
+   "#Ocean",
+   "#Luxury"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A hard, lustrous spherical mass, typically white, formed within the shell of an oyster.",
+  "explanation_ar": "حجر كريم لونه أبيض وبيلمع بيطلع من المحار في البحر، وغالي جداً.",
+  "examples": [
+   "She has a pearl ring.",
+   "The diver found a rare black pearl.",
+   "Her wisdom was a pearl of great price in our troubled times."
+  ],
+  "translations": {
+   "arabic_ar": "لؤلؤة لؤلؤ"
+  },
+  "synonyms": [
+   "gem",
+   "jewel"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "pearl necklace",
+   "pearl of wisdom",
+   "mother of pearl"
+  ],
+  "mnemonic_ar": "افتكر 'Pearl Harbor'.. الميناء اللي فيه 'Pearl' لؤلؤ."
+ }
+}

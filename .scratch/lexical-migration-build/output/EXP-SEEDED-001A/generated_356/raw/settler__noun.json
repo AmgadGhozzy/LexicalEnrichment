@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "settler",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "settler",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who moves with a group of others to live in a new country or area.",
+  "explanation_ar": "المستوطن، الشخص اللي بيروح يعيش في مكان جديد أو بلد جديدة ويعمرها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who moves with a group of others to live in a new country or area.",
+    "explanation_ar": "شخص ينتقل للعيش والاستقرار في منطقة أو بلد جديد.",
+    "examples": [
+     "The first settler in the valley cleared the land and built a farm.",
+     "As an early settler, he faced harsh winters and scarce resources.",
+     "Each settler was promised fifty acres of fertile land by the government."
+    ]
+   }
+  ],
+  "examples": [
+   "The first settler in the valley cleared the land and built a farm.",
+   "As an early settler, he faced harsh winters and scarce resources.",
+   "Each settler was promised fifty acres of fertile land by the government."
+  ],
+  "translations": [
+   "مستوطن"
+  ],
+  "relations": {
+   "synonyms": [
+    "colonist",
+    "pioneer",
+    "immigrant"
+   ],
+   "antonyms": [
+    "native",
+    "indigenous"
+   ],
+   "collocations": [
+    "early settler",
+    "white settler",
+    "settler colonialism"
+   ]
+  },
+  "mnemonic": "جاية من 'Settle' 'يستقر'.. الـ 'Settler' هو اللي بيستقر في مكان جديد.",
+  "phonetic_us": "ˈsetlər",
+  "phonetic_uk": "ˈsetlə",
+  "syllables": "set•tler",
+  "semantic_tags": [
+   "#History",
+   "#Migration",
+   "#People"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who moves with a group of others to live in a new country or area.",
+  "explanation_ar": "المستوطن، الشخص اللي بيروح يعيش في مكان جديد أو بلد جديدة ويعمرها.",
+  "examples": [
+   "The first settler in the valley cleared the land and built a farm.",
+   "As an early settler, he faced harsh winters and scarce resources.",
+   "Each settler was promised fifty acres of fertile land by the government."
+  ],
+  "translations": {
+   "arabic_ar": "مستوطن"
+  },
+  "synonyms": [
+   "colonist",
+   "pioneer",
+   "immigrant"
+  ],
+  "antonyms": [
+   "native",
+   "indigenous"
+  ],
+  "collocations": [
+   "early settler",
+   "white settler",
+   "settler colonialism"
+  ],
+  "mnemonic_ar": "جاية من 'Settle' 'يستقر'.. الـ 'Settler' هو اللي بيستقر في مكان جديد."
+ }
+}

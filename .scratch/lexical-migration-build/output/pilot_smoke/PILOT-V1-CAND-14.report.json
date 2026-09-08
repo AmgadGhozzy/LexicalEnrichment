@@ -1,0 +1,23 @@
+{
+ "candidate_id": "PILOT-V1-CAND-14",
+ "manifest_id": "pilot_manifest_v1",
+ "status": "partial",
+ "validator": {
+  "checks": {
+   "artifact_structure": "pass",
+   "runtime_status": "pass",
+   "output_hash": "pass",
+   "schema": "fail"
+  },
+  "failures": [
+   {
+    "code": "SCHEMA_VIOLATION",
+    "message": "None is not of type 'string'"
+   }
+  ],
+  "flags": []
+ },
+ "guard_defects": {},
+ "provenance_line": 1,
+ "validated_at": "2026-09-06T02:56:07.658144+00:00"
+}

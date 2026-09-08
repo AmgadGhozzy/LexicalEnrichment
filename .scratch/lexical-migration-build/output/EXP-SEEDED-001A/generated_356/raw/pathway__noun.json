@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "pathway",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "pathway",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A track that constitutes a path, or a course of action that leads to a particular result.",
+  "explanation_ar": "طريق صغير للمشي، أو مسار وخطوات بتمشي عليها عشان توصل لهدف معين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A track or path for walking.",
+    "definition_ar": "ممشى أو ممر مخصص للسير.",
+    "examples": [
+     "We walked along a narrow pathway."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A course of action or series of events that leads to a specific outcome.",
+    "definition_ar": "مسار أو وسيلة تقود إلى تحقيق هدف معين.",
+    "examples": [
+     "Education is a pathway to a better job.",
+     "Rigorous negotiation is the only viable pathway to resolving this diplomatic crisis."
+    ]
+   }
+  ],
+  "examples": [
+   "We walked along a narrow pathway.",
+   "Education is a pathway to a better job.",
+   "Rigorous negotiation is the only viable pathway to resolving this diplomatic crisis."
+  ],
+  "translations": [
+   "مسار",
+   "ممر"
+  ],
+  "relations": {
+   "synonyms": [
+    "track",
+    "trail",
+    "route",
+    "course",
+    "passage"
+   ],
+   "antonyms": [
+    "barrier",
+    "obstacle"
+   ],
+   "collocations": [
+    "metabolic pathway",
+    "pathway to success",
+    "neural pathway",
+    "career pathway"
+   ]
+  },
+  "mnemonic": "هي كلمتين: 'Path' (طريق) + 'Way' (اتجاه أو طريقة).. يعني المسار اللي بيوصلك لهدفك.",
+  "phonetic_us": "ˈpæθˌweɪ",
+  "phonetic_uk": "ˈpɑːθˌweɪ",
+  "syllables": "path•way",
+  "semantic_tags": [
+   "Road",
+   "Direction",
+   "Process",
+   "Route"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A track that constitutes a path, or a course of action that leads to a particular result.",
+  "explanation_ar": "طريق صغير للمشي، أو مسار وخطوات بتمشي عليها عشان توصل لهدف معين.",
+  "examples": [
+   "We walked along a narrow pathway.",
+   "Education is a pathway to a better job.",
+   "Rigorous negotiation is the only viable pathway to resolving this diplomatic crisis."
+  ],
+  "translations": {
+   "arabic_ar": "مسار ممر"
+  },
+  "synonyms": [
+   "track",
+   "trail",
+   "route",
+   "course",
+   "passage"
+  ],
+  "antonyms": [
+   "barrier",
+   "obstacle"
+  ],
+  "collocations": [
+   "metabolic pathway",
+   "pathway to success",
+   "neural pathway",
+   "career pathway"
+  ],
+  "mnemonic_ar": "هي كلمتين: 'Path' (طريق) + 'Way' (اتجاه أو طريقة).. يعني المسار اللي بيوصلك لهدفك."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "laugh",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "laugh",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The act or sound of laughing.",
+  "explanation_ar": "الضحكة نفسها. الصوت اللي بيطلع منك لما تكون مبسوط.",
+  "senses": [
+   {
+    "definition_en": "The act or sound of laughing.",
+    "explanation_ar": "الضحكة أو صوت الضحك.",
+    "examples": [
+     "She has a loud laugh.",
+     "We had a good laugh about it.",
+     "His laugh is contagious."
+    ]
+   }
+  ],
+  "examples": [
+   "She has a loud laugh.",
+   "We had a good laugh about it.",
+   "His laugh is contagious."
+  ],
+  "translations": [
+   "ضحكة"
+  ],
+  "relations": {
+   "synonyms": [
+    "chuckle",
+    "giggle",
+    "laughter"
+   ],
+   "antonyms": [
+    "cry",
+    "sob"
+   ],
+   "collocations": [
+    "loud laugh",
+    "good laugh",
+    "nervous laugh",
+    "have a laugh"
+   ]
+  },
+  "mnemonic": "كلمة 'Laugh' أولها 'La'.. زي لما تضحك وتقول 'لا لا لا'.",
+  "phonetic_us": "læf",
+  "phonetic_uk": "lɑːf",
+  "syllables": "laugh",
+  "semantic_tags": [
+   "Happiness",
+   "Sound",
+   "Fun"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The act or sound of laughing.",
+  "explanation_ar": "الضحكة نفسها. الصوت اللي بيطلع منك لما تكون مبسوط.",
+  "examples": [
+   "She has a loud laugh.",
+   "We had a good laugh about it.",
+   "His laugh is contagious."
+  ],
+  "translations": {
+   "arabic_ar": "ضحكة"
+  },
+  "synonyms": [
+   "chuckle",
+   "giggle",
+   "laughter"
+  ],
+  "antonyms": [
+   "cry",
+   "sob"
+  ],
+  "collocations": [
+   "loud laugh",
+   "good laugh",
+   "nervous laugh",
+   "have a laugh"
+  ],
+  "mnemonic_ar": "كلمة 'Laugh' أولها 'La'.. زي لما تضحك وتقول 'لا لا لا'."
+ }
+}

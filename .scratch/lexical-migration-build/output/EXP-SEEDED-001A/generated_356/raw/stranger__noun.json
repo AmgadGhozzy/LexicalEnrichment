@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "stranger",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "stranger",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person whom one does not know.",
+  "explanation_ar": "شخص غريب لا تعرفه ولم يسبق لك لقاؤه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person whom one does not know.",
+    "definition_ar": "شخص غريب لا تعرفه.",
+    "examples": [
+     "She married a complete stranger.",
+     "I felt like a stranger in my own town.",
+     "A polite stranger stopped to help me find the train station."
+    ]
+   }
+  ],
+  "examples": [
+   "She married a complete stranger.",
+   "I felt like a stranger in my own town.",
+   "A polite stranger stopped to help me find the train station."
+  ],
+  "translations": [
+   "غريب",
+   "شخص غريب"
+  ],
+  "relations": {
+   "synonyms": [
+    "outsider",
+    "newcomer"
+   ],
+   "antonyms": [
+    "friend",
+    "acquaintance"
+   ],
+   "collocations": [
+    "complete stranger",
+    "perfect stranger",
+    "total stranger",
+    "stranger danger"
+   ]
+  },
+  "mnemonic": "جاية من 'Strange' (غريب)؛ الشخص الذي يكون غير مألوف أو شكله وتصرفاته غريبة عليك يكون 'Stranger'.",
+  "phonetic_us": "ˈstreɪndʒər",
+  "phonetic_uk": "ˈstreɪndʒə",
+  "syllables": "stran-ger",
+  "semantic_tags": [
+   "people",
+   "society",
+   "relationships"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person whom one does not know.",
+  "explanation_ar": "شخص غريب لا تعرفه ولم يسبق لك لقاؤه.",
+  "examples": [
+   "She married a complete stranger.",
+   "I felt like a stranger in my own town.",
+   "A polite stranger stopped to help me find the train station."
+  ],
+  "translations": {
+   "arabic_ar": "غريب شخص غريب"
+  },
+  "synonyms": [
+   "outsider",
+   "newcomer"
+  ],
+  "antonyms": [
+   "friend",
+   "acquaintance"
+  ],
+  "collocations": [
+   "complete stranger",
+   "perfect stranger",
+   "total stranger",
+   "stranger danger"
+  ],
+  "mnemonic_ar": "جاية من 'Strange' (غريب)؛ الشخص الذي يكون غير مألوف أو شكله وتصرفاته غريبة عليك يكون 'Stranger'."
+ }
+}

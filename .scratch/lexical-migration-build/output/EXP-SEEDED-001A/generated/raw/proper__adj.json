@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "proper",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "proper",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Correct, suitable, or acceptable according to an agreed or socially approved standard.",
+  "explanation_ar": "مناسب أو صحيح.. الحاجة المضبوطة اللي المفروض تتعمل بالشكل الصح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Correct, right, or suitable for a particular purpose or situation.",
+    "definition_ar": "صحيح أو مناسب لغرض أو موقف معين.",
+    "examples": [
+     "Please put it in the proper place.",
+     "You need the proper tools for the job."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Socially acceptable and polite; conforming to etiquette.",
+    "definition_ar": "لائق ومحترم حسب الأصول والقواعد الاجتماعية.",
+    "examples": [
+     "It is not proper to speak like that to your boss."
+    ]
+   }
+  ],
+  "examples": [
+   "Please put it in the proper place.",
+   "You need the proper tools for the job.",
+   "It is not proper to speak like that to your boss."
+  ],
+  "translations": [
+   "مناسب",
+   "صحيح",
+   "لائق"
+  ],
+  "relations": {
+   "synonyms": [
+    "appropriate",
+    "correct",
+    "suitable",
+    "right"
+   ],
+   "antonyms": [
+    "improper",
+    "inappropriate",
+    "incorrect"
+   ],
+   "collocations": [
+    "proper way",
+    "proper care",
+    "proper training",
+    "proper tools"
+   ]
+  },
+  "mnemonic": "كلمة 'Proper' قريبة من 'Prop' 'دعامة'.. الدعامة لازم تكون 'Proper' 'سليمة' عشان تشيل المبنى",
+  "phonetic_us": "ˈpɹɑpɚ",
+  "phonetic_uk": "ˈpɹɒpə",
+  "syllables": "prop•er",
+  "semantic_tags": [
+   "#Correctness",
+   "#Etiquette",
+   "#Standard"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Correct, suitable, or acceptable according to an agreed or socially approved standard.",
+  "explanation_ar": "مناسب أو صحيح.. الحاجة المضبوطة اللي المفروض تتعمل بالشكل الصح.",
+  "examples": [
+   "Please put it in the proper place.",
+   "You need the proper tools for the job.",
+   "It is not proper to speak like that to your boss."
+  ],
+  "translations": {
+   "arabic_ar": "مناسب صحيح لائق"
+  },
+  "synonyms": [
+   "appropriate",
+   "correct",
+   "suitable",
+   "right"
+  ],
+  "antonyms": [
+   "improper",
+   "inappropriate",
+   "incorrect"
+  ],
+  "collocations": [
+   "proper way",
+   "proper care",
+   "proper training",
+   "proper tools"
+  ],
+  "mnemonic_ar": "كلمة 'Proper' قريبة من 'Prop' 'دعامة'.. الدعامة لازم تكون 'Proper' 'سليمة' عشان تشيل المبنى"
+ }
+}

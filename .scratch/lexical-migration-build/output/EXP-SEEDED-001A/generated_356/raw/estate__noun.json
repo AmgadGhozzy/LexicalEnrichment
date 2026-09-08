@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "estate",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "estate",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A large area of land in the country owned by a person or family, or all the money and property that someone leaves when they die.",
+  "explanation_ar": "ممتلكات كبيرة زي الأراضي والبيوت، أو كل الفلوس والأملاك اللي بيسيبها الشخص بعد وفاته.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A large area of land in the country, usually with a large house, owned by one person, family, or organization.",
+    "definition_ar": "عزبة أو ممتلكات شاسعة في الريف يملكها شخص أو عائلة.",
+    "examples": [
+     "We visited a country estate.",
+     "The family estate was sold to pay debts."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "All the money, property, and possessions that a person owns, especially everything left when they die.",
+    "definition_ar": "تركة (جميع أموال وممتلكات الشخص، خاصة ما يتركه بعد وفاته).",
+    "examples": [
+     "His estate was divided among his children."
+    ]
+   }
+  ],
+  "examples": [
+   "We visited a country estate.",
+   "The family estate was sold to pay debts.",
+   "His estate was divided among his children."
+  ],
+  "translations": [
+   "عزبة",
+   "تركة",
+   "ممتلكات",
+   "عقار"
+  ],
+  "relations": {
+   "synonyms": [
+    "property",
+    "land",
+    "assets"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "real estate",
+    "housing estate",
+    "industrial estate",
+    "estate agent"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'State' 'دولة'.. الـ 'Estate' الكبيرة بتبقى زي دولة صغيرة لصحابها",
+  "phonetic_us": "ɪˈsteɪt",
+  "phonetic_uk": "ɪˈsteɪt",
+  "syllables": "es•tate",
+  "semantic_tags": [
+   "property",
+   "wealth",
+   "law"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A large area of land in the country owned by a person or family, or all the money and property that someone leaves when they die.",
+  "explanation_ar": "ممتلكات كبيرة زي الأراضي والبيوت، أو كل الفلوس والأملاك اللي بيسيبها الشخص بعد وفاته.",
+  "examples": [
+   "We visited a country estate.",
+   "The family estate was sold to pay debts.",
+   "His estate was divided among his children."
+  ],
+  "translations": {
+   "arabic_ar": "عزبة تركة ممتلكات عقار"
+  },
+  "synonyms": [
+   "property",
+   "land",
+   "assets"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "real estate",
+   "housing estate",
+   "industrial estate",
+   "estate agent"
+  ],
+  "mnemonic_ar": "شبه كلمة 'State' 'دولة'.. الـ 'Estate' الكبيرة بتبقى زي دولة صغيرة لصحابها"
+ }
+}

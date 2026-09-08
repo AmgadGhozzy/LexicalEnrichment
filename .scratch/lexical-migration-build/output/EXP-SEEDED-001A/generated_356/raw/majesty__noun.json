@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "majesty",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "majesty",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Impressive beauty, dignity, or power; also a title for a king or queen.",
+  "explanation_ar": "العظمة والفخامة، وكمان لقب بنقوله للملوك 'جلالة الملك'.",
+  "senses": [
+   {
+    "definition_en": "Impressive beauty, dignity, or grandeur.",
+    "definition_ar": "العظمة، الفخامة، أو الهيبة البالغة.",
+    "examples": [
+     "The cathedral stands in all its Gothic majesty.",
+     "The music captured the sheer majesty of the occasion."
+    ]
+   },
+   {
+    "definition_en": "Royal power, or used as a title when addressing or speaking of a monarch.",
+    "definition_ar": "المقام السامي أو لقب تشريفي للملك أو الملكة (جلالة الملك).",
+    "examples": [
+     "We bowed to His Majesty."
+    ]
+   }
+  ],
+  "examples": [
+   "The cathedral stands in all its Gothic majesty.",
+   "The music captured the sheer majesty of the occasion.",
+   "You can feel the majesty of the mountains here."
+  ],
+  "translations": [
+   "جلالة",
+   "فخامة",
+   "عظمة"
+  ],
+  "relations": {
+   "synonyms": [
+    "grandeur",
+    "dignity",
+    "nobility",
+    "magnificence"
+   ],
+   "antonyms": [
+    "modesty",
+    "humility"
+   ],
+   "collocations": [
+    "Your Majesty",
+    "Her Majesty",
+    "majesty of nature",
+    "royal majesty"
+   ]
+  },
+  "mnemonic": "كلمة 'Magic' 'سحر' قريبة منها.. الـ 'Majesty' فيها سحر وعظمة وهيبة الملوك.",
+  "phonetic_us": "ˈmædʒəsti",
+  "phonetic_uk": "ˈmædʒɪsti",
+  "syllables": "maj-es-ty",
+  "semantic_tags": [
+   "#Royal",
+   "#Title",
+   "#Beauty",
+   "#Power"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Impressive beauty, dignity, or power; also a title for a king or queen.",
+  "explanation_ar": "العظمة والفخامة، وكمان لقب بنقوله للملوك 'جلالة الملك'.",
+  "examples": [
+   "The cathedral stands in all its Gothic majesty.",
+   "The music captured the sheer majesty of the occasion.",
+   "You can feel the majesty of the mountains here."
+  ],
+  "translations": {
+   "arabic_ar": "جلالة فخامة عظمة"
+  },
+  "synonyms": [
+   "grandeur",
+   "dignity",
+   "nobility",
+   "magnificence"
+  ],
+  "antonyms": [
+   "modesty",
+   "humility"
+  ],
+  "collocations": [
+   "Your Majesty",
+   "Her Majesty",
+   "majesty of nature",
+   "royal majesty"
+  ],
+  "mnemonic_ar": "كلمة 'Magic' 'سحر' قريبة منها.. الـ 'Majesty' فيها سحر وعظمة وهيبة الملوك."
+ }
+}

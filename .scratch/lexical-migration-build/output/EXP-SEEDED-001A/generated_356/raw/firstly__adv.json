@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "firstly",
+  "pos": "adv",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "firstly",
+  "pos": "adv",
+  "cefr": "A2",
+  "definition_en": "Used to introduce the first point in a list or sequence.",
+  "explanation_ar": "كلمة بنستخدمها لما نبدأ نعدد حاجات أو نقط، معناها 'أولاً'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Used to introduce the first point in a list or sequence.",
+    "explanation_ar": "كلمة بنستخدمها لما نبدأ نعدد حاجات أو نقط، معناها 'أولاً'.",
+    "examples": [
+     "Firstly, we need to buy tickets.",
+     "Firstly, I want to thank everyone for coming.",
+     "There are two reasons: firstly, cost, and secondly, time."
+    ]
+   }
+  ],
+  "examples": [
+   "Firstly, we need to buy tickets.",
+   "Firstly, I want to thank everyone for coming.",
+   "There are two reasons: firstly, cost, and secondly, time."
+  ],
+  "translations": [
+   "أولاً"
+  ],
+  "relations": {
+   "synonyms": [
+    "first",
+    "to begin with",
+    "in the first place"
+   ],
+   "antonyms": [
+    "lastly",
+    "finally"
+   ],
+   "collocations": [
+    "firstly and most importantly",
+    "firstly... secondly"
+   ]
+  },
+  "mnemonic": "جاية من 'First' يعني الأول.. فـ 'Firstly' يعني أولاً.",
+  "phonetic_us": "ˈfɜːrstli",
+  "phonetic_uk": "ˈfɜːstli",
+  "syllables": "first•ly",
+  "semantic_tags": [
+   "Sequence",
+   "Ordering",
+   "Writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to introduce the first point in a list or sequence.",
+  "explanation_ar": "كلمة بنستخدمها لما نبدأ نعدد حاجات أو نقط، معناها 'أولاً'.",
+  "examples": [
+   "Firstly, we need to buy tickets.",
+   "Firstly, I want to thank everyone for coming.",
+   "There are two reasons: firstly, cost, and secondly, time."
+  ],
+  "translations": {
+   "arabic_ar": "أولاً"
+  },
+  "synonyms": [
+   "first",
+   "to begin with",
+   "in the first place"
+  ],
+  "antonyms": [
+   "lastly",
+   "finally"
+  ],
+  "collocations": [
+   "firstly and most importantly",
+   "firstly... secondly"
+  ],
+  "mnemonic_ar": "جاية من 'First' يعني الأول.. فـ 'Firstly' يعني أولاً."
+ }
+}

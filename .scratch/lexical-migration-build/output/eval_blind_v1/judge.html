@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>BT-14 Blind Adjudication — EVAL-BLIND-V1</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, Segoe UI, Tahoma, sans-serif; margin: 0; padding: 0 16px 80px; }
+  header { position: sticky; top: 0; background: inherit; padding: 10px 0; border-bottom: 1px solid #888; }
+  .arms { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .arm { border: 1px solid #888; border-radius: 8px; padding: 10px; }
+  .arm h2 { text-align: center; margin: 0 0 8px; }
+  .field { margin: 8px 0; }
+  .field b { display: block; margin-bottom: 2px; }
+  .ar { direction: rtl; text-align: right; }
+  .scrollbox { height: 120px; overflow-y: auto; border: 1px solid #aaa; border-radius: 4px; padding: 6px; }
+  .scrollbox li { margin-bottom: 4px; }
+  .ballot table { border-collapse: collapse; width: 100%; }
+  .ballot td, .ballot th { border: 1px solid #888; padding: 4px 8px; text-align: center; }
+  .crit { border: 1px solid #888; border-radius: 8px; padding: 8px; margin: 8px 0; }
+  .nav { display: flex; gap: 8px; align-items: center; margin: 10px 0; flex-wrap: wrap; }
+  button { padding: 6px 14px; cursor: pointer; }
+  #progress { font-weight: bold; }
+  textarea { width: 100%; }
+  .warn { color: #b00; font-weight: bold; }
+</style>
+</head>
+<body>
+<header>
+  <div><b>BT-14 Blind Adjudication</b> <span id="progress">no package loaded</span></div>
+  <div class="nav">
+    <input type="file" id="file" accept="application/json">
+    <button id="prev">◀ Prev</button>
+    <button id="next">Next ▶</button>
+    <input id="goto" placeholder="EVAL-BLIND-V1-0001" size="22">
+    <button id="go">Go</button>
+    <label><input type="checkbox" id="unjudgedOnly"> unjudged only</label>
+    <button id="export">Export judgments.json</button>
+  </div>
+  <div class="warn">Judge only what you see here. No other project files are needed — and opening any side-mapping file voids blindness.</div>
+</header>
+
+<h1 id="title">Load eval_blind_v1.json to begin</h1>
+<div class="arms">
+  <div class="arm"><h2>Arm A</h2><div id="armA"></div></div>
+  <div class="arm"><h2>Arm B</h2><div id="armB"></div></div>
+</div>
+
+<h2>Ballot (per-field)</h2>
+<div class="ballot"><table id="ballotTable">
+  <tr><th>Field</th><th>A better</th><th>B better</th><th>Tie</th><th>Cannot judge</th></tr>
+</table></div>
+
+<h2>Critical errors</h2>
+<div id="crits"></div>
+
+<h2>Note</h2>
+<textarea id="note" rows="2"></textarea>
+
+<script>
+const FIELDS = ["definition","arabic_explanation","sense_separation","examples","translations","relations","mnemonic"];
+const FIELD_LABEL = {definition:"Definition",arabic_explanation:"Arabic explanation",sense_separation:"Sense separation",examples:"Examples",translations:"Translations",relations:"Relations",mnemonic:"Mnemonic"};
+const CRITS = ["wrong_meaning","misleading_arabic","invalid_relation_synonym","example_semantic_error","target_word_violation","fabricated_etymology_mnemonic","cefr_learner_mismatch"];
+const OPTS = ["A-better","B-better","tie","cannot-judge"];
+let PKG = [], IDX = 0, JUD = {};
+try { JUD = JSON.parse(localStorage.getItem("bt14-judgments-v1") || "{}"); } catch(e){ JUD = {}; }
+
+function esc(s){ return String(s == null ? "" : s).replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+function isAr(s){ return /[\u0600-\u06FF]/.test(s || ""); }
+function fmtVal(v){
+  if (v == null) return "<i>null</i>";
+  if (Array.isArray(v)) {
+    if (!v.length) return "<i>—</i>";
+    if (v.length && typeof v[0] === "object") return "<ul>" + v.map(x=>"<li>"+esc(x.example_text||JSON.stringify(x))+"</li>").join("") + "</ul>";
+    return "<ul>" + v.map(x=>"<li>"+esc(x)+"</li>").join("") + "</ul>";
+  }
+  if (typeof v === "object") {
+    const rows = Object.entries(v).map(([k,val])=>{
+      const inner = Array.isArray(val) ? "<ul>"+val.map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>" : esc(val);
+      return "<div><b>"+esc(k)+":</b> "+inner+"</div>";
+    }).join("");
+    return rows || "<i>—</i>";
+  }
+  return '<div class="'+(isAr(v)?"ar":"")+'">'+esc(v)+"</div>";
+}
+function renderArm(el, arm){
+  el.innerHTML =
+    '<div class="field"><b>Definition</b>'+fmtVal(arm.definition)+"</div>"+
+    '<div class="field"><b>Arabic</b>'+fmtVal(arm.arabic)+"</div>"+
+    '<div class="field"><b>Examples</b><div class="scrollbox">'+fmtVal(arm.examples)+"</div></div>"+
+    '<div class="field"><b>Translations</b>'+fmtVal(arm.translations)+"</div>"+
+    '<div class="field"><b>Relations</b>'+fmtVal(arm.relations)+"</div>"+
+    '<div class="field"><b>Mnemonic</b>'+fmtVal(arm.mnemonic)+"</div>";
+}
+function blankBallot(){
+  const b = {fields:{}, critical_errors:{}, note:""};
+  FIELDS.forEach(f=>b.fields[f]="unjudged");
+  CRITS.forEach(c=>b.critical_errors[c]={side:null,evidence:""});
+  return b;
+}
+function cur(){ return PKG[IDX]; }
+function getBallot(id){ if(!JUD[id]) JUD[id]=blankBallot(); return JUD[id]; }
+function save(){ try{ localStorage.setItem("bt14-judgments-v1", JSON.stringify(JUD)); }catch(e){} }
+function judgedCount(){ return PKG.filter(it=>{ const b=JUD[it.eval_id]; return b && Object.values(b.fields).some(v=>v!=="unjudged"); }).length; }
+
+function render(){
+  if(!PKG.length) return;
+  const it = cur(), b = getBallot(it.eval_id);
+  document.getElementById("title").textContent = it.eval_id+" — "+it.lemma+" ("+it.pos+")";
+  document.getElementById("progress").textContent =
+    "item "+(IDX+1)+"/"+PKG.length+" · judged "+judgedCount()+"/"+PKG.length;
+  renderArm(document.getElementById("armA"), it.armA);
+  renderArm(document.getElementById("armB"), it.armB);
+  const t = document.getElementById("ballotTable");
+  t.querySelectorAll("tr[data-f]").forEach(tr=>tr.remove());
+  FIELDS.forEach(f=>{
+    const tr = document.createElement("tr"); tr.dataset.f = f;
+    tr.innerHTML = "<td>"+FIELD_LABEL[f]+"</td>" + OPTS.map(o=>
+      '<td><input type="radio" name="f_'+f+'" value="'+o+'"'+(b.fields[f]===o?" checked":"")+"></td>").join("");
+    t.appendChild(tr);
+  });
+  t.querySelectorAll("input[type=radio]").forEach(r=>r.addEventListener("change", ev=>{
+    const f = ev.target.name.slice(2);
+    getBallot(cur().eval_id).fields[f] = ev.target.value; save(); tick();
+  }));
+  const cdiv = document.getElementById("crits"); cdiv.innerHTML = "";
+  CRITS.forEach(c=>{
+    const e = b.critical_errors[c] || {side:null,evidence:""};
+    const d = document.createElement("div"); d.className = "crit";
+    d.innerHTML = "<label><input type='checkbox' data-c='"+c+"' "+(e.side?"checked":"")+"> "+c+"</label> "+
+      "side: <select data-s='"+c+"'><option value=''>—</option><option>A</option><option>B</option></select> "+
+      "evidence: <input data-e='"+c+"' size='40' value='"+esc(e.evidence||"").replace(/"/g,"&quot;")+"'>";
+    cdiv.appendChild(d);
+  });
+  cdiv.querySelectorAll("[data-s]").forEach(s=>{ s.value = b.critical_errors[s.dataset.s].side || ""; });
+  cdiv.addEventListener("change", syncCrits); cdiv.addEventListener("input", syncCrits);
+  document.getElementById("note").value = b.note || "";
+}
+function syncCrits(){
+  const b = getBallot(cur().eval_id);
+  document.querySelectorAll("#crits [data-c]").forEach(ch=>{
+    const c = ch.dataset.c;
+    const on = ch.checked;
+    const side = document.querySelector("#crits [data-s='"+c+"']").value || null;
+    const ev = document.querySelector("#crits [data-e='"+c+"']").value || "";
+    b.critical_errors[c] = on ? {side: side, evidence: ev} : {side: null, evidence: ev};
+  });
+  save();
+}
+function tick(){
+  document.getElementById("progress").textContent =
+    "item "+(IDX+1)+"/"+PKG.length+" · judged "+judgedCount()+"/"+PKG.length;
+}
+document.getElementById("note").addEventListener("input", ev=>{
+  if(PKG.length){ getBallot(cur().eval_id).note = ev.target.value; save(); }
+});
+function step(d){
+  if(!PKG.length) return;
+  const only = document.getElementById("unjudgedOnly").checked;
+  let i = IDX;
+  for(let k=0;k<PKG.length;k++){
+    i = (i + d + PKG.length) % PKG.length;
+    if(!only) break;
+    const b = JUD[PKG[i].eval_id];
+    if(!b || Object.values(b.fields).every(v=>v==="unjudged")) break;
+  }
+  IDX = i; render();
+}
+document.getElementById("prev").addEventListener("click", ()=>step(-1));
+document.getElementById("next").addEventListener("click", ()=>step(1));
+document.getElementById("go").addEventListener("click", ()=>{
+  const id = document.getElementById("goto").value.trim();
+  const i = PKG.findIndex(x=>x.eval_id===id);
+  if(i>=0){ IDX=i; render(); } else alert("eval_id not found");
+});
+document.getElementById("file").addEventListener("change", ev=>{
+  const f = ev.target.files[0]; if(!f) return;
+  const rd = new FileReader();
+  rd.onload = ()=>{
+    try{
+      const data = JSON.parse(rd.result);
+      PKG = data.items || data;
+      if(!PKG.length || !PKG[0].armA) throw new Error("not a blind package");
+      IDX = 0; render();
+    }catch(err){ alert("Cannot load package: "+err.message); }
+  };
+  rd.readAsText(f);
+});
+document.getElementById("export").addEventListener("click", ()=>{
+  const out = {judgments:{}};
+  PKG.forEach(it=>{ if(JUD[it.eval_id]) out.judgments[it.eval_id]=JUD[it.eval_id]; });
+  const blob = new Blob([JSON.stringify(out, null, 1)], {type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = "bt14_judgments.json"; a.click();
+  alert("Exported "+Object.keys(out.judgments).length+"/"+PKG.length+" ballots.");
+});
+</script>
+</body>
+</html>

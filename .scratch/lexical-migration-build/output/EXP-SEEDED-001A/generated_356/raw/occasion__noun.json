@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "occasion",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "occasion",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A particular time or instance when something happens, or a special or important event.",
+  "explanation_ar": "وقت معين لحدث، أو حدث مميز واحتفال زي عيد ميلاد أو فرح.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A special or formal event or celebration.",
+    "explanation_ar": "حدث مميز أو احتفال خاص.",
+    "examples": [
+     "It was a happy occasion.",
+     "I bought a new suit for the occasion."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A particular time, moment, or instance when something happens.",
+    "explanation_ar": "وقت أو ظرف محدد لحدوث شيء ما.",
+    "examples": [
+     "This is not an occasion for laughter."
+    ]
+   }
+  ],
+  "examples": [
+   "It was a happy occasion.",
+   "I bought a new suit for the occasion.",
+   "This is not an occasion for laughter."
+  ],
+  "translations": [
+   "مناسبة",
+   "حدث",
+   "فرصة"
+  ],
+  "relations": {
+   "synonyms": [
+    "event",
+    "instance",
+    "opportunity",
+    "moment",
+    "affair"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "special occasion",
+    "on occasion",
+    "rise to the occasion",
+    "mark the occasion",
+    "rare occasion"
+   ],
+   "word_family": {
+    "noun": "occasion",
+    "adjective": "occasional",
+    "adverb": "occasionally"
+   }
+  },
+  "mnemonic": "اربطها بـ 'Vacation'.. في الـ 'Vacation' (الإجازة) بيبقى عندنا 'Occasion' (مناسبة) نحتفل بيها.",
+  "phonetic_us": "əˈkeɪʒən",
+  "phonetic_uk": "əˈkeɪʒn",
+  "syllables": "oc•ca•sion",
+  "semantic_tags": [
+   "#Event",
+   "#Celebration",
+   "#Time",
+   "#Moment"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A particular time or instance when something happens, or a special or important event.",
+  "explanation_ar": "وقت معين لحدث، أو حدث مميز واحتفال زي عيد ميلاد أو فرح.",
+  "examples": [
+   "It was a happy occasion.",
+   "I bought a new suit for the occasion.",
+   "This is not an occasion for laughter."
+  ],
+  "translations": {
+   "arabic_ar": "مناسبة حدث فرصة"
+  },
+  "synonyms": [
+   "event",
+   "instance",
+   "opportunity",
+   "moment",
+   "affair"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "special occasion",
+   "on occasion",
+   "rise to the occasion",
+   "mark the occasion",
+   "rare occasion"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Vacation'.. في الـ 'Vacation' (الإجازة) بيبقى عندنا 'Occasion' (مناسبة) نحتفل بيها."
+ }
+}

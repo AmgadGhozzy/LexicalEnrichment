@@ -1,0 +1,109 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1789",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1789",
+  "lemma": "billion",
+  "pos": "num",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1789,
+  "lemma": "billion",
+  "pos": "num",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈbɪljən",
+  "phonetic_uk": null,
+  "phonetic_ar": "بِلْيَن",
+  "definition_en": "The number equal to one thousand million, written as 1,000,000,000.",
+  "explanation_ar": "العدد الذي يساوي ألف مليون، ويُكتب في النظام العشري بواحد يتبعه تسعة أصفار، ويُسمى مليار أو بليون.",
+  "examples": [
+   {
+    "example_text": "The company earned over one billion dollars last year.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The world population is now well over eight billion people.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Scientists estimate the age of the Earth at over four billion years.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"billion\" تبدا بالمقطع bi الذي يعني اثنين للدلالة على مضاعفة ملايين المليون تاريخيا، وهي تشبه في العربية كلمة بليون او مليار.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The number equal to one thousand million, represented numerically as 1,000,000,000.",
+    "short_def_en": "one thousand million",
+    "definition_ar": "العدد الف مليون او مليار",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "numbers",
+     "finance",
+     "measurement"
+    ],
+    "usage_note": "In modern British English, like American English, it represents 1,000,000,000, whereas historically in the UK it meant a million million.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "one billion",
+   "billion dollars",
+   "billion people",
+   "several billion"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "million",
+    "trillion",
+    "thousand",
+    "number"
+   ],
+   "ar": [
+    "مليون",
+    "تريليون",
+    "ألف",
+    "عدد"
+   ]
+  },
+  "word_family": {
+   "noun": "billionaire",
+   "verb": "",
+   "adj": "billionth",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مليار / بليون",
+   "french_fr": "milliard",
+   "german_de": "Milliarde",
+   "spanish_es": "mil millones / billón",
+   "chinese_zh": "十亿 (shíyì)",
+   "russian_ru": "миллиард",
+   "portuguese_pt": "bilhão",
+   "japanese_ja": "十億 (Jū oku)",
+   "italian_it": "miliardo",
+   "turkish_tr": "milyar"
+  }
+ },
+ "provenance": {
+  "output_hash": "d55306bf9f55d216780f3dac9dfd75346ad237ac9b9e1c83d1eb9d3d4da1f0ac",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

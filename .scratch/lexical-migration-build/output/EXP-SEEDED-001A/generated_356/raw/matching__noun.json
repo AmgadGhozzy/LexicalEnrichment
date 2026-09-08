@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "matching",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "matching",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The act or process of finding things that belong together, correspond, or look good together.",
+  "explanation_ar": "عملية التوفيق أو المطابقة؛ إيجاد شيئين متوافقين أو مناسبين لبعضهما.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The act or process of finding things that belong together, correspond, or look good together.",
+    "definition_ar": "عملية التوفيق أو المطابقة بين الأشياء لتحديد مدى ملاءمتها أو توافقها.",
+    "examples": [
+     "DNA matching proved he was the father.",
+     "The precise matching of candidates to jobs is crucial.",
+     "Computerized pattern matching helps investigators analyze complex data."
+    ]
+   }
+  ],
+  "examples": [
+   "DNA matching proved he was the father.",
+   "The precise matching of candidates to jobs is crucial.",
+   "Computerized pattern matching helps investigators analyze complex data."
+  ],
+  "translations": [
+   "مطابقة",
+   "توفيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "pairing",
+    "coupling",
+    "coordination"
+   ],
+   "antonyms": [
+    "mismatching"
+   ],
+   "collocations": [
+    "color matching",
+    "pattern matching",
+    "DNA matching"
+   ]
+  },
+  "mnemonic": "جاية من 'Match'.. زي الـ 'Match' 'المباراة' بين فريقين.. هنا بنعمل 'Matching' بين حاجتين عشان نشوفهم لايقين ولا لأ",
+  "phonetic_us": "ˈmætʃɪŋ",
+  "phonetic_uk": "ˈmætʃɪŋ",
+  "syllables": "match•ing",
+  "semantic_tags": [
+   "#Comparison",
+   "#Similarity",
+   "#Selection"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The act or process of finding things that belong together, correspond, or look good together.",
+  "explanation_ar": "عملية التوفيق أو المطابقة؛ إيجاد شيئين متوافقين أو مناسبين لبعضهما.",
+  "examples": [
+   "DNA matching proved he was the father.",
+   "The precise matching of candidates to jobs is crucial.",
+   "Computerized pattern matching helps investigators analyze complex data."
+  ],
+  "translations": {
+   "arabic_ar": "مطابقة توفيق"
+  },
+  "synonyms": [
+   "pairing",
+   "coupling",
+   "coordination"
+  ],
+  "antonyms": [
+   "mismatching"
+  ],
+  "collocations": [
+   "color matching",
+   "pattern matching",
+   "DNA matching"
+  ],
+  "mnemonic_ar": "جاية من 'Match'.. زي الـ 'Match' 'المباراة' بين فريقين.. هنا بنعمل 'Matching' بين حاجتين عشان نشوفهم لايقين ولا لأ"
+ }
+}

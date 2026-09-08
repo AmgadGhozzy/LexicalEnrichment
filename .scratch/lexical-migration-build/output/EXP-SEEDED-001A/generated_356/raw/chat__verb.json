@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "chat",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "chat",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To talk in a friendly and informal way.",
+  "explanation_ar": "يدردش أو يتكلم مع شخص بشكل ودي وغير رسمي.",
+  "senses": [
+   {
+    "definition_en": "To talk in a friendly and informal way.",
+    "explanation_ar": "يدردش أو يتكلم مع شخص بشكل ودي وغير رسمي.",
+    "examples": [
+     "I chat with my friends every day.",
+     "She likes to chat on the phone.",
+     "We can chat about the project tomorrow."
+    ]
+   }
+  ],
+  "examples": [
+   "I chat with my friends every day.",
+   "She likes to chat on the phone.",
+   "We can chat about the project tomorrow."
+  ],
+  "translations": [
+   "يدردش",
+   "يتحادث"
+  ],
+  "relations": {
+   "synonyms": [
+    "talk",
+    "converse",
+    "chatter"
+   ],
+   "antonyms": [
+    "ignore",
+    "be silent"
+   ],
+   "collocations": [
+    "chat with",
+    "chat online",
+    "chat away"
+   ]
+  },
+  "mnemonic": "نفس كلمة 'شات'.. بتعمل شات مع صاحبك.",
+  "phonetic_us": "tʃæt",
+  "phonetic_uk": "tʃæt",
+  "syllables": "chat",
+  "semantic_tags": [
+   "#Talk",
+   "#Social",
+   "#Informal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To talk in a friendly and informal way.",
+  "explanation_ar": "يدردش أو يتكلم مع شخص بشكل ودي وغير رسمي.",
+  "examples": [
+   "I chat with my friends every day.",
+   "She likes to chat on the phone.",
+   "We can chat about the project tomorrow."
+  ],
+  "translations": {
+   "arabic_ar": "يدردش يتحادث"
+  },
+  "synonyms": [
+   "talk",
+   "converse",
+   "chatter"
+  ],
+  "antonyms": [
+   "ignore",
+   "be silent"
+  ],
+  "collocations": [
+   "chat with",
+   "chat online",
+   "chat away"
+  ],
+  "mnemonic_ar": "نفس كلمة 'شات'.. بتعمل شات مع صاحبك."
+ }
+}

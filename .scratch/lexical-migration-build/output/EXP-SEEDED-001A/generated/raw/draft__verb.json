@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "draft",
+  "pos": "verb"
+ },
+ "candidate": {
+  "lemma": "draft",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To prepare a preliminary version of a text; or to recruit someone for military service.",
+  "explanation_ar": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند حد في الجيش.",
+  "senses": [
+   {
+    "definition_en": "To prepare a preliminary version of a text, speech, or plan.",
+    "explanation_ar": "يكتب مسودة أو يُعد نسخة أولية من نص أو وثيقة أو خطة.",
+    "examples": [
+     "The legal team will draft a new contract tomorrow.",
+     "You should draft a preliminary outline before writing the final essay."
+    ]
+   },
+   {
+    "definition_en": "To select or recruit someone for compulsory military service.",
+    "explanation_ar": "يُجنّد شخصاً للخدمة العسكرية الإلزامية.",
+    "examples": [
+     "The military may draft eligible citizens during a national crisis."
+    ]
+   }
+  ],
+  "examples": [
+   "The legal team will draft a new contract tomorrow.",
+   "You should draft a preliminary outline before writing the final essay.",
+   "The military may draft eligible citizens during a national crisis."
+  ],
+  "translations": [
+   "يكتب مسودة",
+   "يُعد مسودة",
+   "يُجنّد"
+  ],
+  "relations": {
+   "synonyms": [
+    "compose",
+    "outline",
+    "conscript",
+    "recruit"
+   ],
+   "antonyms": [
+    "finalize"
+   ],
+   "collocations": [
+    "draft a proposal",
+    "draft a contract",
+    "draft a plan"
+   ]
+  },
+  "mnemonic": "نفس فكرة الاسم.. بيعمل 'Draft' يعني بيجهز ويخطط.",
+  "phonetic_us": "dræft",
+  "phonetic_uk": "drɑːft",
+  "syllables": [
+   "draft"
+  ],
+  "semantic_tags": [
+   "#Writing",
+   "#Work",
+   "#Military",
+   "#Sports"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To prepare a preliminary version of a text; or to recruit someone for military service.",
+  "explanation_ar": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند حد في الجيش.",
+  "examples": [
+   "The legal team will draft a new contract tomorrow.",
+   "You should draft a preliminary outline before writing the final essay.",
+   "The military may draft eligible citizens during a national crisis."
+  ],
+  "translations": {
+   "arabic_ar": "يكتب مسودة يُعد مسودة يُجنّد"
+  },
+  "synonyms": [
+   "compose",
+   "outline",
+   "conscript",
+   "recruit"
+  ],
+  "antonyms": [
+   "finalize"
+  ],
+  "collocations": [
+   "draft a proposal",
+   "draft a contract",
+   "draft a plan"
+  ],
+  "mnemonic_ar": "نفس فكرة الاسم.. بيعمل 'Draft' يعني بيجهز ويخطط."
+ }
+}

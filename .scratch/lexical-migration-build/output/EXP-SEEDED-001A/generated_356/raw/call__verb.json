@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "call",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "call",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To contact someone by phone or shout to them.",
+  "explanation_ar": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To telephone or contact someone by phone.",
+    "definition_ar": "يتصل هاتفياً",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To speak in a loud voice to attract someone's attention.",
+    "definition_ar": "ينادي بصوت عالي",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "To give a specific name to someone or something.",
+    "definition_ar": "يُسمّي شخصاً أو شيئاً",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "Please call me tomorrow.",
+   "I will call a taxi for you.",
+   "They call him 'Big Joe'."
+  ],
+  "translations": [
+   "يتصل",
+   "ينادي",
+   "يسمي"
+  ],
+  "relations": {
+   "synonyms": [
+    "phone",
+    "ring",
+    "shout",
+    "name"
+   ],
+   "antonyms": [
+    "whisper",
+    "ignore"
+   ],
+   "collocations": [
+    "call back",
+    "call off",
+    "call for",
+    "call on"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "kɔːl",
+  "phonetic_uk": "kɔːl",
+  "syllables": "call",
+  "semantic_tags": [
+   "Communication",
+   "Phone",
+   "Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To contact someone by phone or shout to them.",
+  "explanation_ar": "يتصل بحد في التليفون أو ينادي عليه بصوت عالي. وممكن تيجي بمعنى يسمي.",
+  "examples": [
+   "Please call me tomorrow.",
+   "I will call a taxi for you.",
+   "They call him 'Big Joe'."
+  ],
+  "translations": {
+   "arabic_ar": "يتصل ينادي يسمي"
+  },
+  "synonyms": [
+   "phone",
+   "ring",
+   "shout",
+   "name"
+  ],
+  "antonyms": [
+   "whisper",
+   "ignore"
+  ],
+  "collocations": [
+   "call back",
+   "call off",
+   "call for",
+   "call on"
+  ],
+  "mnemonic_ar": null
+ }
+}

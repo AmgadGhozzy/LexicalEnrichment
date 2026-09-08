@@ -1,0 +1,155 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2874",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2874",
+  "lemma": "exposure",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2874,
+  "lemma": "exposure",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪkˈspoʊʒər",
+  "phonetic_uk": "ɪkˈspəʊʒə",
+  "phonetic_ar": "إِكْسْبُوجَرْ",
+  "definition_en": "The state of being unprotected from something harmful, dangerous, or extreme.",
+  "explanation_ar": "حالة التعرض لشيء ضار أو خطير دون حماية، مثل أشعة الشمس القوية، البرد القارس، أو المواد الكيميائية.",
+  "examples": [
+   {
+    "example_text": "Prolonged exposure to the sun without sunscreen can damage your skin.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The hiker suffered from hypothermia after hours of exposure to freezing rain.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The new marketing strategy gave the company massive exposure on social media.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل \"expose\" بمعنى يكشف أو يترك بلا حماية، وإضافة \"ure\" تحولها لاسم يدل على حالة التكشف أو التعرض للخطر.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The condition of being subjected to an external influence, risk, or weather condition.",
+    "short_def_en": "state of being unprotected",
+    "definition_ar": "التعرض لعامل خارجي أو طقس أو خطر دون وقاية.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "health",
+     "safety",
+     "weather"
+    ],
+    "usage_note": "Often followed by the preposition 'to'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Public attention, publicity, or appearance in media.",
+    "short_def_en": "publicity or public attention",
+    "definition_ar": "الشهرة أو الظهور الإعلامي والاهتمام الجماهيري.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "media",
+     "advertising",
+     "marketing"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "The act of revealing hidden truths, secrets, or dishonest behavior to the public.",
+    "short_def_en": "act of uncovering secrets",
+    "definition_ar": "كشف أو فضح أسرار أو ممارسات غير قانونية.",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "journalism",
+     "crime",
+     "politics"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "prolonged exposure",
+   "exposure to sunlight",
+   "gain exposure",
+   "risk of exposure",
+   "media exposure"
+  ],
+  "synonyms": [
+   "vulnerability",
+   "uncovering",
+   "publicity",
+   "disclosure"
+  ],
+  "antonyms": [
+   "protection",
+   "shielding",
+   "concealment"
+  ],
+  "related_words": {
+   "en": [
+    "radiation",
+    "sunlight",
+    "risk",
+    "publicity",
+    "scandal",
+    "vulnerable"
+   ],
+   "ar": [
+    "إشعاع",
+    "ضوء الشمس",
+    "خطر",
+    "دعاية",
+    "فضيحة",
+    "معرض للخطر"
+   ]
+  },
+  "word_family": {
+   "noun": "exposure",
+   "verb": "expose",
+   "adj": "exposed",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "تعرض / كشف / ظهور إعلامي",
+   "french_fr": "exposition",
+   "german_de": "Exposition / Aussetzung",
+   "spanish_es": "exposición",
+   "chinese_zh": "暴露 (Bàolù)",
+   "russian_ru": "воздействие / разоблачение",
+   "portuguese_pt": "exposição",
+   "japanese_ja": "露出 (Roshutsu)",
+   "italian_it": "esposizione",
+   "turkish_tr": "maruz kalma"
+  }
+ },
+ "provenance": {
+  "output_hash": "7272ddf33787b777ba37cc1b6ba03753ecba1aeaf9b457f60304f3f892577c63",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

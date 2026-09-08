@@ -1,0 +1,844 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0004": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "B-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B's definition includes 'cost', which better covers its financial/price senses that both arms introduce in their examples, whereas Arm A restricts its definition solely to speed/frequency. However, Arm A provides Standard Arabic and better relations and translations covering 'سعر'."
+  },
+  "EVAL-BLIND-V1-0005": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides better translations (avoiding the verbal noun 'قيادة' for an adjective), includes useful collocations, and avoids introducing specialized legal senses like 'leading question' without context."
+  },
+  "EVAL-BLIND-V1-0006": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a more comprehensive definition covering both speed and short duration, standard Arabic explanations, and useful collocations."
+  },
+  "EVAL-BLIND-V1-0007": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes examples for financial ('bank statement') and figurative/expressive ('fashion statement', 'political statement') senses that conflict with its narrow formal-declaration definition and Arabic translation, whereas Arm B provides matched examples and includes 'كشف حساب' under translations alongside rich collocations."
+  },
+  "EVAL-BLIND-V1-0008": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "\"Herein lies the proof of his innocence.\" uses 'Herein' instead of the standalone lemma 'here'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic, cohesive examples matching the primary location sense, and strong collocations. Arm B uses colloquial Egyptian Arabic, introduces disparate discourse/figurative senses not covered in its basic definition, and violates the exact target token requirement with 'Herein'."
+  },
+  "EVAL-BLIND-V1-0009": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides much better coverage in translations and relations (collocations included), along with a meaningful etymological memory hook, while Arm A offers broader and richer examples covering various nuances of the word."
+  },
+  "EVAL-BLIND-V1-0010": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal Arabic explanation, comprehensive translations covering both physical weight and intensity, useful collocations, and well-aligned examples. Arm B uses Egyptian dialect in Arabic and includes idioms/extended senses ('heavy going') not clearly reflected in its simple definition."
+  },
+  "EVAL-BLIND-V1-0011": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "The target lemma is the pronoun/determiner usage of 'double'. Arm A consistently targets this quantifier/pronoun sense across definitions, Arabic explanations, and examples. Arm B heavily conflates the pronoun sense with the noun sense ('lookalike/doppelgänger/stand-in') in definition, Arabic, synonyms, and examples."
+  },
+  "EVAL-BLIND-V1-0012": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Arm B introduces figurative and plural noun senses ('sister cities', 'sisters' for nuns, 'rights of our sisters') despite defining only the sibling sense, and violates the exact target lemma token guard in 'sister cities', 'sisters'."
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflections/compounds 'sisters' and 'sister cities' rather than the exact target lemma as a standalone token."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic, strictly adheres to the exact lemma token in its examples, and matches examples to the stated primary sense. Arm B introduces Egyptian colloquial dialect in Arabic explanation, deviates into plural forms ('sisters') and compound adjectives ('sister cities') in examples without definition coverage, and lacks collocations."
+  },
+  "EVAL-BLIND-V1-0013": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic for its explanation and mnemonic, and includes useful collocations. Arm B covers both major senses ('creature' and 'existence/essence') across its examples more effectively, whereas Arm A's third example has awkward phrasing ('mystery of human being')."
+  },
+  "EVAL-BLIND-V1-0014": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses possessive inflection 'The doctor's prognosis' instead of the standalone lemma."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal, accurate Arabic explanation and valid collocations, whereas Arm B uses overly informal dialect in its explanation ('الناس العيانة') and includes an inflected form ('doctor's') violating the exact target rule."
+  },
+  "EVAL-BLIND-V1-0015": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "A",
+     "evidence": "Arm A includes an example with the derivative 'materialism' ('Dialectical materialism is a philosophical concept.') rather than the exact target lemma token 'material'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A commits a target word violation by using 'materialism' instead of 'material'. Arm B provides broader coverage across both the formal/legal sense (significant/consequential) and the physical sense, backed by valid collocations and synonyms for both nuances."
+  },
+  "EVAL-BLIND-V1-0016": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'that' as both an antonym and a synonym under relations."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a superior definition, formal Arabic explanation, complete translations covering both genders (هذا / هذه), and valid collocations. Arm B uses colloquial Egyptian phrasing and incorrectly lists 'that' as a synonym of 'this'."
+  },
+  "EVAL-BLIND-V1-0017": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides wider coverage of the senses of 'channel' (including body/passage of water) in both definition and examples, but uses colloquial dialect in Arabic ('بتمشي فيه الماية'). Arm A uses standard Arabic and provides high-utility collocations."
+  },
+  "EVAL-BLIND-V1-0018": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses standard Modern Standard Arabic for its explanation and includes helpful collocations. Arm B provides a practical mnemonic connecting the noun to the known adjective, though it uses dialectal Arabic in the explanation. Both demonstrate the noun 'fat' well across examples, with B showing more comprehensive coverage of both dietary and bodily fat."
+  },
+  "EVAL-BLIND-V1-0019": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "B-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides a cleaner Modern Standard Arabic explanation, useful collocations, and a genuine etymological/morphological mnemonic connection (prior/priority)."
+  },
+  "EVAL-BLIND-V1-0020": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'marine life' and 'seafood' as direct synonyms of the noun 'fish'."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal, accurate Arabic explanation that covers both the living animal and food senses, solid collocations, and balanced examples. Arm B uses colloquial Egyptian phrasing in the Arabic explanation, includes invalid direct synonyms ('marine life', 'seafood'), and provides a non-functional mnemonic."
+  },
+  "EVAL-BLIND-V1-0021": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "tie",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a broader set of natural examples covering both arithmetic and additive contexts, while Arm B includes valid collocations and a helpful mnemonic tied to the mathematical plus sign."
+  },
+  "EVAL-BLIND-V1-0022": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "tie",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "B-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Both arms accurately capture the ordinal adjective 'fourth'. Arm B provides a slightly more precise definition and useful collocations, while Arm A includes rich cultural/idiomatic examples (fourth estate, fourth wall) alongside standard ones."
+  },
+  "EVAL-BLIND-V1-0023": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B uses inflected forms 'features' and 'featured' across several examples instead of the standalone lemma 'feature'."
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A strictly obeys the exact target lemma requirement across all examples, provides a standard Arabic explanation rather than dialectal, and includes helpful collocations."
+  }
+ }
+}

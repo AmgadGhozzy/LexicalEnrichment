@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "example",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "example",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A thing characteristic of its kind or illustrating a general rule.",
+  "explanation_ar": "مثال.. نموذج بيوضحلك الفكرة عشان تفهمها أحسن.",
+  "senses": [
+   {
+    "definition_en": "A thing characteristic of its kind or illustrating a general rule.",
+    "explanation_ar": "مثال.. نموذج بيوضحلك الفكرة عشان تفهمها أحسن.",
+    "examples": [
+     "This is a good example.",
+     "Can you give me an example?",
+     "For example, you can eat fruit."
+    ]
+   }
+  ],
+  "examples": [
+   "This is a good example.",
+   "Can you give me an example?",
+   "For example, you can eat fruit."
+  ],
+  "translations": [
+   "مثال"
+  ],
+  "relations": {
+   "synonyms": [
+    "instance",
+    "sample",
+    "model"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "for example",
+    "good example",
+    "perfect example",
+    "set an example"
+   ]
+  },
+  "mnemonic": "كلمة 'Exam' 'امتحان' جزء منها.. والامتحان عبارة عن 'Examples' 'أمثلة' بنحلها.",
+  "phonetic_us": "ɪɡˈzæmpl",
+  "phonetic_uk": "ɪɡˈzɑːmpl",
+  "syllables": "ex•am•ple",
+  "semantic_tags": [
+   "Sample",
+   "Model",
+   "Illustration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing characteristic of its kind or illustrating a general rule.",
+  "explanation_ar": "مثال.. نموذج بيوضحلك الفكرة عشان تفهمها أحسن.",
+  "examples": [
+   "This is a good example.",
+   "Can you give me an example?",
+   "For example, you can eat fruit."
+  ],
+  "translations": {
+   "arabic_ar": "مثال"
+  },
+  "synonyms": [
+   "instance",
+   "sample",
+   "model"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "for example",
+   "good example",
+   "perfect example",
+   "set an example"
+  ],
+  "mnemonic_ar": "كلمة 'Exam' 'امتحان' جزء منها.. والامتحان عبارة عن 'Examples' 'أمثلة' بنحلها."
+ }
+}

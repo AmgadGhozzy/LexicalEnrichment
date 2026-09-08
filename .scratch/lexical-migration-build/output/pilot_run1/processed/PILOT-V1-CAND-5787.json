@@ -1,0 +1,113 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5787",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5787",
+  "lemma": "tractor",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5787,
+  "lemma": "tractor",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈtræktər",
+  "phonetic_uk": "ˈtræktə",
+  "phonetic_ar": "تْراكْتَر",
+  "definition_en": "A powerful motor vehicle with large rear tires, used on farms to pull heavy equipment.",
+  "explanation_ar": "مركبة قوية ذات عجلات ضخمة تستخدم في المزارع لجر الآلات الثقيلة وحراثة الأرض.",
+  "examples": [
+   {
+    "example_text": "The farmer used a tractor to pull the heavy plow across the field.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "We were stuck on the narrow road behind a slow tractor.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He learned how to drive a tractor when he was just twelve years old.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"traction\" التي تعني قوة الجر فكلمة \"tractor\" مشتقة من نفس الأصل اللاتيني الذي يعني الجر والسحب في الحقول",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A powerful motor vehicle with large rear tires, used on farms to pull heavy equipment.",
+    "short_def_en": "farm vehicle for pulling machinery",
+    "definition_ar": "مركبة زراعية قوية تستخدم لجر المعدات وحرث الحقول",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "agriculture",
+     "farming",
+     "vehicles",
+     "machinery"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "drive a tractor",
+   "farm tractor",
+   "tractor trailer",
+   "old tractor",
+   "pull with a tractor"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "farm",
+    "plow",
+    "harvester",
+    "trailer",
+    "agriculture"
+   ],
+   "ar": [
+    "مزرعة",
+    "محراث",
+    "حصادة",
+    "مقطورة",
+    "زراعة"
+   ]
+  },
+  "word_family": {
+   "noun": "traction",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "جرار زراعي / جرار",
+   "french_fr": "tracteur",
+   "german_de": "Traktor",
+   "spanish_es": "tractor",
+   "chinese_zh": "拖拉机 (Tuōlājī)",
+   "russian_ru": "трактор",
+   "portuguese_pt": "trator",
+   "japanese_ja": "トラクター (Toraktā)",
+   "italian_it": "trattore",
+   "turkish_tr": "traktör"
+  }
+ },
+ "provenance": {
+  "output_hash": "dc71d277d855ccbee7c0210aaf662e6145598ebf8ed18b588379a919dd26981a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

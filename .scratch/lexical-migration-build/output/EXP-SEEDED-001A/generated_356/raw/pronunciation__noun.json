@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "pronunciation",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "pronunciation",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The way in which a word is spoken or sounded.",
+  "explanation_ar": "طريقة نطق الكلمات.. إزاي تطلع صوت الكلمة صح.",
+  "senses": [
+   {
+    "sense_id": "pronunciation_noun_1",
+    "definition_en": "The way in which a word or language is spoken.",
+    "definition_ar": "طريقة نطق الكلمة أو اللغة وإخراج أصواتها.",
+    "examples": [
+     "We practice pronunciation in class.",
+     "English pronunciation can be difficult.",
+     "His pronunciation is good."
+    ]
+   }
+  ],
+  "examples": [
+   "We practice pronunciation in class.",
+   "English pronunciation can be difficult.",
+   "His pronunciation is good."
+  ],
+  "translations": [
+   "نُطْق",
+   "طريقة النطق"
+  ],
+  "relations": {
+   "synonyms": [
+    "articulation",
+    "diction"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "correct pronunciation",
+    "pronunciation guide",
+    "improve pronunciation"
+   ],
+   "word_family": {
+    "verb": "pronounce",
+    "noun": "pronunciation",
+    "adjective": "pronounced"
+   }
+  },
+  "mnemonic": "الاسم من 'Pronounce'.. ركّز في الـ 'Pronunciation' عشان الناس تفهمك صح.",
+  "phonetic_us": "prəˌnʌn.siˈeɪ.ʃən",
+  "phonetic_uk": "prəˌnʌnsɪˈeɪʃən",
+  "syllables": "pro•nun•ci•a•tion",
+  "semantic_tags": [
+   "#Language",
+   "#Speech",
+   "#Voice"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The way in which a word is spoken or sounded.",
+  "explanation_ar": "طريقة نطق الكلمات.. إزاي تطلع صوت الكلمة صح.",
+  "examples": [
+   "We practice pronunciation in class.",
+   "English pronunciation can be difficult.",
+   "His pronunciation is good."
+  ],
+  "translations": {
+   "arabic_ar": "نُطْق طريقة النطق"
+  },
+  "synonyms": [
+   "articulation",
+   "diction"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "correct pronunciation",
+   "pronunciation guide",
+   "improve pronunciation"
+  ],
+  "mnemonic_ar": "الاسم من 'Pronounce'.. ركّز في الـ 'Pronunciation' عشان الناس تفهمك صح."
+ }
+}

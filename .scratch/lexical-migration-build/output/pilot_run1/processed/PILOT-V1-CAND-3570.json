@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3570",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3570",
+  "lemma": "tune",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3570,
+  "lemma": "tune",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "tuːn",
+  "phonetic_uk": "tjuːn",
+  "phonetic_ar": "تيُون",
+  "definition_en": "A series of musical notes that make a pleasant and memorable piece of music.",
+  "explanation_ar": "نغمة او لحن موسيقي متتابع وجميل يسهل تذكره وترديده.",
+  "examples": [
+   {
+    "example_text": "She hummed a familiar tune while making coffee in the morning.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The band played an upbeat tune that had everyone dancing immediately.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "His violin was completely out of tune before the concert began.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر نغمات برنامج iTunes الموسيقي الشهير حيث كلمة tune تعني لحن او نغمة موسيقية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A series of musical notes that produce a pleasing and recognizable melody.",
+    "short_def_en": "musical melody or song",
+    "definition_ar": "لحن او نغمة موسيقية مميزة يسهل تمييزها",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "music",
+     "melody",
+     "sound",
+     "art"
+    ],
+    "usage_note": "Often used interchangeably with melody, especially in informal or conversational contexts.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The correct musical pitch or state of proper adjustment among instruments.",
+    "short_def_en": "correct musical pitch",
+    "definition_ar": "دوزان النغمات او توافق طبقات الصوت الموسيقية",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "pitch",
+     "harmony",
+     "instruments"
+    ],
+    "usage_note": "Most commonly seen in fixed prepositional phrases like in tune or out of tune.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "catchy tune",
+   "familiar tune",
+   "hum a tune",
+   "play a tune",
+   "in tune"
+  ],
+  "synonyms": [
+   "melody",
+   "song",
+   "air",
+   "strain"
+  ],
+  "antonyms": [
+   "discord",
+   "dissonance"
+  ],
+  "related_words": {
+   "en": [
+    "melody",
+    "pitch",
+    "rhythm",
+    "harmony",
+    "tuner"
+   ],
+   "ar": [
+    "لحن",
+    "درجة الصوت",
+    "ايقاع",
+    "تناغم",
+    "جهاز دوزان"
+   ]
+  },
+  "word_family": {
+   "noun": "tuner",
+   "verb": "tune",
+   "adj": "tuneful",
+   "adv": "tunefully"
+  },
+  "translations": {
+   "arabic_ar": "لحن / نغمة",
+   "french_fr": "mélodie",
+   "german_de": "Melodie",
+   "spanish_es": "melodía",
+   "chinese_zh": "曲调 (Qǔdiào)",
+   "russian_ru": "мелодия",
+   "portuguese_pt": "melodia",
+   "japanese_ja": "調べ (Shirabe)",
+   "italian_it": "melodia",
+   "turkish_tr": "melodi"
+  }
+ },
+ "provenance": {
+  "output_hash": "04a48583af55b73724a5a075dcf9e75601d03ee2464596c30f68b70e9bccd28d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

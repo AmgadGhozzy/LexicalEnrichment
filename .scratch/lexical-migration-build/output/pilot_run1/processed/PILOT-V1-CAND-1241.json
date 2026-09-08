@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1241",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1241",
+  "lemma": "sister",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1241,
+  "lemma": "sister",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.99,
+  "phonetic_us": "ˈsɪstər",
+  "phonetic_uk": "ˈsɪstə",
+  "phonetic_ar": "سِسْتَر",
+  "definition_en": "A girl or woman who shares the same parents as another person.",
+  "explanation_ar": "الأخت هي الفتاة أو المرأة التي تشترك مع شخص آخر في نفس الأب والأم أو أحدهما.",
+  "examples": [
+   {
+    "example_text": "My older sister helps me with my homework every evening.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Do you have a brother or a sister?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "She looks very much like her twin sister.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"sister\" تشبه كلمة \"sit\" فالاخت تجلس دائما بجانبك وتشاركك الحديث والالعاب.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A girl or woman who shares the same parents as another person.",
+    "short_def_en": "female sibling",
+    "definition_ar": "الانثى التي تشترك مع غيرها في نفس الاب والام",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "family",
+     "relatives",
+     "people"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A female member of a religious group, especially a Christian nun.",
+    "short_def_en": "religious nun",
+    "definition_ar": "امراة مكرسة لحياة دينية خاصة الراهبة المسيحية",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "religion",
+     "titles",
+     "community"
+    ],
+    "usage_note": "Often capitalized as a title before a name, such as Sister Mary.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "older sister",
+   "younger sister",
+   "twin sister",
+   "little sister",
+   "big sister"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "brother"
+  ],
+  "related_words": {
+   "en": [
+    "sibling",
+    "family",
+    "mother",
+    "father",
+    "daughter",
+    "aunt"
+   ],
+   "ar": [
+    "شقيق",
+    "عائلة",
+    "أم",
+    "أب",
+    "ابنة",
+    "عمة أو خالة"
+   ]
+  },
+  "word_family": {
+   "noun": "sisterhood",
+   "verb": "",
+   "adj": "sisterly",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "أخت / راهبة",
+   "french_fr": "sœur",
+   "german_de": "Schwester",
+   "spanish_es": "hermana",
+   "chinese_zh": "姐妹 (jiěmèi)",
+   "russian_ru": "сестра",
+   "portuguese_pt": "irmã",
+   "japanese_ja": "姉妹 (Shimai)",
+   "italian_it": "sorella",
+   "turkish_tr": "kız kardeş"
+  }
+ },
+ "provenance": {
+  "output_hash": "83aedf4f856a6d8a7609488a42693781dfed5d3e243ad2cc584958000ce555eb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

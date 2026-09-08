@@ -1,0 +1,108 @@
+{
+ "identity": {
+  "lemma": "appointed",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "appointed",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Decided on beforehand (such as a time or place); equipped or furnished; or chosen for a position.",
+  "explanation_ar": "تأتي بمعنى مُحَدَّد مسبقًا (مثل: appointed time)، أو مُجَهَّز ومفروش (مثل: well-appointed room)، أو مُعَيَّن في وظيفة أو منصب.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Decided on or arranged in advance (such as a time or place).",
+    "definition_ar": "مُحَدَّد أو مُتَّفَق عليه مسبقًا (مثل موعد أو مكان).",
+    "examples": [
+     "He arrived at the appointed time."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Chosen or officially designated for a job or responsibility.",
+    "definition_ar": "مُعَيَّن في منصب أو وظيفة.",
+    "examples": [
+     "She is the newly appointed manager."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "Equipped or furnished in a specified manner.",
+    "definition_ar": "مُؤَثَّث أو مُجَهَّز بطريقة معينة.",
+    "examples": [
+     "We stayed in a luxuriously appointed suite at the hotel."
+    ]
+   }
+  ],
+  "examples": [
+   "He arrived at the appointed time.",
+   "She is the newly appointed manager.",
+   "We stayed in a luxuriously appointed suite at the hotel."
+  ],
+  "translations": [
+   "مُحَدَّد",
+   "مُعَيَّن",
+   "مُجَهَّز"
+  ],
+  "relations": {
+   "synonyms": [
+    "designated",
+    "scheduled",
+    "furnished",
+    "equipped"
+   ],
+   "antonyms": [
+    "random",
+    "unexpected"
+   ],
+   "collocations": [
+    "appointed time",
+    "appointed place",
+    "well-appointed",
+    "newly appointed"
+   ]
+  },
+  "mnemonic": "من 'Appointment' يعني موعد.. لما حاجة تكون 'Appointed' يعني تم تحديدها أو تعيينها.",
+  "phonetic_us": "əˈpɔɪntɪd",
+  "phonetic_uk": "əˈpɔɪntɪd",
+  "syllables": "ap•point•ed",
+  "semantic_tags": [
+   "#Time",
+   "#Work",
+   "#Furniture",
+   "#Formal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Decided on beforehand (such as a time or place); equipped or furnished; or chosen for a position.",
+  "explanation_ar": "تأتي بمعنى مُحَدَّد مسبقًا (مثل: appointed time)، أو مُجَهَّز ومفروش (مثل: well-appointed room)، أو مُعَيَّن في وظيفة أو منصب.",
+  "examples": [
+   "He arrived at the appointed time.",
+   "She is the newly appointed manager.",
+   "We stayed in a luxuriously appointed suite at the hotel."
+  ],
+  "translations": {
+   "arabic_ar": "مُحَدَّد مُعَيَّن مُجَهَّز"
+  },
+  "synonyms": [
+   "designated",
+   "scheduled",
+   "furnished",
+   "equipped"
+  ],
+  "antonyms": [
+   "random",
+   "unexpected"
+  ],
+  "collocations": [
+   "appointed time",
+   "appointed place",
+   "well-appointed",
+   "newly appointed"
+  ],
+  "mnemonic_ar": "من 'Appointment' يعني موعد.. لما حاجة تكون 'Appointed' يعني تم تحديدها أو تعيينها."
+ }
+}

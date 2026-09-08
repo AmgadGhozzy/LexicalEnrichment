@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3780",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3780",
+  "lemma": "portrait",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3780,
+  "lemma": "portrait",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈpɔːrtrət",
+  "phonetic_uk": "ˈpɔːtreɪt",
+  "phonetic_ar": "بُورترِيت",
+  "definition_en": "A painting, drawing, or photograph of a person, especially showing only the face or head and shoulders.",
+  "explanation_ar": "لوحة فنية أو صورة فوتوغرافية لشخص، تركز عادة على وجهه أو ملامحه.",
+  "examples": [
+   {
+    "example_text": "The artist painted a detailed portrait of the elderly man.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "A famous portrait of the queen hangs in the national gallery.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She took a lovely portrait of her daughter in natural light.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة portray اي يصور او يرسم، فالصورة الفنية لشخص او وجهه هي portrait.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A painting, drawing, or photograph showing a person, especially focusing on the face.",
+    "short_def_en": "picture of a person",
+    "definition_ar": "صورة مرسومة او فوتوغرافية لشخص تظهر ملامح وجهه غالبا.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "art",
+     "photography",
+     "painting",
+     "visual arts"
+    ],
+    "usage_note": "Commonly refers to art showing the head and shoulders, contrasting with landscape or still life.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A detailed written or verbal description representing a person or situation.",
+    "short_def_en": "detailed description or portrayal",
+    "definition_ar": "وصف تفصيلي او تجسيد دقيق لشخص او واقع معين في عمل ادبي او اعلامي.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "literature",
+     "description",
+     "representation"
+    ],
+    "usage_note": "Used figuratively in journalism and literature.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "family portrait",
+   "self portrait",
+   "paint a portrait",
+   "portrait gallery",
+   "portrait mode"
+  ],
+  "synonyms": [
+   "likeness",
+   "picture",
+   "painting",
+   "photograph",
+   "portrayal"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "canvas",
+    "easel",
+    "face",
+    "gallery",
+    "photographer",
+    "painter"
+   ],
+   "ar": [
+    "لوحة قماشية",
+    "حامل اللوحة",
+    "وجه",
+    "معرض فني",
+    "مصور",
+    "رسام"
+   ]
+  },
+  "word_family": {
+   "noun": "portraiture",
+   "verb": "portray",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بورتريه / لوحة شخصية / صورة وجه",
+   "french_fr": "portrait",
+   "german_de": "Porträt",
+   "spanish_es": "retrato",
+   "chinese_zh": "肖像 (Xiàoxiàng)",
+   "russian_ru": "портрет",
+   "portuguese_pt": "retrato",
+   "japanese_ja": "肖像画 (Shōzōga)",
+   "italian_it": "ritratto",
+   "turkish_tr": "portre"
+  }
+ },
+ "provenance": {
+  "output_hash": "f318147f1d91a5e6108144b5eab2f005a98728252569c8a5c700dd2ac49bf0d7",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

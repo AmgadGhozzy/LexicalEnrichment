@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "tap",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "tap",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To hit lightly; or to make use of a resource.",
+  "explanation_ar": "يخبط خبطة خفيفة، أو يستغل مصدر معين زي ما بتفتح الحنفية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To hit someone or something lightly, or to touch a screen gently.",
+    "explanation_ar": "ينقر أو يضرب بخفة (أو يضغط برفق على الشاشة)"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To make use of a source, supply, or available resource.",
+    "explanation_ar": "يستغل مورداً أو إمكانية معينة للاستفادة منها"
+   }
+  ],
+  "examples": [
+   "Please tap the screen to start the video.",
+   "We need to tap into new markets to expand our business.",
+   "The company is trying to tap the student talent pool."
+  ],
+  "translations": [
+   "ينقر",
+   "يستغل"
+  ],
+  "relations": {
+   "synonyms": [
+    "strike lightly",
+    "utilize",
+    "exploit"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "tap into",
+    "tap gently",
+    "tap resources"
+   ]
+  },
+  "mnemonic": "زي ما بتعمل 'Tap' على شاشة الموبايل عشان تختار حاجة.",
+  "phonetic_us": "/tæp/",
+  "phonetic_uk": "/tæp/",
+  "syllables": "tap",
+  "semantic_tags": [
+   "#Touch",
+   "#Use",
+   "#Sound"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To hit lightly; or to make use of a resource.",
+  "explanation_ar": "يخبط خبطة خفيفة، أو يستغل مصدر معين زي ما بتفتح الحنفية.",
+  "examples": [
+   "Please tap the screen to start the video.",
+   "We need to tap into new markets to expand our business.",
+   "The company is trying to tap the student talent pool."
+  ],
+  "translations": {
+   "arabic_ar": "ينقر يستغل"
+  },
+  "synonyms": [
+   "strike lightly",
+   "utilize",
+   "exploit"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "tap into",
+   "tap gently",
+   "tap resources"
+  ],
+  "mnemonic_ar": "زي ما بتعمل 'Tap' على شاشة الموبايل عشان تختار حاجة."
+ }
+}

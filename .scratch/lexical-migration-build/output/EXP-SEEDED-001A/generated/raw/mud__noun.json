@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "mud",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "mud",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Soft, wet earth.",
+  "explanation_ar": "التراب لما يختلط بالمية ويبقى طين أو وحل.",
+  "senses": [
+   {
+    "definition_en": "Soft, wet earth.",
+    "explanation_ar": "طين أو وحل ناتج عن اختلاط التراب بالماء.",
+    "examples": [
+     "The car got stuck in the mud.",
+     "My shoes are covered in mud.",
+     "Pigs like to roll in the mud."
+    ]
+   }
+  ],
+  "examples": [
+   "The car got stuck in the mud.",
+   "My shoes are covered in mud.",
+   "Pigs like to roll in the mud."
+  ],
+  "translations": [
+   "طين",
+   "وحل"
+  ],
+  "relations": {
+   "synonyms": [
+    "mire",
+    "sludge",
+    "dirt"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "covered in mud",
+    "stuck in the mud",
+    "thick mud"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/mʌd/",
+  "phonetic_uk": "/mʌd/",
+  "syllables": "mud",
+  "semantic_tags": [
+   "nature",
+   "earth",
+   "weather"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Soft, wet earth.",
+  "explanation_ar": "التراب لما يختلط بالمية ويبقى طين أو وحل.",
+  "examples": [
+   "The car got stuck in the mud.",
+   "My shoes are covered in mud.",
+   "Pigs like to roll in the mud."
+  ],
+  "translations": {
+   "arabic_ar": "طين وحل"
+  },
+  "synonyms": [
+   "mire",
+   "sludge",
+   "dirt"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "covered in mud",
+   "stuck in the mud",
+   "thick mud"
+  ],
+  "mnemonic_ar": null
+ }
+}

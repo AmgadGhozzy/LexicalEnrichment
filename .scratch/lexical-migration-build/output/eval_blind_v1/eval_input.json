@@ -1,0 +1,1796 @@
+{
+ "eval_input_id": "EVAL-BLIND-V1-INPUT",
+ "entries": [
+  {
+   "candidate_key": "PILOT-V1-CAND-1028",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1033",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1061",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1120",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1152",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1154",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1191",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-120",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1205",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1219",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1239",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1241",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-130",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1351",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1375",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-14",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1488",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1489",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1504",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1507",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1525",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1553",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1566",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1569",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1571",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1627",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1664",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1738",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1789",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1803",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1805",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1845",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1855",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1868",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1881",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1918",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1920",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-194",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-195",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1958",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1973",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-1990",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2001",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2051",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2111",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2117",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-213",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2131",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2138",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2142",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2143",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2175",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2182",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2199",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2217",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2219",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2229",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2235",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2248",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2265",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2284",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2291",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2296",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2355",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2369",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2374",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-238",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-239",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2390",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2419",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2433",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2485",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2491",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2503",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2538",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2562",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2602",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2623",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2630",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2632",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2648",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2655",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2674",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2686",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-27",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2702",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2726",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2734",
+   "status": "partial",
+   "validator_failures": [
+    {
+     "code": "TARGET_WORD_MISSING",
+     "message": "Lemma 'ice cream' not found in examples [0, 1, 2]"
+    }
+   ]
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2739",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2795",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2798",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2834",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2866",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2874",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-2981",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3018",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3043",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3074",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3083",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3084",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3103",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3106",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-311",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3111",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3136",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3154",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3158",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3159",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3170",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-32",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3207",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3217",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3234",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3237",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3271",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3288",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3295",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3316",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3317",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3324",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3337",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3341",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-337",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3392",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3411",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-343",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3438",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3439",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3451",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3459",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-347",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3484",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-349",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-35",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3516",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3518",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3533",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3550",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3569",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3570",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3628",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3641",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-367",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3676",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3725",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-374",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3742",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3754",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3780",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-38",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3827",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3858",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3863",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3877",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3896",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-390",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3902",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3916",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3927",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3936",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3937",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3947",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3955",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-3984",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4004",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4052",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4075",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4097",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4099",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4103",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4110",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-412",
+   "status": "partial",
+   "validator_failures": [
+    {
+     "code": "TARGET_WORD_MISSING",
+     "message": "Lemma 'line-up' not found in examples [0, 1, 2]"
+    }
+   ]
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4180",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4184",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4188",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4219",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4234",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4247",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4260",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4274",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4309",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4347",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4348",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4360",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4369",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4412",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4439",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4448",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-447",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4492",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4499",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4500",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4515",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4517",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4526",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4531",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4557",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4577",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4581",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-460",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-462",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4626",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4638",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4695",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4710",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4743",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4760",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4784",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4787",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4799",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-481",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4843",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4850",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4879",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4895",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4913",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4916",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-494",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4942",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-4992",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5030",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5041",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-506",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5068",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5113",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5118",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5137",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5201",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5212",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5238",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5243",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5250",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5272",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5273",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5340",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5342",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5381",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5387",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5391",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5394",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5403",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5426",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5475",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5495",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5501",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-551",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5530",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5532",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5538",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5542",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5549",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5589",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5631",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5640",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5645",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5674",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5678",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5685",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5717",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5739",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-575",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5757",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-577",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5771",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5787",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5792",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5814",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5817",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5823",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5827",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5833",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5870",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5875",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5890",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5895",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5931",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5933",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5934",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5941",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-5977",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6058",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6127",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-613",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6145",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6156",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6228",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6234",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6266",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6278",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-629",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6320",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6327",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6328",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6347",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6369",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6380",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6412",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6419",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6425",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6500",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6502",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6520",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6545",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6560",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6570",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-658",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6593",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6595",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6609",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6625",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6685",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6697",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6708",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6728",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6736",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6745",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-68",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6827",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6860",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-69",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6902",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6907",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6940",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-6959",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7006",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7007",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7028",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7048",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7067",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7132",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7140",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7143",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7149",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-715",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-717",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7205",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7210",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7223",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7246",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7270",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-7290",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-749",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-762",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-794",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-827",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-83",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-884",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-885",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-89",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-904",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-92",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-924",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-953",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-963",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-980",
+   "status": "ok",
+   "validator_failures": []
+  },
+  {
+   "candidate_key": "PILOT-V1-CAND-984",
+   "status": "ok",
+   "validator_failures": []
+  }
+ ],
+ "input_hash": "bf7a147969c32a123adafa5cd3b6e49076d747835a4a6a3b4f3fc64cc10e4b57"
+}

@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1120",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1120",
+  "lemma": "rate",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1120,
+  "lemma": "rate",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "4",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "reɪt",
+  "phonetic_uk": null,
+  "phonetic_ar": "رَيْت",
+  "definition_en": "The speed or frequency at which an event happens over a particular period.",
+  "explanation_ar": "المعدل أو السرعة التي يحدث بها شيء ما خلال فترة زمنية محددة، مثل معدل السرعة أو النمو.",
+  "examples": [
+   {
+    "example_text": "The car was moving at a very high rate of speed.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "What is the daily rate for this hotel room?",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The country has a low unemployment rate this year.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"rate\" بربطها بكلمة رتبة او ترتيب لمعرفة قياس او معدل الشيء بمقارنته مع الزمن او السعر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A measurement of the speed or frequency at which something happens.",
+    "short_def_en": "speed or frequency measurement",
+    "definition_ar": "معدل حدوث شيء ما من حيث السرعة او التكرار",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Measure",
+    "semantic_tags": [
+     "measurement",
+     "frequency",
+     "speed"
+    ],
+    "usage_note": "Often used with prepositions like 'at' or in phrases such as 'growth rate'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A fixed price charged for a specific service or good.",
+    "short_def_en": "fixed charge or price",
+    "definition_ar": "سعر او تعرفة محددة مقابل خدمة او سلعة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "finance",
+     "money",
+     "pricing"
+    ],
+    "usage_note": "Common in business contexts such as hourly rate, room rate, or exchange rate.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "interest rate",
+   "exchange rate",
+   "success rate",
+   "at any rate",
+   "growth rate"
+  ],
+  "synonyms": [
+   "speed",
+   "pace",
+   "ratio",
+   "price",
+   "tariff"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "percentage",
+    "speed",
+    "charge",
+    "index",
+    "frequency"
+   ],
+   "ar": [
+    "نسبة مئوية",
+    "سرعة",
+    "تكلفة",
+    "مؤشر",
+    "تكرار"
+   ]
+  },
+  "word_family": {
+   "noun": "rating",
+   "verb": "rate",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "معدل / نسبة / سعر",
+   "french_fr": "taux",
+   "german_de": "Rate",
+   "spanish_es": "tasa",
+   "chinese_zh": "比率 (Bǐlǜ)",
+   "russian_ru": "ставка",
+   "portuguese_pt": "taxa",
+   "japanese_ja": "割合 (Wariai)",
+   "italian_it": "tasso",
+   "turkish_tr": "oran"
+  }
+ },
+ "provenance": {
+  "output_hash": "d324c2cc9cc6d4760ccb044cb39ac685f32a02c1bee7431d0494d3266f945a81",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

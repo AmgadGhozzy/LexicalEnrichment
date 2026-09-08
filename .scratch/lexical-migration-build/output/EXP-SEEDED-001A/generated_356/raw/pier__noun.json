@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "pier",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "pier",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A structure leading out from the shore into a body of water, used as a landing stage.",
+  "explanation_ar": "رصيف خشبي أو حجري ممدود جوه البحر عشان الناس تمشي عليه أو المراكب تقف عنده.",
+  "senses": [
+   {
+    "definition_en": "A structure leading out from the shore into a body of water, used as a landing stage.",
+    "explanation_ar": "رصيف خشبي أو حجري ممدود جوه البحر عشان الناس تمشي عليه أو المراكب تقف عنده.",
+    "examples": [
+     "People were fishing off the end of the pier.",
+     "The storm damaged the wooden pier.",
+     "The pier features an amusement park and restaurants."
+    ]
+   }
+  ],
+  "examples": [
+   "People were fishing off the end of the pier.",
+   "The storm damaged the wooden pier.",
+   "The pier features an amusement park and restaurants."
+  ],
+  "translations": [
+   "رصيف بحري"
+  ],
+  "relations": {
+   "synonyms": [
+    "dock",
+    "jetty",
+    "wharf",
+    "quay"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fishing pier",
+    "wooden pier",
+    "walk along the pier"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Peer' 'يبحلق'.. بنقف على الـ 'Pier' ونبص على البحر.",
+  "phonetic_us": "pɪr",
+  "phonetic_uk": "pɪə",
+  "syllables": [
+   "pier"
+  ],
+  "semantic_tags": [
+   "#Sea",
+   "#Structure",
+   "#Boat"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A structure leading out from the shore into a body of water, used as a landing stage.",
+  "explanation_ar": "رصيف خشبي أو حجري ممدود جوه البحر عشان الناس تمشي عليه أو المراكب تقف عنده.",
+  "examples": [
+   "People were fishing off the end of the pier.",
+   "The storm damaged the wooden pier.",
+   "The pier features an amusement park and restaurants."
+  ],
+  "translations": {
+   "arabic_ar": "رصيف بحري"
+  },
+  "synonyms": [
+   "dock",
+   "jetty",
+   "wharf",
+   "quay"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fishing pier",
+   "wooden pier",
+   "walk along the pier"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Peer' 'يبحلق'.. بنقف على الـ 'Pier' ونبص على البحر."
+ }
+}

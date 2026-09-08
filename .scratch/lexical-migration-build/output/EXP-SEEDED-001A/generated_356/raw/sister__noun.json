@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "sister",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sister",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A girl or woman who has the same parents as another person.",
+  "explanation_ar": "البنت اللي ليها نفس الأب والأم معاك، فرد من العيلة أقرب ما يكون ليك.",
+  "senses": [
+   {
+    "definition_en": "A girl or woman who has the same parents as another person.",
+    "definition_ar": "أخت؛ بنت أو امرأة تتشارك نفس الأبوين مع شخص آخر.",
+    "examples": [
+     "I have one sister.",
+     "My older sister lives in Paris.",
+     "She is like a sister to me."
+    ]
+   }
+  ],
+  "examples": [
+   "I have one sister.",
+   "My older sister lives in Paris.",
+   "She is like a sister to me."
+  ],
+  "translations": [
+   "أخت"
+  ],
+  "relations": {
+   "synonyms": [
+    "sis"
+   ],
+   "antonyms": [
+    "brother"
+   ],
+   "collocations": [
+    "older sister",
+    "younger sister",
+    "twin sister",
+    "half-sister"
+   ]
+  },
+  "mnemonic": "تشبه 'Sista' بالعامية.. هي أختك اللي من نفس الأب والأم.",
+  "phonetic_us": "ˈsɪstər",
+  "phonetic_uk": "ˈsɪstə",
+  "syllables": "sis•ter",
+  "semantic_tags": [
+   "Family",
+   "Relationships",
+   "Female"
+  ],
+  "ai_confidence": 0.99
+ },
+ "arm": {
+  "definition_en": "A girl or woman who has the same parents as another person.",
+  "explanation_ar": "البنت اللي ليها نفس الأب والأم معاك، فرد من العيلة أقرب ما يكون ليك.",
+  "examples": [
+   "I have one sister.",
+   "My older sister lives in Paris.",
+   "She is like a sister to me."
+  ],
+  "translations": {
+   "arabic_ar": "أخت"
+  },
+  "synonyms": [
+   "sis"
+  ],
+  "antonyms": [
+   "brother"
+  ],
+  "collocations": [
+   "older sister",
+   "younger sister",
+   "twin sister",
+   "half-sister"
+  ],
+  "mnemonic_ar": "تشبه 'Sista' بالعامية.. هي أختك اللي من نفس الأب والأم."
+ }
+}

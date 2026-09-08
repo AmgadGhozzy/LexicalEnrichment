@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "colour",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "colour",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The appearance that something has as a result of reflecting light, such as red, blue, or green.",
+  "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+  "senses": [
+   {
+    "sense_id": "colour-01",
+    "definition_en": "The appearance that something has as a result of reflecting light, such as red, blue, or green.",
+    "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+    "examples": [
+     "What is your favourite colour?",
+     "The sky is a beautiful blue colour.",
+     "The leaves change colour in autumn."
+    ]
+   }
+  ],
+  "examples": [
+   "What is your favourite colour?",
+   "The sky is a beautiful blue colour.",
+   "The leaves change colour in autumn."
+  ],
+  "translations": [
+   "لون"
+  ],
+  "relations": {
+   "synonyms": [
+    "hue",
+    "shade",
+    "tint",
+    "tone"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bright colour",
+    "dark colour",
+    "change colour",
+    "colour scheme",
+    "primary colour"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈkʌlər",
+  "phonetic_uk": "ˈkʌlə",
+  "syllables": [
+   "col",
+   "our"
+  ],
+  "semantic_tags": [
+   "#Vision",
+   "#Art",
+   "#Description"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The appearance that something has as a result of reflecting light, such as red, blue, or green.",
+  "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+  "examples": [
+   "What is your favourite colour?",
+   "The sky is a beautiful blue colour.",
+   "The leaves change colour in autumn."
+  ],
+  "translations": {
+   "arabic_ar": "لون"
+  },
+  "synonyms": [
+   "hue",
+   "shade",
+   "tint",
+   "tone"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bright colour",
+   "dark colour",
+   "change colour",
+   "colour scheme",
+   "primary colour"
+  ],
+  "mnemonic_ar": null
+ }
+}

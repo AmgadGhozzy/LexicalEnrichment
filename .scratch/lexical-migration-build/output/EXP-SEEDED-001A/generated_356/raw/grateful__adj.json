@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "grateful",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "grateful",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Feeling or showing thanks to someone; appreciative.",
+  "explanation_ar": "يعني تكون ممتن وشاكر لحد عمل معاك واجب أو ساعدك.",
+  "senses": [
+   {
+    "definition_en": "Feeling or showing thanks to someone; appreciative.",
+    "explanation_ar": "يعني تكون ممتن وشاكر لحد عمل معاك واجب أو ساعدك.",
+    "examples": [
+     "I am grateful for your help.",
+     "She gave him a grateful smile.",
+     "We are deeply grateful to all the staff."
+    ]
+   }
+  ],
+  "examples": [
+   "I am grateful for your help.",
+   "She gave him a grateful smile.",
+   "We are deeply grateful to all the staff."
+  ],
+  "translations": [
+   "ممتن",
+   "شاكر"
+  ],
+  "relations": {
+   "synonyms": [
+    "thankful",
+    "appreciative",
+    "obliged",
+    "indebted"
+   ],
+   "antonyms": [
+    "ungrateful",
+    "unappreciative"
+   ],
+   "collocations": [
+    "deeply grateful",
+    "eternally grateful",
+    "grateful to"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Great'.. لما حد يعمل معاك حاجة 'Great' عظيمة، لازم تكون 'Grateful' ليه.",
+  "phonetic_us": "ˈɡɹeɪtfəl",
+  "phonetic_uk": "ˈɡreɪtfʊl",
+  "syllables": "grate•ful",
+  "semantic_tags": [
+   "Thanks",
+   "Politeness",
+   "Attitude"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Feeling or showing thanks to someone; appreciative.",
+  "explanation_ar": "يعني تكون ممتن وشاكر لحد عمل معاك واجب أو ساعدك.",
+  "examples": [
+   "I am grateful for your help.",
+   "She gave him a grateful smile.",
+   "We are deeply grateful to all the staff."
+  ],
+  "translations": {
+   "arabic_ar": "ممتن شاكر"
+  },
+  "synonyms": [
+   "thankful",
+   "appreciative",
+   "obliged",
+   "indebted"
+  ],
+  "antonyms": [
+   "ungrateful",
+   "unappreciative"
+  ],
+  "collocations": [
+   "deeply grateful",
+   "eternally grateful",
+   "grateful to"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Great'.. لما حد يعمل معاك حاجة 'Great' عظيمة، لازم تكون 'Grateful' ليه."
+ }
+}

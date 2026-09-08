@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "squeeze",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "squeeze",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An act of pressing something firmly; a situation of financial restriction or difficulty.",
+  "explanation_ar": "ضغطة قوية بالإيد، أو زنقة في الفلوس أو المكان.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An act of pressing something firmly with your hand or fingers.",
+    "definition_ar": "ضغطة باليد أو الأصابع.",
+    "examples": [
+     "She gave his hand a gentle squeeze."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A strict limit or reduction in finances, profits, or resources.",
+    "definition_ar": "أزمة أو ضائقة مالية وتقييد للإنفاق.",
+    "examples": [
+     "The company is feeling the squeeze from rising costs.",
+     "The credit squeeze has affected small businesses."
+    ]
+   }
+  ],
+  "examples": [
+   "She gave his hand a gentle squeeze.",
+   "The company is feeling the squeeze from rising costs.",
+   "The credit squeeze has affected small businesses."
+  ],
+  "translations": [
+   "ضغطة",
+   "أزمة",
+   "ضائقة مالية"
+  ],
+  "relations": {
+   "synonyms": [
+    "press",
+    "pinch",
+    "hug",
+    "restriction"
+   ],
+   "antonyms": [
+    "expansion",
+    "release"
+   ],
+   "collocations": [
+    "tight squeeze",
+    "gentle squeeze",
+    "credit squeeze",
+    "profit squeeze"
+   ]
+  },
+  "mnemonic": "كلمة 'Squeeze' فيها صوت الكاف والزاي زي كأنك بتعصر حاجة 'سكوييز'.",
+  "phonetic_us": "skwiːz",
+  "phonetic_uk": "skwiːz",
+  "syllables": "1",
+  "semantic_tags": [
+   "#Pressure",
+   "#Finance",
+   "#Gesture",
+   "#Restriction"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An act of pressing something firmly; a situation of financial restriction or difficulty.",
+  "explanation_ar": "ضغطة قوية بالإيد، أو زنقة في الفلوس أو المكان.",
+  "examples": [
+   "She gave his hand a gentle squeeze.",
+   "The company is feeling the squeeze from rising costs.",
+   "The credit squeeze has affected small businesses."
+  ],
+  "translations": {
+   "arabic_ar": "ضغطة أزمة ضائقة مالية"
+  },
+  "synonyms": [
+   "press",
+   "pinch",
+   "hug",
+   "restriction"
+  ],
+  "antonyms": [
+   "expansion",
+   "release"
+  ],
+  "collocations": [
+   "tight squeeze",
+   "gentle squeeze",
+   "credit squeeze",
+   "profit squeeze"
+  ],
+  "mnemonic_ar": "كلمة 'Squeeze' فيها صوت الكاف والزاي زي كأنك بتعصر حاجة 'سكوييز'."
+ }
+}

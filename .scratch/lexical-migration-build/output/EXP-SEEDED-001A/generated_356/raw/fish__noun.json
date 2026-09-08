@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "fish",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fish",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An animal that lives in water, has fins and scales, and breathes through gills, or its flesh eaten as food.",
+  "explanation_ar": "حيوان يعيش في الماء له زعانف وخياشيم (سمكة)، أو لحمه الذي يُؤكل كطعام (سمك).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An animal that lives in water, has fins and scales, and breathes through gills.",
+    "definition_ar": "حيوان مائي له زعانف وخياشيم.",
+    "examples": [
+     "He caught a large fish in the river.",
+     "The fish swam slowly around the tank."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The flesh of this animal eaten as food.",
+    "definition_ar": "لحم السمك المأكول كطعام.",
+    "examples": [
+     "I like to eat fish for dinner."
+    ]
+   }
+  ],
+  "examples": [
+   "I like to eat fish for dinner.",
+   "He caught a large fish in the river.",
+   "The fish swam slowly around the tank."
+  ],
+  "translations": [
+   "سمكة",
+   "سمك"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "fresh fish",
+    "fish tank",
+    "catch a fish"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "fɪʃ",
+  "phonetic_uk": "fɪʃ",
+  "syllables": "fish",
+  "semantic_tags": [
+   "#Animal",
+   "#Food",
+   "#Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An animal that lives in water, has fins and scales, and breathes through gills, or its flesh eaten as food.",
+  "explanation_ar": "حيوان يعيش في الماء له زعانف وخياشيم (سمكة)، أو لحمه الذي يُؤكل كطعام (سمك).",
+  "examples": [
+   "I like to eat fish for dinner.",
+   "He caught a large fish in the river.",
+   "The fish swam slowly around the tank."
+  ],
+  "translations": {
+   "arabic_ar": "سمكة سمك"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "fresh fish",
+   "fish tank",
+   "catch a fish"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "swallow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "swallow",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An act of swallowing food or liquid, a mouthful; or a small migratory bird with long pointed wings and a forked tail.",
+  "explanation_ar": "اسم له معنيان شائعان: إما جُرْعة أو بَلْعة من شراب أو طعام، وإما طائر السُّنُونُو الصغير ذو الأجنحة الطويلة والذيل المتشعب.",
+  "senses": [
+   {
+    "definition_en": "An act of swallowing, or the amount of food or drink taken at one time.",
+    "definition_ar": "بَلْعة أو جُرْعة؛ حركة ابتلاع الشيء أو كميته دفعة واحدة.",
+    "examples": [
+     "He took a swallow of water.",
+     "With a nervous swallow, he began his speech."
+    ]
+   },
+   {
+    "definition_en": "A small migratory bird with pointed wings and a divided tail.",
+    "definition_ar": "طائر السُّنُونُو؛ طائر صغير رشيق مهاجر.",
+    "examples": [
+     "Look at that little swallow flying."
+    ]
+   }
+  ],
+  "examples": [
+   "He took a swallow of water.",
+   "With a nervous swallow, he began his speech.",
+   "Look at that little swallow flying."
+  ],
+  "translations": [
+   "طَائِر السُّنُونُو",
+   "جُرْعَة",
+   "بَلْعَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "gulp",
+    "sip",
+    "mouthful"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "take a swallow",
+    "barn swallow",
+    "deep swallow"
+   ]
+  },
+  "mnemonic": "كلمة 'Swallow' قريبة من 'Swollen' 'متورم'.. لو زورك متورم مش هتعرف تعمل 'Swallow' 'تبلع'.",
+  "phonetic_us": "ˈswɑː.loʊ",
+  "phonetic_uk": "ˈswɒl.əʊ",
+  "syllables": "swal•low",
+  "semantic_tags": [
+   "Animals & Birds",
+   "Food & Drink",
+   "Body Actions"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An act of swallowing food or liquid, a mouthful; or a small migratory bird with long pointed wings and a forked tail.",
+  "explanation_ar": "اسم له معنيان شائعان: إما جُرْعة أو بَلْعة من شراب أو طعام، وإما طائر السُّنُونُو الصغير ذو الأجنحة الطويلة والذيل المتشعب.",
+  "examples": [
+   "He took a swallow of water.",
+   "With a nervous swallow, he began his speech.",
+   "Look at that little swallow flying."
+  ],
+  "translations": {
+   "arabic_ar": "طَائِر السُّنُونُو جُرْعَة بَلْعَة"
+  },
+  "synonyms": [
+   "gulp",
+   "sip",
+   "mouthful"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "take a swallow",
+   "barn swallow",
+   "deep swallow"
+  ],
+  "mnemonic_ar": "كلمة 'Swallow' قريبة من 'Swollen' 'متورم'.. لو زورك متورم مش هتعرف تعمل 'Swallow' 'تبلع'."
+ }
+}

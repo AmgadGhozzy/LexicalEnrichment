@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "through",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "through",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "From one end or side to the other, or from the beginning to the end; completely.",
+  "explanation_ar": "تُستخدم كظرف بمعنى المرور والعبور من جانب لآخر (زي: عدّيني / خليني أمُر)، أو الاستمرار من البداية حتى النهاية وبشكل كامل (زي قراءة شيء للنهاية أو التبلل بالكامل).",
+  "senses": [
+   {
+    "definition_en": "From one end or side to the other, allowing passage.",
+    "definition_ar": "من طرف أو جانب إلى الآخر بغرض المرور والعبور.",
+    "examples": [
+     "Please let me through."
+    ]
+   },
+   {
+    "definition_en": "From the beginning to the end; completely.",
+    "definition_ar": "من البداية حتى النهاية؛ بشكل كلي أو كامل.",
+    "examples": [
+     "I read the book straight through.",
+     "We were wet through after the rain."
+    ]
+   }
+  ],
+  "examples": [
+   "Please let me through.",
+   "I read the book straight through.",
+   "We were wet through after the rain."
+  ],
+  "translations": [
+   "عَبْر",
+   "للمرور",
+   "حتى النهاية",
+   "تماماً"
+  ],
+  "relations": {
+   "synonyms": [
+    "completely",
+    "thoroughly",
+    "entirely"
+   ],
+   "antonyms": [
+    "partially"
+   ],
+   "collocations": [
+    "wet through",
+    "read through",
+    "think through",
+    "sleep through",
+    "follow through"
+   ]
+  },
+  "mnemonic": "افتكر 'Through' بإنك بتعدي في الحاجة لحد ما تخلصها.. يعني بتعملها 'Through' للنهاية.",
+  "phonetic_us": "θruː",
+  "phonetic_uk": "θruː",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Completion",
+   "#Extent",
+   "#Movement",
+   "#Time"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "From one end or side to the other, or from the beginning to the end; completely.",
+  "explanation_ar": "تُستخدم كظرف بمعنى المرور والعبور من جانب لآخر (زي: عدّيني / خليني أمُر)، أو الاستمرار من البداية حتى النهاية وبشكل كامل (زي قراءة شيء للنهاية أو التبلل بالكامل).",
+  "examples": [
+   "Please let me through.",
+   "I read the book straight through.",
+   "We were wet through after the rain."
+  ],
+  "translations": {
+   "arabic_ar": "عَبْر للمرور حتى النهاية تماماً"
+  },
+  "synonyms": [
+   "completely",
+   "thoroughly",
+   "entirely"
+  ],
+  "antonyms": [
+   "partially"
+  ],
+  "collocations": [
+   "wet through",
+   "read through",
+   "think through",
+   "sleep through",
+   "follow through"
+  ],
+  "mnemonic_ar": "افتكر 'Through' بإنك بتعدي في الحاجة لحد ما تخلصها.. يعني بتعملها 'Through' للنهاية."
+ }
+}

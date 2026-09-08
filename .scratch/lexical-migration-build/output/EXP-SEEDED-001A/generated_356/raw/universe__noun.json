@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "universe",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "universe",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "All of space and everything in it, including stars, planets, and galaxies.",
+  "explanation_ar": "الكون كله، الأرض والكواكب والنجوم وكل حاجة موجودة.",
+  "senses": [
+   {
+    "definition_en": "All of space and everything in it, including stars, planets, and galaxies.",
+    "definition_ar": "الكون بأكمله وما يحتويه من فضاء وأجرام وكواكب ونجوم.",
+    "examples": [
+     "Scientists study the origins of the universe.",
+     "Is there life elsewhere in the universe?",
+     "The expansion of the universe is accelerating."
+    ]
+   }
+  ],
+  "examples": [
+   "Scientists study the origins of the universe.",
+   "Is there life elsewhere in the universe?",
+   "The expansion of the universe is accelerating."
+  ],
+  "translations": [
+   "الكون"
+  ],
+  "relations": {
+   "synonyms": [
+    "cosmos"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "entire universe",
+    "parallel universe",
+    "center of the universe"
+   ]
+  },
+  "mnemonic": "كلمة 'Uni' يعني واحد.. الـ 'Universe' هو الكون الواحد اللي بيجمعنا كلنا.",
+  "phonetic_us": "ˈjuːnɪvɜːrs",
+  "phonetic_uk": "ˈjuːnɪvɜːs",
+  "syllables": "u•ni•verse",
+  "semantic_tags": [
+   "Space",
+   "Astronomy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "All of space and everything in it, including stars, planets, and galaxies.",
+  "explanation_ar": "الكون كله، الأرض والكواكب والنجوم وكل حاجة موجودة.",
+  "examples": [
+   "Scientists study the origins of the universe.",
+   "Is there life elsewhere in the universe?",
+   "The expansion of the universe is accelerating."
+  ],
+  "translations": {
+   "arabic_ar": "الكون"
+  },
+  "synonyms": [
+   "cosmos"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "entire universe",
+   "parallel universe",
+   "center of the universe"
+  ],
+  "mnemonic_ar": "كلمة 'Uni' يعني واحد.. الـ 'Universe' هو الكون الواحد اللي بيجمعنا كلنا."
+ }
+}

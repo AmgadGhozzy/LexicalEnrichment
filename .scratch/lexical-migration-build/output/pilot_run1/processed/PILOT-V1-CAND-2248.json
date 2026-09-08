@@ -1,0 +1,139 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2248",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2248",
+  "lemma": "entertainment",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2248,
+  "lemma": "entertainment",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌɛntərˈteɪnmənt",
+  "phonetic_uk": "ˌentəˈteɪnmənt",
+  "phonetic_ar": "إنْتَرْتَيْنْمَنْت",
+  "definition_en": "Performances, shows, or activities designed to amuse people and give them pleasure.",
+  "explanation_ar": "العروض والأنشطة الممتعة مثل الموسيقى والمسرح والأفلام التي تهدف إلى تسلية الجمهور وإسعادهم.",
+  "examples": [
+   {
+    "example_text": "The hotel provides free live entertainment for its guests every weekend.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Cinema is one of the most popular forms of family entertainment.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "They spent a lot of money on food and entertainment during their vacation.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الكلمة تبدا بكلمة \"enter\" وكانك تدخل قاعة عرض او مسرح لتعيش اجواء التسلية والمرح",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Performances, shows, or activities designed to amuse people and give them pleasure.",
+    "short_def_en": "amusement through shows or activities",
+    "definition_ar": "انشطة او عروض ممتعة تهدف الى تسلية الناس وقضاء وقت ممتع",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "media",
+     "leisure",
+     "arts",
+     "culture"
+    ],
+    "usage_note": "Often used as an uncountable noun, but can be countable when referring to specific performances.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The act of hosting and providing food, drink, and hospitality to guests.",
+    "short_def_en": "hospitality towards guests",
+    "definition_ar": "كرم الضيافة واستقبال الضيوف وتقديم الطعام والشراب لهم",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "hospitality",
+     "business",
+     "socializing"
+    ],
+    "usage_note": "Common in business contexts, such as corporate entertainment expenses.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "entertainment industry",
+   "family entertainment",
+   "live entertainment",
+   "provide entertainment"
+  ],
+  "synonyms": [
+   "amusement",
+   "recreation",
+   "fun",
+   "diversion",
+   "showbiz"
+  ],
+  "antonyms": [
+   "boredom",
+   "work"
+  ],
+  "related_words": {
+   "en": [
+    "show",
+    "performance",
+    "leisure",
+    "actor",
+    "stage",
+    "audience"
+   ],
+   "ar": [
+    "عرض",
+    "اداء",
+    "وقت الفراغ",
+    "ممثل",
+    "مسرح",
+    "جمهور"
+   ]
+  },
+  "word_family": {
+   "noun": "entertainer",
+   "verb": "entertain",
+   "adj": "entertaining",
+   "adv": "entertainingly"
+  },
+  "translations": {
+   "arabic_ar": "ترفيه / تسلية",
+   "french_fr": "divertissement",
+   "german_de": "Unterhaltung",
+   "spanish_es": "entretenimiento",
+   "chinese_zh": "娱乐 (Yúlè)",
+   "russian_ru": "развлечение",
+   "portuguese_pt": "entretenimento",
+   "japanese_ja": "娯楽 (Goraku)",
+   "italian_it": "intrattenimento",
+   "turkish_tr": "eğlence"
+  }
+ },
+ "provenance": {
+  "output_hash": "b6b8d5f281005dbeb9f58b69cf781c24c6a71f7f575c99664818f28096341887",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

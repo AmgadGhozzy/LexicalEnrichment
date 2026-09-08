@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "fowl",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "fowl",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A bird, especially one kept on a farm for its meat or eggs, or a wild bird hunted for food or sport.",
+  "explanation_ar": "الطيور التي تُربى في المزارع للاستفادة من لحمها وبيضها (الدواجن)، أو الطيور البرية التي تُصاد للأكل.",
+  "senses": [
+   {
+    "definition_en": "A bird, especially a domestic bird kept on a farm (such as a chicken or turkey) or a wild game bird.",
+    "definition_ar": "طائر، وخاصة الطيور الداجنة التي تُربى في المزارع أو طيور الصيد البرية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Chickens are a type of fowl.",
+   "They sell fish, meat, and fowl at the market.",
+   "The hunter returned with a brace of wild fowl."
+  ],
+  "translations": [
+   "داجن",
+   "دواجن",
+   "طير"
+  ],
+  "relations": {
+   "synonyms": [
+    "poultry",
+    "bird"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "wild fowl",
+    "domestic fowl",
+    "guinea fowl",
+    "fish and fowl"
+   ]
+  },
+  "mnemonic": "نفس نطق كلمة 'Foul' 'فاول في الكورة' بس المعنى مختلف.. هنا معناها طيور.",
+  "phonetic_us": "faʊl",
+  "phonetic_uk": "faʊl",
+  "syllables": [
+   "fowl"
+  ],
+  "semantic_tags": [
+   "birds",
+   "animals",
+   "food",
+   "agriculture"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A bird, especially one kept on a farm for its meat or eggs, or a wild bird hunted for food or sport.",
+  "explanation_ar": "الطيور التي تُربى في المزارع للاستفادة من لحمها وبيضها (الدواجن)، أو الطيور البرية التي تُصاد للأكل.",
+  "examples": [
+   "Chickens are a type of fowl.",
+   "They sell fish, meat, and fowl at the market.",
+   "The hunter returned with a brace of wild fowl."
+  ],
+  "translations": {
+   "arabic_ar": "داجن دواجن طير"
+  },
+  "synonyms": [
+   "poultry",
+   "bird"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "wild fowl",
+   "domestic fowl",
+   "guinea fowl",
+   "fish and fowl"
+  ],
+  "mnemonic_ar": "نفس نطق كلمة 'Foul' 'فاول في الكورة' بس المعنى مختلف.. هنا معناها طيور."
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "outlook",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "outlook",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person's point of view or general attitude to life; future expectations.",
+  "explanation_ar": "نظرتك للحياة 'متفائل/متشائم'، أو التوقعات للمستقبل 'زي الطقس أو الاقتصاد'.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A person's general attitude toward life and the world.",
+    "definition_ar": "موقف الشخص أو نظرته العامة تجاه الحياة والعالم.",
+    "examples": [
+     "Travel broadens your outlook on life.",
+     "His pessimistic outlook hinders his success."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "The probable future situation or prospects for something.",
+    "definition_ar": "التوقعات والاحتمالات المستقبلية لشيء ما.",
+    "examples": [
+     "The economic outlook remains uncertain."
+    ]
+   }
+  ],
+  "examples": [
+   "Travel broadens your outlook on life.",
+   "The economic outlook remains uncertain.",
+   "His pessimistic outlook hinders his success."
+  ],
+  "translations": [
+   "وجهة نظر",
+   "نظرة إلى الحياة",
+   "توقعات مستقبلية"
+  ],
+  "relations": {
+   "synonyms": [
+    "perspective",
+    "viewpoint",
+    "forecast",
+    "prospect"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "positive outlook",
+    "economic outlook",
+    "outlook on life",
+    "bleak outlook"
+   ]
+  },
+  "mnemonic": "إنك تبص 'Look' لبرة 'Out' وتشوف المستقبل.",
+  "phonetic_us": "ˈaʊtˌlʊk",
+  "phonetic_uk": "ˈaʊtlʊk",
+  "syllables": "out•look",
+  "semantic_tags": [
+   "#Future",
+   "#Attitude",
+   "#View",
+   "#Prediction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person's point of view or general attitude to life; future expectations.",
+  "explanation_ar": "نظرتك للحياة 'متفائل/متشائم'، أو التوقعات للمستقبل 'زي الطقس أو الاقتصاد'.",
+  "examples": [
+   "Travel broadens your outlook on life.",
+   "The economic outlook remains uncertain.",
+   "His pessimistic outlook hinders his success."
+  ],
+  "translations": {
+   "arabic_ar": "وجهة نظر نظرة إلى الحياة توقعات مستقبلية"
+  },
+  "synonyms": [
+   "perspective",
+   "viewpoint",
+   "forecast",
+   "prospect"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "positive outlook",
+   "economic outlook",
+   "outlook on life",
+   "bleak outlook"
+  ],
+  "mnemonic_ar": "إنك تبص 'Look' لبرة 'Out' وتشوف المستقبل."
+ }
+}

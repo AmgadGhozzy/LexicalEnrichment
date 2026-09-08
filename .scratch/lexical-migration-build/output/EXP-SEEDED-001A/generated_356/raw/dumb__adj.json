@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "dumb",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "dumb",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Temporarily unable or unwilling to speak, typically from shock or surprise; informally, foolish or stupid.",
+  "explanation_ar": "تُستخدم في الكلام العادي بمعنى 'غبي'، لكن معناها الأصلي والتعبيري الأدبي هو 'أخرس' أو عاجز عن النطق من شدة الدهشة أو الصدمة.",
+  "senses": [
+   {
+    "sense_id": "dumb_1",
+    "definition_en": "Temporarily unable to speak, usually due to shock, fear, or astonishment.",
+    "definition_ar": "عاجز عن الكلام مؤقتًا بسبب الذهول أو الصدمة أو الخوف",
+    "pos": "adj"
+   },
+   {
+    "sense_id": "dumb_2",
+    "definition_en": "Stupid, foolish, or nonsensical (informal).",
+    "definition_ar": "غبي أو أحمق (في الاستخدام غير الرسمي)",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "That was a dumb mistake.",
+   "He went dumb with fear.",
+   "They stared in dumb amazement at the sight."
+  ],
+  "translations": [
+   "غَبِيّ",
+   "أَخْرَس",
+   "عاجز عن الكلام"
+  ],
+  "relations": {
+   "synonyms": [
+    "speechless",
+    "mute",
+    "silent",
+    "stupid"
+   ],
+   "antonyms": [
+    "smart",
+    "intelligent",
+    "articulate"
+   ],
+   "collocations": [
+    "struck dumb",
+    "play dumb",
+    "dumb luck"
+   ]
+  },
+  "mnemonic": "زي 'Dam' 'سد'.. السد بيسكت المية، والـ 'Dumb' ساكت مبيتكلمش 'أو غبي'.",
+  "phonetic_us": "dʌm",
+  "phonetic_uk": "dʌm",
+  "syllables": [
+   "dumb"
+  ],
+  "semantic_tags": [
+   "behavior",
+   "communication",
+   "informal"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Temporarily unable or unwilling to speak, typically from shock or surprise; informally, foolish or stupid.",
+  "explanation_ar": "تُستخدم في الكلام العادي بمعنى 'غبي'، لكن معناها الأصلي والتعبيري الأدبي هو 'أخرس' أو عاجز عن النطق من شدة الدهشة أو الصدمة.",
+  "examples": [
+   "That was a dumb mistake.",
+   "He went dumb with fear.",
+   "They stared in dumb amazement at the sight."
+  ],
+  "translations": {
+   "arabic_ar": "غَبِيّ أَخْرَس عاجز عن الكلام"
+  },
+  "synonyms": [
+   "speechless",
+   "mute",
+   "silent",
+   "stupid"
+  ],
+  "antonyms": [
+   "smart",
+   "intelligent",
+   "articulate"
+  ],
+  "collocations": [
+   "struck dumb",
+   "play dumb",
+   "dumb luck"
+  ],
+  "mnemonic_ar": "زي 'Dam' 'سد'.. السد بيسكت المية، والـ 'Dumb' ساكت مبيتكلمش 'أو غبي'."
+ }
+}

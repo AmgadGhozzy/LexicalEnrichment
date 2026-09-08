@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "durable",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "durable",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Able to withstand wear, pressure, or damage; long-lasting.",
+  "explanation_ar": "حاجة قوية وبتستحمل وتعيش وقت طويل من غير ما تبوظ.",
+  "senses": [
+   {
+    "definition_en": "Able to withstand wear, pressure, or damage; long-lasting.",
+    "definition_ar": "متين أو صامد، قادر على البقاء في حالة جيدة لفترة طويلة دون تلف.",
+    "examples": [
+     "We need durable shoes for hiking.",
+     "Plastic is a durable material.",
+     "The negotiators hope to achieve a durable peace in the region."
+    ]
+   }
+  ],
+  "examples": [
+   "We need durable shoes for hiking.",
+   "Plastic is a durable material.",
+   "The negotiators hope to achieve a durable peace in the region."
+  ],
+  "translations": [
+   "متين",
+   "دائم",
+   "صامد"
+  ],
+  "relations": {
+   "synonyms": [
+    "long-lasting",
+    "hard-wearing",
+    "tough",
+    "sturdy"
+   ],
+   "antonyms": [
+    "fragile",
+    "delicate",
+    "flimsy"
+   ],
+   "collocations": [
+    "durable goods",
+    "durable material",
+    "highly durable",
+    "durable peace"
+   ]
+  },
+  "mnemonic": "جاية من 'Duration' 'مدة'.. الـ 'Durable' هو اللي مدته طويلة وبيعيش.",
+  "phonetic_us": "ˈdʊrəbəl",
+  "phonetic_uk": "ˈdjʊərəbl",
+  "syllables": "du·ra·ble",
+  "semantic_tags": [
+   "#Quality",
+   "#Materials",
+   "#Shopping"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Able to withstand wear, pressure, or damage; long-lasting.",
+  "explanation_ar": "حاجة قوية وبتستحمل وتعيش وقت طويل من غير ما تبوظ.",
+  "examples": [
+   "We need durable shoes for hiking.",
+   "Plastic is a durable material.",
+   "The negotiators hope to achieve a durable peace in the region."
+  ],
+  "translations": {
+   "arabic_ar": "متين دائم صامد"
+  },
+  "synonyms": [
+   "long-lasting",
+   "hard-wearing",
+   "tough",
+   "sturdy"
+  ],
+  "antonyms": [
+   "fragile",
+   "delicate",
+   "flimsy"
+  ],
+  "collocations": [
+   "durable goods",
+   "durable material",
+   "highly durable",
+   "durable peace"
+  ],
+  "mnemonic_ar": "جاية من 'Duration' 'مدة'.. الـ 'Durable' هو اللي مدته طويلة وبيعيش."
+ }
+}

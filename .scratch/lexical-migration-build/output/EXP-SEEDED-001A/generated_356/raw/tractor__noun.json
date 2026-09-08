@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "tractor",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "tractor",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+  "explanation_ar": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+  "senses": [
+   {
+    "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+    "definition_ar": "جرار زراعي؛ مركبة قوية ذات عجلات كبيرة تُستخدم في المزارع لجرّ المعدات والآلات الزراعية.",
+    "examples": [
+     "The farmer drives a tractor.",
+     "A red tractor is in the field.",
+     "He used a tractor to pull the heavy trailer."
+    ]
+   }
+  ],
+  "examples": [
+   "The farmer drives a tractor.",
+   "A red tractor is in the field.",
+   "He used a tractor to pull the heavy trailer."
+  ],
+  "translations": [
+   "جرار"
+  ],
+  "relations": {
+   "synonyms": [
+    "farm vehicle",
+    "hauler"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "drive a tractor",
+    "farm tractor",
+    "tractor trailer"
+   ]
+  },
+  "mnemonic": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة.",
+  "phonetic_us": "ˈtræktər",
+  "phonetic_uk": "ˈtræktə",
+  "syllables": "trac•tor",
+  "semantic_tags": [
+   "#Farming",
+   "#Vehicle",
+   "#Agriculture"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+  "explanation_ar": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+  "examples": [
+   "The farmer drives a tractor.",
+   "A red tractor is in the field.",
+   "He used a tractor to pull the heavy trailer."
+  ],
+  "translations": {
+   "arabic_ar": "جرار"
+  },
+  "synonyms": [
+   "farm vehicle",
+   "hauler"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "drive a tractor",
+   "farm tractor",
+   "tractor trailer"
+  ],
+  "mnemonic_ar": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة."
+ }
+}

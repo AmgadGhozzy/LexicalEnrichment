@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3111",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3111",
+  "lemma": "flash",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3111,
+  "lemma": "flash",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.98,
+  "phonetic_us": "flæʃ",
+  "phonetic_uk": null,
+  "phonetic_ar": "فلاش",
+  "definition_en": "A sudden, brief burst of bright light or a very short, quick moment.",
+  "explanation_ar": "وميض مفاجئ وسريع من الضوء الساطع، أو لحظة خاطفة شديدة القصر.",
+  "examples": [
+   {
+    "example_text": "A sudden flash of lightning lit up the entire night sky.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "He took the picture using a bright flash because the room was dark.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "In a flash of inspiration, she finally figured out how to solve the puzzle.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر فلاش الكاميرا الذي يصدر وميضا سريعا يخطف البصر في لحظة واحدة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A sudden burst of bright light that shines for a very brief moment.",
+    "short_def_en": "sudden bright light",
+    "definition_ar": "وميض سريع ومفاجئ من الضوء الساطع يظهر لبرهة وجيزة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "light",
+     "vision",
+     "weather",
+     "photography"
+    ],
+    "usage_note": "Commonly used for natural light like lightning or artificial light like a camera unit.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A very brief moment of time or a sudden occurrence of a feeling or idea.",
+    "short_def_en": "brief sudden moment",
+    "definition_ar": "لحظة سريعة وخاطفة او ظهور مفاجئ لفكرة او شعور.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "mind",
+     "ideas",
+     "perception"
+    ],
+    "usage_note": "Frequently used in phrases like in a flash or flash of inspiration.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "flash of lightning",
+   "in a flash",
+   "camera flash",
+   "flash of inspiration",
+   "quick flash"
+  ],
+  "synonyms": [
+   "gleam",
+   "glimmer",
+   "burst",
+   "spark",
+   "glare"
+  ],
+  "antonyms": [
+   "darkness"
+  ],
+  "related_words": {
+   "en": [
+    "lightning",
+    "brightness",
+    "camera",
+    "instant",
+    "glance"
+   ],
+   "ar": [
+    "برق",
+    "سطوع",
+    "كاميرا",
+    "لحظة",
+    "لمحة"
+   ]
+  },
+  "word_family": {
+   "noun": "flash",
+   "verb": "flash",
+   "adj": "flashy",
+   "adv": "flashily"
+  },
+  "translations": {
+   "arabic_ar": "وميض / بريق / لحظة خاطفة",
+   "french_fr": "éclair",
+   "german_de": "Blitz",
+   "spanish_es": "destello",
+   "chinese_zh": "闪光 (shǎnguāng)",
+   "russian_ru": "вспышка",
+   "portuguese_pt": "clarão",
+   "japanese_ja": "閃光 (Senkō)",
+   "italian_it": "lampo",
+   "turkish_tr": "flaş"
+  }
+ },
+ "provenance": {
+  "output_hash": "86cd4057f712d74a311dfc6f9dfa4a3e9bca7ef189b6625d8dd111d4d4704463",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

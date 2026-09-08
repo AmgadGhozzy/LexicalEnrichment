@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "indigenous",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "indigenous",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Originating or occurring naturally in a particular place; native.",
+  "explanation_ar": "أصلي أو بلدي؛ تُقال لوصف النباتات أو الحيوانات أو السكان الذين نشأوا وعاشوا في منطقة معينة بشكل طبيعي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Originating or occurring naturally in a particular place; native.",
+    "explanation_ar": "نشأ أو وُجد بشكل طبيعي في بيئة أو منطقة معينة (كالنباتات والحيوانات أو الشعوب الأصلية).",
+    "examples": [
+     "This plant is indigenous to Mexico.",
+     "The kangaroo is indigenous to Australia.",
+     "Globalization poses a threat to many indigenous languages and traditions."
+    ]
+   }
+  ],
+  "examples": [
+   "This plant is indigenous to Mexico.",
+   "The kangaroo is indigenous to Australia.",
+   "Globalization poses a threat to many indigenous languages and traditions."
+  ],
+  "translations": [
+   "أصلي",
+   "متوطن",
+   "محلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "native",
+    "aboriginal",
+    "local"
+   ],
+   "antonyms": [
+    "foreign",
+    "exotic",
+    "migrant"
+   ],
+   "collocations": [
+    "indigenous people",
+    "indigenous population",
+    "indigenous species"
+   ]
+  },
+  "mnemonic": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا.",
+  "phonetic_us": "ɪnˈdɪdʒənəs",
+  "phonetic_uk": "ɪnˈdɪdʒənəs",
+  "syllables": "in•dig•e•nous",
+  "semantic_tags": [
+   "#Culture",
+   "#Nature",
+   "#Origin"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Originating or occurring naturally in a particular place; native.",
+  "explanation_ar": "أصلي أو بلدي؛ تُقال لوصف النباتات أو الحيوانات أو السكان الذين نشأوا وعاشوا في منطقة معينة بشكل طبيعي.",
+  "examples": [
+   "This plant is indigenous to Mexico.",
+   "The kangaroo is indigenous to Australia.",
+   "Globalization poses a threat to many indigenous languages and traditions."
+  ],
+  "translations": {
+   "arabic_ar": "أصلي متوطن محلي"
+  },
+  "synonyms": [
+   "native",
+   "aboriginal",
+   "local"
+  ],
+  "antonyms": [
+   "foreign",
+   "exotic",
+   "migrant"
+  ],
+  "collocations": [
+   "indigenous people",
+   "indigenous population",
+   "indigenous species"
+  ],
+  "mnemonic_ar": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا."
+ }
+}

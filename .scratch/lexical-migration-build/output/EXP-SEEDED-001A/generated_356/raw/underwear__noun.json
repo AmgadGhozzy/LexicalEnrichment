@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "underwear",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "underwear",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Clothing worn under other clothes, next to the skin.",
+  "explanation_ar": "الهدوم اللي بتتلبس تحت اللبس الخارجي وملاصقة للجسم.",
+  "senses": [
+   {
+    "definition_en": "Clothing worn under other clothes, next to the skin.",
+    "explanation_ar": "الهدوم اللي بتتلبس تحت اللبس الخارجي وملاصقة للجسم.",
+    "examples": [
+     "Put on clean underwear every day.",
+     "He packed socks and underwear for the trip.",
+     "Thermal underwear is essential for skiing."
+    ]
+   }
+  ],
+  "examples": [
+   "Put on clean underwear every day.",
+   "He packed socks and underwear for the trip.",
+   "Thermal underwear is essential for skiing."
+  ],
+  "translations": [
+   "الملابس الداخلية"
+  ],
+  "relations": {
+   "synonyms": [
+    "underclothes",
+    "undies"
+   ],
+   "antonyms": [
+    "outerwear"
+   ],
+   "collocations": [
+    "clean underwear",
+    "thermal underwear",
+    "wear underwear"
+   ]
+  },
+  "mnemonic": "هي 'Under' يعني 'تحت' و 'Wear' يعني 'لبس'.. يبقى 'Underwear' هو 'اللبس اللي تحت'.",
+  "phonetic_us": "ˈʌndɚwɛr",
+  "phonetic_uk": "ˈʌndəweə",
+  "syllables": "un•der•wear",
+  "semantic_tags": [
+   "#Clothing",
+   "#Personal",
+   "#Fashion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Clothing worn under other clothes, next to the skin.",
+  "explanation_ar": "الهدوم اللي بتتلبس تحت اللبس الخارجي وملاصقة للجسم.",
+  "examples": [
+   "Put on clean underwear every day.",
+   "He packed socks and underwear for the trip.",
+   "Thermal underwear is essential for skiing."
+  ],
+  "translations": {
+   "arabic_ar": "الملابس الداخلية"
+  },
+  "synonyms": [
+   "underclothes",
+   "undies"
+  ],
+  "antonyms": [
+   "outerwear"
+  ],
+  "collocations": [
+   "clean underwear",
+   "thermal underwear",
+   "wear underwear"
+  ],
+  "mnemonic_ar": "هي 'Under' يعني 'تحت' و 'Wear' يعني 'لبس'.. يبقى 'Underwear' هو 'اللبس اللي تحت'."
+ }
+}

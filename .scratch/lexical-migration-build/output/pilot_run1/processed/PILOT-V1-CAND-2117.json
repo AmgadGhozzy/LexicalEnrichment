@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2117",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2117",
+  "lemma": "corporate",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2117,
+  "lemma": "corporate",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Work & Business",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈkɔːrpərət",
+  "phonetic_uk": "ˈkɔːpərət",
+  "phonetic_ar": "كُورْبَرِت",
+  "definition_en": "Relating to a large company or business group.",
+  "explanation_ar": "يصف كل ما يتعلق بالشركات والمؤسسات التجارية الكبيرة، مثل سياستها، بيئتها، أو هويتها.",
+  "examples": [
+   {
+    "example_text": "She left her corporate job to start a small bakery.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The firm recently updated its corporate identity and logo.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Good corporate governance is essential for long-term investment.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"corps\" او الكلمة اللاتينية \"corpus\" بمعنى جسد، فالشركة عبارة عن هيئة او جسد عمل جماعي واحد.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Relating to a large company or group of companies.",
+    "short_def_en": "relating to large companies",
+    "definition_ar": "متعلق بشركة كبرى او مؤسسة تجارية",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "business",
+     "commerce",
+     "management",
+     "organizations"
+    ],
+    "usage_note": "Commonly used in compound nouns like corporate culture, corporate tax, or corporate ladder.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Shared by all members of a group; collective.",
+    "short_def_en": "shared or collective",
+    "definition_ar": "مشترك بين افراد جماعة او هيئة",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "society",
+     "responsibility",
+     "governance"
+    ],
+    "usage_note": "Less frequent, often appears in phrases like corporate responsibility.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "corporate culture",
+   "corporate ladder",
+   "corporate responsibility",
+   "corporate identity",
+   "corporate world"
+  ],
+  "synonyms": [
+   "business",
+   "company",
+   "commercial",
+   "collective"
+  ],
+  "antonyms": [
+   "individual",
+   "personal"
+  ],
+  "related_words": {
+   "en": [
+    "corporation",
+    "enterprise",
+    "firm",
+    "executive",
+    "boardroom"
+   ],
+   "ar": [
+    "شركة",
+    "مشروع",
+    "منشأة",
+    "تنفيذي",
+    "قاعة مجلس الإدارة"
+   ]
+  },
+  "word_family": {
+   "noun": "corporation",
+   "verb": "incorporate",
+   "adj": "corporate",
+   "adv": "corporately"
+  },
+  "translations": {
+   "arabic_ar": "شركاتي / مؤسسي / تجاري",
+   "french_fr": "d'entreprise",
+   "german_de": "Unternehmens-",
+   "spanish_es": "corporativo",
+   "chinese_zh": "企业的 (Qǐyè de)",
+   "russian_ru": "корпоративный",
+   "portuguese_pt": "corporativo",
+   "japanese_ja": "企業の (Kigyō no)",
+   "italian_it": "aziendale",
+   "turkish_tr": "kurumsal"
+  }
+ },
+ "provenance": {
+  "output_hash": "1a53d581d153f5053c003326d6a518d019e372230f79a6208e2b06fdd4cf90fa",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

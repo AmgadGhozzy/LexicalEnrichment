@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "trace",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "trace",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To find or discover by investigation; to copy a drawing by drawing over its lines.",
+  "explanation_ar": "ليها معنيين: يا إما تتبع أثر حد وتلاقيه، يا إما تشف رسمة 'ترسم فوق الخطوط'.",
+  "senses": [
+   {
+    "pos": "verb",
+    "definition_en": "To find or discover someone or something by investigation or following clues.",
+    "definition_ar": "يتتبع أثر أو مسار شخص أو شيء لمعرفة مكانه أو أصله."
+   },
+   {
+    "pos": "verb",
+    "definition_en": "To copy a drawing, map, or outline by drawing over its lines.",
+    "definition_ar": "يشف أو ينقل رسماً بتتبع خطوطه."
+   }
+  ],
+  "examples": [
+   "Police are trying to trace the phone call.",
+   "You can use thin paper to trace the drawing.",
+   "She wants to trace her family history back 200 years."
+  ],
+  "translations": [
+   "يتعقب",
+   "يشف"
+  ],
+  "relations": {
+   "synonyms": [
+    "track",
+    "follow",
+    "detect",
+    "outline"
+   ],
+   "antonyms": [
+    "lose",
+    "ignore"
+   ],
+   "collocations": [
+    "trace back to",
+    "trace the origin",
+    "trace a call"
+   ],
+   "word_family": {
+    "adj": "traceable",
+    "noun": "trace",
+    "verb": "trace"
+   }
+  },
+  "mnemonic": "زي ما تقول 'تريس' على الخط.. يعني تمشي عليه وتتبعه.",
+  "phonetic_us": "tɹeɪs",
+  "phonetic_uk": "treɪs",
+  "syllables": null,
+  "semantic_tags": [
+   "#Investigation",
+   "#Drawing",
+   "#Search"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To find or discover by investigation; to copy a drawing by drawing over its lines.",
+  "explanation_ar": "ليها معنيين: يا إما تتبع أثر حد وتلاقيه، يا إما تشف رسمة 'ترسم فوق الخطوط'.",
+  "examples": [
+   "Police are trying to trace the phone call.",
+   "You can use thin paper to trace the drawing.",
+   "She wants to trace her family history back 200 years."
+  ],
+  "translations": {
+   "arabic_ar": "يتعقب يشف"
+  },
+  "synonyms": [
+   "track",
+   "follow",
+   "detect",
+   "outline"
+  ],
+  "antonyms": [
+   "lose",
+   "ignore"
+  ],
+  "collocations": [
+   "trace back to",
+   "trace the origin",
+   "trace a call"
+  ],
+  "mnemonic_ar": "زي ما تقول 'تريس' على الخط.. يعني تمشي عليه وتتبعه."
+ }
+}

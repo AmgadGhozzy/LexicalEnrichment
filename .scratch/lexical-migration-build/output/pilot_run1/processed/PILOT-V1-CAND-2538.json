@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2538",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2538",
+  "lemma": "pilot",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2538,
+  "lemma": "pilot",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈpaɪlət",
+  "phonetic_uk": null,
+  "phonetic_ar": "بَايْلَت",
+  "definition_en": "A person who operates the flying controls of an aircraft.",
+  "explanation_ar": "الشخص المؤهل لقيادة الطائرة وتوجيهها في الجو.",
+  "examples": [
+   {
+    "example_text": "The pilot safely landed the aircraft during the storm.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "She trained for years to become a commercial pilot.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The co-pilot took control when the pilot needed a break.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"pilot\" تبدأ بنطق يشبه طيران باي في السماء ليقود الطائرة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person who operates the flying controls of an aircraft.",
+    "short_def_en": "aircraft operator",
+    "definition_ar": "شخص يقود طائرة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "aviation",
+     "occupations",
+     "transport"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A single television show produced to test whether a full series should be made.",
+    "short_def_en": "trial television episode",
+    "definition_ar": "حلقة تجريبية لمسلسل تلفزيوني",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "media",
+     "television",
+     "entertainment"
+    ],
+    "usage_note": "Often used as short for pilot episode.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "airline pilot",
+   "fighter pilot",
+   "chief pilot",
+   "pilot license",
+   "pilot error"
+  ],
+  "synonyms": [
+   "aviator",
+   "flyer",
+   "airman"
+  ],
+  "antonyms": [
+   "passenger"
+  ],
+  "related_words": {
+   "en": [
+    "airplane",
+    "cockpit",
+    "flight",
+    "aviation",
+    "crew"
+   ],
+   "ar": [
+    "طائرة",
+    "قمرة القيادة",
+    "رحلة طيران",
+    "طيران",
+    "طاقم"
+   ]
+  },
+  "word_family": {
+   "noun": "pilot",
+   "verb": "pilot",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "طيار / ربان طائرة",
+   "french_fr": "pilote",
+   "german_de": "Pilot",
+   "spanish_es": "piloto",
+   "chinese_zh": "飞行员 (Fēixíngyuán)",
+   "russian_ru": "пилот",
+   "portuguese_pt": "piloto",
+   "japanese_ja": "パイロット (Pairotto)",
+   "italian_it": "pilota",
+   "turkish_tr": "pilot"
+  }
+ },
+ "provenance": {
+  "output_hash": "0f6046a048e8540ed9c8f5397181d585a05623393a421ba6d1d375a86986e320",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

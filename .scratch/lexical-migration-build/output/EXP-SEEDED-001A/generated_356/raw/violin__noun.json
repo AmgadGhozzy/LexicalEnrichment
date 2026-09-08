@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "violin",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "violin",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A musical instrument with four strings held against the neck and played with a bow.",
+  "explanation_ar": "آلة موسيقية وترية بتتلعب بقوس، صوتها ناعم ومشهورة جداً في الموسيقى الكلاسيكية والأوركسترا.",
+  "senses": [
+   {
+    "definition_en": "A musical instrument with four strings held against the neck and played with a bow.",
+    "explanation_ar": "آلة الكمان؛ آلة موسيقية وترية تعزف بالقوس.",
+    "examples": [
+     "She plays the violin very well.",
+     "I want to buy a new violin for my lesson.",
+     "The sound of a violin can be very sad."
+    ]
+   }
+  ],
+  "examples": [
+   "She plays the violin very well.",
+   "I want to buy a new violin for my lesson.",
+   "The sound of a violin can be very sad."
+  ],
+  "translations": [
+   "كمان",
+   "كمنجة"
+  ],
+  "relations": {
+   "synonyms": [
+    "fiddle"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "play the violin",
+    "electric violin",
+    "violin concerto",
+    "first violin"
+   ],
+   "word_family": {
+    "noun": "violinist"
+   }
+  },
+  "mnemonic": "كلمة 'Violin' قريبة من 'Violent' 'عنيف'.. بس العكس، صوتها حنين مش عنيف.",
+  "phonetic_us": "ˌvaɪ.əˈlɪn",
+  "phonetic_uk": "ˌvaɪ.əˈlɪn",
+  "syllables": "vi•o•lin",
+  "semantic_tags": [
+   "#Music",
+   "#Instrument",
+   "#Orchestra",
+   "#Strings"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A musical instrument with four strings held against the neck and played with a bow.",
+  "explanation_ar": "آلة موسيقية وترية بتتلعب بقوس، صوتها ناعم ومشهورة جداً في الموسيقى الكلاسيكية والأوركسترا.",
+  "examples": [
+   "She plays the violin very well.",
+   "I want to buy a new violin for my lesson.",
+   "The sound of a violin can be very sad."
+  ],
+  "translations": {
+   "arabic_ar": "كمان كمنجة"
+  },
+  "synonyms": [
+   "fiddle"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "play the violin",
+   "electric violin",
+   "violin concerto",
+   "first violin"
+  ],
+  "mnemonic_ar": "كلمة 'Violin' قريبة من 'Violent' 'عنيف'.. بس العكس، صوتها حنين مش عنيف."
+ }
+}

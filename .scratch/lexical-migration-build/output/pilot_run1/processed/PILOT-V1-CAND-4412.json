@@ -1,0 +1,140 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4412",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4412",
+  "lemma": "leak",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4412,
+  "lemma": "leak",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "lik",
+  "phonetic_uk": null,
+  "phonetic_ar": "لِيك",
+  "definition_en": "To intentionally or accidentally allow secret or confidential information to become public.",
+  "explanation_ar": "أن يقوم شخص بنشر أو تمرير معلومات سرية أو حساسة إلى العلن أو لوسائل الإعلام دون إذن رسمي.",
+  "examples": [
+   {
+    "example_text": "An anonymous official decided to leak the classified report to the press.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "If you leak sensitive financial details, you will face severe legal consequences.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Defective pipes can leak hazardous chemicals directly into the groundwater.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"leak\" عبر تذكر موقع ويكيليكس الشهير بنشر الوثائق السرية المسربة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To intentionally or accidentally disclose secret information to unauthorized people.",
+    "short_def_en": "disclose secret information",
+    "definition_ar": "يسرب معلومات سرية او حساسة للعامة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "secrecy",
+     "media",
+     "information",
+     "politics"
+    ],
+    "usage_note": "Commonly used in news and political contexts regarding confidential documents.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To allow liquid or gas to escape through a hole or crack.",
+    "short_def_en": "escape through a crack",
+    "definition_ar": "يرشح او يتسرب من ثقب او شق",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "liquids",
+     "damage",
+     "containment"
+    ],
+    "usage_note": "Can refer both to the container allowing substance out or the fluid escaping.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "leak information",
+   "leak to the press",
+   "leak documents",
+   "leak secrets",
+   "leak details"
+  ],
+  "synonyms": [
+   "disclose",
+   "divulge",
+   "reveal",
+   "spill"
+  ],
+  "antonyms": [
+   "conceal",
+   "contain",
+   "suppress"
+  ],
+  "related_words": {
+   "en": [
+    "whistleblower",
+    "scandal",
+    "confidential",
+    "breach",
+    "pipe",
+    "fluid"
+   ],
+   "ar": [
+    "مبلغ عن المخالفات",
+    "فضيحة",
+    "سري",
+    "اختراق",
+    "انبوب",
+    "سائل"
+   ]
+  },
+  "word_family": {
+   "noun": "leakage",
+   "verb": "leak",
+   "adj": "leaky",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يسرب / يرشح",
+   "french_fr": "divulguer",
+   "german_de": "durchstechen",
+   "spanish_es": "filtrar",
+   "chinese_zh": "泄露 (Xièlòu)",
+   "russian_ru": "сливать",
+   "portuguese_pt": "vazar",
+   "japanese_ja": "漏らす (Morasu)",
+   "italian_it": "far trapelare",
+   "turkish_tr": "sızdırmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "5040875b543517447ca9ca3bfd1e9a1f73452a1464adee64496b19a5984f3840",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "bass",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bass",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Of the lowest pitch or range in music.",
+  "explanation_ar": "صفة للصوت العميق والواطي جداً 'الجهير' في الموسيقى.",
+  "senses": [
+   {
+    "definition_en": "Of the lowest pitch or range in music.",
+    "explanation_ar": "صفة للصوت العميق والواطي جداً 'الجهير' في الموسيقى.",
+    "examples": [
+     "The song features a heavy bass line.",
+     "The bass notes are very low.",
+     "The woofer is designed to reproduce bass frequencies."
+    ]
+   }
+  ],
+  "examples": [
+   "The song features a heavy bass line.",
+   "The bass notes are very low.",
+   "The woofer is designed to reproduce bass frequencies."
+  ],
+  "translations": [
+   "جهير",
+   "عميق"
+  ],
+  "relations": {
+   "synonyms": [
+    "deep",
+    "low",
+    "resonant"
+   ],
+   "antonyms": [
+    "treble",
+    "high"
+   ],
+   "collocations": [
+    "bass guitar",
+    "bass player",
+    "bass line"
+   ]
+  },
+  "mnemonic": "نفس نطق 'Base' 'قاعدة'.. لأن صوت الـ 'Bass' هو الأساس والقاعدة بتاعة الموسيقى.",
+  "phonetic_us": "beɪs",
+  "phonetic_uk": "beɪs",
+  "syllables": [
+   "bass"
+  ],
+  "semantic_tags": [
+   "#Music",
+   "#Sound",
+   "#Instruments"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Of the lowest pitch or range in music.",
+  "explanation_ar": "صفة للصوت العميق والواطي جداً 'الجهير' في الموسيقى.",
+  "examples": [
+   "The song features a heavy bass line.",
+   "The bass notes are very low.",
+   "The woofer is designed to reproduce bass frequencies."
+  ],
+  "translations": {
+   "arabic_ar": "جهير عميق"
+  },
+  "synonyms": [
+   "deep",
+   "low",
+   "resonant"
+  ],
+  "antonyms": [
+   "treble",
+   "high"
+  ],
+  "collocations": [
+   "bass guitar",
+   "bass player",
+   "bass line"
+  ],
+  "mnemonic_ar": "نفس نطق 'Base' 'قاعدة'.. لأن صوت الـ 'Bass' هو الأساس والقاعدة بتاعة الموسيقى."
+ }
+}

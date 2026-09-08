@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "congressional",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "congressional",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Belonging or relating to a national legislative body, especially that of the US.",
+  "explanation_ar": "خاص أو متعلق بالكونجرس (الهيئة التشريعية الأمريكية) أو بنشاطاته وأعضائه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Relating to or characteristic of a congress, especially the US Congress.",
+    "definition_ar": "متعلق بالكونجرس الأمريكي أو الهيئة التشريعية.",
+    "examples": [
+     "She works as an aide in a congressional office.",
+     "The congressional committee investigated allegations of corruption.",
+     "The new healthcare plan will require congressional approval to pass."
+    ]
+   }
+  ],
+  "examples": [
+   "She works as an aide in a congressional office.",
+   "The congressional committee investigated allegations of corruption.",
+   "The new healthcare plan will require congressional approval to pass."
+  ],
+  "translations": [
+   "متعلق بالكونجرس",
+   "تشريعي",
+   "كونغرسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "legislative"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "congressional hearing",
+    "congressional district",
+    "congressional committee",
+    "congressional approval"
+   ]
+  },
+  "mnemonic": "جاية من كلمة Congress (الكونجرس)، وإضافة اللاحقة -ional تحولها لصفة معناها: متعلق بالكونجرس.",
+  "phonetic_us": "kənˈɡrɛʃənəl",
+  "phonetic_uk": "kənˈɡreʃənl",
+  "syllables": "con•gres•sion•al",
+  "semantic_tags": [
+   "politics",
+   "government",
+   "law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Belonging or relating to a national legislative body, especially that of the US.",
+  "explanation_ar": "خاص أو متعلق بالكونجرس (الهيئة التشريعية الأمريكية) أو بنشاطاته وأعضائه.",
+  "examples": [
+   "She works as an aide in a congressional office.",
+   "The congressional committee investigated allegations of corruption.",
+   "The new healthcare plan will require congressional approval to pass."
+  ],
+  "translations": {
+   "arabic_ar": "متعلق بالكونجرس تشريعي كونغرسي"
+  },
+  "synonyms": [
+   "legislative"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "congressional hearing",
+   "congressional district",
+   "congressional committee",
+   "congressional approval"
+  ],
+  "mnemonic_ar": "جاية من كلمة Congress (الكونجرس)، وإضافة اللاحقة -ional تحولها لصفة معناها: متعلق بالكونجرس."
+ }
+}

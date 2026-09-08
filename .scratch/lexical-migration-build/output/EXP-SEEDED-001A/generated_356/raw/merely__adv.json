@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "merely",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "merely",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Used to emphasize that you mean exactly what you are saying and nothing more.",
+  "explanation_ar": "يعني 'فقط' أو 'بس'.. بتستخدمها لما تحب تقلل من حجم أو أهمية حاجة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Used to emphasize that you mean exactly what you are saying and nothing more.",
+    "explanation_ar": "يُستخدم للتأكيد على أن الأمر مجرد شيء بسيط أو لا يتعدى ما ذُكر.",
+    "examples": [
+     "I am merely trying to help.",
+     "We are merely suggesting a different approach.",
+     "He said nothing, merely smiled and walked away."
+    ]
+   }
+  ],
+  "examples": [
+   "I am merely trying to help.",
+   "We are merely suggesting a different approach.",
+   "He said nothing, merely smiled and walked away."
+  ],
+  "translations": [
+   "مجرد",
+   "فقط"
+  ],
+  "relations": {
+   "synonyms": [
+    "simply",
+    "just",
+    "only",
+    "solely"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "merely a matter of",
+    "not merely",
+    "merely symbolic"
+   ],
+   "word_family": {
+    "adj": "mere",
+    "adv": "merely"
+   }
+  },
+  "mnemonic": "شبه كلمة 'Mirror' 'مراية'.. هي 'Merely' 'مجرد' انعكاس",
+  "phonetic_us": "ˈmɪrli",
+  "phonetic_uk": "ˈmɪəli",
+  "syllables": "mere•ly",
+  "semantic_tags": [
+   "#Emphasis",
+   "#Limitation",
+   "#Formal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to emphasize that you mean exactly what you are saying and nothing more.",
+  "explanation_ar": "يعني 'فقط' أو 'بس'.. بتستخدمها لما تحب تقلل من حجم أو أهمية حاجة.",
+  "examples": [
+   "I am merely trying to help.",
+   "We are merely suggesting a different approach.",
+   "He said nothing, merely smiled and walked away."
+  ],
+  "translations": {
+   "arabic_ar": "مجرد فقط"
+  },
+  "synonyms": [
+   "simply",
+   "just",
+   "only",
+   "solely"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "merely a matter of",
+   "not merely",
+   "merely symbolic"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Mirror' 'مراية'.. هي 'Merely' 'مجرد' انعكاس"
+ }
+}

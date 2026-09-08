@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "can",
+  "pos": "modal"
+ },
+ "candidate": {
+  "lemma": "can",
+  "pos": "modal",
+  "cefr": "A1",
+  "definition_en": "To be able to or permitted to do something.",
+  "explanation_ar": "بمعنى 'يقدر' أو 'يستطيع' عمل شيء، أو يُستخدم لطلب الإذن.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To have the ability to do something.",
+    "explanation_ar": "القدرة والاستطاعة على فعل شيء.",
+    "examples": [
+     "I can swim."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To have permission or make a polite request.",
+    "explanation_ar": "طلب الإذن أو السماح بفعل شيء.",
+    "examples": [
+     "Can you help me?",
+     "You can park here."
+    ]
+   }
+  ],
+  "examples": [
+   "I can swim.",
+   "Can you help me?",
+   "You can park here."
+  ],
+  "translations": [
+   "يستطيع",
+   "يقدر",
+   "يمكن أن"
+  ],
+  "relations": {
+   "synonyms": [
+    "able to",
+    "capable of"
+   ],
+   "antonyms": [
+    "cannot",
+    "can't"
+   ],
+   "collocations": [
+    "can do",
+    "can be",
+    "can help"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "kæn",
+  "phonetic_uk": "kæn",
+  "syllables": "can",
+  "semantic_tags": [
+   "#Ability",
+   "#Permission",
+   "#Modal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be able to or permitted to do something.",
+  "explanation_ar": "بمعنى 'يقدر' أو 'يستطيع' عمل شيء، أو يُستخدم لطلب الإذن.",
+  "examples": [
+   "I can swim.",
+   "Can you help me?",
+   "You can park here."
+  ],
+  "translations": {
+   "arabic_ar": "يستطيع يقدر يمكن أن"
+  },
+  "synonyms": [
+   "able to",
+   "capable of"
+  ],
+  "antonyms": [
+   "cannot",
+   "can't"
+  ],
+  "collocations": [
+   "can do",
+   "can be",
+   "can help"
+  ],
+  "mnemonic_ar": null
+ }
+}

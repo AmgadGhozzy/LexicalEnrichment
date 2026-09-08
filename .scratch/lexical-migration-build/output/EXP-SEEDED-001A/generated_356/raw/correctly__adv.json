@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "correctly",
+  "pos": "adv",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "correctly",
+  "pos": "adv",
+  "cefr": "A2",
+  "definition_en": "In a way that is true or accurate.",
+  "explanation_ar": "إنك تعمل الحاجة صح من غير غلطات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "In a way that is true or accurate.",
+    "definition_ar": "بطريقة صحيحة وبدون أخطاء.",
+    "examples": [
+     "Spell your name correctly.",
+     "He answered correctly.",
+     "If I remember correctly, he was there."
+    ]
+   }
+  ],
+  "examples": [
+   "Spell your name correctly.",
+   "He answered correctly.",
+   "If I remember correctly, he was there."
+  ],
+  "translations": [
+   "بشكل صحيح",
+   "صحيح"
+  ],
+  "relations": {
+   "synonyms": [
+    "accurately",
+    "rightly",
+    "properly",
+    "precisely"
+   ],
+   "antonyms": [
+    "incorrectly",
+    "wrongly",
+    "falsely"
+   ],
+   "collocations": [
+    "answer correctly",
+    "remember correctly",
+    "spell correctly",
+    "act correctly"
+   ],
+   "word_family": {
+    "adj": "correct",
+    "adv": "correctly",
+    "noun": "correction",
+    "verb": "correct"
+   }
+  },
+  "mnemonic": "جاية من 'Correct' 'صح'.. يعني عملتها بشكل 'Correct'.",
+  "phonetic_us": "kəˈɹɛkt.li",
+  "phonetic_uk": null,
+  "syllables": "cor•rect•ly",
+  "semantic_tags": [
+   "#Right",
+   "#True",
+   "#Accuracy"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "In a way that is true or accurate.",
+  "explanation_ar": "إنك تعمل الحاجة صح من غير غلطات.",
+  "examples": [
+   "Spell your name correctly.",
+   "He answered correctly.",
+   "If I remember correctly, he was there."
+  ],
+  "translations": {
+   "arabic_ar": "بشكل صحيح صحيح"
+  },
+  "synonyms": [
+   "accurately",
+   "rightly",
+   "properly",
+   "precisely"
+  ],
+  "antonyms": [
+   "incorrectly",
+   "wrongly",
+   "falsely"
+  ],
+  "collocations": [
+   "answer correctly",
+   "remember correctly",
+   "spell correctly",
+   "act correctly"
+  ],
+  "mnemonic_ar": "جاية من 'Correct' 'صح'.. يعني عملتها بشكل 'Correct'."
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3337",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3337",
+  "lemma": "innovation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3337,
+  "lemma": "innovation",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌɪnəˈveɪʃn",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِنُوفَيْشَن",
+  "definition_en": "A new idea, method, or product, or the development of such new things.",
+  "explanation_ar": "ابتكار او تجديد، ويشير الى تقديم فكرة جديدة او اختراع طريقة او منتج حديث لم يكن موجودا من قبل.",
+  "examples": [
+   {
+    "example_text": "Technological innovation has transformed the way people communicate around the world.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The company encourages creativity and innovation among its employees.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "This smartphone design is a major innovation in mobile technology.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الجزء اللاتيني \"nova\" يعني جديد كما في كلمة \"novel\"، والبادئة \"in\" تعني للداخل، فالمعنى هو ادخال كل ما هو جديد ومبتكر.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The creation and introduction of new ideas, devices, or methods.",
+    "short_def_en": "introduction of new ideas",
+    "definition_ar": "عملية ابتكار وتطبيق افكار او اساليب جديدة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "creativity",
+     "technology",
+     "business"
+    ],
+    "usage_note": "Used as an uncountable noun when referring to the general process of introducing new things.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A newly introduced idea, invention, or method.",
+    "short_def_en": "new invention or method",
+    "definition_ar": "فكرة او وسيلة مبتكرة تم تقديمها حديثا",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "invention",
+     "technology",
+     "design"
+    ],
+    "usage_note": "Used as a countable noun when referring to a specific new product or feature.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "technological innovation",
+   "encourage innovation",
+   "latest innovation",
+   "foster innovation",
+   "product innovation"
+  ],
+  "synonyms": [
+   "invention",
+   "novelty",
+   "breakthrough",
+   "modernization"
+  ],
+  "antonyms": [
+   "stagnation",
+   "tradition"
+  ],
+  "related_words": {
+   "en": [
+    "creativity",
+    "technology",
+    "progress",
+    "development",
+    "originality"
+   ],
+   "ar": [
+    "إبداع",
+    "تكنولوجيا",
+    "تقدم",
+    "تطوير",
+    "أصالة"
+   ]
+  },
+  "word_family": {
+   "noun": "innovation",
+   "verb": "innovate",
+   "adj": "innovative",
+   "adv": "innovatively"
+  },
+  "translations": {
+   "arabic_ar": "ابتكار / تجديد",
+   "french_fr": "innovation",
+   "german_de": "Innovation",
+   "spanish_es": "innovación",
+   "chinese_zh": "创新 (Chuàngxīn)",
+   "russian_ru": "инновация",
+   "portuguese_pt": "inovação",
+   "japanese_ja": "革新 (Kakushin)",
+   "italian_it": "innovazione",
+   "turkish_tr": "yenilik"
+  }
+ },
+ "provenance": {
+  "output_hash": "677d81a1aa80530dff3a4043be60be619e6f080d1a437003fc80b7fd74164bf3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

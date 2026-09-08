@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "merchant",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "merchant",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person or company involved in trade, especially wholesale trade or commerce with foreign countries.",
+  "explanation_ar": "تاجر، خصوصاً من يتعامل بالتجارة بالجملة أو يستورد ويصدر مع بلدان أخرى.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person or company involved in trade, especially wholesale trade or commerce with foreign countries.",
+    "definition_ar": "تاجر، خصوصاً من يتعامل بالتجارة بالجملة أو يستورد ويصدر مع بلدان أخرى."
+   }
+  ],
+  "examples": [
+   "Venice grew powerful because nearly every wealthy merchant invested in maritime trade.",
+   "The wine merchant recommended an exceptional vintage for the celebration.",
+   "Before signing the contract, the foreign merchant inspected the quality of the goods."
+  ],
+  "translations": [
+   "تاجر"
+  ],
+  "relations": {
+   "synonyms": [
+    "trader",
+    "dealer",
+    "wholesaler"
+   ],
+   "antonyms": [
+    "buyer",
+    "customer"
+   ],
+   "collocations": [
+    "merchant ship",
+    "merchant bank",
+    "wine merchant"
+   ]
+  },
+  "mnemonic": "كلمة 'Merchant' قريبة من 'Merchandise' (بضاعة)، فالـ 'Merchant' هو صاحب البضاعة والتاجر بها.",
+  "phonetic_us": "ˈmɜrtʃənt",
+  "phonetic_uk": "ˈmɜːtʃənt",
+  "syllables": "mer•chant",
+  "semantic_tags": [
+   "trade",
+   "business",
+   "commerce"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person or company involved in trade, especially wholesale trade or commerce with foreign countries.",
+  "explanation_ar": "تاجر، خصوصاً من يتعامل بالتجارة بالجملة أو يستورد ويصدر مع بلدان أخرى.",
+  "examples": [
+   "Venice grew powerful because nearly every wealthy merchant invested in maritime trade.",
+   "The wine merchant recommended an exceptional vintage for the celebration.",
+   "Before signing the contract, the foreign merchant inspected the quality of the goods."
+  ],
+  "translations": {
+   "arabic_ar": "تاجر"
+  },
+  "synonyms": [
+   "trader",
+   "dealer",
+   "wholesaler"
+  ],
+  "antonyms": [
+   "buyer",
+   "customer"
+  ],
+  "collocations": [
+   "merchant ship",
+   "merchant bank",
+   "wine merchant"
+  ],
+  "mnemonic_ar": "كلمة 'Merchant' قريبة من 'Merchandise' (بضاعة)، فالـ 'Merchant' هو صاحب البضاعة والتاجر بها."
+ }
+}

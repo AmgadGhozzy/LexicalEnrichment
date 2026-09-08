@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "believe",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "believe",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To think that something is true, correct, or real.",
+  "explanation_ar": "أن تصدّق شخصًا أو تعتقد أن شيئًا ما حقيقي أو صحيح.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To accept that someone is telling the truth or that something is true.",
+    "definition_ar": "أن تصدّق شخصًا أو تقبل أن شيئًا ما حقيقي.",
+    "examples": [
+     "I believe you."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To think that something is true, correct, or likely; to have an opinion.",
+    "definition_ar": "أن تعتقد أو تظن أن أمرًا ما صحيح.",
+    "examples": [
+     "I believe that he is a good man.",
+     "Experts believe the economy will improve soon."
+    ]
+   }
+  ],
+  "examples": [
+   "I believe you.",
+   "I believe that he is a good man.",
+   "Experts believe the economy will improve soon."
+  ],
+  "translations": [
+   "يصدّق",
+   "يعتقد"
+  ],
+  "relations": {
+   "synonyms": [
+    "think",
+    "trust",
+    "suppose"
+   ],
+   "antonyms": [
+    "doubt",
+    "disbelieve"
+   ],
+   "collocations": [
+    "believe in",
+    "firmly believe",
+    "hard to believe"
+   ]
+  },
+  "mnemonic": "تذكّر الكلمة من طريقة كتابتها: في وسط be-LIE-ve توجد كلمة lie (كذبة)؛ فالتصديق (believe) هو ألا تنخدع بالكذبة (lie).",
+  "phonetic_us": "bɪˈliːv",
+  "phonetic_uk": "bɪˈliːv",
+  "syllables": "be•lieve",
+  "semantic_tags": [
+   "Faith",
+   "Trust",
+   "Opinion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To think that something is true, correct, or real.",
+  "explanation_ar": "أن تصدّق شخصًا أو تعتقد أن شيئًا ما حقيقي أو صحيح.",
+  "examples": [
+   "I believe you.",
+   "I believe that he is a good man.",
+   "Experts believe the economy will improve soon."
+  ],
+  "translations": {
+   "arabic_ar": "يصدّق يعتقد"
+  },
+  "synonyms": [
+   "think",
+   "trust",
+   "suppose"
+  ],
+  "antonyms": [
+   "doubt",
+   "disbelieve"
+  ],
+  "collocations": [
+   "believe in",
+   "firmly believe",
+   "hard to believe"
+  ],
+  "mnemonic_ar": "تذكّر الكلمة من طريقة كتابتها: في وسط be-LIE-ve توجد كلمة lie (كذبة)؛ فالتصديق (believe) هو ألا تنخدع بالكذبة (lie)."
+ }
+}

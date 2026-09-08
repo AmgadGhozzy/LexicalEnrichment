@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "but",
+  "pos": "prep"
+ },
+ "candidate": {
+  "lemma": "but",
+  "pos": "prep",
+  "cefr": "B2",
+  "definition_en": "Except; apart from.",
+  "explanation_ar": "بتيجي بمعنى 'إلا' أو 'باستثناء'. زي لما تقول 'كلهم مشيوا ما عدا هو'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Except; apart from.",
+    "definition_ar": "باستثناء، ما عدا، إلا.",
+    "examples": [
+     "Everyone but Tom was there.",
+     "There is no one here but me.",
+     "They had no alternative but to surrender."
+    ]
+   }
+  ],
+  "examples": [
+   "Everyone but Tom was there.",
+   "There is no one here but me.",
+   "They had no alternative but to surrender."
+  ],
+  "translations": [
+   "باستثناء",
+   "عدا",
+   "إلا",
+   "ما عدا"
+  ],
+  "relations": {
+   "synonyms": [
+    "except",
+    "apart from",
+    "save"
+   ],
+   "antonyms": [
+    "including"
+   ],
+   "collocations": [
+    "everyone but",
+    "nothing but",
+    "all but",
+    "anything but"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/bʌt/",
+  "phonetic_uk": "/bʌt/",
+  "syllables": [
+   "but"
+  ],
+  "semantic_tags": [
+   "exception",
+   "exclusion",
+   "preposition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Except; apart from.",
+  "explanation_ar": "بتيجي بمعنى 'إلا' أو 'باستثناء'. زي لما تقول 'كلهم مشيوا ما عدا هو'.",
+  "examples": [
+   "Everyone but Tom was there.",
+   "There is no one here but me.",
+   "They had no alternative but to surrender."
+  ],
+  "translations": {
+   "arabic_ar": "باستثناء عدا إلا ما عدا"
+  },
+  "synonyms": [
+   "except",
+   "apart from",
+   "save"
+  ],
+  "antonyms": [
+   "including"
+  ],
+  "collocations": [
+   "everyone but",
+   "nothing but",
+   "all but",
+   "anything but"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1507",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1507",
+  "lemma": "fish",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1507,
+  "lemma": "fish",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Nature & Science",
+  "ai_confidence": 0.99,
+  "phonetic_us": "fɪʃ",
+  "phonetic_uk": null,
+  "phonetic_ar": "فِش",
+  "definition_en": "An animal that lives in water, breathes with gills, and usually has fins and scales.",
+  "explanation_ar": "حيوان مائي يعيش في الماء ويتنفس بالخياشيم، وله زعانف وحراشف، ويطلق أيضا على لحمه كطعام.",
+  "examples": [
+   {
+    "example_text": "Many colorful fish swim in the warm ocean.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "We ordered grilled fish with rice for dinner.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "He kept a small gold fish in a glass bowl.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"fish\" عبر صوت الفاء والشين الذي يشبه حركة الماء السريعة حين تسبح سمكة وتختفي فجأة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A creature that lives in water, breathes through gills, and has fins.",
+    "short_def_en": "water animal with gills",
+    "definition_ar": "كائن حي يعيش في الماء ويتنفس بالخياشيم وله زعانف.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "animals",
+     "marine life",
+     "nature"
+    ],
+    "usage_note": "The plural form is usually the same word when referring to the same kind.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The flesh of water-dwelling creatures eaten as food.",
+    "short_def_en": "seafood eaten as food",
+    "definition_ar": "لحم الكائنات المائية المعد للأكل كطعام.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "food",
+     "cooking",
+     "diet"
+    ],
+    "usage_note": "Treated as an uncountable noun in this food sense.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "catch a fish",
+   "fresh fish",
+   "raw fish",
+   "tropical fish"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "aquarium",
+    "gill",
+    "fin",
+    "scale",
+    "ocean",
+    "river"
+   ],
+   "ar": [
+    "حوض سمك",
+    "خيشوم",
+    "زعنفة",
+    "حرشفة",
+    "محيط",
+    "نهر"
+   ]
+  },
+  "word_family": {
+   "noun": "fisher",
+   "verb": "fish",
+   "adj": "fishy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "سمكة / سمك",
+   "french_fr": "poisson",
+   "german_de": "Fisch",
+   "spanish_es": "pez / pescado",
+   "chinese_zh": "鱼 (Yú)",
+   "russian_ru": "рыба",
+   "portuguese_pt": "peixe",
+   "japanese_ja": "魚 (Sakana)",
+   "italian_it": "pesce",
+   "turkish_tr": "balık"
+  }
+ },
+ "provenance": {
+  "output_hash": "dc8d3e6700e757df2d3222725220e4b738212662c7ca6d45d9ff434831f8279a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

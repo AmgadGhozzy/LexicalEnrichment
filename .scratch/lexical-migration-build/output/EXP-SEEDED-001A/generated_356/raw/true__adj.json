@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "true",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "true",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "In accordance with fact or reality; not false or erroneous.",
+  "explanation_ar": "حاجة صح وحقيقية، مش كذب ولا تأليف، ومطابقة للواقع.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In accordance with fact or reality; not false or erroneous.",
+    "definition_ar": "مطابق للحقيقة أو الواقع؛ صحيح وغير كاذب.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "Is this story true?",
+   "It is true that he likes pizza.",
+   "The movie is based on a true story."
+  ],
+  "translations": [
+   "صحيح",
+   "حقيقي"
+  ],
+  "relations": {
+   "synonyms": [
+    "correct",
+    "real",
+    "accurate",
+    "authentic",
+    "genuine"
+   ],
+   "antonyms": [
+    "false",
+    "untrue",
+    "fake",
+    "incorrect"
+   ],
+   "collocations": [
+    "come true",
+    "true love",
+    "true story",
+    "hold true"
+   ],
+   "word_family": {
+    "adj": "true",
+    "adv": "truly",
+    "noun": "truth"
+   }
+  },
+  "mnemonic": "عكس 'False'.. يعني حاجة 'True' ومؤكدة.",
+  "phonetic_us": "truː",
+  "phonetic_uk": "truː",
+  "syllables": [
+   "true"
+  ],
+  "semantic_tags": [
+   "#Fact",
+   "#Reality",
+   "#Truth",
+   "#Honesty"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In accordance with fact or reality; not false or erroneous.",
+  "explanation_ar": "حاجة صح وحقيقية، مش كذب ولا تأليف، ومطابقة للواقع.",
+  "examples": [
+   "Is this story true?",
+   "It is true that he likes pizza.",
+   "The movie is based on a true story."
+  ],
+  "translations": {
+   "arabic_ar": "صحيح حقيقي"
+  },
+  "synonyms": [
+   "correct",
+   "real",
+   "accurate",
+   "authentic",
+   "genuine"
+  ],
+  "antonyms": [
+   "false",
+   "untrue",
+   "fake",
+   "incorrect"
+  ],
+  "collocations": [
+   "come true",
+   "true love",
+   "true story",
+   "hold true"
+  ],
+  "mnemonic_ar": "عكس 'False'.. يعني حاجة 'True' ومؤكدة."
+ }
+}

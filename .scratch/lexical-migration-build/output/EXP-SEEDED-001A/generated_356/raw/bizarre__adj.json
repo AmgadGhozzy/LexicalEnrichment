@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "bizarre",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bizarre",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Very strange and unusual, often in a surprising way.",
+  "explanation_ar": "حاجة غريبة جداً وغير مألوفة، بتخليك تستغرب لما تشوفها لأنها مش طبيعية.",
+  "senses": [
+   {
+    "definition_en": "Very strange and unusual, often in a surprising way.",
+    "explanation_ar": "حاجة غريبة جداً وغير مألوفة، بتخليك تستغرب لما تشوفها لأنها مش طبيعية.",
+    "examples": [
+     "He wore a bizarre costume to the party.",
+     "The movie had a bizarre ending.",
+     "His behavior became increasingly bizarre and unpredictable."
+    ]
+   }
+  ],
+  "examples": [
+   "He wore a bizarre costume to the party.",
+   "The movie had a bizarre ending.",
+   "His behavior became increasingly bizarre and unpredictable."
+  ],
+  "translations": [
+   "غريب",
+   "شاذ"
+  ],
+  "relations": {
+   "synonyms": [
+    "weird",
+    "strange",
+    "peculiar",
+    "odd"
+   ],
+   "antonyms": [
+    "normal",
+    "ordinary",
+    "conventional"
+   ],
+   "collocations": [
+    "bizarre behavior",
+    "bizarre twist",
+    "bizarre coincidence",
+    "truly bizarre"
+   ]
+  },
+  "mnemonic": "كلمة 'Bizarre' بتفكرنا بـ 'Bazaar' 'سوق'.. والسوق بيبقى فيه حاجات 'غريبة' وعجيبة.",
+  "phonetic_us": "bəˈzɑɹ",
+  "phonetic_uk": "bəˈzɑː(r)",
+  "syllables": [
+   "bi",
+   "zarre"
+  ],
+  "semantic_tags": [
+   "#Strange",
+   "#Description",
+   "#Surprise"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Very strange and unusual, often in a surprising way.",
+  "explanation_ar": "حاجة غريبة جداً وغير مألوفة، بتخليك تستغرب لما تشوفها لأنها مش طبيعية.",
+  "examples": [
+   "He wore a bizarre costume to the party.",
+   "The movie had a bizarre ending.",
+   "His behavior became increasingly bizarre and unpredictable."
+  ],
+  "translations": {
+   "arabic_ar": "غريب شاذ"
+  },
+  "synonyms": [
+   "weird",
+   "strange",
+   "peculiar",
+   "odd"
+  ],
+  "antonyms": [
+   "normal",
+   "ordinary",
+   "conventional"
+  ],
+  "collocations": [
+   "bizarre behavior",
+   "bizarre twist",
+   "bizarre coincidence",
+   "truly bizarre"
+  ],
+  "mnemonic_ar": "كلمة 'Bizarre' بتفكرنا بـ 'Bazaar' 'سوق'.. والسوق بيبقى فيه حاجات 'غريبة' وعجيبة."
+ }
+}

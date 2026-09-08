@@ -1,0 +1,119 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3533",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3533",
+  "lemma": "intent",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3533,
+  "lemma": "intent",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪnˈtɛnt",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِنْتَنْت",
+  "definition_en": "The clear aim, goal, or purpose behind a person's planned actions.",
+  "explanation_ar": "النية أو القصد المسبق وراء تصرف معين، وغالبا ما يستخدم هذا المصطلح في السياقات القانونية أو الرسمية للتعبير عن الغاية المبيتة.",
+  "examples": [
+   {
+    "example_text": "The prosecution struggled to prove clear criminal intent behind his sudden departure.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "She declared her clear intent to run for the parliamentary seat next autumn.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The signed document outlined their shared intent to complete the corporate merger by next year.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الكلمة من تشابهها مع الفعل الشهير \"intend\"، حيث تعني النية أو الهدف الداخلي الذي يوجه سلوكك قبل التنفيذ.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The clear aim, goal, or purpose behind a person's planned actions.",
+    "short_def_en": "purpose or plan",
+    "definition_ar": "النية أو القصد أو الغاية من فعل محدد",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "Law",
+     "Psychology",
+     "Plans",
+     "Decision"
+    ],
+    "usage_note": "Often used in legal contexts, such as criminal intent, or formal expressions like letter of intent.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "criminal intent",
+   "clear intent",
+   "letter of intent",
+   "declaration of intent",
+   "evil intent"
+  ],
+  "synonyms": [
+   "intention",
+   "purpose",
+   "aim",
+   "objective",
+   "design"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "motive",
+    "deliberate",
+    "resolve",
+    "will",
+    "premeditation"
+   ],
+   "ar": [
+    "دافع",
+    "متعمد",
+    "عزم",
+    "إرادة",
+    "تبييت النية"
+   ]
+  },
+  "word_family": {
+   "noun": "intention",
+   "verb": "intend",
+   "adj": "intentional",
+   "adv": "intentionally"
+  },
+  "translations": {
+   "arabic_ar": "نية / قصد",
+   "french_fr": "intention",
+   "german_de": "Absicht",
+   "spanish_es": "intención",
+   "chinese_zh": "意图 (yì tú)",
+   "russian_ru": "намерение",
+   "portuguese_pt": "intenção",
+   "japanese_ja": "意図 (Ito)",
+   "italian_it": "intento",
+   "turkish_tr": "kasıt"
+  }
+ },
+ "provenance": {
+  "output_hash": "3f74e6541d3e3c136c9fef674f5fd2128b29b758340e6c8e642ea10107827a14",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

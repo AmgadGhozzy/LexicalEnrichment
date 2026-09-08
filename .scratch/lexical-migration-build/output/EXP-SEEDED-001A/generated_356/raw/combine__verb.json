@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "combine",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "combine",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To join two or more things together.",
+  "explanation_ar": "إنك تخلط أو تدمج حاجتين أو أكثر مع بعض عشان يبقوا حاجة واحدة.",
+  "senses": [
+   {
+    "definition_en": "To join two or more things together.",
+    "definition_ar": "أن تخلط أو تدمج شيئين أو أكثر معاً.",
+    "examples": [
+     "We can combine our money to buy a better gift.",
+     "Hydrogen and oxygen combine to form water.",
+     "They decided to combine forces to finish the project."
+    ]
+   }
+  ],
+  "examples": [
+   "We can combine our money to buy a better gift.",
+   "Hydrogen and oxygen combine to form water.",
+   "They decided to combine forces to finish the project."
+  ],
+  "translations": [
+   "يجمع",
+   "يدمج",
+   "يخلط"
+  ],
+  "relations": {
+   "synonyms": [
+    "mix",
+    "merge",
+    "unite",
+    "blend"
+   ],
+   "antonyms": [
+    "separate",
+    "divide",
+    "split"
+   ],
+   "collocations": [
+    "combine with",
+    "combine forces",
+    "combine skills",
+    "combine business with pleasure"
+   ]
+  },
+  "mnemonic": "لما تعمل 'Combine' بتخلي الحاجات 'Combo' واحد.",
+  "phonetic_us": "kəmˈbaɪn",
+  "phonetic_uk": "kəmˈbaɪn",
+  "syllables": "com•bine",
+  "semantic_tags": [
+   "#Mix",
+   "#Join",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To join two or more things together.",
+  "explanation_ar": "إنك تخلط أو تدمج حاجتين أو أكثر مع بعض عشان يبقوا حاجة واحدة.",
+  "examples": [
+   "We can combine our money to buy a better gift.",
+   "Hydrogen and oxygen combine to form water.",
+   "They decided to combine forces to finish the project."
+  ],
+  "translations": {
+   "arabic_ar": "يجمع يدمج يخلط"
+  },
+  "synonyms": [
+   "mix",
+   "merge",
+   "unite",
+   "blend"
+  ],
+  "antonyms": [
+   "separate",
+   "divide",
+   "split"
+  ],
+  "collocations": [
+   "combine with",
+   "combine forces",
+   "combine skills",
+   "combine business with pleasure"
+  ],
+  "mnemonic_ar": "لما تعمل 'Combine' بتخلي الحاجات 'Combo' واحد."
+ }
+}

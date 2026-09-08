@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "double",
+  "pos": "pron"
+ },
+ "candidate": {
+  "lemma": "double",
+  "pos": "pron",
+  "cefr": "B1",
+  "definition_en": "Twice the amount, size, or number of something.",
+  "explanation_ar": "ضِعف الشيء، أي مقداره أو كميته مرتين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "pron",
+    "definition_en": "Twice the amount, size, or number of something.",
+    "explanation_ar": "ضعف الكمية أو المقدار (مرتان قدر الشيء).",
+    "examples": [
+     "She earns double what I do for the same work.",
+     "To pay double for the same ticket is completely unfair.",
+     "We cooked enough food for ten guests, which was double what we needed."
+    ]
+   }
+  ],
+  "examples": [
+   "She earns double what I do for the same work.",
+   "To pay double for the same ticket is completely unfair.",
+   "We cooked enough food for ten guests, which was double what we needed."
+  ],
+  "translations": [
+   "ضِعْف",
+   "مِثْلَا الشَّيْء"
+  ],
+  "relations": {
+   "synonyms": [
+    "twice as much"
+   ],
+   "antonyms": [
+    "half"
+   ],
+   "collocations": [
+    "pay double",
+    "cost double",
+    "earn double"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈdʌbəl",
+  "phonetic_uk": "ˈdʌbl",
+  "syllables": "dou•ble",
+  "semantic_tags": [
+   "#Quantity",
+   "#Amount"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Twice the amount, size, or number of something.",
+  "explanation_ar": "ضِعف الشيء، أي مقداره أو كميته مرتين.",
+  "examples": [
+   "She earns double what I do for the same work.",
+   "To pay double for the same ticket is completely unfair.",
+   "We cooked enough food for ten guests, which was double what we needed."
+  ],
+  "translations": {
+   "arabic_ar": "ضِعْف مِثْلَا الشَّيْء"
+  },
+  "synonyms": [
+   "twice as much"
+  ],
+  "antonyms": [
+   "half"
+  ],
+  "collocations": [
+   "pay double",
+   "cost double",
+   "earn double"
+  ],
+  "mnemonic_ar": null
+ }
+}

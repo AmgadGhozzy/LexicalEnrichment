@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "amusing",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "amusing",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Causing laughter and providing entertainment.",
+  "explanation_ar": "مُسلي أو دمه خفيف.. حاجة بتضحكك أو بتبسطك",
+  "senses": [
+   {
+    "definition_en": "Causing laughter and providing entertainment.",
+    "definition_ar": "مُسلي أو مضحك بطريقة لطيفة وممتعة",
+    "examples": [
+     "He told us an amusing story about his trip.",
+     "I didn't find his jokes very amusing.",
+     "She has an amusing way of describing people."
+    ]
+   }
+  ],
+  "examples": [
+   "He told us an amusing story about his trip.",
+   "I didn't find his jokes very amusing.",
+   "She has an amusing way of describing people."
+  ],
+  "translations": [
+   "مسلي",
+   "مضحك"
+  ],
+  "relations": {
+   "synonyms": [
+    "funny",
+    "entertaining",
+    "witty",
+    "comical"
+   ],
+   "antonyms": [
+    "boring",
+    "serious",
+    "sad",
+    "tedious"
+   ],
+   "collocations": [
+    "amusing story",
+    "highly amusing",
+    "find it amusing",
+    "mildly amusing"
+   ]
+  },
+  "mnemonic": "من 'Amusement Park' 'مدينة الملاهي'.. المكان اللي كله حاجات 'Amusing' ومسلية",
+  "phonetic_us": "əˈmjuːzɪŋ",
+  "phonetic_uk": "əˈmjuːzɪŋ",
+  "syllables": "a•mus•ing",
+  "semantic_tags": [
+   "#Fun",
+   "#Humor",
+   "#Positive"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Causing laughter and providing entertainment.",
+  "explanation_ar": "مُسلي أو دمه خفيف.. حاجة بتضحكك أو بتبسطك",
+  "examples": [
+   "He told us an amusing story about his trip.",
+   "I didn't find his jokes very amusing.",
+   "She has an amusing way of describing people."
+  ],
+  "translations": {
+   "arabic_ar": "مسلي مضحك"
+  },
+  "synonyms": [
+   "funny",
+   "entertaining",
+   "witty",
+   "comical"
+  ],
+  "antonyms": [
+   "boring",
+   "serious",
+   "sad",
+   "tedious"
+  ],
+  "collocations": [
+   "amusing story",
+   "highly amusing",
+   "find it amusing",
+   "mildly amusing"
+  ],
+  "mnemonic_ar": "من 'Amusement Park' 'مدينة الملاهي'.. المكان اللي كله حاجات 'Amusing' ومسلية"
+ }
+}

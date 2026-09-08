@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "round",
+  "pos": "adv",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "round",
+  "pos": "adv",
+  "cefr": "A2",
+  "definition_en": "In a circular direction, towards the opposite direction, or to each person in a group.",
+  "explanation_ar": "بشكل دائري، أو إلى الخلف (للاتجاه المعاكس)، أو بالمرور على الجميع (حول).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In a circle or with a circular movement.",
+    "definition_ar": "في مسار دائري أو حركة دورانية.",
+    "examples": [
+     "The wheels went round and round."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "So as to face in the opposite direction.",
+    "definition_ar": "للالتفاف إلى الاتجاه المعاكس.",
+    "examples": [
+     "Turn round and look at me."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "To each person in a group or from one person to another.",
+    "definition_ar": "بالتوزيع على الجميع أو من شخص لآخر.",
+    "examples": [
+     "Pass the papers round so everyone gets one."
+    ]
+   }
+  ],
+  "examples": [
+   "Turn round and look at me.",
+   "Pass the papers round so everyone gets one.",
+   "The wheels went round and round."
+  ],
+  "translations": [
+   "حول",
+   "في اتجاه دائري",
+   "للخلف",
+   "على الجميع"
+  ],
+  "relations": {
+   "synonyms": [
+    "around",
+    "about"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "turn round",
+    "go round",
+    "all year round"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/raʊnd/",
+  "phonetic_uk": "/raʊnd/",
+  "syllables": "round",
+  "semantic_tags": [
+   "#Movement",
+   "#Direction",
+   "#Circle"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a circular direction, towards the opposite direction, or to each person in a group.",
+  "explanation_ar": "بشكل دائري، أو إلى الخلف (للاتجاه المعاكس)، أو بالمرور على الجميع (حول).",
+  "examples": [
+   "Turn round and look at me.",
+   "Pass the papers round so everyone gets one.",
+   "The wheels went round and round."
+  ],
+  "translations": {
+   "arabic_ar": "حول في اتجاه دائري للخلف على الجميع"
+  },
+  "synonyms": [
+   "around",
+   "about"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "turn round",
+   "go round",
+   "all year round"
+  ],
+  "mnemonic_ar": null
+ }
+}

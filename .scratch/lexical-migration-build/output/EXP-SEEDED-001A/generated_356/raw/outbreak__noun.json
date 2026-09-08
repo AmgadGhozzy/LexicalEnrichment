@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "outbreak",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "outbreak",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A sudden occurrence of something unwelcome, such as war or disease.",
+  "explanation_ar": "تفشي أو اندلاع؛ بداية مفاجئة وغير مرغوبة لشيء سيئ مثل انتشار مرض أو نشوب حرب.",
+  "senses": [
+   {
+    "definition_en": "A sudden occurrence of something unwelcome, such as war or disease.",
+    "explanation_ar": "تفشي أو اندلاع؛ بداية مفاجئة لمرض أو حرب أو عنف.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The outbreak of war changed everything.",
+   "The government tried to contain the cholera outbreak.",
+   "Epidemiologists traced the source of the viral outbreak to a local market."
+  ],
+  "translations": [
+   "تَفَشٍّ",
+   "انْدِلَاع"
+  ],
+  "relations": {
+   "synonyms": [
+    "eruption",
+    "flare-up",
+    "upsurge"
+   ],
+   "antonyms": [
+    "containment",
+    "cessation",
+    "end"
+   ],
+   "collocations": [
+    "disease outbreak",
+    "outbreak of war",
+    "viral outbreak",
+    "sudden outbreak"
+   ]
+  },
+  "mnemonic": "'Out' (بره) + 'Break' (كسر): المرض أو الحرب تكسر الحواجز وتخرج فجأة 'Out' لتنتشر بسرعة.",
+  "phonetic_us": "ˈaʊtˌbreɪk",
+  "phonetic_uk": "ˈaʊtbreɪk",
+  "syllables": "out•break",
+  "semantic_tags": [
+   "disease",
+   "war",
+   "disaster"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sudden occurrence of something unwelcome, such as war or disease.",
+  "explanation_ar": "تفشي أو اندلاع؛ بداية مفاجئة وغير مرغوبة لشيء سيئ مثل انتشار مرض أو نشوب حرب.",
+  "examples": [
+   "The outbreak of war changed everything.",
+   "The government tried to contain the cholera outbreak.",
+   "Epidemiologists traced the source of the viral outbreak to a local market."
+  ],
+  "translations": {
+   "arabic_ar": "تَفَشٍّ انْدِلَاع"
+  },
+  "synonyms": [
+   "eruption",
+   "flare-up",
+   "upsurge"
+  ],
+  "antonyms": [
+   "containment",
+   "cessation",
+   "end"
+  ],
+  "collocations": [
+   "disease outbreak",
+   "outbreak of war",
+   "viral outbreak",
+   "sudden outbreak"
+  ],
+  "mnemonic_ar": "'Out' (بره) + 'Break' (كسر): المرض أو الحرب تكسر الحواجز وتخرج فجأة 'Out' لتنتشر بسرعة."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "outwards",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "outwards",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Towards the outside; away from the center.",
+  "explanation_ar": "ناحية بره، أو بعيد عن النص.",
+  "senses": [
+   {
+    "pos": "adv",
+    "definition_en": "Towards the outside; away from the center.",
+    "definition_ar": "باتجاه الخارج أو بعيداً عن المركز.",
+    "examples": [
+     "The door opens outwards.",
+     "The branches spread outwards from the tree.",
+     "The city expanded outwards into the countryside."
+    ]
+   }
+  ],
+  "examples": [
+   "The door opens outwards.",
+   "The branches spread outwards from the tree.",
+   "The city expanded outwards into the countryside."
+  ],
+  "translations": [
+   "إلى الخارج",
+   "نحو الخارج"
+  ],
+  "relations": {
+   "synonyms": [
+    "out",
+    "away",
+    "externally"
+   ],
+   "antonyms": [
+    "inwards",
+    "inward"
+   ],
+   "collocations": [
+    "move outwards",
+    "face outwards",
+    "spread outwards",
+    "point outwards"
+   ]
+  },
+  "mnemonic": "عكس 'Inwards'.. 'Out' 'بره' + 'Wards' 'اتجاه'.",
+  "phonetic_us": "ˈaʊtwərdz",
+  "phonetic_uk": "ˈaʊtwədz",
+  "syllables": "out•wards",
+  "semantic_tags": [
+   "#Direction",
+   "#Movement",
+   "#Space"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Towards the outside; away from the center.",
+  "explanation_ar": "ناحية بره، أو بعيد عن النص.",
+  "examples": [
+   "The door opens outwards.",
+   "The branches spread outwards from the tree.",
+   "The city expanded outwards into the countryside."
+  ],
+  "translations": {
+   "arabic_ar": "إلى الخارج نحو الخارج"
+  },
+  "synonyms": [
+   "out",
+   "away",
+   "externally"
+  ],
+  "antonyms": [
+   "inwards",
+   "inward"
+  ],
+  "collocations": [
+   "move outwards",
+   "face outwards",
+   "spread outwards",
+   "point outwards"
+  ],
+  "mnemonic_ar": "عكس 'Inwards'.. 'Out' 'بره' + 'Wards' 'اتجاه'."
+ }
+}

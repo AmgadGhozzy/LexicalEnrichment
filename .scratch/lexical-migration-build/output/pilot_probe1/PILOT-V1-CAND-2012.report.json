@@ -1,0 +1,24 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2012",
+ "manifest_id": "pilot_manifest_v1",
+ "status": "ok",
+ "validator": {
+  "checks": {
+   "artifact_structure": "pass",
+   "runtime_status": "pass",
+   "output_hash": "pass",
+   "schema": "pass",
+   "required_fields": "pass",
+   "example_count": "pass",
+   "target_word": "pass",
+   "mnemonic": "pass",
+   "circular_definition": "pass",
+   "pos_alignment": "unverified"
+  },
+  "failures": [],
+  "flags": []
+ },
+ "guard_defects": {},
+ "provenance_line": 2,
+ "validated_at": "2026-09-06T14:59:16.541819+00:00"
+}

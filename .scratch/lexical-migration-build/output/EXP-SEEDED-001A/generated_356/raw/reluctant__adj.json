@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "reluctant",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "reluctant",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Unwilling and hesitant to do something.",
+  "explanation_ar": "متردد أو غير راغب في فعل شيء ما، ويفعله على مضض دون حماس.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "adj",
+    "definition_en": "Unwilling and hesitant to do something.",
+    "definition_ar": "متردد أو غير راغب في فعل شيء ما.",
+    "examples": [
+     "The government was reluctant to intervene.",
+     "I am reluctant to spend so much money.",
+     "He was initially reluctant but eventually agreed."
+    ]
+   }
+  ],
+  "examples": [
+   "The government was reluctant to intervene.",
+   "I am reluctant to spend so much money.",
+   "He was initially reluctant but eventually agreed."
+  ],
+  "translations": [
+   "متردد",
+   "غير راغب",
+   "متمنع"
+  ],
+  "relations": {
+   "synonyms": [
+    "unwilling",
+    "hesitant",
+    "disinclined",
+    "loath",
+    "resistant"
+   ],
+   "antonyms": [
+    "eager",
+    "willing",
+    "enthusiastic"
+   ],
+   "collocations": [
+    "reluctant to",
+    "reluctant agreement",
+    "reluctant hero",
+    "prove reluctant"
+   ]
+  },
+  "mnemonic": "ممكن تربطها بـ 'Luck'.. هو 'Reluctant' 'متردد' إنه يجرب حظه.",
+  "phonetic_us": "rɪˈlʌk.tənt",
+  "phonetic_uk": "rɪˈlʌk.tənt",
+  "syllables": "re•luc•tant",
+  "semantic_tags": [
+   "Emotion",
+   "Hesitation",
+   "Choice",
+   "Attitude"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Unwilling and hesitant to do something.",
+  "explanation_ar": "متردد أو غير راغب في فعل شيء ما، ويفعله على مضض دون حماس.",
+  "examples": [
+   "The government was reluctant to intervene.",
+   "I am reluctant to spend so much money.",
+   "He was initially reluctant but eventually agreed."
+  ],
+  "translations": {
+   "arabic_ar": "متردد غير راغب متمنع"
+  },
+  "synonyms": [
+   "unwilling",
+   "hesitant",
+   "disinclined",
+   "loath",
+   "resistant"
+  ],
+  "antonyms": [
+   "eager",
+   "willing",
+   "enthusiastic"
+  ],
+  "collocations": [
+   "reluctant to",
+   "reluctant agreement",
+   "reluctant hero",
+   "prove reluctant"
+  ],
+  "mnemonic_ar": "ممكن تربطها بـ 'Luck'.. هو 'Reluctant' 'متردد' إنه يجرب حظه."
+ }
+}

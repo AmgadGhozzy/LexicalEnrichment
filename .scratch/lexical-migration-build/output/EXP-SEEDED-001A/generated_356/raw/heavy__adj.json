@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "heavy",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "heavy",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Of great weight; difficult to lift or move.",
+  "explanation_ar": "حاجة وزنها تقيل وصعب تشيلها، أو حاجة كميتها كبيرة.",
+  "senses": [
+   {
+    "definition_en": "Of great weight; difficult to lift or move.",
+    "explanation_ar": "ثقيل الوزن ويصعب حمله أو تحريكه.",
+    "examples": [
+     "This box is very heavy."
+    ]
+   },
+   {
+    "definition_en": "Greater in amount, degree, or intensity than usual.",
+    "explanation_ar": "كبير في الكمية أو الشدة (مثل المطر الغزير أو المرور المزدحم).",
+    "examples": [
+     "There was heavy rain yesterday.",
+     "Traffic is heavy this morning."
+    ]
+   }
+  ],
+  "examples": [
+   "This box is very heavy.",
+   "There was heavy rain yesterday.",
+   "Traffic is heavy this morning."
+  ],
+  "translations": [
+   "ثقيل",
+   "غزير",
+   "شديد"
+  ],
+  "relations": {
+   "synonyms": [
+    "weighty",
+    "hefty"
+   ],
+   "antonyms": [
+    "light"
+   ],
+   "collocations": [
+    "heavy rain",
+    "heavy traffic",
+    "heavy load",
+    "heavy sleeper"
+   ]
+  },
+  "mnemonic": "كلمة 'Heave' يعني يرفع بصعوبة.. الحاجة الـ 'Heavy' محتاجة 'Heave'.",
+  "phonetic_us": "ˈhɛvi",
+  "phonetic_uk": "ˈhevi",
+  "syllables": "heav-y",
+  "semantic_tags": [
+   "weight",
+   "intensity",
+   "physical"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Of great weight; difficult to lift or move.",
+  "explanation_ar": "حاجة وزنها تقيل وصعب تشيلها، أو حاجة كميتها كبيرة.",
+  "examples": [
+   "This box is very heavy.",
+   "There was heavy rain yesterday.",
+   "Traffic is heavy this morning."
+  ],
+  "translations": {
+   "arabic_ar": "ثقيل غزير شديد"
+  },
+  "synonyms": [
+   "weighty",
+   "hefty"
+  ],
+  "antonyms": [
+   "light"
+  ],
+  "collocations": [
+   "heavy rain",
+   "heavy traffic",
+   "heavy load",
+   "heavy sleeper"
+  ],
+  "mnemonic_ar": "كلمة 'Heave' يعني يرفع بصعوبة.. الحاجة الـ 'Heavy' محتاجة 'Heave'."
+ }
+}

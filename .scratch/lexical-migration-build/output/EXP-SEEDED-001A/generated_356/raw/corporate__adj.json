@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "corporate",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "corporate",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to a large company or group.",
+  "explanation_ar": "أي حاجة ليها علاقة بالشركات الكبيرة والمؤسسات الضخمة.",
+  "senses": [
+   {
+    "definition_en": "Relating to a large business company or group.",
+    "explanation_ar": "متعلق بشركة تجارية كبيرة أو مؤسسة.",
+    "examples": [
+     "He works in a corporate office.",
+     "We attended a corporate event last night.",
+     "She wants to climb the corporate ladder."
+    ]
+   }
+  ],
+  "examples": [
+   "He works in a corporate office.",
+   "We attended a corporate event last night.",
+   "She wants to climb the corporate ladder."
+  ],
+  "translations": [
+   "مؤسسي",
+   "متعلق بالشركات",
+   "خاص بالشركات"
+  ],
+  "relations": {
+   "synonyms": [
+    "business",
+    "commercial",
+    "collective"
+   ],
+   "antonyms": [
+    "individual",
+    "personal",
+    "private"
+   ],
+   "collocations": [
+    "corporate culture",
+    "corporate identity",
+    "corporate event",
+    "corporate ladder"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Corp'.. أي حاجة 'Corporate' يعني خاصة بالشركات الكبيرة والبيزنس.",
+  "phonetic_us": "ˈkɔːrpərət",
+  "phonetic_uk": "ˈkɔːpərət",
+  "syllables": "cor•po•rate",
+  "semantic_tags": [
+   "#Business",
+   "#Company",
+   "#Work",
+   "#Professional"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to a large company or group.",
+  "explanation_ar": "أي حاجة ليها علاقة بالشركات الكبيرة والمؤسسات الضخمة.",
+  "examples": [
+   "He works in a corporate office.",
+   "We attended a corporate event last night.",
+   "She wants to climb the corporate ladder."
+  ],
+  "translations": {
+   "arabic_ar": "مؤسسي متعلق بالشركات خاص بالشركات"
+  },
+  "synonyms": [
+   "business",
+   "commercial",
+   "collective"
+  ],
+  "antonyms": [
+   "individual",
+   "personal",
+   "private"
+  ],
+  "collocations": [
+   "corporate culture",
+   "corporate identity",
+   "corporate event",
+   "corporate ladder"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Corp'.. أي حاجة 'Corporate' يعني خاصة بالشركات الكبيرة والبيزنس."
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "tackle",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "tackle",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To make a determined effort to deal with a problem or difficult task.",
+  "explanation_ar": "يعني تبدأ تتعامل مع مشكلة صعبة أو موقف معقد وتحاول تحله، زي لما نقول نتصدى للمشكلة أو نعالج الموضوع بجدية.",
+  "senses": [
+   {
+    "definition_en": "To make a determined effort to deal with a problem or difficult task.",
+    "definition_ar": "يتصدى لمشكلة أو يبذل جهداً للتعامل مع مهمة صعبة.",
+    "examples": [
+     "We need to tackle this problem soon.",
+     "The government is trying to tackle unemployment.",
+     "She decided to tackle the difficult project herself."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to tackle this problem soon.",
+   "The government is trying to tackle unemployment.",
+   "She decided to tackle the difficult project herself."
+  ],
+  "translations": [
+   "يتصدى لـ",
+   "يعالج",
+   "يواجه"
+  ],
+  "relations": {
+   "synonyms": [
+    "address",
+    "confront",
+    "deal with",
+    "undertake"
+   ],
+   "antonyms": [
+    "avoid",
+    "dodge",
+    "ignore"
+   ],
+   "collocations": [
+    "tackle a problem",
+    "tackle an issue",
+    "tackle crime",
+    "tackle unemployment"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Take all'.. لما تعمل 'Tackle' لمشكلة، إنت بتـ 'Take all' المسؤولية وبتحلها.",
+  "phonetic_us": "ˈtækəl",
+  "phonetic_uk": "ˈtæk.l",
+  "syllables": "tack•le",
+  "semantic_tags": [
+   "#Sports",
+   "#ProblemSolving",
+   "#Action",
+   "#Business"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To make a determined effort to deal with a problem or difficult task.",
+  "explanation_ar": "يعني تبدأ تتعامل مع مشكلة صعبة أو موقف معقد وتحاول تحله، زي لما نقول نتصدى للمشكلة أو نعالج الموضوع بجدية.",
+  "examples": [
+   "We need to tackle this problem soon.",
+   "The government is trying to tackle unemployment.",
+   "She decided to tackle the difficult project herself."
+  ],
+  "translations": {
+   "arabic_ar": "يتصدى لـ يعالج يواجه"
+  },
+  "synonyms": [
+   "address",
+   "confront",
+   "deal with",
+   "undertake"
+  ],
+  "antonyms": [
+   "avoid",
+   "dodge",
+   "ignore"
+  ],
+  "collocations": [
+   "tackle a problem",
+   "tackle an issue",
+   "tackle crime",
+   "tackle unemployment"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Take all'.. لما تعمل 'Tackle' لمشكلة، إنت بتـ 'Take all' المسؤولية وبتحلها."
+ }
+}

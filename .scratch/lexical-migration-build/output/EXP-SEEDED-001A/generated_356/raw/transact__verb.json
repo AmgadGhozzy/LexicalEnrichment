@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "transact",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "transact",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To do or carry out business.",
+  "explanation_ar": "يُجري معاملة تجارية أو يخلص شغل ومصالح.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To do or carry out business.",
+    "explanation_ar": "يُجري معاملة تجارية أو ينجز عملاً رسمياً.",
+    "examples": [
+     "They agreed to transact business solely in Euros.",
+     "It is safer to transact online with a secure connection.",
+     "The dealer refused to transact with unregistered clients."
+    ]
+   }
+  ],
+  "examples": [
+   "They agreed to transact business solely in Euros.",
+   "It is safer to transact online with a secure connection.",
+   "The dealer refused to transact with unregistered clients."
+  ],
+  "translations": [
+   "يُجري معاملة",
+   "يتعامل تجاريًا"
+  ],
+  "relations": {
+   "synonyms": [
+    "conduct",
+    "execute",
+    "perform"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "transact business",
+    "transact affairs",
+    "ability to transact"
+   ],
+   "word_family": {
+    "verb": "transact",
+    "noun": "transaction",
+    "adjective": "transactional"
+   }
+  },
+  "mnemonic": "أصل كلمة 'Transaction'.. لما تـ 'Transact' يعني بتعمل 'Action' 'فعل' تجاري.",
+  "phonetic_us": "trænˈzækt",
+  "phonetic_uk": "trænˈzækt",
+  "syllables": "trans•act",
+  "semantic_tags": [
+   "#Business",
+   "#Money",
+   "#Deal",
+   "#Trade"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To do or carry out business.",
+  "explanation_ar": "يُجري معاملة تجارية أو يخلص شغل ومصالح.",
+  "examples": [
+   "They agreed to transact business solely in Euros.",
+   "It is safer to transact online with a secure connection.",
+   "The dealer refused to transact with unregistered clients."
+  ],
+  "translations": {
+   "arabic_ar": "يُجري معاملة يتعامل تجاريًا"
+  },
+  "synonyms": [
+   "conduct",
+   "execute",
+   "perform"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "transact business",
+   "transact affairs",
+   "ability to transact"
+  ],
+  "mnemonic_ar": "أصل كلمة 'Transaction'.. لما تـ 'Transact' يعني بتعمل 'Action' 'فعل' تجاري."
+ }
+}

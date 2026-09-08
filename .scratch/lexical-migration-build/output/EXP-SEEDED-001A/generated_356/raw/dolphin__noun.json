@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "dolphin",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "dolphin",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+  "explanation_ar": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A highly intelligent sea mammal that looks like a large fish with a beak-like snout.",
+    "definition_ar": "حيوان ثديي بحري ذكي جداً، يشبه السمكة الكبيرة وله خطم يشبه المنقار.",
+    "examples": [
+     "The dolphin swims fast.",
+     "I saw a dolphin in the sea.",
+     "A friendly dolphin leaped high out of the water."
+    ]
+   }
+  ],
+  "examples": [
+   "The dolphin swims fast.",
+   "I saw a dolphin in the sea.",
+   "A friendly dolphin leaped high out of the water."
+  ],
+  "translations": [
+   "دُلفين",
+   "دِلفين"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "bottlenose dolphin",
+    "playful dolphin",
+    "swim with dolphins"
+   ],
+   "related_words": [
+    "whale",
+    "ocean",
+    "fin"
+   ]
+  },
+  "mnemonic": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب.",
+  "phonetic_us": "ˈdɑːlfɪn",
+  "phonetic_uk": "ˈdɒlfɪn",
+  "syllables": "dol•phin",
+  "semantic_tags": [
+   "#Sea",
+   "#Mammal",
+   "#Intelligent"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A highly intelligent sea animal that looks like a large fish with a beak-like snout.",
+  "explanation_ar": "حيوان بحري ذكي جداً وصديق للإنسان، بيحب يلعب ونشوفه في العروض.",
+  "examples": [
+   "The dolphin swims fast.",
+   "I saw a dolphin in the sea.",
+   "A friendly dolphin leaped high out of the water."
+  ],
+  "translations": {
+   "arabic_ar": "دُلفين دِلفين"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "bottlenose dolphin",
+   "playful dolphin",
+   "swim with dolphins"
+  ],
+  "mnemonic_ar": "نفس النطق بالعربي 'دُلفين'.. ممكن تربطها بـ 'Doll' 'لعبة' لأنه بيحب يلعب."
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5870",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5870",
+  "lemma": "amusing",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5870,
+  "lemma": "amusing",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.98,
+  "phonetic_us": "əˈmjuːzɪŋ",
+  "phonetic_uk": null,
+  "phonetic_ar": "أَمْيُوزِنْغ",
+  "definition_en": "Causing laughter or lighthearted pleasure; funny or entertaining.",
+  "explanation_ar": "يصف الشيء أو الموقف أو الشخص الذي يبعث على الضحك الخفيف أو التسلية والمرح اللطيف.",
+  "examples": [
+   {
+    "example_text": "He told an amusing story about his first day at work.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "I found the movie mildly amusing, but not particularly memorable.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She raised an eyebrow with an amusing look of disbelief.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"music\" الموسيقى المبهجة التي تجلب التسلية والمرح مثل الشيء المسلي \"amusing\".",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Causing laughter or lighthearted pleasure; funny or entertaining.",
+    "short_def_en": "funny and entertaining",
+    "definition_ar": "مسل او مضحك بشكل لطيف ويبعث على الابتسام والبهجة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "humor",
+     "entertainment",
+     "feelings"
+    ],
+    "usage_note": "Often implies mild, lighthearted humor rather than loud or intense laughter (which is better described by hilarious).",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "find something amusing",
+   "amusing story",
+   "mildly amusing",
+   "amusing anecdote",
+   "quite amusing"
+  ],
+  "synonyms": [
+   "entertaining",
+   "funny",
+   "comical",
+   "humorous",
+   "witty"
+  ],
+  "antonyms": [
+   "boring",
+   "serious",
+   "unfunny"
+  ],
+  "related_words": {
+   "en": [
+    "laughter",
+    "chuckle",
+    "wit",
+    "pleasure",
+    "diverting"
+   ],
+   "ar": [
+    "ضحك",
+    "ضحكة خفيفة",
+    "دهاء",
+    "متعة",
+    "مروح"
+   ]
+  },
+  "word_family": {
+   "noun": "amusement",
+   "verb": "amuse",
+   "adj": "amusing",
+   "adv": "amusingly"
+  },
+  "translations": {
+   "arabic_ar": "مسل / مضحك",
+   "french_fr": "amusant",
+   "german_de": "unterhaltsam",
+   "spanish_es": "divertido",
+   "chinese_zh": "好玩的 (Hǎowán de)",
+   "russian_ru": "забавный",
+   "portuguese_pt": "divertido",
+   "japanese_ja": "面白い (Omoshiroi)",
+   "italian_it": "divertente",
+   "turkish_tr": "eğlenceli"
+  }
+ },
+ "provenance": {
+  "output_hash": "c7702c5a00346c840675bdbcf8134ab68edd65fbce6e9b11cb6dfbd4f21fce34",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

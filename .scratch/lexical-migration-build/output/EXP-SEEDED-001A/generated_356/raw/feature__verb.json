@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "feature",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "feature",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To include someone or something as an important part.",
+  "explanation_ar": "إنك تبرز حاجة أو تخليها جزء أساسي ومهم في العرض.",
+  "senses": [
+   {
+    "sense_id": "feature_verb_1",
+    "definition_en": "To include someone or something as an important part.",
+    "definition_ar": "أن يتضمن أو يُبرز شخصًا أو شيئًا كعنصر رئيسي ومهم.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The conference will feature speakers from around the world.",
+   "Most modern smartphones feature advanced camera systems.",
+   "Does the new film feature any famous actors?"
+  ],
+  "translations": [
+   "يُبرز",
+   "يعرض",
+   "يتضمن"
+  ],
+  "relations": {
+   "synonyms": [
+    "spotlight",
+    "highlight",
+    "present",
+    "star"
+   ],
+   "antonyms": [
+    "exclude",
+    "omit"
+   ],
+   "collocations": [
+    "feature prominently",
+    "feature in",
+    "feature heavily"
+   ]
+  },
+  "mnemonic": "لما الفيلم يـ 'Feature' ممثل، يعني بيخليه هو 'الميزة' الأساسية.",
+  "phonetic_us": "ˈfiː.tʃɚ",
+  "phonetic_uk": "ˈfiː.tʃə",
+  "syllables": "fea•ture",
+  "semantic_tags": [
+   "Media",
+   "Show",
+   "Highlight"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To include someone or something as an important part.",
+  "explanation_ar": "إنك تبرز حاجة أو تخليها جزء أساسي ومهم في العرض.",
+  "examples": [
+   "The conference will feature speakers from around the world.",
+   "Most modern smartphones feature advanced camera systems.",
+   "Does the new film feature any famous actors?"
+  ],
+  "translations": {
+   "arabic_ar": "يُبرز يعرض يتضمن"
+  },
+  "synonyms": [
+   "spotlight",
+   "highlight",
+   "present",
+   "star"
+  ],
+  "antonyms": [
+   "exclude",
+   "omit"
+  ],
+  "collocations": [
+   "feature prominently",
+   "feature in",
+   "feature heavily"
+  ],
+  "mnemonic_ar": "لما الفيلم يـ 'Feature' ممثل، يعني بيخليه هو 'الميزة' الأساسية."
+ }
+}

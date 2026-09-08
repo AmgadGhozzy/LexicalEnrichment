@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4188",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4188",
+  "lemma": "amateur",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4188,
+  "lemma": "amateur",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈæmətʃər",
+  "phonetic_uk": "ˈæmətə",
+  "phonetic_ar": "أماتور",
+  "definition_en": "Doing an activity for enjoyment and interest rather than as a job, or lacking professional skill.",
+  "explanation_ar": "يصف النشاط أو الشخص غير المحترف، والذي يمارس عملا أو هواية بدافع المتعة والشغف وليس كمهنة رسمية، وقد يحمل دلالة سلبية تعني قلة الإتقان والخبرة.",
+  "examples": [
+   {
+    "example_text": "She decided to enter an amateur photography contest to showcase her landscape pictures.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The local theatre group is entirely amateur, yet their performances are remarkably moving.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The investigative report criticized the amateur handling of evidence at the crime scene.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "الكلمة مشتقة من الجذر اللاتيني لكلمة حب مثل كلمة aimer بالفرنسية، وتذكر ان الشخص يفعل هذا الشيء حبا فيه وليس كمهنة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Practicing an art, sport, or activity for pleasure rather than for payment as a profession.",
+    "short_def_en": "non-professional and unpaid",
+    "definition_ar": "غير محترف ويمارس النشاط للمتعة الشخصية دون مقابل مادي",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "hobbies",
+     "sports",
+     "arts"
+    ],
+    "usage_note": "Used before nouns to distinguish unpaid participants from paid professionals.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Lacking skill, expertise, or standard quality expected of an experienced professional.",
+    "short_def_en": "unskilled or poorly done",
+    "definition_ar": "يفتقر إلى الإتقان والمهارة الاحترافية المطلوبة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "quality",
+     "criticism",
+     "performance"
+    ],
+    "usage_note": "Often carries a pejorative or critical tone meaning clumsy or incompetent.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "amateur athlete",
+   "amateur dramatics",
+   "amateur photographer",
+   "amateur status",
+   "purely amateur"
+  ],
+  "synonyms": [
+   "non-professional",
+   "unpaid",
+   "unskilled",
+   "lay",
+   "inexpert"
+  ],
+  "antonyms": [
+   "professional",
+   "expert"
+  ],
+  "related_words": {
+   "en": [
+    "hobbyist",
+    "enthusiast",
+    "novice",
+    "volunteer"
+   ],
+   "ar": [
+    "هاو",
+    "متحمس",
+    "مبتدئ",
+    "متطوع"
+   ]
+  },
+  "word_family": {
+   "noun": "amateurism",
+   "verb": "",
+   "adj": "amateurish",
+   "adv": "amateurishly"
+  },
+  "translations": {
+   "arabic_ar": "هاوٍ / غير محترف",
+   "french_fr": "amateur",
+   "german_de": "amateurhaft",
+   "spanish_es": "aficionado",
+   "chinese_zh": "业余的 (yèyú de)",
+   "russian_ru": "любительский",
+   "portuguese_pt": "amador",
+   "japanese_ja": "素人の (Shirōto no)",
+   "italian_it": "dilettantistico",
+   "turkish_tr": "amatör"
+  }
+ },
+ "provenance": {
+  "output_hash": "963b1d7dc13018efb7546a626be9d7f1c98e5d33b38100355c32eafa1d82a2bb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

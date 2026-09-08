@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "my",
+  "pos": "excl",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "my",
+  "pos": "excl",
+  "cefr": "A1",
+  "definition_en": "Used to express surprise, shock, or amazement.",
+  "explanation_ar": "تعبير بنقوله لما نتفاجئ أو نندهش من حاجة، زي 'يا خبر!' أو 'يا إلهي!'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Used to express surprise, shock, or amazement.",
+    "explanation_ar": "تعبير بنقوله لما نتفاجئ أو نندهش من حاجة، زي 'يا خبر!' أو 'يا إلهي!'.",
+    "examples": [
+     "Oh my, look at that!",
+     "My, what a beautiful dress.",
+     "My, how you have grown!"
+    ]
+   }
+  ],
+  "examples": [
+   "Oh my, look at that!",
+   "My, what a beautiful dress.",
+   "My, how you have grown!"
+  ],
+  "translations": [
+   "يا إلهي",
+   "يا للعجب",
+   "يا خبر"
+  ],
+  "relations": {
+   "synonyms": [
+    "wow",
+    "gosh"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "oh my",
+    "my goodness",
+    "my word"
+   ]
+  },
+  "mnemonic": "كلمة 'My' زي 'Mai'.. 'My' goodness! المية ايدلقت!",
+  "phonetic_us": "maɪ",
+  "phonetic_uk": "maɪ",
+  "syllables": [
+   "my"
+  ],
+  "semantic_tags": [
+   "#Surprise",
+   "#Exclamation",
+   "#Emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used to express surprise, shock, or amazement.",
+  "explanation_ar": "تعبير بنقوله لما نتفاجئ أو نندهش من حاجة، زي 'يا خبر!' أو 'يا إلهي!'.",
+  "examples": [
+   "Oh my, look at that!",
+   "My, what a beautiful dress.",
+   "My, how you have grown!"
+  ],
+  "translations": {
+   "arabic_ar": "يا إلهي يا للعجب يا خبر"
+  },
+  "synonyms": [
+   "wow",
+   "gosh"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "oh my",
+   "my goodness",
+   "my word"
+  ],
+  "mnemonic_ar": "كلمة 'My' زي 'Mai'.. 'My' goodness! المية ايدلقت!"
+ }
+}

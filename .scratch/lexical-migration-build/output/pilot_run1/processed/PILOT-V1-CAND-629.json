@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-629",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-629",
+  "lemma": "study",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 629,
+  "lemma": "study",
+  "pos": "verb",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.99,
+  "phonetic_us": "ˈstʌdi",
+  "phonetic_uk": null,
+  "phonetic_ar": "سْتَادِي",
+  "definition_en": "To spend time learning about a subject by reading books or attending school.",
+  "explanation_ar": "بذل الجهد والوقت في تعلم موضوع معين من خلال القراءة أو الالتحاق بالمدرسة أو الجامعة.",
+  "examples": [
+   {
+    "example_text": "I like to study English every day.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Many young people go to university to study medicine.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "We need a quiet place where we can study for the exam.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"student\" اي طالب فالطالب يقوم بفعل \"study\" وهو المذاكرة والتعلم",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To spend time learning about a subject by reading or going to school.",
+    "short_def_en": "learn a subject",
+    "definition_ar": "يتعلم أو يدرس موضوعا معينا",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "education",
+     "learning",
+     "school"
+    ],
+    "usage_note": "Used for the general action of learning or preparing for academic tests.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To examine or look at something very carefully to understand it.",
+    "short_def_en": "examine closely",
+    "definition_ar": "يدرس أو يتفحص شيئا بعناية",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "investigation",
+     "analysis",
+     "science"
+    ],
+    "usage_note": "Focuses on detailed observation or scientific analysis rather than memorizing for school.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "study hard",
+   "study for an exam",
+   "study abroad",
+   "study English"
+  ],
+  "synonyms": [
+   "learn",
+   "revise",
+   "examine",
+   "investigate"
+  ],
+  "antonyms": [
+   "ignore",
+   "neglect"
+  ],
+  "related_words": {
+   "en": [
+    "school",
+    "exam",
+    "library",
+    "book",
+    "teacher",
+    "subject"
+   ],
+   "ar": [
+    "مدرسة",
+    "امتحان",
+    "مكتبة",
+    "كتاب",
+    "معلم",
+    "مادة دراسية"
+   ]
+  },
+  "word_family": {
+   "noun": "student",
+   "verb": "study",
+   "adj": "studious",
+   "adv": "studiously"
+  },
+  "translations": {
+   "arabic_ar": "يدرس / يذاكر",
+   "french_fr": "étudier",
+   "german_de": "studieren",
+   "spanish_es": "estudiar",
+   "chinese_zh": "学习 (Xuéxí)",
+   "russian_ru": "учиться",
+   "portuguese_pt": "estudar",
+   "japanese_ja": "勉強する (Benkyō suru)",
+   "italian_it": "studiare",
+   "turkish_tr": "çalışmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "4a3bed73da202b2e6e649b67a36ba2799f1015c2682f7315aa0fb8c5ea4e56a2",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

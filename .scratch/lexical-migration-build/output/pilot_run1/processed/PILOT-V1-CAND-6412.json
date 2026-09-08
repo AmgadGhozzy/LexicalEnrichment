@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6412",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6412",
+  "lemma": "constituent",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6412,
+  "lemma": "constituent",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "kənˈstɪtʃuənt",
+  "phonetic_uk": null,
+  "phonetic_ar": "كَنستِتْشُوَنت",
+  "definition_en": "A person living in a particular area who is represented by an elected official.",
+  "explanation_ar": "مواطن أو ناخب يقيم في دائرة انتخابية معينة ويمثله مسؤول منتخب في البرلمان أو الحكومة.",
+  "examples": [
+   {
+    "example_text": "The senator held a town hall meeting to hear from every local constituent.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "As an active constituent, she regularly wrote letters to her member of parliament.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Elected officials must carefully balance national interests with the needs of a single constituent.",
+    "intended_cefr": "C2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"constitution\" اي الدستور فالناخب \"constituent\" هو الشخص الاساسي الذي يحميه الدستور ويمثله في البرلمان",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A voter or resident represented by an elected political official.",
+    "short_def_en": "voter in a district",
+    "definition_ar": "ناخب او مواطن تابع لدائرة انتخابية يمثلها مسؤول معين",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "politics",
+     "elections",
+     "government"
+    ],
+    "usage_note": "Often used in the plural to refer collectively to the voters in a representative's district.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "One of the individual parts or substances that combine to form a whole.",
+    "short_def_en": "component part",
+    "definition_ar": "عنصر اساسي او جزء مكوّن لشيء كامل",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "science",
+     "analysis",
+     "structure"
+    ],
+    "usage_note": "Commonly used in chemistry, linguistics, and technical descriptions.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "angry constituent",
+   "local constituent",
+   "serve a constituent",
+   "major constituent",
+   "chemical constituent"
+  ],
+  "synonyms": [
+   "voter",
+   "elector",
+   "component",
+   "element",
+   "ingredient"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "constituency",
+    "electorate",
+    "representative",
+    "composition"
+   ],
+   "ar": [
+    "دائرة انتخابية",
+    "جمهور الناخبين",
+    "ممثل نيابي",
+    "تركيب"
+   ]
+  },
+  "word_family": {
+   "noun": "constituency",
+   "verb": "constitute",
+   "adj": "constitutional",
+   "adv": "constitutionally"
+  },
+  "translations": {
+   "arabic_ar": "ناخب في دائرة انتخابية / عنصر مكوّن",
+   "french_fr": "électeur",
+   "german_de": "Wähler",
+   "spanish_es": "votante",
+   "chinese_zh": "选民 (Xuǎnmín)",
+   "russian_ru": "избиратель",
+   "portuguese_pt": "eleitor",
+   "japanese_ja": "有権者 (Yūkensha)",
+   "italian_it": "elettore",
+   "turkish_tr": "seçmen"
+  }
+ },
+ "provenance": {
+  "output_hash": "111577210c300a0760668ec33e6167c18a6d1c469343f6a027fe6bfd6dec83a0",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

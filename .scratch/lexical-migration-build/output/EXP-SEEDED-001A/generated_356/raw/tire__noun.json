@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "tire",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "tire",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A rubber covering placed around a wheel to protect it and grip the road.",
+  "explanation_ar": "الإطار المطاطي الذي يوضع حول عجلة المركبة لحمايتها ومساعدتها على التماسك على الطريق.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A rubber covering placed around a wheel to protect it and grip the road.",
+    "definition_ar": "إطار مطاطي يوضع حول عجلة المركبة لحمايتها والتماسك على الطريق.",
+    "examples": [
+     "My car has a flat tire.",
+     "We need to change the tire.",
+     "The mechanic checked the tire pressure."
+    ]
+   }
+  ],
+  "examples": [
+   "My car has a flat tire.",
+   "We need to change the tire.",
+   "The mechanic checked the tire pressure."
+  ],
+  "translations": [
+   "إطار",
+   "إطار العجلة",
+   "كفر"
+  ],
+  "relations": {
+   "synonyms": [
+    "tyre"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "flat tire",
+    "spare tire",
+    "change a tire",
+    "tire pressure"
+   ]
+  },
+  "mnemonic": "كلمة 'Tire' قريبة من 'Ta-yer'.. زي ما بنقول 'طَايِر' بالعربية، والعربية بتمشي على الـ 'Tire'.",
+  "phonetic_us": "ˈtaɪər",
+  "phonetic_uk": "ˈtaɪə",
+  "syllables": "tire",
+  "semantic_tags": [
+   "Cars",
+   "Transport",
+   "Mechanics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A rubber covering placed around a wheel to protect it and grip the road.",
+  "explanation_ar": "الإطار المطاطي الذي يوضع حول عجلة المركبة لحمايتها ومساعدتها على التماسك على الطريق.",
+  "examples": [
+   "My car has a flat tire.",
+   "We need to change the tire.",
+   "The mechanic checked the tire pressure."
+  ],
+  "translations": {
+   "arabic_ar": "إطار إطار العجلة كفر"
+  },
+  "synonyms": [
+   "tyre"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "flat tire",
+   "spare tire",
+   "change a tire",
+   "tire pressure"
+  ],
+  "mnemonic_ar": "كلمة 'Tire' قريبة من 'Ta-yer'.. زي ما بنقول 'طَايِر' بالعربية، والعربية بتمشي على الـ 'Tire'."
+ }
+}

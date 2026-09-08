@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "age",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "age",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The number of years that a person has lived.",
+  "explanation_ar": "عدد السنين اللي الشخص عاشها من يوم ما اتولد.",
+  "senses": [
+   {
+    "definition_en": "The number of years that a person has lived.",
+    "explanation_ar": "عدد السنوات التي عاشها الشخص.",
+    "examples": [
+     "What is your age?",
+     "She is the same age as me.",
+     "He left home at the age of eighteen."
+    ]
+   }
+  ],
+  "examples": [
+   "What is your age?",
+   "She is the same age as me.",
+   "He left home at the age of eighteen."
+  ],
+  "translations": [
+   "عمر",
+   "سن"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "youth"
+   ],
+   "collocations": [
+    "at the age of",
+    "old age",
+    "middle age",
+    "age group"
+   ]
+  },
+  "mnemonic": "كلمة 'Age' شبه كلمة 'Edge' 'حافة'.. كل ما الـ 'Age' بيزيد، بنقرب من الـ 'Edge' 'نهاية الطريق'.",
+  "phonetic_us": "eɪdʒ",
+  "phonetic_uk": "eɪdʒ",
+  "syllables": "age",
+  "semantic_tags": [
+   "#Time",
+   "#Life",
+   "#Years"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The number of years that a person has lived.",
+  "explanation_ar": "عدد السنين اللي الشخص عاشها من يوم ما اتولد.",
+  "examples": [
+   "What is your age?",
+   "She is the same age as me.",
+   "He left home at the age of eighteen."
+  ],
+  "translations": {
+   "arabic_ar": "عمر سن"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "youth"
+  ],
+  "collocations": [
+   "at the age of",
+   "old age",
+   "middle age",
+   "age group"
+  ],
+  "mnemonic_ar": "كلمة 'Age' شبه كلمة 'Edge' 'حافة'.. كل ما الـ 'Age' بيزيد، بنقرب من الـ 'Edge' 'نهاية الطريق'."
+ }
+}

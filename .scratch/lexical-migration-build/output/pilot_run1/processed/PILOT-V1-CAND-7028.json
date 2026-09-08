@@ -1,0 +1,116 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7028",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7028",
+  "lemma": "aeroplane",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7028,
+  "lemma": "aeroplane",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈerəpleɪn",
+  "phonetic_uk": "ˈeərəpleɪn",
+  "phonetic_ar": "إيروبلين",
+  "definition_en": "A vehicle with wings and engines that travels through the air carrying people or goods.",
+  "explanation_ar": "مركبة كبيرة مزودة بأجنحة ومحركات تطير في الجو لنقل الركاب أو البضائع.",
+  "examples": [
+   {
+    "example_text": "We boarded the aeroplane just ten minutes before departure.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The small aeroplane landed safely on the grassy runway.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Engineers checked every part of the aeroplane before it was cleared for flight.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر المقطع الاول aero ويعني هواء او جو كما في كلمة aerodynamics مع كلمة plane اي المركبة المستوية التي تحلق في الهواء",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A powered flying vehicle with fixed wings that carries passengers or freight.",
+    "short_def_en": "winged flying vehicle",
+    "definition_ar": "طائرة مجنحة مزودة بمحرك تطير في السماء لنقل المسافرين او الحمولات",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "aviation",
+     "transport",
+     "vehicles",
+     "travel"
+    ],
+    "usage_note": "Aeroplane is standard British English spelling; airplane is the standard American English spelling.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "board an aeroplane",
+   "fly an aeroplane",
+   "aeroplane crash",
+   "aeroplane ticket"
+  ],
+  "synonyms": [
+   "airplane",
+   "plane",
+   "aircraft"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "flight",
+    "pilot",
+    "airport",
+    "runway",
+    "wing"
+   ],
+   "ar": [
+    "رحلة جوية",
+    "طيار",
+    "مطار",
+    "مدرج",
+    "جناح"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "طائرة",
+   "french_fr": "avion",
+   "german_de": "Flugzeug",
+   "spanish_es": "avión",
+   "chinese_zh": "飞机 (Fēijī)",
+   "russian_ru": "самолёт",
+   "portuguese_pt": "avião",
+   "japanese_ja": "飛行機 (Hikōki)",
+   "italian_it": "aereo",
+   "turkish_tr": "uçak"
+  }
+ },
+ "provenance": {
+  "output_hash": "e035c1a69448df1d691fda2ce8102ba3e59cefec0463f3e8ef63053fdf493c35",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "eval_id": "eval_seeded60_v1",
+ "map": {
+  "eval_seeded60_v1-0001": {
+   "candidate_side": "B",
+   "candidate_key": "accurate/adj"
+  },
+  "eval_seeded60_v1-0002": {
+   "candidate_side": "B",
+   "candidate_key": "administer/verb"
+  },
+  "eval_seeded60_v1-0003": {
+   "candidate_side": "A",
+   "candidate_key": "archbishop/noun"
+  },
+  "eval_seeded60_v1-0004": {
+   "candidate_side": "A",
+   "candidate_key": "articulate/adj"
+  },
+  "eval_seeded60_v1-0005": {
+   "candidate_side": "B",
+   "candidate_key": "but/prep"
+  },
+  "eval_seeded60_v1-0006": {
+   "candidate_side": "A",
+   "candidate_key": "call/verb"
+  },
+  "eval_seeded60_v1-0007": {
+   "candidate_side": "A",
+   "candidate_key": "can/modal"
+  },
+  "eval_seeded60_v1-0008": {
+   "candidate_side": "A",
+   "candidate_key": "chat/verb"
+  },
+  "eval_seeded60_v1-0009": {
+   "candidate_side": "B",
+   "candidate_key": "chin/noun"
+  },
+  "eval_seeded60_v1-0010": {
+   "candidate_side": "A",
+   "candidate_key": "chop/verb"
+  },
+  "eval_seeded60_v1-0011": {
+   "candidate_side": "A",
+   "candidate_key": "colour/noun"
+  },
+  "eval_seeded60_v1-0012": {
+   "candidate_side": "B",
+   "candidate_key": "correctly/adv"
+  },
+  "eval_seeded60_v1-0013": {
+   "candidate_side": "A",
+   "candidate_key": "deal/noun"
+  },
+  "eval_seeded60_v1-0014": {
+   "candidate_side": "A",
+   "candidate_key": "deal/verb"
+  },
+  "eval_seeded60_v1-0015": {
+   "candidate_side": "B",
+   "candidate_key": "dependent/adj"
+  },
+  "eval_seeded60_v1-0016": {
+   "candidate_side": "A",
+   "candidate_key": "dolphin/noun"
+  },
+  "eval_seeded60_v1-0017": {
+   "candidate_side": "B",
+   "candidate_key": "double/pron"
+  },
+  "eval_seeded60_v1-0018": {
+   "candidate_side": "A",
+   "candidate_key": "downtown/adv"
+  },
+  "eval_seeded60_v1-0019": {
+   "candidate_side": "A",
+   "candidate_key": "draft/verb"
+  },
+  "eval_seeded60_v1-0020": {
+   "candidate_side": "A",
+   "candidate_key": "dry/verb"
+  },
+  "eval_seeded60_v1-0021": {
+   "candidate_side": "B",
+   "candidate_key": "elbow/noun"
+  },
+  "eval_seeded60_v1-0022": {
+   "candidate_side": "A",
+   "candidate_key": "embryo/noun"
+  },
+  "eval_seeded60_v1-0023": {
+   "candidate_side": "A",
+   "candidate_key": "example/noun"
+  },
+  "eval_seeded60_v1-0024": {
+   "candidate_side": "A",
+   "candidate_key": "fowl/noun"
+  },
+  "eval_seeded60_v1-0025": {
+   "candidate_side": "A",
+   "candidate_key": "hollow/adj"
+  },
+  "eval_seeded60_v1-0026": {
+   "candidate_side": "A",
+   "candidate_key": "indigenous/adj"
+  },
+  "eval_seeded60_v1-0027": {
+   "candidate_side": "B",
+   "candidate_key": "jew/noun"
+  },
+  "eval_seeded60_v1-0028": {
+   "candidate_side": "A",
+   "candidate_key": "leaflet/noun"
+  },
+  "eval_seeded60_v1-0029": {
+   "candidate_side": "A",
+   "candidate_key": "medieval/adj"
+  },
+  "eval_seeded60_v1-0030": {
+   "candidate_side": "A",
+   "candidate_key": "merely/adv"
+  },
+  "eval_seeded60_v1-0031": {
+   "candidate_side": "B",
+   "candidate_key": "much/det"
+  },
+  "eval_seeded60_v1-0032": {
+   "candidate_side": "A",
+   "candidate_key": "mud/noun"
+  },
+  "eval_seeded60_v1-0033": {
+   "candidate_side": "A",
+   "candidate_key": "often/adv"
+  },
+  "eval_seeded60_v1-0034": {
+   "candidate_side": "A",
+   "candidate_key": "permission/noun"
+  },
+  "eval_seeded60_v1-0035": {
+   "candidate_side": "A",
+   "candidate_key": "pier/noun"
+  },
+  "eval_seeded60_v1-0036": {
+   "candidate_side": "B",
+   "candidate_key": "plus/prep"
+  },
+  "eval_seeded60_v1-0037": {
+   "candidate_side": "A",
+   "candidate_key": "precious/adj"
+  },
+  "eval_seeded60_v1-0038": {
+   "candidate_side": "A",
+   "candidate_key": "preliminary/adj"
+  },
+  "eval_seeded60_v1-0039": {
+   "candidate_side": "B",
+   "candidate_key": "proper/adj"
+  },
+  "eval_seeded60_v1-0040": {
+   "candidate_side": "B",
+   "candidate_key": "radiation/noun"
+  },
+  "eval_seeded60_v1-0041": {
+   "candidate_side": "B",
+   "candidate_key": "rebuild/verb"
+  },
+  "eval_seeded60_v1-0042": {
+   "candidate_side": "A",
+   "candidate_key": "reign/verb"
+  },
+  "eval_seeded60_v1-0043": {
+   "candidate_side": "A",
+   "candidate_key": "reluctantly/adv"
+  },
+  "eval_seeded60_v1-0044": {
+   "candidate_side": "B",
+   "candidate_key": "restrain/verb"
+  },
+  "eval_seeded60_v1-0045": {
+   "candidate_side": "A",
+   "candidate_key": "reverberate/verb"
+  },
+  "eval_seeded60_v1-0046": {
+   "candidate_side": "B",
+   "candidate_key": "round/adv"
+  },
+  "eval_seeded60_v1-0047": {
+   "candidate_side": "B",
+   "candidate_key": "rural/adj"
+  },
+  "eval_seeded60_v1-0048": {
+   "candidate_side": "B",
+   "candidate_key": "since/conj"
+  },
+  "eval_seeded60_v1-0049": {
+   "candidate_side": "A",
+   "candidate_key": "since/prep"
+  },
+  "eval_seeded60_v1-0050": {
+   "candidate_side": "A",
+   "candidate_key": "spectacular/adj"
+  },
+  "eval_seeded60_v1-0051": {
+   "candidate_side": "B",
+   "candidate_key": "spell/noun"
+  },
+  "eval_seeded60_v1-0052": {
+   "candidate_side": "B",
+   "candidate_key": "spell/verb"
+  },
+  "eval_seeded60_v1-0053": {
+   "candidate_side": "A",
+   "candidate_key": "study/verb"
+  },
+  "eval_seeded60_v1-0054": {
+   "candidate_side": "A",
+   "candidate_key": "this/det"
+  },
+  "eval_seeded60_v1-0055": {
+   "candidate_side": "B",
+   "candidate_key": "tractor/noun"
+  },
+  "eval_seeded60_v1-0056": {
+   "candidate_side": "B",
+   "candidate_key": "unite/verb"
+  },
+  "eval_seeded60_v1-0057": {
+   "candidate_side": "B",
+   "candidate_key": "utter/adj"
+  },
+  "eval_seeded60_v1-0058": {
+   "candidate_side": "A",
+   "candidate_key": "via/prep"
+  },
+  "eval_seeded60_v1-0059": {
+   "candidate_side": "B",
+   "candidate_key": "weigh/verb"
+  },
+  "eval_seeded60_v1-0060": {
+   "candidate_side": "A",
+   "candidate_key": "yet/conj"
+  }
+ }
+}

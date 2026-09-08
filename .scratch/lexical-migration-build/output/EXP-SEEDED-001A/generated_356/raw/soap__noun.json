@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "soap",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "soap",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A substance used with water for washing and cleaning.",
+  "explanation_ar": "الصابون اللي بنغسل بيه إيدنا ووشنا.",
+  "senses": [
+   {
+    "definition_en": "A substance used with water for washing and cleaning.",
+    "explanation_ar": "مادة تُستخدم مع الماء للغسيل والتنظيف.",
+    "examples": [
+     "Buy a bar of soap.",
+     "This soap smells like lavender.",
+     "Use mild soap for sensitive skin."
+    ]
+   }
+  ],
+  "examples": [
+   "Buy a bar of soap.",
+   "This soap smells like lavender.",
+   "Use mild soap for sensitive skin."
+  ],
+  "translations": [
+   "صابون"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "bar of soap",
+    "liquid soap",
+    "soap opera"
+   ]
+  },
+  "mnemonic": "كلمة soap قريبة جداً في النطق والمعنى من الكلمة العربية 'صابون'.",
+  "phonetic_us": "soʊp",
+  "phonetic_uk": "səʊp",
+  "syllables": [
+   "soap"
+  ],
+  "semantic_tags": [
+   "#Hygiene",
+   "#Cleaning",
+   "#Bathroom"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A substance used with water for washing and cleaning.",
+  "explanation_ar": "الصابون اللي بنغسل بيه إيدنا ووشنا.",
+  "examples": [
+   "Buy a bar of soap.",
+   "This soap smells like lavender.",
+   "Use mild soap for sensitive skin."
+  ],
+  "translations": {
+   "arabic_ar": "صابون"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "bar of soap",
+   "liquid soap",
+   "soap opera"
+  ],
+  "mnemonic_ar": "كلمة soap قريبة جداً في النطق والمعنى من الكلمة العربية 'صابون'."
+ }
+}

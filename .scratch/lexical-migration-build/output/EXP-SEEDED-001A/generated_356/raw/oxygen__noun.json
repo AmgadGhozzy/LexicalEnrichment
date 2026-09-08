@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "oxygen",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "oxygen",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A chemical element that is a gas with no smell or color, essential for life.",
+  "explanation_ar": "غاز الأكسجين اللي بنتنفسه، ملوش لون ولا ريحة ومهم للحياة.",
+  "senses": [
+   {
+    "sense_id": "oxygen-noun-1",
+    "pos": "noun",
+    "definition_en": "A chemical element that is a gas with no smell or color, essential for life.",
+    "definition_ar": "عنصر كيميائي غازي لا لون له ولا رائحة، ضروري لتنفس الكائنات الحية واستمرار الحياة."
+   }
+  ],
+  "examples": [
+   "We need oxygen to breathe.",
+   "Blood carries oxygen to the brain.",
+   "The diver ran out of oxygen."
+  ],
+  "translations": [
+   "أكسجين"
+  ],
+  "relations": {
+   "synonyms": [
+    "O2"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "oxygen tank",
+    "oxygen mask",
+    "lack of oxygen",
+    "pure oxygen"
+   ]
+  },
+  "mnemonic": "أكسجين.. نفس النطق العربي تقريباً.",
+  "phonetic_us": "ˈɑːk.sɪ.dʒən",
+  "phonetic_uk": "ˈɒk.sɪ.dʒən",
+  "syllables": "ox•y•gen",
+  "semantic_tags": [
+   "Science",
+   "Chemistry",
+   "Biology",
+   "Health"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A chemical element that is a gas with no smell or color, essential for life.",
+  "explanation_ar": "غاز الأكسجين اللي بنتنفسه، ملوش لون ولا ريحة ومهم للحياة.",
+  "examples": [
+   "We need oxygen to breathe.",
+   "Blood carries oxygen to the brain.",
+   "The diver ran out of oxygen."
+  ],
+  "translations": {
+   "arabic_ar": "أكسجين"
+  },
+  "synonyms": [
+   "O2"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "oxygen tank",
+   "oxygen mask",
+   "lack of oxygen",
+   "pure oxygen"
+  ],
+  "mnemonic_ar": "أكسجين.. نفس النطق العربي تقريباً."
+ }
+}

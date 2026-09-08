@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "appointment",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "appointment",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "An arrangement to meet someone at a particular time and place.",
+  "explanation_ar": "ميعاد محدد أو اتفاق إنك تقابل حد في وقت ومكان معينين، زي ميعاد الدكتور أو الشغل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An arrangement to meet someone at a particular time and place.",
+    "definition_ar": "موعد محدد مسبقاً لمقابلة شخص ما في وقت ومكان معينين.",
+    "examples": [
+     "I made an appointment to see the doctor.",
+     "She called the clinic to cancel her appointment.",
+     "Do you have an appointment with the manager today?"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The act of officially choosing someone for a job or position.",
+    "definition_ar": "تعيين شخص رسمياً في وظيفة أو منصب.",
+    "examples": []
+   }
+  ],
+  "examples": [
+   "I made an appointment to see the doctor.",
+   "She called the clinic to cancel her appointment.",
+   "Do you have an appointment with the manager today?"
+  ],
+  "translations": [
+   "موعد",
+   "ميعاد",
+   "تعيين"
+  ],
+  "relations": {
+   "synonyms": [
+    "meeting",
+    "arrangement",
+    "consultation",
+    "booking"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "make an appointment",
+    "doctor's appointment",
+    "keep an appointment",
+    "cancel an appointment"
+   ]
+  },
+  "mnemonic": "فيها 'Point' 'نقطة'.. الـ 'Appointment' هو تحديد 'Point' معينة في الزمن عشان تتقابلوا فيها.",
+  "phonetic_us": "əˈpɔɪntmənt",
+  "phonetic_uk": "əˈpɔɪntmənt",
+  "syllables": "ap•point•ment",
+  "semantic_tags": [
+   "#Meeting",
+   "#Schedule",
+   "#Work",
+   "#Medical"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An arrangement to meet someone at a particular time and place.",
+  "explanation_ar": "ميعاد محدد أو اتفاق إنك تقابل حد في وقت ومكان معينين، زي ميعاد الدكتور أو الشغل.",
+  "examples": [
+   "I made an appointment to see the doctor.",
+   "She called the clinic to cancel her appointment.",
+   "Do you have an appointment with the manager today?"
+  ],
+  "translations": {
+   "arabic_ar": "موعد ميعاد تعيين"
+  },
+  "synonyms": [
+   "meeting",
+   "arrangement",
+   "consultation",
+   "booking"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "make an appointment",
+   "doctor's appointment",
+   "keep an appointment",
+   "cancel an appointment"
+  ],
+  "mnemonic_ar": "فيها 'Point' 'نقطة'.. الـ 'Appointment' هو تحديد 'Point' معينة في الزمن عشان تتقابلوا فيها."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "gold",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "gold",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Made of gold, or having the yellow color of gold.",
+  "explanation_ar": "حاجة مصنوعة من الذهب، أو لونها دهبي.",
+  "senses": [
+   {
+    "definition_en": "Made of the precious yellow metal called gold.",
+    "definition_ar": "مصنوع من معدن الذهب.",
+    "examples": [
+     "She wears a gold watch."
+    ]
+   },
+   {
+    "definition_en": "Having the shiny yellow-brown color of gold.",
+    "definition_ar": "ذو لون ذهبي أصفر.",
+    "examples": [
+     "The gold paint looks nice."
+    ]
+   }
+  ],
+  "examples": [
+   "She wears a gold watch.",
+   "The gold paint looks nice.",
+   "The team wore gold uniforms."
+  ],
+  "translations": [
+   "ذهبي",
+   "من ذهب"
+  ],
+  "relations": {
+   "synonyms": [
+    "golden",
+    "gilded"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "gold watch",
+    "gold coin",
+    "gold frame"
+   ]
+  },
+  "mnemonic": "زي 'Gold' 'دهب'.. صفة لأي حاجة 'ذهبية'.",
+  "phonetic_us": "ɡoʊld",
+  "phonetic_uk": "ɡəʊld",
+  "syllables": [
+   "gold"
+  ],
+  "semantic_tags": [
+   "#Color",
+   "#Materials",
+   "#Wealth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Made of gold, or having the yellow color of gold.",
+  "explanation_ar": "حاجة مصنوعة من الذهب، أو لونها دهبي.",
+  "examples": [
+   "She wears a gold watch.",
+   "The gold paint looks nice.",
+   "The team wore gold uniforms."
+  ],
+  "translations": {
+   "arabic_ar": "ذهبي من ذهب"
+  },
+  "synonyms": [
+   "golden",
+   "gilded"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "gold watch",
+   "gold coin",
+   "gold frame"
+  ],
+  "mnemonic_ar": "زي 'Gold' 'دهب'.. صفة لأي حاجة 'ذهبية'."
+ }
+}

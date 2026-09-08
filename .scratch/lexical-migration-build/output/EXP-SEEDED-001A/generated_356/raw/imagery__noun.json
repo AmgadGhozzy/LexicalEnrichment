@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "imagery",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "imagery",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Visually descriptive or figurative language, especially in a literary work.",
+  "explanation_ar": "الصور البلاغية أو التشبيهات اللي الكاتب بيستخدمها عشان يخليك تتخيل المشهد كأنك شايفه بعينك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Visually descriptive or figurative language, especially in a literary work.",
+    "definition_ar": "الصور البلاغية أو التشبيهات المستخدمة في الأدب لإثارة صور ذهنية لدى القارئ.",
+    "examples": [
+     "The poem's dark imagery reflects the author's sadness.",
+     "Her writing is full of colorful imagery."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Visual images or representations collectively.",
+    "definition_ar": "الصور أو الرموز البصرية مجتمعة، خاصة في الفن أو التكنولوجيا.",
+    "examples": [
+     "Religious imagery is pervasive throughout Renaissance art."
+    ]
+   }
+  ],
+  "examples": [
+   "The poem's dark imagery reflects the author's sadness.",
+   "Her writing is full of colorful imagery.",
+   "Religious imagery is pervasive throughout Renaissance art."
+  ],
+  "translations": [
+   "صور بلاغية",
+   "تصوير"
+  ],
+  "relations": {
+   "synonyms": [
+    "symbolism",
+    "representation",
+    "metaphor",
+    "depiction"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "visual imagery",
+    "poetic imagery",
+    "satellite imagery",
+    "vivid imagery"
+   ]
+  },
+  "mnemonic": "جاية من 'Image' 'صورة'.. الـ 'Imagery' هو استخدام الكلام لرسم 'Images' في خيالك.",
+  "phonetic_us": "ˈɪm.ɪdʒ.ri",
+  "phonetic_uk": "ˈɪm.ɪdʒ.ər.i",
+  "syllables": "im•ag•er•y",
+  "semantic_tags": [
+   "Literature",
+   "Art",
+   "Description",
+   "Visuals"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Visually descriptive or figurative language, especially in a literary work.",
+  "explanation_ar": "الصور البلاغية أو التشبيهات اللي الكاتب بيستخدمها عشان يخليك تتخيل المشهد كأنك شايفه بعينك.",
+  "examples": [
+   "The poem's dark imagery reflects the author's sadness.",
+   "Her writing is full of colorful imagery.",
+   "Religious imagery is pervasive throughout Renaissance art."
+  ],
+  "translations": {
+   "arabic_ar": "صور بلاغية تصوير"
+  },
+  "synonyms": [
+   "symbolism",
+   "representation",
+   "metaphor",
+   "depiction"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "visual imagery",
+   "poetic imagery",
+   "satellite imagery",
+   "vivid imagery"
+  ],
+  "mnemonic_ar": "جاية من 'Image' 'صورة'.. الـ 'Imagery' هو استخدام الكلام لرسم 'Images' في خيالك."
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2111",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2111",
+  "lemma": "smile",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2111,
+  "lemma": "smile",
+  "pos": "verb",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Feelings & Emotions",
+  "ai_confidence": 0.98,
+  "phonetic_us": "smaɪl",
+  "phonetic_uk": null,
+  "phonetic_ar": "سْمَايْل",
+  "definition_en": "To make the corners of your mouth turn up because you are happy or friendly.",
+  "explanation_ar": "أن ترفع زوايا فمك للتعبير عن الفرح أو الود أو الرضا دون إصدار صوت ضحك عالي.",
+  "examples": [
+   {
+    "example_text": "They always smile when they greet new visitors.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Please smile for the camera so we can take a nice photo.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "I try to smile even when work becomes very stressful.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"smiley\" وهو الوجه التعبيري الضاحك الأصفر المشهور، فالفعل \"smile\" يعني أن تبتسم مثله.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To make the corners of your mouth turn up because you are happy or pleased.",
+    "short_def_en": "turn up mouth corners happily",
+    "definition_ar": "يرفع جانبي فمه تعبيرا عن السعادة أو الترحيب والرضا.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "facial expression",
+     "happiness",
+     "communication"
+    ],
+    "usage_note": "Often used with 'at' to show directed friendliness (e.g., smile at someone).",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "smile warmly",
+   "smile at someone",
+   "smile broadly",
+   "smile politely"
+  ],
+  "synonyms": [
+   "beam",
+   "grin"
+  ],
+  "antonyms": [
+   "frown",
+   "scowl"
+  ],
+  "related_words": {
+   "en": [
+    "laughter",
+    "cheerful",
+    "friendly",
+    "happiness"
+   ],
+   "ar": [
+    "ضحك",
+    "مبتهج",
+    "ودود",
+    "سعادة"
+   ]
+  },
+  "word_family": {
+   "noun": "smile",
+   "verb": "smile",
+   "adj": "smiling",
+   "adv": "smilingly"
+  },
+  "translations": {
+   "arabic_ar": "يبتسم",
+   "french_fr": "sourire",
+   "german_de": "lächeln",
+   "spanish_es": "sonreír",
+   "chinese_zh": "微笑 (wēixiào)",
+   "russian_ru": "улыбаться",
+   "portuguese_pt": "sorrir",
+   "japanese_ja": "微笑む (Hohoemu)",
+   "italian_it": "sorridere",
+   "turkish_tr": "gülümsemek"
+  }
+ },
+ "provenance": {
+  "output_hash": "001a3fa3d60bbfe326d8a15f599150ff259ff7f5d82ad2da5812c7b7ef776ad2",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

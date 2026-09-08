@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6500",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6500",
+  "lemma": "skipper",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6500,
+  "lemma": "skipper",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈskɪpər",
+  "phonetic_uk": "ˈskɪpə",
+  "phonetic_ar": "سْكِبَر",
+  "definition_en": "The captain or person in command of a ship, boat, or sports team.",
+  "explanation_ar": "ربان السفينة أو قارب الصيد المسؤول عن توجيهه، وتستخدم أيضا للإشارة إلى قائد فريق رياضي.",
+  "examples": [
+   {
+    "example_text": "The experienced skipper navigated the small fishing boat safely through the rough storm.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "After their recent defeat, the team skipper gave an inspiring speech to rally the players.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Maritime regulations state that the skipper holds ultimate legal responsibility for the vessel and crew.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "الكلمة تشبه كلمة ship اي سفينة وفي اللغة الهولندية تعني شاحن السفينة تذكر انه الشخص الذي يقود السفينة مثل القبطان",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The captain in charge of a ship or boat, especially a small or fishing vessel.",
+    "short_def_en": "boat captain",
+    "definition_ar": "قبطان او ربان سفينة خاصة القوارب الصغيرة او سفن الصيد",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "nautical",
+     "transport",
+     "leadership"
+    ],
+    "usage_note": "Most commonly used for small working boats, yachts, and fishing craft.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The captain or designated leader of a sports team.",
+    "short_def_en": "team captain",
+    "definition_ar": "قائد فريق رياضي",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "sports",
+     "leadership",
+     "teams"
+    ],
+    "usage_note": "Frequent in British, Australian, and Commonwealth English, especially in cricket and football.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "boat skipper",
+   "team skipper",
+   "fishing skipper",
+   "experienced skipper"
+  ],
+  "synonyms": [
+   "captain",
+   "commander",
+   "helmsman",
+   "leader"
+  ],
+  "antonyms": [
+   "crew member",
+   "passenger"
+  ],
+  "related_words": {
+   "en": [
+    "vessel",
+    "yacht",
+    "crew",
+    "helm",
+    "captaincy"
+   ],
+   "ar": [
+    "سفينة",
+    "يخت",
+    "طاقم",
+    "دفة",
+    "قيادة"
+   ]
+  },
+  "word_family": {
+   "noun": "skipper",
+   "verb": "skipper",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ربان / قبطان / قائد فريق",
+   "french_fr": "skipper",
+   "german_de": "Skipper",
+   "spanish_es": "patrón",
+   "chinese_zh": "船长 (chuánzhǎng)",
+   "russian_ru": "шкипер",
+   "portuguese_pt": "patrão de barco",
+   "japanese_ja": "船長 (Senchō)",
+   "italian_it": "skipper",
+   "turkish_tr": "kaptan"
+  }
+ },
+ "provenance": {
+  "output_hash": "ac00b32354a83cc196a226b081eef909f1c1b48fb53549a6ad57881c52d5496e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

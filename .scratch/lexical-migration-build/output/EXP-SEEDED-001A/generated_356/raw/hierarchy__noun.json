@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "hierarchy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "hierarchy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A system where members are ranked according to relative status or authority.",
+  "explanation_ar": "التسلسل الهرمي، نظام بيرتب الناس أو الحاجات فوق بعض حسب الأهمية أو السلطة 'مدير، مشرف، موظف'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "noun",
+    "definition_en": "A system where members are ranked according to relative status or authority.",
+    "definition_ar": "تسلسل هرمي؛ نظام لتنظيم الأفراد أو الأشياء في مستويات وفقاً للمكانة أو السلطة أو الأهمية."
+   }
+  ],
+  "examples": [
+   "The social hierarchy was very strict.",
+   "Maslow's hierarchy of needs explains human motivation.",
+   "They challenged the established political hierarchy."
+  ],
+  "translations": [
+   "تسلسل هرمي",
+   "تدرج هرمي",
+   "هرمية"
+  ],
+  "relations": {
+   "synonyms": [
+    "ranking",
+    "pecking order",
+    "ladder",
+    "grading"
+   ],
+   "antonyms": [
+    "equality",
+    "anarchy"
+   ],
+   "collocations": [
+    "social hierarchy",
+    "corporate hierarchy",
+    "hierarchy of needs"
+   ]
+  },
+  "mnemonic": "أولها 'High' 'عالي'.. الـ 'Hierarchy' هو النظام اللي فيه ناس 'Higher' من ناس",
+  "phonetic_us": "ˈhaɪərˌɑrki",
+  "phonetic_uk": "ˈhaɪərɑːkɪ",
+  "syllables": "hi•er•ar•chy",
+  "semantic_tags": [
+   "#Order",
+   "#Structure",
+   "#Rank"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A system where members are ranked according to relative status or authority.",
+  "explanation_ar": "التسلسل الهرمي، نظام بيرتب الناس أو الحاجات فوق بعض حسب الأهمية أو السلطة 'مدير، مشرف، موظف'.",
+  "examples": [
+   "The social hierarchy was very strict.",
+   "Maslow's hierarchy of needs explains human motivation.",
+   "They challenged the established political hierarchy."
+  ],
+  "translations": {
+   "arabic_ar": "تسلسل هرمي تدرج هرمي هرمية"
+  },
+  "synonyms": [
+   "ranking",
+   "pecking order",
+   "ladder",
+   "grading"
+  ],
+  "antonyms": [
+   "equality",
+   "anarchy"
+  ],
+  "collocations": [
+   "social hierarchy",
+   "corporate hierarchy",
+   "hierarchy of needs"
+  ],
+  "mnemonic_ar": "أولها 'High' 'عالي'.. الـ 'Hierarchy' هو النظام اللي فيه ناس 'Higher' من ناس"
+ }
+}

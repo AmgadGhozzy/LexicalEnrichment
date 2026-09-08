@@ -1,0 +1,112 @@
+{
+ "identity": {
+  "lemma": "bleak",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "bleak",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Cold and miserable; without hope or encouragement (for situations or weather).",
+  "explanation_ar": "وصف للمكان البارد الكئيب اللي مفيهوش حياة، أو للمستقبل اللي مفيهوش أمل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Cold, bare, and desolate (of weather or a place).",
+    "definition_ar": "بارد، موحش، وخالٍ من معالم الحياة والراحة (للطقس أو الأماكن).",
+    "examples": [
+     "The winter weather was cold and bleak."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Offering little or no hope for the future; grim or depressing.",
+    "definition_ar": "مظلم، كئيب، وخالٍ من الأمل (للمواقف أو التوقعات المستقبلية).",
+    "examples": [
+     "The company faces a bleak future if sales don't improve.",
+     "The report paints a bleak picture of the economy."
+    ]
+   }
+  ],
+  "examples": [
+   "The winter weather was cold and bleak.",
+   "The company faces a bleak future if sales don't improve.",
+   "The report paints a bleak picture of the economy."
+  ],
+  "translations": [
+   "كَئِيب",
+   "مُوحِش",
+   "قَاتِم",
+   "قَاحِل"
+  ],
+  "relations": {
+   "synonyms": [
+    "desolate",
+    "grim",
+    "hopeless",
+    "barren"
+   ],
+   "antonyms": [
+    "promising",
+    "bright",
+    "cheerful",
+    "lush"
+   ],
+   "collocations": [
+    "bleak future",
+    "bleak outlook",
+    "bleak landscape",
+    "bleak midwinter"
+   ],
+   "word_family": {
+    "adj": "bleak",
+    "adv": "bleakly",
+    "noun": "bleakness"
+   }
+  },
+  "mnemonic": "اربطها بكلمة 'Block'.. لما الدنيا تكون مسدودة 'Block' قدامك، المستقبل بيبقى 'Bleak' وكئيب.",
+  "phonetic_us": "bliːk",
+  "phonetic_uk": "bliːk",
+  "syllables": [
+   "bleak"
+  ],
+  "semantic_tags": [
+   "Weather",
+   "Mood",
+   "Atmosphere"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Cold and miserable; without hope or encouragement (for situations or weather).",
+  "explanation_ar": "وصف للمكان البارد الكئيب اللي مفيهوش حياة، أو للمستقبل اللي مفيهوش أمل.",
+  "examples": [
+   "The winter weather was cold and bleak.",
+   "The company faces a bleak future if sales don't improve.",
+   "The report paints a bleak picture of the economy."
+  ],
+  "translations": {
+   "arabic_ar": "كَئِيب مُوحِش قَاتِم قَاحِل"
+  },
+  "synonyms": [
+   "desolate",
+   "grim",
+   "hopeless",
+   "barren"
+  ],
+  "antonyms": [
+   "promising",
+   "bright",
+   "cheerful",
+   "lush"
+  ],
+  "collocations": [
+   "bleak future",
+   "bleak outlook",
+   "bleak landscape",
+   "bleak midwinter"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Block'.. لما الدنيا تكون مسدودة 'Block' قدامك، المستقبل بيبقى 'Bleak' وكئيب."
+ }
+}

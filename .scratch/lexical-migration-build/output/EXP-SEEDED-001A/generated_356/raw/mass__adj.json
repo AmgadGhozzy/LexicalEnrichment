@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "mass",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "mass",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Involving or affecting large numbers of people or things.",
+  "explanation_ar": "حاجة بتحصل بشكل جماعي أو بتشمل عدد كبير جداً من الناس في نفس الوقت.",
+  "senses": [
+   {
+    "definition_en": "Involving or affecting large numbers of people or things.",
+    "definition_ar": "جماعي أو شامل؛ يتعلق بأعداد كبيرة جداً من الأشخاص أو الأشياء.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The government fears mass unemployment after the crisis.",
+   "There was mass hysteria when the star arrived.",
+   "They target products directly at the mass market."
+  ],
+  "translations": [
+   "جماعي",
+   "شامل"
+  ],
+  "relations": {
+   "synonyms": [
+    "widespread",
+    "wholesale",
+    "general"
+   ],
+   "antonyms": [
+    "individual",
+    "limited"
+   ],
+   "collocations": [
+    "mass media",
+    "mass destruction",
+    "mass market",
+    "mass unemployment"
+   ]
+  },
+  "mnemonic": "زي 'Mass production'.. إنتاج 'Mass' يعني إنتاج لكميات ضخمة لكل الناس.",
+  "phonetic_us": "mæs",
+  "phonetic_uk": "mæs",
+  "syllables": "mass",
+  "semantic_tags": [
+   "#Society",
+   "#Scale",
+   "#Public"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Involving or affecting large numbers of people or things.",
+  "explanation_ar": "حاجة بتحصل بشكل جماعي أو بتشمل عدد كبير جداً من الناس في نفس الوقت.",
+  "examples": [
+   "The government fears mass unemployment after the crisis.",
+   "There was mass hysteria when the star arrived.",
+   "They target products directly at the mass market."
+  ],
+  "translations": {
+   "arabic_ar": "جماعي شامل"
+  },
+  "synonyms": [
+   "widespread",
+   "wholesale",
+   "general"
+  ],
+  "antonyms": [
+   "individual",
+   "limited"
+  ],
+  "collocations": [
+   "mass media",
+   "mass destruction",
+   "mass market",
+   "mass unemployment"
+  ],
+  "mnemonic_ar": "زي 'Mass production'.. إنتاج 'Mass' يعني إنتاج لكميات ضخمة لكل الناس."
+ }
+}

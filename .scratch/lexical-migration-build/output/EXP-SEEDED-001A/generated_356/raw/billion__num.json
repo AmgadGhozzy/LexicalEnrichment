@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "billion",
+  "pos": "num",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "billion",
+  "pos": "num",
+  "cefr": "A2",
+  "definition_en": "The cardinal number one thousand million (1,000,000,000).",
+  "explanation_ar": "رقم المليار (ألف مليون).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The cardinal number one thousand million (1,000,000,000).",
+    "explanation_ar": "رقم المليار (ألف مليون).",
+    "examples": [
+     "China has over one billion people.",
+     "Three billion years ago, life began.",
+     "The cost is estimated at several billion euros."
+    ]
+   }
+  ],
+  "examples": [
+   "China has over one billion people.",
+   "Three billion years ago, life began.",
+   "The cost is estimated at several billion euros."
+  ],
+  "translations": [
+   "مليار"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "several billion",
+    "billion years",
+    "billion dollars"
+   ],
+   "related_words": [
+    "million",
+    "trillion"
+   ]
+  },
+  "mnemonic": "كلمة 'Bill' يعني فاتورة.. تخيل فاتورة بـ 'Billion' دولار",
+  "phonetic_us": "ˈbɪljən",
+  "phonetic_uk": "ˈbɪljən",
+  "syllables": "bil•lion",
+  "semantic_tags": [
+   "numbers",
+   "math",
+   "quantity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The cardinal number one thousand million (1,000,000,000).",
+  "explanation_ar": "رقم المليار (ألف مليون).",
+  "examples": [
+   "China has over one billion people.",
+   "Three billion years ago, life began.",
+   "The cost is estimated at several billion euros."
+  ],
+  "translations": {
+   "arabic_ar": "مليار"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "several billion",
+   "billion years",
+   "billion dollars"
+  ],
+  "mnemonic_ar": "كلمة 'Bill' يعني فاتورة.. تخيل فاتورة بـ 'Billion' دولار"
+ }
+}

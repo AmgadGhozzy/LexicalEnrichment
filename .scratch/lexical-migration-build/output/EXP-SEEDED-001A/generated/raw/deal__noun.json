@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "deal",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "deal",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "An agreement entered into by two or more parties for their mutual benefit.",
+  "explanation_ar": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+  "senses": [
+   {
+    "definition_en": "An agreement entered into by two or more parties for their mutual benefit.",
+    "explanation_ar": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+    "examples": [
+     "It is a good deal.",
+     "We made a deal with the supplier.",
+     "The government signed a trade deal with China."
+    ]
+   }
+  ],
+  "examples": [
+   "It is a good deal.",
+   "We made a deal with the supplier.",
+   "The government signed a trade deal with China."
+  ],
+  "translations": [
+   "اتفاق",
+   "صفقة"
+  ],
+  "relations": {
+   "synonyms": [
+    "agreement",
+    "bargain",
+    "contract",
+    "arrangement",
+    "pact"
+   ],
+   "antonyms": [
+    "disagreement"
+   ],
+   "collocations": [
+    "make a deal",
+    "big deal",
+    "good deal",
+    "great deal",
+    "business deal"
+   ]
+  },
+  "mnemonic": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص.",
+  "phonetic_us": "diːl",
+  "phonetic_uk": "diːl",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Business",
+   "#Agreement",
+   "#Trade",
+   "#Negotiation"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An agreement entered into by two or more parties for their mutual benefit.",
+  "explanation_ar": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+  "examples": [
+   "It is a good deal.",
+   "We made a deal with the supplier.",
+   "The government signed a trade deal with China."
+  ],
+  "translations": {
+   "arabic_ar": "اتفاق صفقة"
+  },
+  "synonyms": [
+   "agreement",
+   "bargain",
+   "contract",
+   "arrangement",
+   "pact"
+  ],
+  "antonyms": [
+   "disagreement"
+  ],
+  "collocations": [
+   "make a deal",
+   "big deal",
+   "good deal",
+   "great deal",
+   "business deal"
+  ],
+  "mnemonic_ar": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص."
+ }
+}

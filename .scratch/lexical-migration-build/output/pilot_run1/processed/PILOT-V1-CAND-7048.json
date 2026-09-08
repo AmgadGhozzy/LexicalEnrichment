@@ -1,0 +1,118 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7048",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7048",
+  "lemma": "settler",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7048,
+  "lemma": "settler",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈsetlər",
+  "phonetic_uk": "ˈsetlə",
+  "phonetic_ar": "سِتْلَرْ",
+  "definition_en": "A person who goes to live permanently in a new country or region, especially an uninhabited or colonial area.",
+  "explanation_ar": "شخص ينتقل للعيش والاستقرار بشكل دائم في منطقة أو بلد جديد، وغالبا ما يرتبط بالمناطق المستعمرة أو المستحدثة.",
+  "examples": [
+   {
+    "example_text": "Each early settler had to clear dense forest to build a home and farm.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "As a pioneer settler, she faced harsh winters and scarce resources.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The government promised cheap land to attract any willing settler.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل settle بمعنى يستقر ويقيم في مكان، وإضافة er تجعله الشخص المستقر والمستوطن.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person who moves to live permanently in a new area, often establishing a colony.",
+    "short_def_en": "person establishing a new home",
+    "definition_ar": "شخص يستوطن ارضا جديدة او منطقة استعمارية بهدف الاستقرار الدائم",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "history",
+     "migration",
+     "society"
+    ],
+    "usage_note": "Often used in historical contexts referring to European colonists moving to territories inhabited by indigenous populations.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "early settler",
+   "white settler",
+   "European settler",
+   "settler colonialism",
+   "new settler"
+  ],
+  "synonyms": [
+   "colonist",
+   "pioneer",
+   "immigrant"
+  ],
+  "antonyms": [
+   "native"
+  ],
+  "related_words": {
+   "en": [
+    "colony",
+    "homestead",
+    "frontier",
+    "indigenous",
+    "territory"
+   ],
+   "ar": [
+    "مستعمرة",
+    "مزرعة ريفية",
+    "تخوم",
+    "سكان أصليون",
+    "إقليم"
+   ]
+  },
+  "word_family": {
+   "noun": "settlement",
+   "verb": "settle",
+   "adj": "settled",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مستوطن",
+   "french_fr": "colon",
+   "german_de": "Siedler",
+   "spanish_es": "colono",
+   "chinese_zh": "移居者 (Yíjū zhě)",
+   "russian_ru": "поселенец",
+   "portuguese_pt": "colono",
+   "japanese_ja": "入植者 (Nyūshoku-sha)",
+   "italian_it": "colono",
+   "turkish_tr": "yerleşimci"
+  }
+ },
+ "provenance": {
+  "output_hash": "5cf2183eca4d604ef167f917dbcaa792ffcf76dc8cafb42438d8771d362dce95",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "hollow",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "hollow",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Having an empty space inside; not solid.",
+  "explanation_ar": "مجوَّف.. يعني فاضي من جوا مش مصمت، زي الماسورة أو جذع شجرة فاضي",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Having a hole or empty space inside; not solid.",
+    "definition_ar": "مجوّف أو فارغ من الداخل",
+    "examples": [
+     "The ball is hollow inside.",
+     "Owls often live in hollow trees."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Without real value, meaning, or sincerity.",
+    "definition_ar": "خاوٍ أو زائف وبلا معنى حقيقي",
+    "examples": [
+     "It was a hollow victory because nobody celebrated."
+    ]
+   }
+  ],
+  "examples": [
+   "The ball is hollow inside.",
+   "Owls often live in hollow trees.",
+   "It was a hollow victory because nobody celebrated."
+  ],
+  "translations": [
+   "مجوَّف",
+   "أجوف",
+   "خاوٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "empty",
+    "vacant",
+    "void"
+   ],
+   "antonyms": [
+    "solid",
+    "full",
+    "filled"
+   ],
+   "collocations": [
+    "hollow tree",
+    "hollow victory",
+    "hollow sound",
+    "hollow cheeks"
+   ]
+  },
+  "mnemonic": "كلمة 'Hollow' أولها 'Hole'.. يعني جواها خرم أو فراغ كبير",
+  "phonetic_us": "ˈhɑl.oʊ",
+  "phonetic_uk": "ˈhɒləʊ",
+  "syllables": "hol•low",
+  "semantic_tags": [
+   "#Shape",
+   "#Structure",
+   "#Empty"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having an empty space inside; not solid.",
+  "explanation_ar": "مجوَّف.. يعني فاضي من جوا مش مصمت، زي الماسورة أو جذع شجرة فاضي",
+  "examples": [
+   "The ball is hollow inside.",
+   "Owls often live in hollow trees.",
+   "It was a hollow victory because nobody celebrated."
+  ],
+  "translations": {
+   "arabic_ar": "مجوَّف أجوف خاوٍ"
+  },
+  "synonyms": [
+   "empty",
+   "vacant",
+   "void"
+  ],
+  "antonyms": [
+   "solid",
+   "full",
+   "filled"
+  ],
+  "collocations": [
+   "hollow tree",
+   "hollow victory",
+   "hollow sound",
+   "hollow cheeks"
+  ],
+  "mnemonic_ar": "كلمة 'Hollow' أولها 'Hole'.. يعني جواها خرم أو فراغ كبير"
+ }
+}

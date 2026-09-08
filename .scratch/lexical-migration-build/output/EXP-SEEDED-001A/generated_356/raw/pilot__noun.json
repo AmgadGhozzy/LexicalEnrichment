@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "pilot",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "pilot",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person who operates the flying controls of an aircraft.",
+  "explanation_ar": "الشخص اللي بيسوق الطيارة.",
+  "senses": [
+   {
+    "definition_en": "A person who operates the flying controls of an aircraft.",
+    "explanation_ar": "الشخص الذي يقود الطائرة.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The pilot flies the plane.",
+   "He wants to be a pilot.",
+   "The pilot announced our arrival."
+  ],
+  "translations": [
+   "طيار"
+  ],
+  "relations": {
+   "synonyms": [
+    "aviator",
+    "flyer",
+    "captain"
+   ],
+   "antonyms": [
+    "passenger"
+   ],
+   "collocations": [
+    "airline pilot",
+    "fighter pilot",
+    "co-pilot"
+   ]
+  },
+  "mnemonic": "Sounds like 'pile it': picture a pilot flying high above the clouds that pile up in the sky.",
+  "phonetic_us": "ˈpaɪlət",
+  "phonetic_uk": "ˈpaɪlət",
+  "syllables": "pi•lot",
+  "semantic_tags": [
+   "#Aviation",
+   "#Jobs",
+   "#Travel"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who operates the flying controls of an aircraft.",
+  "explanation_ar": "الشخص اللي بيسوق الطيارة.",
+  "examples": [
+   "The pilot flies the plane.",
+   "He wants to be a pilot.",
+   "The pilot announced our arrival."
+  ],
+  "translations": {
+   "arabic_ar": "طيار"
+  },
+  "synonyms": [
+   "aviator",
+   "flyer",
+   "captain"
+  ],
+  "antonyms": [
+   "passenger"
+  ],
+  "collocations": [
+   "airline pilot",
+   "fighter pilot",
+   "co-pilot"
+  ],
+  "mnemonic_ar": "Sounds like 'pile it': picture a pilot flying high above the clouds that pile up in the sky."
+ }
+}

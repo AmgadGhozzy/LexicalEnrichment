@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "premium",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "premium",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An amount to be paid for an insurance policy; a sum added to an ordinary price.",
+  "explanation_ar": "مبلغ إضافي بتدفعه عشان تاخد خدمة مميزة، أو قسط التأمين اللي بتدفعه كل شهر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An amount paid regularly for an insurance policy.",
+    "definition_ar": "قسط التأمين الذي يُدفع لشركة التأمين.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An additional amount of money paid above the standard price.",
+    "definition_ar": "مبلغ إضافي أو علاوة تُدفع فوق السعر المعتاد.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "A state of high value, scarcity, or special importance.",
+    "definition_ar": "قيمة عالية أو ندرة تجعل الشيء ذا أهمية كبيرة (مثل: at a premium).",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "We pay a monthly premium for our health insurance.",
+   "Customers are willing to pay a premium for organic food.",
+   "Space is at a premium in this small apartment."
+  ],
+  "translations": [
+   "قسط تأمين",
+   "مبلغ إضافي",
+   "علاوة"
+  ],
+  "relations": {
+   "synonyms": [
+    "surcharge",
+    "bonus",
+    "fee",
+    "dividend"
+   ],
+   "antonyms": [
+    "discount",
+    "reduction"
+   ],
+   "collocations": [
+    "insurance premium",
+    "pay a premium",
+    "at a premium",
+    "place a premium on"
+   ]
+  },
+  "mnemonic": "شبه 'Prime' 'أوّل/أفضل'.. الـ 'Premium' هي الحاجة الـ 'Prime' اللي بندفع فيها فلوس زيادة.",
+  "phonetic_us": "/ˈpriːmiəm/",
+  "phonetic_uk": "/ˈpriːmiəm/",
+  "syllables": "pre•mi•um",
+  "semantic_tags": [
+   "#Money",
+   "#Insurance",
+   "#Finance",
+   "#Cost"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "An amount to be paid for an insurance policy; a sum added to an ordinary price.",
+  "explanation_ar": "مبلغ إضافي بتدفعه عشان تاخد خدمة مميزة، أو قسط التأمين اللي بتدفعه كل شهر.",
+  "examples": [
+   "We pay a monthly premium for our health insurance.",
+   "Customers are willing to pay a premium for organic food.",
+   "Space is at a premium in this small apartment."
+  ],
+  "translations": {
+   "arabic_ar": "قسط تأمين مبلغ إضافي علاوة"
+  },
+  "synonyms": [
+   "surcharge",
+   "bonus",
+   "fee",
+   "dividend"
+  ],
+  "antonyms": [
+   "discount",
+   "reduction"
+  ],
+  "collocations": [
+   "insurance premium",
+   "pay a premium",
+   "at a premium",
+   "place a premium on"
+  ],
+  "mnemonic_ar": "شبه 'Prime' 'أوّل/أفضل'.. الـ 'Premium' هي الحاجة الـ 'Prime' اللي بندفع فيها فلوس زيادة."
+ }
+}

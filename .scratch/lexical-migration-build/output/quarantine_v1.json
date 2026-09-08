@@ -1,0 +1,403 @@
+{
+ "artifact": "quarantine_formalization_v1",
+ "produced_by": "BT-10 (class-complete 727 + per-row multiwords)",
+ "quarantine_727": {
+  "total": 727,
+  "classes": [
+   {
+    "kind": "vintage_727",
+    "class": "implausible_function_word_pos",
+    "count": 121,
+    "criteria": "closed-class lemma with open-class POS (e.g. the/and/would/shall->noun, at/on->verb, vice/well-being->verb); presumptively malformed, rebuttable only by cited evidence (Ticket 03 rule).",
+    "review_state": "quarantined_pending_item_review",
+    "forensic_ref": {
+     "artifact": "evaluation/forensic_audit/forensic_727.json",
+     "sha256": "55109866ee989e851d943d8708a608d2f83d995e45b8395418d6757c15024fb3"
+    },
+    "row_level_materialization": "BLOCKED_on_Gate_B"
+   },
+   {
+    "kind": "vintage_727",
+    "class": "zero_derivation_mixed",
+    "count": 571,
+    "criteria": "auto-POS-expansion of mixed legitimacy (defensible e.g. torture/noun vs wrong e.g. get/noun, see/noun); per-item POS adjudication under Ticket 03, never blanket approve/reject.",
+    "review_state": "quarantined_pending_item_review",
+    "forensic_ref": {
+     "artifact": "evaluation/forensic_audit/forensic_727.json",
+     "sha256": "55109866ee989e851d943d8708a608d2f83d995e45b8395418d6757c15024fb3"
+    },
+    "row_level_materialization": "BLOCKED_on_Gate_B"
+   },
+   {
+    "kind": "vintage_727",
+    "class": "same_lemma_diff_pos",
+    "count": 32,
+    "criteria": "lemma exists in canonical universe under a different POS; POS variants may be legitimate separate identities — quarantine is review state, not an invalidity verdict.",
+    "review_state": "quarantined_pending_item_review",
+    "forensic_ref": {
+     "artifact": "evaluation/forensic_audit/forensic_727.json",
+     "sha256": "55109866ee989e851d943d8708a608d2f83d995e45b8395418d6757c15024fb3"
+    },
+    "row_level_materialization": "BLOCKED_on_Gate_B"
+   },
+   {
+    "kind": "vintage_727",
+    "class": "brand_new_lemma",
+    "count": 3,
+    "criteria": "holding/noun, complicate/adj, dressing/noun; genuinely new lemmas, admissible only via Tickets 02/03 gates, never auto-created.",
+    "review_state": "quarantined_pending_item_review",
+    "forensic_ref": {
+     "artifact": "evaluation/forensic_audit/forensic_727.json",
+     "sha256": "55109866ee989e851d943d8708a608d2f83d995e45b8395418d6757c15024fb3"
+    },
+    "row_level_materialization": "BLOCKED_on_Gate_B"
+   }
+  ]
+ },
+ "quarantine_multiword": {
+  "total": 34,
+  "rows": [
+   {
+    "kind": "multiword",
+    "original_form": "look back",
+    "normalized_form": "look back",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 56,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Growing up",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "outer space",
+    "normalized_form": "outer space",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 163,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Science, Engineering",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "solar system",
+    "normalized_form": "solar system",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 172,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Science, Engineering",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "space shuttle",
+    "normalized_form": "space shuttle",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 174,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Science, Engineering",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "space station",
+    "normalized_form": "space station",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 175,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Science, Engineering",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "operating system",
+    "normalized_form": "operating system",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 209,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Information Technology",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "remote control",
+    "normalized_form": "remote control",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 214,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Information Technology",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "silicon chip",
+    "normalized_form": "silicon chip",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 217,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Information Technology",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "joint venture",
+    "normalized_form": "joint venture",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 245,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Modern World",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "acid rain",
+    "normalized_form": "acid rain",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 283,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Environment",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "climate change",
+    "normalized_form": "climate change",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 285,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Environment",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "food chain",
+    "normalized_form": "food chain",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 297,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Environment",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "greenhouse gases",
+    "normalized_form": "greenhouse gases",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 299,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Environment",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "environmentally friendly",
+    "normalized_form": "environmentally friendly",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 314,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Environment",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "the Middle Ages",
+    "normalized_form": "the middle ages",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 516,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Through the Ages",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "Mother Nature",
+    "normalized_form": "mother nature",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 553,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Natural World",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "genetically modified",
+    "normalized_form": "genetically modified",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 565,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Natural World",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "mother tongue",
+    "normalized_form": "mother tongue",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 593,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Communication Skills",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "native speaker",
+    "normalized_form": "native speaker",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 594,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Communication Skills",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "sign language",
+    "normalized_form": "sign language",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 596,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Communication Skills",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "carbon dioxide",
+    "normalized_form": "carbon dioxide",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 637,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Energy, Resources",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "fossil fuel",
+    "normalized_form": "fossil fuel",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 641,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Energy, Resources",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "oil rig",
+    "normalized_form": "oil rig",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 644,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Energy, Resources",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "high school",
+    "normalized_form": "high school",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 818,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Education",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "primary school",
+    "normalized_form": "primary school",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 827,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Education",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "secondary school",
+    "normalized_form": "secondary school",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 834,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "Education",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "free press",
+    "normalized_form": "free press",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 915,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Media",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "mass media",
+    "normalized_form": "mass media",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 921,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Media",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "press conference",
+    "normalized_form": "press conference",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 956,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Media",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "prime time",
+    "normalized_form": "prime time",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 959,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Media",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "reality TV",
+    "normalized_form": "reality tv",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 962,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Media",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "legal action",
+    "normalized_form": "legal action",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 963,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Law",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "petty crime",
+    "normalized_form": "petty crime",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 1003,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Law",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   },
+   {
+    "kind": "multiword",
+    "original_form": "break into",
+    "normalized_form": "break into",
+    "source_name": "IeltsWord.db",
+    "source_row_id": 1007,
+    "classification": "MULTIWORD_QUARANTINE",
+    "topic": "The Law",
+    "review_state": "quarantined_awaiting_multiword_architecture"
+   }
+  ]
+ },
+ "row_level_727_materialization": "BLOCKED_on_Gate_B"
+}

@@ -1,0 +1,130 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0001": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "B-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "Arm A includes noun-usage examples for an exclamation lemma: 'Ladies and gentlemen, may I have your attention?' and 'Attention to detail is critical in this job.'"
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A mixes standard noun uses of 'attention' into the examples for an exclamation entry (e.g., 'Attention to detail is critical in this job'), whereas Arm B consistently maintains the exclamation POS across all examples."
+  },
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "B-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A uses Standard Arabic for its explanation and mnemonic, and provides solid, highly relevant collocations. Arm B includes playing cards and idiomatic senses in examples, but its synonyms ('ticket', 'pass', 'badge') are loose, and its explanation uses colloquial Egyptian Arabic."
+  },
+  "EVAL-BLIND-V1-0003": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal MSA explanation whereas Arm B uses Egyptian dialect (إنك تروح مكان...). Arm A also includes helpful collocations and a valid Latin etymology mnemonic."
+  }
+ }
+}

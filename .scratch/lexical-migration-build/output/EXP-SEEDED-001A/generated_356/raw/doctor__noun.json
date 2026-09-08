@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "doctor",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "doctor",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A person with a medical degree whose job is to treat sick people.",
+  "explanation_ar": "الشخص اللي بيعالج الناس العيانة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person with a medical degree whose job is to treat sick people.",
+    "definition_ar": "طبيب؛ شخص مؤهل لعلاج المرضى.",
+    "examples": [
+     "I need to see a doctor.",
+     "The doctor gave me some medicine.",
+     "She is studying to become a doctor."
+    ]
+   }
+  ],
+  "examples": [
+   "I need to see a doctor.",
+   "The doctor gave me some medicine.",
+   "She is studying to become a doctor."
+  ],
+  "translations": [
+   "طبيب",
+   "دكتور"
+  ],
+  "relations": {
+   "synonyms": [
+    "physician",
+    "medic",
+    "practitioner"
+   ],
+   "antonyms": [
+    "patient"
+   ],
+   "collocations": [
+    "see a doctor",
+    "doctor's appointment",
+    "family doctor",
+    "medical doctor"
+   ]
+  },
+  "mnemonic": "كلمة 'Doctor' هي نفسها 'دكتور' بالعربي.",
+  "phonetic_us": "ˈdɑːk.tɚ",
+  "phonetic_uk": "ˈdɒk.tə",
+  "syllables": "doc•tor",
+  "semantic_tags": [
+   "#Health",
+   "#Job",
+   "#Medicine"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person with a medical degree whose job is to treat sick people.",
+  "explanation_ar": "الشخص اللي بيعالج الناس العيانة.",
+  "examples": [
+   "I need to see a doctor.",
+   "The doctor gave me some medicine.",
+   "She is studying to become a doctor."
+  ],
+  "translations": {
+   "arabic_ar": "طبيب دكتور"
+  },
+  "synonyms": [
+   "physician",
+   "medic",
+   "practitioner"
+  ],
+  "antonyms": [
+   "patient"
+  ],
+  "collocations": [
+   "see a doctor",
+   "doctor's appointment",
+   "family doctor",
+   "medical doctor"
+  ],
+  "mnemonic_ar": "كلمة 'Doctor' هي نفسها 'دكتور' بالعربي."
+ }
+}

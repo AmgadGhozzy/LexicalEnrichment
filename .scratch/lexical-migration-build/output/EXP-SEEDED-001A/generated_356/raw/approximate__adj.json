@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "approximate",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "approximate",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Close to the actual, but not completely accurate or exact.",
+  "explanation_ar": "يعني مش الرقم بالظبط، بس قريب منه جدًا، زي لما تقول 'حوالي' كذا أو تقديري.",
+  "senses": [
+   {
+    "sense_id": "approximate_adj_1",
+    "definition_en": "Close to the actual, but not completely accurate or exact.",
+    "definition_ar": "تقريبي؛ قريب من القيمة أو المقدار الفعلي دون دقة كاملة.",
+    "examples": [
+     "Can you give me the approximate cost?",
+     "The approximate distance is five miles.",
+     "These figures are only approximate and may change."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you give me the approximate cost?",
+   "The approximate distance is five miles.",
+   "These figures are only approximate and may change."
+  ],
+  "translations": [
+   "تقريبي"
+  ],
+  "relations": {
+   "synonyms": [
+    "estimated",
+    "rough",
+    "near",
+    "close"
+   ],
+   "antonyms": [
+    "exact",
+    "precise"
+   ],
+   "collocations": [
+    "approximate number",
+    "approximate cost",
+    "approximate time"
+   ]
+  },
+  "mnemonic": "فيها 'Proxy' يعني وكيل.. والبديل بيكون 'Approximate' للأصل بس مش هو بالضبط.",
+  "phonetic_us": "əˈprɑksəmət",
+  "phonetic_uk": "əˈprɒksɪmət",
+  "syllables": "ap•prox•i•mate",
+  "semantic_tags": [
+   "#Math",
+   "#Estimation",
+   "#Numbers"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Close to the actual, but not completely accurate or exact.",
+  "explanation_ar": "يعني مش الرقم بالظبط، بس قريب منه جدًا، زي لما تقول 'حوالي' كذا أو تقديري.",
+  "examples": [
+   "Can you give me the approximate cost?",
+   "The approximate distance is five miles.",
+   "These figures are only approximate and may change."
+  ],
+  "translations": {
+   "arabic_ar": "تقريبي"
+  },
+  "synonyms": [
+   "estimated",
+   "rough",
+   "near",
+   "close"
+  ],
+  "antonyms": [
+   "exact",
+   "precise"
+  ],
+  "collocations": [
+   "approximate number",
+   "approximate cost",
+   "approximate time"
+  ],
+  "mnemonic_ar": "فيها 'Proxy' يعني وكيل.. والبديل بيكون 'Approximate' للأصل بس مش هو بالضبط."
+ }
+}

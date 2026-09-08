@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "than",
+  "pos": "conj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "than",
+  "pos": "conj",
+  "cefr": "A1",
+  "definition_en": "Used to introduce the second part of a comparison.",
+  "explanation_ar": "كلمة بنستخدمها للمقارنة بين حاجتين، بمعنى 'من' أو 'عن' لما نقول حاجة أكبر أو أصغر من حاجة.",
+  "senses": [
+   {
+    "definition_en": "Used to introduce the second part of a comparison.",
+    "explanation_ar": "تُستخدم للربط في جمل المقارنة لتقديم الطرف الثاني (بمعنى: مِن).",
+    "examples": [
+     "She is older than me.",
+     "I like tea more than coffee.",
+     "The results were much better than we expected."
+    ]
+   }
+  ],
+  "examples": [
+   "She is older than me.",
+   "I like tea more than coffee.",
+   "The results were much better than we expected."
+  ],
+  "translations": [
+   "مِن",
+   "عَنْ"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "more than",
+    "less than",
+    "rather than",
+    "better than"
+   ]
+  },
+  "mnemonic": "كلمة 'Than' فيها حرف 'A' زي كلمة 'After'.. يعني اللي بيجي بعدها هو اللي بنقارن بيه.",
+  "phonetic_us": "ðæn",
+  "phonetic_uk": "ðæn",
+  "syllables": "than",
+  "semantic_tags": [
+   "#Comparison",
+   "#Grammar",
+   "#Connector"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to introduce the second part of a comparison.",
+  "explanation_ar": "كلمة بنستخدمها للمقارنة بين حاجتين، بمعنى 'من' أو 'عن' لما نقول حاجة أكبر أو أصغر من حاجة.",
+  "examples": [
+   "She is older than me.",
+   "I like tea more than coffee.",
+   "The results were much better than we expected."
+  ],
+  "translations": {
+   "arabic_ar": "مِن عَنْ"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "more than",
+   "less than",
+   "rather than",
+   "better than"
+  ],
+  "mnemonic_ar": "كلمة 'Than' فيها حرف 'A' زي كلمة 'After'.. يعني اللي بيجي بعدها هو اللي بنقارن بيه."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "plus",
+  "pos": "prep",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "plus",
+  "pos": "prep",
+  "cefr": "B1",
+  "definition_en": "With the addition of; together with.",
+  "explanation_ar": "بنستخدمها لما نكون بنضيف حاجة لحاجة تانية، بمعنى 'زائد' أو 'وكمان'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "prep",
+    "definition_en": "With the addition of; together with.",
+    "explanation_ar": "زائد، بالإضافة إلى",
+    "examples": [
+     "The cost is $10 plus tax.",
+     "I have three meetings plus a lunch appointment.",
+     "The hotel offers breakfast plus free Wi-Fi."
+    ]
+   }
+  ],
+  "examples": [
+   "The cost is $10 plus tax.",
+   "I have three meetings plus a lunch appointment.",
+   "The hotel offers breakfast plus free Wi-Fi."
+  ],
+  "translations": [
+   "زائد",
+   "بالإضافة إلى"
+  ],
+  "relations": {
+   "synonyms": [
+    "together with",
+    "added to"
+   ],
+   "antonyms": [
+    "minus"
+   ],
+   "collocations": [
+    "plus tax",
+    "plus interest",
+    "cost plus"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/plʌs/",
+  "phonetic_uk": "/plʌs/",
+  "syllables": [
+   "plus"
+  ],
+  "semantic_tags": [
+   "math",
+   "connector",
+   "addition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "With the addition of; together with.",
+  "explanation_ar": "بنستخدمها لما نكون بنضيف حاجة لحاجة تانية، بمعنى 'زائد' أو 'وكمان'.",
+  "examples": [
+   "The cost is $10 plus tax.",
+   "I have three meetings plus a lunch appointment.",
+   "The hotel offers breakfast plus free Wi-Fi."
+  ],
+  "translations": {
+   "arabic_ar": "زائد بالإضافة إلى"
+  },
+  "synonyms": [
+   "together with",
+   "added to"
+  ],
+  "antonyms": [
+   "minus"
+  ],
+  "collocations": [
+   "plus tax",
+   "plus interest",
+   "cost plus"
+  ],
+  "mnemonic_ar": null
+ }
+}

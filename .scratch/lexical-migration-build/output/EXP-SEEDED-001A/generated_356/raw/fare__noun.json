@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "fare",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fare",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The money a passenger must pay for a journey on public transport.",
+  "explanation_ar": "الفلوس اللي بتدفعها عشان تركب مواصلة زي التاكسي أو القطر أو الأتوبيس (الأجرة).",
+  "senses": [
+   {
+    "definition_en": "The money a passenger must pay for a journey on public transport.",
+    "explanation_ar": "أجرة الركوب في وسيلة مواصلات.",
+    "examples": [
+     "How much is the bus fare?",
+     "I paid the taxi fare.",
+     "Children travel for half fare."
+    ]
+   }
+  ],
+  "examples": [
+   "How much is the bus fare?",
+   "I paid the taxi fare.",
+   "Children travel for half fare."
+  ],
+  "translations": [
+   "أجرة",
+   "سعر التذكرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "ticket price",
+    "charge",
+    "fee"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bus fare",
+    "train fare",
+    "air fare",
+    "fare evasion"
+   ]
+  },
+  "mnemonic": "كلمة 'Fare' قريبة من 'Fair' 'عادل'.. لازم تدفع 'Fare' 'أجرة' تكون 'Fair' عشان السواق ميزعلش.",
+  "phonetic_us": "fɛr",
+  "phonetic_uk": "feə",
+  "syllables": [
+   "fare"
+  ],
+  "semantic_tags": [
+   "Money",
+   "Travel",
+   "Transportation"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The money a passenger must pay for a journey on public transport.",
+  "explanation_ar": "الفلوس اللي بتدفعها عشان تركب مواصلة زي التاكسي أو القطر أو الأتوبيس (الأجرة).",
+  "examples": [
+   "How much is the bus fare?",
+   "I paid the taxi fare.",
+   "Children travel for half fare."
+  ],
+  "translations": {
+   "arabic_ar": "أجرة سعر التذكرة"
+  },
+  "synonyms": [
+   "ticket price",
+   "charge",
+   "fee"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bus fare",
+   "train fare",
+   "air fare",
+   "fare evasion"
+  ],
+  "mnemonic_ar": "كلمة 'Fare' قريبة من 'Fair' 'عادل'.. لازم تدفع 'Fare' 'أجرة' تكون 'Fair' عشان السواق ميزعلش."
+ }
+}

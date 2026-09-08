@@ -1,0 +1,153 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5538",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5538",
+  "lemma": "squeeze",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5538,
+  "lemma": "squeeze",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "skwiz",
+  "phonetic_uk": null,
+  "phonetic_ar": "سْكْوِيز",
+  "definition_en": "A difficult period when money, resources, or profits are severely reduced or restricted.",
+  "explanation_ar": "ضائقة مالية أو ضغط اقتصادي حاد يحد من توفر الأموال أو الموارد المتاحة.",
+  "examples": [
+   {
+    "example_text": "Rising inflation has put a severe squeeze on household budgets across the country.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Small businesses are facing a tight credit squeeze as banks raise interest rates.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The government announced spending cuts to survive the current financial squeeze.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تخيل يد تضغط بقوة على محفظتك حتى لا يخرج منها اي مال لتتذكر ان كلمة \"squeeze\" تعني ضائقة او ازمة مالية خانقة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A difficult period when money, resources, or profits are severely reduced or restricted.",
+    "short_def_en": "financial or economic pressure",
+    "definition_ar": "ضائقة او ازمة ناتجة عن نقص المال او الموارد",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "finance",
+     "economy",
+     "business"
+    ],
+    "usage_note": "Commonly used in economic contexts such as credit squeeze or cash squeeze.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The act of pressing firmly with fingers or hands.",
+    "short_def_en": "firm physical pressing",
+    "definition_ar": "عصر او ضغط باليدين",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "touch",
+     "physical action",
+     "force"
+    ],
+    "usage_note": "Often used concretely with fruit or body parts, like giving a hand a gentle squeeze.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "A situation where people or things are confined in a very limited space.",
+    "short_def_en": "crowded physical confinement",
+    "definition_ar": "تزاحم او ضيق في المكان",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "space",
+     "crowding",
+     "restriction"
+    ],
+    "usage_note": "Frequently heard in the expression it will be a tight squeeze.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "credit squeeze",
+   "financial squeeze",
+   "squeeze on profits",
+   "tight squeeze",
+   "put the squeeze on"
+  ],
+  "synonyms": [
+   "crunch",
+   "pinch",
+   "strain",
+   "pressure",
+   "restriction"
+  ],
+  "antonyms": [
+   "expansion",
+   "boom"
+  ],
+  "related_words": {
+   "en": [
+    "budget",
+    "inflation",
+    "compression",
+    "crush",
+    "constraint"
+   ],
+   "ar": [
+    "ميزانية",
+    "تضخم",
+    "ضغط",
+    "سحق",
+    "قيد"
+   ]
+  },
+  "word_family": {
+   "noun": "squeezer",
+   "verb": "squeeze",
+   "adj": "squeezable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ضائقة مالية / ضغط / عصرة",
+   "french_fr": "compression",
+   "german_de": "Engpass",
+   "spanish_es": "aprieto",
+   "chinese_zh": "紧缩 (Jǐnsuō)",
+   "russian_ru": "кризис",
+   "portuguese_pt": "aperto",
+   "japanese_ja": "圧迫 (Appaku)",
+   "italian_it": "stretta",
+   "turkish_tr": "darboğaz"
+  }
+ },
+ "provenance": {
+  "output_hash": "08d37a7ac13d5cb88e7d852d158ed1fe7b824bdafb779920a81fb85385f71651",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

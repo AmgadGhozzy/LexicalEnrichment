@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "doorway",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "doorway",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The opening where a door is, or the passage into a room.",
+  "explanation_ar": "الفتحة التي يوجد بها الباب، أو المدخل الذي تعبر منه لدخول الغرفة.",
+  "senses": [
+   {
+    "definition_en": "The opening where a door is, or the passage into a room.",
+    "definition_ar": "الفتحة أو المدخل المخصص للباب للدخول إلى غرفة أو مبنى.",
+    "examples": [
+     "He stood in the doorway.",
+     "Please don't block the doorway with your bags.",
+     "She paused in the doorway to look back at the room."
+    ]
+   }
+  ],
+  "examples": [
+   "He stood in the doorway.",
+   "Please don't block the doorway with your bags.",
+   "She paused in the doorway to look back at the room."
+  ],
+  "translations": [
+   "مدخل",
+   "عتبة الباب",
+   "فتحة الباب"
+  ],
+  "relations": {
+   "synonyms": [
+    "entrance",
+    "entry",
+    "threshold",
+    "portal"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "stand in the doorway",
+    "block the doorway",
+    "arched doorway",
+    "open doorway"
+   ]
+  },
+  "mnemonic": "هي طريق 'Way' الباب 'Door'.. يعني الفتحة أو الـ 'Doorway' اللي بتدخل منها.",
+  "phonetic_us": "ˈdɔːr.weɪ",
+  "phonetic_uk": "ˈdɔː.weɪ",
+  "syllables": "door•way",
+  "semantic_tags": [
+   "#House",
+   "#Architecture",
+   "#Entrance",
+   "#Building"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The opening where a door is, or the passage into a room.",
+  "explanation_ar": "الفتحة التي يوجد بها الباب، أو المدخل الذي تعبر منه لدخول الغرفة.",
+  "examples": [
+   "He stood in the doorway.",
+   "Please don't block the doorway with your bags.",
+   "She paused in the doorway to look back at the room."
+  ],
+  "translations": {
+   "arabic_ar": "مدخل عتبة الباب فتحة الباب"
+  },
+  "synonyms": [
+   "entrance",
+   "entry",
+   "threshold",
+   "portal"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "stand in the doorway",
+   "block the doorway",
+   "arched doorway",
+   "open doorway"
+  ],
+  "mnemonic_ar": "هي طريق 'Way' الباب 'Door'.. يعني الفتحة أو الـ 'Doorway' اللي بتدخل منها."
+ }
+}

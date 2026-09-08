@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "when",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "when",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "At what time; used to ask questions about time.",
+  "explanation_ar": "بتستخدم عشان تسأل عن الوقت، بمعنى 'إمتى؟'.",
+  "senses": [
+   {
+    "definition_en": "At what time; used to ask questions about time.",
+    "explanation_ar": "تُستخدم للسؤال أو الحديث عن الوقت أو الميعاد (متى / إمتى).",
+    "examples": [
+     "When is your birthday?",
+     "When did you arrive?",
+     "I don't know when the train leaves."
+    ]
+   }
+  ],
+  "examples": [
+   "When is your birthday?",
+   "When did you arrive?",
+   "I don't know when the train leaves."
+  ],
+  "translations": [
+   "متى",
+   "إمتى"
+  ],
+  "relations": {
+   "synonyms": [
+    "at what time",
+    "how soon"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "since when",
+    "when exactly",
+    "until when"
+   ]
+  },
+  "mnemonic": "اربط 'When' بكلمة 'Win' 'يفوز'.. واسأل نفسك: 'When' will I 'win'? 'إمتى هفوز؟'.",
+  "phonetic_us": "wɛn",
+  "phonetic_uk": "wen",
+  "syllables": [
+   "when"
+  ],
+  "semantic_tags": [
+   "#Question",
+   "#Time",
+   "#Interrogative"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "At what time; used to ask questions about time.",
+  "explanation_ar": "بتستخدم عشان تسأل عن الوقت، بمعنى 'إمتى؟'.",
+  "examples": [
+   "When is your birthday?",
+   "When did you arrive?",
+   "I don't know when the train leaves."
+  ],
+  "translations": {
+   "arabic_ar": "متى إمتى"
+  },
+  "synonyms": [
+   "at what time",
+   "how soon"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "since when",
+   "when exactly",
+   "until when"
+  ],
+  "mnemonic_ar": "اربط 'When' بكلمة 'Win' 'يفوز'.. واسأل نفسك: 'When' will I 'win'? 'إمتى هفوز؟'."
+ }
+}

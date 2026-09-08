@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "subsequent",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "subsequent",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Coming after something in time; following.",
+  "explanation_ar": "حاجة بتحصل بعد حاجة تانية، يعني لاحقة أو تالية ليها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Coming after something in time; following.",
+    "explanation_ar": "حاجة بتحصل بعد حاجة تانية، يعني لاحقة أو تالية ليها.",
+    "examples": [
+     "In subsequent years, he became famous.",
+     "Any subsequent changes must be approved.",
+     "The mistake was corrected in a subsequent edition of the book."
+    ]
+   }
+  ],
+  "examples": [
+   "In subsequent years, he became famous.",
+   "Any subsequent changes must be approved.",
+   "The mistake was corrected in a subsequent edition of the book."
+  ],
+  "translations": [
+   "لَاحِق",
+   "تَالٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "following",
+    "ensuing",
+    "succeeding",
+    "later"
+   ],
+   "antonyms": [
+    "previous",
+    "prior",
+    "preceding",
+    "former"
+   ],
+   "collocations": [
+    "subsequent event",
+    "subsequent year",
+    "subsequent meeting",
+    "subsequent to"
+   ]
+  },
+  "mnemonic": "جاية من 'Sequence' 'تسلسل'.. حاجة 'Subsequent' يعني جاية بعدها في التسلسل، يعني 'لاحقة'.",
+  "phonetic_us": "ˈsʌbsəkwənt",
+  "phonetic_uk": null,
+  "syllables": "sub•se•quent",
+  "semantic_tags": [
+   "#Time",
+   "#Order",
+   "#Sequence",
+   "#Future"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Coming after something in time; following.",
+  "explanation_ar": "حاجة بتحصل بعد حاجة تانية، يعني لاحقة أو تالية ليها.",
+  "examples": [
+   "In subsequent years, he became famous.",
+   "Any subsequent changes must be approved.",
+   "The mistake was corrected in a subsequent edition of the book."
+  ],
+  "translations": {
+   "arabic_ar": "لَاحِق تَالٍ"
+  },
+  "synonyms": [
+   "following",
+   "ensuing",
+   "succeeding",
+   "later"
+  ],
+  "antonyms": [
+   "previous",
+   "prior",
+   "preceding",
+   "former"
+  ],
+  "collocations": [
+   "subsequent event",
+   "subsequent year",
+   "subsequent meeting",
+   "subsequent to"
+  ],
+  "mnemonic_ar": "جاية من 'Sequence' 'تسلسل'.. حاجة 'Subsequent' يعني جاية بعدها في التسلسل، يعني 'لاحقة'."
+ }
+}

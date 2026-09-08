@@ -1,0 +1,117 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3103",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3103",
+  "lemma": "pope",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3103,
+  "lemma": "pope",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "poʊp",
+  "phonetic_uk": "pəʊp",
+  "phonetic_ar": "بَوْب",
+  "definition_en": "The bishop of Rome and worldwide leader of the Roman Catholic Church.",
+  "explanation_ar": "بابا الفاتيكان، وهو الزعيم الروحي وأعلى سلطة دينية للكنيسة الكاثوليكية الرومانية في العالم.",
+  "examples": [
+   {
+    "example_text": "Crowds gathered in Saint Peter's Square waiting to see the new pope.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The cardinals held a secret meeting to elect a successor to the late pope.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "During his visit abroad, the pope addressed millions of faithful believers.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"papa\" اللاتينية التي تعني الأب، فالكلمة تعود تاريخيا إلى لقب الأب الروحي للكنيسة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The bishop of Rome and supreme head of the Roman Catholic Church.",
+    "short_def_en": "head of Catholic Church",
+    "definition_ar": "بابا الفاتيكان والزعيم الديني الأعلى للكنيسة الكاثوليكية.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "religion",
+     "leadership",
+     "catholicism"
+    ],
+    "usage_note": "Capitalized as a title when preceding a name (Pope Francis), but lowercased when used generally as a common noun.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "elect a pope",
+   "the new pope",
+   "speech by the pope",
+   "visit of the pope"
+  ],
+  "synonyms": [
+   "pontiff",
+   "bishop of Rome",
+   "Holy Father"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "Vatican",
+    "cardinal",
+    "papacy",
+    "papal",
+    "church",
+    "Catholic"
+   ],
+   "ar": [
+    "الفاتيكان",
+    "كاردينال",
+    "البابوية",
+    "بابوي",
+    "كنيسة",
+    "كاثوليكي"
+   ]
+  },
+  "word_family": {
+   "noun": "papacy",
+   "verb": "",
+   "adj": "papal",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بابا",
+   "french_fr": "pape",
+   "german_de": "Papst",
+   "spanish_es": "papa",
+   "chinese_zh": "教皇 (Jiàohuáng)",
+   "russian_ru": "папа римский",
+   "portuguese_pt": "papa",
+   "japanese_ja": "教皇 (Kyōkō)",
+   "italian_it": "papa",
+   "turkish_tr": "papa"
+  }
+ },
+ "provenance": {
+  "output_hash": "c16032fa09e02c38a833d558c2aa93ce59746544e7077d7d47da2c9a3986bcce",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

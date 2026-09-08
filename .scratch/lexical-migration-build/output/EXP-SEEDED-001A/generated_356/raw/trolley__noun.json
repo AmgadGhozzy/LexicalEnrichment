@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "trolley",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "trolley",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A cart on wheels used for transporting items, or a streetcar.",
+  "explanation_ar": "العربية اللي بعجل زي عربية السوبر ماركت أو عربية نقل الشنط.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A wheeled cart pushed by hand to transport shopping, luggage, or equipment.",
+    "definition_ar": "عربة صغيرة بعجلات تُدفع باليد لنقل المشتريات أو الأمتعة.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "An electric streetcar or tram.",
+    "definition_ar": "ترام أو عربة نقل ركاب تسير على قضبان في الشارع.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Put the food in the shopping trolley.",
+   "She loaded her luggage onto the airport trolley.",
+   "The city restored the vintage electric trolley for tourists."
+  ],
+  "translations": [
+   "عربة",
+   "ترولي",
+   "ترام"
+  ],
+  "relations": {
+   "synonyms": [
+    "cart",
+    "tram",
+    "streetcar"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "shopping trolley",
+    "luggage trolley",
+    "drinks trolley",
+    "trolley bus"
+   ]
+  },
+  "mnemonic": "جاية من 'Roll' 'يتدحرج'.. الـ 'Trolley' بيمشي على عجل و 'Rolls'.",
+  "phonetic_us": "ˈtrɑli",
+  "phonetic_uk": "ˈtrɒli",
+  "syllables": "trol•ley",
+  "semantic_tags": [
+   "#Shopping",
+   "#Transport",
+   "#Vehicle"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A cart on wheels used for transporting items, or a streetcar.",
+  "explanation_ar": "العربية اللي بعجل زي عربية السوبر ماركت أو عربية نقل الشنط.",
+  "examples": [
+   "Put the food in the shopping trolley.",
+   "She loaded her luggage onto the airport trolley.",
+   "The city restored the vintage electric trolley for tourists."
+  ],
+  "translations": {
+   "arabic_ar": "عربة ترولي ترام"
+  },
+  "synonyms": [
+   "cart",
+   "tram",
+   "streetcar"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "shopping trolley",
+   "luggage trolley",
+   "drinks trolley",
+   "trolley bus"
+  ],
+  "mnemonic_ar": "جاية من 'Roll' 'يتدحرج'.. الـ 'Trolley' بيمشي على عجل و 'Rolls'."
+ }
+}

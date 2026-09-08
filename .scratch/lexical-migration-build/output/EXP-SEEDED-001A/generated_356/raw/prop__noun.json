@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "prop",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "prop",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A pole or beam used for support, or an object used in a play.",
+  "explanation_ar": "حاجة بتسند عليها حاجة تانية عشان ما تقعش، أو الأغراض والإكسسوارات اللي بيستخدموها الممثلين في المسرح.",
+  "senses": [
+   {
+    "definition_en": "A piece of wood, metal, or other object used to support something heavy or keep it in position.",
+    "explanation_ar": "دعامة أو سند لدعم شيء ما وتثبيته في مكانه",
+    "examples": [
+     "Use a book as a prop to keep the window open.",
+     "The government refused to be a financial prop for failing industries."
+    ]
+   },
+   {
+    "definition_en": "A portable object used by actors in a play or film.",
+    "explanation_ar": "إكسسوار أو غرض يستخدمه الممثل في العرض المسرحي أو السينمائي",
+    "examples": [
+     "In the play, the most important prop was a vintage telephone that rang at crucial moments."
+    ]
+   }
+  ],
+  "examples": [
+   "Use a book as a prop to keep the window open.",
+   "In the play, the most important prop was a vintage telephone that rang at crucial moments.",
+   "The government refused to be a financial prop for failing industries."
+  ],
+  "translations": [
+   "دعامة",
+   "سند",
+   "إكسسوار مسرحي"
+  ],
+  "relations": {
+   "synonyms": [
+    "support",
+    "brace",
+    "stay",
+    "buttress"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "stage prop",
+    "steel prop",
+    "prop up"
+   ]
+  },
+  "mnemonic": "الـ 'Prop' هو الحاجة اللي بتعمل 'Prop up' 'بتسند' بيها السقف. أو الأغراض اللي بيستخدموها في التمثيل.",
+  "phonetic_us": "pɹɑp",
+  "phonetic_uk": "pɹɒp",
+  "syllables": [
+   "prop"
+  ],
+  "semantic_tags": [
+   "#Support",
+   "#Theater",
+   "#Construction"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A pole or beam used for support, or an object used in a play.",
+  "explanation_ar": "حاجة بتسند عليها حاجة تانية عشان ما تقعش، أو الأغراض والإكسسوارات اللي بيستخدموها الممثلين في المسرح.",
+  "examples": [
+   "Use a book as a prop to keep the window open.",
+   "In the play, the most important prop was a vintage telephone that rang at crucial moments.",
+   "The government refused to be a financial prop for failing industries."
+  ],
+  "translations": {
+   "arabic_ar": "دعامة سند إكسسوار مسرحي"
+  },
+  "synonyms": [
+   "support",
+   "brace",
+   "stay",
+   "buttress"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "stage prop",
+   "steel prop",
+   "prop up"
+  ],
+  "mnemonic_ar": "الـ 'Prop' هو الحاجة اللي بتعمل 'Prop up' 'بتسند' بيها السقف. أو الأغراض اللي بيستخدموها في التمثيل."
+ }
+}

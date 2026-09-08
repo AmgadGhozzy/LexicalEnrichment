@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "helpless",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "helpless",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Unable to defend oneself or to act without help.",
+  "explanation_ar": "عاجز ومش قادر يساعد نفسه أو يدافع عنها، ومحتاج حد يقف جنبه.",
+  "senses": [
+   {
+    "definition_en": "Unable to defend oneself or to manage without the assistance of others.",
+    "definition_ar": "عاجز أو لا حول له ولا قوة؛ غير قادر على حماية نفسه أو التصرف بمفرده.",
+    "examples": [
+     "The injured animal lay helpless on the road.",
+     "He was helpless against the overwhelming force of the storm.",
+     "The bureaucracy made us feel utterly helpless and frustrated."
+    ]
+   }
+  ],
+  "examples": [
+   "The injured animal lay helpless on the road.",
+   "He was helpless against the overwhelming force of the storm.",
+   "The bureaucracy made us feel utterly helpless and frustrated."
+  ],
+  "translations": [
+   "عاجز",
+   "لا حَوْلَ له"
+  ],
+  "relations": {
+   "synonyms": [
+    "powerless",
+    "defenseless",
+    "incapable",
+    "vulnerable"
+   ],
+   "antonyms": [
+    "powerful",
+    "strong",
+    "capable",
+    "independent"
+   ],
+   "collocations": [
+    "feel helpless",
+    "utterly helpless",
+    "helpless victim",
+    "helpless laughter"
+   ]
+  },
+  "mnemonic": "'Help' 'مساعدة' + '-less' 'بدون'.. يعني بدون مساعدة، مش قادر يساعد نفسه.",
+  "phonetic_us": "ˈhɛlplɪs",
+  "phonetic_uk": "ˈhelplɪs",
+  "syllables": "help•less",
+  "semantic_tags": [
+   "weakness",
+   "need",
+   "emotions",
+   "state"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Unable to defend oneself or to act without help.",
+  "explanation_ar": "عاجز ومش قادر يساعد نفسه أو يدافع عنها، ومحتاج حد يقف جنبه.",
+  "examples": [
+   "The injured animal lay helpless on the road.",
+   "He was helpless against the overwhelming force of the storm.",
+   "The bureaucracy made us feel utterly helpless and frustrated."
+  ],
+  "translations": {
+   "arabic_ar": "عاجز لا حَوْلَ له"
+  },
+  "synonyms": [
+   "powerless",
+   "defenseless",
+   "incapable",
+   "vulnerable"
+  ],
+  "antonyms": [
+   "powerful",
+   "strong",
+   "capable",
+   "independent"
+  ],
+  "collocations": [
+   "feel helpless",
+   "utterly helpless",
+   "helpless victim",
+   "helpless laughter"
+  ],
+  "mnemonic_ar": "'Help' 'مساعدة' + '-less' 'بدون'.. يعني بدون مساعدة، مش قادر يساعد نفسه."
+ }
+}

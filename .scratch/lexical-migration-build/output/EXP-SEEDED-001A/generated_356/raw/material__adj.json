@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "material",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "material",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to physical objects rather than the mind or spirit.",
+  "explanation_ar": "حاجة مادية ملموسة، مش معنوية أو روحية.",
+  "senses": [
+   {
+    "definition_en": "Relating to physical objects rather than the mind or spirit.",
+    "explanation_ar": "مرتبط بالأشياء المادية الملموسة وليس بالروح أو الفكر.",
+    "examples": [
+     "We live in a material world.",
+     "She is not interested in material possessions.",
+     "The storm caused significant material damage."
+    ]
+   }
+  ],
+  "examples": [
+   "We live in a material world.",
+   "She is not interested in material possessions.",
+   "The storm caused significant material damage."
+  ],
+  "translations": [
+   "مادي"
+  ],
+  "relations": {
+   "synonyms": [
+    "physical",
+    "corporeal",
+    "tangible"
+   ],
+   "antonyms": [
+    "spiritual",
+    "abstract",
+    "immaterial"
+   ],
+   "collocations": [
+    "material world",
+    "material goods",
+    "material evidence"
+   ]
+  },
+  "mnemonic": "قريبة من 'Matter' 'مادة'.. الـ 'Material' هو الشيء المادي.",
+  "phonetic_us": "məˈtɪr.i.əl",
+  "phonetic_uk": "məˈtɪə.ri.əl",
+  "syllables": "ma•te•ri•al",
+  "semantic_tags": [
+   "physical",
+   "tangible",
+   "economy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to physical objects rather than the mind or spirit.",
+  "explanation_ar": "حاجة مادية ملموسة، مش معنوية أو روحية.",
+  "examples": [
+   "We live in a material world.",
+   "She is not interested in material possessions.",
+   "The storm caused significant material damage."
+  ],
+  "translations": {
+   "arabic_ar": "مادي"
+  },
+  "synonyms": [
+   "physical",
+   "corporeal",
+   "tangible"
+  ],
+  "antonyms": [
+   "spiritual",
+   "abstract",
+   "immaterial"
+  ],
+  "collocations": [
+   "material world",
+   "material goods",
+   "material evidence"
+  ],
+  "mnemonic_ar": "قريبة من 'Matter' 'مادة'.. الـ 'Material' هو الشيء المادي."
+ }
+}

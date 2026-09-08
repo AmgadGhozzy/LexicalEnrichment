@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "web",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "web",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A network of fine threads made by a spider; the Internet.",
+  "explanation_ar": "شبكة خيوط بيعملها العنكبوت، أو شبكة الإنترنت اللي بتربط العالم ببعضه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A net of thin threads made by a spider to trap insects.",
+    "definition_ar": "شبكة العنكبوت",
+    "examples": [
+     "The spider made a web.",
+     "Flies get caught in the spider's web."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The World Wide Web or the Internet.",
+    "definition_ar": "شبكة الإنترنت (الويب)",
+    "examples": [
+     "You can find a lot of information on the web."
+    ]
+   }
+  ],
+  "examples": [
+   "The spider made a web.",
+   "Flies get caught in the spider's web.",
+   "You can find a lot of information on the web."
+  ],
+  "translations": [
+   "شبكة عنكبوت",
+   "الويب"
+  ],
+  "relations": {
+   "synonyms": [
+    "net",
+    "network",
+    "mesh"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spider web",
+    "world wide web",
+    "web page"
+   ]
+  },
+  "mnemonic": "شبكة العنكبوت أو الـ 'Web' سايت.",
+  "phonetic_us": "wɛb",
+  "phonetic_uk": "wɛb",
+  "syllables": [
+   "web"
+  ],
+  "semantic_tags": [
+   "#Internet",
+   "#Spider",
+   "#Network"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A network of fine threads made by a spider; the Internet.",
+  "explanation_ar": "شبكة خيوط بيعملها العنكبوت، أو شبكة الإنترنت اللي بتربط العالم ببعضه.",
+  "examples": [
+   "The spider made a web.",
+   "Flies get caught in the spider's web.",
+   "You can find a lot of information on the web."
+  ],
+  "translations": {
+   "arabic_ar": "شبكة عنكبوت الويب"
+  },
+  "synonyms": [
+   "net",
+   "network",
+   "mesh"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spider web",
+   "world wide web",
+   "web page"
+  ],
+  "mnemonic_ar": "شبكة العنكبوت أو الـ 'Web' سايت."
+ }
+}

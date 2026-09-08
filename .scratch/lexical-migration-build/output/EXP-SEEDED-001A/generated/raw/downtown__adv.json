@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "downtown",
+  "pos": "adv"
+ },
+ "candidate": {
+  "lemma": "downtown",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "To or in the main business or commercial area of a town or city.",
+  "explanation_ar": "في أو إلى وسط البلد، أي في أو نحو المنطقة التجارية والمركزية للمدينة.",
+  "senses": [
+   {
+    "definition_en": "To or in the main business or commercial area of a town or city.",
+    "explanation_ar": "في أو إلى وسط البلد، أي في أو نحو المنطقة التجارية والمركزية للمدينة.",
+    "examples": [
+     "She lives downtown.",
+     "He works downtown but lives in the suburbs.",
+     "We drove downtown to see the parade."
+    ]
+   }
+  ],
+  "examples": [
+   "She lives downtown.",
+   "He works downtown but lives in the suburbs.",
+   "We drove downtown to see the parade."
+  ],
+  "translations": [
+   "في وسط البلد",
+   "إلى وسط البلد"
+  ],
+  "relations": {
+   "synonyms": [
+    "to the city center",
+    "centrally"
+   ],
+   "antonyms": [
+    "uptown"
+   ],
+   "collocations": [
+    "go downtown",
+    "live downtown",
+    "head downtown",
+    "drive downtown"
+   ]
+  },
+  "mnemonic": "لما تقول 'I am going downtown' كأنك بتقول أنا نازل 'Down' لقلب الـ 'Town'.",
+  "phonetic_us": "ˈdaʊnˌtaʊn",
+  "phonetic_uk": "ˌdaʊnˈtaʊn",
+  "syllables": "down•town",
+  "semantic_tags": [
+   "#Direction",
+   "#City",
+   "#Travel"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To or in the main business or commercial area of a town or city.",
+  "explanation_ar": "في أو إلى وسط البلد، أي في أو نحو المنطقة التجارية والمركزية للمدينة.",
+  "examples": [
+   "She lives downtown.",
+   "He works downtown but lives in the suburbs.",
+   "We drove downtown to see the parade."
+  ],
+  "translations": {
+   "arabic_ar": "في وسط البلد إلى وسط البلد"
+  },
+  "synonyms": [
+   "to the city center",
+   "centrally"
+  ],
+  "antonyms": [
+   "uptown"
+  ],
+  "collocations": [
+   "go downtown",
+   "live downtown",
+   "head downtown",
+   "drive downtown"
+  ],
+  "mnemonic_ar": "لما تقول 'I am going downtown' كأنك بتقول أنا نازل 'Down' لقلب الـ 'Town'."
+ }
+}

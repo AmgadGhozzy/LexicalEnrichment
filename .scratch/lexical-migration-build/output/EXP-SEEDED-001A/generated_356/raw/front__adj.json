@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "front",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "front",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Located at or near the most forward part of something.",
+  "explanation_ar": "حاجة موجودة قدام، زي الباب الأمامي أو الكرسي الأمامي.",
+  "senses": [
+   {
+    "sense_id": "front-adj-1",
+    "definition_en": "Located at or near the most forward part of something.",
+    "definition_ar": "أمامي؛ يقع في المقدمة أو في الجزء الأمامي من شيء ما.",
+    "examples": [
+     "Open the front door.",
+     "I want the front seat.",
+     "The front page of the newspaper covers the story."
+    ]
+   }
+  ],
+  "examples": [
+   "Open the front door.",
+   "I want the front seat.",
+   "The front page of the newspaper covers the story."
+  ],
+  "translations": [
+   "أمامي"
+  ],
+  "relations": {
+   "synonyms": [
+    "forward",
+    "foremost",
+    "leading"
+   ],
+   "antonyms": [
+    "back",
+    "rear"
+   ],
+   "collocations": [
+    "front door",
+    "front seat",
+    "front page",
+    "front row",
+    "front yard"
+   ]
+  },
+  "mnemonic": "اربط front بكلمة forward (للأمام)؛ الاثنان يبدآن بـ fr- ويدلان على كل ما هو أمامي.",
+  "phonetic_us": "frʌnt",
+  "phonetic_uk": "frʌnt",
+  "syllables": "front",
+  "semantic_tags": [
+   "Location",
+   "Direction",
+   "Position"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Located at or near the most forward part of something.",
+  "explanation_ar": "حاجة موجودة قدام، زي الباب الأمامي أو الكرسي الأمامي.",
+  "examples": [
+   "Open the front door.",
+   "I want the front seat.",
+   "The front page of the newspaper covers the story."
+  ],
+  "translations": {
+   "arabic_ar": "أمامي"
+  },
+  "synonyms": [
+   "forward",
+   "foremost",
+   "leading"
+  ],
+  "antonyms": [
+   "back",
+   "rear"
+  ],
+  "collocations": [
+   "front door",
+   "front seat",
+   "front page",
+   "front row",
+   "front yard"
+  ],
+  "mnemonic_ar": "اربط front بكلمة forward (للأمام)؛ الاثنان يبدآن بـ fr- ويدلان على كل ما هو أمامي."
+ }
+}

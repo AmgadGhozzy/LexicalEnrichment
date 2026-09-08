@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "resume",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "resume",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To begin to do or pursue something again after a pause or interruption.",
+  "explanation_ar": "يستأنف أو يكمل حاجة بعد ما وقف شوية. زي لما تكمل الفيلم بعد الفاصل.",
+  "senses": [
+   {
+    "definition_en": "To begin to do or pursue something again after a pause or interruption.",
+    "definition_ar": "يستأنف أو يواصل بعد توقف مؤقت",
+    "examples": [
+     "We will resume the discussion after a brief break.",
+     "The talks are scheduled to resume tomorrow morning.",
+     "Both sides agreed to resume diplomatic relations next month."
+    ]
+   }
+  ],
+  "examples": [
+   "We will resume the discussion after a brief break.",
+   "The talks are scheduled to resume tomorrow morning.",
+   "Both sides agreed to resume diplomatic relations next month."
+  ],
+  "translations": [
+   "يستأنف"
+  ],
+  "relations": {
+   "synonyms": [
+    "restart",
+    "continue",
+    "proceed"
+   ],
+   "antonyms": [
+    "stop",
+    "pause",
+    "suspend"
+   ],
+   "collocations": [
+    "resume negotiations",
+    "resume work",
+    "resume play"
+   ]
+  },
+  "mnemonic": "زي 'Zoom'.. ارجع اعمل 'Zoom' وكمل شغل 'Resume'.",
+  "phonetic_us": "rɪˈzum",
+  "phonetic_uk": "rɪˈzjuːm",
+  "syllables": "re•sume",
+  "semantic_tags": [
+   "#Time",
+   "#Continue",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To begin to do or pursue something again after a pause or interruption.",
+  "explanation_ar": "يستأنف أو يكمل حاجة بعد ما وقف شوية. زي لما تكمل الفيلم بعد الفاصل.",
+  "examples": [
+   "We will resume the discussion after a brief break.",
+   "The talks are scheduled to resume tomorrow morning.",
+   "Both sides agreed to resume diplomatic relations next month."
+  ],
+  "translations": {
+   "arabic_ar": "يستأنف"
+  },
+  "synonyms": [
+   "restart",
+   "continue",
+   "proceed"
+  ],
+  "antonyms": [
+   "stop",
+   "pause",
+   "suspend"
+  ],
+  "collocations": [
+   "resume negotiations",
+   "resume work",
+   "resume play"
+  ],
+  "mnemonic_ar": "زي 'Zoom'.. ارجع اعمل 'Zoom' وكمل شغل 'Resume'."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "disturbance",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "disturbance",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Something that interrupts someone or makes them feel worried; a noisy commotion.",
+  "explanation_ar": "أي حاجة بتعمل دوشة أو قلق وبتقطع الهدوء، زي صوت عالي أو مشكلة حصلت.",
+  "senses": [
+   {
+    "definition_en": "An interruption of a peaceful, calm, or regular state.",
+    "definition_ar": "إزعاج أو قطع لحالة من الهدوء والاستقرار."
+   },
+   {
+    "definition_en": "A noisy or violent outbreak in a public place; a commotion or disorder.",
+    "definition_ar": "شغب أو شجار واضطراب صاخب في مكان عام."
+   }
+  ],
+  "examples": [
+   "Sorry for the disturbance.",
+   "The loud music caused a disturbance at night.",
+   "He was arrested for causing a public disturbance."
+  ],
+  "translations": [
+   "إِزْعَاج",
+   "اضْطِرَاب",
+   "شَغَب"
+  ],
+  "relations": {
+   "synonyms": [
+    "interruption",
+    "commotion",
+    "disorder",
+    "trouble"
+   ],
+   "antonyms": [
+    "peace",
+    "calm",
+    "order"
+   ],
+   "collocations": [
+    "cause a disturbance",
+    "public disturbance",
+    "emotional disturbance",
+    "atmospheric disturbance"
+   ]
+  },
+  "mnemonic": "'Disturb' يزعج.. الـ 'Disturbance' هو الدوشة والإزعاج اللي بيحصل.",
+  "phonetic_us": "dɪˈstɜrbəns",
+  "phonetic_uk": "dɪˈstɜːbəns",
+  "syllables": "dis•tur•bance",
+  "semantic_tags": [
+   "#Noise",
+   "#Problem",
+   "#Chaos",
+   "#Interruption"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Something that interrupts someone or makes them feel worried; a noisy commotion.",
+  "explanation_ar": "أي حاجة بتعمل دوشة أو قلق وبتقطع الهدوء، زي صوت عالي أو مشكلة حصلت.",
+  "examples": [
+   "Sorry for the disturbance.",
+   "The loud music caused a disturbance at night.",
+   "He was arrested for causing a public disturbance."
+  ],
+  "translations": {
+   "arabic_ar": "إِزْعَاج اضْطِرَاب شَغَب"
+  },
+  "synonyms": [
+   "interruption",
+   "commotion",
+   "disorder",
+   "trouble"
+  ],
+  "antonyms": [
+   "peace",
+   "calm",
+   "order"
+  ],
+  "collocations": [
+   "cause a disturbance",
+   "public disturbance",
+   "emotional disturbance",
+   "atmospheric disturbance"
+  ],
+  "mnemonic_ar": "'Disturb' يزعج.. الـ 'Disturbance' هو الدوشة والإزعاج اللي بيحصل."
+ }
+}

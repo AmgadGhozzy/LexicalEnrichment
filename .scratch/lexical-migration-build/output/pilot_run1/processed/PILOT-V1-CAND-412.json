@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-412",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-412",
+  "lemma": "line-up",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 412,
+  "lemma": "line-up",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.85,
+  "phonetic_us": "laɪn ʌp",
+  "phonetic_uk": null,
+  "phonetic_ar": "لايْن أَبْ",
+  "definition_en": "To arrange people or things into a row, or to stand in a row.",
+  "explanation_ar": "الاصطفاف في طابور أو تنظيم الأشخاص والأشياء في صف منتظم أو الترتيب المسبق لحدث معين.",
+  "examples": [
+   {
+    "example_text": "The organizers will line-up the participants before the parade begins.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "We need to line-up several experts to speak at next month's international conference.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Security guards asked the passengers to line-up quietly along the corridor.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تخيل كلمة \"line\" بمعنى خط وكلمة \"up\" للاكتمال، كأنك تأمر الجميع بالوقوف على خط مستقيم واحد",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To form a row or place people or objects in a straight row.",
+    "short_def_en": "form or put into a row",
+    "definition_ar": "يقف في صف أو يرتب أشخاصا أو أشياء في صف منتظم",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "order",
+     "arrangement",
+     "positioning"
+    ],
+    "usage_note": "Often written as two separate words 'line up' in standard verbal usage, but hyphenated in some style variants.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To secure, schedule, or arrange people or events in advance.",
+    "short_def_en": "arrange or schedule in advance",
+    "definition_ar": "يرتب أو ينسق مع متحدثين أو فنانين لفعالية قادمة",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "planning",
+     "organization",
+     "scheduling"
+    ],
+    "usage_note": "Common in business, entertainment, and event planning contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "line-up speakers",
+   "line-up support",
+   "line-up sponsors",
+   "line-up candidates"
+  ],
+  "synonyms": [
+   "align",
+   "queue",
+   "arrange",
+   "organize",
+   "schedule"
+  ],
+  "antonyms": [
+   "disperse",
+   "scatter",
+   "disorganize"
+  ],
+  "related_words": {
+   "en": [
+    "row",
+    "queue",
+    "roster",
+    "formation"
+   ],
+   "ar": [
+    "صف",
+    "طابور",
+    "قائمة",
+    "تشكيل"
+   ]
+  },
+  "word_family": {
+   "noun": "line-up",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يصطف / يرتب في صف / ينسق",
+   "french_fr": "aligner",
+   "german_de": "aufstellen",
+   "spanish_es": "alinear",
+   "chinese_zh": "排队 (Páiduì)",
+   "russian_ru": "выстраивать",
+   "portuguese_pt": "alinhar",
+   "japanese_ja": "並べる (Naraberu)",
+   "italian_it": "allineare",
+   "turkish_tr": "sıraya dizmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "68c58cb153e3aa9055614810c2c7f59e6eee36992c3b8cbdfbc5076918153959",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "aeroplane",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "aeroplane",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A powered flying vehicle with fixed wings and engines that carries passengers or goods through the air.",
+  "explanation_ar": "وسيلة المواصلات اللي بتطير في الجو وبتنقل الناس لبلاد بعيدة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "noun",
+    "definition_en": "A powered flying vehicle with fixed wings and engines that carries passengers or goods through the air.",
+    "explanation_ar": "وسيلة المواصلات اللي بتطير في الجو وبتنقل الناس لبلاد بعيدة.",
+    "translations": [
+     "طائرة"
+    ],
+    "examples": [
+     "We traveled by aeroplane.",
+     "The aeroplane took off on time.",
+     "The invention of the aeroplane changed the world."
+    ]
+   }
+  ],
+  "examples": [
+   "We traveled by aeroplane.",
+   "The aeroplane took off on time.",
+   "The invention of the aeroplane changed the world."
+  ],
+  "translations": [
+   "طائرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "airplane",
+    "plane",
+    "aircraft"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fly an aeroplane",
+    "board an aeroplane",
+    "model aeroplane"
+   ]
+  },
+  "mnemonic": "مقطع 'Aero' يعني 'جو' و 'Plane' طيارة.. الـ 'Aeroplane' هي الطيارة اللي بتطير في الجو.",
+  "phonetic_us": "ˈerəˌpleɪn",
+  "phonetic_uk": "ˈeərəpleɪn",
+  "syllables": "aero•plane",
+  "semantic_tags": [
+   "#Aviation",
+   "#Transport",
+   "#Travel"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A powered flying vehicle with fixed wings and engines that carries passengers or goods through the air.",
+  "explanation_ar": "وسيلة المواصلات اللي بتطير في الجو وبتنقل الناس لبلاد بعيدة.",
+  "examples": [
+   "We traveled by aeroplane.",
+   "The aeroplane took off on time.",
+   "The invention of the aeroplane changed the world."
+  ],
+  "translations": {
+   "arabic_ar": "طائرة"
+  },
+  "synonyms": [
+   "airplane",
+   "plane",
+   "aircraft"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fly an aeroplane",
+   "board an aeroplane",
+   "model aeroplane"
+  ],
+  "mnemonic_ar": "مقطع 'Aero' يعني 'جو' و 'Plane' طيارة.. الـ 'Aeroplane' هي الطيارة اللي بتطير في الجو."
+ }
+}

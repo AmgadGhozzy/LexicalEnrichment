@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5137",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5137",
+  "lemma": "fare",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5137,
+  "lemma": "fare",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "fɛr",
+  "phonetic_uk": "feə",
+  "phonetic_ar": "فِير",
+  "definition_en": "The money a passenger pays to travel on public transport such as a bus, train, or taxi.",
+  "explanation_ar": "المبلغ المالي أو الأجرة التي يدفعها الراكب للتنقل بوسائل المواصلات كالحافلة أو القطار أو سيارة الأجرة.",
+  "examples": [
+   {
+    "example_text": "Bus fare has increased twice already this year.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He did not have enough cash to pay the taxi fare home.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Airlines often reduce the standard fare during the winter months.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة fare تشبه كلمة fair العادل فتخيل انك تدفع سعر عادل كاجرة ركوب",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The price of a journey on a bus, train, plane, or taxi.",
+    "short_def_en": "transport ticket price",
+    "definition_ar": "اجرة المواصلات او تذكرة السفر بالقطار او الحافلة او الطائرة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "transport",
+     "travel",
+     "money",
+     "public transit"
+    ],
+    "usage_note": "Typically refers to the monetary charge for transport, distinct from 'fee' for services.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Food and drink of a particular type offered in a place or on an occasion.",
+    "short_def_en": "range of food",
+    "definition_ar": "نوع الطعام او الماكولات المقدمة في مطعم او مناسبة",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "food",
+     "dining",
+     "culture"
+    ],
+    "usage_note": "Often used in writing to describe typical meals, such as 'traditional fare'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bus fare",
+   "train fare",
+   "taxi fare",
+   "air fare",
+   "pay the fare"
+  ],
+  "synonyms": [
+   "ticket price",
+   "transport charge"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "ticket",
+    "commute",
+    "passenger",
+    "journey",
+    "transport"
+   ],
+   "ar": [
+    "تذكرة",
+    "تنقل يومي",
+    "راكب",
+    "رحلة",
+    "مواصلات"
+   ]
+  },
+  "word_family": {
+   "noun": "fare",
+   "verb": "fare",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "أجرة المواصلات / طعام",
+   "french_fr": "prix du billet",
+   "german_de": "Fahrpreis",
+   "spanish_es": "tarifa",
+   "chinese_zh": "车费 (chē fèi)",
+   "russian_ru": "плата за проезд",
+   "portuguese_pt": "tarifa",
+   "japanese_ja": "運賃 (Unchin)",
+   "italian_it": "tariffa",
+   "turkish_tr": "bilet ücreti"
+  }
+ },
+ "provenance": {
+  "output_hash": "d5b0c778315f39442bfb0b9ddfdd6df07897d105d0c3ea8edced20e548e990c8",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

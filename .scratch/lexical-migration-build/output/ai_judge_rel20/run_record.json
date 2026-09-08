@@ -1,0 +1,23 @@
+{
+ "run_ids": [
+  "AI-REL-20A",
+  "AI-REL-20B"
+ ],
+ "rubric": "ai-rubric-v3",
+ "rubric_hash": "0f7753e5a261",
+ "model": "gemini-3.8-flash",
+ "temperature": 0.0,
+ "thinking": "low",
+ "note": "temp minimizes variance only; reproducibility via hashes+records",
+ "items": 20,
+ "monitor_ids": [
+  "EVAL-BLIND-V1-0006",
+  "EVAL-BLIND-V1-0014",
+  "EVAL-BLIND-V1-0019",
+  "EVAL-BLIND-V1-0020"
+ ],
+ "monitor_seed": 200407,
+ "terminal_A": [],
+ "terminal_B": [],
+ "transport": "2 transient 429 RESOURCE_EXHAUSTED during execution; recovered via checkpoint resume; runner raises (not JudgeError) on transport failure \u2014 noted, no code change mid-pilot"
+}

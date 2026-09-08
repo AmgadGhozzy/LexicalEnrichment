@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5542",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5542",
+  "lemma": "elbow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5542,
+  "lemma": "elbow",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "3",
+  "category": "Health & Senses",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈɛlboʊ",
+  "phonetic_uk": "ˈelbəʊ",
+  "phonetic_ar": "إِلْبُو",
+  "definition_en": "The joint connecting the upper and lower parts of the human arm.",
+  "explanation_ar": "المفصل الذي يربط بين الجزء العلوي والسفلي من ذراع الإنسان ويسمح بثنيها، والمعروف بالكوع أو المرفق.",
+  "examples": [
+   {
+    "example_text": "He rested his elbow on the table while listening to the lecture.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She suffered a painful injury to her right elbow during the tennis match.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The plumber replaced a curved pipe elbow under the kitchen sink.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تثني ذراعك لترسم زاوية تشبه حرف L فتربط بين صوت \"el\" وشكل اليد عند مفصل المرفق",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The joint between the upper and lower parts of the human arm.",
+    "short_def_en": "arm joint",
+    "definition_ar": "مفصل الذراع الذي يربط بين العضد والساعد، وهو المرفق أو الكوع.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "Anatomy",
+     "Body Parts",
+     "Health"
+    ],
+    "usage_note": "In standard Arabic this is called مرفق, though commonly referred to as كوع in dialects.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A pipe fitting or structural part bent at a sharp angle.",
+    "short_def_en": "angled pipe fitting",
+    "definition_ar": "وصلة انابيب منحنية بزاوية حادة تشبه انحناءة المرفق.",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "Plumbing",
+     "Hardware",
+     "Construction"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "tennis elbow",
+   "elbow grease",
+   "elbow room",
+   "fractured elbow",
+   "sharp elbow"
+  ],
+  "synonyms": [
+   "cubitus"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "arm",
+    "joint",
+    "forearm",
+    "wrist",
+    "shoulder",
+    "knee"
+   ],
+   "ar": [
+    "ذراع",
+    "مفصل",
+    "ساعد",
+    "معصم",
+    "كتف",
+    "ركبة"
+   ]
+  },
+  "word_family": {
+   "noun": "elbow",
+   "verb": "elbow",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مِرْفَق / كُوع",
+   "french_fr": "coude",
+   "german_de": "Ellbogen",
+   "spanish_es": "codo",
+   "chinese_zh": "肘 (Zhǒu)",
+   "russian_ru": "локоть",
+   "portuguese_pt": "cotovelo",
+   "japanese_ja": "肘 (Hiji)",
+   "italian_it": "gomito",
+   "turkish_tr": "dirsek"
+  }
+ },
+ "provenance": {
+  "output_hash": "17f86c89756fa2d6bd19b76635c70f0c9354dfc74058702d3734eb9e6a0b65ac",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

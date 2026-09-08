@@ -1,0 +1,71 @@
+{
+ "run": "EXP-SEEDED-001A-356 (generated_356)",
+ "authorization": "Pilot-60 Gate PASSED conditional; two-phase Batch orchestration approved",
+ "channels": {
+  "online_31": 31,
+  "batch_generation": 325,
+  "batch_decision": 317
+ },
+ "totals": {
+  "snapshot": 356,
+  "progress_items": 356,
+  "raw_files": 356,
+  "provenance_lines": 673
+ },
+ "gate_A": {
+  "mapped": 325,
+  "artifact_pass": 317,
+  "fail": 8
+ },
+ "gate_A_failures": {
+  "syllables": 5,
+  "examples_contain_target": 2,
+  "online_fourth_adj": 1
+ },
+ "batch_B": {
+  "submitted": 317,
+  "imported": 317,
+  "decisions_ok": 317
+ },
+ "jobs": {
+  "A": "projects/491799276439/locations/global/batchPredictionJobs/4605383755215929344",
+  "B": "projects/491799276439/locations/global/batchPredictionJobs/6441726503276249088"
+ },
+ "hashes": {
+  "requests_a_input": "c72019e262d20ade586dc21c452a116d632c81518a2be5b34ea256e02a6eb831",
+  "requests_b_input": "23f7e33117e97e12bdd90814eee0f8d83692b094bb86bcd258f249041ed5001b"
+ },
+ "watch_flags": [
+  [
+   "this",
+   "det",
+   "synonyms",
+   "unjustified_nullification"
+  ],
+  [
+   "fish",
+   "noun",
+   "synonyms",
+   "unjustified_nullification"
+  ],
+  [
+   "billion",
+   "num",
+   "collocations",
+   "unjustified_change"
+  ],
+  [
+   "billion",
+   "num",
+   "definition_en",
+   "unjustified_change"
+  ],
+  [
+   "billion",
+   "num",
+   "explanation_ar",
+   "unjustified_change"
+  ]
+ ],
+ "canonical_writes": 0
+}

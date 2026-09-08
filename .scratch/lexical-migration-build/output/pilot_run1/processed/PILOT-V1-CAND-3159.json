@@ -1,0 +1,114 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3159",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3159",
+  "lemma": "merely",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3159,
+  "lemma": "merely",
+  "pos": "adv",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈmɪrli",
+  "phonetic_uk": "ˈmɪəli",
+  "phonetic_ar": "مِيرلِي",
+  "definition_en": "Only as specified and nothing more; just or simply.",
+  "explanation_ar": "تُستخدم للتأكيد على أن شيئاً ما بسيط أو محدود ولا يتعدى ما ذُكر، بمعنى 'فقط' أو 'مجرد'.",
+  "examples": [
+   {
+    "example_text": "He was merely asking for clarification, not criticizing your idea.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The error was merely a typo and did not affect the results.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She claimed she was merely doing her duty as an independent observer.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر أن كلمة \"merely\" تبدأ مثل \"mere\" التي تعني مجرد؛ اربط نطقها بكلمة \"مُرّ\" وتخيل شخصا يقول: الأمر ليس خطيرا أو مرا، إنه \"merely\" مجرد سوء تفاهم بسيط.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Used to emphasize that something is only what you say and not anything more important.",
+    "short_def_en": "only or simply",
+    "definition_ar": "يستخدم للتاكيد على ان الامر مقتصر على ما قيل دون زيادة او تهويل",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "emphasis",
+     "qualification",
+     "limitation"
+    ],
+    "usage_note": "More formal than 'just' or 'simply', frequently used to downplay importance or refute an exaggerated assumption.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "not merely",
+   "merely because",
+   "merely an illusion",
+   "merely a formality",
+   "merely suggest"
+  ],
+  "synonyms": [
+   "only",
+   "just",
+   "simply",
+   "purely",
+   "solely"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "barely",
+    "hardly",
+    "minimally"
+   ],
+   "ar": [
+    "بالكاد",
+    "بصعوبة",
+    "بالحد الأدنى"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "mere",
+   "adv": "merely"
+  },
+  "translations": {
+   "arabic_ar": "فقط / مجرد",
+   "french_fr": "simplement",
+   "german_de": "lediglich",
+   "spanish_es": "simplemente",
+   "chinese_zh": "仅仅 (jǐnjǐn)",
+   "russian_ru": "только",
+   "portuguese_pt": "meramente",
+   "japanese_ja": "単に (Tan ni)",
+   "italian_it": "semplicemente",
+   "turkish_tr": "sadece"
+  }
+ },
+ "provenance": {
+  "output_hash": "6a3edc733e139e1cfcb54273ac9e4e5123c62c53af424278595cd0e0ab3e4b3b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

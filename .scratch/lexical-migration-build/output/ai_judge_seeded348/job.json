@@ -1,0 +1,17 @@
+{
+ "eval_id": "eval_seeded348_v1",
+ "job_id": "projects/491799276439/locations/global/batchPredictionJobs/5913327603246170112",
+ "input_gcs": "gs://lexical-enrichment/seeded356/judge348/input_judge/requests.jsonl",
+ "output_gcs": "gs://lexical-enrichment/seeded356/judge348/output_judge",
+ "input_hash": "859398efff05efde5e2838d7d372f9493fd92b86d9b7b3b25b79b2072bd8aed9",
+ "rubric": "ai-rubric-v3",
+ "rubric_sha256": "0f7753e5a26154ec2baace1c80bb5e1c5dbf05aab654ebe6958266fb447c45a7",
+ "model": "gemini-3.8-flash",
+ "temperature": 0.0,
+ "thinking_mode": "low",
+ "max_output_tokens": 4000,
+ "n_items": 348,
+ "created_at": "2026-09-08T10:08:55.852988+00:00",
+ "status": "imported",
+ "imported_at": "2026-09-08T10:17:28.813755+00:00"
+}

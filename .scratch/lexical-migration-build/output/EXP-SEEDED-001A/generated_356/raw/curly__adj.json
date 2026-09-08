@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "curly",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "curly",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Having curves or coils; not straight (usually hair).",
+  "explanation_ar": "صفة للشعر اللي مش ناعم ومفرود، بيبقى ملفوف على بعضه.",
+  "senses": [
+   {
+    "sense_id": "curly-adj-1",
+    "definition_en": "Having curves or coils; not straight (usually hair).",
+    "definition_ar": "صفة للشعر أو الأشياء ذات التموجات واللفات وليس مفروداً.",
+    "examples": [
+     "She has curly hair.",
+     "My dog has a curly tail.",
+     "I wish my hair was curly instead of straight."
+    ]
+   }
+  ],
+  "examples": [
+   "She has curly hair.",
+   "My dog has a curly tail.",
+   "I wish my hair was curly instead of straight."
+  ],
+  "translations": [
+   "مجعد"
+  ],
+  "relations": {
+   "synonyms": [
+    "wavy"
+   ],
+   "antonyms": [
+    "straight"
+   ],
+   "collocations": [
+    "curly hair",
+    "curly fries",
+    "curly kale"
+   ]
+  },
+  "mnemonic": "زي الـ 'Curve' منحنى.. الشعر الـ 'Curly' مليان منحنيات ولفات",
+  "phonetic_us": "ˈkɜːrli",
+  "phonetic_uk": "ˈkɜːli",
+  "syllables": [
+   "cur",
+   "ly"
+  ],
+  "semantic_tags": [
+   "appearance",
+   "hair",
+   "shape"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having curves or coils; not straight (usually hair).",
+  "explanation_ar": "صفة للشعر اللي مش ناعم ومفرود، بيبقى ملفوف على بعضه.",
+  "examples": [
+   "She has curly hair.",
+   "My dog has a curly tail.",
+   "I wish my hair was curly instead of straight."
+  ],
+  "translations": {
+   "arabic_ar": "مجعد"
+  },
+  "synonyms": [
+   "wavy"
+  ],
+  "antonyms": [
+   "straight"
+  ],
+  "collocations": [
+   "curly hair",
+   "curly fries",
+   "curly kale"
+  ],
+  "mnemonic_ar": "زي الـ 'Curve' منحنى.. الشعر الـ 'Curly' مليان منحنيات ولفات"
+ }
+}

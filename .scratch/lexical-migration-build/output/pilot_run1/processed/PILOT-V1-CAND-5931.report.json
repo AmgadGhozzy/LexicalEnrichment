@@ -1,0 +1,26 @@
+{
+ "key": "PILOT-V1-CAND-5931",
+ "manifest_id": "pilot_manifest_v1",
+ "run_id": "RUN-BATCH-1",
+ "status": "ok",
+ "failure_class": null,
+ "provenance_line": 155,
+ "validator": {
+  "checks": {
+   "artifact_structure": "pass",
+   "runtime_status": "pass",
+   "output_hash": "pass",
+   "schema": "pass",
+   "required_fields": "pass",
+   "example_count": "pass",
+   "target_word": "pass",
+   "mnemonic": "pass",
+   "circular_definition": "pass",
+   "pos_alignment": "unverified"
+  },
+  "failures": [],
+  "flags": []
+ },
+ "guard_defects": {},
+ "validated_at": "2026-09-06T14:58:00.445690+00:00"
+}

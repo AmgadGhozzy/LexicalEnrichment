@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "unveil",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "unveil",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To remove a covering from; to make known or reveal for the first time.",
+  "explanation_ar": "يكشف الستار عن حاجة.. يعني يعلن عن منتج جديد أو خطة لأول مرة، أو يشيل الغطا من على تمثال.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To remove a covering from something, especially as part of a formal ceremony.",
+    "definition_ar": "يزيح الستار عن شيء (مثل نصب أو تمثال) لأول مرة في مناسبة رسمية.",
+    "pos": "verb"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To introduce or announce a new plan, policy, or product to the public for the first time.",
+    "definition_ar": "يكشف عن أو يعلن رسمياً عن خطة أو منتج جديد للجمهور لأول مرة.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "They will unveil the statue during tomorrow's official ceremony.",
+   "The company plans to unveil its latest smartphone at the annual conference.",
+   "The government is expected to unveil a comprehensive reform package next week."
+  ],
+  "translations": [
+   "يكشف النقاب عن",
+   "يزيح الستار عن",
+   "يعلن لأول مرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "reveal",
+    "disclose",
+    "expose",
+    "present",
+    "launch"
+   ],
+   "antonyms": [
+    "hide",
+    "conceal",
+    "cover",
+    "veil"
+   ],
+   "collocations": [
+    "unveil a plan",
+    "unveil a statue",
+    "unveil a product",
+    "officially unveil",
+    "unveil the truth"
+   ]
+  },
+  "mnemonic": "عكس 'Veil' 'حجاب/ستار'.. الـ 'Unveil' إنك تشيل الستار وتكشف المستور.",
+  "phonetic_us": "ʌnˈveɪl",
+  "phonetic_uk": "ʌnˈveɪl",
+  "syllables": "un•veil",
+  "semantic_tags": [
+   "#Reveal",
+   "#News",
+   "#Launch",
+   "#Secret"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To remove a covering from; to make known or reveal for the first time.",
+  "explanation_ar": "يكشف الستار عن حاجة.. يعني يعلن عن منتج جديد أو خطة لأول مرة، أو يشيل الغطا من على تمثال.",
+  "examples": [
+   "They will unveil the statue during tomorrow's official ceremony.",
+   "The company plans to unveil its latest smartphone at the annual conference.",
+   "The government is expected to unveil a comprehensive reform package next week."
+  ],
+  "translations": {
+   "arabic_ar": "يكشف النقاب عن يزيح الستار عن يعلن لأول مرة"
+  },
+  "synonyms": [
+   "reveal",
+   "disclose",
+   "expose",
+   "present",
+   "launch"
+  ],
+  "antonyms": [
+   "hide",
+   "conceal",
+   "cover",
+   "veil"
+  ],
+  "collocations": [
+   "unveil a plan",
+   "unveil a statue",
+   "unveil a product",
+   "officially unveil",
+   "unveil the truth"
+  ],
+  "mnemonic_ar": "عكس 'Veil' 'حجاب/ستار'.. الـ 'Unveil' إنك تشيل الستار وتكشف المستور."
+ }
+}

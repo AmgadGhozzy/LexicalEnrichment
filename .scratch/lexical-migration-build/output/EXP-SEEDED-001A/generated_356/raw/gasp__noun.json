@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "gasp",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "gasp",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A sudden, short intake of breath, as in shock or surprise.",
+  "explanation_ar": "الشهقة اللي بتطلع منك فجأة لما تتخض أو تتفاجأ بحاجة.",
+  "senses": [
+   {
+    "definition_en": "A sudden, short intake of breath, as in shock or surprise.",
+    "definition_ar": "شهقة أو سحب مفاجئ وسريع للنفس عند الشعور بصدمة أو مفاجأة.",
+    "examples": [
+     "He let out a gasp of surprise.",
+     "There was a collective gasp from the audience.",
+     "She took a sharp gasp of air."
+    ]
+   }
+  ],
+  "examples": [
+   "He let out a gasp of surprise.",
+   "There was a collective gasp from the audience.",
+   "She took a sharp gasp of air."
+  ],
+  "translations": [
+   "شهقة"
+  ],
+  "relations": {
+   "synonyms": [
+    "pant",
+    "puff",
+    "breath"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "last gasp",
+    "sharp gasp",
+    "gasp of horror",
+    "audible gasp"
+   ]
+  },
+  "mnemonic": "افتكر 'Gas' 'غاز'.. لما تشم ريحة غاز قوية بتعمل 'Gasp' وتكتم نفسك.",
+  "phonetic_us": "ɡæsp",
+  "phonetic_uk": "ɡɑːsp",
+  "syllables": [
+   "gasp"
+  ],
+  "semantic_tags": [
+   "#Breath",
+   "#Surprise",
+   "#Shock",
+   "#Sound"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A sudden, short intake of breath, as in shock or surprise.",
+  "explanation_ar": "الشهقة اللي بتطلع منك فجأة لما تتخض أو تتفاجأ بحاجة.",
+  "examples": [
+   "He let out a gasp of surprise.",
+   "There was a collective gasp from the audience.",
+   "She took a sharp gasp of air."
+  ],
+  "translations": {
+   "arabic_ar": "شهقة"
+  },
+  "synonyms": [
+   "pant",
+   "puff",
+   "breath"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "last gasp",
+   "sharp gasp",
+   "gasp of horror",
+   "audible gasp"
+  ],
+  "mnemonic_ar": "افتكر 'Gas' 'غاز'.. لما تشم ريحة غاز قوية بتعمل 'Gasp' وتكتم نفسك."
+ }
+}

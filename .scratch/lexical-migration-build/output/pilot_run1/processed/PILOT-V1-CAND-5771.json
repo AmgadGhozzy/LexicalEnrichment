@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5771",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5771",
+  "lemma": "hierarchy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5771,
+  "lemma": "hierarchy",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "7",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈhaɪərɑːrki",
+  "phonetic_uk": "ˈhaɪərɑːki",
+  "phonetic_ar": "هَايْرَارْكِي",
+  "definition_en": "A system in which people or things are arranged in levels of importance or power.",
+  "explanation_ar": "نظام ترتيب متسلسل يتم فيه تصنيف الأشخاص أو الأشياء إلى درجات ومستويات حسب الأهمية أو السلطة، من الأعلى إلى الأسفل.",
+  "examples": [
+   {
+    "example_text": "She slowly worked her way up through the corporate hierarchy to become director.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The military relies on a rigid hierarchy to maintain order and discipline.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "There is a clear hierarchy among the birds feeding in the garden.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"hierarchy\" تنتهي بالمقطع archy مثل monarchy الملكية التي تعني الحكم والنظام، وبدايتها تشبه higher اي الاعلى، فتخيل نظاما مبنيا من الاعلى الى الاسفل.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A system organizing people or things into successive ranks or grades of importance.",
+    "short_def_en": "ranked order of authority",
+    "definition_ar": "هرمية او تدرج هرمي للسلطة والمكانة في منظمة او مجتمع.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "organization",
+     "power",
+     "management",
+     "society"
+    ],
+    "usage_note": "Commonly used in corporate, military, and institutional contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "rigid hierarchy",
+   "social hierarchy",
+   "corporate hierarchy",
+   "establish a hierarchy",
+   "climb the hierarchy"
+  ],
+  "synonyms": [
+   "pecking order",
+   "ranking",
+   "chain of command",
+   "ladder"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "status",
+    "rank",
+    "level",
+    "authority",
+    "subordinate",
+    "seniority"
+   ],
+   "ar": [
+    "مكانة",
+    "رتبة",
+    "مستوى",
+    "سلطة",
+    "مرؤوس",
+    "أقدمية"
+   ]
+  },
+  "word_family": {
+   "noun": "hierarchy",
+   "verb": "",
+   "adj": "hierarchical",
+   "adv": "hierarchically"
+  },
+  "translations": {
+   "arabic_ar": "تسلسل هرمي / تدرج السلطة",
+   "french_fr": "hiérarchie",
+   "german_de": "Hierarchie",
+   "spanish_es": "jerarquía",
+   "chinese_zh": "等级制度 (Děngjí zhìdù)",
+   "russian_ru": "иерархия",
+   "portuguese_pt": "hierarquia",
+   "japanese_ja": "階層 (Kaisō)",
+   "italian_it": "gerarchia",
+   "turkish_tr": "hiyerarşi"
+  }
+ },
+ "provenance": {
+  "output_hash": "2969af126b84be4413432daf63408268e1bd9fcf00fa2eef811ff93aa4b35f31",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "endure",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "endure",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To suffer something painful or difficult patiently; to remain in existence.",
+  "explanation_ar": "يتحمل أو يطيق حاجة صعبة زي الألم أو المعاناة. وكمان بتيجي بمعنى يستمر ويبقى.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To suffer something painful, difficult, or unpleasant patiently.",
+    "definition_ar": "يتحمل أو يطيق أمراً مؤلماً أو شاقاً بصبر.",
+    "examples": [
+     "She had to endure a long flight.",
+     "Humanity has the capacity to endure even the most catastrophic events."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To continue to exist or last over a long period.",
+    "definition_ar": "يستمر أو يصمد ويبقى على مر الزمن.",
+    "examples": [
+     "His fame will endure for centuries."
+    ]
+   }
+  ],
+  "examples": [
+   "She had to endure a long flight.",
+   "Humanity has the capacity to endure even the most catastrophic events.",
+   "His fame will endure for centuries."
+  ],
+  "translations": [
+   "يتحمل",
+   "يصمد",
+   "يبقى"
+  ],
+  "relations": {
+   "synonyms": [
+    "bear",
+    "tolerate",
+    "sustain",
+    "last"
+   ],
+   "antonyms": [
+    "fade",
+    "collapse",
+    "quit"
+   ],
+   "collocations": [
+    "endure pain",
+    "endure hardship",
+    "cannot endure",
+    "long endure"
+   ]
+  },
+  "mnemonic": "لازم تتحمل للآخر 'End' لحد ما نلاقي 'Cure' 'علاج'.. 'Endure'",
+  "phonetic_us": "ɪnˈdʊr",
+  "phonetic_uk": "ɪnˈdjʊə(r)",
+  "syllables": "en•dure",
+  "semantic_tags": [
+   "#Patience",
+   "#Pain",
+   "#Time",
+   "#Strength"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To suffer something painful or difficult patiently; to remain in existence.",
+  "explanation_ar": "يتحمل أو يطيق حاجة صعبة زي الألم أو المعاناة. وكمان بتيجي بمعنى يستمر ويبقى.",
+  "examples": [
+   "She had to endure a long flight.",
+   "Humanity has the capacity to endure even the most catastrophic events.",
+   "His fame will endure for centuries."
+  ],
+  "translations": {
+   "arabic_ar": "يتحمل يصمد يبقى"
+  },
+  "synonyms": [
+   "bear",
+   "tolerate",
+   "sustain",
+   "last"
+  ],
+  "antonyms": [
+   "fade",
+   "collapse",
+   "quit"
+  ],
+  "collocations": [
+   "endure pain",
+   "endure hardship",
+   "cannot endure",
+   "long endure"
+  ],
+  "mnemonic_ar": "لازم تتحمل للآخر 'End' لحد ما نلاقي 'Cure' 'علاج'.. 'Endure'"
+ }
+}

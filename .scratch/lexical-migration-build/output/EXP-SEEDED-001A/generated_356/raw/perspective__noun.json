@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "perspective",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "perspective",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A particular way of considering something; a point of view.",
+  "explanation_ar": "وجهة نظر أو طريقة معينة بتشوف بيها الأمور.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A particular way of considering something; a point of view.",
+    "explanation_ar": "وجهة نظر أو منظور لرؤية وتقييم الأمور.",
+    "examples": [
+     "Try to see things from my perspective.",
+     "Traveling gives you a new perspective on life.",
+     "The novel is written from the perspective of a child."
+    ]
+   }
+  ],
+  "examples": [
+   "Try to see things from my perspective.",
+   "Traveling gives you a new perspective on life.",
+   "The novel is written from the perspective of a child."
+  ],
+  "translations": [
+   "وجهة نظر",
+   "منظور"
+  ],
+  "relations": {
+   "synonyms": [
+    "viewpoint",
+    "outlook",
+    "standpoint",
+    "angle"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "different perspective",
+    "new perspective",
+    "from my perspective",
+    "sense of perspective"
+   ]
+  },
+  "mnemonic": "جاية من 'Spectacles' (نظارة).. الـ 'Perspective' هو النظارة اللي بتشوف بيها الدنيا.",
+  "phonetic_us": "pɚˈspɛktɪv",
+  "phonetic_uk": "pəˈspɛktɪv",
+  "syllables": "per•spec•tive",
+  "semantic_tags": [
+   "Mind & Thinking",
+   "Opinion",
+   "View"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A particular way of considering something; a point of view.",
+  "explanation_ar": "وجهة نظر أو طريقة معينة بتشوف بيها الأمور.",
+  "examples": [
+   "Try to see things from my perspective.",
+   "Traveling gives you a new perspective on life.",
+   "The novel is written from the perspective of a child."
+  ],
+  "translations": {
+   "arabic_ar": "وجهة نظر منظور"
+  },
+  "synonyms": [
+   "viewpoint",
+   "outlook",
+   "standpoint",
+   "angle"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "different perspective",
+   "new perspective",
+   "from my perspective",
+   "sense of perspective"
+  ],
+  "mnemonic_ar": "جاية من 'Spectacles' (نظارة).. الـ 'Perspective' هو النظارة اللي بتشوف بيها الدنيا."
+ }
+}

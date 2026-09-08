@@ -1,0 +1,149 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3084",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3084",
+  "lemma": "occasion",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3084,
+  "lemma": "occasion",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈkeɪʒn",
+  "phonetic_uk": null,
+  "phonetic_ar": "أوكَيجَن",
+  "definition_en": "A particular event, celebration, or time when something happens.",
+  "explanation_ar": "مناسبة أو حدث خاص، أو وقت محدد يقع فيه أمر ما.",
+  "examples": [
+   {
+    "example_text": "A wedding is always a joyful occasion for the entire family.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "I only wear a formal suit on a special occasion.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "On one occasion, she forgot her keys and had to wait outside.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A special event or celebration.",
+    "short_def_en": "special event or celebration",
+    "definition_ar": "حدث مهم أو احتفال مميز يجتمع فيه الناس.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "celebration",
+     "social event",
+     "gathering"
+    ],
+    "usage_note": "Often used with adjectives like special, happy, or formal.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A particular time when something happens.",
+    "short_def_en": "particular time or instance",
+    "definition_ar": "وقت محدد أو حالة معينة يحدث فيها شيء.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "occurrence",
+     "instance"
+    ],
+    "usage_note": "Commonly preceded by on, as in on that occasion.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "A suitable opportunity to do something.",
+    "short_def_en": "suitable opportunity",
+    "definition_ar": "فرصة ملائمة أو سانحة للقيام بأمر ما.",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "opportunity",
+     "chance",
+     "circumstance"
+    ],
+    "usage_note": "Often used in phrases like take the occasion to do something.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "special occasion",
+   "formal occasion",
+   "on this occasion",
+   "mark the occasion",
+   "rise to the occasion"
+  ],
+  "synonyms": [
+   "event",
+   "opportunity",
+   "incident",
+   "instance"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "event",
+    "celebration",
+    "ceremony",
+    "moment",
+    "incident"
+   ],
+   "ar": [
+    "حدث",
+    "احتفال",
+    "مراسم",
+    "لحظة",
+    "واقعة"
+   ]
+  },
+  "word_family": {
+   "noun": "occasion",
+   "verb": "occasion",
+   "adj": "occasional",
+   "adv": "occasionally"
+  },
+  "translations": {
+   "arabic_ar": "مناسبة / فرصة / حين",
+   "french_fr": "occasion",
+   "german_de": "Anlass",
+   "spanish_es": "ocasión",
+   "chinese_zh": "场合 (Chǎnghé)",
+   "russian_ru": "случай",
+   "portuguese_pt": "ocasião",
+   "japanese_ja": "機会 (Kikai)",
+   "italian_it": "occasione",
+   "turkish_tr": "fırsat"
+  }
+ },
+ "provenance": {
+  "output_hash": "b5b7ca65337908012cdc9b1db09744df8eaab8d4e911ddf3faa83b44244a7079",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

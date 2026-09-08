@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "dependent",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "dependent",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relying on someone or something else for support or survival.",
+  "explanation_ar": "معتمد على حد أو حاجة تانية، مش مستقل بنفسه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Relying on someone or something else for financial support, aid, or survival.",
+    "definition_ar": "معتمد على شخص أو شيء للدعم أو المعيشة أو البقاء.",
+    "examples": [
+     "Babies are dependent on their mothers.",
+     "The country is heavily dependent on oil exports."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Decided or controlled by something else; contingent.",
+    "definition_ar": "مشروط أو متوقف على شيء آخر.",
+    "examples": [
+     "Your grade is dependent on your final exam."
+    ]
+   }
+  ],
+  "examples": [
+   "Babies are dependent on their mothers.",
+   "The country is heavily dependent on oil exports.",
+   "Your grade is dependent on your final exam."
+  ],
+  "translations": [
+   "معتمد",
+   "تابع"
+  ],
+  "relations": {
+   "synonyms": [
+    "reliant",
+    "conditional"
+   ],
+   "antonyms": [
+    "independent",
+    "autonomous"
+   ],
+   "collocations": [
+    "dependent on",
+    "chemically dependent",
+    "dependent children"
+   ]
+  },
+  "mnemonic": "جاية من 'Depend' 'يعتمد'.. الـ 'Dependent' هو الشخص اللي بيعمل 'Depend' على غيره.",
+  "phonetic_us": "dɪˈpɛndənt",
+  "phonetic_uk": "dɪˈpendənt",
+  "syllables": "de•pen•dent",
+  "semantic_tags": [
+   "#Reliance",
+   "#Family",
+   "#Condition"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relying on someone or something else for support or survival.",
+  "explanation_ar": "معتمد على حد أو حاجة تانية، مش مستقل بنفسه.",
+  "examples": [
+   "Babies are dependent on their mothers.",
+   "The country is heavily dependent on oil exports.",
+   "Your grade is dependent on your final exam."
+  ],
+  "translations": {
+   "arabic_ar": "معتمد تابع"
+  },
+  "synonyms": [
+   "reliant",
+   "conditional"
+  ],
+  "antonyms": [
+   "independent",
+   "autonomous"
+  ],
+  "collocations": [
+   "dependent on",
+   "chemically dependent",
+   "dependent children"
+  ],
+  "mnemonic_ar": "جاية من 'Depend' 'يعتمد'.. الـ 'Dependent' هو الشخص اللي بيعمل 'Depend' على غيره."
+ }
+}

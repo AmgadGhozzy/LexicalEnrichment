@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "formulation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "formulation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The act of creating, preparing, or expressing something in a systematic way, or a mixture prepared according to a formula.",
+  "explanation_ar": "صياغة فكرة أو التعبير عنها بدقة ونظام، أو تركيبة محددة لمستحضر دوائي أو كيميائي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The action of creating, preparing, or expressing an idea, plan, or policy in a clear and systematic way.",
+    "definition_ar": "صياغة فكرة، سياسة، أو خطة والتعبير عنها بوضوح ودقة.",
+    "examples": [
+     "The formulation of company policy requires careful thought.",
+     "His precise formulation of the argument impressed the judges."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A pharmaceutical, chemical, or cosmetic product or mixture prepared according to a specific formula.",
+    "definition_ar": "تركيبة أو مستحضر دوائي أو كيميائي مُعد وفق صيغة محددة.",
+    "examples": [
+     "Doctors are testing a new vaccine formulation."
+    ]
+   }
+  ],
+  "examples": [
+   "The formulation of company policy requires careful thought.",
+   "His precise formulation of the argument impressed the judges.",
+   "Doctors are testing a new vaccine formulation."
+  ],
+  "translations": [
+   "صِيَاغَة",
+   "تَرْكِيبَة",
+   "إِعْدَاد"
+  ],
+  "relations": {
+   "synonyms": [
+    "preparation",
+    "composition",
+    "phrasing",
+    "expression",
+    "creation"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "policy formulation",
+    "drug formulation",
+    "strategy formulation",
+    "precise formulation"
+   ]
+  },
+  "mnemonic": "مشتقة من كلمة 'formula' (معادلة أو وصفة تركيب)؛ فكلمة 'formulation' تعني إما صياغة الفكرة أو تركيبة الدواء.",
+  "phonetic_us": "ˌfɔːrm.jəˈleɪ.ʃən",
+  "phonetic_uk": "ˌfɔːm.jʊˈleɪ.ʃən",
+  "syllables": "for•mu•la•tion",
+  "semantic_tags": [
+   "#Creation",
+   "#Chemistry",
+   "#Strategy"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "The act of creating, preparing, or expressing something in a systematic way, or a mixture prepared according to a formula.",
+  "explanation_ar": "صياغة فكرة أو التعبير عنها بدقة ونظام، أو تركيبة محددة لمستحضر دوائي أو كيميائي.",
+  "examples": [
+   "The formulation of company policy requires careful thought.",
+   "His precise formulation of the argument impressed the judges.",
+   "Doctors are testing a new vaccine formulation."
+  ],
+  "translations": {
+   "arabic_ar": "صِيَاغَة تَرْكِيبَة إِعْدَاد"
+  },
+  "synonyms": [
+   "preparation",
+   "composition",
+   "phrasing",
+   "expression",
+   "creation"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "policy formulation",
+   "drug formulation",
+   "strategy formulation",
+   "precise formulation"
+  ],
+  "mnemonic_ar": "مشتقة من كلمة 'formula' (معادلة أو وصفة تركيب)؛ فكلمة 'formulation' تعني إما صياغة الفكرة أو تركيبة الدواء."
+ }
+}

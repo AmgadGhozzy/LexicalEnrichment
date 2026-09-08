@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "much",
+  "pos": "det",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "much",
+  "pos": "det",
+  "cefr": "A1",
+  "definition_en": "A large amount of (used before uncountable nouns).",
+  "explanation_ar": "كثير من؛ يُستخدم قبل الأسماء غير المعدودة للدلالة على كمية كبيرة.",
+  "senses": [
+   {
+    "sense_id": "much-det-01",
+    "definition_en": "A large amount of, especially in negative sentences and questions with uncountable nouns.",
+    "definition_ar": "كمية كبيرة من (يُستخدم عادة في النفي والاستفهام مع الأسماء غير المعدودة).",
+    "examples": [
+     "I do not have much time today.",
+     "How much water do you drink every day?",
+     "There isn't much sugar left in the jar."
+    ]
+   }
+  ],
+  "examples": [
+   "I do not have much time today.",
+   "How much water do you drink every day?",
+   "There isn't much sugar left in the jar."
+  ],
+  "translations": [
+   "كثير",
+   "كثير من"
+  ],
+  "relations": {
+   "synonyms": [
+    "a lot of"
+   ],
+   "antonyms": [
+    "little"
+   ],
+   "collocations": [
+    "how much",
+    "much time",
+    "much money",
+    "much effort"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/mʌtʃ/",
+  "phonetic_uk": "/mʌtʃ/",
+  "syllables": [
+   "much"
+  ],
+  "semantic_tags": [
+   "quantity",
+   "determiner"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large amount of (used before uncountable nouns).",
+  "explanation_ar": "كثير من؛ يُستخدم قبل الأسماء غير المعدودة للدلالة على كمية كبيرة.",
+  "examples": [
+   "I do not have much time today.",
+   "How much water do you drink every day?",
+   "There isn't much sugar left in the jar."
+  ],
+  "translations": {
+   "arabic_ar": "كثير كثير من"
+  },
+  "synonyms": [
+   "a lot of"
+  ],
+  "antonyms": [
+   "little"
+  ],
+  "collocations": [
+   "how much",
+   "much time",
+   "much money",
+   "much effort"
+  ],
+  "mnemonic_ar": null
+ }
+}

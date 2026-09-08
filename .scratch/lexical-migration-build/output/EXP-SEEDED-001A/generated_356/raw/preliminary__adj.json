@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "preliminary",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "preliminary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Coming before a more important action or event; preparatory.",
+  "explanation_ar": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+  "senses": [
+   {
+    "sense_id": "preliminary-adj-1",
+    "definition_en": "Coming before a more important action or event; preparatory.",
+    "explanation_ar": "تمهيدي أو مبدئي يسبق الخطوة أو الحدث الأساسي.",
+    "examples": [
+     "The preliminary findings suggest a significant correlation.",
+     "The team passed the preliminary round of the tournament.",
+     "Both sides agreed to hold preliminary discussions before the summit."
+    ]
+   }
+  ],
+  "examples": [
+   "The preliminary findings suggest a significant correlation.",
+   "The team passed the preliminary round of the tournament.",
+   "Both sides agreed to hold preliminary discussions before the summit."
+  ],
+  "translations": [
+   "تمهيدي",
+   "مبدئي"
+  ],
+  "relations": {
+   "synonyms": [
+    "initial",
+    "preparatory",
+    "introductory",
+    "opening"
+   ],
+   "antonyms": [
+    "final",
+    "concluding",
+    "closing"
+   ],
+   "collocations": [
+    "preliminary results",
+    "preliminary hearing",
+    "preliminary stage",
+    "preliminary investigation"
+   ]
+  },
+  "mnemonic": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية.",
+  "phonetic_us": "prɪˈlɪmənɛri",
+  "phonetic_uk": "prɪˈlɪmɪnəri",
+  "syllables": "pre•lim•i•nar•y",
+  "semantic_tags": [
+   "#Start",
+   "#Preparation",
+   "#Early",
+   "#Stage"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Coming before a more important action or event; preparatory.",
+  "explanation_ar": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+  "examples": [
+   "The preliminary findings suggest a significant correlation.",
+   "The team passed the preliminary round of the tournament.",
+   "Both sides agreed to hold preliminary discussions before the summit."
+  ],
+  "translations": {
+   "arabic_ar": "تمهيدي مبدئي"
+  },
+  "synonyms": [
+   "initial",
+   "preparatory",
+   "introductory",
+   "opening"
+  ],
+  "antonyms": [
+   "final",
+   "concluding",
+   "closing"
+  ],
+  "collocations": [
+   "preliminary results",
+   "preliminary hearing",
+   "preliminary stage",
+   "preliminary investigation"
+  ],
+  "mnemonic_ar": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية."
+ }
+}

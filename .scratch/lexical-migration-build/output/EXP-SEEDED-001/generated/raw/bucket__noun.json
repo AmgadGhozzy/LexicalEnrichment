@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A round open container with a handle, used for carrying liquids.",
+  "explanation_ar": "وعاء مفتوح مزود بمقبض يُستخدم لنقل وحمل السوائل أو المواد الأخرى (دلو / جردل / سطل).",
+  "senses": [
+   {
+    "definition_en": "A round open container with a handle, used for carrying liquids.",
+    "explanation_ar": "وعاء مفتوح مزود بمقبض يُستخدم لنقل وحمل السوائل أو المواد الأخرى (دلو أو جردل).",
+    "examples": [
+     "Fill the bucket with water.",
+     "We need a bucket and sponge to wash the car.",
+     "He carried a heavy bucket of sand."
+    ]
+   }
+  ],
+  "examples": [
+   "Fill the bucket with water.",
+   "We need a bucket and sponge to wash the car.",
+   "He carried a heavy bucket of sand."
+  ],
+  "translations": [
+   "دلو",
+   "جردل",
+   "سطل"
+  ],
+  "relations": {
+   "synonyms": [
+    "pail"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bucket of water",
+    "ice bucket",
+    "plastic bucket"
+   ]
+  },
+  "mnemonic": "كلمة Bucket نطقها قريب من Pocket؛ تضع النقود في الـ pocket وتملأ الماء في الـ bucket.",
+  "phonetic_us": "ˈbʌkɪt",
+  "phonetic_uk": "ˈbʌkɪt",
+  "syllables": "buck•et",
+  "semantic_tags": [
+   "Container",
+   "Household",
+   "Cleaning"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A round open container with a handle, used for carrying liquids.",
+  "explanation_ar": "وعاء مفتوح مزود بمقبض يُستخدم لنقل وحمل السوائل أو المواد الأخرى (دلو / جردل / سطل).",
+  "examples": [
+   "Fill the bucket with water.",
+   "We need a bucket and sponge to wash the car.",
+   "He carried a heavy bucket of sand."
+  ],
+  "translations": {
+   "arabic_ar": "دلو جردل سطل"
+  },
+  "synonyms": [
+   "pail"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bucket of water",
+   "ice bucket",
+   "plastic bucket"
+  ],
+  "mnemonic_ar": "كلمة Bucket نطقها قريب من Pocket؛ تضع النقود في الـ pocket وتملأ الماء في الـ bucket."
+ }
+}

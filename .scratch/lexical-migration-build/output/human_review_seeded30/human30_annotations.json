@@ -1,0 +1,93 @@
+{
+ "eval_id": "human30",
+ "annotations": {
+  "eval_seeded348_v1-0010": [
+   {
+    "type": "note",
+    "side": "A",
+    "text": "A mnemonic ('Edge') considered weak by the reviewer."
+   }
+  ],
+  "eval_seeded348_v1-0299": [
+   {
+    "type": "note",
+    "side": "B",
+    "text": "B relations overly broad (rays/sun/beam)."
+   }
+  ],
+  "eval_seeded348_v1-0153": [
+   {
+    "type": "note",
+    "side": "A",
+    "text": "A example 'import data from other files' is a software/data-import sense not established by definition (note, not a critical)."
+   }
+  ],
+  "eval_seeded348_v1-0071": [
+   {
+    "type": "non_v3_critical",
+    "class": "example_sense_error",
+    "side": "A",
+    "text": "'a great deal of work' (quantity sense) and 'raw deal' (treatment sense) are not covered by the agreement/transaction definition."
+   }
+  ],
+  "eval_seeded348_v1-0072": [
+   {
+    "type": "non_v3_critical",
+    "class": "example_sense_error",
+    "side": "A",
+    "conditional_resolved": true,
+    "text": "A (legacy) includes 'deal a blow to the regime'; the displayed A definition covers deal-with and cards only, and the full record (candidate senses 1-2) also does NOT separate the 'deal a blow' sense => example_sense_error on A per the reviewer's conditional rule."
+   }
+  ],
+  "eval_seeded348_v1-0245": [
+   {
+    "type": "non_v3_critical",
+    "class": "mnemonic_quality_error",
+    "side": "A",
+    "text": "Volcano is a weak indirect association for 'provoke' (note: shared mnemonic text; flaw attached to side A per the reviewer)."
+   }
+  ],
+  "eval_seeded348_v1-0023": [
+   {
+    "type": "note",
+    "side": "B",
+    "text": "B example 'pure awareness meditation' is specialized but not necessarily wrong — explicitly NOT a critical."
+   }
+  ],
+  "eval_seeded348_v1-0029": [
+   {
+    "type": "locked_fact",
+    "side": null,
+    "text": "billion/num is NOT a regression: both arms are correct, differ only in phrasing; numerals in A do not make the definition less accurate."
+   }
+  ],
+  "eval_seeded348_v1-0129": [
+   {
+    "type": "note",
+    "side": "B",
+    "text": "B examples include idiomatic/extended uses (poke fun, good fun) without sense separation; noted, not a critical."
+   }
+  ],
+  "eval_seeded348_v1-0046": [
+   {
+    "type": "operator_flag",
+    "side": null,
+    "text": "arbitration flag: A and B arabic strings are byte-identical yet arabic was recorded A-better; keeping verbatim, flagged for the reconciliation."
+   }
+  ],
+  "eval_seeded348_v1-0200": [
+   {
+    "type": "operator_flag",
+    "side": null,
+    "text": "arbitration flag: A and B mnemonic strings are byte-identical yet mnemonic was recorded A-better; keeping verbatim, flagged for the reconciliation."
+   }
+  ],
+  "eval_seeded348_v1-0311": [
+   {
+    "type": "note",
+    "side": "B",
+    "text": "B lists 'that' as BOTH synonym and antonym of 'this' — self-contradiction; the invalid_relation_synonym critical is recorded."
+   }
+  ]
+ }
+}

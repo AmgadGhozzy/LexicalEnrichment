@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "pose",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "pose",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To present a problem, danger, or question; or to assume a particular position in order to be photographed or painted.",
+  "explanation_ar": "له معنيان شائعان: إما أن تتخذ وضعية معينة للتصوير أو الرسم، أو أن تُشكّل خطراً أو مشكلة، أو تطرح سؤالاً.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To present or cause a risk, threat, problem, or challenge; or to ask or raise a question.",
+    "definition_ar": "يشكّل خطراً أو تحدياً أو مشكلة، أو يطرح سؤالاً.",
+    "examples": [
+     "Rising sea levels pose a serious threat to coastal cities.",
+     "These unexpected results pose a difficult question for researchers."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To sit or stand in a particular position so that someone can photograph, paint, or draw you.",
+    "definition_ar": "يتخذ وضعية معينة للتصوير أو الرسم.",
+    "examples": [
+     "Can you pose for a picture with the family?"
+    ]
+   }
+  ],
+  "examples": [
+   "Can you pose for a picture with the family?",
+   "Rising sea levels pose a serious threat to coastal cities.",
+   "These unexpected results pose a difficult question for researchers."
+  ],
+  "translations": [
+   "يشكّل",
+   "يطرح",
+   "يتخذ وضعية"
+  ],
+  "relations": {
+   "synonyms": [
+    "present",
+    "constitute",
+    "model"
+   ],
+   "antonyms": [
+    "solve",
+    "resolve"
+   ],
+   "collocations": [
+    "pose a threat",
+    "pose a risk",
+    "pose a question",
+    "pose a challenge",
+    "pose for a photo"
+   ]
+  },
+  "mnemonic": "نستخدم في العامية تعبير 'واخد بوز' للتصوير وهو مشتق مباشرة من كلمة (pose: يتخذ وضعية)، وتخيل أن المشكلة الصعبة أيضاً تقف أمامك لتشكل تهديداً.",
+  "phonetic_us": "poʊz",
+  "phonetic_uk": "pəʊz",
+  "syllables": [
+   "pose"
+  ],
+  "semantic_tags": [
+   "danger",
+   "photography",
+   "question",
+   "problems"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To present a problem, danger, or question; or to assume a particular position in order to be photographed or painted.",
+  "explanation_ar": "له معنيان شائعان: إما أن تتخذ وضعية معينة للتصوير أو الرسم، أو أن تُشكّل خطراً أو مشكلة، أو تطرح سؤالاً.",
+  "examples": [
+   "Can you pose for a picture with the family?",
+   "Rising sea levels pose a serious threat to coastal cities.",
+   "These unexpected results pose a difficult question for researchers."
+  ],
+  "translations": {
+   "arabic_ar": "يشكّل يطرح يتخذ وضعية"
+  },
+  "synonyms": [
+   "present",
+   "constitute",
+   "model"
+  ],
+  "antonyms": [
+   "solve",
+   "resolve"
+  ],
+  "collocations": [
+   "pose a threat",
+   "pose a risk",
+   "pose a question",
+   "pose a challenge",
+   "pose for a photo"
+  ],
+  "mnemonic_ar": "نستخدم في العامية تعبير 'واخد بوز' للتصوير وهو مشتق مباشرة من كلمة (pose: يتخذ وضعية)، وتخيل أن المشكلة الصعبة أيضاً تقف أمامك لتشكل تهديداً."
+ }
+}

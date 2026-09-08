@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "initiative",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "initiative",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The ability to assess and start things independently, or a new plan to achieve a goal.",
+  "explanation_ar": "القدرة إنك تاخد خطوة وتبدأ حاجة من نفسك من غير ما حد يقولك، أو خطة جديدة لحل مشكلة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The ability to act independently and make decisions without being told what to do.",
+    "definition_ar": "القدرة على التصرف واتخاذ القرارات باستقلالية دون انتظار توجيهات.",
+    "examples": [
+     "You should use your own initiative at work.",
+     "She took the initiative to clean the room."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A new plan, action, or strategy designed to solve a problem or achieve a specific goal.",
+    "definition_ar": "مبادرة أو خطة جديدة تهدف لمعالجة مشكلة أو تحقيق هدف معين.",
+    "examples": [
+     "The peace initiative was welcomed by both sides."
+    ]
+   }
+  ],
+  "examples": [
+   "She took the initiative to clean the room.",
+   "You should use your own initiative at work.",
+   "The peace initiative was welcomed by both sides."
+  ],
+  "translations": [
+   "مبادرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "enterprise",
+    "drive",
+    "ambition",
+    "proposal"
+   ],
+   "antonyms": [
+    "apathy",
+    "inactivity"
+   ],
+   "collocations": [
+    "take the initiative",
+    "peace initiative",
+    "own initiative",
+    "new initiative"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'In it'.. عشان تنجح في أي مشروع لازم تكون 'In it' وتاخد الـ 'Initiative' بنفسك.",
+  "phonetic_us": "ɪˈnɪʃətɪv",
+  "phonetic_uk": "ɪˈnɪʃətɪv",
+  "syllables": "ini•tia•tive",
+  "semantic_tags": [
+   "#Leadership",
+   "#Business",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The ability to assess and start things independently, or a new plan to achieve a goal.",
+  "explanation_ar": "القدرة إنك تاخد خطوة وتبدأ حاجة من نفسك من غير ما حد يقولك، أو خطة جديدة لحل مشكلة.",
+  "examples": [
+   "She took the initiative to clean the room.",
+   "You should use your own initiative at work.",
+   "The peace initiative was welcomed by both sides."
+  ],
+  "translations": {
+   "arabic_ar": "مبادرة"
+  },
+  "synonyms": [
+   "enterprise",
+   "drive",
+   "ambition",
+   "proposal"
+  ],
+  "antonyms": [
+   "apathy",
+   "inactivity"
+  ],
+  "collocations": [
+   "take the initiative",
+   "peace initiative",
+   "own initiative",
+   "new initiative"
+  ],
+  "mnemonic_ar": "اربطها بـ 'In it'.. عشان تنجح في أي مشروع لازم تكون 'In it' وتاخد الـ 'Initiative' بنفسك."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "aunt",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "aunt",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The sister of your father or mother, or the wife of your uncle.",
+  "explanation_ar": "أخت الأب 'عمة' أو أخت الأم 'خالة'، أو مرات عمك أو خالك.",
+  "senses": [
+   {
+    "definition_en": "The sister of your father or mother, or the wife of your uncle.",
+    "explanation_ar": "أخت الأب 'عمة' أو أخت الأم 'خالة'، أو مرات عمك أو خالك.",
+    "examples": [
+     "My aunt lives in London.",
+     "I visited my aunt yesterday.",
+     "My aunt and uncle are coming for dinner."
+    ]
+   }
+  ],
+  "examples": [
+   "My aunt lives in London.",
+   "I visited my aunt yesterday.",
+   "My aunt and uncle are coming for dinner."
+  ],
+  "translations": [
+   "عمة",
+   "خالة"
+  ],
+  "relations": {
+   "synonyms": [
+    "auntie"
+   ],
+   "antonyms": [
+    "uncle"
+   ],
+   "collocations": [
+    "great aunt",
+    "favorite aunt",
+    "maternal aunt",
+    "paternal aunt"
+   ]
+  },
+  "mnemonic": "كلمة 'Aunt' قريبة من 'أنتِ'.. هي زي أمك الثانية وبنقولها يا 'طنط'.",
+  "phonetic_us": "ænt",
+  "phonetic_uk": "ɑːnt",
+  "syllables": [
+   "aunt"
+  ],
+  "semantic_tags": [
+   "Family",
+   "Relationships",
+   "People",
+   "Relatives"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The sister of your father or mother, or the wife of your uncle.",
+  "explanation_ar": "أخت الأب 'عمة' أو أخت الأم 'خالة'، أو مرات عمك أو خالك.",
+  "examples": [
+   "My aunt lives in London.",
+   "I visited my aunt yesterday.",
+   "My aunt and uncle are coming for dinner."
+  ],
+  "translations": {
+   "arabic_ar": "عمة خالة"
+  },
+  "synonyms": [
+   "auntie"
+  ],
+  "antonyms": [
+   "uncle"
+  ],
+  "collocations": [
+   "great aunt",
+   "favorite aunt",
+   "maternal aunt",
+   "paternal aunt"
+  ],
+  "mnemonic_ar": "كلمة 'Aunt' قريبة من 'أنتِ'.. هي زي أمك الثانية وبنقولها يا 'طنط'."
+ }
+}

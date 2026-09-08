@@ -1,0 +1,117 @@
+{
+ "candidate_id": "PILOT-V1-CAND-717",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-717",
+  "lemma": "front",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 717,
+  "lemma": "front",
+  "pos": "adj",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "frʌnt",
+  "phonetic_uk": null,
+  "phonetic_ar": "فرَنت",
+  "definition_en": "Located at or near the forward part or face of something.",
+  "explanation_ar": "يصف الشيء الذي يقع في الناحية المتقدمة أو الوجه الخارجي الظاهر من مكان أو غرض ما، مثل الباب أو المقعد الأمامي.",
+  "examples": [
+   {
+    "example_text": "Please knock on the front door before you enter.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "She prefers to sit in the front row of the classroom.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The bicycle has a small basket over its front wheel.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة فرنت وتخيل واجهة المحل حيث توجد لافتة في الجزء الامامي لتجذب الزبائن",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Located at or relating to the forward surface or section.",
+    "short_def_en": "at the forward part",
+    "definition_ar": "امامي، يقع في الجزء المتقدم او الظاهر",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "position",
+     "direction",
+     "location"
+    ],
+    "usage_note": "Almost always placed directly before a noun.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "front door",
+   "front row",
+   "front seat",
+   "front page",
+   "front yard"
+  ],
+  "synonyms": [
+   "forward",
+   "foremost",
+   "anterior"
+  ],
+  "antonyms": [
+   "back",
+   "rear"
+  ],
+  "related_words": {
+   "en": [
+    "entrance",
+    "ahead",
+    "facing",
+    "façade"
+   ],
+   "ar": [
+    "مدخل",
+    "إلى الأمام",
+    "مواجه",
+    "واجهة"
+   ]
+  },
+  "word_family": {
+   "noun": "front",
+   "verb": "front",
+   "adj": "front",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "أَمَامِيّ",
+   "french_fr": "avant",
+   "german_de": "vorderer",
+   "spanish_es": "delantero",
+   "chinese_zh": "前面的 (qiánmiàn de)",
+   "russian_ru": "передний",
+   "portuguese_pt": "dianteiro",
+   "japanese_ja": "前の (Mae no)",
+   "italian_it": "anteriore",
+   "turkish_tr": "ön"
+  }
+ },
+ "provenance": {
+  "output_hash": "52807065faf3a249fb7d15d4d5ba0cb0211d1c28c38be8e1d2fb03108a3348bd",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

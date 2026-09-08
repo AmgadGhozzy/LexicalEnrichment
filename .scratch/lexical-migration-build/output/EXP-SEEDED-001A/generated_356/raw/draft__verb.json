@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "draft",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "draft",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To prepare a preliminary version of a text or plan; or to recruit someone for military service.",
+  "explanation_ar": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند شخصاً للخدمة العسكرية.",
+  "senses": [
+   {
+    "definition_en": "To write or draw a preliminary version of a document, plan, or law.",
+    "explanation_ar": "يكتب مسودة أو يصيغ وثيقة أو خطة بشكل مبدئي.",
+    "examples": [
+     "I will draft a response to their email this afternoon.",
+     "They plan to draft a new contract before the end of the week."
+    ]
+   },
+   {
+    "definition_en": "To select someone for compulsory military service.",
+    "explanation_ar": "يجند شخصاً إلزامياً للخدمة العسكرية.",
+    "examples": [
+     "The government decided not to draft college students into the army."
+    ]
+   }
+  ],
+  "examples": [
+   "I will draft a response to their email this afternoon.",
+   "They plan to draft a new contract before the end of the week.",
+   "The government decided not to draft college students into the army."
+  ],
+  "translations": [
+   "يكتب مسودة",
+   "يصيغ",
+   "يجند"
+  ],
+  "relations": {
+   "synonyms": [
+    "compose",
+    "outline",
+    "conscript",
+    "recruit"
+   ],
+   "antonyms": [
+    "finalize"
+   ],
+   "collocations": [
+    "draft a proposal",
+    "draft a contract",
+    "draft a plan",
+    "draft a letter"
+   ]
+  },
+  "mnemonic": "فكر في مجلد الـ Drafts (المسودات) في بريدك الإلكتروني؛ لما تعمل draft لرسالة، يعني بتكتب مسودتها المبدئية قبل الإرسال النهائي.",
+  "phonetic_us": "dræft",
+  "phonetic_uk": "drɑːft",
+  "syllables": "draft",
+  "semantic_tags": [
+   "writing",
+   "work",
+   "military",
+   "law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To prepare a preliminary version of a text or plan; or to recruit someone for military service.",
+  "explanation_ar": "يكتب مسودة أو يجهز خطة مبدئية، أو يجند شخصاً للخدمة العسكرية.",
+  "examples": [
+   "I will draft a response to their email this afternoon.",
+   "They plan to draft a new contract before the end of the week.",
+   "The government decided not to draft college students into the army."
+  ],
+  "translations": {
+   "arabic_ar": "يكتب مسودة يصيغ يجند"
+  },
+  "synonyms": [
+   "compose",
+   "outline",
+   "conscript",
+   "recruit"
+  ],
+  "antonyms": [
+   "finalize"
+  ],
+  "collocations": [
+   "draft a proposal",
+   "draft a contract",
+   "draft a plan",
+   "draft a letter"
+  ],
+  "mnemonic_ar": "فكر في مجلد الـ Drafts (المسودات) في بريدك الإلكتروني؛ لما تعمل draft لرسالة، يعني بتكتب مسودتها المبدئية قبل الإرسال النهائي."
+ }
+}

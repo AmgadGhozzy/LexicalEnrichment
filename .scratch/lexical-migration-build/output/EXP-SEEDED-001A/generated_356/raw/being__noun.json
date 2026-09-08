@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "being",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "being",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Existence, or a living creature (especially a person).",
+  "explanation_ar": "كلمة ليها معنيين: يا إما الكائن نفسه زي 'Human being'، يا إما الوجود نفسه والكيان الداخلي للشخص.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A living creature, especially a human.",
+    "definition_ar": "كائن حي، وبخاصة الإنسان"
+   },
+   {
+    "pos": "noun",
+    "definition_en": "The state or quality of having existence.",
+    "definition_ar": "الوجود أو الكينونة"
+   }
+  ],
+  "examples": [
+   "A human being needs water to survive.",
+   "The organization came into being last year.",
+   "She felt it with every fiber of her being."
+  ],
+  "translations": [
+   "كائن",
+   "وجود",
+   "كيان"
+  ],
+  "relations": {
+   "synonyms": [
+    "creature",
+    "entity",
+    "existence"
+   ],
+   "antonyms": [
+    "nonexistence",
+    "nothingness"
+   ],
+   "collocations": [
+    "human being",
+    "living being",
+    "come into being",
+    "supreme being"
+   ]
+  },
+  "mnemonic": "جاية من الفعل 'Be' 'يكون'.. الـ 'Being' هو الكينونة أو الكائن نفسه اللي 'موجود'.",
+  "phonetic_us": "ˈbiːɪŋ",
+  "phonetic_uk": "ˈbiːɪŋ",
+  "syllables": "be•ing",
+  "semantic_tags": [
+   "#Existence",
+   "#Life",
+   "#Philosophy",
+   "#Human"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Existence, or a living creature (especially a person).",
+  "explanation_ar": "كلمة ليها معنيين: يا إما الكائن نفسه زي 'Human being'، يا إما الوجود نفسه والكيان الداخلي للشخص.",
+  "examples": [
+   "A human being needs water to survive.",
+   "The organization came into being last year.",
+   "She felt it with every fiber of her being."
+  ],
+  "translations": {
+   "arabic_ar": "كائن وجود كيان"
+  },
+  "synonyms": [
+   "creature",
+   "entity",
+   "existence"
+  ],
+  "antonyms": [
+   "nonexistence",
+   "nothingness"
+  ],
+  "collocations": [
+   "human being",
+   "living being",
+   "come into being",
+   "supreme being"
+  ],
+  "mnemonic_ar": "جاية من الفعل 'Be' 'يكون'.. الـ 'Being' هو الكينونة أو الكائن نفسه اللي 'موجود'."
+ }
+}

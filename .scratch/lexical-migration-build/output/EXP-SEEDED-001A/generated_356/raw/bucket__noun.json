@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "bucket",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A round open container with a handle, used for carrying liquids or other substances.",
+  "explanation_ar": "الجردل اللي بنملاه مية ونشيله من الإيد بتاعته (الدلو).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An open container with a handle, used especially for holding or carrying liquids.",
+    "definition_ar": "وعاء مفتوح بمقبض يُستخدم لنقل وحمل السوائل أو المواد الأخرى.",
+    "examples": [
+     "Fill the bucket with water.",
+     "We need a bucket and sponge to wash the car.",
+     "He carried a heavy bucket of sand."
+    ]
+   }
+  ],
+  "examples": [
+   "Fill the bucket with water.",
+   "We need a bucket and sponge to wash the car.",
+   "He carried a heavy bucket of sand."
+  ],
+  "translations": [
+   "دلو",
+   "جردل"
+  ],
+  "relations": {
+   "synonyms": [
+    "pail"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ice bucket",
+    "plastic bucket",
+    "bucket list"
+   ]
+  },
+  "mnemonic": "كلمة 'Bucket' شبه 'Pocket'.. بس الـ 'Bucket' بنشيل فيه ميه مش فلوس.",
+  "phonetic_us": "ˈbʌkɪt",
+  "phonetic_uk": "ˈbʌkɪt",
+  "syllables": "buck•et",
+  "semantic_tags": [
+   "Container",
+   "Cleaning",
+   "Household",
+   "Tools"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A round open container with a handle, used for carrying liquids or other substances.",
+  "explanation_ar": "الجردل اللي بنملاه مية ونشيله من الإيد بتاعته (الدلو).",
+  "examples": [
+   "Fill the bucket with water.",
+   "We need a bucket and sponge to wash the car.",
+   "He carried a heavy bucket of sand."
+  ],
+  "translations": {
+   "arabic_ar": "دلو جردل"
+  },
+  "synonyms": [
+   "pail"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ice bucket",
+   "plastic bucket",
+   "bucket list"
+  ],
+  "mnemonic_ar": "كلمة 'Bucket' شبه 'Pocket'.. بس الـ 'Bucket' بنشيل فيه ميه مش فلوس."
+ }
+}

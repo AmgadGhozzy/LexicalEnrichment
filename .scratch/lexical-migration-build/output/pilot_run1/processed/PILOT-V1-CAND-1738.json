@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1738",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1738",
+  "lemma": "mass",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1738,
+  "lemma": "mass",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "mæs",
+  "phonetic_uk": null,
+  "phonetic_ar": "مَاس",
+  "definition_en": "Involving or affecting a very large number of people or things at the same time.",
+  "explanation_ar": "يصف شيئا يحدث على نطاق واسع جدا ويشمل او يستهدف اعدادا هائلة من الناس او الاشياء دفعة واحدة.",
+  "examples": [
+   {
+    "example_text": "The government launched a mass vaccination campaign to protect citizens against the virus.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Improved technology led to the mass production of affordable home appliances.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The new subway line is an essential form of mass transit for daily commuters.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة ماسة واعتبر ان العمل الذي يحضره جمع غفير كأنه يحتاج بريقا كبيرا كحجر الماس ليراه الجميع",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Involving or affecting a very large number of people or things at the same time.",
+    "short_def_en": "large-scale or widespread",
+    "definition_ar": "شامل لاعداد كبيرة او واسع النطاق يستهدف فئات عريضة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "quantity",
+     "society",
+     "scale"
+    ],
+    "usage_note": "Commonly used attributively before nouns, such as mass media, mass transit, or mass production.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "mass media",
+   "mass production",
+   "mass transit",
+   "mass communication",
+   "mass protest"
+  ],
+  "synonyms": [
+   "widespread",
+   "large-scale",
+   "collective",
+   "general",
+   "popular"
+  ],
+  "antonyms": [
+   "individual",
+   "isolated",
+   "limited"
+  ],
+  "related_words": {
+   "en": [
+    "crowd",
+    "population",
+    "scale",
+    "volume"
+   ],
+   "ar": [
+    "حشد",
+    "سكان",
+    "مقياس",
+    "حجم"
+   ]
+  },
+  "word_family": {
+   "noun": "mass",
+   "verb": "mass",
+   "adj": "massive",
+   "adv": "massively"
+  },
+  "translations": {
+   "arabic_ar": "جماهيري / واسع النطاق / جماعي",
+   "french_fr": "de masse",
+   "german_de": "Massen-",
+   "spanish_es": "masivo / de masas",
+   "chinese_zh": "大众的 (dàzhòng de)",
+   "russian_ru": "массовый",
+   "portuguese_pt": "de massa / massivo",
+   "japanese_ja": "大衆の (Taishū no)",
+   "italian_it": "di massa",
+   "turkish_tr": "kitle / toplu"
+  }
+ },
+ "provenance": {
+  "output_hash": "5f8c8a5054e7a79189e8604d54a2b9765e7259f8d4d26bc2f4b03b3a8714d621",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

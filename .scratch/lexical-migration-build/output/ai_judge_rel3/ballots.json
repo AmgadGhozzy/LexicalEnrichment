@@ -1,0 +1,130 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0001": {
+   "fields": {
+    "definition": "B-better",
+    "arabic_explanation": "B-better",
+    "sense_separation": "B-better",
+    "examples": "B-better",
+    "translations": "B-better",
+    "relations": "tie",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "A",
+     "evidence": "\"Attention to detail is critical in this job.\" and \"Ladies and gentlemen, may I have your attention?\" use attention as an uncountable noun, not the exclamation/interjection POS."
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A includes examples where 'attention' functions as an ordinary noun rather than the target exclamation POS. Arm B strictly adheres to the exclamatory/military command sense throughout."
+  },
+  "EVAL-BLIND-V1-0002": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "A-better",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a much more precise definition and standard Arabic explanation. In relations, Arm A provides valid collocations matching the exact target, while Arm B offers questionable synonyms (ticket, pass, badge) without context. Arm B also includes idioms with pluralized 'cards', whereas Arm A cleanly maintains the exact singular target lemma across its examples."
+  },
+  "EVAL-BLIND-V1-0003": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a formal, accurate Modern Standard Arabic explanation, whereas Arm B uses colloquial Egyptian Arabic. Arm A also provides accurate collocations and a historically accurate Latin etymological mnemonic."
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4500",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4500",
+  "lemma": "penny",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4500,
+  "lemma": "penny",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈpɛni",
+  "phonetic_uk": null,
+  "phonetic_ar": "بيني",
+  "definition_en": "A coin or monetary unit of small value in the United Kingdom and the United States.",
+  "explanation_ar": "عملة معدنية ذات قيمة منخفضة جدا تستخدم في بريطانيا والولايات المتحدة وتعادل جزءا صغيرا من العملة الأساسية.",
+  "examples": [
+   {
+    "example_text": "He found a shiny penny on the sidewalk.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The small toy did not cost a single penny.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "She saved every penny she earned from her summer job.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"penny\" تشبه في بدايتها كلمة بنس وهو الاسم المعرب لنفس العملة المعدنية الصغيرة في بريطانيا",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A coin or unit of money of very low value in countries such as Britain and the US.",
+    "short_def_en": "low-value coin",
+    "definition_ar": "عملة معدنية صغيرة ذات قيمة قليلة جدا مثل البنس البريطاني او السنت الامريكي",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "money",
+     "currency",
+     "finance"
+    ],
+    "usage_note": "In the UK, the plural for coins is pennies, while pence refers to the monetary amount.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "every penny",
+   "pretty penny",
+   "spend a penny",
+   "cost a penny"
+  ],
+  "synonyms": [
+   "cent",
+   "coin"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "coin",
+    "money",
+    "cash",
+    "pence",
+    "cent"
+   ],
+   "ar": [
+    "عملة معدنية",
+    "مال",
+    "نقد",
+    "بنسات",
+    "سنت"
+   ]
+  },
+  "word_family": {
+   "noun": "penny",
+   "verb": "",
+   "adj": "penniless",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "بنس / فلس",
+   "french_fr": "penny",
+   "german_de": "Penny",
+   "spanish_es": "penique",
+   "chinese_zh": "便士 (Biànshì)",
+   "russian_ru": "пенни",
+   "portuguese_pt": "penique",
+   "japanese_ja": "ペニー (Penī)",
+   "italian_it": "penny",
+   "turkish_tr": "kuruş"
+  }
+ },
+ "provenance": {
+  "output_hash": "54f36112c6239ab70283fe32d291b96dfaadc13d9bfee63e7729f594f24b1cdf",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5532",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5532",
+  "lemma": "leap",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5532,
+  "lemma": "leap",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "lip",
+  "phonetic_uk": null,
+  "phonetic_ar": "لِيبْ",
+  "definition_en": "A sudden large jump, or a sudden and important increase or improvement in something.",
+  "explanation_ar": "قفزة كبيرة ومفاجئة سواء بالحركة الجسدية أو مجازيا كطفرة وتقدم كبير ومفاجئ في مجال ما.",
+  "examples": [
+   {
+    "example_text": "The discovery represents a major leap in modern cancer research.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "With one sudden leap, the cat cleared the garden fence.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Accepting the new position abroad felt like a terrifying leap into the unknown.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر عبارة نيل أرمسترونغ الشهيرة حين هبط على القمر one giant leap for mankind اي قفزة واحدة عملاقة للبشرية لربط كلمة \"leap\" بمعنى القفزة العظيمة او الطفرة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A sudden large increase, improvement, or advance in something.",
+    "short_def_en": "sudden advance or surge",
+    "definition_ar": "طفرة كبيرة او تقدم نوعي ومفاجئ في امر ما",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Change",
+    "semantic_tags": [
+     "progress",
+     "development",
+     "achievement"
+    ],
+    "usage_note": "Often used in metaphors like quantum leap or leap forward to describe dramatic technological or social progress.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A powerful or high jump into the air or across a distance.",
+    "short_def_en": "forceful jump",
+    "definition_ar": "قفزة قوية وعالية في الهواء او عبر مسافة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "jump",
+     "motion",
+     "athletics"
+    ],
+    "usage_note": "Implies more force, distance, or height than a standard jump.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "quantum leap",
+   "leap forward",
+   "leap of faith",
+   "giant leap",
+   "leap into the unknown"
+  ],
+  "synonyms": [
+   "jump",
+   "bound",
+   "breakthrough",
+   "surge"
+  ],
+  "antonyms": [
+   "drop",
+   "decline"
+  ],
+  "related_words": {
+   "en": [
+    "jump",
+    "spring",
+    "bound",
+    "advance",
+    "progress"
+   ],
+   "ar": [
+    "يقفز",
+    "ينبعث",
+    "وثبة",
+    "تقدم",
+    "تطور"
+   ]
+  },
+  "word_family": {
+   "noun": "leap",
+   "verb": "leap",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "قفزة / طفرة",
+   "french_fr": "saut",
+   "german_de": "Sprung",
+   "spanish_es": "salto",
+   "chinese_zh": "飞跃 (Fēiyuè)",
+   "russian_ru": "прыжок",
+   "portuguese_pt": "salto",
+   "japanese_ja": "跳躍 (Chōyaku)",
+   "italian_it": "salto",
+   "turkish_tr": "sıçrama"
+  }
+ },
+ "provenance": {
+  "output_hash": "c9e41d421a8799e3c9acfc824683a384ebdeb1b85b5a65fa6086daf673180cea",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

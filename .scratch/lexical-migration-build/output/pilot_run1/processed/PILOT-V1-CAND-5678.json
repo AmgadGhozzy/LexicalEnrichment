@@ -1,0 +1,133 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5678",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5678",
+  "lemma": "interpret",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5678,
+  "lemma": "interpret",
+  "pos": "verb",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪnˈtɜːrprɪt",
+  "phonetic_uk": "ɪnˈtɜːprɪt",
+  "phonetic_ar": "إنْتَرْبْرِتْ",
+  "definition_en": "To explain or understand the meaning of something, such as data, art, or actions.",
+  "explanation_ar": "أن تشرح معنى شيء ما أو تفهمه بطريقة معينة، مثل تفسير البيانات أو تصرفات الآخرين أو الأعمال الفنية.",
+  "examples": [
+   {
+    "example_text": "Scientists must carefully interpret the results before drawing conclusions.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Different people may interpret the same poem in completely different ways.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She was hired to interpret spoken speech during the international conference.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر البادئة اللاتينية inter وتعني بين، فالشخص الذي يقوم بـ interpret يقف وسيطا بين المعنى الغامض والشخص ليوضحه.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To explain or understand the meaning of information, actions, or creative work.",
+    "short_def_en": "explain or understand meaning",
+    "definition_ar": "يفسر او يفهم معنى بيانات او تصرفات او عمل فني",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "analysis",
+     "understanding",
+     "communication"
+    ],
+    "usage_note": "Often followed by objects like data, results, behavior, or silence.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To translate spoken words from one language into another in real time.",
+    "short_def_en": "translate spoken language",
+    "definition_ar": "يترجم شفويا وبشكل فوري بين لغتين",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "language",
+     "speech",
+     "translation"
+    ],
+    "usage_note": "Used specifically for spoken communication, while translate applies to written texts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "interpret data",
+   "interpret results",
+   "correctly interpret",
+   "widely interpret"
+  ],
+  "synonyms": [
+   "explain",
+   "clarify",
+   "construe",
+   "understand"
+  ],
+  "antonyms": [
+   "misinterpret",
+   "misunderstand"
+  ],
+  "related_words": {
+   "en": [
+    "meaning",
+    "analysis",
+    "translation",
+    "context"
+   ],
+   "ar": [
+    "معنى",
+    "تحليل",
+    "ترجمة",
+    "سياق"
+   ]
+  },
+  "word_family": {
+   "noun": "interpretation",
+   "verb": "interpret",
+   "adj": "interpretive",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يفسر / يترجم شفويا",
+   "french_fr": "interpréter",
+   "german_de": "interpretieren / dolmetschen",
+   "spanish_es": "interpretar",
+   "chinese_zh": "解释 (jiěshì) / 口译 (kǒuyì)",
+   "russian_ru": "толковать / переводить",
+   "portuguese_pt": "interpretar",
+   "japanese_ja": "解釈する (Kaishaku suru) / 通訳する (Tsūyaku suru)",
+   "italian_it": "interpretare",
+   "turkish_tr": "yorumlamak / tercüme etmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "7f7c970ef66a6329995dbc4df174e77c627a385d85a3af1fedc15b060efa0ee6",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

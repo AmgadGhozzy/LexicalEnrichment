@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "sensitive",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "sensitive",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Quick to detect or respond to slight changes; easily hurt or offended.",
+  "explanation_ar": "حساس، سواء شخص بيزعل بسرعة، أو جهاز بيحس بأي تغيير بسيط، أو موضوع محتاج معاملة خاصة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Easily upset or offended; having acute emotional responsiveness.",
+    "definition_ar": "مرهف المشاعر؛ سريع التأثر أو الانزعاج.",
+    "example": "He is very sensitive to any form of criticism."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Quick to react to or be affected by physical stimuli or changes.",
+    "definition_ar": "سريع التأثر بالمؤثرات المادية (كالضوء أو درجات الحرارة).",
+    "example": "My eyes are sensitive to light."
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "Requiring tactful handling, discretion, or confidentiality.",
+    "definition_ar": "موضوع دقيق أو حرج؛ أو معلومات سرية تتطلب حرصاً.",
+    "example": "Don't share sensitive information online."
+   }
+  ],
+  "examples": [
+   "My eyes are sensitive to light.",
+   "This is a sensitive topic for her.",
+   "Don't share sensitive information online."
+  ],
+  "translations": [
+   "حساس",
+   "دقيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "delicate",
+    "responsive",
+    "touchy"
+   ],
+   "antonyms": [
+    "insensitive",
+    "tough"
+   ],
+   "collocations": [
+    "sensitive skin",
+    "sensitive information",
+    "sensitive subject",
+    "highly sensitive"
+   ]
+  },
+  "mnemonic": "جاي من 'Sense' 'حاسة'.. الشخص الـ 'Sensitive' حواسه ومشاعره بتشتغل زيادة عن اللزوم.",
+  "phonetic_us": "ˈsɛnsɪtɪv",
+  "phonetic_uk": "ˈsensətɪv",
+  "syllables": "sen•si•tive",
+  "semantic_tags": [
+   "#Emotion",
+   "#Character",
+   "#Security"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Quick to detect or respond to slight changes; easily hurt or offended.",
+  "explanation_ar": "حساس، سواء شخص بيزعل بسرعة، أو جهاز بيحس بأي تغيير بسيط، أو موضوع محتاج معاملة خاصة.",
+  "examples": [
+   "My eyes are sensitive to light.",
+   "This is a sensitive topic for her.",
+   "Don't share sensitive information online."
+  ],
+  "translations": {
+   "arabic_ar": "حساس دقيق"
+  },
+  "synonyms": [
+   "delicate",
+   "responsive",
+   "touchy"
+  ],
+  "antonyms": [
+   "insensitive",
+   "tough"
+  ],
+  "collocations": [
+   "sensitive skin",
+   "sensitive information",
+   "sensitive subject",
+   "highly sensitive"
+  ],
+  "mnemonic_ar": "جاي من 'Sense' 'حاسة'.. الشخص الـ 'Sensitive' حواسه ومشاعره بتشتغل زيادة عن اللزوم."
+ }
+}

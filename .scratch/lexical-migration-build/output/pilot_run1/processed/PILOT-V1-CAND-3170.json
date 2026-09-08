@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3170",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3170",
+  "lemma": "initiative",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3170,
+  "lemma": "initiative",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "6",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪˈnɪʃətɪv",
+  "phonetic_uk": "ɪˈnɪʃətɪv",
+  "phonetic_ar": "إِنِشَتِف",
+  "definition_en": "The ability to act independently and take decisions without being told what to do.",
+  "explanation_ar": "القدرة على اتخاذ الخطوة الأولى والتصرف باستقلالية دون انتظار توجيه من الآخرين، أو خطة جديدة لمعالجة مشكلة ما.",
+  "examples": [
+   {
+    "example_text": "She showed great initiative by solving the customer problem before asking her manager.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The government launched a new health initiative to encourage daily exercise.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "You need to take the initiative if you want to make new friends.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل initial اي البدائي او الاول فالشخص الذي يملك initiative هو من يبادر بالخطوة الاولى دائما",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The ability to act independently and make decisions without waiting for instructions.",
+    "short_def_en": "ability to act independently",
+    "definition_ar": "المبادرة والقدرة على التصرف الذاتي واتخاذ القرار دون توجيه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "leadership",
+     "workplace",
+     "personal skill"
+    ],
+    "usage_note": "Often used in phrases like 'show initiative' or 'use your initiative'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A new plan or action designed to achieve a specific goal or solve a problem.",
+    "short_def_en": "new plan or scheme",
+    "definition_ar": "مشروع او خطة جديدة تهدف لمعالجة قضية معينة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "government",
+     "projects",
+     "strategy"
+    ],
+    "usage_note": "Commonly countable when referring to official programs or policies.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "take the initiative",
+   "show initiative",
+   "peace initiative",
+   "government initiative",
+   "use your initiative"
+  ],
+  "synonyms": [
+   "enterprise",
+   "resourcefulness",
+   "drive",
+   "scheme",
+   "strategy"
+  ],
+  "antonyms": [
+   "passivity",
+   "inaction"
+  ],
+  "related_words": {
+   "en": [
+    "leadership",
+    "action",
+    "proposal",
+    "decision",
+    "ambition"
+   ],
+   "ar": [
+    "قيادة",
+    "فعل",
+    "مقترح",
+    "قرار",
+    "طموح"
+   ]
+  },
+  "word_family": {
+   "noun": "initiative",
+   "verb": "initiate",
+   "adj": "initial",
+   "adv": "initially"
+  },
+  "translations": {
+   "arabic_ar": "مبادرة / روح المبادرة",
+   "french_fr": "initiative",
+   "german_de": "Initiative",
+   "spanish_es": "iniciativa",
+   "chinese_zh": "倡议 (Chàngyì) / 主动性 (Zhǔdòngxìng)",
+   "russian_ru": "инициатива",
+   "portuguese_pt": "iniciativa",
+   "japanese_ja": "主導権 (Shudōken) / 構想 (Kōsō)",
+   "italian_it": "iniziativa",
+   "turkish_tr": "girişim"
+  }
+ },
+ "provenance": {
+  "output_hash": "31801442d36ecad3da81a651763e4360a8d5b1a8198e146a3b35b83740a2a284",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

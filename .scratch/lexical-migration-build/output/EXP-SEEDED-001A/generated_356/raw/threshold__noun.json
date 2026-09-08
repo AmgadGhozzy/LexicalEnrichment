@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "threshold",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "threshold",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The floor of an entrance; or the level at which something starts to happen.",
+  "explanation_ar": "العتبة بتاعة الباب، أو الحد الفاصل. يعني النقطة اللي لو عديتها بتدخل في مرحلة جديدة 'زي عتبة الألم'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The level or point at which something starts to happen or take effect.",
+    "definition_ar": "الحد أو المستوى الذي يبدأ عنده شيء ما في الحدوث أو التأثير.",
+    "examples": [
+     "If income rises above this threshold, you pay tax.",
+     "We are on the threshold of a new era in medicine."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The floor of an entrance; a doorway or doorstep.",
+    "definition_ar": "عتبة الباب؛ الجزء السفلي من مدخل البيت أو الغرفة.",
+    "examples": [
+     "She crossed the threshold into the house."
+    ]
+   }
+  ],
+  "examples": [
+   "She crossed the threshold into the house.",
+   "If income rises above this threshold, you pay tax.",
+   "We are on the threshold of a new era in medicine."
+  ],
+  "translations": [
+   "عتبة",
+   "حد",
+   "بداية"
+  ],
+  "relations": {
+   "synonyms": [
+    "limit",
+    "doorstep",
+    "brink",
+    "verge"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "pain threshold",
+    "tax threshold",
+    "on the threshold of"
+   ]
+  },
+  "mnemonic": "كلمة 'Hold' يعني يمسك.. الـ 'Threshold' هو 'العتبة' اللي بتمسك الباب، أو الحد اللي لو عديته الدنيا تتغير.",
+  "phonetic_us": "ˈθreʃ.hoʊld",
+  "phonetic_uk": "ˈθreʃ.həʊld",
+  "syllables": "thresh•old",
+  "semantic_tags": [
+   "#Limit",
+   "#Boundary",
+   "#Entrance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The floor of an entrance; or the level at which something starts to happen.",
+  "explanation_ar": "العتبة بتاعة الباب، أو الحد الفاصل. يعني النقطة اللي لو عديتها بتدخل في مرحلة جديدة 'زي عتبة الألم'.",
+  "examples": [
+   "She crossed the threshold into the house.",
+   "If income rises above this threshold, you pay tax.",
+   "We are on the threshold of a new era in medicine."
+  ],
+  "translations": {
+   "arabic_ar": "عتبة حد بداية"
+  },
+  "synonyms": [
+   "limit",
+   "doorstep",
+   "brink",
+   "verge"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "pain threshold",
+   "tax threshold",
+   "on the threshold of"
+  ],
+  "mnemonic_ar": "كلمة 'Hold' يعني يمسك.. الـ 'Threshold' هو 'العتبة' اللي بتمسك الباب، أو الحد اللي لو عديته الدنيا تتغير."
+ }
+}

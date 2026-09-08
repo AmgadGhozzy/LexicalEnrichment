@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "jew",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "jew",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+  "explanation_ar": "شخص بيتبع الديانة اليهودية أو بينتمي للشعب اليهودي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+    "explanation_ar": "شخص بيتبع الديانة اليهودية أو بينتمي للشعب اليهودي.",
+    "examples": [
+     "He was raised as a Jew and continues to observe traditional holidays.",
+     "As a practicing Jew, David observes the Sabbath every Saturday.",
+     "A secular Jew may celebrate cultural traditions without being strictly religious."
+    ]
+   }
+  ],
+  "examples": [
+   "He was raised as a Jew and continues to observe traditional holidays.",
+   "As a practicing Jew, David observes the Sabbath every Saturday.",
+   "A secular Jew may celebrate cultural traditions without being strictly religious."
+  ],
+  "translations": [
+   "يهودي"
+  ],
+  "relations": {
+   "synonyms": [
+    "Hebrew",
+    "Israelite"
+   ],
+   "antonyms": [
+    "Gentile"
+   ],
+   "collocations": [
+    "Orthodox Jew",
+    "secular Jew",
+    "Jew and Gentile"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "dʒuː",
+  "phonetic_uk": "dʒuː",
+  "syllables": [
+   "jew"
+  ],
+  "semantic_tags": [
+   "#Religion",
+   "#Culture",
+   "#History",
+   "#Identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A member of the people and cultural community whose traditional religion is Judaism.",
+  "explanation_ar": "شخص بيتبع الديانة اليهودية أو بينتمي للشعب اليهودي.",
+  "examples": [
+   "He was raised as a Jew and continues to observe traditional holidays.",
+   "As a practicing Jew, David observes the Sabbath every Saturday.",
+   "A secular Jew may celebrate cultural traditions without being strictly religious."
+  ],
+  "translations": {
+   "arabic_ar": "يهودي"
+  },
+  "synonyms": [
+   "Hebrew",
+   "Israelite"
+  ],
+  "antonyms": [
+   "Gentile"
+  ],
+  "collocations": [
+   "Orthodox Jew",
+   "secular Jew",
+   "Jew and Gentile"
+  ],
+  "mnemonic_ar": null
+ }
+}

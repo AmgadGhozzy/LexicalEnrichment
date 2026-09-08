@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "irrespective",
+  "pos": "prep",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "irrespective",
+  "pos": "prep",
+  "cefr": "C1",
+  "definition_en": "Not taking into account; regardless of.",
+  "explanation_ar": "كلمة بنستخدمها لما نقول إن في حاجة هتحصل مهما كانت الظروف أو العوامل التانية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Not taking into account; regardless of.",
+    "explanation_ar": "بغض النظر عن؛ دون مراعاة للظروف أو الاختلافات.",
+    "examples": [
+     "Everyone can come, irrespective of age.",
+     "The rules apply to everyone, irrespective of their job.",
+     "The law mandates equal treatment irrespective of race, creed, or color."
+    ]
+   }
+  ],
+  "examples": [
+   "Everyone can come, irrespective of age.",
+   "The rules apply to everyone, irrespective of their job.",
+   "The law mandates equal treatment irrespective of race, creed, or color."
+  ],
+  "translations": [
+   "بغض النظر عن",
+   "بصرف النظر عن",
+   "دون اعتبار لـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "regardless",
+    "notwithstanding"
+   ],
+   "antonyms": [
+    "considering",
+    "regarding"
+   ],
+   "collocations": [
+    "irrespective of"
+   ],
+   "word_family": {
+    "noun": "respect",
+    "adjective": "irrespective",
+    "adverb": "irrespectively"
+   }
+  },
+  "mnemonic": "'Ir-' نفي + 'Respective' اعتبار.. يعني من غير أي اعتبار للظروف، 'بغض النظر'.",
+  "phonetic_us": "ˌɪrɪˈspektɪv",
+  "phonetic_uk": "ˌɪrɪˈspektɪv",
+  "syllables": "ir•re•spec•tive",
+  "semantic_tags": [
+   "Logic",
+   "Condition",
+   "Connector",
+   "Formal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Not taking into account; regardless of.",
+  "explanation_ar": "كلمة بنستخدمها لما نقول إن في حاجة هتحصل مهما كانت الظروف أو العوامل التانية.",
+  "examples": [
+   "Everyone can come, irrespective of age.",
+   "The rules apply to everyone, irrespective of their job.",
+   "The law mandates equal treatment irrespective of race, creed, or color."
+  ],
+  "translations": {
+   "arabic_ar": "بغض النظر عن بصرف النظر عن دون اعتبار لـ"
+  },
+  "synonyms": [
+   "regardless",
+   "notwithstanding"
+  ],
+  "antonyms": [
+   "considering",
+   "regarding"
+  ],
+  "collocations": [
+   "irrespective of"
+  ],
+  "mnemonic_ar": "'Ir-' نفي + 'Respective' اعتبار.. يعني من غير أي اعتبار للظروف، 'بغض النظر'."
+ }
+}

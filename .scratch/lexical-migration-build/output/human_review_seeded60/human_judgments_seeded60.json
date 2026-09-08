@@ -1,0 +1,115 @@
+{
+  "eval_id": "eval_seeded60_v1",
+  "review": "human-reference-pass-15",
+  "protocol": "blind A/B per field (A-better/B-better/tie); criticals with side + verbatim evidence only; no provenance inference; AI verdicts not consulted",
+  "non_v3_classes": ["example_sense_error", "mnemonic_quality_error"],
+  "note": "entries with side null are explicit human no-violation conclusions, not hits",
+  "judgments": {
+    "eval_seeded60_v1-0016": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "A-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "invalid_relation_synonym": {"side": "B", "evidence": "\"porpoise\", \"cetacean\" — cetacean is broader than dolphin, not a synonym"},
+        "target_word_violation": {"side": "B", "evidence": "\"Dolphins are known...\", \"watch the dolphins\", \"dolphin population\" — plurals, not the exact lemma"},
+        "mnemonic_quality_error": {"side": "A", "evidence": "\"Doll\" \"toy\" association is weak and imprecise; at least optional, not an etymology claim"}
+      }
+    },
+    "eval_seeded60_v1-0052": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "B-better", "translations": "tie", "relations": "B-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "A", "evidence": "\"spells disaster\" and \"spelled the end\" use another sense than displayed orthographic spelling"},
+        "invalid_relation_synonym": {"side": "A", "evidence": "\"write\" and \"letter\" are not valid synonyms of spell in this sense"},
+        "target_word_violation": {"side": "A", "evidence": "\"spells\" and \"spelled\" do not satisfy the exact-lemma contract"}
+      }
+    },
+    "eval_seeded60_v1-0053": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "A-better", "examples": "A-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"He studied the map carefully\", \"Scientists are studying...\", \"study the proposal\" show broader uses than the displayed school sense"},
+        "target_word_violation": {"side": "B", "evidence": "\"studying\" and \"studied\" are not the exact lemma"}
+      }
+    },
+    "eval_seeded60_v1-0021": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "B-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "target_word_violation": {"side": "A", "evidence": "\"elbows\" is not the exact lemma"},
+        "example_sense_error": {"side": "A", "evidence": "\"elbow grease\" and \"funny bone\" add idiomatic/anatomical associations without sense separation"},
+        "invalid_relation_synonym": {"side": "A", "evidence": "\"joint\" and especially \"arm joint\" are broader/descriptive, not precise synonyms of elbow"}
+      }
+    },
+    "eval_seeded60_v1-0054": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "A-better", "translations": "A-better", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "invalid_relation_synonym": {"side": "B", "evidence": "\"that\" is not a synonym; it is a contrasting demonstrative"},
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: \"this\" appears exact in all examples; \"that\" as antonym/contrast in A is acceptable pedagogically, not a critical error"}
+      }
+    },
+    "eval_seeded60_v1-0045": {
+      "fields": {"definition": "A-better", "arabic_explanation": "tie", "sense_separation": "A-better", "examples": "A-better", "translations": "A-better", "relations": "tie", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_semantic_error": {"side": "B", "evidence": "\"The sound hit the wall.\" and \"The loud noise made the room shake.\" do not use reverberate at all"},
+        "target_word_violation": {"side": "B", "evidence": "the two examples above contain no lemma; \"reverberated\" in \"The drum beat reverberated...\" is inflected, not the exact lemma"}
+      }
+    },
+    "eval_seeded60_v1-0010": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "A-better", "examples": "A-better", "translations": "tie", "relations": "tie", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"The budget was chopped by fifty percent.\" and \"helicopter blades chopped through...\" add different/more-figurative uses than the displayed sense"},
+        "target_word_violation": {"side": "B", "evidence": "\"chopped\" in both examples is not the exact lemma"}
+      }
+    },
+    "eval_seeded60_v1-0037": {
+      "fields": {"definition": "tie", "arabic_explanation": "A-better", "sense_separation": "tie", "examples": "A-better", "translations": "A-better", "relations": "tie", "mnemonic": "tie"},
+      "critical_errors": {}
+    },
+    "eval_seeded60_v1-0020": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "A-better", "examples": "A-better", "translations": "A-better", "relations": "A-better", "mnemonic": "A-better"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"The tears dried on her cheeks.\" and \"The soil has dried up...\" shift to intransitive/resultative uses different from the causative definition"},
+        "invalid_relation_synonym": {"side": "B", "evidence": "\"drain\" is not a reliable synonym of dry in this sense"}
+      }
+    },
+    "eval_seeded60_v1-0009": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "B-better", "translations": "tie", "relations": "B-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: \"chin\" appears exact in the examples; no genuine critical in A; B advantage is curation quality, not a critical error"}
+      }
+    },
+    "eval_seeded60_v1-0013": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "A-better", "examples": "A-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"I have a great deal of work\" and \"He got a raw deal\" present uses different from the agreement definition"},
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: \"deal\" appears exact in the examples"}
+      }
+    },
+    "eval_seeded60_v1-0014": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "A-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"The book deals with the history of Egypt.\" and \"deal a blow\" add uses absent from the definition"},
+        "target_word_violation": {"side": "B", "evidence": "\"dealing\" in \"She is used to dealing...\" is not the exact lemma"}
+      }
+    },
+    "eval_seeded60_v1-0023": {
+      "fields": {"definition": "tie", "arabic_explanation": "tie", "sense_separation": "tie", "examples": "A-better", "translations": "tie", "relations": "A-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "example_sense_error": {"side": "B", "evidence": "\"make an example of him\" is an idiomatic use different from the core definition"},
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: exact \"example\" present"}
+      }
+    },
+    "eval_seeded60_v1-0048": {
+      "fields": {"definition": "B-better", "arabic_explanation": "B-better", "sense_separation": "B-better", "examples": "B-better", "translations": "B-better", "relations": "B-better", "mnemonic": "tie"},
+      "critical_errors": {
+        "invalid_relation_synonym": {"side": "A", "evidence": "\"from\" and \"after\" are not valid synonyms of since as a conjunction"},
+        "example_sense_error": {"side": "A", "evidence": "\"I have been here since Monday.\" and \"She hasn't eaten since breakfast.\" are prepositional/temporal uses, not conjunction"},
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: exact \"since\" present"}
+      }
+    },
+    "eval_seeded60_v1-0046": {
+      "fields": {"definition": "B-better", "arabic_explanation": "B-better", "sense_separation": "B-better", "examples": "B-better", "translations": "A-better", "relations": "A-better", "mnemonic": "A-better"},
+      "critical_errors": {
+        "mnemonic_quality_error": {"side": "A", "evidence": "\"same link.\" provides no actual mnemonic"},
+        "example_sense_error": {"side": "A", "evidence": "\"She won him round to her point of view.\" is a different/advanced use unrepresented in the definition"},
+        "target_word_violation": {"side": null, "evidence": "explicit no-violation: B examples use exact \"round\""}
+      }
+    }
+  }
+}

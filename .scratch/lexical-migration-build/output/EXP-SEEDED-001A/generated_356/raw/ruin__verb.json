@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "ruin",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "ruin",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To destroy or severely damage something.",
+  "explanation_ar": "يخرب أو يبوظ حاجة تماماً، سواء مبنى أو خطة أو حتى مفاجأة.",
+  "senses": [
+   {
+    "definition_en": "To destroy or severely damage something.",
+    "explanation_ar": "يخرب أو يفسد شيئاً بالكامل، مادياً أو معنوياً.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "You will ruin your shoes in the mud.",
+   "One mistake can ruin a career.",
+   "The scandal threatened to ruin his reputation."
+  ],
+  "translations": [
+   "يُخرِّب",
+   "يُفسِد"
+  ],
+  "relations": {
+   "synonyms": [
+    "destroy",
+    "spoil",
+    "wreck",
+    "devastate"
+   ],
+   "antonyms": [
+    "save",
+    "restore",
+    "create"
+   ],
+   "collocations": [
+    "ruin a surprise",
+    "ruin everything",
+    "ruin a reputation"
+   ]
+  },
+  "mnemonic": "زي ما تقول 'روّح' عليها.. يعني 'Ruin' 'خربها'.",
+  "phonetic_us": "ˈɹuːɪn",
+  "phonetic_uk": "ˈruːɪn",
+  "syllables": "ru•in",
+  "semantic_tags": [
+   "#Destroy",
+   "#Spoil",
+   "#Damage"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To destroy or severely damage something.",
+  "explanation_ar": "يخرب أو يبوظ حاجة تماماً، سواء مبنى أو خطة أو حتى مفاجأة.",
+  "examples": [
+   "You will ruin your shoes in the mud.",
+   "One mistake can ruin a career.",
+   "The scandal threatened to ruin his reputation."
+  ],
+  "translations": {
+   "arabic_ar": "يُخرِّب يُفسِد"
+  },
+  "synonyms": [
+   "destroy",
+   "spoil",
+   "wreck",
+   "devastate"
+  ],
+  "antonyms": [
+   "save",
+   "restore",
+   "create"
+  ],
+  "collocations": [
+   "ruin a surprise",
+   "ruin everything",
+   "ruin a reputation"
+  ],
+  "mnemonic_ar": "زي ما تقول 'روّح' عليها.. يعني 'Ruin' 'خربها'."
+ }
+}

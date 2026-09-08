@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "rate",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "rate",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A measurement of the speed, cost, or frequency of something.",
+  "explanation_ar": "معدل أو نسبة، زي سرعة دقات القلب، أو سعر الفائدة، أو الأجر المحدد لخدمة معينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A measurement of the speed, frequency, or degree of something.",
+    "explanation_ar": "معدل أو نسبة حدوث شيء معين أو سرعته قياساً بوحدة زمنية أو كمية أخرى.",
+    "examples": [
+     "The heart rate increases when you run.",
+     "The crime rate has fallen this year."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A fixed charge, price, or payment for a service or period of work.",
+    "explanation_ar": "سعر أو أجر ثابت يُدفع مقابل خدمة أو عمل.",
+    "examples": [
+     "What is the hourly rate for this job?"
+    ]
+   }
+  ],
+  "examples": [
+   "The heart rate increases when you run.",
+   "What is the hourly rate for this job?",
+   "The crime rate has fallen this year."
+  ],
+  "translations": [
+   "مُعَدَّل",
+   "نِسْبَة",
+   "سِعْر"
+  ],
+  "relations": {
+   "synonyms": [
+    "pace",
+    "ratio",
+    "percentage",
+    "charge"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "heart rate",
+    "exchange rate",
+    "interest rate",
+    "crime rate"
+   ]
+  },
+  "mnemonic": "كلمة 'Rate' قريبة من 'راتب'.. والراتب هو 'Rate' بتتحاسب عليه كل شهر",
+  "phonetic_us": "reɪt",
+  "phonetic_uk": "reɪt",
+  "syllables": "rate",
+  "semantic_tags": [
+   "Money",
+   "Speed",
+   "Statistics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A measurement of the speed, cost, or frequency of something.",
+  "explanation_ar": "معدل أو نسبة، زي سرعة دقات القلب، أو سعر الفائدة، أو الأجر المحدد لخدمة معينة.",
+  "examples": [
+   "The heart rate increases when you run.",
+   "What is the hourly rate for this job?",
+   "The crime rate has fallen this year."
+  ],
+  "translations": {
+   "arabic_ar": "مُعَدَّل نِسْبَة سِعْر"
+  },
+  "synonyms": [
+   "pace",
+   "ratio",
+   "percentage",
+   "charge"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "heart rate",
+   "exchange rate",
+   "interest rate",
+   "crime rate"
+  ],
+  "mnemonic_ar": "كلمة 'Rate' قريبة من 'راتب'.. والراتب هو 'Rate' بتتحاسب عليه كل شهر"
+ }
+}

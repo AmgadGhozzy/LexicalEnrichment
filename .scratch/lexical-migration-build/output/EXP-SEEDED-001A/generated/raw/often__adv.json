@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "often",
+  "pos": "adv"
+ },
+ "candidate": {
+  "lemma": "often",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "Frequently; many times; on many occasions.",
+  "explanation_ar": "غالباً، أو في أوقات كثيرة وبشكل متكرر (كتير، وعكسها نادراً).",
+  "senses": [
+   {
+    "definition_en": "Frequently; many times; on many occasions.",
+    "explanation_ar": "غالباً، أو في أوقات كثيرة وبشكل متكرر.",
+    "examples": [
+     "I often go to the park.",
+     "How often do you brush your teeth?",
+     "He often works late at night."
+    ]
+   }
+  ],
+  "examples": [
+   "I often go to the park.",
+   "How often do you brush your teeth?",
+   "He often works late at night."
+  ],
+  "translations": [
+   "غالباً",
+   "كثيراً",
+   "في كثير من الأحيان"
+  ],
+  "relations": {
+   "synonyms": [
+    "frequently",
+    "repeatedly",
+    "regularly"
+   ],
+   "antonyms": [
+    "rarely",
+    "seldom",
+    "never"
+   ],
+   "collocations": [
+    "how often",
+    "very often",
+    "quite often",
+    "more often than not",
+    "as often as"
+   ]
+  },
+  "mnemonic": "شبه 'Off' و 'On'.. النور بيقطع عندنا 'Often' كتير",
+  "phonetic_us": "ˈɔːfən",
+  "phonetic_uk": "ˈɒf(t)ən",
+  "syllables": "of•ten",
+  "semantic_tags": [
+   "#Frequency",
+   "#Time",
+   "#Habit",
+   "#Routine"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Frequently; many times; on many occasions.",
+  "explanation_ar": "غالباً، أو في أوقات كثيرة وبشكل متكرر (كتير، وعكسها نادراً).",
+  "examples": [
+   "I often go to the park.",
+   "How often do you brush your teeth?",
+   "He often works late at night."
+  ],
+  "translations": {
+   "arabic_ar": "غالباً كثيراً في كثير من الأحيان"
+  },
+  "synonyms": [
+   "frequently",
+   "repeatedly",
+   "regularly"
+  ],
+  "antonyms": [
+   "rarely",
+   "seldom",
+   "never"
+  ],
+  "collocations": [
+   "how often",
+   "very often",
+   "quite often",
+   "more often than not",
+   "as often as"
+  ],
+  "mnemonic_ar": "شبه 'Off' و 'On'.. النور بيقطع عندنا 'Often' كتير"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "archbishop",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "archbishop",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A chief bishop responsible for an archdiocese.",
+  "explanation_ar": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A chief bishop responsible for an archdiocese.",
+    "definition_ar": "رئيس الأساقفة المسؤول عن إدارة أبرشية كبرى.",
+    "examples": [
+     "He was appointed as the new archbishop after years of service to the church.",
+     "The archbishop delivered a sermon on peace to the gathered congregation.",
+     "Local church leaders met with the archbishop to discuss community issues."
+    ]
+   }
+  ],
+  "examples": [
+   "He was appointed as the new archbishop after years of service to the church.",
+   "The archbishop delivered a sermon on peace to the gathered congregation.",
+   "Local church leaders met with the archbishop to discuss community issues."
+  ],
+  "translations": [
+   "رئيس الأساقفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "primate"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Archbishop of Canterbury",
+    "appoint an archbishop",
+    "archbishop's palace"
+   ]
+  },
+  "mnemonic": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'.",
+  "phonetic_us": "ˌɑːrtʃˈbɪʃ.əp",
+  "phonetic_uk": "ˌɑːtʃˈbɪʃ.əp",
+  "syllables": "arch•bish•op",
+  "semantic_tags": [
+   "#Religion",
+   "#Leader",
+   "#Church",
+   "#Rank"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A chief bishop responsible for an archdiocese.",
+  "explanation_ar": "رتبة دينية كبيرة في المسيحية، بيكون رئيس الأساقفة.",
+  "examples": [
+   "He was appointed as the new archbishop after years of service to the church.",
+   "The archbishop delivered a sermon on peace to the gathered congregation.",
+   "Local church leaders met with the archbishop to discuss community issues."
+  ],
+  "translations": {
+   "arabic_ar": "رئيس الأساقفة"
+  },
+  "synonyms": [
+   "primate"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Archbishop of Canterbury",
+   "appoint an archbishop",
+   "archbishop's palace"
+  ],
+  "mnemonic_ar": "'Arch' يعني رئيسي 'زي Arch-enemy' + 'Bishop' أسقف.. يبقى 'رئيس الأساقفة'."
+ }
+}

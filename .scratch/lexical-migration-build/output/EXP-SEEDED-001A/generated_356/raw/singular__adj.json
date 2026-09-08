@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "singular",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "singular",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Referring to just one person or thing; exceptionally good or remarkable.",
+  "explanation_ar": "المفرد 'عكس الجمع'، أو وصف لحاجة فريدة ومتميزة جداً.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "Relating to or denoting just one person or thing (in grammar).",
+    "definition_ar": "مفرد؛ دال على شيء واحد أو شخص واحد في قواعد اللغة.",
+    "examples": [
+     "Use the singular form here."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "Remarkable, extraordinary, or exceptionally good.",
+    "definition_ar": "فريد من نوعه أو استثنائي ومتميز للغاية.",
+    "examples": [
+     "He showed singular courage.",
+     "Her voice had a singular quality that captivated everyone."
+    ]
+   }
+  ],
+  "examples": [
+   "Use the singular form here.",
+   "He showed singular courage.",
+   "Her voice had a singular quality that captivated everyone."
+  ],
+  "translations": [
+   "مُفْرَد",
+   "فَرِيد",
+   "اسْتِثْنَائِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "single",
+    "individual",
+    "unique",
+    "remarkable"
+   ],
+   "antonyms": [
+    "plural",
+    "common",
+    "ordinary"
+   ],
+   "collocations": [
+    "singular noun",
+    "singular beauty",
+    "singular form"
+   ]
+  },
+  "mnemonic": "جاية من 'Single'.. في الجرامر يعني 'مفرد'، وفي الوصف يعني حاجة 'Unique' وملهاش زي.",
+  "phonetic_us": "ˈsɪŋɡjʊlə",
+  "phonetic_uk": "ˈsɪŋɡjulə",
+  "syllables": "sin•gu•lar",
+  "semantic_tags": [
+   "#Grammar",
+   "#Unique",
+   "#One"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Referring to just one person or thing; exceptionally good or remarkable.",
+  "explanation_ar": "المفرد 'عكس الجمع'، أو وصف لحاجة فريدة ومتميزة جداً.",
+  "examples": [
+   "Use the singular form here.",
+   "He showed singular courage.",
+   "Her voice had a singular quality that captivated everyone."
+  ],
+  "translations": {
+   "arabic_ar": "مُفْرَد فَرِيد اسْتِثْنَائِيّ"
+  },
+  "synonyms": [
+   "single",
+   "individual",
+   "unique",
+   "remarkable"
+  ],
+  "antonyms": [
+   "plural",
+   "common",
+   "ordinary"
+  ],
+  "collocations": [
+   "singular noun",
+   "singular beauty",
+   "singular form"
+  ],
+  "mnemonic_ar": "جاية من 'Single'.. في الجرامر يعني 'مفرد'، وفي الوصف يعني حاجة 'Unique' وملهاش زي."
+ }
+}

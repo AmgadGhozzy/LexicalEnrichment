@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "similarly",
+  "pos": "adv",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "similarly",
+  "pos": "adv",
+  "cefr": "B1",
+  "definition_en": "In a similar way; used to indicate that two things are alike.",
+  "explanation_ar": "بنفس الطريقة أو بالمثل.. كلمة ربط بتستخدم عشان توضح التشابه بين موقفين",
+  "senses": [
+   {
+    "definition_en": "In a similar or matching way.",
+    "definition_ar": "بنفس الطريقة أو على نحو مشابه."
+   },
+   {
+    "definition_en": "Used to introduce a fact or situation that is similar to what was just stated.",
+    "definition_ar": "بالمثل؛ أداة ربط تُستخدم لبيان التشابه بين أمرين أو موقفين."
+   }
+  ],
+  "examples": [
+   "The houses are built similarly.",
+   "Similarly, we must consider the cost.",
+   "The rules apply to everyone similarly."
+  ],
+  "translations": [
+   "بالمثل",
+   "بصورة مماثلة",
+   "على نحو مشابه"
+  ],
+  "relations": {
+   "synonyms": [
+    "likewise",
+    "in the same way",
+    "correspondingly"
+   ],
+   "antonyms": [
+    "differently"
+   ],
+   "collocations": [
+    "acted similarly",
+    "treated similarly",
+    "similarly important"
+   ]
+  },
+  "mnemonic": "من 'Similar' 'شبه'.. يبقى 'Similarly' 'بشكل مشابه'",
+  "phonetic_us": "ˈsɪmələli",
+  "phonetic_uk": "ˈsɪmələlɪ",
+  "syllables": "sim•i•lar•ly",
+  "semantic_tags": [
+   "grammar",
+   "writing",
+   "comparison"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a similar way; used to indicate that two things are alike.",
+  "explanation_ar": "بنفس الطريقة أو بالمثل.. كلمة ربط بتستخدم عشان توضح التشابه بين موقفين",
+  "examples": [
+   "The houses are built similarly.",
+   "Similarly, we must consider the cost.",
+   "The rules apply to everyone similarly."
+  ],
+  "translations": {
+   "arabic_ar": "بالمثل بصورة مماثلة على نحو مشابه"
+  },
+  "synonyms": [
+   "likewise",
+   "in the same way",
+   "correspondingly"
+  ],
+  "antonyms": [
+   "differently"
+  ],
+  "collocations": [
+   "acted similarly",
+   "treated similarly",
+   "similarly important"
+  ],
+  "mnemonic_ar": "من 'Similar' 'شبه'.. يبقى 'Similarly' 'بشكل مشابه'"
+ }
+}

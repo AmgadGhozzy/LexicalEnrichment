@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2219",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2219",
+  "lemma": "essential",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2219,
+  "lemma": "essential",
+  "pos": "adj",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "General / Common",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɪˈsɛnʃəl",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِسِنْشَل",
+  "definition_en": "Completely necessary or extremely important in order to do something successfully.",
+  "explanation_ar": "يصف الشيء الضروري للغاية أو الجوهري الذي لا يمكن الاستغناء عنه لحدوث أمر ما.",
+  "examples": [
+   {
+    "example_text": "Water is essential for all living things.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Good communication skills are essential in this job.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "It is essential that we arrive before the meeting begins.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"essence\" التي تعني جوهر الشيء، فالأمر الـ \"essential\" هو ما يمس الجوهر ولا يمكن العيش بدونه.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Completely necessary or extremely important in order to do something successfully.",
+    "short_def_en": "completely necessary",
+    "definition_ar": "ضروري جدا ولا يمكن الاستغناء عنه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "importance",
+     "necessity",
+     "requirements"
+    ],
+    "usage_note": "Often followed by 'for' or 'to' when indicating the purpose or person.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Relating to the basic or most important nature of something.",
+    "short_def_en": "fundamental or basic",
+    "definition_ar": "جوهري ومتعلق باصل الشيء",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "nature",
+     "core",
+     "philosophy"
+    ],
+    "usage_note": "Often used before nouns to describe fundamental qualities.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "essential part",
+   "essential role",
+   "essential service",
+   "absolutely essential",
+   "essential ingredient"
+  ],
+  "synonyms": [
+   "crucial",
+   "vital",
+   "necessary",
+   "indispensable",
+   "fundamental"
+  ],
+  "antonyms": [
+   "optional",
+   "unnecessary",
+   "dispensable"
+  ],
+  "related_words": {
+   "en": [
+    "requirement",
+    "priority",
+    "basic",
+    "core",
+    "element"
+   ],
+   "ar": [
+    "متطلب",
+    "أولوية",
+    "أساسي",
+    "جوهر",
+    "عنصر"
+   ]
+  },
+  "word_family": {
+   "noun": "essence",
+   "verb": "",
+   "adj": "essential",
+   "adv": "essentially"
+  },
+  "translations": {
+   "arabic_ar": "ضروري / جوهري",
+   "french_fr": "essentiel",
+   "german_de": "wesentlich",
+   "spanish_es": "esencial",
+   "chinese_zh": "必不可少的 (bì bù kě shǎo de)",
+   "russian_ru": "существенный",
+   "portuguese_pt": "essencial",
+   "japanese_ja": "不可欠な (Fukaketsu na)",
+   "italian_it": "essenziale",
+   "turkish_tr": "gerekli"
+  }
+ },
+ "provenance": {
+  "output_hash": "442413337984c27ffc15e8c9ddb593f47238d204f5642084d334fd54f17799bb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

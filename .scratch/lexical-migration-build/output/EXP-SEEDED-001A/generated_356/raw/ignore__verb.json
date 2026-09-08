@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "ignore",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "ignore",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To intentionally not listen or give attention to.",
+  "explanation_ar": "يتجاهل أو يطنش، يعني يعمل نفسه مش شايف أو مش سامع.",
+  "senses": [
+   {
+    "definition_en": "To intentionally not listen or give attention to someone or something.",
+    "explanation_ar": "أن تتجاهل شخصًا أو شيئًا عن قصد ولا تعيره أي اهتمام.",
+    "examples": [
+     "Don't ignore me.",
+     "I tried to ignore the noise.",
+     "We cannot afford to ignore these warnings."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't ignore me.",
+   "I tried to ignore the noise.",
+   "We cannot afford to ignore these warnings."
+  ],
+  "translations": [
+   "يتجاهل"
+  ],
+  "relations": {
+   "synonyms": [
+    "disregard",
+    "snub",
+    "neglect",
+    "overlook"
+   ],
+   "antonyms": [
+    "notice",
+    "acknowledge",
+    "heed"
+   ],
+   "collocations": [
+    "ignore advice",
+    "ignore the fact",
+    "completely ignore"
+   ]
+  },
+  "mnemonic": "'Ignorant' يعني 'جاهل'.. لما تعمل 'Ignore' لحد كأنك 'تجهل' وجوده.",
+  "phonetic_us": "ɪɡˈnɔːr",
+  "phonetic_uk": "ɪɡˈnɔː",
+  "syllables": "ig•nore",
+  "semantic_tags": [
+   "#Conflict",
+   "#Attention",
+   "#Relationships"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To intentionally not listen or give attention to.",
+  "explanation_ar": "يتجاهل أو يطنش، يعني يعمل نفسه مش شايف أو مش سامع.",
+  "examples": [
+   "Don't ignore me.",
+   "I tried to ignore the noise.",
+   "We cannot afford to ignore these warnings."
+  ],
+  "translations": {
+   "arabic_ar": "يتجاهل"
+  },
+  "synonyms": [
+   "disregard",
+   "snub",
+   "neglect",
+   "overlook"
+  ],
+  "antonyms": [
+   "notice",
+   "acknowledge",
+   "heed"
+  ],
+  "collocations": [
+   "ignore advice",
+   "ignore the fact",
+   "completely ignore"
+  ],
+  "mnemonic_ar": "'Ignorant' يعني 'جاهل'.. لما تعمل 'Ignore' لحد كأنك 'تجهل' وجوده."
+ }
+}

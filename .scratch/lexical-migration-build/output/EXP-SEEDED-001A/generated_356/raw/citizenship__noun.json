@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "citizenship",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "citizenship",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The position or status of being a citizen of a particular country.",
+  "explanation_ar": "الجنسية أو المواطنة؛ وهي الوضع القانوني للفرد كمواطن في دولة معينة وما يترتب عليه من حقوق وواجبات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The legal status of being a citizen of a country, carrying rights and responsibilities.",
+    "explanation_ar": "الوضع أو المركز القانوني للمواطن في دولة ما، شاملاً الحقوق والواجبات.",
+    "examples": [
+     "She applied for citizenship last year.",
+     "Dual citizenship allows you to hold two passports."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The conduct and participation of an individual in their community; civic behavior.",
+    "explanation_ar": "سلوك الفرد ومشاركته المدنية الفعالة ومسؤوليته تجاه مجتمعه.",
+    "examples": [
+     "Schools should actively promote good citizenship among students."
+    ]
+   }
+  ],
+  "examples": [
+   "She applied for citizenship last year.",
+   "Dual citizenship allows you to hold two passports.",
+   "The refugees were finally granted full citizenship."
+  ],
+  "translations": [
+   "مواطنة",
+   "جنسية"
+  ],
+  "relations": {
+   "synonyms": [
+    "nationality"
+   ],
+   "antonyms": [
+    "statelessness"
+   ],
+   "collocations": [
+    "dual citizenship",
+    "apply for citizenship",
+    "grant citizenship"
+   ]
+  },
+  "mnemonic": "كلمة 'Citizen' 'مواطن' + 'Ship'.. كأن المواطنين كلهم راكبين 'Ship' 'سفينة' واحدة هي الوطن.",
+  "phonetic_us": "ˈsɪt.ɪ.zənˌʃɪp",
+  "phonetic_uk": "ˈsɪt.ɪ.zən.ʃɪp",
+  "syllables": "cit•i•zen•ship",
+  "semantic_tags": [
+   "Government",
+   "Identity",
+   "Rights",
+   "Law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The position or status of being a citizen of a particular country.",
+  "explanation_ar": "الجنسية أو المواطنة؛ وهي الوضع القانوني للفرد كمواطن في دولة معينة وما يترتب عليه من حقوق وواجبات.",
+  "examples": [
+   "She applied for citizenship last year.",
+   "Dual citizenship allows you to hold two passports.",
+   "The refugees were finally granted full citizenship."
+  ],
+  "translations": {
+   "arabic_ar": "مواطنة جنسية"
+  },
+  "synonyms": [
+   "nationality"
+  ],
+  "antonyms": [
+   "statelessness"
+  ],
+  "collocations": [
+   "dual citizenship",
+   "apply for citizenship",
+   "grant citizenship"
+  ],
+  "mnemonic_ar": "كلمة 'Citizen' 'مواطن' + 'Ship'.. كأن المواطنين كلهم راكبين 'Ship' 'سفينة' واحدة هي الوطن."
+ }
+}

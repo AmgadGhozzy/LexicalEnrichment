@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "colour",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "colour",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects light.",
+  "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+  "senses": [
+   {
+    "definition_en": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects light.",
+    "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+    "examples": [
+     "The sky is a beautiful blue colour.",
+     "She added some colour to the drawing.",
+     "The leaves change colour in autumn."
+    ]
+   }
+  ],
+  "examples": [
+   "The sky is a beautiful blue colour.",
+   "She added some colour to the drawing.",
+   "The leaves change colour in autumn."
+  ],
+  "translations": [
+   "لون"
+  ],
+  "relations": {
+   "synonyms": [
+    "hue",
+    "shade",
+    "tint",
+    "tone"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bright colour",
+    "dark colour",
+    "change colour",
+    "colour scheme",
+    "primary colour"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈkʌlər",
+  "phonetic_uk": "ˈkʌlə",
+  "syllables": null,
+  "semantic_tags": [
+   "#Vision",
+   "#Art",
+   "#Description"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects light.",
+  "explanation_ar": "اللون، زي الأحمر والأزرق، اللي بنشوفه بعيننا لما الضوء ينعكس على الأشياء.",
+  "examples": [
+   "The sky is a beautiful blue colour.",
+   "She added some colour to the drawing.",
+   "The leaves change colour in autumn."
+  ],
+  "translations": {
+   "arabic_ar": "لون"
+  },
+  "synonyms": [
+   "hue",
+   "shade",
+   "tint",
+   "tone"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bright colour",
+   "dark colour",
+   "change colour",
+   "colour scheme",
+   "primary colour"
+  ],
+  "mnemonic_ar": null
+ }
+}

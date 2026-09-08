@@ -1,0 +1,4 @@
+{"event": "run_config", "run_id": "AI-356-PACED-v1", "timestamp": "2026-09-07T18:41:32+0000", "model": "gemini-3.8-flash", "temperature": 0.0, "thinking": "low", "rubric": "ai-rubric-v3", "rubric_hash": "0f7753e5a26154ec2baace1c80bb5e1c5dbf05aab654ebe6958266fb447c45a7", "pacing_base_s": 4.0, "pacing_jitter": 0.15, "backoff_ladder_s": [15, 30, 60, 120], "watchdog_s": 600.0, "contract_max_retries": 3, "transport_max_retries": 3, "total_items": 356, "already_judged": 238}
+{"eval_id": "EVAL-BLIND-V1-0239", "attempt": 1, "status": "success", "run_id": "AI-356-PACED-v1", "timestamp": "2026-09-07T18:41:35+0000"}
+{"eval_id": "EVAL-BLIND-V1-0240", "attempt": 1, "status": "success", "run_id": "AI-356-PACED-v1", "timestamp": "2026-09-07T18:41:42+0000"}
+{"eval_id": "EVAL-BLIND-V1-0241", "attempt": 1, "status": "success", "run_id": "AI-356-PACED-v1", "timestamp": "2026-09-07T18:41:48+0000"}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "rural",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "rural",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+  "explanation_ar": "ريفي.. أي حاجة ليها علاقة بالريف والزراعة، عكس المدن.",
+  "senses": [
+   {
+    "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+    "definition_ar": "متعلق بالريف أو الحياة فيه، على عكس المدينة.",
+    "examples": [
+     "She lives in a peaceful rural area.",
+     "Public transport is often limited in rural communities.",
+     "The government is investing in rural development."
+    ]
+   }
+  ],
+  "examples": [
+   "She lives in a peaceful rural area.",
+   "Public transport is often limited in rural communities.",
+   "The government is investing in rural development."
+  ],
+  "translations": [
+   "ريفي",
+   "قروي"
+  ],
+  "relations": {
+   "synonyms": [
+    "country",
+    "rustic",
+    "pastoral",
+    "agricultural"
+   ],
+   "antonyms": [
+    "urban"
+   ],
+   "collocations": [
+    "rural area",
+    "rural community",
+    "rural development",
+    "rural population"
+   ]
+  },
+  "mnemonic": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف.",
+  "phonetic_us": "ˈɹɝəl",
+  "phonetic_uk": "ˈɹɔːɹəl",
+  "syllables": "ru•ral",
+  "semantic_tags": [
+   "Countryside",
+   "Farming",
+   "Village",
+   "Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+  "explanation_ar": "ريفي.. أي حاجة ليها علاقة بالريف والزراعة، عكس المدن.",
+  "examples": [
+   "She lives in a peaceful rural area.",
+   "Public transport is often limited in rural communities.",
+   "The government is investing in rural development."
+  ],
+  "translations": {
+   "arabic_ar": "ريفي قروي"
+  },
+  "synonyms": [
+   "country",
+   "rustic",
+   "pastoral",
+   "agricultural"
+  ],
+  "antonyms": [
+   "urban"
+  ],
+  "collocations": [
+   "rural area",
+   "rural community",
+   "rural development",
+   "rural population"
+  ],
+  "mnemonic_ar": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف."
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264",
+ "model": "gemini-3.8-flash",
+ "input_uri": "gs://lexical-enrichment/experiments/PILOT-V1/input/requests.jsonl",
+ "input_sha256": "a2016dd98bc0050d",
+ "config_fingerprint": "672fe52d44a06d36",
+ "manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+ "config": "v2.2.3 exact (temp 1.0, thinking low, grounding off, max 8192)"
+}

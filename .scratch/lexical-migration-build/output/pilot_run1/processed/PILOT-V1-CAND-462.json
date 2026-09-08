@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-462",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-462",
+  "lemma": "true",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 462,
+  "lemma": "true",
+  "pos": "adj",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.99,
+  "phonetic_us": "truː",
+  "phonetic_uk": null,
+  "phonetic_ar": "ترو",
+  "definition_en": "Agreeing with facts or reality, not false or made up.",
+  "explanation_ar": "يصف الشيء بأنه حقيقي أو صحيح ومطابق للواقع، وليس كاذبا أو مصطنعا.",
+  "examples": [
+   {
+    "example_text": "Is it true that you are moving to London?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The movie is based on a true story.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Her dream finally came true after years of hard work.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"true\" بأن إشارتها في الاختبارات هي إشارة الصح مقابل الخطأ.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Agreeing with facts or reality, not false or made up.",
+    "short_def_en": "correct and factual",
+    "definition_ar": "صحيح أو مطابق للحقيقة والواقع",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "fact",
+     "accuracy",
+     "honesty"
+    ],
+    "usage_note": "Often contrasted with false in tests or statements.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Remaining loyal, faithful, or completely sincere to someone or something.",
+    "short_def_en": "loyal and faithful",
+    "definition_ar": "مخلص أو وفي لشخص أو لمبدأ",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "loyalty",
+     "friendship",
+     "relationship"
+    ],
+    "usage_note": "Commonly used in phrases like true friend or true to one's word.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "true story",
+   "come true",
+   "true friend",
+   "hold true"
+  ],
+  "synonyms": [
+   "correct",
+   "accurate",
+   "real",
+   "loyal",
+   "faithful"
+  ],
+  "antonyms": [
+   "false",
+   "untrue",
+   "fake"
+  ],
+  "related_words": {
+   "en": [
+    "truth",
+    "truly",
+    "fact",
+    "reality",
+    "correct"
+   ],
+   "ar": [
+    "حقيقة",
+    "حقا",
+    "واقعة",
+    "واقع",
+    "صحيح"
+   ]
+  },
+  "word_family": {
+   "noun": "truth",
+   "verb": "",
+   "adj": "true",
+   "adv": "truly"
+  },
+  "translations": {
+   "arabic_ar": "صحيح / حقيقي / مخلص",
+   "french_fr": "vrai",
+   "german_de": "wahr",
+   "spanish_es": "verdadero",
+   "chinese_zh": "真实的 (zhēnshí de)",
+   "russian_ru": "верный",
+   "portuguese_pt": "verdadeiro",
+   "japanese_ja": "本当の (Hontō no)",
+   "italian_it": "vero",
+   "turkish_tr": "doğru"
+  }
+ },
+ "provenance": {
+  "output_hash": "0583c8b721361c47e8811dc2d02d09655c449c1c2c996ce9f3a611af8cc09753",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

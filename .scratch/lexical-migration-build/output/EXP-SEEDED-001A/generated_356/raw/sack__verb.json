@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "sack",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "sack",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To dismiss someone from employment; also to plunder and destroy a captured place.",
+  "explanation_ar": "يطرد حد من الشغل 'يرفده'، أو ينهب مدينة ويسرقها 'في الحروب'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To dismiss someone from their job.",
+    "definition_ar": "يطرد شخصاً أو يفصله من العمل.",
+    "pos": "verb"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To plunder and destroy a captured town or city in wartime.",
+    "definition_ar": "ينهب ويدمر مدينة أو مكاناً مستولى عليه أثناء الحرب.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The manager threatened to sack anyone who was late.",
+   "The invading army proceeded to sack the town.",
+   "The company will sack any employee who shares confidential information."
+  ],
+  "translations": [
+   "يطرد",
+   "يفصل من العمل",
+   "ينهب"
+  ],
+  "relations": {
+   "synonyms": [
+    "fire",
+    "dismiss",
+    "discharge",
+    "loot",
+    "plunder"
+   ],
+   "antonyms": [
+    "hire",
+    "employ"
+   ],
+   "collocations": [
+    "sack an employee",
+    "sack the city",
+    "threaten to sack"
+   ]
+  },
+  "mnemonic": "زمان كانوا بيدوا العامل 'Sack' 'شوال' يلم فيه حاجته وهو ماشي، فبقت 'Sack' يعني يطرد.",
+  "phonetic_us": "sæk",
+  "phonetic_uk": "sæk",
+  "syllables": [
+   "sack"
+  ],
+  "semantic_tags": [
+   "#Work",
+   "#War",
+   "#Dismiss"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To dismiss someone from employment; also to plunder and destroy a captured place.",
+  "explanation_ar": "يطرد حد من الشغل 'يرفده'، أو ينهب مدينة ويسرقها 'في الحروب'.",
+  "examples": [
+   "The manager threatened to sack anyone who was late.",
+   "The invading army proceeded to sack the town.",
+   "The company will sack any employee who shares confidential information."
+  ],
+  "translations": {
+   "arabic_ar": "يطرد يفصل من العمل ينهب"
+  },
+  "synonyms": [
+   "fire",
+   "dismiss",
+   "discharge",
+   "loot",
+   "plunder"
+  ],
+  "antonyms": [
+   "hire",
+   "employ"
+  ],
+  "collocations": [
+   "sack an employee",
+   "sack the city",
+   "threaten to sack"
+  ],
+  "mnemonic_ar": "زمان كانوا بيدوا العامل 'Sack' 'شوال' يلم فيه حاجته وهو ماشي، فبقت 'Sack' يعني يطرد."
+ }
+}

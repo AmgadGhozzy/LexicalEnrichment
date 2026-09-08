@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "preliminary",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "preliminary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Coming before a more important action or event; preparatory.",
+  "explanation_ar": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+  "senses": [
+   {
+    "pos": "adj",
+    "definition_en": "Coming before a more important action or event; preparatory.",
+    "explanation_ar": "تمهيدي أو مبدئي، يسبق الحدث أو الإجراء الأساسي.",
+    "examples": [
+     "The preliminary findings suggest a significant correlation.",
+     "The team passed the preliminary round with ease.",
+     "After a preliminary investigation, the committee approved the proposal."
+    ]
+   }
+  ],
+  "examples": [
+   "The preliminary findings suggest a significant correlation.",
+   "The team passed the preliminary round with ease.",
+   "After a preliminary investigation, the committee approved the proposal."
+  ],
+  "translations": [
+   "تمهيدي",
+   "مبدئي"
+  ],
+  "relations": {
+   "synonyms": [
+    "initial",
+    "preparatory",
+    "introductory"
+   ],
+   "antonyms": [
+    "final",
+    "concluding",
+    "closing"
+   ],
+   "collocations": [
+    "preliminary results",
+    "preliminary investigation",
+    "preliminary hearing",
+    "preliminary round"
+   ]
+  },
+  "mnemonic": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية.",
+  "phonetic_us": "prɪˈlɪmənɛri",
+  "phonetic_uk": "prɪˈlɪmɪnəri",
+  "syllables": "pre•lim•i•nary",
+  "semantic_tags": [
+   "start",
+   "preparation",
+   "early",
+   "stage"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Coming before a more important action or event; preparatory.",
+  "explanation_ar": "حاجة تمهيدية أو مبدئية بتتعمل قبل الحدث الأساسي أو المهم.",
+  "examples": [
+   "The preliminary findings suggest a significant correlation.",
+   "The team passed the preliminary round with ease.",
+   "After a preliminary investigation, the committee approved the proposal."
+  ],
+  "translations": {
+   "arabic_ar": "تمهيدي مبدئي"
+  },
+  "synonyms": [
+   "initial",
+   "preparatory",
+   "introductory"
+  ],
+  "antonyms": [
+   "final",
+   "concluding",
+   "closing"
+  ],
+  "collocations": [
+   "preliminary results",
+   "preliminary investigation",
+   "preliminary hearing",
+   "preliminary round"
+  ],
+  "mnemonic_ar": "فيها 'Pre' يعني قبل.. 'Preliminary' يعني التحضير اللي قبل البداية."
+ }
+}

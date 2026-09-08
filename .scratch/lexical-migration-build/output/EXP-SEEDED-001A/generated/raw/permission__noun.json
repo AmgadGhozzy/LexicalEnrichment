@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "cefr": "A2",
+  "lemma": "permission",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "permission",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The act of allowing someone to do something.",
+  "explanation_ar": "الإذن أو السماح.. لما تطلب من حد يوافق إنك تعمل حاجة",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The act of allowing someone to do something.",
+    "explanation_ar": "الإذن أو السماح بفعل شيء ما",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "You need permission to park here.",
+   "She gave me permission to use her car.",
+   "He entered the building without permission."
+  ],
+  "translations": [
+   "إذن",
+   "سماح",
+   "تصريح"
+  ],
+  "relations": {
+   "synonyms": [
+    "authorization",
+    "consent",
+    "approval"
+   ],
+   "antonyms": [
+    "prohibition",
+    "ban",
+    "refusal"
+   ],
+   "collocations": [
+    "ask for permission",
+    "give permission",
+    "grant permission",
+    "written permission"
+   ]
+  },
+  "mnemonic": "جاية من 'Permit' يسمح.. أو افتكر إن أي 'Mission' 'مهمة' محتاجة 'Permission' 'إذن' عشان تبدأ",
+  "phonetic_us": "pərˈmɪʃən",
+  "phonetic_uk": "pəˈmɪʃən",
+  "syllables": "per•mis•sion",
+  "semantic_tags": [
+   "#Authority",
+   "#Rules",
+   "#Request"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The act of allowing someone to do something.",
+  "explanation_ar": "الإذن أو السماح.. لما تطلب من حد يوافق إنك تعمل حاجة",
+  "examples": [
+   "You need permission to park here.",
+   "She gave me permission to use her car.",
+   "He entered the building without permission."
+  ],
+  "translations": {
+   "arabic_ar": "إذن سماح تصريح"
+  },
+  "synonyms": [
+   "authorization",
+   "consent",
+   "approval"
+  ],
+  "antonyms": [
+   "prohibition",
+   "ban",
+   "refusal"
+  ],
+  "collocations": [
+   "ask for permission",
+   "give permission",
+   "grant permission",
+   "written permission"
+  ],
+  "mnemonic_ar": "جاية من 'Permit' يسمح.. أو افتكر إن أي 'Mission' 'مهمة' محتاجة 'Permission' 'إذن' عشان تبدأ"
+ }
+}

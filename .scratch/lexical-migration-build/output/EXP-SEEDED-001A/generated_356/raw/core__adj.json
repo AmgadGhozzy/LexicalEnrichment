@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "core",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "core",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Most important or central to something.",
+  "explanation_ar": "حاجة أساسية أو جوهرية.. مش فرعية.. زي المواد الأساسية في الدراسة",
+  "senses": [
+   {
+    "definition_en": "Most important or central to something.",
+    "definition_ar": "أساسي أو جوهري",
+    "examples": [
+     "Customer service is a core part of our business.",
+     "The company is focusing on its core activities.",
+     "Respect is a core value in this community."
+    ]
+   }
+  ],
+  "examples": [
+   "Customer service is a core part of our business.",
+   "The company is focusing on its core activities.",
+   "Respect is a core value in this community."
+  ],
+  "translations": [
+   "أساسي",
+   "جوهري"
+  ],
+  "relations": {
+   "synonyms": [
+    "central",
+    "key",
+    "basic",
+    "fundamental",
+    "essential"
+   ],
+   "antonyms": [
+    "peripheral",
+    "minor",
+    "secondary"
+   ],
+   "collocations": [
+    "core curriculum",
+    "core skills",
+    "core belief",
+    "core competence"
+   ]
+  },
+  "mnemonic": "تخيّل قلب التفاحة (apple core) الموجود في المنتصف تماماً؛ كصفة، أي شيء core بيكون في قلب وجوهر الموضوع يعني أساسي وجوهري.",
+  "phonetic_us": "kɔːr",
+  "phonetic_uk": "kɔː(r)",
+  "syllables": [
+   "core"
+  ],
+  "semantic_tags": [
+   "#Essential",
+   "#Main",
+   "#Basic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Most important or central to something.",
+  "explanation_ar": "حاجة أساسية أو جوهرية.. مش فرعية.. زي المواد الأساسية في الدراسة",
+  "examples": [
+   "Customer service is a core part of our business.",
+   "The company is focusing on its core activities.",
+   "Respect is a core value in this community."
+  ],
+  "translations": {
+   "arabic_ar": "أساسي جوهري"
+  },
+  "synonyms": [
+   "central",
+   "key",
+   "basic",
+   "fundamental",
+   "essential"
+  ],
+  "antonyms": [
+   "peripheral",
+   "minor",
+   "secondary"
+  ],
+  "collocations": [
+   "core curriculum",
+   "core skills",
+   "core belief",
+   "core competence"
+  ],
+  "mnemonic_ar": "تخيّل قلب التفاحة (apple core) الموجود في المنتصف تماماً؛ كصفة، أي شيء core بيكون في قلب وجوهر الموضوع يعني أساسي وجوهري."
+ }
+}

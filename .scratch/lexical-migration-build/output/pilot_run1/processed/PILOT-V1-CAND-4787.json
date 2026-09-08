@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4787",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4787",
+  "lemma": "accordingly",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4787,
+  "lemma": "accordingly",
+  "pos": "adv",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "əˈkɔːrdɪŋli",
+  "phonetic_uk": "əˈkɔːdɪŋli",
+  "phonetic_ar": "أَكُورْدِنْغْلِي",
+  "definition_en": "In a way that is appropriate to the particular circumstances, or as a direct result.",
+  "explanation_ar": "بناء على ما سبق أو تبعا لذلك؛ التصرف بطريقة ملائمة للموقف أو كنتيجة طبيعية له.",
+  "examples": [
+   {
+    "example_text": "The rules have changed, and you must act accordingly.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Costs have risen sharply, and accordingly, prices must increase.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "We identified several risks early on and planned our strategy accordingly.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر عبارة according to التي تعني بحسب، واضافة ly تجعلها ظرفا يعني بناء على ذلك او تبعا لذلك.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "In a way that suits or matches the situation.",
+    "short_def_en": "appropriately to circumstances",
+    "definition_ar": "وفقا لذلك او بما يتناسب مع الوضع المحدد",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "consequence",
+     "suitability",
+     "logic"
+    ],
+    "usage_note": "Often placed at the end of a clause after verbs like act, plan, or adjust.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "As a result of something that has just been stated.",
+    "short_def_en": "therefore or consequently",
+    "definition_ar": "وبناء على ذلك او لذلك كتحصيل حاصل",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "cause and effect",
+     "transition",
+     "discourse"
+    ],
+    "usage_note": "Functions as a sentence connector similar to therefore or consequently.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "act accordingly",
+   "adjust accordingly",
+   "plan accordingly",
+   "respond accordingly",
+   "be priced accordingly"
+  ],
+  "synonyms": [
+   "consequently",
+   "therefore",
+   "appropriately",
+   "suitably",
+   "hence"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "according",
+    "accord",
+    "accordance",
+    "result",
+    "response"
+   ],
+   "ar": [
+    "بحسب",
+    "اتفاق",
+    "مطابقة",
+    "نتيجة",
+    "استجابة"
+   ]
+  },
+  "word_family": {
+   "noun": "accordance",
+   "verb": "accord",
+   "adj": "according",
+   "adv": "accordingly"
+  },
+  "translations": {
+   "arabic_ar": "بناءً على ذلك / تبعاً لذلك / وِفْقاً لذلك",
+   "french_fr": "en conséquence",
+   "german_de": "dementsprechend",
+   "spanish_es": "en consecuencia",
+   "chinese_zh": "相应地 (xiāngyìng de)",
+   "russian_ru": "соответственно",
+   "portuguese_pt": "em conformidade",
+   "japanese_ja": "それに応じて (Sore ni ōjite)",
+   "italian_it": "di conseguenza",
+   "turkish_tr": "buna göre"
+  }
+ },
+ "provenance": {
+  "output_hash": "9c729edc0969f0d11a3e78987bfba8ea1d1f57250b1514c863de0299fef1c0a3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

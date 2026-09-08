@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "contain",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "contain",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To have or hold something within.",
+  "explanation_ar": "يحتوي على، يعني حاجة تكون جوا حاجة تانية، زي الصندوق لما يكون جواه أغراض.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To have or hold something within or inside.",
+    "definition_ar": "يحتوي على أو يشتمل على شيء في داخله.",
+    "examples": [
+     "Does this food contain nuts?",
+     "These boxes contain old photographs."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To control or prevent something harmful from spreading.",
+    "definition_ar": "يُحجّم أو يسيطر على انتشار شيء غير مرغوب فيه.",
+    "examples": [
+     "They tried to contain the spread of the virus."
+    ]
+   }
+  ],
+  "examples": [
+   "Does this food contain nuts?",
+   "These boxes contain old photographs.",
+   "They tried to contain the spread of the virus."
+  ],
+  "translations": [
+   "يحتوي على",
+   "يتضمن",
+   "يشمل",
+   "يُكبح / يُحجم"
+  ],
+  "relations": {
+   "synonyms": [
+    "hold",
+    "include",
+    "comprise",
+    "enclose"
+   ],
+   "antonyms": [
+    "exclude",
+    "release",
+    "omit"
+   ],
+   "collocations": [
+    "contain information",
+    "contain ingredients",
+    "contain a virus",
+    "contain excitement"
+   ]
+  },
+  "mnemonic": "الـ 'Container' 'الحاوية' وظيفتها إنها 'Contain' البضائع جواها.",
+  "phonetic_us": "kənˈteɪn",
+  "phonetic_uk": "kənˈteɪn",
+  "syllables": "con•tain",
+  "semantic_tags": [
+   "#Holding",
+   "#Content",
+   "#Inside",
+   "#Capacity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To have or hold something within.",
+  "explanation_ar": "يحتوي على، يعني حاجة تكون جوا حاجة تانية، زي الصندوق لما يكون جواه أغراض.",
+  "examples": [
+   "Does this food contain nuts?",
+   "These boxes contain old photographs.",
+   "They tried to contain the spread of the virus."
+  ],
+  "translations": {
+   "arabic_ar": "يحتوي على يتضمن يشمل يُكبح / يُحجم"
+  },
+  "synonyms": [
+   "hold",
+   "include",
+   "comprise",
+   "enclose"
+  ],
+  "antonyms": [
+   "exclude",
+   "release",
+   "omit"
+  ],
+  "collocations": [
+   "contain information",
+   "contain ingredients",
+   "contain a virus",
+   "contain excitement"
+  ],
+  "mnemonic_ar": "الـ 'Container' 'الحاوية' وظيفتها إنها 'Contain' البضائع جواها."
+ }
+}

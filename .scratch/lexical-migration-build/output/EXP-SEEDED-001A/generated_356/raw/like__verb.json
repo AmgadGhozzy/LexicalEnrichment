@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "like",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "like",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To find agreeable, enjoyable, or satisfactory.",
+  "explanation_ar": "يحب حاجة أو تعجبه.",
+  "senses": [
+   {
+    "definition_en": "To find agreeable, enjoyable, or satisfactory.",
+    "explanation_ar": "يحب شيئاً أو شخصاً أو يُعجب به.",
+    "examples": [
+     "I like pizza.",
+     "Do you like swimming?",
+     "I would like to order now."
+    ]
+   }
+  ],
+  "examples": [
+   "I like pizza.",
+   "Do you like swimming?",
+   "I would like to order now."
+  ],
+  "translations": [
+   "يحب",
+   "يُعجب بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "enjoy",
+    "love"
+   ],
+   "antonyms": [
+    "dislike",
+    "hate"
+   ],
+   "collocations": [
+    "would like",
+    "like to",
+    "feel like"
+   ]
+  },
+  "mnemonic": "زي زرار الـ 'Like' في الفيسبوك.. بتدوس عليه لما حاجة تعجبك.",
+  "phonetic_us": "laɪk",
+  "phonetic_uk": "laɪk",
+  "syllables": "like",
+  "semantic_tags": [
+   "#Preference",
+   "#Emotion",
+   "#Enjoyment"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To find agreeable, enjoyable, or satisfactory.",
+  "explanation_ar": "يحب حاجة أو تعجبه.",
+  "examples": [
+   "I like pizza.",
+   "Do you like swimming?",
+   "I would like to order now."
+  ],
+  "translations": {
+   "arabic_ar": "يحب يُعجب بـ"
+  },
+  "synonyms": [
+   "enjoy",
+   "love"
+  ],
+  "antonyms": [
+   "dislike",
+   "hate"
+  ],
+  "collocations": [
+   "would like",
+   "like to",
+   "feel like"
+  ],
+  "mnemonic_ar": "زي زرار الـ 'Like' في الفيسبوك.. بتدوس عليه لما حاجة تعجبك."
+ }
+}

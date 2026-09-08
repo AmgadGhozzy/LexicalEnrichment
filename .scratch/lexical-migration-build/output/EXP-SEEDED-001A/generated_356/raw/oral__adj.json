@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "oral",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "oral",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Spoken rather than written; relating to the mouth.",
+  "explanation_ar": "يعني شفوي أو ليه علاقة بالفم، زي لما نقول امتحان شفوي مش تحريري.",
+  "senses": [
+   {
+    "definition_en": "Spoken rather than written; transmitted by speech.",
+    "explanation_ar": "شفوي؛ منطوق باللسان وغير مكتوب.",
+    "examples": [
+     "They reached an oral agreement before signing the contract.",
+     "The dissertation defense includes a rigorous oral examination."
+    ]
+   },
+   {
+    "definition_en": "Relating to, affecting, or done through the mouth.",
+    "explanation_ar": "فموي؛ متعلق بالفم أو يتم من خلاله.",
+    "examples": [
+     "She has good oral hygiene."
+    ]
+   }
+  ],
+  "examples": [
+   "They reached an oral agreement before signing the contract.",
+   "The dissertation defense includes a rigorous oral examination.",
+   "She has good oral hygiene."
+  ],
+  "translations": [
+   "شفوي",
+   "فموي"
+  ],
+  "relations": {
+   "synonyms": [
+    "spoken",
+    "verbal",
+    "unwritten"
+   ],
+   "antonyms": [
+    "written",
+    "printed"
+   ],
+   "collocations": [
+    "oral exam",
+    "oral hygiene",
+    "oral tradition",
+    "oral agreement"
+   ],
+   "word_family": {
+    "adj": "oral",
+    "adv": "orally",
+    "noun": "orality"
+   }
+  },
+  "mnemonic": "كلمة 'Oral' بتفكرنا بكلمة 'Orator' يعني خطيب، والخطيب دايماً بيستخدم الكلام الـ 'Oral' الشفوي.",
+  "phonetic_us": "ˈɔːɹəl",
+  "phonetic_uk": "ˈɔːrəl",
+  "syllables": null,
+  "semantic_tags": [
+   "#Communication",
+   "#Health",
+   "#Education"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Spoken rather than written; relating to the mouth.",
+  "explanation_ar": "يعني شفوي أو ليه علاقة بالفم، زي لما نقول امتحان شفوي مش تحريري.",
+  "examples": [
+   "They reached an oral agreement before signing the contract.",
+   "The dissertation defense includes a rigorous oral examination.",
+   "She has good oral hygiene."
+  ],
+  "translations": {
+   "arabic_ar": "شفوي فموي"
+  },
+  "synonyms": [
+   "spoken",
+   "verbal",
+   "unwritten"
+  ],
+  "antonyms": [
+   "written",
+   "printed"
+  ],
+  "collocations": [
+   "oral exam",
+   "oral hygiene",
+   "oral tradition",
+   "oral agreement"
+  ],
+  "mnemonic_ar": "كلمة 'Oral' بتفكرنا بكلمة 'Orator' يعني خطيب، والخطيب دايماً بيستخدم الكلام الـ 'Oral' الشفوي."
+ }
+}

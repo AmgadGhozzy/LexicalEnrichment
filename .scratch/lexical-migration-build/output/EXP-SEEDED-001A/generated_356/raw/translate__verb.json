@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "translate",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "translate",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To express the sense of words or text in another language.",
+  "explanation_ar": "يترجم، يعني يحول الكلام من لغة للغة تانية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To express the sense of words or text in another language.",
+    "definition_ar": "يترجم، يعني يحول الكلام أو النص من لغة إلى لغة أخرى.",
+    "pos": "verb",
+    "cefr": "B1",
+    "examples": [
+     "Can you translate this?",
+     "I used an app to translate the menu.",
+     "It is difficult to translate poetry."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you translate this?",
+   "I used an app to translate the menu.",
+   "It is difficult to translate poetry."
+  ],
+  "translations": [
+   "يترجم"
+  ],
+  "relations": {
+   "synonyms": [
+    "interpret",
+    "render"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "translate into",
+    "translate literally",
+    "translate accurately"
+   ],
+   "word_family": {
+    "verb": "translate",
+    "noun": "translation",
+    "adjective": "translatable"
+   }
+  },
+  "mnemonic": "'Trans' 'نقل' + 'Late' 'متأخر'.. المترجم بينقل المعنى من غير ما يكون 'Late'.",
+  "phonetic_us": "trænzˈleɪt",
+  "phonetic_uk": "trænzˈleɪt",
+  "syllables": "trans•late",
+  "semantic_tags": [
+   "#Language",
+   "#Words",
+   "#Communication"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To express the sense of words or text in another language.",
+  "explanation_ar": "يترجم، يعني يحول الكلام من لغة للغة تانية.",
+  "examples": [
+   "Can you translate this?",
+   "I used an app to translate the menu.",
+   "It is difficult to translate poetry."
+  ],
+  "translations": {
+   "arabic_ar": "يترجم"
+  },
+  "synonyms": [
+   "interpret",
+   "render"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "translate into",
+   "translate literally",
+   "translate accurately"
+  ],
+  "mnemonic_ar": "'Trans' 'نقل' + 'Late' 'متأخر'.. المترجم بينقل المعنى من غير ما يكون 'Late'."
+ }
+}

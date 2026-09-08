@@ -1,0 +1,31 @@
+{
+ "key": "PILOT-V1-CAND-412",
+ "manifest_id": "pilot_manifest_v1",
+ "run_id": "RUN-BATCH-1",
+ "status": "partial",
+ "failure_class": "validator_findings",
+ "provenance_line": 122,
+ "validator": {
+  "checks": {
+   "artifact_structure": "pass",
+   "runtime_status": "pass",
+   "output_hash": "pass",
+   "schema": "pass",
+   "required_fields": "pass",
+   "example_count": "pass",
+   "target_word": "fail",
+   "mnemonic": "pass",
+   "circular_definition": "pass",
+   "pos_alignment": "unverified"
+  },
+  "failures": [
+   {
+    "code": "TARGET_WORD_MISSING",
+    "message": "Lemma 'line-up' not found in examples [0, 1, 2]"
+   }
+  ],
+  "flags": []
+ },
+ "guard_defects": {},
+ "validated_at": "2026-09-06T14:57:59.278554+00:00"
+}

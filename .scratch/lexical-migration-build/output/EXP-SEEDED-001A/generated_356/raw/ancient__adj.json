@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "ancient",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "ancient",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Belonging to the very distant past.",
+  "explanation_ar": "حاجة قديمة جداً من زمن فات وانتهى، زي الآثار والحضارات القديمة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "Belonging to the very distant past.",
+    "definition_ar": "قديم جداً ينتمي إلى زمن بعيد في التاريخ.",
+    "examples": [
+     "This is an ancient building.",
+     "They visited ancient ruins.",
+     "It is an ancient custom in this village."
+    ]
+   }
+  ],
+  "examples": [
+   "This is an ancient building.",
+   "They visited ancient ruins.",
+   "It is an ancient custom in this village."
+  ],
+  "translations": [
+   "عتيق",
+   "قديم جداً"
+  ],
+  "relations": {
+   "synonyms": [
+    "antique",
+    "archaic"
+   ],
+   "antonyms": [
+    "modern",
+    "new",
+    "contemporary"
+   ],
+   "collocations": [
+    "ancient history",
+    "ancient times",
+    "ancient civilization",
+    "ancient ruins"
+   ]
+  },
+  "mnemonic": "شبه 'Ant' 'نملة'.. النمل موجود من عصور 'Ancient' جداً.",
+  "phonetic_us": "ˈeɪnʃənt",
+  "phonetic_uk": "ˈeɪnʃənt",
+  "syllables": "an•cient",
+  "semantic_tags": [
+   "history",
+   "civilization",
+   "time"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Belonging to the very distant past.",
+  "explanation_ar": "حاجة قديمة جداً من زمن فات وانتهى، زي الآثار والحضارات القديمة.",
+  "examples": [
+   "This is an ancient building.",
+   "They visited ancient ruins.",
+   "It is an ancient custom in this village."
+  ],
+  "translations": {
+   "arabic_ar": "عتيق قديم جداً"
+  },
+  "synonyms": [
+   "antique",
+   "archaic"
+  ],
+  "antonyms": [
+   "modern",
+   "new",
+   "contemporary"
+  ],
+  "collocations": [
+   "ancient history",
+   "ancient times",
+   "ancient civilization",
+   "ancient ruins"
+  ],
+  "mnemonic_ar": "شبه 'Ant' 'نملة'.. النمل موجود من عصور 'Ancient' جداً."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "cefr": "A2",
+  "lemma": "round",
+  "pos": "adv"
+ },
+ "candidate": {
+  "lemma": "round",
+  "pos": "adv",
+  "cefr": "A2",
+  "definition_en": "In a circle or curve, or so as to face in the opposite direction; around.",
+  "explanation_ar": "بشكل دائري، أو في الاتجاه المعاكس (لوراء)، أو في كل مكان.",
+  "senses": [
+   {
+    "sense_id": "round_adv_1",
+    "definition_en": "In a circle or with a circular movement, or turning to face the opposite direction.",
+    "definition_ar": "في حركة دائرية أو بالالتفاف في الاتجاه المعاكس.",
+    "examples": [
+     "Turn round and look at what is behind you.",
+     "The wheels spun round very quickly."
+    ]
+   },
+   {
+    "sense_id": "round_adv_2",
+    "definition_en": "To each person in a group or to different places in an area.",
+    "definition_ar": "لكل شخص في مجموعة أو في أماكن متفرقة داخل المكان.",
+    "examples": [
+     "Pass the papers round so everyone gets a copy."
+    ]
+   }
+  ],
+  "examples": [
+   "Turn round so I can see your face.",
+   "Pass the papers round to everyone in the room.",
+   "There is enough food to go round."
+  ],
+  "translations": [
+   "حول",
+   "للخلف",
+   "في دائرة",
+   "على الجميع"
+  ],
+  "relations": {
+   "synonyms": [
+    "around",
+    "about"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "turn round",
+    "go round",
+    "look round",
+    "all year round"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/raʊnd/",
+  "phonetic_uk": "/raʊnd/",
+  "syllables": "round",
+  "semantic_tags": [
+   "#Movement",
+   "#Direction",
+   "#Circle"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a circle or curve, or so as to face in the opposite direction; around.",
+  "explanation_ar": "بشكل دائري، أو في الاتجاه المعاكس (لوراء)، أو في كل مكان.",
+  "examples": [
+   "Turn round so I can see your face.",
+   "Pass the papers round to everyone in the room.",
+   "There is enough food to go round."
+  ],
+  "translations": {
+   "arabic_ar": "حول للخلف في دائرة على الجميع"
+  },
+  "synonyms": [
+   "around",
+   "about"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "turn round",
+   "go round",
+   "look round",
+   "all year round"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "cefr": "B1",
+  "lemma": "tractor",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "tractor",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+  "explanation_ar": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and machinery.",
+    "definition_ar": "جرار زراعي",
+    "cefr": "B1"
+   }
+  ],
+  "examples": [
+   "The farmer drives a tractor.",
+   "A red tractor is in the field.",
+   "He used a tractor to pull the heavy trailer."
+  ],
+  "translations": [
+   "جرار",
+   "جرار زراعي"
+  ],
+  "relations": {
+   "synonyms": [
+    "farm vehicle",
+    "hauler"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "drive a tractor",
+    "farm tractor",
+    "tractor trailer"
+   ]
+  },
+  "mnemonic": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة.",
+  "phonetic_us": "ˈtræktər",
+  "phonetic_uk": "ˈtræktə",
+  "syllables": "trac•tor",
+  "semantic_tags": [
+   "#Farming",
+   "#Vehicle",
+   "#Agriculture"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment.",
+  "explanation_ar": "جرار زراعي قوي بيمشي في الأرض الطينة عشان يحرثها أو يشد حاجات تقيلة.",
+  "examples": [
+   "The farmer drives a tractor.",
+   "A red tractor is in the field.",
+   "He used a tractor to pull the heavy trailer."
+  ],
+  "translations": {
+   "arabic_ar": "جرار جرار زراعي"
+  },
+  "synonyms": [
+   "farm vehicle",
+   "hauler"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "drive a tractor",
+   "farm tractor",
+   "tractor trailer"
+  ],
+  "mnemonic_ar": "جاية من 'Traction' يعني جرّ.. الـ 'Tractor' هو اللي بيعمل الجرّ ده في المزرعة."
+ }
+}

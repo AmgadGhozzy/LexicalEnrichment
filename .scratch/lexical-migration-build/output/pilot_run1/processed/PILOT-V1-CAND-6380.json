@@ -1,0 +1,128 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6380",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6380",
+  "lemma": "sponge",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6380,
+  "lemma": "sponge",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "spʌndʒ",
+  "phonetic_uk": null,
+  "phonetic_ar": "سبَانج",
+  "definition_en": "A soft, porous piece of material used for washing, cleaning, or absorbing liquids.",
+  "explanation_ar": "قطعة خفيفة مليئة بالمسام تُصنع من مواد طبيعية أو صناعية، وتُستخدم في التنظيف والتنشيف لامتصاصها السريع للماء.",
+  "examples": [
+   {
+    "example_text": "She soaked the sponge in soapy water to clean the table.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Wipe up that spilled milk using a dry sponge.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He bought a soft sponge to wash his car without scratching the paint.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر شخصية الرسوم المتحركة الشهيرة سبونج بوب التي تمثل إسفنجة صفراء تمتص الماء.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A soft, absorbent block of porous material used for cleaning surfaces or bathing.",
+    "short_def_en": "cleaning or bathing pad",
+    "definition_ar": "قطعة اسفنجية مسامية لينة تستخدم في التنظيف أو الاستحمام لامتصاص السوائل.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "cleaning",
+     "household",
+     "tools"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A simple aquatic animal with a porous skeleton that lives attached to underwater surfaces.",
+    "short_def_en": "sea animal",
+    "definition_ar": "حيوان مائي بسيط عديم الحركة يعيش في قاع البحار وتتخلل جسمه مسام كثيرة.",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "marine biology",
+     "animals",
+     "nature"
+    ],
+    "usage_note": "Commonly encountered in science or marine biology contexts.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "damp sponge",
+   "wet sponge",
+   "natural sponge",
+   "bath sponge",
+   "wipe with a sponge"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "absorb",
+    "foam",
+    "wipe",
+    "cleaner",
+    "porous"
+   ],
+   "ar": [
+    "يمتص",
+    "رغوة",
+    "يمسح",
+    "منظف",
+    "مسامي"
+   ]
+  },
+  "word_family": {
+   "noun": "sponge",
+   "verb": "sponge",
+   "adj": "spongy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "إسفنج / إسفنجة",
+   "french_fr": "éponge",
+   "german_de": "Schwamm",
+   "spanish_es": "esponja",
+   "chinese_zh": "海绵 (Hǎimián)",
+   "russian_ru": "губка",
+   "portuguese_pt": "esponja",
+   "japanese_ja": "スポンジ (Suponji)",
+   "italian_it": "spugna",
+   "turkish_tr": "sünger"
+  }
+ },
+ "provenance": {
+  "output_hash": "d9519e0b72a68e992c367003bb6a4c42d2e5bf9627ea3ed526d5881782795c90",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

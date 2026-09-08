@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5394",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5394",
+  "lemma": "terrace",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5394,
+  "lemma": "terrace",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈter.əs",
+  "phonetic_uk": null,
+  "phonetic_ar": "تِيرَس",
+  "definition_en": "A flat, paved outdoor area next to a building, used for relaxing, eating, or entertaining.",
+  "explanation_ar": "مساحة خارجية مسطحة ومبلطة ملحقة بمبنى، مثل الشرفة الكبيرة أو الفناء المرتفع، تُستخدم للجلوس وتناول الطعام في الهواء الطلق.",
+  "examples": [
+   {
+    "example_text": "We enjoyed having breakfast outside on the terrace of the hotel.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The apartment features a wide terrace that overlooks the city park.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "They sat on the terrace drinking coffee as the sun began to set.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"terrace\" مشتقة من الكلمة اللاتينية terra التي تعني الارض او اليابسة وتطلق على مكان مبلط ملحق بالارض للجلوس في الهواء الطلق",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A flat, paved outdoor area next to a building, used for relaxing, eating, or entertaining.",
+    "short_def_en": "paved outdoor patio or deck",
+    "definition_ar": "مساحة خارجية مرصوفة متصلة بمنزل او مبنى تستخدم للجلوس والاسترخاء",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "architecture",
+     "outdoor",
+     "housing"
+    ],
+    "usage_note": "Often used interchangeably with patio or large balcony, but typically paved and directly adjoining a structure.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A continuous row of similar houses joined together along their side walls.",
+    "short_def_en": "row of connected houses",
+    "definition_ar": "صف من المنازل المتطابقة المتلاصقة في شارع واحد",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "architecture",
+     "housing",
+     "urban"
+    ],
+    "usage_note": "Mainly British English; known as a row house or townhouse in American English.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "sun terrace",
+   "rooftop terrace",
+   "outdoor terrace",
+   "stone terrace"
+  ],
+  "synonyms": [
+   "patio",
+   "veranda",
+   "deck",
+   "balcony"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "garden",
+    "courtyard",
+    "porch",
+    "architecture",
+    "house"
+   ],
+   "ar": [
+    "حديقة",
+    "فناء",
+    "شرفة امامية",
+    "عمارة",
+    "منزل"
+   ]
+  },
+  "word_family": {
+   "noun": "terrace",
+   "verb": "terrace",
+   "adj": "terraced",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "شرفة واسعة / تراس",
+   "french_fr": "terrasse",
+   "german_de": "Terrasse",
+   "spanish_es": "terraza",
+   "chinese_zh": "露台 (Lùtái)",
+   "russian_ru": "терраса",
+   "portuguese_pt": "terraço",
+   "japanese_ja": "テラス (Terasu)",
+   "italian_it": "terrazza",
+   "turkish_tr": "teras"
+  }
+ },
+ "provenance": {
+  "output_hash": "92e2734a284490f1267c47c2755dc59e48a90537f57005531acefe686aad474b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

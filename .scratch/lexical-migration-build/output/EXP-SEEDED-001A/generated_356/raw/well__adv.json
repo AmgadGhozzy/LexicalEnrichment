@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "well",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "well",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "In a good or satisfactory way.",
+  "explanation_ar": "بشكل كويس أو جيد؛ بطريقة مرضية أو ناجحة.",
+  "senses": [
+   {
+    "definition_en": "In a good or satisfactory way.",
+    "definition_ar": "بشكل جيد أو مرضٍ.",
+    "examples": [
+     "She cooks very well.",
+     "I know him well.",
+     "The team played well today."
+    ]
+   }
+  ],
+  "examples": [
+   "She cooks very well.",
+   "I know him well.",
+   "The team played well today."
+  ],
+  "translations": [
+   "جيدًا",
+   "بشكل جيد"
+  ],
+  "relations": {
+   "synonyms": [
+    "satisfactorily",
+    "skillfully",
+    "properly"
+   ],
+   "antonyms": [
+    "badly",
+    "poorly"
+   ],
+   "collocations": [
+    "very well",
+    "do well",
+    "as well"
+   ]
+  },
+  "mnemonic": "عكس 'Ill'.. 'Well' يعني كويس.",
+  "phonetic_us": "wɛl",
+  "phonetic_uk": "wel",
+  "syllables": [
+   "well"
+  ],
+  "semantic_tags": [
+   "#Performance",
+   "#Quality",
+   "#Skill"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a good or satisfactory way.",
+  "explanation_ar": "بشكل كويس أو جيد؛ بطريقة مرضية أو ناجحة.",
+  "examples": [
+   "She cooks very well.",
+   "I know him well.",
+   "The team played well today."
+  ],
+  "translations": {
+   "arabic_ar": "جيدًا بشكل جيد"
+  },
+  "synonyms": [
+   "satisfactorily",
+   "skillfully",
+   "properly"
+  ],
+  "antonyms": [
+   "badly",
+   "poorly"
+  ],
+  "collocations": [
+   "very well",
+   "do well",
+   "as well"
+  ],
+  "mnemonic_ar": "عكس 'Ill'.. 'Well' يعني كويس."
+ }
+}

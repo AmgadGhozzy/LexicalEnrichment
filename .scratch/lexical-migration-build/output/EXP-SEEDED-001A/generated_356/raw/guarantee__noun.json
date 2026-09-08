@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "guarantee",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "guarantee",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A formal promise or assurance that certain conditions will be fulfilled.",
+  "explanation_ar": "الضمان.. الوعد إن الحاجة دي كويسة ولو باظت تتصلح أو تتبدل",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A formal promise or assurance that certain conditions will be fulfilled.",
+    "definition_ar": "تعهد أو وعد رسمي بأن شروطاً معينة ستتحقق.",
+    "examples": [
+     "There is no guarantee that it will work."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "A written promise by a company to repair or replace a faulty product within a specified period.",
+    "definition_ar": "وثيقة ضمان تلتزم فيها الشركة بإصلاح منتج أو استبداله إذا ظهر به عيب.",
+    "examples": [
+     "The watch has a two-year guarantee.",
+     "We offer a money-back guarantee."
+    ]
+   }
+  ],
+  "examples": [
+   "The watch has a two-year guarantee.",
+   "We offer a money-back guarantee.",
+   "There is no guarantee that it will work."
+  ],
+  "translations": [
+   "ضمان",
+   "كفالة"
+  ],
+  "relations": {
+   "synonyms": [
+    "warranty",
+    "assurance",
+    "promise",
+    "pledge"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "money-back guarantee",
+    "under guarantee",
+    "lifetime guarantee",
+    "give a guarantee"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Guard' 'حارس'.. الضمان 'Guarantee' بيحرس حقك وفلوسك",
+  "phonetic_us": "ˌɡærənˈtiː",
+  "phonetic_uk": "ˌɡærənˈtiː",
+  "syllables": "guar•an•tee",
+  "semantic_tags": [
+   "#Business",
+   "#Promise",
+   "#Trust",
+   "#Shopping"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A formal promise or assurance that certain conditions will be fulfilled.",
+  "explanation_ar": "الضمان.. الوعد إن الحاجة دي كويسة ولو باظت تتصلح أو تتبدل",
+  "examples": [
+   "The watch has a two-year guarantee.",
+   "We offer a money-back guarantee.",
+   "There is no guarantee that it will work."
+  ],
+  "translations": {
+   "arabic_ar": "ضمان كفالة"
+  },
+  "synonyms": [
+   "warranty",
+   "assurance",
+   "promise",
+   "pledge"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "money-back guarantee",
+   "under guarantee",
+   "lifetime guarantee",
+   "give a guarantee"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Guard' 'حارس'.. الضمان 'Guarantee' بيحرس حقك وفلوسك"
+ }
+}

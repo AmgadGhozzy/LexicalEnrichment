@@ -1,0 +1,131 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1627",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1627",
+  "lemma": "option",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1627,
+  "lemma": "option",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈɑːpʃn",
+  "phonetic_uk": "ˈɒpʃn",
+  "phonetic_ar": "أوبشن",
+  "definition_en": "Something that you can choose to have or do among different possibilities.",
+  "explanation_ar": "شيء متاح لك لاختياره من بين عدة بدائل ممكنة، أي خيار أو بديل.",
+  "examples": [
+   {
+    "example_text": "You have the option to pay by cash or credit card.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Staying at home was not an option for us.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Surgery is considered the best option in this case.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"opt\" التي تعني يختار في الانجليزية، واضافة \"ion\" تجعلها اسما يعني خيار أو بديل متاح.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Something that you can choose to have or do among different possibilities.",
+    "short_def_en": "a choice or alternative",
+    "definition_ar": "خيار أو بديل يمكن انتقاؤه من بين عدة احتمالات",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "choice",
+     "decision",
+     "possibility"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The freedom or right to make a choice.",
+    "short_def_en": "freedom to choose",
+    "definition_ar": "حق أو حرية الاختيار بين أمرين أو أكثر",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "freedom",
+     "right",
+     "decision"
+    ],
+    "usage_note": "Commonly used in phrases like 'have no option but to...'",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "best option",
+   "viable option",
+   "have no option",
+   "keep your options open",
+   "soft option"
+  ],
+  "synonyms": [
+   "choice",
+   "alternative",
+   "possibility",
+   "selection"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "decide",
+    "prefer",
+    "select",
+    "alternative"
+   ],
+   "ar": [
+    "يقرر",
+    "يفضل",
+    "يختار",
+    "بديل"
+   ]
+  },
+  "word_family": {
+   "noun": "option",
+   "verb": "opt",
+   "adj": "optional",
+   "adv": "optionally"
+  },
+  "translations": {
+   "arabic_ar": "خيار / بديل",
+   "french_fr": "option",
+   "german_de": "Option",
+   "spanish_es": "opción",
+   "chinese_zh": "选择 (Xuǎnzé)",
+   "russian_ru": "вариант",
+   "portuguese_pt": "opção",
+   "japanese_ja": "選択肢 (Sentakushi)",
+   "italian_it": "opzione",
+   "turkish_tr": "seçenek"
+  }
+ },
+ "provenance": {
+  "output_hash": "42a3dd753953527f3a8fa19f1ca9d54e92214d236b6fbe0d9728fd803e9683a3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

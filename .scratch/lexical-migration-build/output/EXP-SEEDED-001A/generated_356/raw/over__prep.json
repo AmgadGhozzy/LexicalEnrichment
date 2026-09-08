@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "over",
+  "pos": "prep",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "over",
+  "pos": "prep",
+  "cefr": "A1",
+  "definition_en": "Extending directly upward from; higher than.",
+  "explanation_ar": "حرف جر بمعنى 'فوق' أو 'على'. زي لما الطيارة تطير فوق المدينة، أو تنط من فوق السور.",
+  "senses": [
+   {
+    "definition_en": "Extending directly upward from; higher than.",
+    "definition_ar": "فوق أو أعلى من شيء.",
+    "pos": "prep",
+    "examples": [
+     "The plane flew over the city."
+    ]
+   },
+   {
+    "definition_en": "Covering or on top of something.",
+    "definition_ar": "فوق شيء بحيث يغطيه.",
+    "pos": "prep",
+    "examples": [
+     "She wore a coat over her dress."
+    ]
+   },
+   {
+    "definition_en": "From one side to the other; across.",
+    "definition_ar": "عبر أو من جانب إلى جانب آخر.",
+    "pos": "prep",
+    "examples": [
+     "We climbed over the wall."
+    ]
+   }
+  ],
+  "examples": [
+   "The plane flew over the city.",
+   "She wore a coat over her dress.",
+   "We climbed over the wall."
+  ],
+  "translations": [
+   "فَوْق",
+   "عَلَى"
+  ],
+  "relations": {
+   "synonyms": [
+    "above",
+    "across",
+    "upon"
+   ],
+   "antonyms": [
+    "under",
+    "below"
+   ],
+   "collocations": [
+    "over the world",
+    "over the top",
+    "over time",
+    "over the phone",
+    "control over"
+   ]
+  },
+  "mnemonic": "زي ما تقول 'Over the top'.. يعني فوق القمة.",
+  "phonetic_us": "ˈoʊ.vər",
+  "phonetic_uk": "ˈəʊvə(r)",
+  "syllables": null,
+  "semantic_tags": [
+   "#Position",
+   "#Above",
+   "#Preposition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Extending directly upward from; higher than.",
+  "explanation_ar": "حرف جر بمعنى 'فوق' أو 'على'. زي لما الطيارة تطير فوق المدينة، أو تنط من فوق السور.",
+  "examples": [
+   "The plane flew over the city.",
+   "She wore a coat over her dress.",
+   "We climbed over the wall."
+  ],
+  "translations": {
+   "arabic_ar": "فَوْق عَلَى"
+  },
+  "synonyms": [
+   "above",
+   "across",
+   "upon"
+  ],
+  "antonyms": [
+   "under",
+   "below"
+  ],
+  "collocations": [
+   "over the world",
+   "over the top",
+   "over time",
+   "over the phone",
+   "control over"
+  ],
+  "mnemonic_ar": "زي ما تقول 'Over the top'.. يعني فوق القمة."
+ }
+}

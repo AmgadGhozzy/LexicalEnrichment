@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "grip",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "grip",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To take and keep a firm hold of; grasp tightly.",
+  "explanation_ar": "يمسك حاجة جامد، أو يسيطر على انتباه حد.",
+  "senses": [
+   {
+    "definition_en": "To take and keep a firm hold of something; grasp tightly.",
+    "explanation_ar": "يمسك بالشيء بقوة وإحكام.",
+    "examples": [
+     "Make sure you grip the steering wheel firmly when driving on icy roads."
+    ]
+   },
+   {
+    "definition_en": "To affect deeply or hold someone's attention completely.",
+    "explanation_ar": "يسيطر على مشاعر شخص أو يستحوذ على كامل انتباهه.",
+    "examples": [
+     "A sudden feeling of panic began to grip the passengers as the turbulence worsened.",
+     "The dramatic thriller will grip audiences from the opening scene to the final twist."
+    ]
+   }
+  ],
+  "examples": [
+   "Make sure you grip the steering wheel firmly when driving on icy roads.",
+   "A sudden feeling of panic began to grip the passengers as the turbulence worsened.",
+   "The dramatic thriller will grip audiences from the opening scene to the final twist."
+  ],
+  "translations": [
+   "يُمْسِك بِقُوَّة",
+   "يستحوذ على",
+   "يسيطر على"
+  ],
+  "relations": {
+   "synonyms": [
+    "grasp",
+    "clutch",
+    "hold",
+    "seize"
+   ],
+   "antonyms": [
+    "release",
+    "let go"
+   ],
+   "collocations": [
+    "grip tightly",
+    "grip someone's attention",
+    "grip the imagination"
+   ]
+  },
+  "mnemonic": "افتكر كلمة grab (يمسك)؛ كلمة grip قريبة منها جداً في الصوت والمعنى: يمسك بقوة أو يكلبش في حاجة.",
+  "phonetic_us": "ɡrɪp",
+  "phonetic_uk": "ɡrɪp",
+  "syllables": "grip",
+  "semantic_tags": [
+   "#Hold",
+   "#Touch",
+   "#Emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To take and keep a firm hold of; grasp tightly.",
+  "explanation_ar": "يمسك حاجة جامد، أو يسيطر على انتباه حد.",
+  "examples": [
+   "Make sure you grip the steering wheel firmly when driving on icy roads.",
+   "A sudden feeling of panic began to grip the passengers as the turbulence worsened.",
+   "The dramatic thriller will grip audiences from the opening scene to the final twist."
+  ],
+  "translations": {
+   "arabic_ar": "يُمْسِك بِقُوَّة يستحوذ على يسيطر على"
+  },
+  "synonyms": [
+   "grasp",
+   "clutch",
+   "hold",
+   "seize"
+  ],
+  "antonyms": [
+   "release",
+   "let go"
+  ],
+  "collocations": [
+   "grip tightly",
+   "grip someone's attention",
+   "grip the imagination"
+  ],
+  "mnemonic_ar": "افتكر كلمة grab (يمسك)؛ كلمة grip قريبة منها جداً في الصوت والمعنى: يمسك بقوة أو يكلبش في حاجة."
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "good",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "good",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "That which is morally right, beneficial, or of value.",
+  "explanation_ar": "الخير نفسه، عكس الشر. أو ممكن تيجي بمعنى الفايدة والمصلحة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "That which is morally right; virtue or righteousness.",
+    "definition_ar": "الخير أو الفضيلة، عكس الشر.",
+    "examples": [
+     "The story explores the battle between good and evil."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Benefit, advantage, or well-being.",
+    "definition_ar": "المصلحة، النفع، أو الفائدة.",
+    "examples": [
+     "We must work together for the common good."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a lot of good in him.",
+   "We must work together for the common good.",
+   "The story explores the battle between good and evil."
+  ],
+  "translations": [
+   "خَيْر",
+   "مَصْلَحَة",
+   "نَفْع"
+  ],
+  "relations": {
+   "synonyms": [
+    "virtue",
+    "benefit",
+    "welfare",
+    "goodness"
+   ],
+   "antonyms": [
+    "evil",
+    "bad"
+   ],
+   "collocations": [
+    "common good",
+    "greater good",
+    "do good",
+    "for the good of"
+   ]
+  },
+  "mnemonic": "كلمة 'Good' قريبة من 'Gold' 'ذهب'.. الذهب معدن 'Good' وقيمته عالية.",
+  "phonetic_us": "ɡʊd",
+  "phonetic_uk": "ɡʊd",
+  "syllables": [
+   "good"
+  ],
+  "semantic_tags": [
+   "Ethics",
+   "Morality",
+   "Benefit"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "That which is morally right, beneficial, or of value.",
+  "explanation_ar": "الخير نفسه، عكس الشر. أو ممكن تيجي بمعنى الفايدة والمصلحة.",
+  "examples": [
+   "There is a lot of good in him.",
+   "We must work together for the common good.",
+   "The story explores the battle between good and evil."
+  ],
+  "translations": {
+   "arabic_ar": "خَيْر مَصْلَحَة نَفْع"
+  },
+  "synonyms": [
+   "virtue",
+   "benefit",
+   "welfare",
+   "goodness"
+  ],
+  "antonyms": [
+   "evil",
+   "bad"
+  ],
+  "collocations": [
+   "common good",
+   "greater good",
+   "do good",
+   "for the good of"
+  ],
+  "mnemonic_ar": "كلمة 'Good' قريبة من 'Gold' 'ذهب'.. الذهب معدن 'Good' وقيمته عالية."
+ }
+}

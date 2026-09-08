@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "maths",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "maths",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The study of numbers, shapes, and quantities (short for mathematics).",
+  "explanation_ar": "مادة الرياضيات أو الحساب، اللي بنتعلم فيها الجمع والطرح والأرقام والأشكال الهندسية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The study of numbers, shapes, and quantities (short for mathematics).",
+    "definition_ar": "علم الرياضيات أو دراسة الأرقام والأشكال والكميات.",
+    "examples": [
+     "I like maths.",
+     "My maths homework is difficult.",
+     "She is studying applied maths at university."
+    ]
+   }
+  ],
+  "examples": [
+   "I like maths.",
+   "My maths homework is difficult.",
+   "She is studying applied maths at university."
+  ],
+  "translations": [
+   "رياضيات"
+  ],
+  "relations": {
+   "synonyms": [
+    "mathematics",
+    "math"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "maths teacher",
+    "maths test",
+    "do maths"
+   ]
+  },
+  "mnemonic": "كلمة 'Maths' اختصار لـ 'Mathematics'.. افتكرها بكلمة 'Mass' 'كتلة'.. لأننا بنحسب كتلة وحجم الأشياء بالرياضيات.",
+  "phonetic_us": "/mæθs/",
+  "phonetic_uk": "/mæθs/",
+  "syllables": "maths",
+  "semantic_tags": [
+   "#Education",
+   "#Numbers",
+   "#School"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The study of numbers, shapes, and quantities (short for mathematics).",
+  "explanation_ar": "مادة الرياضيات أو الحساب، اللي بنتعلم فيها الجمع والطرح والأرقام والأشكال الهندسية.",
+  "examples": [
+   "I like maths.",
+   "My maths homework is difficult.",
+   "She is studying applied maths at university."
+  ],
+  "translations": {
+   "arabic_ar": "رياضيات"
+  },
+  "synonyms": [
+   "mathematics",
+   "math"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "maths teacher",
+   "maths test",
+   "do maths"
+  ],
+  "mnemonic_ar": "كلمة 'Maths' اختصار لـ 'Mathematics'.. افتكرها بكلمة 'Mass' 'كتلة'.. لأننا بنحسب كتلة وحجم الأشياء بالرياضيات."
+ }
+}

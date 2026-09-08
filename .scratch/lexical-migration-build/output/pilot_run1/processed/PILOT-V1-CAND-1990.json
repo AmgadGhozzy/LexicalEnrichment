@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1990",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1990",
+  "lemma": "hero",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1990,
+  "lemma": "hero",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈhɪroʊ",
+  "phonetic_uk": "ˈhɪərəʊ",
+  "phonetic_ar": "هِيرُو",
+  "definition_en": "A person admired for courage, outstanding achievements, or noble qualities.",
+  "explanation_ar": "شخص يحظى بالإعجاب والتقدير بسبب شجاعته أو أفعاله العظيمة أو صفاته النبيلة، كمن ينقذ الآخرين أو يلهمهم.",
+  "examples": [
+   {
+    "example_text": "The brave firefighter became a local hero after saving the child.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "My older brother has always been my childhood hero.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The main hero in the novel must overcome many dangerous obstacles.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"hero\" بربطها بكلمة هيرو المشهورة في أفلام الرسوم المتحركة والسينما حيث ينقذ الشخص الشجاع الجميع",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A person admired for doing brave or noble deeds.",
+    "short_def_en": "brave and admired person",
+    "definition_ar": "شخص شجاع يقدم على عمل عظيم ويحظى بإعجاب الناس",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "courage",
+     "people",
+     "admiration"
+    ],
+    "usage_note": "Often used for ordinary people who perform extraordinary acts of bravery.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The principal male or main good character in a story, film, or play.",
+    "short_def_en": "main character in story",
+    "definition_ar": "الشخصية الرئيسية الإيجابية في عمل أدبي أو سينمائي",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "literature",
+     "cinema",
+     "characters"
+    ],
+    "usage_note": "Can refer generally to any protagonist, but traditionally denotes the virtuous central figure.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "national hero",
+   "local hero",
+   "unsung hero",
+   "childhood hero",
+   "war hero"
+  ],
+  "synonyms": [
+   "champion",
+   "protagonist",
+   "idol"
+  ],
+  "antonyms": [
+   "villain"
+  ],
+  "related_words": {
+   "en": [
+    "bravery",
+    "courage",
+    "rescue",
+    "admiration",
+    "legend"
+   ],
+   "ar": [
+    "شجاعة",
+    "جسارة",
+    "إنقاذ",
+    "إعجاب",
+    "أسطورة"
+   ]
+  },
+  "word_family": {
+   "noun": "heroism",
+   "verb": "",
+   "adj": "heroic",
+   "adv": "heroically"
+  },
+  "translations": {
+   "arabic_ar": "بطل",
+   "french_fr": "héros",
+   "german_de": "Held",
+   "spanish_es": "héroe",
+   "chinese_zh": "英雄 (Yīngxióng)",
+   "russian_ru": "герой",
+   "portuguese_pt": "herói",
+   "japanese_ja": "英雄 (Eiyū)",
+   "italian_it": "eroe",
+   "turkish_tr": "kahraman"
+  }
+ },
+ "provenance": {
+  "output_hash": "8164f558de58508a80d755d1ebe8ff20cff30fcdc5cf21af69c1f4044c8ec0e3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

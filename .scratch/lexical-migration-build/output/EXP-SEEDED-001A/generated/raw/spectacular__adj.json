@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "spectacular",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "spectacular",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Beautiful, dramatic, and eye-catching; extremely impressive to see or experience.",
+  "explanation_ar": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها أو روعتها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Very impressive, striking, and dramatic to look at.",
+    "definition_ar": "مبهر ورائع ولافت للنظر في مظهره.",
+    "examples": [
+     "The mountain range offers spectacular scenery for hikers.",
+     "She looked spectacular in that dress."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Extraordinary or striking in scale or impact (often of a success or failure).",
+    "definition_ar": "ضخم أو استثنائي أو مدوٍّ (مثل نجاح أو فشل لافت).",
+    "examples": [
+     "The team suffered a spectacular failure."
+    ]
+   }
+  ],
+  "examples": [
+   "The mountain range offers spectacular scenery for hikers.",
+   "She looked spectacular in that dress.",
+   "The team suffered a spectacular failure."
+  ],
+  "translations": [
+   "مذهل",
+   "مبهر",
+   "رائع"
+  ],
+  "relations": {
+   "synonyms": [
+    "breathtaking",
+    "stunning",
+    "magnificent",
+    "impressive"
+   ],
+   "antonyms": [
+    "ordinary",
+    "dull",
+    "unimpressive"
+   ],
+   "collocations": [
+    "spectacular view",
+    "spectacular success",
+    "spectacular scenery",
+    "look spectacular"
+   ]
+  },
+  "mnemonic": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس.",
+  "phonetic_us": "spɛkˈtæk.jə.lɚ",
+  "phonetic_uk": "spekˈtæk.jə.lər",
+  "syllables": "spec•tac•u•lar",
+  "semantic_tags": [
+   "#Amazing",
+   "#Beautiful",
+   "#Grand"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Beautiful, dramatic, and eye-catching; extremely impressive to see or experience.",
+  "explanation_ar": "حاجة مبهرة جداً وشكلها يجنن، تخطف العين من جمالها أو روعتها.",
+  "examples": [
+   "The mountain range offers spectacular scenery for hikers.",
+   "She looked spectacular in that dress.",
+   "The team suffered a spectacular failure."
+  ],
+  "translations": {
+   "arabic_ar": "مذهل مبهر رائع"
+  },
+  "synonyms": [
+   "breathtaking",
+   "stunning",
+   "magnificent",
+   "impressive"
+  ],
+  "antonyms": [
+   "ordinary",
+   "dull",
+   "unimpressive"
+  ],
+  "collocations": [
+   "spectacular view",
+   "spectacular success",
+   "spectacular scenery",
+   "look spectacular"
+  ],
+  "mnemonic_ar": "جاية من 'Spectacles' 'نظارة'.. حاجة محتاجة تلبس 'Spectacles' عشان تشوف حلاوتها كويس."
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1569",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1569",
+  "lemma": "budget",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1569,
+  "lemma": "budget",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Work & Business",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈbʌdʒɪt",
+  "phonetic_uk": null,
+  "phonetic_ar": "بَاجِت",
+  "definition_en": "A detailed plan showing how much money an individual or organization expects to earn and spend.",
+  "explanation_ar": "خطة مالية تحدد مقدار الأموال المتوقع كسبها وإنفاقها خلال فترة محددة.",
+  "examples": [
+   {
+    "example_text": "We need to set a strict budget for home renovations.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The marketing department exceeded its annual budget by ten percent.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The government proposed a revised federal budget to tackle the rising deficit.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "كلمة \"budget\" جاءت تاريخيا من كلمة فرنسية قديمة تعني كيس النقود الصغير، فتخيل كيسا صغيرا تضع فيه مبلغا محددا لا يمكنك تجاوزه.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A formal financial plan estimating future income and expenses over a specific period.",
+    "short_def_en": "financial spending plan",
+    "definition_ar": "خطة مالية لتقدير النفقات والإيرادات المستقبلية",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "finance",
+     "planning",
+     "business"
+    ],
+    "usage_note": "Commonly used with verbs like balance, create, exceed, or stick to.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The total amount of money available or allocated for a specific purpose.",
+    "short_def_en": "allocated money amount",
+    "definition_ar": "المبلغ الإجمالي المخصص لغرض محدد",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quantity",
+    "semantic_tags": [
+     "money",
+     "resources",
+     "limit"
+    ],
+    "usage_note": "Often used in phrases such as on a tight budget.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "annual budget",
+   "tight budget",
+   "budget deficit",
+   "stick to a budget",
+   "operating budget"
+  ],
+  "synonyms": [
+   "financial plan",
+   "allocation",
+   "allowance"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "finance",
+    "expense",
+    "revenue",
+    "fiscal",
+    "spending"
+   ],
+   "ar": [
+    "تمويل",
+    "نفقة",
+    "إيراد",
+    "مالي",
+    "إنفاق"
+   ]
+  },
+  "word_family": {
+   "noun": "budget",
+   "verb": "budget",
+   "adj": "budgetary",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ميزانية / موازنة",
+   "french_fr": "budget",
+   "german_de": "Haushalt / Budget",
+   "spanish_es": "presupuesto",
+   "chinese_zh": "预算 (Yùsuàn)",
+   "russian_ru": "бюджет",
+   "portuguese_pt": "orçamento",
+   "japanese_ja": "予算 (Yosan)",
+   "italian_it": "bilancio / budget",
+   "turkish_tr": "bütçe"
+  }
+ },
+ "provenance": {
+  "output_hash": "8ab864f5c7dffda3087a6cb7eaa1380aa0f4188401aa7c4a7c6e594598b28b3f",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

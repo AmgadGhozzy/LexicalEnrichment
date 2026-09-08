@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "unduly",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "unduly",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "To an unwarranted degree; inordinately.",
+  "explanation_ar": "يعني بشكل مبالغ فيه أو زيادة عن اللزوم ومن غير سبب مقنع.",
+  "senses": [
+   {
+    "sense_id": "unduly_adv_1",
+    "definition_en": "To an unwarranted degree; inordinately.",
+    "definition_ar": "بشكل مفرط أو دون مبرر كافٍ.",
+    "examples": [
+     "The task was not unduly difficult.",
+     "He seemed unduly concerned about the cost.",
+     "The report was unduly critical of the staff."
+    ]
+   }
+  ],
+  "examples": [
+   "The task was not unduly difficult.",
+   "He seemed unduly concerned about the cost.",
+   "The report was unduly critical of the staff."
+  ],
+  "translations": [
+   "بشكل مفرط",
+   "دون مبرر",
+   "بلا داعٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "excessively",
+    "overly",
+    "inordinately",
+    "unreasonably"
+   ],
+   "antonyms": [
+    "fairly",
+    "moderately",
+    "justifiably"
+   ],
+   "collocations": [
+    "unduly worried",
+    "unduly influenced",
+    "unduly harsh",
+    "unduly optimistic"
+   ]
+  },
+  "mnemonic": "'Due' يعني مستحق.. 'Unduly' يعني زيادة عن المستحق أو اللازم.",
+  "phonetic_us": "ʌnˈduːli",
+  "phonetic_uk": "ʌnˈdjuːli",
+  "syllables": "un•du•ly",
+  "semantic_tags": [
+   "#Excess",
+   "#Degree",
+   "#Manner"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To an unwarranted degree; inordinately.",
+  "explanation_ar": "يعني بشكل مبالغ فيه أو زيادة عن اللزوم ومن غير سبب مقنع.",
+  "examples": [
+   "The task was not unduly difficult.",
+   "He seemed unduly concerned about the cost.",
+   "The report was unduly critical of the staff."
+  ],
+  "translations": {
+   "arabic_ar": "بشكل مفرط دون مبرر بلا داعٍ"
+  },
+  "synonyms": [
+   "excessively",
+   "overly",
+   "inordinately",
+   "unreasonably"
+  ],
+  "antonyms": [
+   "fairly",
+   "moderately",
+   "justifiably"
+  ],
+  "collocations": [
+   "unduly worried",
+   "unduly influenced",
+   "unduly harsh",
+   "unduly optimistic"
+  ],
+  "mnemonic_ar": "'Due' يعني مستحق.. 'Unduly' يعني زيادة عن المستحق أو اللازم."
+ }
+}

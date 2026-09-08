@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "penny",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "penny",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A small coin of low value used in the UK and the US (worth one cent or one hundredth of a pound), or a very small amount of money.",
+  "explanation_ar": "عملة معدنية صغيرة ذات قيمة قليلة جداً (بنس في بريطانيا أو سنت في أمريكا)، وتُستخدم مجازياً للإشارة إلى مبلغ ضئيل جداً من المال.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A small copper or bronze coin of low value.",
+    "definition_ar": "عملة معدنية صغيرة ذات قيمة ضئيلة (مثل البنس أو السنت).",
+    "examples": [
+     "I found a penny on the floor."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A very small amount of money.",
+    "definition_ar": "مبلغ ضئيل جداً من المال (قرش / مليم).",
+    "examples": [
+     "He saves every penny he earns.",
+     "It didn't cost us a penny to enter the museum."
+    ]
+   }
+  ],
+  "examples": [
+   "I found a penny on the floor.",
+   "He saves every penny he earns.",
+   "It didn't cost us a penny to enter the museum."
+  ],
+  "translations": [
+   "بنس",
+   "قرش",
+   "فلس"
+  ],
+  "relations": {
+   "synonyms": [
+    "cent",
+    "coin"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cost a penny",
+    "pretty penny",
+    "save every penny",
+    "worth every penny"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Pen' قلم.. الـ 'Penny' عملة صغيرة يادوب تشتري بيها 'Pen' رخيص.",
+  "phonetic_us": "ˈpɛni",
+  "phonetic_uk": "ˈpeni",
+  "syllables": "pen•ny",
+  "semantic_tags": [
+   "money",
+   "currency",
+   "coins"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small coin of low value used in the UK and the US (worth one cent or one hundredth of a pound), or a very small amount of money.",
+  "explanation_ar": "عملة معدنية صغيرة ذات قيمة قليلة جداً (بنس في بريطانيا أو سنت في أمريكا)، وتُستخدم مجازياً للإشارة إلى مبلغ ضئيل جداً من المال.",
+  "examples": [
+   "I found a penny on the floor.",
+   "He saves every penny he earns.",
+   "It didn't cost us a penny to enter the museum."
+  ],
+  "translations": {
+   "arabic_ar": "بنس قرش فلس"
+  },
+  "synonyms": [
+   "cent",
+   "coin"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cost a penny",
+   "pretty penny",
+   "save every penny",
+   "worth every penny"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Pen' قلم.. الـ 'Penny' عملة صغيرة يادوب تشتري بيها 'Pen' رخيص."
+ }
+}

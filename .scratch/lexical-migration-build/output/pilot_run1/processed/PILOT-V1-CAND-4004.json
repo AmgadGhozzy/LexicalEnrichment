@@ -1,0 +1,154 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4004",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4004",
+  "lemma": "bare",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4004,
+  "lemma": "bare",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "General / Common",
+  "ai_confidence": 0.95,
+  "phonetic_us": "bɛr",
+  "phonetic_uk": "beə",
+  "phonetic_ar": "بِير",
+  "definition_en": "Not covered by clothes, decoration, or natural growth; completely exposed or empty.",
+  "explanation_ar": "صفة تدل على ان الشيء مكشوف تماما او مجرد من اي غطاء او ملابس او زينة او محتويات.",
+  "examples": [
+   {
+    "example_text": "He walked across the cold wooden floor with bare feet.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The winter storm left the trees completely bare.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The report provided only the bare facts of the incident without any analysis.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"bare\" تشبه صوت \"bear\" دب لكن عندما يخلع الدب فروه يصبح مجردا ومكشوفا تماما",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Not covered by any clothes, shoes, or natural covering.",
+    "short_def_en": "unclothed or uncovered",
+    "definition_ar": "عار او مكشوف بدون ملابس او غطاء",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "appearance",
+     "body",
+     "clothing"
+    ],
+    "usage_note": "Often used in combinations like bare feet, bare skin, or bare hands.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Without the usual furnishings, contents, decorations, or vegetation.",
+    "short_def_en": "empty or barren",
+    "definition_ar": "خال او مجرد من الاثاث او النباتات",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "space",
+     "nature",
+     "interior"
+    ],
+    "usage_note": "Commonly applied to walls, branches, and rooms.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "Only what is strictly necessary or basic, with nothing extra added.",
+    "short_def_en": "minimum or basic",
+    "definition_ar": "الحد الادنى او الاساسي فقط",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Measure",
+    "semantic_tags": [
+     "necessity",
+     "quantity",
+     "limits"
+    ],
+    "usage_note": "Often seen in phrases like bare essentials, bare minimum, and bare bones.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bare feet",
+   "bare minimum",
+   "bare essentials",
+   "bare walls",
+   "bare hands"
+  ],
+  "synonyms": [
+   "naked",
+   "uncovered",
+   "exposed",
+   "empty",
+   "minimal"
+  ],
+  "antonyms": [
+   "covered",
+   "clothed",
+   "full"
+  ],
+  "related_words": {
+   "en": [
+    "skin",
+    "surface",
+    "simplicity",
+    "exposure",
+    "skeleton"
+   ],
+   "ar": [
+    "جلد",
+    "سطح",
+    "بساطة",
+    "انكشاف",
+    "هيكل"
+   ]
+  },
+  "word_family": {
+   "noun": "bareness",
+   "verb": "bare",
+   "adj": "bare",
+   "adv": "barely"
+  },
+  "translations": {
+   "arabic_ar": "عار / مكشوف / مجرد",
+   "french_fr": "nu",
+   "german_de": "nackt",
+   "spanish_es": "desnudo",
+   "chinese_zh": "赤裸的 (Chìluǒ de)",
+   "russian_ru": "голый",
+   "portuguese_pt": "desnudo",
+   "japanese_ja": "裸の (Hadaka no)",
+   "italian_it": "nudo",
+   "turkish_tr": "çıplak"
+  }
+ },
+ "provenance": {
+  "output_hash": "6e08894d82cc9579555f9a1b192e8306a6e39fbc5e59d3170a2a0a9a3b7c6804",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

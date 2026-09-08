@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "rural",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "rural",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+  "explanation_ar": "ريفي: يصف كل ما يتعلق بالريف والقرى وطبيعة الحياة فيها، في مقابل المدينة والحضر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+    "explanation_ar": "ريفي: متعلق بالريف والحياة الزراعية بعيداً عن المدن.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "She lives in a rural area far from the noise of the city.",
+   "The government is investing in rural development to improve public services.",
+   "Access to specialized medical care can be challenging in a remote rural community."
+  ],
+  "translations": [
+   "ريفي",
+   "قروي"
+  ],
+  "relations": {
+   "synonyms": [
+    "rustic",
+    "pastoral",
+    "country"
+   ],
+   "antonyms": [
+    "urban"
+   ],
+   "collocations": [
+    "rural area",
+    "rural community",
+    "rural development",
+    "rural population"
+   ],
+   "word_family": {
+    "adj": "rural",
+    "adv": "rurally",
+    "noun": "rurality"
+   }
+  },
+  "mnemonic": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف.",
+  "phonetic_us": "ˈɹɝəl",
+  "phonetic_uk": "ˈɹɔːɹəl",
+  "syllables": "ru•ral",
+  "semantic_tags": [
+   "countryside",
+   "farming",
+   "village",
+   "nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to or characteristic of the countryside rather than the town.",
+  "explanation_ar": "ريفي: يصف كل ما يتعلق بالريف والقرى وطبيعة الحياة فيها، في مقابل المدينة والحضر.",
+  "examples": [
+   "She lives in a rural area far from the noise of the city.",
+   "The government is investing in rural development to improve public services.",
+   "Access to specialized medical care can be challenging in a remote rural community."
+  ],
+  "translations": {
+   "arabic_ar": "ريفي قروي"
+  },
+  "synonyms": [
+   "rustic",
+   "pastoral",
+   "country"
+  ],
+  "antonyms": [
+   "urban"
+  ],
+  "collocations": [
+   "rural area",
+   "rural community",
+   "rural development",
+   "rural population"
+  ],
+  "mnemonic_ar": "كلمة 'Rural' فيها صوت 'Roar'.. زي أصوات الحيوانات في الريف."
+ }
+}

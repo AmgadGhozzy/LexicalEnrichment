@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-658",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-658",
+  "lemma": "thinking",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 658,
+  "lemma": "thinking",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈθɪŋkɪŋ",
+  "phonetic_uk": null,
+  "phonetic_ar": "ثِينْكِنْج",
+  "definition_en": "The process of using your mind to consider ideas, solve problems, or form opinions.",
+  "explanation_ar": "عملية التفكير واستخدام العقل لتحليل الأمور أو اتخاذ القرارات أو تكوين رأي معين.",
+  "examples": [
+   {
+    "example_text": "Critical thinking helps students make better decisions.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "What is the thinking behind your new proposal?",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "His clear thinking impressed everyone in the meeting.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The mental activity of using reason to form ideas or make decisions.",
+    "short_def_en": "mental activity or thought process",
+    "definition_ar": "النشاط العقلي القائم على استخدام العقل وتكوين الأفكار.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "cognition",
+     "mind",
+     "reasoning"
+    ],
+    "usage_note": "Often used with adjectives like 'clear', 'creative', or 'critical'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A particular opinion, set of ideas, or line of reasoning about a subject.",
+    "short_def_en": "opinion or line of reasoning",
+    "definition_ar": "وجهة نظر أو رأي مبني على حجة معينة بشأن موضوع ما.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "opinion",
+     "viewpoint",
+     "ideas"
+    ],
+    "usage_note": "Common in phrases like 'the thinking behind' something.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "critical thinking",
+   "creative thinking",
+   "positive thinking",
+   "current thinking",
+   "clear thinking"
+  ],
+  "synonyms": [
+   "thought",
+   "reasoning",
+   "reflection",
+   "deliberation",
+   "consideration"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "idea",
+    "brain",
+    "logic",
+    "opinion",
+    "mind"
+   ],
+   "ar": [
+    "فكرة",
+    "دماغ",
+    "منطق",
+    "رأي",
+    "عقل"
+   ]
+  },
+  "word_family": {
+   "noun": "thinker",
+   "verb": "think",
+   "adj": "thinking",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "تفكير / رأي",
+   "french_fr": "pensée",
+   "german_de": "Denken",
+   "spanish_es": "pensamiento",
+   "chinese_zh": "思考 (Sīkǎo)",
+   "russian_ru": "мышление",
+   "portuguese_pt": "pensamento",
+   "japanese_ja": "思考 (Shikō)",
+   "italian_it": "pensiero",
+   "turkish_tr": "düşünce"
+  }
+ },
+ "provenance": {
+  "output_hash": "a1ed344a3b85ed4a22bd0c69b4e91002b0688a50e95c81a73f4655f8d80ced26",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

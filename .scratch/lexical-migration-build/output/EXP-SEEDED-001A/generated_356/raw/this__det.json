@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "this",
+  "pos": "det",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "this",
+  "pos": "det",
+  "cefr": "A1",
+  "definition_en": "Used to identify a specific person or thing close at hand.",
+  "explanation_ar": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+  "senses": [
+   {
+    "definition_en": "Used to identify a specific person or thing that is nearby in space, time, or context.",
+    "definition_ar": "يُستخدم للإشارة إلى شخص أو شيء محدد قريب مكانياً أو زمانياً أو في سياق الحديث (هذا / هذه).",
+    "pos": "det",
+    "examples": [
+     "I like this car.",
+     "This week has been busy.",
+     "We need to solve this problem."
+    ]
+   }
+  ],
+  "examples": [
+   "I like this car.",
+   "This week has been busy.",
+   "We need to solve this problem."
+  ],
+  "translations": [
+   "هذا",
+   "هذه"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "that"
+   ],
+   "collocations": [
+    "this morning",
+    "this year",
+    "this way",
+    "this time"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ðɪs",
+  "phonetic_uk": "ðɪs",
+  "syllables": [
+   "this"
+  ],
+  "semantic_tags": [
+   "determiner",
+   "demonstrative",
+   "proximity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to identify a specific person or thing close at hand.",
+  "explanation_ar": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+  "examples": [
+   "I like this car.",
+   "This week has been busy.",
+   "We need to solve this problem."
+  ],
+  "translations": {
+   "arabic_ar": "هذا هذه"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "that"
+  ],
+  "collocations": [
+   "this morning",
+   "this year",
+   "this way",
+   "this time"
+  ],
+  "mnemonic_ar": null
+ }
+}

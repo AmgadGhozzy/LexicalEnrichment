@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "quantum",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "quantum",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The smallest discrete quantity of energy or other physical property.",
+  "explanation_ar": "أصغر كمية منفصلة ومحددة من الطاقة أو أي خاصية فيزيائية (الكَم)، ويُستخدم أيضاً للتعبير عن قفزة نوعية وتطور هائل.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The smallest discrete unit or packet of a physical property, especially energy.",
+    "definition_ar": "الكَم؛ أصغر مقدار محدد ومنفصل من خاصية فيزيائية مثل الطاقة.",
+    "examples": [
+     "In modern physics, a quantum is the smallest discrete packet of energy.",
+     "The sensor was sensitive enough to measure a single quantum of light."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A significant and sudden advance or transformation (typically in the phrase 'quantum leap').",
+    "definition_ar": "طفرة أو قفزة نوعية كبيرة (غالباً ضمن تعبير 'quantum leap').",
+    "examples": [
+     "The breakthrough represented a quantum leap in computing performance."
+    ]
+   }
+  ],
+  "examples": [
+   "In modern physics, a quantum is the smallest discrete packet of energy.",
+   "The sensor was sensitive enough to measure a single quantum of light.",
+   "The breakthrough represented a quantum leap in computing performance."
+  ],
+  "translations": [
+   "كَمّ",
+   "طفرة (في quantum leap)"
+  ],
+  "relations": {
+   "synonyms": [
+    "packet",
+    "discrete unit"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "quantum leap",
+    "quantum mechanics",
+    "quantum theory",
+    "quantum computing"
+   ]
+  },
+  "mnemonic": "كلمة 'Quantum' قريبة من السؤال العربي 'كم؟'.. علم الـ 'Quantum' بيحسب 'كم' الطاقة بدقة.",
+  "phonetic_us": "ˈkwɑːntəm",
+  "phonetic_uk": "ˈkwɒntəm",
+  "syllables": "quan•tum",
+  "semantic_tags": [
+   "#Physics",
+   "#Science",
+   "#Amount"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The smallest discrete quantity of energy or other physical property.",
+  "explanation_ar": "أصغر كمية منفصلة ومحددة من الطاقة أو أي خاصية فيزيائية (الكَم)، ويُستخدم أيضاً للتعبير عن قفزة نوعية وتطور هائل.",
+  "examples": [
+   "In modern physics, a quantum is the smallest discrete packet of energy.",
+   "The sensor was sensitive enough to measure a single quantum of light.",
+   "The breakthrough represented a quantum leap in computing performance."
+  ],
+  "translations": {
+   "arabic_ar": "كَمّ طفرة (في quantum leap)"
+  },
+  "synonyms": [
+   "packet",
+   "discrete unit"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "quantum leap",
+   "quantum mechanics",
+   "quantum theory",
+   "quantum computing"
+  ],
+  "mnemonic_ar": "كلمة 'Quantum' قريبة من السؤال العربي 'كم؟'.. علم الـ 'Quantum' بيحسب 'كم' الطاقة بدقة."
+ }
+}

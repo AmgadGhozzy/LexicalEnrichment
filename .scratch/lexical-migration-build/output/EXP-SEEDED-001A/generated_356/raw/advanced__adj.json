@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "advanced",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "advanced",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Far on in progress or development; modern and complex.",
+  "explanation_ar": "متقدم أو متطور جدًا، سواء في المستوى أو التكنولوجيا.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Modern and well-developed, especially regarding systems or technology.",
+    "explanation_ar": "متطور أو حديث من الناحية التقنية.",
+    "examples": [
+     "We use advanced technology."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "At a high or difficult level of study, skill, or progress.",
+    "explanation_ar": "في مستوى عالٍ أو متقدم دراسيًا أو مهاريًا.",
+    "examples": [
+     "This is an advanced class.",
+     "His English is at an advanced level."
+    ]
+   }
+  ],
+  "examples": [
+   "This is an advanced class.",
+   "We use advanced technology.",
+   "His English is at an advanced level."
+  ],
+  "translations": [
+   "متقدم",
+   "متطور"
+  ],
+  "relations": {
+   "synonyms": [
+    "developed",
+    "sophisticated",
+    "modern"
+   ],
+   "antonyms": [
+    "basic",
+    "elementary",
+    "primitive"
+   ],
+   "collocations": [
+    "advanced technology",
+    "advanced level",
+    "advanced stage",
+    "advanced degree"
+   ]
+  },
+  "mnemonic": "جاي من 'Advance' 'يتقدم'.. 'Advanced' يعني وصل لمرحلة متقدمة.",
+  "phonetic_us": "ədˈvænst",
+  "phonetic_uk": "ədˈvɑːnst",
+  "syllables": "ad•vanced",
+  "semantic_tags": [
+   "#Level",
+   "#Technology",
+   "#Progress"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Far on in progress or development; modern and complex.",
+  "explanation_ar": "متقدم أو متطور جدًا، سواء في المستوى أو التكنولوجيا.",
+  "examples": [
+   "This is an advanced class.",
+   "We use advanced technology.",
+   "His English is at an advanced level."
+  ],
+  "translations": {
+   "arabic_ar": "متقدم متطور"
+  },
+  "synonyms": [
+   "developed",
+   "sophisticated",
+   "modern"
+  ],
+  "antonyms": [
+   "basic",
+   "elementary",
+   "primitive"
+  ],
+  "collocations": [
+   "advanced technology",
+   "advanced level",
+   "advanced stage",
+   "advanced degree"
+  ],
+  "mnemonic_ar": "جاي من 'Advance' 'يتقدم'.. 'Advanced' يعني وصل لمرحلة متقدمة."
+ }
+}

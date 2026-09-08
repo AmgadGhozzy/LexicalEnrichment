@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "innovation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "innovation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The action or process of innovating; a new method, idea, or product.",
+  "explanation_ar": "الابتكار، إنك تعمل حاجة جديدة خالص أو تطور حاجة موجودة بطريقة ذكية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The action or process of innovating; a new method, idea, or product.",
+    "definition_ar": "الابتكار؛ عملية تقديم أفكار أو أساليب جديدة، أو الشيء الجديد المبتكر نفسه.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Technological innovation is changing the way we live.",
+   "The company is known for its product innovation.",
+   "We need continuous innovation to stay competitive in the market."
+  ],
+  "translations": [
+   "ابتكار",
+   "تجديد",
+   "إبداع"
+  ],
+  "relations": {
+   "synonyms": [
+    "invention",
+    "novelty",
+    "creation",
+    "modernization",
+    "improvement"
+   ],
+   "antonyms": [
+    "tradition",
+    "stagnation"
+   ],
+   "collocations": [
+    "technological innovation",
+    "product innovation",
+    "encourage innovation",
+    "innovation in"
+   ]
+  },
+  "mnemonic": "'In' 'في' + 'Nova' 'نوفا/جديد'.. إنك تجيب حاجة 'Nova' يعني بتعمل 'Innovation'.",
+  "phonetic_us": "ˌɪnəˈveɪʃən",
+  "phonetic_uk": "ˌɪnəˈveɪʃən",
+  "syllables": "in•no•va•tion",
+  "semantic_tags": [
+   "#Technology",
+   "#Creativity",
+   "#Future",
+   "#Business"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action or process of innovating; a new method, idea, or product.",
+  "explanation_ar": "الابتكار، إنك تعمل حاجة جديدة خالص أو تطور حاجة موجودة بطريقة ذكية.",
+  "examples": [
+   "Technological innovation is changing the way we live.",
+   "The company is known for its product innovation.",
+   "We need continuous innovation to stay competitive in the market."
+  ],
+  "translations": {
+   "arabic_ar": "ابتكار تجديد إبداع"
+  },
+  "synonyms": [
+   "invention",
+   "novelty",
+   "creation",
+   "modernization",
+   "improvement"
+  ],
+  "antonyms": [
+   "tradition",
+   "stagnation"
+  ],
+  "collocations": [
+   "technological innovation",
+   "product innovation",
+   "encourage innovation",
+   "innovation in"
+  ],
+  "mnemonic_ar": "'In' 'في' + 'Nova' 'نوفا/جديد'.. إنك تجيب حاجة 'Nova' يعني بتعمل 'Innovation'."
+ }
+}

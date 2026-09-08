@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "quit",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "quit",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To leave a job, school, etc., or to stop doing something.",
+  "explanation_ar": "يسيب الشغل أو يبطل يعمل حاجة كان بيعملها 'زي التدخين'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To stop doing something, especially a regular activity or habit.",
+    "definition_ar": "التوقف عن فعل شيء ما، خصوصاً عادة أو نشاط منتظم.",
+    "examples": [
+     "She wants to quit smoking."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To permanently leave a job or school.",
+    "definition_ar": "ترك وظيفة أو دراسة بشكل نهائي (الاستقالة).",
+    "examples": [
+     "He decided to quit his job."
+    ]
+   }
+  ],
+  "examples": [
+   "She wants to quit smoking.",
+   "He decided to quit his job.",
+   "Don't quit now, you're almost there."
+  ],
+  "translations": [
+   "يترك",
+   "يستقيل",
+   "يتوقف عن",
+   "يقلع عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "stop",
+    "cease",
+    "resign",
+    "give up"
+   ],
+   "antonyms": [
+    "start",
+    "continue",
+    "begin"
+   ],
+   "collocations": [
+    "quit smoking",
+    "quit a job",
+    "don't quit",
+    "quit cold turkey"
+   ],
+   "word_family": {
+    "noun": "quitter",
+    "verb": "quit"
+   }
+  },
+  "mnemonic": "زي 'Exit'.. بس 'Quit'.. يعني خرجت خالص.",
+  "phonetic_us": "kwɪt",
+  "phonetic_uk": "kwɪt",
+  "syllables": [
+   "quit"
+  ],
+  "semantic_tags": [
+   "#Stop",
+   "#Job",
+   "#Habit",
+   "#Leave"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To leave a job, school, etc., or to stop doing something.",
+  "explanation_ar": "يسيب الشغل أو يبطل يعمل حاجة كان بيعملها 'زي التدخين'.",
+  "examples": [
+   "She wants to quit smoking.",
+   "He decided to quit his job.",
+   "Don't quit now, you're almost there."
+  ],
+  "translations": {
+   "arabic_ar": "يترك يستقيل يتوقف عن يقلع عن"
+  },
+  "synonyms": [
+   "stop",
+   "cease",
+   "resign",
+   "give up"
+  ],
+  "antonyms": [
+   "start",
+   "continue",
+   "begin"
+  ],
+  "collocations": [
+   "quit smoking",
+   "quit a job",
+   "don't quit",
+   "quit cold turkey"
+  ],
+  "mnemonic_ar": "زي 'Exit'.. بس 'Quit'.. يعني خرجت خالص."
+ }
+}

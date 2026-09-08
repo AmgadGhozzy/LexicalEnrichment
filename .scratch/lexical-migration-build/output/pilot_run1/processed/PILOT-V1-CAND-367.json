@@ -1,0 +1,116 @@
+{
+ "candidate_id": "PILOT-V1-CAND-367",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-367",
+  "lemma": "until",
+  "pos": "prep",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 367,
+  "lemma": "until",
+  "pos": "prep",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ənˈtɪl",
+  "phonetic_uk": null,
+  "phonetic_ar": "أَنْتِلْ",
+  "definition_en": "Continuing up to a specified point in time, then stopping.",
+  "explanation_ar": "تُستعمل للإشارة إلى استمرار الفعل أو الحالة حتى وقت محدد يتوقف عنده.",
+  "examples": [
+   {
+    "example_text": "We will wait here until five o'clock.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The library stays open until midnight.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "He lived in London until last year.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": null,
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Continuing up to a specified point in time, then stopping.",
+    "short_def_en": "up to the time of",
+    "definition_ar": "إلى حين أو حتى وقت محدد.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Time",
+    "semantic_tags": [
+     "time",
+     "duration",
+     "limits"
+    ],
+    "usage_note": "Commonly shortened to 'till' in informal speech.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "until midnight",
+   "until tomorrow",
+   "until recently",
+   "until further notice",
+   "wait until"
+  ],
+  "synonyms": [
+   "till",
+   "up to"
+  ],
+  "antonyms": [
+   "since",
+   "from"
+  ],
+  "related_words": {
+   "en": [
+    "before",
+    "after",
+    "during",
+    "deadline"
+   ],
+   "ar": [
+    "قبل",
+    "بعد",
+    "خلال",
+    "موعد نهائي"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "حتى / إلى غاية",
+   "french_fr": "jusqu'à",
+   "german_de": "bis",
+   "spanish_es": "hasta",
+   "chinese_zh": "直到 (zhídào)",
+   "russian_ru": "до",
+   "portuguese_pt": "até",
+   "japanese_ja": "まで (made)",
+   "italian_it": "fino a",
+   "turkish_tr": "-e kadar"
+  }
+ },
+ "provenance": {
+  "output_hash": "03687eda1f49eb870ec12d4fea8146fbd142c000bc4cf2cadf13c6a1d17a60cf",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

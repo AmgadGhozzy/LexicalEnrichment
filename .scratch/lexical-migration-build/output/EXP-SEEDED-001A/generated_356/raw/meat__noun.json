@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "meat",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "meat",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The flesh of an animal used as food.",
+  "explanation_ar": "اللحمة اللي بناكلها من الحيوانات كطعام.",
+  "senses": [
+   {
+    "definition_en": "The flesh of an animal used as food.",
+    "explanation_ar": "لحم الحيوانات الذي يُؤكل كطعام.",
+    "pos": "noun",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "I do not eat meat.",
+   "Chicken is a type of meat.",
+   "He bought some fresh meat from the butcher."
+  ],
+  "translations": [
+   "لحم"
+  ],
+  "relations": {
+   "synonyms": [
+    "flesh"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "red meat",
+    "white meat",
+    "raw meat",
+    "meat eater"
+   ]
+  },
+  "mnemonic": "كلمة 'Meat' قريبة من 'Meet' 'يقابل'.. ممكن تقول: 'Let's meet to eat meat'.",
+  "phonetic_us": "miːt",
+  "phonetic_uk": "miːt",
+  "syllables": [
+   "meat"
+  ],
+  "semantic_tags": [
+   "#Food",
+   "#Cooking",
+   "#Protein"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The flesh of an animal used as food.",
+  "explanation_ar": "اللحمة اللي بناكلها من الحيوانات كطعام.",
+  "examples": [
+   "I do not eat meat.",
+   "Chicken is a type of meat.",
+   "He bought some fresh meat from the butcher."
+  ],
+  "translations": {
+   "arabic_ar": "لحم"
+  },
+  "synonyms": [
+   "flesh"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "red meat",
+   "white meat",
+   "raw meat",
+   "meat eater"
+  ],
+  "mnemonic_ar": "كلمة 'Meat' قريبة من 'Meet' 'يقابل'.. ممكن تقول: 'Let's meet to eat meat'."
+ }
+}

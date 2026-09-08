@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "nuclear",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "nuclear",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Relating to the nucleus of an atom or cell; relating to nuclear energy or weapons.",
+  "explanation_ar": "نووي، متعلق بالطاقة النووية أو النواة.",
+  "senses": [
+   {
+    "definition_en": "Relating to energy produced by atomic reactions or weapons using this energy.",
+    "definition_ar": "نووي؛ متعلق بالطاقة الذرية أو الأسلحة النووية."
+   },
+   {
+    "definition_en": "Relating to the nucleus of an atom or a biological cell.",
+    "definition_ar": "متعلق بنواة الذرة أو نواة الخلية."
+   },
+   {
+    "definition_en": "Forming a basic social unit consisting of parents and their children (nuclear family).",
+    "definition_ar": "مرتبط بالأسرة النواة المكونة من الوالدين وأبنائهما."
+   }
+  ],
+  "examples": [
+   "Many countries rely on nuclear power to generate electricity.",
+   "The government signed a treaty to limit the spread of nuclear weapons.",
+   "A traditional nuclear family consists of parents and their children."
+  ],
+  "translations": [
+   "نووي"
+  ],
+  "relations": {
+   "synonyms": [
+    "atomic"
+   ],
+   "antonyms": [
+    "conventional"
+   ],
+   "collocations": [
+    "nuclear power",
+    "nuclear weapon",
+    "nuclear family",
+    "nuclear energy"
+   ]
+  },
+  "mnemonic": "من 'Nucleus' 'نواة'.",
+  "phonetic_us": "ˈnuːkliəɹ",
+  "phonetic_uk": "ˈnjuːkliə",
+  "syllables": "nu•cle•ar",
+  "semantic_tags": [
+   "#Energy",
+   "#Science",
+   "#Power"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to the nucleus of an atom or cell; relating to nuclear energy or weapons.",
+  "explanation_ar": "نووي، متعلق بالطاقة النووية أو النواة.",
+  "examples": [
+   "Many countries rely on nuclear power to generate electricity.",
+   "The government signed a treaty to limit the spread of nuclear weapons.",
+   "A traditional nuclear family consists of parents and their children."
+  ],
+  "translations": {
+   "arabic_ar": "نووي"
+  },
+  "synonyms": [
+   "atomic"
+  ],
+  "antonyms": [
+   "conventional"
+  ],
+  "collocations": [
+   "nuclear power",
+   "nuclear weapon",
+   "nuclear family",
+   "nuclear energy"
+  ],
+  "mnemonic_ar": "من 'Nucleus' 'نواة'."
+ }
+}

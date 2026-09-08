@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "utter",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "utter",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Complete; absolute.",
+  "explanation_ar": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+  "senses": [
+   {
+    "sense_id": "utter-adj-1",
+    "definition_en": "Complete; absolute.",
+    "definition_ar": "كامل أو مُطلق",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The situation descended into utter chaos after the announcement.",
+   "He looked at me in utter amazement.",
+   "The meeting ended in an utter failure when neither side agreed to compromise."
+  ],
+  "translations": [
+   "مُطْلَق",
+   "تَامّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "complete",
+    "total",
+    "absolute",
+    "sheer"
+   ],
+   "antonyms": [
+    "partial",
+    "incomplete",
+    "limited"
+   ],
+   "collocations": [
+    "utter chaos",
+    "utter nonsense",
+    "utter darkness",
+    "utter silence"
+   ]
+  },
+  "mnemonic": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'.",
+  "phonetic_us": "ˈʌtər",
+  "phonetic_uk": "ˈʌtə",
+  "syllables": "ut•ter",
+  "semantic_tags": [
+   "Emphasis",
+   "Complete",
+   "Degree"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Complete; absolute.",
+  "explanation_ar": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+  "examples": [
+   "The situation descended into utter chaos after the announcement.",
+   "He looked at me in utter amazement.",
+   "The meeting ended in an utter failure when neither side agreed to compromise."
+  ],
+  "translations": {
+   "arabic_ar": "مُطْلَق تَامّ"
+  },
+  "synonyms": [
+   "complete",
+   "total",
+   "absolute",
+   "sheer"
+  ],
+  "antonyms": [
+   "partial",
+   "incomplete",
+   "limited"
+  ],
+  "collocations": [
+   "utter chaos",
+   "utter nonsense",
+   "utter darkness",
+   "utter silence"
+  ],
+  "mnemonic_ar": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'."
+ }
+}

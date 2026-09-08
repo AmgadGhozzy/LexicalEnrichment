@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "inhabitant",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "inhabitant",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person or animal that lives in or occupies a place.",
+  "explanation_ar": "الشخص أو الحيوان اللي عايش ومستقر في مكان معين، زي سكان المدينة أو سكان الغابة.",
+  "senses": [
+   {
+    "definition_en": "A person or animal that lives in or occupies a place.",
+    "explanation_ar": "الشخص أو الحيوان الذي يستقر ويعيش في مكان أو موطن معين.",
+    "pos": "noun",
+    "translations": [
+     "ساكن",
+     "قاطن"
+    ]
+   }
+  ],
+  "examples": [
+   "The oldest inhabitant of the town turned 100.",
+   "Every inhabitant of the village signed the petition.",
+   "As a lifelong inhabitant of the city, he knows all of its hidden streets."
+  ],
+  "translations": [
+   "ساكن",
+   "قاطن"
+  ],
+  "relations": {
+   "synonyms": [
+    "resident",
+    "dweller",
+    "occupant"
+   ],
+   "antonyms": [
+    "visitor",
+    "tourist",
+    "outsider"
+   ],
+   "collocations": [
+    "local inhabitant",
+    "original inhabitant",
+    "city inhabitant",
+    "island inhabitant"
+   ],
+   "word_family": {
+    "noun": "inhabitant",
+    "verb": "inhabit",
+    "adjective": "inhabited"
+   }
+  },
+  "mnemonic": "'In' 'في' + 'Habit' 'عادة'.. الناس اللي من عادتهم يعيشوا 'في' المكان ده.",
+  "phonetic_us": "ɪnˈhæbətənt",
+  "phonetic_uk": "ɪnˈhæbɪtənt",
+  "syllables": "in•hab•i•tant",
+  "semantic_tags": [
+   "#Population",
+   "#Housing",
+   "#Geography"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person or animal that lives in or occupies a place.",
+  "explanation_ar": "الشخص أو الحيوان اللي عايش ومستقر في مكان معين، زي سكان المدينة أو سكان الغابة.",
+  "examples": [
+   "The oldest inhabitant of the town turned 100.",
+   "Every inhabitant of the village signed the petition.",
+   "As a lifelong inhabitant of the city, he knows all of its hidden streets."
+  ],
+  "translations": {
+   "arabic_ar": "ساكن قاطن"
+  },
+  "synonyms": [
+   "resident",
+   "dweller",
+   "occupant"
+  ],
+  "antonyms": [
+   "visitor",
+   "tourist",
+   "outsider"
+  ],
+  "collocations": [
+   "local inhabitant",
+   "original inhabitant",
+   "city inhabitant",
+   "island inhabitant"
+  ],
+  "mnemonic_ar": "'In' 'في' + 'Habit' 'عادة'.. الناس اللي من عادتهم يعيشوا 'في' المكان ده."
+ }
+}

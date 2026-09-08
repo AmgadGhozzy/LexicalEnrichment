@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "stab",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "stab",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To thrust a knife or other pointed weapon into someone or something.",
+  "explanation_ar": "يضرب حد بسكينة أو آلة حادة.",
+  "senses": [
+   {
+    "definition_en": "To thrust a knife or other pointed weapon into someone or something.",
+    "definition_ar": "يطعن شخصاً أو شيئاً بسكين أو بأداة حادة.",
+    "examples": [
+     "The suspect attempted to stab the officer with a broken bottle.",
+     "Don't stab the meat with your fork.",
+     "He would never stab his partner in the back for personal gain."
+    ]
+   }
+  ],
+  "examples": [
+   "The suspect attempted to stab the officer with a broken bottle.",
+   "Don't stab the meat with your fork.",
+   "He would never stab his partner in the back for personal gain."
+  ],
+  "translations": [
+   "يطعن"
+  ],
+  "relations": {
+   "synonyms": [
+    "pierce",
+    "puncture",
+    "thrust"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "stab to death",
+    "stab in the back",
+    "get stabbed"
+   ]
+  },
+  "mnemonic": "كلمة 'Stab' نطقها حاد وقوي زي 'الطعنة' بالظبط.",
+  "phonetic_us": "stæb",
+  "phonetic_uk": "stæb",
+  "syllables": [
+   "stab"
+  ],
+  "semantic_tags": [
+   "#Violence",
+   "#Crime",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To thrust a knife or other pointed weapon into someone or something.",
+  "explanation_ar": "يضرب حد بسكينة أو آلة حادة.",
+  "examples": [
+   "The suspect attempted to stab the officer with a broken bottle.",
+   "Don't stab the meat with your fork.",
+   "He would never stab his partner in the back for personal gain."
+  ],
+  "translations": {
+   "arabic_ar": "يطعن"
+  },
+  "synonyms": [
+   "pierce",
+   "puncture",
+   "thrust"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "stab to death",
+   "stab in the back",
+   "get stabbed"
+  ],
+  "mnemonic_ar": "كلمة 'Stab' نطقها حاد وقوي زي 'الطعنة' بالظبط."
+ }
+}

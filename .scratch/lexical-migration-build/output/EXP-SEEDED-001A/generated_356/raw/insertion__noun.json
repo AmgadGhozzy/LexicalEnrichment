@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "insertion",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "insertion",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action of inserting something.",
+  "explanation_ar": "عملية إدخال أو إدراج حاجة جوه حاجة تانية، زي إضافة كلمة في نص أو وضع شريحة في جهاز.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "The action of inserting something.",
+    "explanation_ar": "عملية إدخال أو إدراج شيء داخل شيء آخر أو في نص."
+   }
+  ],
+  "examples": [
+   "The insertion of a new clause changed the contract.",
+   "Surgical insertion of the device took two hours.",
+   "The text required the insertion of several footnotes."
+  ],
+  "translations": [
+   "إدراج",
+   "إدخال"
+  ],
+  "relations": {
+   "synonyms": [
+    "introduction",
+    "inclusion",
+    "addition",
+    "implantation"
+   ],
+   "antonyms": [
+    "removal",
+    "extraction",
+    "deletion"
+   ],
+   "collocations": [
+    "insertion point",
+    "data insertion",
+    "needle insertion",
+    "insertion order"
+   ]
+  },
+  "mnemonic": "الفعل 'Insert' يعني يدخل أو يدرج، واللاحقة '-ion' تحوله لاسم، فـ 'Insertion' هي عملية الإدخال أو الإدراج نفسها.",
+  "phonetic_us": "ɪnˈsɝː.ʃən",
+  "phonetic_uk": "ɪnˈsɜː.ʃən",
+  "syllables": "in•ser•tion",
+  "semantic_tags": [
+   "Action",
+   "Addition",
+   "Placement",
+   "Technical"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of inserting something.",
+  "explanation_ar": "عملية إدخال أو إدراج حاجة جوه حاجة تانية، زي إضافة كلمة في نص أو وضع شريحة في جهاز.",
+  "examples": [
+   "The insertion of a new clause changed the contract.",
+   "Surgical insertion of the device took two hours.",
+   "The text required the insertion of several footnotes."
+  ],
+  "translations": {
+   "arabic_ar": "إدراج إدخال"
+  },
+  "synonyms": [
+   "introduction",
+   "inclusion",
+   "addition",
+   "implantation"
+  ],
+  "antonyms": [
+   "removal",
+   "extraction",
+   "deletion"
+  ],
+  "collocations": [
+   "insertion point",
+   "data insertion",
+   "needle insertion",
+   "insertion order"
+  ],
+  "mnemonic_ar": "الفعل 'Insert' يعني يدخل أو يدرج، واللاحقة '-ion' تحوله لاسم، فـ 'Insertion' هي عملية الإدخال أو الإدراج نفسها."
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5475",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5475",
+  "lemma": "sunlight",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5475,
+  "lemma": "sunlight",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "2",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈsʌnlaɪt",
+  "phonetic_uk": null,
+  "phonetic_ar": "سَنلايت",
+  "definition_en": "The natural light that comes directly from the sun during the day.",
+  "explanation_ar": "الضوء الطبيعي المنبعث من الشمس والذي ينير الأرض خلال النهار.",
+  "examples": [
+   {
+    "example_text": "The room was filled with warm sunlight streaming through the window.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Many plants need direct sunlight for several hours each day to grow properly.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "She wore dark glasses to protect her sensitive eyes from the bright sunlight.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تتكون الكلمة بوضوح من \"sun\" اي شمس و \"light\" اي ضوء مما يعطيك ضوء الشمس مباشرة وبسهولة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The natural light that comes directly from the sun during the day.",
+    "short_def_en": "natural light from the sun",
+    "definition_ar": "الضوء الطبيعي الذي يأتي من الشمس في النهار.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "Weather",
+     "Light",
+     "Nature"
+    ],
+    "usage_note": "Usually an uncountable noun.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bright sunlight",
+   "direct sunlight",
+   "in the sunlight",
+   "stream of sunlight"
+  ],
+  "synonyms": [
+   "sunshine",
+   "daylight"
+  ],
+  "antonyms": [
+   "darkness",
+   "shade",
+   "shadow"
+  ],
+  "related_words": {
+   "en": [
+    "sun",
+    "beam",
+    "rays",
+    "dawn",
+    "glow"
+   ],
+   "ar": [
+    "شمس",
+    "شعاع",
+    "أشعة",
+    "فجر",
+    "وهج"
+   ]
+  },
+  "word_family": {
+   "noun": "sunlight",
+   "verb": "",
+   "adj": "sunlit",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ضوء الشمس",
+   "french_fr": "lumière du soleil",
+   "german_de": "Sonnenlicht",
+   "spanish_es": "luz solar",
+   "chinese_zh": "阳光 (Yángguāng)",
+   "russian_ru": "солнечный свет",
+   "portuguese_pt": "luz do sol",
+   "japanese_ja": "日光 (Nikkō)",
+   "italian_it": "luce del sole",
+   "turkish_tr": "güneş ışığı"
+  }
+ },
+ "provenance": {
+  "output_hash": "ae911033efffeb8ff1cb01f80620413421c2015b3549f1ff7cf884194bf980ae",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

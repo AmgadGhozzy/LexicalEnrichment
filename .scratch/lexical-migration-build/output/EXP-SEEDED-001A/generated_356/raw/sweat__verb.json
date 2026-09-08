@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "sweat",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "sweat",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To excrete moisture through the pores of the skin, typically due to heat or exertion.",
+  "explanation_ar": "إن جسمك يفرز ميه 'عرق' لما الجو يكون حر أو تعمل مجهود.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To excrete moisture through the pores of the skin, typically due to heat or exertion.",
+    "explanation_ar": "أن يفرز الجسم العرق من مسام الجلد نتيجة الحرارة أو المجهود البدني.",
+    "examples": [
+     "I sweat when it is hot.",
+     "He began to sweat after running.",
+     "The athletes sweat a lot during training."
+    ]
+   }
+  ],
+  "examples": [
+   "I sweat when it is hot.",
+   "He began to sweat after running.",
+   "The athletes sweat a lot during training."
+  ],
+  "translations": [
+   "يَعْرَق"
+  ],
+  "relations": {
+   "synonyms": [
+    "perspire"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sweat profusely",
+    "break a sweat",
+    "sweat it out",
+    "cold sweat"
+   ]
+  },
+  "mnemonic": "كلمة 'Sweet' 'حلو'.. بس الـ 'Sweat' 'العرق' مش حلو خالص! فرق حرف واحد يقلب المعنى.",
+  "phonetic_us": "swɛt",
+  "phonetic_uk": "swet",
+  "syllables": "sweat",
+  "semantic_tags": [
+   "#Body",
+   "#Heat",
+   "#Exercise",
+   "#Water"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To excrete moisture through the pores of the skin, typically due to heat or exertion.",
+  "explanation_ar": "إن جسمك يفرز ميه 'عرق' لما الجو يكون حر أو تعمل مجهود.",
+  "examples": [
+   "I sweat when it is hot.",
+   "He began to sweat after running.",
+   "The athletes sweat a lot during training."
+  ],
+  "translations": {
+   "arabic_ar": "يَعْرَق"
+  },
+  "synonyms": [
+   "perspire"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sweat profusely",
+   "break a sweat",
+   "sweat it out",
+   "cold sweat"
+  ],
+  "mnemonic_ar": "كلمة 'Sweet' 'حلو'.. بس الـ 'Sweat' 'العرق' مش حلو خالص! فرق حرف واحد يقلب المعنى."
+ }
+}

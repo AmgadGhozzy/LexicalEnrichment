@@ -1,0 +1,111 @@
+{
+ "identity": {
+  "lemma": "deal",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "deal",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To take action to solve a problem (deal with) or to distribute cards in a game.",
+  "explanation_ar": "إنك تتعامل مع مشكلة أو شخص، أو توزع الكوتشينة في اللعب.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To take action in order to solve a problem, handle a situation, or do business with someone (usually 'deal with').",
+    "explanation_ar": "يتعامل مع مشكلة أو شخص أو يدير أمراً معيناً.",
+    "examples": [
+     "I have to deal with this problem immediately.",
+     "We only deal with reputable companies."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To distribute playing cards to players in a game.",
+    "explanation_ar": "يوزع أوراق اللعب (الكوتشينة).",
+    "examples": [
+     "Whose turn is it to deal the cards?"
+    ]
+   }
+  ],
+  "examples": [
+   "I have to deal with this problem immediately.",
+   "We only deal with reputable companies.",
+   "Whose turn is it to deal the cards?"
+  ],
+  "translations": [
+   "يتعامل مع",
+   "يوزع",
+   "يتاجر"
+  ],
+  "relations": {
+   "synonyms": [
+    "handle",
+    "manage",
+    "cope",
+    "distribute"
+   ],
+   "antonyms": [
+    "ignore",
+    "avoid",
+    "neglect"
+   ],
+   "collocations": [
+    "deal with",
+    "deal cards",
+    "deal a blow",
+    "deal in",
+    "deal out"
+   ],
+   "word_family": {
+    "noun": "deal",
+    "verb": "deal"
+   }
+  },
+  "mnemonic": "لما تقول 'Deal with it' يعني 'اتعامل' مع الموضوع وحله.",
+  "phonetic_us": "diːl",
+  "phonetic_uk": "diːl",
+  "syllables": [
+   "deal"
+  ],
+  "semantic_tags": [
+   "handling",
+   "coping",
+   "business",
+   "games"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To take action to solve a problem (deal with) or to distribute cards in a game.",
+  "explanation_ar": "إنك تتعامل مع مشكلة أو شخص، أو توزع الكوتشينة في اللعب.",
+  "examples": [
+   "I have to deal with this problem immediately.",
+   "We only deal with reputable companies.",
+   "Whose turn is it to deal the cards?"
+  ],
+  "translations": {
+   "arabic_ar": "يتعامل مع يوزع يتاجر"
+  },
+  "synonyms": [
+   "handle",
+   "manage",
+   "cope",
+   "distribute"
+  ],
+  "antonyms": [
+   "ignore",
+   "avoid",
+   "neglect"
+  ],
+  "collocations": [
+   "deal with",
+   "deal cards",
+   "deal a blow",
+   "deal in",
+   "deal out"
+  ],
+  "mnemonic_ar": "لما تقول 'Deal with it' يعني 'اتعامل' مع الموضوع وحله."
+ }
+}

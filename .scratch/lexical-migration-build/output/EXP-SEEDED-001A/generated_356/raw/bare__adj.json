@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "bare",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bare",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Not covered by clothes, leaves, or decorations; basic.",
+  "explanation_ar": "حاجة مكشوفة مش عليها غطا، زي لما تمشي حافي أو شجرة من غير ورق.",
+  "senses": [
+   {
+    "definition_en": "Not covered by clothing, foliage, or a surface layer; exposed.",
+    "explanation_ar": "عارٍ أو مكشوف وغير مغطى بملابس أو أوراق أو أثاث.",
+    "examples": [
+     "She walked with bare feet.",
+     "The trees are bare in winter."
+    ]
+   },
+   {
+    "definition_en": "Basic, minimal, or without additions; the simplest form of something.",
+    "explanation_ar": "أساسي أو مقتصر على الحد الأدنى الضروري دون أي زيادات.",
+    "examples": [
+     "We only had the bare essentials for the camping trip."
+    ]
+   }
+  ],
+  "examples": [
+   "She walked with bare feet.",
+   "The trees are bare in winter.",
+   "We only had the bare essentials for the camping trip."
+  ],
+  "translations": [
+   "عارٍ",
+   "مكشوف"
+  ],
+  "relations": {
+   "synonyms": [
+    "naked",
+    "uncovered",
+    "empty",
+    "plain"
+   ],
+   "antonyms": [
+    "covered",
+    "clothed",
+    "dressed"
+   ],
+   "collocations": [
+    "bare feet",
+    "bare hands",
+    "bare essentials",
+    "lay bare"
+   ]
+  },
+  "mnemonic": "كلمة 'Bare' نفس نطق 'Bear' 'دُب'.. تخيل دُب ماشي 'Bare' من غير هدوم.",
+  "phonetic_us": "bɛəɹ",
+  "phonetic_uk": "beə",
+  "syllables": null,
+  "semantic_tags": [
+   "#Naked",
+   "#Simple",
+   "#Nature",
+   "#Minimal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Not covered by clothes, leaves, or decorations; basic.",
+  "explanation_ar": "حاجة مكشوفة مش عليها غطا، زي لما تمشي حافي أو شجرة من غير ورق.",
+  "examples": [
+   "She walked with bare feet.",
+   "The trees are bare in winter.",
+   "We only had the bare essentials for the camping trip."
+  ],
+  "translations": {
+   "arabic_ar": "عارٍ مكشوف"
+  },
+  "synonyms": [
+   "naked",
+   "uncovered",
+   "empty",
+   "plain"
+  ],
+  "antonyms": [
+   "covered",
+   "clothed",
+   "dressed"
+  ],
+  "collocations": [
+   "bare feet",
+   "bare hands",
+   "bare essentials",
+   "lay bare"
+  ],
+  "mnemonic_ar": "كلمة 'Bare' نفس نطق 'Bear' 'دُب'.. تخيل دُب ماشي 'Bare' من غير هدوم."
+ }
+}

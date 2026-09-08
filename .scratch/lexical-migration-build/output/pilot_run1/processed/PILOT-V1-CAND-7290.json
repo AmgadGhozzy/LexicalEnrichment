@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7290",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7290",
+  "lemma": "reverberate",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7290,
+  "lemma": "reverberate",
+  "pos": "verb",
+  "cefr_level": "C2",
+  "difficulty_score": "7",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "rɪˈvɜːrbəreɪt",
+  "phonetic_uk": "rɪˈvɜːbəreɪt",
+  "phonetic_ar": "رِڤِيرْبَرَيْت",
+  "definition_en": "To echo repeatedly, or to produce widespread and long-lasting effects or consequences.",
+  "explanation_ar": "يتردد صداه بقوة في المكان، أو يمتد أثره وتداعياته لفترة طويلة وبشكل واسع في سياق سياسي أو اجتماعي.",
+  "examples": [
+   {
+    "example_text": "The loud explosion seemed to reverberate throughout the entire valley for several seconds.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Economic decisions made by major central banks will reverberate across global financial markets.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Historians warn that such reckless political actions will reverberate for generations to come.",
+    "intended_cefr": "C2"
+   }
+  ],
+  "mnemonic_ar": "تذكر بداية الكلمة re التي تعني إعادة، والوسط vibrate أي يهتز، فالمعنى اهتزاز يتكرر ويرتد كالصوت القوي أو الأثر الممتد.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To echo multiple times through a space or structure.",
+    "short_def_en": "echo repeatedly",
+    "definition_ar": "يتردد صداه بقوة وبشكل متكرر في مكان ما.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "sound",
+     "echo",
+     "acoustics"
+    ],
+    "usage_note": "Commonly used for loud sounds like gunshots, thunder, or cheering in enclosed or cavernous spaces.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To have strong and lasting indirect consequences across a wide context.",
+    "short_def_en": "have lasting effects",
+    "definition_ar": "تترك تداعيات وآثار ممتدة وقوية على نطاق واسع.",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Event",
+    "semantic_tags": [
+     "consequences",
+     "politics",
+     "impact"
+    ],
+    "usage_note": "Frequently used in political, economic, or historical journalism to describe shocks and ripple effects.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "reverberate through",
+   "reverberate across",
+   "reverberate around",
+   "continue to reverberate"
+  ],
+  "synonyms": [
+   "echo",
+   "resonate",
+   "resound",
+   "ring"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "echo",
+    "vibration",
+    "impact",
+    "aftermath",
+    "resonance"
+   ],
+   "ar": [
+    "صدى",
+    "اهتزاز",
+    "أثر",
+    "عواقب",
+    "رنين"
+   ]
+  },
+  "word_family": {
+   "noun": "reverberation",
+   "verb": "reverberate",
+   "adj": "reverberant",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يتردد صداه / يُحدث صدى وتداعيات",
+   "french_fr": "répercuter",
+   "german_de": "hallen",
+   "spanish_es": "repercutir",
+   "chinese_zh": "回荡 (huídàng)",
+   "russian_ru": "отдаваться",
+   "portuguese_pt": "repercutir",
+   "japanese_ja": "反響する (Hankyō suru)",
+   "italian_it": "riecheggiare",
+   "turkish_tr": "yankılanmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "0dcabad6a58872b04de493eeb892e2ebfffb9cec7a000f73d434dfccb93fbe30",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

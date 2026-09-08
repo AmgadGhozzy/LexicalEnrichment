@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "thinking",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "thinking",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The process of using one's mind to consider or reason about something.",
+  "explanation_ar": "التفكير. عملية تشغيل الدماغ عشان تفهم أو تحل حاجة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The process of using one's mind to consider or reason about something, or an opinion resulting from it.",
+    "definition_ar": "عملية التفكير واستخدام العقل، أو الرأي والتوجه الناتج عن ذلك."
+   }
+  ],
+  "examples": [
+   "What is your thinking on this?",
+   "We need some fresh thinking.",
+   "Critical thinking is an important skill."
+  ],
+  "translations": [
+   "تفكير",
+   "رأي"
+  ],
+  "relations": {
+   "synonyms": [
+    "thought",
+    "reasoning",
+    "consideration"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "critical thinking",
+    "positive thinking",
+    "wishful thinking",
+    "way of thinking"
+   ]
+  },
+  "mnemonic": "من 'Think' 'يفكر'.. الـ 'Thinking' هو التفكير نفسه",
+  "phonetic_us": "ˈθɪŋkɪŋ",
+  "phonetic_uk": "ˈθɪŋkɪŋ",
+  "syllables": "think•ing",
+  "semantic_tags": [
+   "mind",
+   "thought",
+   "logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The process of using one's mind to consider or reason about something.",
+  "explanation_ar": "التفكير. عملية تشغيل الدماغ عشان تفهم أو تحل حاجة.",
+  "examples": [
+   "What is your thinking on this?",
+   "We need some fresh thinking.",
+   "Critical thinking is an important skill."
+  ],
+  "translations": {
+   "arabic_ar": "تفكير رأي"
+  },
+  "synonyms": [
+   "thought",
+   "reasoning",
+   "consideration"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "critical thinking",
+   "positive thinking",
+   "wishful thinking",
+   "way of thinking"
+  ],
+  "mnemonic_ar": "من 'Think' 'يفكر'.. الـ 'Thinking' هو التفكير نفسه"
+ }
+}

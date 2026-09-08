@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "polite",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "polite",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Having or showing behavior that is respectful and considerate of other people.",
+  "explanation_ar": "مؤدب أو مهذب. الشخص اللي بيحترم الناس وبيتعامل بذوق.",
+  "senses": [
+   {
+    "definition_en": "Having or showing behavior that is respectful and considerate of other people.",
+    "definition_ar": "مؤدب أو مهذب في التعامل مع الآخرين.",
+    "examples": [
+     "It is polite to say thank you.",
+     "Please be polite to the guests.",
+     "She gave a polite smile but didn't say anything."
+    ]
+   }
+  ],
+  "examples": [
+   "It is polite to say thank you.",
+   "Please be polite to the guests.",
+   "She gave a polite smile but didn't say anything."
+  ],
+  "translations": [
+   "مُؤَدَّب",
+   "مُهَذَّب"
+  ],
+  "relations": {
+   "synonyms": [
+    "courteous",
+    "respectful",
+    "well-mannered",
+    "civil"
+   ],
+   "antonyms": [
+    "rude",
+    "impolite",
+    "insolent"
+   ],
+   "collocations": [
+    "polite conversation",
+    "polite society",
+    "just being polite",
+    "polite refusal"
+   ]
+  },
+  "mnemonic": "الـ 'Police' بيحفظ النظام.. والـ 'Polite' بيحفظ الأدب والذوق في التعامل",
+  "phonetic_us": "pəˈlaɪt",
+  "phonetic_uk": "pəˈlaɪt",
+  "syllables": "po•lite",
+  "semantic_tags": [
+   "manners",
+   "personality",
+   "respect"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having or showing behavior that is respectful and considerate of other people.",
+  "explanation_ar": "مؤدب أو مهذب. الشخص اللي بيحترم الناس وبيتعامل بذوق.",
+  "examples": [
+   "It is polite to say thank you.",
+   "Please be polite to the guests.",
+   "She gave a polite smile but didn't say anything."
+  ],
+  "translations": {
+   "arabic_ar": "مُؤَدَّب مُهَذَّب"
+  },
+  "synonyms": [
+   "courteous",
+   "respectful",
+   "well-mannered",
+   "civil"
+  ],
+  "antonyms": [
+   "rude",
+   "impolite",
+   "insolent"
+  ],
+  "collocations": [
+   "polite conversation",
+   "polite society",
+   "just being polite",
+   "polite refusal"
+  ],
+  "mnemonic_ar": "الـ 'Police' بيحفظ النظام.. والـ 'Polite' بيحفظ الأدب والذوق في التعامل"
+ }
+}

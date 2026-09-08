@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "spell",
+  "pos": "noun"
+ },
+ "candidate": {
+  "lemma": "spell",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A form of words used as a magical charm; OR a short period of time.",
+  "explanation_ar": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+  "senses": [
+   {
+    "definition_en": "A short period of a particular condition, activity, or weather.",
+    "definition_ar": "فترة زمنية قصيرة، خاصة من طقس أو حالة معينة (مثل موجة حر أو جفاف).",
+    "examples": [
+     "The dry spell damaged the crops across the entire region.",
+     "After working for hours, he paused to rest for a short spell."
+    ]
+   },
+   {
+    "definition_en": "A spoken word or set of words believed to have magical power, or a state of enchantment.",
+    "definition_ar": "تعويذة سحرية، أو حالة من الوقوع تحت تأثير السحر.",
+    "examples": [
+     "According to legend, the witch cast a powerful spell over the kingdom."
+    ]
+   }
+  ],
+  "examples": [
+   "The dry spell damaged the crops across the entire region.",
+   "After working for hours, he paused to rest for a short spell.",
+   "According to legend, the witch cast a powerful spell over the kingdom."
+  ],
+  "translations": [
+   "تعويذة",
+   "فترة",
+   "موجة"
+  ],
+  "relations": {
+   "synonyms": [
+    "period",
+    "interval",
+    "bout",
+    "charm",
+    "incantation"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cast a spell",
+    "under a spell",
+    "cold spell",
+    "dry spell"
+   ]
+  },
+  "mnemonic": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد.",
+  "phonetic_us": "/spɛl/",
+  "phonetic_uk": "/spɛl/",
+  "syllables": "spell",
+  "semantic_tags": [
+   "#Magic",
+   "#Time",
+   "#Period"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A form of words used as a magical charm; OR a short period of time.",
+  "explanation_ar": "ليها معنيين: تعويذة سحرية زي اللي في القصص، أو فترة زمنية قصيرة 'زي موجة حر'.",
+  "examples": [
+   "The dry spell damaged the crops across the entire region.",
+   "After working for hours, he paused to rest for a short spell.",
+   "According to legend, the witch cast a powerful spell over the kingdom."
+  ],
+  "translations": {
+   "arabic_ar": "تعويذة فترة موجة"
+  },
+  "synonyms": [
+   "period",
+   "interval",
+   "bout",
+   "charm",
+   "incantation"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cast a spell",
+   "under a spell",
+   "cold spell",
+   "dry spell"
+  ],
+  "mnemonic_ar": "الساحرة بتعمل 'Spell' 'تعويذة' عشان تسحرك.. وممكن تقول 'Cold spell' يعني موجة برد."
+ }
+}

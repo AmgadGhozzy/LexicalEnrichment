@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "besides",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "besides",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In addition; furthermore; used to introduce an additional point or reason.",
+  "explanation_ar": "بمعنى بالإضافة لكدة أو غير كدة، وتُستخدم لإضافة معلومة جديدة أو سبب آخر.",
+  "senses": [
+   {
+    "sense_id": "besides_adv_01",
+    "definition_en": "In addition; furthermore; used to introduce an additional point or reason.",
+    "explanation_ar": "بالإضافة إلى ذلك، أو فضلاً عن ذلك؛ لتقديم سبب إضافي أو نقطة أخرى.",
+    "examples": [
+     "I don't want to go to the party; besides, I am too tired.",
+     "The coat is far too expensive, and besides, it is not my style.",
+     "We cannot afford a vacation this year, and besides, there is too much work to do."
+    ]
+   }
+  ],
+  "examples": [
+   "I don't want to go to the party; besides, I am too tired.",
+   "The coat is far too expensive, and besides, it is not my style.",
+   "We cannot afford a vacation this year, and besides, there is too much work to do."
+  ],
+  "translations": [
+   "بالإضافة إلى ذلك",
+   "علاوة على ذلك",
+   "فضلاً عن ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "furthermore",
+    "moreover",
+    "in addition",
+    "also",
+    "additionally"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "and besides",
+    "besides that"
+   ]
+  },
+  "mnemonic": "هي كلمة 'Beside' 'بجانب' وحطينا لها 's' الجمع.. يعني بتحط حاجات كتير 'بجانب' بعضها.. يبقى بالإضافة لذلك.",
+  "phonetic_us": "bɪˈsaɪdz",
+  "phonetic_uk": "bɪˈsaɪdz",
+  "syllables": "be•sides",
+  "semantic_tags": [
+   "#LinkingWord",
+   "#Addition",
+   "#Grammar"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In addition; furthermore; used to introduce an additional point or reason.",
+  "explanation_ar": "بمعنى بالإضافة لكدة أو غير كدة، وتُستخدم لإضافة معلومة جديدة أو سبب آخر.",
+  "examples": [
+   "I don't want to go to the party; besides, I am too tired.",
+   "The coat is far too expensive, and besides, it is not my style.",
+   "We cannot afford a vacation this year, and besides, there is too much work to do."
+  ],
+  "translations": {
+   "arabic_ar": "بالإضافة إلى ذلك علاوة على ذلك فضلاً عن ذلك"
+  },
+  "synonyms": [
+   "furthermore",
+   "moreover",
+   "in addition",
+   "also",
+   "additionally"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "and besides",
+   "besides that"
+  ],
+  "mnemonic_ar": "هي كلمة 'Beside' 'بجانب' وحطينا لها 's' الجمع.. يعني بتحط حاجات كتير 'بجانب' بعضها.. يبقى بالإضافة لذلك."
+ }
+}

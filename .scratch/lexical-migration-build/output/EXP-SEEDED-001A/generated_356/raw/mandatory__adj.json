@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "mandatory",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "mandatory",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Required by law or rules; compulsory.",
+  "explanation_ar": "إلزامي أو إجباري؛ شيء مفروض قانونياً أو بموجب القواعد والتعليمات ولا يمكن اختياره.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Required by law or rules; compulsory.",
+    "definition_ar": "إلزامي أو إجباري بموجب القانون أو اللوائح.",
+    "examples": [
+     "Wearing a seatbelt is mandatory in this country.",
+     "The company made overtime mandatory for all staff.",
+     "A mandatory life sentence was imposed for the crime."
+    ]
+   }
+  ],
+  "examples": [
+   "Wearing a seatbelt is mandatory in this country.",
+   "The company made overtime mandatory for all staff.",
+   "A mandatory life sentence was imposed for the crime."
+  ],
+  "translations": [
+   "إلزامي",
+   "إجباري"
+  ],
+  "relations": {
+   "synonyms": [
+    "compulsory",
+    "obligatory",
+    "required"
+   ],
+   "antonyms": [
+    "optional",
+    "voluntary"
+   ],
+   "collocations": [
+    "mandatory requirement",
+    "mandatory sentence",
+    "mandatory training"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Mandate' (أمر رسمي). أو افتكرها بـ 'Man' و 'Date'.. الراجل لازم يروح الـ 'Date' ده 'Mandatory'.",
+  "phonetic_us": "ˈmændətɔːri",
+  "phonetic_uk": "ˈmændətəri",
+  "syllables": "man-da-to-ry",
+  "semantic_tags": [
+   "#Rules",
+   "#Law",
+   "#Obligation"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Required by law or rules; compulsory.",
+  "explanation_ar": "إلزامي أو إجباري؛ شيء مفروض قانونياً أو بموجب القواعد والتعليمات ولا يمكن اختياره.",
+  "examples": [
+   "Wearing a seatbelt is mandatory in this country.",
+   "The company made overtime mandatory for all staff.",
+   "A mandatory life sentence was imposed for the crime."
+  ],
+  "translations": {
+   "arabic_ar": "إلزامي إجباري"
+  },
+  "synonyms": [
+   "compulsory",
+   "obligatory",
+   "required"
+  ],
+  "antonyms": [
+   "optional",
+   "voluntary"
+  ],
+  "collocations": [
+   "mandatory requirement",
+   "mandatory sentence",
+   "mandatory training"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Mandate' (أمر رسمي). أو افتكرها بـ 'Man' و 'Date'.. الراجل لازم يروح الـ 'Date' ده 'Mandatory'."
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "candidate_id": "PILOT-V1-CAND-904",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-904",
+  "lemma": "gold",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 904,
+  "lemma": "gold",
+  "pos": "adj",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɡoʊld",
+  "phonetic_uk": "ɡəʊld",
+  "phonetic_ar": "جَوْلْد",
+  "definition_en": "Made of a valuable yellow metal, or having the shiny yellow color of this metal.",
+  "explanation_ar": "يصف شيئا مصنوعا من معدن الذهب الثمين، أو يتميز بلونه الأصفر اللامع الشبيه بلون الذهب.",
+  "examples": [
+   {
+    "example_text": "She wore an elegant gold ring on her left hand.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The athlete proudly showed her gold medal to the crowd.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The sunset filled the evening sky with a deep gold light.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر حرف الجيم والواو في كلمة \"gold\" واربطها بصوت كلمة جلد لامع، وتخيل درعا لامعا مصنوعا من الذهب الخالص يلمع تحت الشمس.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Made of the precious yellow metal.",
+    "short_def_en": "made of yellow metal",
+    "definition_ar": "مصنوع من معدن الذهب الثمين.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "materials",
+     "jewelry",
+     "wealth"
+    ],
+    "usage_note": "Used before a noun to describe items like jewelry, coins, or watches made directly of the precious metal.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Having the bright yellow or brownish-yellow color of the precious metal.",
+    "short_def_en": "yellow-colored",
+    "definition_ar": "ذو لون اصفر لامع يشبه الذهب.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "colors",
+     "appearance",
+     "light"
+    ],
+    "usage_note": "Often used for hair, light, cloth, or autumn leaves.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "gold medal",
+   "gold ring",
+   "gold chain",
+   "gold watch",
+   "gold coin"
+  ],
+  "synonyms": [
+   "golden",
+   "gilded"
+  ],
+  "antonyms": [
+   "silver"
+  ],
+  "related_words": {
+   "en": [
+    "jewelry",
+    "metal",
+    "precious",
+    "treasure",
+    "yellow"
+   ],
+   "ar": [
+    "مجوهرات",
+    "معدن",
+    "ثمين",
+    "كنز",
+    "أصفر"
+   ]
+  },
+  "word_family": {
+   "noun": "gold",
+   "verb": "",
+   "adj": "golden",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "ذهبي / من ذهب",
+   "french_fr": "en or",
+   "german_de": "golden",
+   "spanish_es": "de oro",
+   "chinese_zh": "金制的 (jīn zhì de)",
+   "russian_ru": "золотой",
+   "portuguese_pt": "de ouro",
+   "japanese_ja": "金色の (Kin'iro no)",
+   "italian_it": "d'oro",
+   "turkish_tr": "altın"
+  }
+ },
+ "provenance": {
+  "output_hash": "d6a3764b2dddcc190bde006e5c479bb9840e09f1c3f39a5ea2170c6eda784379",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

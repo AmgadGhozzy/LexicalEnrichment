@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "devil",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "devil",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The supreme spirit of evil; Satan.",
+  "explanation_ar": "الشيطان أو روح الشر، وممكن تتقال على شخص شرير أو ماكر.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The supreme spirit of evil; Satan.",
+    "definition_ar": "الشيطان أو روح الشر العليا في التعاليم الدينية والقصص الشعبية.",
+    "examples": [
+     "He is between the devil and the deep blue sea."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A wicked, mischievous, or energetic person.",
+    "definition_ar": "شخص ماكر، شقي، أو مؤذٍ، وتُستخدم أحياناً بأسلوب فكاهي.",
+    "examples": [
+     "She is a little devil when she wants to be."
+    ]
+   }
+  ],
+  "examples": [
+   "Speak of the devil, here he comes!",
+   "She is a little devil when she wants to be.",
+   "He is between the devil and the deep blue sea."
+  ],
+  "translations": [
+   "شيطان",
+   "إبليس"
+  ],
+  "relations": {
+   "synonyms": [
+    "Satan",
+    "demon",
+    "fiend"
+   ],
+   "antonyms": [
+    "angel"
+   ],
+   "collocations": [
+    "speak of the devil",
+    "devil's advocate",
+    "lucky devil",
+    "poor devil"
+   ]
+  },
+  "mnemonic": "لاحظ أن كلمة devil تبدأ بحرف d وتتبعها كلمة evil (شر)؛ تذكر أن الـ devil دائماً مرتبط بالـ evil.",
+  "phonetic_us": "ˈdɛvl",
+  "phonetic_uk": "ˈdevl",
+  "syllables": "dev•il",
+  "semantic_tags": [
+   "#Religion",
+   "#Evil",
+   "#Mythology",
+   "#Idioms"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The supreme spirit of evil; Satan.",
+  "explanation_ar": "الشيطان أو روح الشر، وممكن تتقال على شخص شرير أو ماكر.",
+  "examples": [
+   "Speak of the devil, here he comes!",
+   "She is a little devil when she wants to be.",
+   "He is between the devil and the deep blue sea."
+  ],
+  "translations": {
+   "arabic_ar": "شيطان إبليس"
+  },
+  "synonyms": [
+   "Satan",
+   "demon",
+   "fiend"
+  ],
+  "antonyms": [
+   "angel"
+  ],
+  "collocations": [
+   "speak of the devil",
+   "devil's advocate",
+   "lucky devil",
+   "poor devil"
+  ],
+  "mnemonic_ar": "لاحظ أن كلمة devil تبدأ بحرف d وتتبعها كلمة evil (شر)؛ تذكر أن الـ devil دائماً مرتبط بالـ evil."
+ }
+}

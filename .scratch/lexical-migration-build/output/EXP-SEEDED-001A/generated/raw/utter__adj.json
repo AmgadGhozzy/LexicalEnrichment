@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "cefr": "C1",
+  "lemma": "utter",
+  "pos": "adj"
+ },
+ "candidate": {
+  "lemma": "utter",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Complete; absolute.",
+  "explanation_ar": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+  "senses": [
+   {
+    "definition_en": "Complete; absolute.",
+    "definition_ar": "مُطلق أو تامّ، يُستخدم للتوكيد الشديد غالباً مع صفات أو أسماء سلبية أو قوية.",
+    "examples": [
+     "The situation descended into utter chaos after the announcement.",
+     "He looked at me in utter amazement.",
+     "That explanation turned out to be utter nonsense."
+    ]
+   }
+  ],
+  "examples": [
+   "The situation descended into utter chaos after the announcement.",
+   "He looked at me in utter amazement.",
+   "That explanation turned out to be utter nonsense."
+  ],
+  "translations": [
+   "مُطْلَق",
+   "تَامّ",
+   "كَامِل"
+  ],
+  "relations": {
+   "synonyms": [
+    "complete",
+    "total",
+    "absolute",
+    "sheer"
+   ],
+   "antonyms": [
+    "partial",
+    "incomplete",
+    "limited"
+   ],
+   "collocations": [
+    "utter chaos",
+    "utter nonsense",
+    "utter darkness",
+    "utter silence"
+   ],
+   "word_family": {
+    "adv": "utterly",
+    "noun": "utterance",
+    "verb": "utter"
+   }
+  },
+  "mnemonic": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'.",
+  "phonetic_us": "ˈʌtər",
+  "phonetic_uk": "ˈʌtə",
+  "syllables": "ut•ter",
+  "semantic_tags": [
+   "#Emphasis",
+   "#Complete",
+   "#Degree"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Complete; absolute.",
+  "explanation_ar": "يعني كامل أو مُطلق، زي لما تقول 'فوضى عارمة' أو 'ظلام دامس'.",
+  "examples": [
+   "The situation descended into utter chaos after the announcement.",
+   "He looked at me in utter amazement.",
+   "That explanation turned out to be utter nonsense."
+  ],
+  "translations": {
+   "arabic_ar": "مُطْلَق تَامّ كَامِل"
+  },
+  "synonyms": [
+   "complete",
+   "total",
+   "absolute",
+   "sheer"
+  ],
+  "antonyms": [
+   "partial",
+   "incomplete",
+   "limited"
+  ],
+  "collocations": [
+   "utter chaos",
+   "utter nonsense",
+   "utter darkness",
+   "utter silence"
+  ],
+  "mnemonic_ar": "شبه 'Outer'.. حاجة واصلة للحد الأقصى 'Utter'."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "might",
+  "pos": "modal",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "might",
+  "pos": "modal",
+  "cefr": "A2",
+  "definition_en": "Used to express possibility or make a polite suggestion.",
+  "explanation_ar": "تُستخدم للتعبير عن الاحتمال والشك (بمعنى ربما أو قد)، أو لتقديم اقتراح أو طلب بأدب.",
+  "senses": [
+   {
+    "definition_en": "Used to express that something is possible, though not certain.",
+    "explanation_ar": "يُستخدم للقول بأن شيئًا ما محتمل الحدوث دون تأكيد.",
+    "examples": [
+     "It might rain.",
+     "I might go to the party."
+    ]
+   },
+   {
+    "definition_en": "Used to make a polite suggestion or give gentle advice.",
+    "explanation_ar": "يُستخدم لتقديم اقتراح أو نصيحة بطريقة مهذبة.",
+    "examples": [
+     "You might want to check this."
+    ]
+   }
+  ],
+  "examples": [
+   "It might rain.",
+   "I might go to the party.",
+   "You might want to check this."
+  ],
+  "translations": [
+   "قد",
+   "ربما",
+   "يمكن"
+  ],
+  "relations": {
+   "synonyms": [
+    "may",
+    "could"
+   ],
+   "antonyms": [
+    "cannot",
+    "won't"
+   ],
+   "collocations": [
+    "might be",
+    "might have",
+    "might as well"
+   ]
+  },
+  "mnemonic": "'Might' يعني ممكن.. 'Might' أروح و 'Might' لأ.",
+  "phonetic_us": "maɪt",
+  "phonetic_uk": "maɪt",
+  "syllables": "might",
+  "semantic_tags": [
+   "#Possibility",
+   "#Modal",
+   "#Politeness"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to express possibility or make a polite suggestion.",
+  "explanation_ar": "تُستخدم للتعبير عن الاحتمال والشك (بمعنى ربما أو قد)، أو لتقديم اقتراح أو طلب بأدب.",
+  "examples": [
+   "It might rain.",
+   "I might go to the party.",
+   "You might want to check this."
+  ],
+  "translations": {
+   "arabic_ar": "قد ربما يمكن"
+  },
+  "synonyms": [
+   "may",
+   "could"
+  ],
+  "antonyms": [
+   "cannot",
+   "won't"
+  ],
+  "collocations": [
+   "might be",
+   "might have",
+   "might as well"
+  ],
+  "mnemonic_ar": "'Might' يعني ممكن.. 'Might' أروح و 'Might' لأ."
+ }
+}

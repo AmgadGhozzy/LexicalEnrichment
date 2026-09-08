@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4492",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4492",
+  "lemma": "concentrate",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4492,
+  "lemma": "concentrate",
+  "pos": "verb",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "kɑːnsəntreɪt",
+  "phonetic_uk": "kɒnsntreɪt",
+  "phonetic_ar": "كونْسَنْتْرَيْت",
+  "definition_en": "To give all your attention or mental effort to a specific task or subject.",
+  "explanation_ar": "ان توجه كامل انتباهك وتفكيرك نحو امر محدد دون التشتت بما حوله.",
+  "examples": [
+   {
+    "example_text": "I cannot concentrate when the television is playing so loudly.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "You need to concentrate on finishing this report before the deadline.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The company decided to concentrate its marketing efforts on digital platforms.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"center\" اي المركز فمعنى \"concentrate\" ان تجمع تفكيرك في نقطة مركزية واحدة دون تشتت",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To direct all attention and mental effort toward a single activity or topic.",
+    "short_def_en": "focus mental attention completely",
+    "definition_ar": "يركز انتباهه وتفكيره على شيء معين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "attention",
+     "study",
+     "mind",
+     "focus"
+    ],
+    "usage_note": "Commonly followed by the preposition 'on'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To bring people, things, or efforts together in one place or organization.",
+    "short_def_en": "gather into one place",
+    "definition_ar": "يحشد او يجمع في مكان واحد",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Process",
+    "semantic_tags": [
+     "organization",
+     "gathering",
+     "effort"
+    ],
+    "usage_note": "Often used passively or in formal contexts like business and military.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "concentrate on",
+   "concentrate fully",
+   "concentrate hard",
+   "struggle to concentrate",
+   "concentrate efforts"
+  ],
+  "synonyms": [
+   "focus",
+   "pay attention",
+   "center",
+   "gather"
+  ],
+  "antonyms": [
+   "distract",
+   "disperse",
+   "scatter"
+  ],
+  "related_words": {
+   "en": [
+    "attention",
+    "focus",
+    "effort",
+    "mind",
+    "distraction"
+   ],
+   "ar": [
+    "انتباه",
+    "تركيز",
+    "جهد",
+    "عقل",
+    "تشتت"
+   ]
+  },
+  "word_family": {
+   "noun": "concentration",
+   "verb": "concentrate",
+   "adj": "concentrated",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يركز / يحشد",
+   "french_fr": "se concentrer",
+   "german_de": "konzentrieren",
+   "spanish_es": "concentrarse",
+   "chinese_zh": "集中 (jízhōng)",
+   "russian_ru": "сосредоточиваться",
+   "portuguese_pt": "concentrar-se",
+   "japanese_ja": "集中する (Shūchū suru)",
+   "italian_it": "concentrarsi",
+   "turkish_tr": "odaklanmak"
+  }
+ },
+ "provenance": {
+  "output_hash": "fd1f90b7fb41f03d8bd4babc574d95f2e0d318d8b81881243741601093056ec8",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

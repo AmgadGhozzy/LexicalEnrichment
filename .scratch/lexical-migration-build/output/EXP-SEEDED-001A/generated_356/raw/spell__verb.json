@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "spell",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "spell",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To have something bad as an inevitable result; to signify or portend something undesirable.",
+  "explanation_ar": "ينذر بكذا أو يؤدي حتمًا إلى نتيجة سيئة أو كارثية (مثل: ينذر بكارثة أو يجلب المتاعب).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "cefr": "C1",
+    "definition_en": "To have something bad as an inevitable result; to lead to or portend something negative.",
+    "explanation_ar": "ينذر بحدوث أمر سيئ أو عواقب وخيمة (مثل: spell disaster / trouble)."
+   },
+   {
+    "sense_id": 2,
+    "cefr": "A1",
+    "definition_en": "To write or name the letters that form a word in the correct sequence.",
+    "explanation_ar": "يتهجى حروف الكلمة بالترتيب الصحيح."
+   }
+  ],
+  "examples": [
+   "Any delay in funding could spell disaster for the local hospital.",
+   "A sharp increase in taxes would spell trouble for struggling families.",
+   "The failure of these talks may spell the end of the peace process."
+  ],
+  "translations": [
+   "ينذر بـ",
+   "يؤدي إلى (كارثة أو مشكلة)"
+  ],
+  "relations": {
+   "synonyms": [
+    "portend",
+    "signify",
+    "herald",
+    "mean"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spell disaster",
+    "spell trouble",
+    "spell doom",
+    "spell the end of"
+   ],
+   "related_words": [
+    "spelling",
+    "misspell"
+   ],
+   "word_family": {
+    "verb": "spell",
+    "noun": "spelling"
+   }
+  },
+  "mnemonic": "اربط المعنى هنا بالـ 'spell' بمعنى (تعويذة سحرية)؛ كأن الأمر يلقي تعويذة شؤم تجلب الكوار والمتاعب (spells disaster).",
+  "phonetic_us": "spɛl",
+  "phonetic_uk": "spɛl",
+  "syllables": [
+   "spell"
+  ],
+  "semantic_tags": [
+   "#Consequences",
+   "#Causality",
+   "#Predictions",
+   "#Formal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To have something bad as an inevitable result; to signify or portend something undesirable.",
+  "explanation_ar": "ينذر بكذا أو يؤدي حتمًا إلى نتيجة سيئة أو كارثية (مثل: ينذر بكارثة أو يجلب المتاعب).",
+  "examples": [
+   "Any delay in funding could spell disaster for the local hospital.",
+   "A sharp increase in taxes would spell trouble for struggling families.",
+   "The failure of these talks may spell the end of the peace process."
+  ],
+  "translations": {
+   "arabic_ar": "ينذر بـ يؤدي إلى (كارثة أو مشكلة)"
+  },
+  "synonyms": [
+   "portend",
+   "signify",
+   "herald",
+   "mean"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spell disaster",
+   "spell trouble",
+   "spell doom",
+   "spell the end of"
+  ],
+  "mnemonic_ar": "اربط المعنى هنا بالـ 'spell' بمعنى (تعويذة سحرية)؛ كأن الأمر يلقي تعويذة شؤم تجلب الكوار والمتاعب (spells disaster)."
+ }
+}

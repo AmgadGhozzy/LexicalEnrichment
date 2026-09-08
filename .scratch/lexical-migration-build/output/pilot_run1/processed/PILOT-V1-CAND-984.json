@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-984",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-984",
+  "lemma": "practice",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 984,
+  "lemma": "practice",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.98,
+  "phonetic_us": "præktɪs",
+  "phonetic_uk": null,
+  "phonetic_ar": "بْراكْتِسْ",
+  "definition_en": "Doing an activity repeatedly to become better at it.",
+  "explanation_ar": "القيام بنشاط ما بشكل متكرر ومنتظم بهدف تحسين المهارة فيه واكتساب الإتقان.",
+  "examples": [
+   {
+    "example_text": "I need more practice before the piano concert.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Football practice starts at four o'clock today.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "With regular practice, you will speak English fluently.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"practice\" تشبه كلمة براكتيكل practical اي عملي، والتمرين هو التطبيق العملي لتطوير المهارة وليس مجرد كلام نظري.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Doing an activity repeatedly to improve a skill.",
+    "short_def_en": "repeated training or exercise",
+    "definition_ar": "التدريب والتكرار المستمر لاكتساب مهارة أو إتقانها.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "learning",
+     "training",
+     "exercise",
+     "skill"
+    ],
+    "usage_note": "In British English, the noun is spelled 'practice' while the verb is spelled 'practise'. In American English, 'practice' is used for both.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A customary habit, tradition, or usual way of doing something.",
+    "short_def_en": "custom or regular habit",
+    "definition_ar": "عادة متبعة أو طريقة مألوفة ومعتادة للقيام بأمر معين.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "custom",
+     "habit",
+     "tradition",
+     "culture"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "regular practice",
+   "need practice",
+   "put into practice",
+   "daily practice",
+   "in practice"
+  ],
+  "synonyms": [
+   "training",
+   "exercise",
+   "rehearsal",
+   "drill"
+  ],
+  "antonyms": [
+   "theory"
+  ],
+  "related_words": {
+   "en": [
+    "skill",
+    "habit",
+    "routine",
+    "coach",
+    "exercise"
+   ],
+   "ar": [
+    "مهارة",
+    "عادة",
+    "روتين",
+    "مدرب",
+    "تمرين"
+   ]
+  },
+  "word_family": {
+   "noun": "practice",
+   "verb": "practice",
+   "adj": "practical",
+   "adv": "practically"
+  },
+  "translations": {
+   "arabic_ar": "ممارسة / تمرين / عادة",
+   "french_fr": "pratique",
+   "german_de": "Übung",
+   "spanish_es": "práctica",
+   "chinese_zh": "练习 (Liànxí)",
+   "russian_ru": "практика",
+   "portuguese_pt": "prática",
+   "japanese_ja": "練習 (Renshū)",
+   "italian_it": "pratica",
+   "turkish_tr": "pratik"
+  }
+ },
+ "provenance": {
+  "output_hash": "f707f84b7ba20c222f2f0651ca0a1cfc11bcfe8b6359b00870f88d26c85cc03d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

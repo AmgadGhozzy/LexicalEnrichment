@@ -1,0 +1,121 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7149",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7149",
+  "lemma": "unduly",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7149,
+  "lemma": "unduly",
+  "pos": "adv",
+  "cefr_level": "C2",
+  "difficulty_score": "7",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ʌnˈduːli",
+  "phonetic_uk": "ʌnˈdjuːli",
+  "phonetic_ar": "أَن دْيُولي",
+  "definition_en": "To a greater degree than is reasonable, necessary, or appropriate.",
+  "explanation_ar": "بشكل مفرط أو زائد عن الحد المعقول والمبرر، وعادة ما يُستخدم لوصف القلق أو التأثير أو الصعوبة.",
+  "examples": [
+   {
+    "example_text": "There is no need to be unduly alarmed by these preliminary findings.",
+    "intended_cefr": "C2"
+   },
+   {
+    "example_text": "The committee made sure not to place an unduly heavy burden on small businesses.",
+    "intended_cefr": "C2"
+   },
+   {
+    "example_text": "He tried not to appear unduly pessimistic about the outcome of the negotiations.",
+    "intended_cefr": "C2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"due\" تعني مستحق او مناسب وعند اضافة البادئة \"un\" واللاحقة يصبح المعنى غير مستحق او زائد عن الحد المعقول",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To a level that is more than necessary, acceptable, or reasonable.",
+    "short_def_en": "excessively or disproportionately",
+    "definition_ar": "بصورة مفرطة او اكثر من اللازم وبلا مبرر كاف",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Measure",
+    "semantic_tags": [
+     "degree",
+     "evaluation",
+     "moderation",
+     "criticism"
+    ],
+    "usage_note": "Most frequently modifies negative or cautionary adjectives such as concerned, worried, harsh, or influenced.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "unduly concerned",
+   "unduly worried",
+   "unduly harsh",
+   "unduly influenced",
+   "unduly delayed"
+  ],
+  "synonyms": [
+   "excessively",
+   "inordinately",
+   "disproportionately",
+   "unreasonably",
+   "overly"
+  ],
+  "antonyms": [
+   "duly",
+   "moderately",
+   "reasonably"
+  ],
+  "related_words": {
+   "en": [
+    "excessive",
+    "disproportionate",
+    "unwarranted",
+    "moderation"
+   ],
+   "ar": [
+    "مفرط",
+    "غير متناسب",
+    "غير مبرر",
+    "اعتدال"
+   ]
+  },
+  "word_family": {
+   "noun": "",
+   "verb": "",
+   "adj": "undue",
+   "adv": "unduly"
+  },
+  "translations": {
+   "arabic_ar": "بشكل مفرط / دون مبرر",
+   "french_fr": "excessivement",
+   "german_de": "übermäßig",
+   "spanish_es": "indebidamente",
+   "chinese_zh": "过度地 (guòdù de)",
+   "russian_ru": "чрезмерно",
+   "portuguese_pt": "indevidamente",
+   "japanese_ja": "過度に (Kado ni)",
+   "italian_it": "indebitamente",
+   "turkish_tr": "aşırı derecede"
+  }
+ },
+ "provenance": {
+  "output_hash": "ef14afc1d65efa53adb3a2dfe3d13f331c8dad41eae538e44e7ee4fef61521d3",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

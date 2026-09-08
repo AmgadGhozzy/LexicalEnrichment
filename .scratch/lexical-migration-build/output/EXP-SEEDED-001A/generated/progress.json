@@ -1,0 +1,244 @@
+{
+ "items": {
+  "via/prep": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "double/pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "this/det": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "plus/prep": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "since/conj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "much/det": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "colour/noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "yet/conj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spell/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spell/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "call/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "since/prep": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "can/modal": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mud/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "reign/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "jew/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "deal/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "study/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "embryo/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "deal/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "but/prep": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dependent/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "precious/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "elbow/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "utter/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "leaflet/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "administer/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rural/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "archbishop/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chop/verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "indigenous/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "radiation/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "restrain/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hollow/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fowl/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chat/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spectacular/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "reluctantly/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dolphin/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "unite/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "medieval/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "correctly/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chin/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "draft/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "articulate/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "round/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tractor/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rebuild/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "preliminary/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "often/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "permission/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "weigh/verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "accurate/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "merely/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "example/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dry/verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "proper/adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "downtown/adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pier/noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "reverberate/verb": {
+   "status": "success",
+   "artifact_pass": true
+  }
+ }
+}

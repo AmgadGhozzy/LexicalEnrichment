@@ -1,0 +1,152 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2012",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2012",
+  "lemma": "entry",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2012,
+  "lemma": "entry",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɛntri",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِنْتْرِي",
+  "definition_en": "The act of going into a place, or the right or permission to do so.",
+  "explanation_ar": "فعل الدخول إلى مكان ما، أو الحصول على إذن أو حق بالدخول إليه.",
+  "examples": [
+   {
+    "example_text": "Visitors must show their tickets to gain entry to the exhibition.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The back door provides a convenient entry into the garden.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "She looked up the definition of the word in the dictionary entry.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"enter\" التي تعني يدخل، فكلمة \"entry\" هي الاسم المشتق منها الذي يعني الدخول نفسه أو مكان الدخول.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The act of going into a place, or the permission or right to enter.",
+    "short_def_en": "act or right of entering",
+    "definition_ar": "عملية الدخول إلى مكان ما أو الحق والتصريح الممنوح للدخول إليه",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "access",
+     "permission",
+     "movement"
+    ],
+    "usage_note": "Often used with verbs like gain, allow, or refuse.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A door, gate, or passage through which you go into a building or area.",
+    "short_def_en": "door or entrance point",
+    "definition_ar": "باب أو بوابة أو ممر يُستخدم للعبور إلى داخل مبنى أو مكان",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Place",
+    "semantic_tags": [
+     "architecture",
+     "doors",
+     "location"
+    ],
+    "usage_note": "Frequently synonymous with entrance.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "An item written or recorded in a list, book, computer system, or competition.",
+    "short_def_en": "recorded item or submission",
+    "definition_ar": "بند أو معلومة مسجلة في قائمة أو كتاب أو نظام حاسوبي أو مشاركة في مسابقة",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "writing",
+     "records",
+     "data"
+    ],
+    "usage_note": "Common in phrases like diary entry or dictionary entry.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "gain entry",
+   "entry requirement",
+   "entry fee",
+   "point of entry",
+   "data entry"
+  ],
+  "synonyms": [
+   "entrance",
+   "admission",
+   "access",
+   "ingress",
+   "submission"
+  ],
+  "antonyms": [
+   "exit",
+   "departure"
+  ],
+  "related_words": {
+   "en": [
+    "enter",
+    "entrance",
+    "portal",
+    "access",
+    "gate"
+   ],
+   "ar": [
+    "يدخل",
+    "مدخل",
+    "بوابة",
+    "وصول",
+    "بوابة"
+   ]
+  },
+  "word_family": {
+   "noun": "entry",
+   "verb": "enter",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "دخول / مدخل / قيد",
+   "french_fr": "entrée",
+   "german_de": "Eintritt",
+   "spanish_es": "entrada",
+   "chinese_zh": "进入 (Jìnrù)",
+   "russian_ru": "вход",
+   "portuguese_pt": "entrada",
+   "japanese_ja": "入場 (Nyūjō)",
+   "italian_it": "entrata",
+   "turkish_tr": "giriş"
+  }
+ },
+ "provenance": {
+  "output_hash": "ea6252f4260e0f56c194e1bb43a3c8e63ca5e373533b7e4565912fb48d65b575",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only"
+ }
+}

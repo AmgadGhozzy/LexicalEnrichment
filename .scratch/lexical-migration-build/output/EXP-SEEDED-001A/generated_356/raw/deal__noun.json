@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "deal",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "deal",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "An agreement entered into by two or more parties for their mutual benefit.",
+  "explanation_ar": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An agreement or arrangement, especially in business or politics.",
+    "definition_ar": "اتفاق أو صفقة تجارية أو سياسية.",
+    "cefr": "B1"
+   }
+  ],
+  "examples": [
+   "We made a deal with the supplier.",
+   "The government signed a trade deal with China.",
+   "It is a good deal."
+  ],
+  "translations": [
+   "صفقة",
+   "اتفاق"
+  ],
+  "relations": {
+   "synonyms": [
+    "agreement",
+    "bargain",
+    "contract",
+    "arrangement",
+    "pact"
+   ],
+   "antonyms": [
+    "disagreement"
+   ],
+   "collocations": [
+    "make a deal",
+    "big deal",
+    "good deal",
+    "business deal",
+    "trade deal"
+   ]
+  },
+  "mnemonic": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص.",
+  "phonetic_us": "/diːl/",
+  "phonetic_uk": "/diːl/",
+  "syllables": [
+   "deal"
+  ],
+  "semantic_tags": [
+   "Business",
+   "Agreement",
+   "Trade",
+   "Negotiation"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An agreement entered into by two or more parties for their mutual benefit.",
+  "explanation_ar": "اتفاق أو صفقة بين طرفين، زي لما تتفق مع حد على بيع وشراء.",
+  "examples": [
+   "We made a deal with the supplier.",
+   "The government signed a trade deal with China.",
+   "It is a good deal."
+  ],
+  "translations": {
+   "arabic_ar": "صفقة اتفاق"
+  },
+  "synonyms": [
+   "agreement",
+   "bargain",
+   "contract",
+   "arrangement",
+   "pact"
+  ],
+  "antonyms": [
+   "disagreement"
+  ],
+  "collocations": [
+   "make a deal",
+   "big deal",
+   "good deal",
+   "business deal",
+   "trade deal"
+  ],
+  "mnemonic_ar": "كلمة 'Deal' يعني اتفاق.. لما تخلص كلام مع حد تقول 'It's a Deal' يعني اتفقنا خلاص."
+ }
+}

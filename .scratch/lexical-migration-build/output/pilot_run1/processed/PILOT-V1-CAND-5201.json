@@ -1,0 +1,132 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5201",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5201",
+  "lemma": "translate",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5201,
+  "lemma": "translate",
+  "pos": "verb",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "trænzˈleɪt",
+  "phonetic_uk": "trænzˈleɪt",
+  "phonetic_ar": "ترانزليت",
+  "definition_en": "To express words or text in another language while preserving the original meaning.",
+  "explanation_ar": "تحويل الكلمات أو النصوص المكتوبة أو المنطوقة من لغة إلى لغة أخرى مع الحفاظ على المعنى الأصلي.",
+  "examples": [
+   {
+    "example_text": "Can you translate this document from French into English?",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Online software can quickly translate simple phrases for travelers.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The company hired a specialist to translate their legal contracts.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر البادئة اللاتينية \"trans\" التي تعني عبر أو نقل، فالفعل يعني حرفيا نقل الكلمات عبر اللغات.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To express words or text in another language while preserving the original meaning.",
+    "short_def_en": "convert between languages",
+    "definition_ar": "ينقل نصا أو كلاما من لغة إلى أخرى",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "language",
+     "communication",
+     "writing"
+    ],
+    "usage_note": "Often used with 'into' or 'from... into'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To change something, such as ideas or plans, into a practical result or physical form.",
+    "short_def_en": "convert into practical results",
+    "definition_ar": "يحول فكرة أو خطة إلى واقع ملموس أو نتيجة عملية",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Change",
+    "semantic_tags": [
+     "results",
+     "change",
+     "planning"
+    ],
+    "usage_note": "Frequently followed by the preposition 'into', as in 'translate ideas into action'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "translate into English",
+   "translate from",
+   "accurately translate",
+   "translate into action"
+  ],
+  "synonyms": [
+   "interpret",
+   "render",
+   "convert",
+   "transcribe"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "language",
+    "interpreter",
+    "bilingual",
+    "meaning",
+    "dictionary"
+   ],
+   "ar": [
+    "لغة",
+    "مترجم فوري",
+    "ثنائي اللغة",
+    "معنى",
+    "قاموس"
+   ]
+  },
+  "word_family": {
+   "noun": "translation",
+   "verb": "translate",
+   "adj": "translatable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يترجم / يُحوّل إلى",
+   "french_fr": "traduire",
+   "german_de": "übersetzen",
+   "spanish_es": "traducir",
+   "chinese_zh": "翻译 (fānyì)",
+   "russian_ru": "переводить",
+   "portuguese_pt": "traduzir",
+   "japanese_ja": "翻訳する (Hon'yaku suru)",
+   "italian_it": "tradurre",
+   "turkish_tr": "çevirmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "46defeb758c167efbb32c369610aa0ce683deca6836cc0ef81e2e38b004e4396",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

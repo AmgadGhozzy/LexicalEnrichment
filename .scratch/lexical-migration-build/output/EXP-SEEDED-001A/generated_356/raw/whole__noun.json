@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "whole",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "whole",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A thing that is complete in itself.",
+  "explanation_ar": "الكل أو المجموع الكامل لشيء.",
+  "senses": [
+   {
+    "definition_en": "A thing that is complete in itself.",
+    "explanation_ar": "الكل أو المجموع الكامل لشيء.",
+    "examples": [
+     "Two halves make a whole.",
+     "The collection functions as a whole.",
+     "We must consider the society as a whole."
+    ]
+   }
+  ],
+  "examples": [
+   "Two halves make a whole.",
+   "The collection functions as a whole.",
+   "We must consider the society as a whole."
+  ],
+  "translations": [
+   "الكل",
+   "المجموع الكامل"
+  ],
+  "relations": {
+   "synonyms": [
+    "entity",
+    "unit",
+    "totality"
+   ],
+   "antonyms": [
+    "part",
+    "fragment",
+    "section"
+   ],
+   "collocations": [
+    "as a whole",
+    "on the whole",
+    "organic whole"
+   ]
+  },
+  "mnemonic": "نفس نطق 'Hole' 'حفرة'.. أكلت الكيكة الـ 'Whole' 'كلها' وماسيبتش غير الـ Hole.",
+  "phonetic_us": "hoʊl",
+  "phonetic_uk": "həʊl",
+  "syllables": [
+   "whole"
+  ],
+  "semantic_tags": [
+   "#Unity",
+   "#Sum",
+   "#Total"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing that is complete in itself.",
+  "explanation_ar": "الكل أو المجموع الكامل لشيء.",
+  "examples": [
+   "Two halves make a whole.",
+   "The collection functions as a whole.",
+   "We must consider the society as a whole."
+  ],
+  "translations": {
+   "arabic_ar": "الكل المجموع الكامل"
+  },
+  "synonyms": [
+   "entity",
+   "unit",
+   "totality"
+  ],
+  "antonyms": [
+   "part",
+   "fragment",
+   "section"
+  ],
+  "collocations": [
+   "as a whole",
+   "on the whole",
+   "organic whole"
+  ],
+  "mnemonic_ar": "نفس نطق 'Hole' 'حفرة'.. أكلت الكيكة الـ 'Whole' 'كلها' وماسيبتش غير الـ Hole."
+ }
+}

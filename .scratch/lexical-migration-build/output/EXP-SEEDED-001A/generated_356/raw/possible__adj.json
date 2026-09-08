@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "possible",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "possible",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Able to be done or achieved; that may exist or happen.",
+  "explanation_ar": "يعني حاجة ممكن تحصل أو تقدر تعملها، مش مستحيلة.",
+  "senses": [
+   {
+    "definition_en": "Able to be done or achieved; that may exist or happen.",
+    "explanation_ar": "يعني حاجة ممكن تحصل أو تقدر تعملها، مش مستحيلة.",
+    "examples": [
+     "Is it possible to walk there?",
+     "Please come as soon as possible.",
+     "It is possible that it will rain tomorrow."
+    ]
+   }
+  ],
+  "examples": [
+   "Is it possible to walk there?",
+   "Please come as soon as possible.",
+   "It is possible that it will rain tomorrow."
+  ],
+  "translations": [
+   "ممكن",
+   "محتمل"
+  ],
+  "relations": {
+   "synonyms": [
+    "feasible",
+    "achievable",
+    "likely"
+   ],
+   "antonyms": [
+    "impossible",
+    "unlikely"
+   ],
+   "collocations": [
+    "as soon as possible",
+    "make possible",
+    "possible cause"
+   ]
+  },
+  "mnemonic": "كلمة 'Possible' فيها 'Pass'.. يعني الامتحان ده ممكن تنجح وتعمل فيه 'Pass' لأنه 'Possible'.",
+  "phonetic_us": "ˈpɑsəbəl",
+  "phonetic_uk": "ˈpɒsəbl",
+  "syllables": "pos•si•ble",
+  "semantic_tags": [
+   "#Chance",
+   "#Feasibility",
+   "#Future"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Able to be done or achieved; that may exist or happen.",
+  "explanation_ar": "يعني حاجة ممكن تحصل أو تقدر تعملها، مش مستحيلة.",
+  "examples": [
+   "Is it possible to walk there?",
+   "Please come as soon as possible.",
+   "It is possible that it will rain tomorrow."
+  ],
+  "translations": {
+   "arabic_ar": "ممكن محتمل"
+  },
+  "synonyms": [
+   "feasible",
+   "achievable",
+   "likely"
+  ],
+  "antonyms": [
+   "impossible",
+   "unlikely"
+  ],
+  "collocations": [
+   "as soon as possible",
+   "make possible",
+   "possible cause"
+  ],
+  "mnemonic_ar": "كلمة 'Possible' فيها 'Pass'.. يعني الامتحان ده ممكن تنجح وتعمل فيه 'Pass' لأنه 'Possible'."
+ }
+}

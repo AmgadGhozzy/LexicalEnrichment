@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4180",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4180",
+  "lemma": "pearl",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4180,
+  "lemma": "pearl",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "pɜːrl",
+  "phonetic_uk": "pɜːl",
+  "phonetic_ar": "بيرل",
+  "definition_en": "A hard, smooth, shiny white or bluish-grey round mass formed inside the shell of an oyster.",
+  "explanation_ar": "حجر كريم لامع كروي الشكل غالبا، يتكون داخل صدفة بعض الرخويات كالمحار، ويستخدم في صناعة المجوهرات.",
+  "examples": [
+   {
+    "example_text": "She wore an elegant necklace made of a single freshwater pearl.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The diver searched the seabed hoping to find a rare natural pearl.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "His grandfather shared a valuable pearl of wisdom before the journey.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر نطق بيرل القريب من بريق، فاللؤلؤ يتميز ببريقه اللامع داخل المحار.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A hard, rounded, lustrous object produced within the soft tissue of a living shelled mollusc.",
+    "short_def_en": "valuable gem from an oyster",
+    "definition_ar": "حجر كريم أبيض ولامع يتكون بصورة طبيعية داخل المحار",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "jewelry",
+     "marine life",
+     "gemstones"
+    ],
+    "usage_note": "Often used attributively, as in 'pearl necklace' or 'pearl earrings'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A wise, valuable, or highly admired remark, piece of advice, or quality.",
+    "short_def_en": "valuable piece of wisdom",
+    "definition_ar": "نصيحة أو حكمة ثمينة وقيمة للغاية",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "wisdom",
+     "metaphor",
+     "value"
+    ],
+    "usage_note": "Almost exclusively heard in the fixed idiom 'pearl of wisdom'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "natural pearl",
+   "cultured pearl",
+   "pearl necklace",
+   "pearl diver",
+   "pearl of wisdom"
+  ],
+  "synonyms": [
+   "gem",
+   "jewel",
+   "gemstone"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "oyster",
+    "shell",
+    "necklace",
+    "jewelry",
+    "luster",
+    "iridescent"
+   ],
+   "ar": [
+    "محار",
+    "صدفة",
+    "قلادة",
+    "مجوهرات",
+    "بريق",
+    "قزحي"
+   ]
+  },
+  "word_family": {
+   "noun": "pearl",
+   "verb": "pearl",
+   "adj": "pearly",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "لؤلؤة / درة",
+   "french_fr": "perle",
+   "german_de": "Perle",
+   "spanish_es": "perla",
+   "chinese_zh": "珍珠 (Zhēnzhū)",
+   "russian_ru": "жемчужина",
+   "portuguese_pt": "pérola",
+   "japanese_ja": "真珠 (Shinju)",
+   "italian_it": "perla",
+   "turkish_tr": "inci"
+  }
+ },
+ "provenance": {
+  "output_hash": "f21af963b6f02065f4ee658afdecd033e03c883722b051e7901ebcd41992db0d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

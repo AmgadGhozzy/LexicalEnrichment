@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4531",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4531",
+  "lemma": "reign",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4531,
+  "lemma": "reign",
+  "pos": "verb",
+  "cefr_level": "C1",
+  "difficulty_score": "6",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "reɪn",
+  "phonetic_uk": null,
+  "phonetic_ar": "رين",
+  "definition_en": "To rule as a monarch, or to predominate as a dominant quality or condition.",
+  "explanation_ar": "يحكم كملك أو قائد أعلى، أو يسود وينتشر كشعور أو حالة غالبة في مكان ما.",
+  "examples": [
+   {
+    "example_text": "The young monarch was destined to reign over a vast and divided kingdom.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "After months of civil unrest, peace and order finally began to reign across the province.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Ancient traditions still reign supreme in the everyday culture of this remote valley.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"reign\" تنطق تماما مثل \"rain\" اي المطر فتخيل الملك يحكم البلاد بينما تمطر السماء تيجانا",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To rule a country or territory as a king, queen, or emperor.",
+    "short_def_en": "rule as monarch",
+    "definition_ar": "يحكم بصفته ملكا او حاكما اعلى لبلد او منطقة.",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "governance",
+     "royalty",
+     "politics",
+     "power"
+    ],
+    "usage_note": "Often followed by the preposition 'over'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To be the dominant feature, quality, or atmosphere in a particular situation.",
+    "short_def_en": "prevail or predominate",
+    "definition_ar": "يسود او يغلب كصفة او شعور في موقف معين.",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "atmosphere",
+     "condition",
+     "dominance"
+    ],
+    "usage_note": "Commonly used in phrases like 'silence reigned' or 'reign supreme'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "reign supreme",
+   "reign over",
+   "reign peacefully",
+   "silence reigns",
+   "terror reigns"
+  ],
+  "synonyms": [
+   "rule",
+   "govern",
+   "prevail",
+   "predominate",
+   "command"
+  ],
+  "antonyms": [
+   "serve",
+   "submit"
+  ],
+  "related_words": {
+   "en": [
+    "monarch",
+    "throne",
+    "crown",
+    "sovereignty",
+    "dynasty"
+   ],
+   "ar": [
+    "عاهل",
+    "عرش",
+    "تاج",
+    "سيادة",
+    "سلالة حاكمة"
+   ]
+  },
+  "word_family": {
+   "noun": "reign",
+   "verb": "reign",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يحكم / يسود",
+   "french_fr": "régner",
+   "german_de": "herrschen",
+   "spanish_es": "reinar",
+   "chinese_zh": "统治 (tǒngzhì)",
+   "russian_ru": "царствовать",
+   "portuguese_pt": "reinar",
+   "japanese_ja": "君臨する (Kunrin suru)",
+   "italian_it": "regnare",
+   "turkish_tr": "hüküm sürmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "4dfa8ac7d271974c89d800564bbb8651d92171a9bc92363ae1d0e31b9428d19c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

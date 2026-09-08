@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "amateur",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "amateur",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Engaging in a pursuit, especially a sport, on an unpaid rather than a professional basis.",
+  "explanation_ar": "صفة تُطلق على من يمارس نشاطاً أو رياضة كهواية دون تقاضي أجر، أو على عمل يفتقر إلى الاحترافية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Engaging in an activity or sport for pleasure rather than as a profession.",
+    "definition_ar": "غير محترف؛ يمارس نشاطاً أو رياضة كهواية دون تقاضي أجر.",
+    "examples": [
+     "He is an amateur photographer.",
+     "The competition is open to amateur cooks."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Done in an inexpert or unskillful manner; not professional.",
+    "definition_ar": "غير متقن أو يفتقر إلى الاحترافية والمهارة.",
+    "examples": [
+     "The play was performed by an amateur dramatic society."
+    ]
+   }
+  ],
+  "examples": [
+   "He is an amateur photographer.",
+   "The competition is open to amateur cooks.",
+   "The play was performed by an amateur dramatic society."
+  ],
+  "translations": [
+   "غير محترف",
+   "هاوٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "non-professional",
+    "lay",
+    "recreational"
+   ],
+   "antonyms": [
+    "professional",
+    "expert"
+   ],
+   "collocations": [
+    "amateur photographer",
+    "amateur radio",
+    "amateur sport"
+   ],
+   "word_family": {
+    "noun": "amateur",
+    "adjective": "amateurish",
+    "adverb": "amateurishly"
+   }
+  },
+  "mnemonic": "عكس 'Pro'.. الـ 'Amateur' هو الهاوي اللي لسه بيتعلم ومش بياخد فلوس.",
+  "phonetic_us": "ˈæmətər",
+  "phonetic_uk": "ˈæmətə",
+  "syllables": "am•a•teur",
+  "semantic_tags": [
+   "#Hobby",
+   "#Sports",
+   "#Skill"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Engaging in a pursuit, especially a sport, on an unpaid rather than a professional basis.",
+  "explanation_ar": "صفة تُطلق على من يمارس نشاطاً أو رياضة كهواية دون تقاضي أجر، أو على عمل يفتقر إلى الاحترافية.",
+  "examples": [
+   "He is an amateur photographer.",
+   "The competition is open to amateur cooks.",
+   "The play was performed by an amateur dramatic society."
+  ],
+  "translations": {
+   "arabic_ar": "غير محترف هاوٍ"
+  },
+  "synonyms": [
+   "non-professional",
+   "lay",
+   "recreational"
+  ],
+  "antonyms": [
+   "professional",
+   "expert"
+  ],
+  "collocations": [
+   "amateur photographer",
+   "amateur radio",
+   "amateur sport"
+  ],
+  "mnemonic_ar": "عكس 'Pro'.. الـ 'Amateur' هو الهاوي اللي لسه بيتعلم ومش بياخد فلوس."
+ }
+}

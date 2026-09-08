@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "stocking",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "stocking",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A close-fitting covering for the foot and leg, usually made of nylon or silk, or a large decorative sock hung at Christmas.",
+  "explanation_ar": "شراب طويل وحريمي، غالباً بيكون خفيف وشفاف، أو الشراب الكبير اللي بيتعلق في الكريسماس.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A close-fitting covering for the foot and leg, typically made of sheer nylon or silk.",
+    "explanation_ar": "جورب حريمي طويل وشفاف يغطي القدم والساق.",
+    "examples": [
+     "The bank robber wore a stocking over his face.",
+     "She adjusted the seam of her silk stocking."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A large decorative sock hung up at Christmas for presents.",
+    "explanation_ar": "جورب عيد الميلاد (جورب كبير يُعلّق لتوضع فيه هدايا الكريسماس).",
+    "examples": [
+     "He hung his Christmas stocking by the fire."
+    ]
+   }
+  ],
+  "examples": [
+   "He hung his Christmas stocking by the fire.",
+   "The bank robber wore a stocking over his face.",
+   "She adjusted the seam of her silk stocking."
+  ],
+  "translations": [
+   "جورب طويل",
+   "جورب عيد الميلاد"
+  ],
+  "relations": {
+   "synonyms": [
+    "hose"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Christmas stocking",
+    "nylon stockings",
+    "pair of stockings"
+   ]
+  },
+  "mnemonic": "كلمة 'Stock' يعني مخزون.. زمان كانوا بيحوشوا الفلوس في الـ 'Stocking'.",
+  "phonetic_us": "ˈstɑkɪŋ",
+  "phonetic_uk": "ˈstɒkɪŋ",
+  "syllables": "stock•ing",
+  "semantic_tags": [
+   "#Clothes",
+   "#Legs",
+   "#Fashion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A close-fitting covering for the foot and leg, usually made of nylon or silk, or a large decorative sock hung at Christmas.",
+  "explanation_ar": "شراب طويل وحريمي، غالباً بيكون خفيف وشفاف، أو الشراب الكبير اللي بيتعلق في الكريسماس.",
+  "examples": [
+   "He hung his Christmas stocking by the fire.",
+   "The bank robber wore a stocking over his face.",
+   "She adjusted the seam of her silk stocking."
+  ],
+  "translations": {
+   "arabic_ar": "جورب طويل جورب عيد الميلاد"
+  },
+  "synonyms": [
+   "hose"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Christmas stocking",
+   "nylon stockings",
+   "pair of stockings"
+  ],
+  "mnemonic_ar": "كلمة 'Stock' يعني مخزون.. زمان كانوا بيحوشوا الفلوس في الـ 'Stocking'."
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "damn",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "damn",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To severely criticize or condemn someone or something; or, in a religious sense, to condemn someone to eternal punishment.",
+  "explanation_ar": "أن يلعن أو يحكم على شخص بالهلاك الأبدي، أو ينتقد شخصاً أو عملاً بشدة ويدينه.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "To criticize or condemn someone or something very harshly as a failure.",
+    "definition_ar": "ينتقد بشدة أو يدين عملاً أو شخصاً ويعتبره فاشلاً.",
+    "examples": [
+     "Don't damn him for one honest mistake.",
+     "Critics tend to damn any film that challenges conventional storytelling."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "To condemn someone to eternal punishment in hell.",
+    "definition_ar": "يلعن أو يقضي على الروح بالهلاك والعذاب الأبدي.",
+    "examples": [
+     "Strict doctrines warn that sin will damn the soul to eternal punishment."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't damn him for one honest mistake.",
+   "Critics tend to damn any film that challenges conventional storytelling.",
+   "Strict doctrines warn that sin will damn the soul to eternal punishment."
+  ],
+  "translations": [
+   "يلعن",
+   "يدين بشدة",
+   "يحكم بالهلاك"
+  ],
+  "relations": {
+   "synonyms": [
+    "condemn",
+    "curse",
+    "criticize",
+    "denounce"
+   ],
+   "antonyms": [
+    "bless",
+    "praise",
+    "laud"
+   ],
+   "collocations": [
+    "damn with faint praise",
+    "damn to hell"
+   ]
+  },
+  "mnemonic": "شبه 'Dam' 'سد'.. لما الـ 'Dam' اتكسر وغرق الدنيا، الناس قالوا 'Damn!'.",
+  "phonetic_us": "/dæm/",
+  "phonetic_uk": "/dæm/",
+  "syllables": [
+   "damn"
+  ],
+  "semantic_tags": [
+   "#Criticism",
+   "#Religion",
+   "#Morality"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To severely criticize or condemn someone or something; or, in a religious sense, to condemn someone to eternal punishment.",
+  "explanation_ar": "أن يلعن أو يحكم على شخص بالهلاك الأبدي، أو ينتقد شخصاً أو عملاً بشدة ويدينه.",
+  "examples": [
+   "Don't damn him for one honest mistake.",
+   "Critics tend to damn any film that challenges conventional storytelling.",
+   "Strict doctrines warn that sin will damn the soul to eternal punishment."
+  ],
+  "translations": {
+   "arabic_ar": "يلعن يدين بشدة يحكم بالهلاك"
+  },
+  "synonyms": [
+   "condemn",
+   "curse",
+   "criticize",
+   "denounce"
+  ],
+  "antonyms": [
+   "bless",
+   "praise",
+   "laud"
+  ],
+  "collocations": [
+   "damn with faint praise",
+   "damn to hell"
+  ],
+  "mnemonic_ar": "شبه 'Dam' 'سد'.. لما الـ 'Dam' اتكسر وغرق الدنيا، الناس قالوا 'Damn!'."
+ }
+}

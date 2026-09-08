@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "cefr": "A2",
+  "lemma": "since",
+  "pos": "conj"
+ },
+ "candidate": {
+  "lemma": "since",
+  "pos": "conj",
+  "cefr": "A2",
+  "definition_en": "From a past time until now, or used to show the reason for something.",
+  "explanation_ar": "كلمة بنستخدمها عشان نقول إن حاجة بدأت من وقت معين في الماضي ومستمرة، أو عشان نقول السبب 'بمعنى عشان أو بما إن'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "From a particular time in the past until a later time or until now.",
+    "definition_ar": "منذ أن / من وقت ما (للدلالة على نقطة بداية زمنية واستمرار الحدث).",
+    "examples": [
+     "He has improved a lot since he joined the team."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Because; as.",
+    "definition_ar": "بما أن / لأن (لبيان السبب).",
+    "examples": [
+     "Since you are here, please help me.",
+     "We stayed inside since it was raining."
+    ]
+   }
+  ],
+  "examples": [
+   "Since you are here, please help me.",
+   "He has improved a lot since he joined the team.",
+   "We stayed inside since it was raining."
+  ],
+  "translations": [
+   "منذ أن",
+   "بما أن",
+   "لأن"
+  ],
+  "relations": {
+   "synonyms": [
+    "because",
+    "as"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ever since",
+    "long since",
+    "since then"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Sense'.. لما يكون عندك 'Sense' بالوقت، هتعرف إن الموضوع بدأ 'Since' فترة.",
+  "phonetic_us": "sɪns",
+  "phonetic_uk": "sɪns",
+  "syllables": [
+   "since"
+  ],
+  "semantic_tags": [
+   "#Time",
+   "#Reason",
+   "#Grammar",
+   "#Connectors"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "From a past time until now, or used to show the reason for something.",
+  "explanation_ar": "كلمة بنستخدمها عشان نقول إن حاجة بدأت من وقت معين في الماضي ومستمرة، أو عشان نقول السبب 'بمعنى عشان أو بما إن'.",
+  "examples": [
+   "Since you are here, please help me.",
+   "He has improved a lot since he joined the team.",
+   "We stayed inside since it was raining."
+  ],
+  "translations": {
+   "arabic_ar": "منذ أن بما أن لأن"
+  },
+  "synonyms": [
+   "because",
+   "as"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ever since",
+   "long since",
+   "since then"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Sense'.. لما يكون عندك 'Sense' بالوقت، هتعرف إن الموضوع بدأ 'Since' فترة."
+ }
+}

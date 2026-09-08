@@ -1,0 +1,116 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2648",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2648",
+  "lemma": "colour",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2648,
+  "lemma": "colour",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "General / Common",
+  "ai_confidence": 0.99,
+  "phonetic_us": "ˈkʌl.ɚ",
+  "phonetic_uk": "ˈkʌl.ə",
+  "phonetic_ar": "كَلَر",
+  "definition_en": "The visual appearance of things resulting from light reflection, such as red, blue, green, or yellow.",
+  "explanation_ar": "اللون أو المظهر المرئي للأشياء مثل الأحمر أو الأزرق أو الأخضر الناتج عن انعكاس الضوء.",
+  "examples": [
+   {
+    "example_text": "What is your favourite colour?",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "Red is a very bright colour.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The dress changed colour after washing.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"colour\" بربطها بعلب الألوان المائية الزاهية في حصة الرسم المدرسية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The visual quality of things produced by light, such as red, green, or blue.",
+    "short_def_en": "visual shade or hue",
+    "definition_ar": "صفة بصرية للأشياء يحددها انعكاس الضوء كالأحمر والأزرق",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "appearance",
+     "vision",
+     "art",
+     "light"
+    ],
+    "usage_note": "Spelled 'colour' in British English and 'color' in American English.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "bright colour",
+   "dark colour",
+   "change colour",
+   "primary colour",
+   "favourite colour"
+  ],
+  "synonyms": [
+   "hue",
+   "shade",
+   "tint",
+   "tone"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "paint",
+    "rainbow",
+    "dye",
+    "pigment"
+   ],
+   "ar": [
+    "طلاء",
+    "قوس قزح",
+    "صبغة",
+    "خضاب"
+   ]
+  },
+  "word_family": {
+   "noun": "colour",
+   "verb": "colour",
+   "adj": "colourful",
+   "adv": "colourfully"
+  },
+  "translations": {
+   "arabic_ar": "لون",
+   "french_fr": "couleur",
+   "german_de": "Farbe",
+   "spanish_es": "color",
+   "chinese_zh": "颜色 (Yánsè)",
+   "russian_ru": "цвет",
+   "portuguese_pt": "cor",
+   "japanese_ja": "色 (Iro)",
+   "italian_it": "colore",
+   "turkish_tr": "renk"
+  }
+ },
+ "provenance": {
+  "output_hash": "c345f27a605ee370ccad1f8391fe464abcbe89342c2f77887bd05575e2d8bf2e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

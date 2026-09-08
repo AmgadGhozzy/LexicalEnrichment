@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "renewal",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "renewal",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The act of starting something again or extending the validity of an official document.",
+  "explanation_ar": "إنك تجدد حاجة خلصت مدتها زي اشتراك أو رخصة، أو إنك تبدأ نشاط من تاني بعد وقفة.",
+  "senses": [
+   {
+    "definition_en": "The act of extending the period of time for which an official document, contract, or agreement is valid.",
+    "definition_ar": "تمديد أو تجديد صلاحية وثيقة رسمية، عقد، أو اشتراك."
+   },
+   {
+    "definition_en": "The state or process of being made new, fresh, or strong again; restoration or regeneration.",
+    "definition_ar": "إعادة الإحياء أو التجدد واستعادة النشاط بعد انقطاع أو تدهور."
+   }
+  ],
+  "examples": [
+   "The contract is up for renewal.",
+   "Urban renewal projects have transformed the city center.",
+   "Spring is a time of renewal for nature."
+  ],
+  "translations": [
+   "تجديد",
+   "إحياء",
+   "تمديد"
+  ],
+  "relations": {
+   "synonyms": [
+    "restoration",
+    "regeneration",
+    "resumption"
+   ],
+   "antonyms": [
+    "cancellation",
+    "expiry"
+   ],
+   "collocations": [
+    "contract renewal",
+    "urban renewal",
+    "automatic renewal",
+    "up for renewal"
+   ]
+  },
+  "mnemonic": "جاية من 'New' 'جديد'.. 'Re-new' يعني يجدد.. والـ 'Renewal' هو التجديد نفسه زي تجديد الرخصة.",
+  "phonetic_us": "rɪˈnuːəl",
+  "phonetic_uk": "rɪˈnjuːəl",
+  "syllables": "re•new•al",
+  "semantic_tags": [
+   "Business",
+   "Documents",
+   "Time"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The act of starting something again or extending the validity of an official document.",
+  "explanation_ar": "إنك تجدد حاجة خلصت مدتها زي اشتراك أو رخصة، أو إنك تبدأ نشاط من تاني بعد وقفة.",
+  "examples": [
+   "The contract is up for renewal.",
+   "Urban renewal projects have transformed the city center.",
+   "Spring is a time of renewal for nature."
+  ],
+  "translations": {
+   "arabic_ar": "تجديد إحياء تمديد"
+  },
+  "synonyms": [
+   "restoration",
+   "regeneration",
+   "resumption"
+  ],
+  "antonyms": [
+   "cancellation",
+   "expiry"
+  ],
+  "collocations": [
+   "contract renewal",
+   "urban renewal",
+   "automatic renewal",
+   "up for renewal"
+  ],
+  "mnemonic_ar": "جاية من 'New' 'جديد'.. 'Re-new' يعني يجدد.. والـ 'Renewal' هو التجديد نفسه زي تجديد الرخصة."
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1205",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1205",
+  "lemma": "subject",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1205,
+  "lemma": "subject",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈsʌbdʒɪkt",
+  "phonetic_uk": "ˈsʌbdʒɪkt",
+  "phonetic_ar": "سَبْجِكْت",
+  "definition_en": "An area of knowledge studied in school, or a thing being discussed or written about.",
+  "explanation_ar": "المادة الدراسية التي يتعلمها الطالب في المدرسة، أو الموضوع الأساسي الذي نتحدث أو نكتب عنه.",
+  "examples": [
+   {
+    "example_text": "English is my favorite school subject.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "We talked about a new subject during the meeting.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The teacher changed the subject after the bell rang.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر بداية الكلمة sub بمعنى تحت و ject بمعنى يلقي، كأنه الشيء المطروح تحت النقاش أو للدراسة على الطاولة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A specific area of knowledge taught or learned in school or university.",
+    "short_def_en": "school area of study",
+    "definition_ar": "مادة دراسية يتم تدريسها أو تعلمها في المدرسة أو الجامعة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "education",
+     "school",
+     "learning"
+    ],
+    "usage_note": "Commonly used in elementary English to ask about favorite school courses.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A person or thing that is being discussed, described, or represented.",
+    "short_def_en": "topic of discussion",
+    "definition_ar": "الموضوع الذي يتم التحدث عنه أو الكتابة بشأنه.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "communication",
+     "topic",
+     "conversation"
+    ],
+    "usage_note": "Synonymous with 'topic' in daily conversation.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "The noun or pronoun in a sentence that performs the action.",
+    "short_def_en": "actor in a sentence",
+    "definition_ar": "الفاعل في قواعد اللغة الإنجليزية الذي يقوم بالفعل.",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Concept",
+    "semantic_tags": [
+     "grammar",
+     "linguistics",
+     "sentence"
+    ],
+    "usage_note": "A standard grammatical term contrasted with object and verb.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "favorite subject",
+   "school subject",
+   "change the subject",
+   "touchy subject"
+  ],
+  "synonyms": [
+   "topic",
+   "theme",
+   "matter",
+   "course",
+   "discipline"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "lesson",
+    "curriculum",
+    "study",
+    "verb",
+    "object",
+    "topic"
+   ],
+   "ar": [
+    "درس",
+    "منهج",
+    "دراسة",
+    "فعل",
+    "مفعول به",
+    "موضوع"
+   ]
+  },
+  "word_family": {
+   "noun": "subject",
+   "verb": "subject",
+   "adj": "subjective",
+   "adv": "subjectively"
+  },
+  "translations": {
+   "arabic_ar": "مادة دراسية / موضوع / فاعل",
+   "french_fr": "matière / sujet",
+   "german_de": "Fach / Thema / Subjekt",
+   "spanish_es": "materia / asignatura / tema",
+   "chinese_zh": "科目 (kē mù) / 主题 (zhǔ tí)",
+   "russian_ru": "предмет / тема",
+   "portuguese_pt": "matéria / assunto",
+   "japanese_ja": "科目 (kamoku) / 話題 (wadai)",
+   "italian_it": "materia / argomento",
+   "turkish_tr": "ders / konu"
+  }
+ },
+ "provenance": {
+  "output_hash": "1805ea651a28f9b18261faee320364c134a2f55384d78d1efbf404bfc811c74a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

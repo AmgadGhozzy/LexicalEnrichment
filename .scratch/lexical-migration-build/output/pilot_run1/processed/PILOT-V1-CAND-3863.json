@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3863",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3863",
+  "lemma": "implement",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3863,
+  "lemma": "implement",
+  "pos": "verb",
+  "cefr_level": "B2",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈɪmpləˌmɛnt",
+  "phonetic_uk": null,
+  "phonetic_ar": "إِمْبْلِمَنْت",
+  "definition_en": "To put a plan, decision, or system into action and make it active.",
+  "explanation_ar": "تطبيق خطة أو قرار أو نظام بشكل فعلي والبدء في تنفيذه على أرض الواقع.",
+  "examples": [
+   {
+    "example_text": "The committee decided to implement the new safety rules immediately.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Schools must implement effective programs to support struggling students.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "It will take several months to implement the changes across all departments.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان الكلمة تتكون من الجذر اللاتيني ple بمعنى ملء او اتمام تماما كما في complete فكلمة implement تعني ان تملا الخطة وتبدا في انجازها وتحويلها لواقع",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To start using a plan, system, or law officially.",
+    "short_def_en": "put into effect",
+    "definition_ar": "تطبيق او تنفيذ خطة او نظام او سياسة رسميا",
+    "is_primary": true,
+    "register": "Formal",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "planning",
+     "management",
+     "execution",
+     "policy"
+    ],
+    "usage_note": "Commonly used with abstract nouns like policy, plan, strategy, or change.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "implement a plan",
+   "implement changes",
+   "implement policies",
+   "implement a strategy",
+   "fully implement"
+  ],
+  "synonyms": [
+   "execute",
+   "apply",
+   "enforce",
+   "carry out"
+  ],
+  "antonyms": [
+   "abandon",
+   "cancel",
+   "repeal"
+  ],
+  "related_words": {
+   "en": [
+    "execution",
+    "enforcement",
+    "strategy",
+    "procedure"
+   ],
+   "ar": [
+    "تنفيذ",
+    "إنفاذ",
+    "استراتيجية",
+    "إجراء"
+   ]
+  },
+  "word_family": {
+   "noun": "implementation",
+   "verb": "implement",
+   "adj": "implementable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يُطبِّق / يُنفِّذ",
+   "french_fr": "mettre en œuvre",
+   "german_de": "umsetzen",
+   "spanish_es": "implementar",
+   "chinese_zh": "实施 (shíshī)",
+   "russian_ru": "внедрять",
+   "portuguese_pt": "implementar",
+   "japanese_ja": "実行する (Jikkō suru)",
+   "italian_it": "attuare",
+   "turkish_tr": "uygulamak"
+  }
+ },
+ "provenance": {
+  "output_hash": "ebaf9ece9dfaa80be709d0967f8f57103cd166f6f9908c2797b2c4741bcedfe5",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

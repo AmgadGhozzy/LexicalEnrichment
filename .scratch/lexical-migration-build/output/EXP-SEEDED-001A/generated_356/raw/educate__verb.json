@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "educate",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "educate",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To give intellectual, moral, and social instruction to someone.",
+  "explanation_ar": "تعلم حد وتديله معلومات وثقافة، مش بس دراسة في المدرسة، تربية كمان.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To give intellectual, moral, and social instruction to someone, especially at a school or through training.",
+    "definition_ar": "يعلّم ويثقف أو يربّي شخصاً ويزوده بالمعرفة والمهارات.",
+    "examples": [
+     "The program aims to educate the public about health risks.",
+     "Parents must educate their kids on safety.",
+     "He wants to educate himself about art."
+    ]
+   }
+  ],
+  "examples": [
+   "The program aims to educate the public about health risks.",
+   "Parents must educate their kids on safety.",
+   "He wants to educate himself about art."
+  ],
+  "translations": [
+   "يعلّم",
+   "يثقّف",
+   "يربّي"
+  ],
+  "relations": {
+   "synonyms": [
+    "teach",
+    "instruct",
+    "train",
+    "tutor"
+   ],
+   "antonyms": [
+    "misinform",
+    "confuse"
+   ],
+   "collocations": [
+    "educate yourself",
+    "educate the public",
+    "poorly educated",
+    "highly educated"
+   ]
+  },
+  "mnemonic": "قريبة من 'Cat'.. تخيل إنك بتحاول 'Educate' 'تعلّم' الـ 'Cat' بتاعتك تقرأ.",
+  "phonetic_us": "ˈɛdʒ.ʊ.keɪt",
+  "phonetic_uk": "ˈedʒ.u.keɪt",
+  "syllables": "ed•u•cate",
+  "semantic_tags": [
+   "#School",
+   "#Learning",
+   "#Knowledge"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To give intellectual, moral, and social instruction to someone.",
+  "explanation_ar": "تعلم حد وتديله معلومات وثقافة، مش بس دراسة في المدرسة، تربية كمان.",
+  "examples": [
+   "The program aims to educate the public about health risks.",
+   "Parents must educate their kids on safety.",
+   "He wants to educate himself about art."
+  ],
+  "translations": {
+   "arabic_ar": "يعلّم يثقّف يربّي"
+  },
+  "synonyms": [
+   "teach",
+   "instruct",
+   "train",
+   "tutor"
+  ],
+  "antonyms": [
+   "misinform",
+   "confuse"
+  ],
+  "collocations": [
+   "educate yourself",
+   "educate the public",
+   "poorly educated",
+   "highly educated"
+  ],
+  "mnemonic_ar": "قريبة من 'Cat'.. تخيل إنك بتحاول 'Educate' 'تعلّم' الـ 'Cat' بتاعتك تقرأ."
+ }
+}

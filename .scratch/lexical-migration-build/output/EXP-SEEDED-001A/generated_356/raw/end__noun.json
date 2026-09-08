@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "end",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "end",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The final part of something; the point where something stops.",
+  "explanation_ar": "النهاية.. آخر جزء في الشيء أو آخر وقت في حدث أو آخر مشهد في الفيلم.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The final part of a period of time, an event, or an activity.",
+    "definition_ar": "نهاية فترة زمنية أو حدث أو نشاط",
+    "examples": [
+     "It is the end of the day.",
+     "We stayed until the end of the movie."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The furthest point or edge of a physical object or place.",
+    "definition_ar": "طرف أو آخر نقطة في مكان أو شيء مادي",
+    "examples": [
+     "Go to the end of the street."
+    ]
+   }
+  ],
+  "examples": [
+   "It is the end of the day.",
+   "Go to the end of the street.",
+   "We stayed until the end of the movie."
+  ],
+  "translations": [
+   "نهاية",
+   "آخر",
+   "طرف"
+  ],
+  "relations": {
+   "synonyms": [
+    "finish",
+    "conclusion",
+    "close"
+   ],
+   "antonyms": [
+    "beginning",
+    "start"
+   ],
+   "collocations": [
+    "at the end",
+    "in the end",
+    "dead end",
+    "end result"
+   ]
+  },
+  "mnemonic": "بنشوفها في آخر الفيلم دايماً 'The End' يعني 'النهاية'.",
+  "phonetic_us": "/ɛnd/",
+  "phonetic_uk": "/end/",
+  "syllables": "end",
+  "semantic_tags": [
+   "finish",
+   "conclusion",
+   "limit"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The final part of something; the point where something stops.",
+  "explanation_ar": "النهاية.. آخر جزء في الشيء أو آخر وقت في حدث أو آخر مشهد في الفيلم.",
+  "examples": [
+   "It is the end of the day.",
+   "Go to the end of the street.",
+   "We stayed until the end of the movie."
+  ],
+  "translations": {
+   "arabic_ar": "نهاية آخر طرف"
+  },
+  "synonyms": [
+   "finish",
+   "conclusion",
+   "close"
+  ],
+  "antonyms": [
+   "beginning",
+   "start"
+  ],
+  "collocations": [
+   "at the end",
+   "in the end",
+   "dead end",
+   "end result"
+  ],
+  "mnemonic_ar": "بنشوفها في آخر الفيلم دايماً 'The End' يعني 'النهاية'."
+ }
+}

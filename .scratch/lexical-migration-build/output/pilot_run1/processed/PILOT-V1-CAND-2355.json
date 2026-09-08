@@ -1,0 +1,129 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2355",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2355",
+  "lemma": "chat",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2355,
+  "lemma": "chat",
+  "pos": "verb",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.98,
+  "phonetic_us": "tʃæt",
+  "phonetic_uk": null,
+  "phonetic_ar": "تْشَات",
+  "definition_en": "To talk with someone in a friendly, informal, and relaxed way.",
+  "explanation_ar": "الحديث مع شخص بطريقة ودية وغير رسمية، سواء كان ذلك وجها لوجه أو عبر الإنترنت بهدف التسلية وتبادل الأخبار.",
+  "examples": [
+   {
+    "example_text": "We often sit together during lunch to chat about our day.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "I will chat with my friend online this evening.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "They love to chat over a hot cup of coffee.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة شات المستخدمة يوميا في برامج المحادثة مثل واتساب فهي تعني التحدث والدردشة بودية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To talk with someone in a friendly and relaxed way.",
+    "short_def_en": "talk in a friendly way",
+    "definition_ar": "الحديث بودية واسترخاء ودون رسميات",
+    "is_primary": true,
+    "register": "Informal",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "speaking",
+     "socializing",
+     "conversation"
+    ],
+    "usage_note": "Implies an informal and friendly exchange, unlike discuss or negotiate.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To exchange text messages in real time using the internet.",
+    "short_def_en": "exchange messages online",
+    "definition_ar": "تبادل الرسائل النصية المباشرة عبر الإنترنت",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Communication",
+    "semantic_tags": [
+     "internet",
+     "messaging",
+     "technology"
+    ],
+    "usage_note": "Commonly used for digital messaging applications.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "chat with friends",
+   "chat online",
+   "chat about work",
+   "stop and chat"
+  ],
+  "synonyms": [
+   "talk",
+   "gossip",
+   "converse"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "conversation",
+    "message",
+    "friend",
+    "talkative"
+   ],
+   "ar": [
+    "محادثة",
+    "رسالة",
+    "صديق",
+    "ثرثار"
+   ]
+  },
+  "word_family": {
+   "noun": "chat",
+   "verb": "chat",
+   "adj": "chatty",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يَتَحَدَّث / يُدَرْدِش",
+   "french_fr": "bavarder",
+   "german_de": "plaudern",
+   "spanish_es": "charlar",
+   "chinese_zh": "聊天 (liáo tiān)",
+   "russian_ru": "болтать",
+   "portuguese_pt": "bater papo",
+   "japanese_ja": "雑談する (Zatsudan suru)",
+   "italian_it": "chiacchierare",
+   "turkish_tr": "sohbet etmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "ff049ab4d8083340486a158ea5de65d71373e625cbeda008453348cc7711338d",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "ice cream",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "ice cream",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A frozen sweet food made from milk, cream, and sugar.",
+  "explanation_ar": "الحلوى المتلجة اللي معمولة من اللبن والسكر.. البوظة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A frozen sweet food made from milk, cream, and sugar.",
+    "explanation_ar": "الحلوى المتلجة اللي معمولة من اللبن والسكر.. البوظة."
+   }
+  ],
+  "examples": [
+   "I like chocolate ice cream.",
+   "We bought an ice cream at the beach.",
+   "The ice cream melted in the sun."
+  ],
+  "translations": [
+   "آيس كريم",
+   "بوظة",
+   "مثلجات"
+  ],
+  "relations": {
+   "synonyms": [
+    "frozen dessert",
+    "gelato"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ice cream cone",
+    "chocolate ice cream",
+    "scoop of ice cream"
+   ]
+  },
+  "mnemonic": "'Ice' يعني تلج.. و 'Cream' يعني قشطة.. قشطة متلجة",
+  "phonetic_us": "ˈaɪs ˌkriːm",
+  "phonetic_uk": "ˌaɪs ˈkriːm",
+  "syllables": [
+   "ice",
+   "cream"
+  ],
+  "semantic_tags": [
+   "#Dessert",
+   "#Food",
+   "#Sweet"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A frozen sweet food made from milk, cream, and sugar.",
+  "explanation_ar": "الحلوى المتلجة اللي معمولة من اللبن والسكر.. البوظة.",
+  "examples": [
+   "I like chocolate ice cream.",
+   "We bought an ice cream at the beach.",
+   "The ice cream melted in the sun."
+  ],
+  "translations": {
+   "arabic_ar": "آيس كريم بوظة مثلجات"
+  },
+  "synonyms": [
+   "frozen dessert",
+   "gelato"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ice cream cone",
+   "chocolate ice cream",
+   "scoop of ice cream"
+  ],
+  "mnemonic_ar": "'Ice' يعني تلج.. و 'Cream' يعني قشطة.. قشطة متلجة"
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "candidate_id": "PILOT-V1-CAND-551",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-551",
+  "lemma": "deal",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 551,
+  "lemma": "deal",
+  "pos": "verb",
+  "cefr_level": "A2",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "diːl",
+  "phonetic_uk": null,
+  "phonetic_ar": "دِيل",
+  "definition_en": "To take action to handle a problem or task, usually followed by with.",
+  "explanation_ar": "يتعامل مع موقف أو مشكلة أو شخص لإيجاد حل أو تنظيم الأمر.",
+  "examples": [
+   {
+    "example_text": "I have to deal with many customers every day.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "How do you deal with stress at work?",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Teachers often deal with difficult situations in class.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"deal\" بمعنى صفقة تجارية، فالتاجر الناجح يجب ان يتعامل مع الناس والزبائن بذكاء ليعقد هذه الصفقة.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To take action in order to solve a problem or handle a situation.",
+    "short_def_en": "handle or manage something",
+    "definition_ar": "يتعامل مع شخص او مشكلة بهدف حلها او تدبيرها",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "management",
+     "communication",
+     "problem-solving"
+    ],
+    "usage_note": "Almost always followed by the preposition 'with'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To give out playing cards to players in a game.",
+    "short_def_en": "distribute playing cards",
+    "definition_ar": "يوزع اوراق اللعب على المشتركين",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "games",
+     "entertainment",
+     "actions"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "To buy and sell goods or illegal substances as a business.",
+    "short_def_en": "trade goods or drugs",
+    "definition_ar": "يتاجر بالسلع او المواد غير القانونية",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "trade",
+     "commerce",
+     "business"
+    ],
+    "usage_note": "Often followed by 'in' when trading commercial goods.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "deal with",
+   "deal cards",
+   "deal with a problem",
+   "deal with customers",
+   "deal in"
+  ],
+  "synonyms": [
+   "handle",
+   "manage",
+   "tackle",
+   "distribute",
+   "trade"
+  ],
+  "antonyms": [
+   "neglect",
+   "ignore"
+  ],
+  "related_words": {
+   "en": [
+    "business",
+    "problem",
+    "solution",
+    "cards",
+    "trade"
+   ],
+   "ar": [
+    "تجارة",
+    "مشكلة",
+    "حل",
+    "بطاقات لعب",
+    "تبادل تجاري"
+   ]
+  },
+  "word_family": {
+   "noun": "dealer",
+   "verb": "deal",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يتعامل مع / يوزع الورق / يتاجر",
+   "french_fr": "traiter",
+   "german_de": "umgehen mit",
+   "spanish_es": "tratar",
+   "chinese_zh": "处理 (chǔlǐ)",
+   "russian_ru": "справляться",
+   "portuguese_pt": "lidar",
+   "japanese_ja": "対処する (Taisho suru)",
+   "italian_it": "trattare",
+   "turkish_tr": "ilgilenmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "e623f35fbfe6c333ebfa4287edd57934f701009a2c93fb153145d8b14f36e797",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

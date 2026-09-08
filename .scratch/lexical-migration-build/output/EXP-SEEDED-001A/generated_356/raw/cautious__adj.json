@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "cautious",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "cautious",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Careful to avoid potential problems or dangers.",
+  "explanation_ar": "حذر جداً وبياخد باله عشان مايغلطش أو يتأذي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "adj",
+    "definition_en": "Careful to avoid potential problems or dangers.",
+    "definition_ar": "حذر ومحترس لتجنب الأخطاء أو المخاطر."
+   }
+  ],
+  "examples": [
+   "He is a cautious driver.",
+   "They adopted a cautious approach to the problem.",
+   "Investors remain cautious despite the market rally."
+  ],
+  "translations": [
+   "حذر",
+   "محترس"
+  ],
+  "relations": {
+   "synonyms": [
+    "careful",
+    "wary",
+    "prudent",
+    "guarded"
+   ],
+   "antonyms": [
+    "reckless",
+    "careless",
+    "rash"
+   ],
+   "collocations": [
+    "cautious approach",
+    "cautious optimism",
+    "extremely cautious"
+   ]
+  },
+  "mnemonic": "جاية من 'Caution' (تحذير).. خليك 'Cautious' عشان متقعش.",
+  "phonetic_us": "ˈkɔ.ʃəs",
+  "phonetic_uk": "ˈkɔː.ʃəs",
+  "syllables": "cau•tious",
+  "semantic_tags": [
+   "#Careful",
+   "#Safety",
+   "#Behavior",
+   "#Risk"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Careful to avoid potential problems or dangers.",
+  "explanation_ar": "حذر جداً وبياخد باله عشان مايغلطش أو يتأذي.",
+  "examples": [
+   "He is a cautious driver.",
+   "They adopted a cautious approach to the problem.",
+   "Investors remain cautious despite the market rally."
+  ],
+  "translations": {
+   "arabic_ar": "حذر محترس"
+  },
+  "synonyms": [
+   "careful",
+   "wary",
+   "prudent",
+   "guarded"
+  ],
+  "antonyms": [
+   "reckless",
+   "careless",
+   "rash"
+  ],
+  "collocations": [
+   "cautious approach",
+   "cautious optimism",
+   "extremely cautious"
+  ],
+  "mnemonic_ar": "جاية من 'Caution' (تحذير).. خليك 'Cautious' عشان متقعش."
+ }
+}

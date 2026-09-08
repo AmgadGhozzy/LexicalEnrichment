@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "fail",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "fail",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To be unsuccessful in achieving a goal, to not pass an exam, or to stop working properly.",
+  "explanation_ar": "أن تفشل في تحقيق هدف، أو ترسب في امتحان، أو يتعطل جهاز عن العمل.",
+  "senses": [
+   {
+    "definition_en": "To not succeed in an attempt, task, or examination.",
+    "explanation_ar": "يفشل في تحقيق هدف أو يرسب في اختبار."
+   },
+   {
+    "definition_en": "To stop working or operating correctly.",
+    "explanation_ar": "يتعطل أو يتوقف عن العمل بشكل صحيح."
+   }
+  ],
+  "examples": [
+   "I don't want to fail my test.",
+   "If you fail to plan, you plan to fail.",
+   "A car engine will fail without oil."
+  ],
+  "translations": [
+   "يفشل",
+   "يرسب",
+   "يتعطل"
+  ],
+  "relations": {
+   "synonyms": [
+    "flunk",
+    "flop",
+    "break down"
+   ],
+   "antonyms": [
+    "succeed",
+    "pass",
+    "win"
+   ],
+   "collocations": [
+    "fail an exam",
+    "fail to understand",
+    "fail miserably"
+   ]
+  },
+  "mnemonic": "كلمة 'Fail' تشبه نطق كلمة 'فيل' (Elephant).. لو حاولت تشيل 'فيل' لوحدك، بالتأكيد سوف 'fail' (تفشل).",
+  "phonetic_us": "feɪl",
+  "phonetic_uk": "feɪl",
+  "syllables": "fail",
+  "semantic_tags": [
+   "#Exam",
+   "#Mistake",
+   "#Stop",
+   "#Negative"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To be unsuccessful in achieving a goal, to not pass an exam, or to stop working properly.",
+  "explanation_ar": "أن تفشل في تحقيق هدف، أو ترسب في امتحان، أو يتعطل جهاز عن العمل.",
+  "examples": [
+   "I don't want to fail my test.",
+   "If you fail to plan, you plan to fail.",
+   "A car engine will fail without oil."
+  ],
+  "translations": {
+   "arabic_ar": "يفشل يرسب يتعطل"
+  },
+  "synonyms": [
+   "flunk",
+   "flop",
+   "break down"
+  ],
+  "antonyms": [
+   "succeed",
+   "pass",
+   "win"
+  ],
+  "collocations": [
+   "fail an exam",
+   "fail to understand",
+   "fail miserably"
+  ],
+  "mnemonic_ar": "كلمة 'Fail' تشبه نطق كلمة 'فيل' (Elephant).. لو حاولت تشيل 'فيل' لوحدك، بالتأكيد سوف 'fail' (تفشل)."
+ }
+}

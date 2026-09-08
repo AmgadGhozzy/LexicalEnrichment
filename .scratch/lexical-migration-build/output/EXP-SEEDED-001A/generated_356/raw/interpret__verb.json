@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "interpret",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "interpret",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To explain the meaning of something or translate speech orally.",
+  "explanation_ar": "لما تترجم كلام حد فوري، أو تشرح وتفسر معنى حاجة غامضة للناس.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To explain or understand the meaning of something.",
+    "definition_ar": "أن يشرح أو يفهم معنى شيء ما.",
+    "examples": [
+     "Can you interpret this sign?",
+     "How do you interpret this poem?"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To translate spoken words orally from one language to another.",
+    "definition_ar": "أن يترجم الكلام شفهياً وفورياً من لغة لأخرى.",
+    "examples": [
+     "She was hired to interpret for the international delegates."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you interpret this sign?",
+   "How do you interpret this poem?",
+   "She was hired to interpret for the international delegates."
+  ],
+  "translations": [
+   "يُفَسِّر",
+   "يُتَرْجِم"
+  ],
+  "relations": {
+   "synonyms": [
+    "explain",
+    "translate",
+    "clarify",
+    "decode"
+   ],
+   "antonyms": [
+    "confuse",
+    "obscure",
+    "misinterpret"
+   ],
+   "collocations": [
+    "interpret data",
+    "interpret correctly",
+    "interpret dreams",
+    "interpret the law"
+   ]
+  },
+  "mnemonic": "كلمة 'Enter' 'يدخل'.. المترجم بيدخل 'In' بين الطرفين عشان يعمل 'Interpret' 'يفسر' ويوصل المعنى.",
+  "phonetic_us": "ɪnˈtɜːɹpɹɪt",
+  "phonetic_uk": "ɪnˈtɜːprɪt",
+  "syllables": "in•ter•pret",
+  "semantic_tags": [
+   "#Language",
+   "#Meaning",
+   "#Explanation",
+   "#Understanding"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To explain the meaning of something or translate speech orally.",
+  "explanation_ar": "لما تترجم كلام حد فوري، أو تشرح وتفسر معنى حاجة غامضة للناس.",
+  "examples": [
+   "Can you interpret this sign?",
+   "How do you interpret this poem?",
+   "She was hired to interpret for the international delegates."
+  ],
+  "translations": {
+   "arabic_ar": "يُفَسِّر يُتَرْجِم"
+  },
+  "synonyms": [
+   "explain",
+   "translate",
+   "clarify",
+   "decode"
+  ],
+  "antonyms": [
+   "confuse",
+   "obscure",
+   "misinterpret"
+  ],
+  "collocations": [
+   "interpret data",
+   "interpret correctly",
+   "interpret dreams",
+   "interpret the law"
+  ],
+  "mnemonic_ar": "كلمة 'Enter' 'يدخل'.. المترجم بيدخل 'In' بين الطرفين عشان يعمل 'Interpret' 'يفسر' ويوصل المعنى."
+ }
+}

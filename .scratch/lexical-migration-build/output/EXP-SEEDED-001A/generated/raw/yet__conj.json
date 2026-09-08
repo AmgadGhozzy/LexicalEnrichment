@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "cefr": "B2",
+  "lemma": "yet",
+  "pos": "conj"
+ },
+ "candidate": {
+  "lemma": "yet",
+  "pos": "conj",
+  "cefr": "B2",
+  "definition_en": "But; nevertheless; despite that.",
+  "explanation_ar": "بتيجي بمعنى 'لكن' أو 'مع ذلك' عشان تربط جملتين فيهم تناقض.",
+  "senses": [
+   {
+    "definition_en": "Used to connect two contrasting statements, qualities, or ideas; but or nevertheless.",
+    "explanation_ar": "تُستخدم للربط بين أمرين متناقضين بمعنى 'لكن' أو 'مع ذلك'.",
+    "examples": [
+     "It is small yet strong.",
+     "The path was dark, yet I found my way.",
+     "He has a good job, and yet he never seems to have any money."
+    ]
+   }
+  ],
+  "examples": [
+   "It is small yet strong.",
+   "The path was dark, yet I found my way.",
+   "He has a good job, and yet he never seems to have any money."
+  ],
+  "translations": [
+   "لكن",
+   "مع ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "but",
+    "however",
+    "nevertheless"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "and yet",
+    "simple yet effective"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "jɛt",
+  "phonetic_uk": "jet",
+  "syllables": "yet",
+  "semantic_tags": [
+   "#Contrast",
+   "#Linking",
+   "#Grammar"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "But; nevertheless; despite that.",
+  "explanation_ar": "بتيجي بمعنى 'لكن' أو 'مع ذلك' عشان تربط جملتين فيهم تناقض.",
+  "examples": [
+   "It is small yet strong.",
+   "The path was dark, yet I found my way.",
+   "He has a good job, and yet he never seems to have any money."
+  ],
+  "translations": {
+   "arabic_ar": "لكن مع ذلك"
+  },
+  "synonyms": [
+   "but",
+   "however",
+   "nevertheless"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "and yet",
+   "simple yet effective"
+  ],
+  "mnemonic_ar": null
+ }
+}

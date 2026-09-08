@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "indigenous",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "indigenous",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Originating or occurring naturally in a particular place; native.",
+  "explanation_ar": "أصلي أو بلدي. بتتقال على السكان الأصليين لبلد، أو النباتات والحيوانات اللي نشأت في مكان معين طبيعياً.",
+  "senses": [
+   {
+    "definition_en": "Originating or occurring naturally in a particular place; native.",
+    "explanation_ar": "أصلي؛ نشأ أو عاش طبيعياً في بيئة أو منطقة معينة (للشعوب أو الحيوانات أو النباتات).",
+    "examples": [
+     "The kangaroo is indigenous to Australia.",
+     "This plant is indigenous to Mexico.",
+     "The government protected the rights of indigenous tribes."
+    ]
+   }
+  ],
+  "examples": [
+   "The kangaroo is indigenous to Australia.",
+   "This plant is indigenous to Mexico.",
+   "The government protected the rights of indigenous tribes."
+  ],
+  "translations": [
+   "أصلي",
+   "محلي",
+   "مستوطن",
+   "سكان أصليون"
+  ],
+  "relations": {
+   "synonyms": [
+    "native",
+    "aboriginal",
+    "local"
+   ],
+   "antonyms": [
+    "foreign",
+    "exotic",
+    "migrant"
+   ],
+   "collocations": [
+    "indigenous people",
+    "indigenous population",
+    "indigenous species"
+   ]
+  },
+  "mnemonic": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا.",
+  "phonetic_us": "ɪnˈdɪdʒənəs",
+  "phonetic_uk": "ɪnˈdɪdʒənəs",
+  "syllables": "in•dig•e•nous",
+  "semantic_tags": [
+   "#Culture",
+   "#Nature",
+   "#Origin"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Originating or occurring naturally in a particular place; native.",
+  "explanation_ar": "أصلي أو بلدي. بتتقال على السكان الأصليين لبلد، أو النباتات والحيوانات اللي نشأت في مكان معين طبيعياً.",
+  "examples": [
+   "The kangaroo is indigenous to Australia.",
+   "This plant is indigenous to Mexico.",
+   "The government protected the rights of indigenous tribes."
+  ],
+  "translations": {
+   "arabic_ar": "أصلي محلي مستوطن سكان أصليون"
+  },
+  "synonyms": [
+   "native",
+   "aboriginal",
+   "local"
+  ],
+  "antonyms": [
+   "foreign",
+   "exotic",
+   "migrant"
+  ],
+  "collocations": [
+   "indigenous people",
+   "indigenous population",
+   "indigenous species"
+  ],
+  "mnemonic_ar": "أولها 'Indi'.. فكر في 'Indian' 'الهنود الحمر' هما الـ 'Indigenous' 'السكان الأصليين' لأمريكا."
+ }
+}

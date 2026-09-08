@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "defy",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "defy",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To openly resist or refuse to obey.",
+  "explanation_ar": "إنك تتحدى حد أو ترفض تطيع الأوامر علناً. أو إن حاجة تكون صعبة جداً وتتحدى الوصف.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To openly resist or refuse to obey authority, rules, or orders.",
+    "definition_ar": "يتحدى أو يعصي علناً (الأوامر أو القوانين)",
+    "examples": [
+     "She decided to defy her parents' wishes.",
+     "A few brave souls dared to defy the tyrant's orders."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To be almost impossible to believe, explain, or describe.",
+    "definition_ar": "يستعصي على الفهم أو الوصف، أو يتحدى المنطق",
+    "examples": [
+     "His actions defy all logic and reason."
+    ]
+   }
+  ],
+  "examples": [
+   "She decided to defy her parents' wishes.",
+   "His actions defy all logic and reason.",
+   "A few brave souls dared to defy the tyrant's orders."
+  ],
+  "translations": [
+   "يتحدى",
+   "يعصي"
+  ],
+  "relations": {
+   "synonyms": [
+    "resist",
+    "challenge",
+    "confront",
+    "disobey"
+   ],
+   "antonyms": [
+    "obey",
+    "surrender",
+    "submit"
+   ],
+   "collocations": [
+    "defy belief",
+    "defy description",
+    "defy gravity",
+    "defy the odds"
+   ]
+  },
+  "mnemonic": "لما تعمل 'Defy' للقانون، إنت بتقول 'De-fine' 'بتحدد' قانونك الخاص وبترفض تمشي وراهم.",
+  "phonetic_us": "dɪˈfaɪ",
+  "phonetic_uk": "dɪˈfaɪ",
+  "syllables": "de•fy",
+  "semantic_tags": [
+   "rebellion",
+   "resistance",
+   "challenge"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To openly resist or refuse to obey.",
+  "explanation_ar": "إنك تتحدى حد أو ترفض تطيع الأوامر علناً. أو إن حاجة تكون صعبة جداً وتتحدى الوصف.",
+  "examples": [
+   "She decided to defy her parents' wishes.",
+   "His actions defy all logic and reason.",
+   "A few brave souls dared to defy the tyrant's orders."
+  ],
+  "translations": {
+   "arabic_ar": "يتحدى يعصي"
+  },
+  "synonyms": [
+   "resist",
+   "challenge",
+   "confront",
+   "disobey"
+  ],
+  "antonyms": [
+   "obey",
+   "surrender",
+   "submit"
+  ],
+  "collocations": [
+   "defy belief",
+   "defy description",
+   "defy gravity",
+   "defy the odds"
+  ],
+  "mnemonic_ar": "لما تعمل 'Defy' للقانون، إنت بتقول 'De-fine' 'بتحدد' قانونك الخاص وبترفض تمشي وراهم."
+ }
+}

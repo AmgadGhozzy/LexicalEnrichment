@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "flash",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "flash",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A sudden bright light that shines for a short time.",
+  "explanation_ar": "ضوء قوي وسريع بيظهر ويختفي فجأة، زي فلاش الكاميرا أو البرق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A sudden bright light that shines for a short time.",
+    "explanation_ar": "ضوء ساطع ومفاجئ يظهر ويختفي بسرعة.",
+    "examples": [
+     "There was a flash of lightning in the sky."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A sudden, brief burst of a feeling or thought.",
+    "explanation_ar": "شعور أو فكرة مفاجئة وسريعة.",
+    "examples": [
+     "He felt a sudden flash of anger."
+    ]
+   }
+  ],
+  "examples": [
+   "There was a flash of lightning in the sky.",
+   "He felt a sudden flash of anger.",
+   "The idea came to him in a flash of inspiration."
+  ],
+  "translations": [
+   "وَمْضَة",
+   "بَرِيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "burst",
+    "gleam",
+    "glint",
+    "spark"
+   ],
+   "antonyms": [
+    "darkness"
+   ],
+   "collocations": [
+    "flash of light",
+    "in a flash",
+    "flash of inspiration",
+    "news flash"
+   ]
+  },
+  "mnemonic": "زي 'Flash' الكاميرا.. ضوء سريع وقوي.",
+  "phonetic_us": "flæʃ",
+  "phonetic_uk": "flæʃ",
+  "syllables": [
+   "flash"
+  ],
+  "semantic_tags": [
+   "#Light",
+   "#Camera",
+   "#Speed",
+   "#News"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A sudden bright light that shines for a short time.",
+  "explanation_ar": "ضوء قوي وسريع بيظهر ويختفي فجأة، زي فلاش الكاميرا أو البرق.",
+  "examples": [
+   "There was a flash of lightning in the sky.",
+   "He felt a sudden flash of anger.",
+   "The idea came to him in a flash of inspiration."
+  ],
+  "translations": {
+   "arabic_ar": "وَمْضَة بَرِيق"
+  },
+  "synonyms": [
+   "burst",
+   "gleam",
+   "glint",
+   "spark"
+  ],
+  "antonyms": [
+   "darkness"
+  ],
+  "collocations": [
+   "flash of light",
+   "in a flash",
+   "flash of inspiration",
+   "news flash"
+  ],
+  "mnemonic_ar": "زي 'Flash' الكاميرا.. ضوء سريع وقوي."
+ }
+}

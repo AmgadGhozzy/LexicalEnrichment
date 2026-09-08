@@ -1,0 +1,72 @@
+{
+ "identity": {
+  "lemma": "attention",
+  "pos": "excl",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "attention",
+  "pos": "excl",
+  "cefr": "A2",
+  "definition_en": "Used to ask people to listen to important information or an order.",
+  "explanation_ar": "كلمة بتتقال بصوت عالي عشان الناس تسكت وتركز، زي 'انتباه!'.",
+  "senses": [
+   {
+    "definition_en": "Used to ask people to listen to important information or an order.",
+    "explanation_ar": "تُقال لجذب انتباه الحاضرين أو تنبيههم لأمر أو إعلان مهم، بمعنى «انتباه!»."
+   }
+  ],
+  "examples": [
+   "Attention please! The museum is closing in ten minutes.",
+   "Attention! The store is closing in five minutes.",
+   "Attention all passengers, the train is delayed."
+  ],
+  "translations": [
+   "انتباه!",
+   "تنبيه!"
+  ],
+  "relations": {
+   "synonyms": [
+    "listen",
+    "heads up"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "attention please",
+    "stand at attention"
+   ]
+  },
+  "mnemonic": "زي لما الضابط يقول للعساكر 'Attention' 'انتباه' عشان يوقفوا ثابت.",
+  "phonetic_us": "əˈten.ʃən",
+  "phonetic_uk": "əˈten.ʃn",
+  "syllables": "at•ten•tion",
+  "semantic_tags": [
+   "#Announcement",
+   "#Military",
+   "#Warning"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used to ask people to listen to important information or an order.",
+  "explanation_ar": "كلمة بتتقال بصوت عالي عشان الناس تسكت وتركز، زي 'انتباه!'.",
+  "examples": [
+   "Attention please! The museum is closing in ten minutes.",
+   "Attention! The store is closing in five minutes.",
+   "Attention all passengers, the train is delayed."
+  ],
+  "translations": {
+   "arabic_ar": "انتباه! تنبيه!"
+  },
+  "synonyms": [
+   "listen",
+   "heads up"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "attention please",
+   "stand at attention"
+  ],
+  "mnemonic_ar": "زي لما الضابط يقول للعساكر 'Attention' 'انتباه' عشان يوقفوا ثابت."
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5757",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5757",
+  "lemma": "cautious",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5757,
+  "lemma": "cautious",
+  "pos": "adj",
+  "cefr_level": "C1",
+  "difficulty_score": "4",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.98,
+  "phonetic_us": "kɔːʃəs",
+  "phonetic_uk": null,
+  "phonetic_ar": "كُوشَس",
+  "definition_en": "Careful to avoid potential problems, danger, or mistakes.",
+  "explanation_ar": "وصف للشخص أو التصرف الذي يتسم بالحذر واليقظة لتجنب المخاطر أو الأخطاء المحتملة.",
+  "examples": [
+   {
+    "example_text": "He took a cautious approach when investing in the stock market.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Scientists remain cautious about the long-term effectiveness of the new treatment.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The central bank issued a cautious statement regarding future interest rate hikes.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة caution التي تعني تحذير أو حذر فكلمة cautious هي الصفة منها وتعني حذر وحريص",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Careful to avoid potential problems, danger, or mistakes.",
+    "short_def_en": "careful and alert to danger",
+    "definition_ar": "حذر ومتيقظ لتجنب الأخطار أو المشكلات",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "behavior",
+     "personality",
+     "decision-making"
+    ],
+    "usage_note": "Often used with prepositions like 'about' or followed by an approach/step.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "cautious approach",
+   "cautious optimism",
+   "remain cautious",
+   "cautious welcome",
+   "cautious step"
+  ],
+  "synonyms": [
+   "careful",
+   "wary",
+   "prudent",
+   "guarded",
+   "vigilant"
+  ],
+  "antonyms": [
+   "reckless",
+   "rash",
+   "careless"
+  ],
+  "related_words": {
+   "en": [
+    "caution",
+    "danger",
+    "risk",
+    "warning",
+    "hesitant"
+   ],
+   "ar": [
+    "حذر",
+    "خطر",
+    "مجازفة",
+    "تحذير",
+    "متردد"
+   ]
+  },
+  "word_family": {
+   "noun": "caution",
+   "verb": "caution",
+   "adj": "cautious",
+   "adv": "cautiously"
+  },
+  "translations": {
+   "arabic_ar": "حذر / حريص",
+   "french_fr": "prudent",
+   "german_de": "vorsichtig",
+   "spanish_es": "cauteloso",
+   "chinese_zh": "谨慎的 (jǐnshèn de)",
+   "russian_ru": "осторожный",
+   "portuguese_pt": "cauteloso",
+   "japanese_ja": "慎重な (Shinchō na)",
+   "italian_it": "cauto",
+   "turkish_tr": "temkinli"
+  }
+ },
+ "provenance": {
+  "output_hash": "6e6ca93ab46d71f24b4befbd3f1865331f891448041d3fa298348349c7975ca2",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

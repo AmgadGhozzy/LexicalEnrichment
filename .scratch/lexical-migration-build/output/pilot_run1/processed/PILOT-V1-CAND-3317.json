@@ -1,0 +1,119 @@
+{
+ "candidate_id": "PILOT-V1-CAND-3317",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-3317",
+  "lemma": "downtown",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 3317,
+  "lemma": "downtown",
+  "pos": "adv",
+  "cefr_level": "B2",
+  "difficulty_score": "3",
+  "category": "Travel & Movement",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˌdaʊnˈtaʊn",
+  "phonetic_uk": null,
+  "phonetic_ar": "داون تاون",
+  "definition_en": "To or toward the central, commercial, or business area of a city.",
+  "explanation_ar": "باتجاه وسط المدينة او المركز التجاري والحيوي فيها، ويستخدم كظرف مكان بدون حرف جر.",
+  "examples": [
+   {
+    "example_text": "We decided to take the subway and head downtown for dinner.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Many professionals commute downtown every morning for work.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "She usually walks downtown whenever the weather is pleasant.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تتجه نحو الاسفل في الخريطة باتجاه مركز المدينة المزدحم حيث تجتمع كلمة \"down\" مع \"town\"",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To or toward the central, commercial, or business area of a city.",
+    "short_def_en": "toward city center",
+    "definition_ar": "الى او باتجاه وسط المدينة او مركزها التجاري",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Movement",
+    "semantic_tags": [
+     "city",
+     "direction",
+     "travel",
+     "urban"
+    ],
+    "usage_note": "Functions adverbially without prepositions like 'to'; say 'go downtown', not 'go to downtown'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "head downtown",
+   "go downtown",
+   "commute downtown",
+   "walk downtown",
+   "drive downtown"
+  ],
+  "synonyms": [
+   "city-centre"
+  ],
+  "antonyms": [
+   "uptown"
+  ],
+  "related_words": {
+   "en": [
+    "city",
+    "center",
+    "urban",
+    "suburbs",
+    "commute",
+    "business district"
+   ],
+   "ar": [
+    "مدينة",
+    "مركز",
+    "حضري",
+    "ضواحي",
+    "تنقل للعمل",
+    "منطقة تجارية"
+   ]
+  },
+  "word_family": {
+   "noun": "downtown",
+   "verb": "",
+   "adj": "downtown",
+   "adv": "downtown"
+  },
+  "translations": {
+   "arabic_ar": "الى وسط المدينة / في وسط المدينة",
+   "french_fr": "au centre-ville",
+   "german_de": "in die Innenstadt",
+   "spanish_es": "al centro",
+   "chinese_zh": "往市中心 (wǎng shì zhōngxīn)",
+   "russian_ru": "в центр города",
+   "portuguese_pt": "para o centro",
+   "japanese_ja": "都心へ (Toshin e)",
+   "italian_it": "in centro",
+   "turkish_tr": "şehir merkezine"
+  }
+ },
+ "provenance": {
+  "output_hash": "3172593f1e9a03b067baad8c50687225e94636269f539e8bb666c832808b9408",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

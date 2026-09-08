@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "leap",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "leap",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A forceful jump or bounce, or a sudden, dramatic increase or advancement.",
+  "explanation_ar": "قفزة كبيرة، سواء كانت حركة بدنية بالارتقاء في الهواء أو طفرة وتغير مفاجئ وكبير في مستوى شيء ما.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A long or high spring, jump, or bound.",
+    "definition_ar": "قفزة أو وثبة بدنية عالية أو طويلة.",
+    "examples": [
+     "With one leap, he crossed the stream."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A dramatic increase, sudden advancement, or transition.",
+    "definition_ar": "طفرة أو قفزة نوعية، أو زيادة كبيرة ومفاجئة.",
+    "examples": [
+     "The price of oil took a sudden leap.",
+     "Taking that job was a leap in the dark for him."
+    ]
+   }
+  ],
+  "examples": [
+   "With one leap, he crossed the stream.",
+   "The price of oil took a sudden leap.",
+   "Taking that job was a leap in the dark for him."
+  ],
+  "translations": [
+   "قفزة",
+   "طفرة",
+   "وثبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "jump",
+    "bound",
+    "surge"
+   ],
+   "antonyms": [
+    "drop",
+    "fall",
+    "plunge"
+   ],
+   "collocations": [
+    "giant leap",
+    "leap of faith",
+    "leap year",
+    "quantum leap"
+   ]
+  },
+  "mnemonic": "قريبة في النطق من كلمة 'Lip' (شِفّة).. تخيل نملة تقوم بعمل 'Leap' (قفزة كبيرة) من فوق الـ 'Lip'.",
+  "phonetic_us": "/liːp/",
+  "phonetic_uk": "/liːp/",
+  "syllables": "leap",
+  "semantic_tags": [
+   "#Movement",
+   "#Progress",
+   "#Change"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A forceful jump or bounce, or a sudden, dramatic increase or advancement.",
+  "explanation_ar": "قفزة كبيرة، سواء كانت حركة بدنية بالارتقاء في الهواء أو طفرة وتغير مفاجئ وكبير في مستوى شيء ما.",
+  "examples": [
+   "With one leap, he crossed the stream.",
+   "The price of oil took a sudden leap.",
+   "Taking that job was a leap in the dark for him."
+  ],
+  "translations": {
+   "arabic_ar": "قفزة طفرة وثبة"
+  },
+  "synonyms": [
+   "jump",
+   "bound",
+   "surge"
+  ],
+  "antonyms": [
+   "drop",
+   "fall",
+   "plunge"
+  ],
+  "collocations": [
+   "giant leap",
+   "leap of faith",
+   "leap year",
+   "quantum leap"
+  ],
+  "mnemonic_ar": "قريبة في النطق من كلمة 'Lip' (شِفّة).. تخيل نملة تقوم بعمل 'Leap' (قفزة كبيرة) من فوق الـ 'Lip'."
+ }
+}

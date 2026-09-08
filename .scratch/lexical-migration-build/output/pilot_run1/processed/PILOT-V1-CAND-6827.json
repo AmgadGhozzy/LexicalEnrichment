@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6827",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6827",
+  "lemma": "insertion",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6827,
+  "lemma": "insertion",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪnˈsɜːrʃn",
+  "phonetic_uk": "ɪnˈsɜːʃn",
+  "phonetic_ar": "إنْسِيرْشَن",
+  "definition_en": "The act of putting something into something else, or something that is added inside.",
+  "explanation_ar": "عملية إدخال أو إدراج شيء داخل شيء آخر، أو الشيء المُدرَج نفسه كإضافة نص أو أداة طبية.",
+  "examples": [
+   {
+    "example_text": "Careful insertion of the needle helps minimize patient discomfort.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "The editor approved the insertion of an extra paragraph to clarify the point.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "The sudden insertion of new rules caused confusion among the staff.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر الفعل الشائع \"insert\" بمعنى يدخل، واللاحقة \"tion\" تحوله ببساطة إلى اسم يدل على عملية الإدخال أو الإدراج.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The act of putting something inside another object or space.",
+    "short_def_en": "act of putting inside",
+    "definition_ar": "فعل إدخال أو وضع شيء داخل شيء آخر",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "action",
+     "placement",
+     "medical"
+    ],
+    "usage_note": "Commonly used in medical contexts, computing, and formal descriptions of physical actions.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Something added or placed into an existing text, document, or object.",
+    "short_def_en": "something added or included",
+    "definition_ar": "شيء مضاف أو مدرج ضمن نص أو وثيقة",
+    "is_primary": false,
+    "register": "Formal",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "text",
+     "editing",
+     "publishing"
+    ],
+    "usage_note": "Often refers to text, clauses, or images incorporated into a draft.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "catheter insertion",
+   "needle insertion",
+   "insertion of a clause",
+   "insertion point",
+   "surgical insertion"
+  ],
+  "synonyms": [
+   "introduction",
+   "addition",
+   "incorporation",
+   "inclusion",
+   "interpolation"
+  ],
+  "antonyms": [
+   "removal",
+   "extraction",
+   "deletion"
+  ],
+  "related_words": {
+   "en": [
+    "slot",
+    "embed",
+    "inject",
+    "input",
+    "implant"
+   ],
+   "ar": [
+    "فتحة",
+    "يضمن",
+    "يحقن",
+    "مدخلات",
+    "يزرع"
+   ]
+  },
+  "word_family": {
+   "noun": "insertion",
+   "verb": "insert",
+   "adj": "insertional",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "إدراج / إدخال",
+   "french_fr": "insertion",
+   "german_de": "Einfügung",
+   "spanish_es": "inserción",
+   "chinese_zh": "插入 (chārù)",
+   "russian_ru": "вставка",
+   "portuguese_pt": "inserção",
+   "japanese_ja": "挿入 (Sōnyū)",
+   "italian_it": "inserimento",
+   "turkish_tr": "ekleme"
+  }
+ },
+ "provenance": {
+  "output_hash": "d7abaa8bc0c8db180d0a489ca67f2709d708ab25a8f5aed9f6c23090b8a67834",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

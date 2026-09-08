@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-885",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-885",
+  "lemma": "natural",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 885,
+  "lemma": "natural",
+  "pos": "adj",
+  "cefr_level": "A1",
+  "difficulty_score": "2",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ˈnætʃərəl",
+  "phonetic_uk": "ˈnætʃrəl",
+  "phonetic_ar": "نَاتْشْرَالْ",
+  "definition_en": "Made by nature and not made or caused by people.",
+  "explanation_ar": "يصف الشيء الموجود في الطبيعة دون تدخل من الإنسان أو مواد كيميائية وصناعية.",
+  "examples": [
+   {
+    "example_text": "I like to drink pure natural water from the mountains.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "The room has a lot of natural light during the morning.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "It is completely natural to feel nervous before a big exam.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة nature اي الطبيعة واضف لها al لتعني شيئا قادما من الطبيعة وبسيطا كالحياة البدائية",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Existing in or produced by nature, not artificial or man-made.",
+    "short_def_en": "from nature, not artificial",
+    "definition_ar": "موجود في الطبيعة وليس من صنع الإنسان او صناعيا",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "nature",
+     "materials",
+     "environment"
+    ],
+    "usage_note": "Commonly contrasts with artificial or synthetic.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Normal or expected because it is what usually happens.",
+    "short_def_en": "normal and expected",
+    "definition_ar": "عادي ومتوقع وغير مفاجئ",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "behavior",
+     "logic",
+     "expectations"
+    ],
+    "usage_note": "Often used in the phrase 'it is natural to...'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "natural light",
+   "natural gas",
+   "natural disaster",
+   "natural beauty",
+   "natural resources"
+  ],
+  "synonyms": [
+   "pure",
+   "organic",
+   "normal",
+   "typical",
+   "unprocessed"
+  ],
+  "antonyms": [
+   "artificial",
+   "synthetic",
+   "unnatural"
+  ],
+  "related_words": {
+   "en": [
+    "nature",
+    "environment",
+    "wildlife",
+    "organic",
+    "earth"
+   ],
+   "ar": [
+    "طبيعة",
+    "بيئة",
+    "حياة برية",
+    "عضوي",
+    "أرض"
+   ]
+  },
+  "word_family": {
+   "noun": "nature",
+   "verb": "naturalize",
+   "adj": "natural",
+   "adv": "naturally"
+  },
+  "translations": {
+   "arabic_ar": "طبيعي",
+   "french_fr": "naturel",
+   "german_de": "natürlich",
+   "spanish_es": "natural",
+   "chinese_zh": "自然的 (zì rán de)",
+   "russian_ru": "естественный",
+   "portuguese_pt": "natural",
+   "japanese_ja": "自然な (Shizen na)",
+   "italian_it": "naturale",
+   "turkish_tr": "doğal"
+  }
+ },
+ "provenance": {
+  "output_hash": "defc55541c96d176ed376e6bf27a7a31399b8d9b773bb7da855c574c262fef74",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

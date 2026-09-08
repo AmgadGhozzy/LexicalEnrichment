@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "statement",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "statement",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Something that you say or write formally to give information.",
+  "explanation_ar": "كلام رسمي بتقوله أو بتكتبه عشان توضح معلومة أو تعلن عن حاجة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Something that you say or write formally to give information.",
+    "explanation_ar": "كلام أو تقرير رسمي يُقال أو يُكتب لتوضيح حقيقة أو إعلان موقف.",
+    "examples": [
+     "The police made a statement.",
+     "Is that a true statement?",
+     "The minister issued an official statement to the press."
+    ]
+   }
+  ],
+  "examples": [
+   "The police made a statement.",
+   "Is that a true statement?",
+   "The minister issued an official statement to the press."
+  ],
+  "translations": [
+   "بيان",
+   "تصريح"
+  ],
+  "relations": {
+   "synonyms": [
+    "declaration",
+    "announcement"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "make a statement",
+    "official statement",
+    "written statement",
+    "bank statement"
+   ]
+  },
+  "mnemonic": "جاية من 'State' يعني يصرّح.. فالـ 'Statement' هو التصريح نفسه.",
+  "phonetic_us": "ˈsteɪt.mənt",
+  "phonetic_uk": "ˈsteɪt.mənt",
+  "syllables": "state•ment",
+  "semantic_tags": [
+   "communication",
+   "official",
+   "media"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Something that you say or write formally to give information.",
+  "explanation_ar": "كلام رسمي بتقوله أو بتكتبه عشان توضح معلومة أو تعلن عن حاجة.",
+  "examples": [
+   "The police made a statement.",
+   "Is that a true statement?",
+   "The minister issued an official statement to the press."
+  ],
+  "translations": {
+   "arabic_ar": "بيان تصريح"
+  },
+  "synonyms": [
+   "declaration",
+   "announcement"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "make a statement",
+   "official statement",
+   "written statement",
+   "bank statement"
+  ],
+  "mnemonic_ar": "جاية من 'State' يعني يصرّح.. فالـ 'Statement' هو التصريح نفسه."
+ }
+}

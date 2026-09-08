@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "reporter",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "reporter",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person who collects and reports news for newspapers, radio, or TV.",
+  "explanation_ar": "الصحفي أو المراسل الذي ينقل الأخبار ويعمل مقابلات لوسائل الإعلام.",
+  "senses": [
+   {
+    "definition_en": "A person who collects and reports news for newspapers, radio, or TV.",
+    "explanation_ar": "الصحفي أو المراسل الذي ينقل الأخبار ويعمل مقابلات لوسائل الإعلام.",
+    "examples": [
+     "A reporter asked him a question.",
+     "She works as a sports reporter.",
+     "The reporter interviewed the president."
+    ]
+   }
+  ],
+  "examples": [
+   "A reporter asked him a question.",
+   "She works as a sports reporter.",
+   "The reporter interviewed the president."
+  ],
+  "translations": [
+   "مراسل",
+   "صحفي"
+  ],
+  "relations": {
+   "synonyms": [
+    "journalist",
+    "correspondent"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "news reporter",
+    "sports reporter",
+    "investigative reporter"
+   ]
+  },
+  "mnemonic": "هو الشخص الذي يكتب أو يقدّم الـ Report (تقرير) عن الأحداث.",
+  "phonetic_us": "rɪˈpɔːrtər",
+  "phonetic_uk": "rɪˈpɔːtə",
+  "syllables": "re•port•er",
+  "semantic_tags": [
+   "#News",
+   "#Media",
+   "#Job"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who collects and reports news for newspapers, radio, or TV.",
+  "explanation_ar": "الصحفي أو المراسل الذي ينقل الأخبار ويعمل مقابلات لوسائل الإعلام.",
+  "examples": [
+   "A reporter asked him a question.",
+   "She works as a sports reporter.",
+   "The reporter interviewed the president."
+  ],
+  "translations": {
+   "arabic_ar": "مراسل صحفي"
+  },
+  "synonyms": [
+   "journalist",
+   "correspondent"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "news reporter",
+   "sports reporter",
+   "investigative reporter"
+  ],
+  "mnemonic_ar": "هو الشخص الذي يكتب أو يقدّم الـ Report (تقرير) عن الأحداث."
+ }
+}

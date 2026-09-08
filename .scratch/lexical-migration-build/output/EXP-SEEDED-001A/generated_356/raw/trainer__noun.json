@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "trainer",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "trainer",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person who trains people or animals.",
+  "explanation_ar": "المدرب اللي بيعلمك مهارة جديدة أو بيساعدك تتمرن في الجيم، أو بيدرب حيوانات.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person who teaches skills to people or trains animals.",
+    "definition_ar": "شخص يدرب الناس على مهارات معينة أو يدرب الحيوانات.",
+    "examples": [
+     "I need a personal trainer to help me get in shape.",
+     "The dog trainer showed us how to manage our puppy.",
+     "She works as a corporate trainer for new employees."
+    ]
+   }
+  ],
+  "examples": [
+   "I need a personal trainer to help me get in shape.",
+   "The dog trainer showed us how to manage our puppy.",
+   "She works as a corporate trainer for new employees."
+  ],
+  "translations": [
+   "مدرب"
+  ],
+  "relations": {
+   "synonyms": [
+    "coach",
+    "instructor"
+   ],
+   "antonyms": [
+    "trainee",
+    "student"
+   ],
+   "collocations": [
+    "personal trainer",
+    "dog trainer",
+    "fitness trainer"
+   ]
+  },
+  "mnemonic": "من 'Train' يدرب.. الـ 'Trainer' هو المدرب اللي بيعلمك تعمل التمرين صح.",
+  "phonetic_us": "/ˈtreɪnər/",
+  "phonetic_uk": "/ˈtreɪnə/",
+  "syllables": "train•er",
+  "semantic_tags": [
+   "job",
+   "sport",
+   "learning"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who trains people or animals.",
+  "explanation_ar": "المدرب اللي بيعلمك مهارة جديدة أو بيساعدك تتمرن في الجيم، أو بيدرب حيوانات.",
+  "examples": [
+   "I need a personal trainer to help me get in shape.",
+   "The dog trainer showed us how to manage our puppy.",
+   "She works as a corporate trainer for new employees."
+  ],
+  "translations": {
+   "arabic_ar": "مدرب"
+  },
+  "synonyms": [
+   "coach",
+   "instructor"
+  ],
+  "antonyms": [
+   "trainee",
+   "student"
+  ],
+  "collocations": [
+   "personal trainer",
+   "dog trainer",
+   "fitness trainer"
+  ],
+  "mnemonic_ar": "من 'Train' يدرب.. الـ 'Trainer' هو المدرب اللي بيعلمك تعمل التمرين صح."
+ }
+}

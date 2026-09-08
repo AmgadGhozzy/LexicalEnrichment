@@ -1,0 +1,72 @@
+{
+ "identity": {
+  "lemma": "elbow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "elbow",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The joint between the forearm and the upper arm.",
+  "explanation_ar": "الكوع أو المِرفَق، وهو المفصل الذي يربط بين الساعد والجزء العلوي من الذراع.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The joint between the forearm and the upper arm.",
+    "definition_ar": "المفصل الواقع بين الساعد وأعلى الذراع (الكوع أو المِرفَق).",
+    "examples": [
+     "My elbow hurts.",
+     "She nudged him with her elbow.",
+     "He rested his elbow on the table."
+    ]
+   }
+  ],
+  "examples": [
+   "My elbow hurts.",
+   "She nudged him with her elbow.",
+   "He rested his elbow on the table."
+  ],
+  "translations": [
+   "كوع",
+   "مِرفَق"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "tennis elbow",
+    "elbow grease"
+   ]
+  },
+  "mnemonic": "كلمة 'Elbow' .. شكل الكوع عامل زي حرف 'L' .. 'L-bow'.",
+  "phonetic_us": "ˈelboʊ",
+  "phonetic_uk": "ˈelbəʊ",
+  "syllables": "el•bow",
+  "semantic_tags": [
+   "body",
+   "anatomy",
+   "joint"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The joint between the forearm and the upper arm.",
+  "explanation_ar": "الكوع أو المِرفَق، وهو المفصل الذي يربط بين الساعد والجزء العلوي من الذراع.",
+  "examples": [
+   "My elbow hurts.",
+   "She nudged him with her elbow.",
+   "He rested his elbow on the table."
+  ],
+  "translations": {
+   "arabic_ar": "كوع مِرفَق"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "tennis elbow",
+   "elbow grease"
+  ],
+  "mnemonic_ar": "كلمة 'Elbow' .. شكل الكوع عامل زي حرف 'L' .. 'L-bow'."
+ }
+}

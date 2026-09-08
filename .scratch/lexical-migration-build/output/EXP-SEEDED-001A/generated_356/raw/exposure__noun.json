@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "exposure",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "exposure",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The state of being exposed to contact with something; publicity.",
+  "explanation_ar": "التعرض لحاجة 'زي الشمس أو الخطر'، أو إن حاجة تنكشف وتتعرف للناس 'شهرة أو فضيحة'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The state of being exposed to contact with something harmful, extreme, or unpleasant.",
+    "definition_ar": "التعرض لشيء خارجي أو ظرف قد يكون ضاراً (كالبرد أو الشمس أو الخطر).",
+    "examples": [
+     "Avoid too much sun exposure.",
+     "His exposure to the cold made him sick."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Publicity or public attention given to someone or something by the media.",
+    "definition_ar": "الظهور الإعلامي، التغطية، أو الشهرة التي يحصل عليها شخص أو عمل.",
+    "examples": [
+     "The band got a lot of exposure on TV."
+    ]
+   }
+  ],
+  "examples": [
+   "Avoid too much sun exposure.",
+   "His exposure to the cold made him sick.",
+   "The band got a lot of exposure on TV."
+  ],
+  "translations": [
+   "تعرض",
+   "ظهور إعلامي"
+  ],
+  "relations": {
+   "synonyms": [
+    "contact",
+    "publicity",
+    "vulnerability",
+    "revelation"
+   ],
+   "antonyms": [
+    "protection",
+    "shelter",
+    "secrecy"
+   ],
+   "collocations": [
+    "sun exposure",
+    "media exposure",
+    "indecent exposure",
+    "exposure to risk"
+   ]
+  },
+  "mnemonic": "جاية من 'Expose' 'يكشف'.. الـ Exposure هو إنك تكون 'مكشوف' قدام حاجة.",
+  "phonetic_us": "ɪkˈspoʊʒər",
+  "phonetic_uk": "ɪkˈspəʊʒər",
+  "syllables": "ex•po•sure",
+  "semantic_tags": [
+   "#Risk",
+   "#Media",
+   "#Health"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The state of being exposed to contact with something; publicity.",
+  "explanation_ar": "التعرض لحاجة 'زي الشمس أو الخطر'، أو إن حاجة تنكشف وتتعرف للناس 'شهرة أو فضيحة'.",
+  "examples": [
+   "Avoid too much sun exposure.",
+   "His exposure to the cold made him sick.",
+   "The band got a lot of exposure on TV."
+  ],
+  "translations": {
+   "arabic_ar": "تعرض ظهور إعلامي"
+  },
+  "synonyms": [
+   "contact",
+   "publicity",
+   "vulnerability",
+   "revelation"
+  ],
+  "antonyms": [
+   "protection",
+   "shelter",
+   "secrecy"
+  ],
+  "collocations": [
+   "sun exposure",
+   "media exposure",
+   "indecent exposure",
+   "exposure to risk"
+  ],
+  "mnemonic_ar": "جاية من 'Expose' 'يكشف'.. الـ Exposure هو إنك تكون 'مكشوف' قدام حاجة."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "refuse",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "refuse",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To indicate that one is not willing to do, accept, or grant something.",
+  "explanation_ar": "تقول لأ، أو ترفض تعمل حاجة مطلوبة منك.",
+  "senses": [
+   {
+    "pos": "verb",
+    "definition_en": "To indicate that one is not willing to do, accept, or grant something.",
+    "explanation_ar": "تقول لأ، أو ترفض تعمل حاجة مطلوبة منك."
+   }
+  ],
+  "examples": [
+   "I refuse to go.",
+   "I refuse to believe that rumor.",
+   "You can accept or refuse the offer."
+  ],
+  "translations": [
+   "يرفض"
+  ],
+  "relations": {
+   "synonyms": [
+    "decline",
+    "reject",
+    "deny",
+    "turn down"
+   ],
+   "antonyms": [
+    "accept",
+    "agree",
+    "grant"
+   ],
+   "collocations": [
+    "refuse to believe",
+    "refuse an offer",
+    "flatly refuse",
+    "refuse permission"
+   ],
+   "word_family": {
+    "noun": "refusal",
+    "verb": "refuse"
+   }
+  },
+  "mnemonic": "عكس 'Fuse' 'يدمج'.. إنت بتبعد وترفض.",
+  "phonetic_us": "rɪˈfjuz",
+  "phonetic_uk": "rɪˈfjuːz",
+  "syllables": null,
+  "semantic_tags": [
+   "#Choice",
+   "#Conflict",
+   "#Negative",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To indicate that one is not willing to do, accept, or grant something.",
+  "explanation_ar": "تقول لأ، أو ترفض تعمل حاجة مطلوبة منك.",
+  "examples": [
+   "I refuse to go.",
+   "I refuse to believe that rumor.",
+   "You can accept or refuse the offer."
+  ],
+  "translations": {
+   "arabic_ar": "يرفض"
+  },
+  "synonyms": [
+   "decline",
+   "reject",
+   "deny",
+   "turn down"
+  ],
+  "antonyms": [
+   "accept",
+   "agree",
+   "grant"
+  ],
+  "collocations": [
+   "refuse to believe",
+   "refuse an offer",
+   "flatly refuse",
+   "refuse permission"
+  ],
+  "mnemonic_ar": "عكس 'Fuse' 'يدمج'.. إنت بتبعد وترفض."
+ }
+}

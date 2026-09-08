@@ -1,0 +1,134 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4348",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4348",
+  "lemma": "import",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4348,
+  "lemma": "import",
+  "pos": "verb",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Work & Business",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɪmˈpɔːrt",
+  "phonetic_uk": "ɪmˈpɔːt",
+  "phonetic_ar": "إمبورت",
+  "definition_en": "To bring goods or services into a country from abroad to sell them.",
+  "explanation_ar": "جلب بضائع أو خدمات من دولة أخرى بهدف بيعها أو استخدامها محليا.",
+  "examples": [
+   {
+    "example_text": "Many countries import oil to meet their energy needs.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "We import fresh fruit directly from farms in Spain.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Small businesses often find it expensive to import raw materials.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان البادئة im تعني إلى الداخل و port تعني الميناء، أي إدخال البضائع إلى الميناء عبر الشحن",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To bring goods or products into a country from another country to sell them.",
+    "short_def_en": "bring in foreign goods",
+    "definition_ar": "يستورد بضائع من الخارج لبيعها محليا",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "trade",
+     "business",
+     "international commerce"
+    ],
+    "usage_note": "As a verb, the stress falls on the second syllable: im-PORT. As a noun, it falls on the first syllable: IM-port.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To transfer data, files, or settings into a computer program from another source.",
+    "short_def_en": "load digital data into software",
+    "definition_ar": "يدرج ملفات او بيانات داخل برنامج حاسوبي",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "computing",
+     "software",
+     "data transfer"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "import goods",
+   "import oil",
+   "import data",
+   "import directly from",
+   "heavily import"
+  ],
+  "synonyms": [
+   "bring in",
+   "buy in",
+   "ship in"
+  ],
+  "antonyms": [
+   "export"
+  ],
+  "related_words": {
+   "en": [
+    "customs",
+    "tariff",
+    "cargo",
+    "trade",
+    "foreign"
+   ],
+   "ar": [
+    "جمارك",
+    "تعريفة جمركية",
+    "شحنة",
+    "تجارة",
+    "أجنبي"
+   ]
+  },
+  "word_family": {
+   "noun": "importer",
+   "verb": "import",
+   "adj": "importable",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يستورد",
+   "french_fr": "importer",
+   "german_de": "importieren",
+   "spanish_es": "importar",
+   "chinese_zh": "进口 (Jìnkǒu)",
+   "russian_ru": "импортировать",
+   "portuguese_pt": "importar",
+   "japanese_ja": "輸入する (Yunyuu suru)",
+   "italian_it": "importare",
+   "turkish_tr": "ithal etmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "cdad3105003136244a5ce8f578624e938251a7d5cc51d2ca6138df63a5504169",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

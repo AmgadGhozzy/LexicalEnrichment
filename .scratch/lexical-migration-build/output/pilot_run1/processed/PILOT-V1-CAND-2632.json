@@ -1,0 +1,131 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2632",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2632",
+  "lemma": "contain",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2632,
+  "lemma": "contain",
+  "pos": "verb",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "kənˈteɪn",
+  "phonetic_uk": null,
+  "phonetic_ar": "كَنْتِين",
+  "definition_en": "To hold or have something inside itself.",
+  "explanation_ar": "يعني أن يشتمل الشيء على شيء آخر بداخله، مثل صندوق يحوي أغراضا أو كتاب يضم معلومات.",
+  "examples": [
+   {
+    "example_text": "These boxes contain old family photographs.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Does this soup contain any nuts or dairy?",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Firefighters worked through the night to contain the forest fire.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"container\" وهي الحاوية الضخمة التي تحفظ البضائع، فالفعل \"contain\" يعني يحوي أو يتسع لشيء بداخله.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To hold or have something inside.",
+    "short_def_en": "hold inside",
+    "definition_ar": "يحوي أو يشتمل على شيء بداخله.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "State",
+    "semantic_tags": [
+     "capacity",
+     "objects",
+     "content"
+    ],
+    "usage_note": "Typically used in simple tenses rather than continuous forms when referring to physical capacity.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To prevent something harmful from spreading or getting worse.",
+    "short_def_en": "control or restrain",
+    "definition_ar": "يسيطر على انتشار شيء ضار أو يكبح جماحه.",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "control",
+     "prevention",
+     "crisis"
+    ],
+    "usage_note": "Commonly used with problems like fire, disease, or strong feelings.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "contain information",
+   "contain ingredients",
+   "contain the spread",
+   "contain your excitement"
+  ],
+  "synonyms": [
+   "hold",
+   "include",
+   "comprise",
+   "curb",
+   "restrain"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "content",
+    "limit",
+    "package",
+    "vessel"
+   ],
+   "ar": [
+    "محتوى",
+    "حد",
+    "طرد",
+    "وعاء"
+   ]
+  },
+  "word_family": {
+   "noun": "container",
+   "verb": "contain",
+   "adj": "contained",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "يحتوي على / يكبح",
+   "french_fr": "contenir",
+   "german_de": "enthalten",
+   "spanish_es": "contener",
+   "chinese_zh": "包含 (Bāohán)",
+   "russian_ru": "содержать",
+   "portuguese_pt": "conter",
+   "japanese_ja": "含む (Fukumu)",
+   "italian_it": "contenere",
+   "turkish_tr": "içermek"
+  }
+ },
+ "provenance": {
+  "output_hash": "e0baf83c5b38f7ba137f028b313e7ce1ec669385940ea6484dd160e14ff0c663",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "essential",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "essential",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Absolutely necessary; extremely important.",
+  "explanation_ar": "حاجة مهمة جداً وماينفعش تكمل من غيرها، زي الماية للجسم.",
+  "senses": [
+   {
+    "definition_en": "Absolutely necessary; extremely important.",
+    "definition_ar": "ضروري أو أساسي للغاية ولا غنى عنه.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "Water is essential for life.",
+   "It is essential to arrive on time.",
+   "Experience is essential for this job."
+  ],
+  "translations": [
+   "ضروري",
+   "أساسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "crucial",
+    "vital",
+    "necessary",
+    "indispensable",
+    "fundamental"
+   ],
+   "antonyms": [
+    "optional",
+    "unnecessary",
+    "trivial"
+   ],
+   "collocations": [
+    "absolutely essential",
+    "essential part",
+    "essential role",
+    "essential difference"
+   ]
+  },
+  "mnemonic": "جاية من 'Essence' 'جوهر'.. الحاجة الـ 'Essential' هي الجوهر اللي ماينفعش نستغنى عنه.",
+  "phonetic_us": "ɪˈsenʃəl",
+  "phonetic_uk": "ɪˈsenʃəl",
+  "syllables": "es•sen•tial",
+  "semantic_tags": [
+   "#Necessity",
+   "#Importance",
+   "#Basics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Absolutely necessary; extremely important.",
+  "explanation_ar": "حاجة مهمة جداً وماينفعش تكمل من غيرها، زي الماية للجسم.",
+  "examples": [
+   "Water is essential for life.",
+   "It is essential to arrive on time.",
+   "Experience is essential for this job."
+  ],
+  "translations": {
+   "arabic_ar": "ضروري أساسي"
+  },
+  "synonyms": [
+   "crucial",
+   "vital",
+   "necessary",
+   "indispensable",
+   "fundamental"
+  ],
+  "antonyms": [
+   "optional",
+   "unnecessary",
+   "trivial"
+  ],
+  "collocations": [
+   "absolutely essential",
+   "essential part",
+   "essential role",
+   "essential difference"
+  ],
+  "mnemonic_ar": "جاية من 'Essence' 'جوهر'.. الحاجة الـ 'Essential' هي الجوهر اللي ماينفعش نستغنى عنه."
+ }
+}

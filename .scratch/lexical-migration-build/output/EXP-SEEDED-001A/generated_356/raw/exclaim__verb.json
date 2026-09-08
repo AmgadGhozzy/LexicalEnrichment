@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "exclaim",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "exclaim",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To cry out suddenly, especially in surprise, anger, or pain.",
+  "explanation_ar": "إنك تقول حاجة بصوت عالي فجأة بسبب المفاجأة أو الغضب أو الفرحة.",
+  "senses": [
+   {
+    "definition_en": "To cry out suddenly, especially in surprise, anger, or pain.",
+    "explanation_ar": "أن تصيح أو تهتف فجأة تعبيراً عن دهشة أو فرح أو غضب أو ألم.",
+    "examples": [
+     "I heard him exclaim in surprise when he saw the unexpected gift.",
+     "Why did she exclaim with delight upon hearing the good news?",
+     "You do not need to exclaim in anger over such a minor mistake."
+    ]
+   }
+  ],
+  "examples": [
+   "I heard him exclaim in surprise when he saw the unexpected gift.",
+   "Why did she exclaim with delight upon hearing the good news?",
+   "You do not need to exclaim in anger over such a minor mistake."
+  ],
+  "translations": [
+   "يهتف",
+   "يصيح",
+   "يصرخ"
+  ],
+  "relations": {
+   "synonyms": [
+    "cry out",
+    "shout",
+    "yell",
+    "declare"
+   ],
+   "antonyms": [
+    "whisper",
+    "mutter",
+    "murmur"
+   ],
+   "collocations": [
+    "exclaim in surprise",
+    "exclaim with delight",
+    "suddenly exclaim",
+    "loudly exclaim"
+   ],
+   "word_family": {
+    "noun": "exclamation",
+    "verb": "exclaim",
+    "adj": "exclamatory"
+   }
+  },
+  "mnemonic": "كلمة 'Exclaim' فيها 'Claim' 'يدّعي'.. لما حد يدّعي حاجة بصوت عالي ومفاجئ يبقى بيعمل 'Exclaim'.",
+  "phonetic_us": "ɪkˈskleɪm",
+  "phonetic_uk": "ɪkˈskleɪm",
+  "syllables": "ex•claim",
+  "semantic_tags": [
+   "#Speech",
+   "#Emotion",
+   "#Surprise",
+   "#Shout"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To cry out suddenly, especially in surprise, anger, or pain.",
+  "explanation_ar": "إنك تقول حاجة بصوت عالي فجأة بسبب المفاجأة أو الغضب أو الفرحة.",
+  "examples": [
+   "I heard him exclaim in surprise when he saw the unexpected gift.",
+   "Why did she exclaim with delight upon hearing the good news?",
+   "You do not need to exclaim in anger over such a minor mistake."
+  ],
+  "translations": {
+   "arabic_ar": "يهتف يصيح يصرخ"
+  },
+  "synonyms": [
+   "cry out",
+   "shout",
+   "yell",
+   "declare"
+  ],
+  "antonyms": [
+   "whisper",
+   "mutter",
+   "murmur"
+  ],
+  "collocations": [
+   "exclaim in surprise",
+   "exclaim with delight",
+   "suddenly exclaim",
+   "loudly exclaim"
+  ],
+  "mnemonic_ar": "كلمة 'Exclaim' فيها 'Claim' 'يدّعي'.. لما حد يدّعي حاجة بصوت عالي ومفاجئ يبقى بيعمل 'Exclaim'."
+ }
+}

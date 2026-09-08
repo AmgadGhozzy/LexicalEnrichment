@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2726",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2726",
+  "lemma": "gap",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2726,
+  "lemma": "gap",
+  "pos": "noun",
+  "cefr_level": "A2",
+  "difficulty_score": "3",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ɡæp",
+  "phonetic_uk": null,
+  "phonetic_ar": "غَاب",
+  "definition_en": "An empty space between two things, or an opening where something is missing.",
+  "explanation_ar": "فجوة أو فراغ بين شيئين، أو مساحة مفتوحة تفصل بين نقطتين.",
+  "examples": [
+   {
+    "example_text": "Mind the gap between the train and the platform.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "There is a wide gap between rich and poor households.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "He crawled through a small gap in the fence.",
+    "intended_cefr": "A2"
+   }
+  ],
+  "mnemonic_ar": "تذكر محطة قطارات لندن والتحذير الشهير \"mind the gap\" حيث تحذر الإشارة من الفراغ أو الفجوة بين الرصيف والقطار حتى لا تسقط قدمك.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "An empty space between two physical objects or surfaces.",
+    "short_def_en": "empty physical space",
+    "definition_ar": "فراغ او فجوة مكانية تفصل بين شيئين ماديين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "space",
+     "opening",
+     "distance"
+    ],
+    "usage_note": "Often used with prepositions like 'between' or 'in'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A clear difference or division between two ideas, situations, or groups.",
+    "short_def_en": "difference or disparity",
+    "definition_ar": "فارق كبير او تفاوت بين فكرتين او فئتين",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Relation",
+    "semantic_tags": [
+     "difference",
+     "comparison",
+     "contrast"
+    ],
+    "usage_note": "Common in phrases like 'generation gap' or 'gender gap'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "mind the gap",
+   "generation gap",
+   "gap between",
+   "narrow the gap",
+   "bridge the gap"
+  ],
+  "synonyms": [
+   "opening",
+   "space",
+   "hole",
+   "interval",
+   "divide"
+  ],
+  "antonyms": [
+   "closure",
+   "solid"
+  ],
+  "related_words": {
+   "en": [
+    "bridge",
+    "crack",
+    "divide",
+    "distance",
+    "opening"
+   ],
+   "ar": [
+    "جسر",
+    "شق",
+    "يقسم",
+    "مسافة",
+    "فتحة"
+   ]
+  },
+  "word_family": {
+   "noun": "gap",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "فجوة / فراغ",
+   "french_fr": "écart",
+   "german_de": "Lücke",
+   "spanish_es": "brecha",
+   "chinese_zh": "缺口 (quēkǒu)",
+   "russian_ru": "пробел",
+   "portuguese_pt": "brecha",
+   "japanese_ja": "隙間 (Sukima)",
+   "italian_it": "divario",
+   "turkish_tr": "boşluk"
+  }
+ },
+ "provenance": {
+  "output_hash": "97adabe15c77f12b1158572fcaf733dcdf255d70afca4098e4526541acc6882a",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

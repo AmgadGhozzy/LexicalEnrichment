@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "license",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "license",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To grant an official license to permit the use of something or allow an activity.",
+  "explanation_ar": "أن تمنح إذناً رسمياً أو ترخيصاً لشخص أو جهة لممارسة نشاط معين أو استخدام ملكية ما قانونياً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To grant official permission to an individual or organization to carry out an activity or use intellectual property.",
+    "definition_ar": "يمنح ترخيصاً رسمياً لممارسة عمل أو نشاط، أو يسمح باستخدام تقنية أو ملكية فكرية.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The government plans to license several new private radio stations next year.",
+   "Many software companies prefer to license their technology rather than sell it outright.",
+   "The local council will not license the music venue if safety regulations are not met."
+  ],
+  "translations": [
+   "يرخص",
+   "يمنح ترخيصاً",
+   "يصرح رسمياً"
+  ],
+  "relations": {
+   "synonyms": [
+    "authorize",
+    "permit",
+    "allow",
+    "accredit"
+   ],
+   "antonyms": [
+    "forbid",
+    "ban",
+    "prohibit"
+   ],
+   "collocations": [
+    "license a product",
+    "license technology",
+    "refuse to license",
+    "agree to license"
+   ]
+  },
+  "mnemonic": "الفعل من 'ليسانس'.. يعني يدي 'License' أو تصريح رسمي لحد.",
+  "phonetic_us": "ˈlaɪsns",
+  "phonetic_uk": "ˈlaɪsns",
+  "syllables": "li•cense",
+  "semantic_tags": [
+   "#Permit",
+   "#Authorize",
+   "#Legal",
+   "#Business"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To grant an official license to permit the use of something or allow an activity.",
+  "explanation_ar": "أن تمنح إذناً رسمياً أو ترخيصاً لشخص أو جهة لممارسة نشاط معين أو استخدام ملكية ما قانونياً.",
+  "examples": [
+   "The government plans to license several new private radio stations next year.",
+   "Many software companies prefer to license their technology rather than sell it outright.",
+   "The local council will not license the music venue if safety regulations are not met."
+  ],
+  "translations": {
+   "arabic_ar": "يرخص يمنح ترخيصاً يصرح رسمياً"
+  },
+  "synonyms": [
+   "authorize",
+   "permit",
+   "allow",
+   "accredit"
+  ],
+  "antonyms": [
+   "forbid",
+   "ban",
+   "prohibit"
+  ],
+  "collocations": [
+   "license a product",
+   "license technology",
+   "refuse to license",
+   "agree to license"
+  ],
+  "mnemonic_ar": "الفعل من 'ليسانس'.. يعني يدي 'License' أو تصريح رسمي لحد."
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "double",
+  "pos": "pron",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "double",
+  "pos": "pron",
+  "cefr": "B1",
+  "definition_en": "Twice the amount, number, or quantity.",
+  "explanation_ar": "ضعف الكمية أو المقدار (مرتان بقدر الشيء).",
+  "senses": [
+   {
+    "definition_en": "Twice the amount, number, or quantity.",
+    "explanation_ar": "ضعف الكمية أو المقدار.",
+    "examples": [
+     "We expected twenty guests, but double arrived.",
+     "She earns double what I make for the same work.",
+     "Why pay double when you can get it at a discount?"
+    ]
+   }
+  ],
+  "examples": [
+   "We expected twenty guests, but double arrived.",
+   "She earns double what I make for the same work.",
+   "Why pay double when you can get it at a discount?"
+  ],
+  "translations": [
+   "ضعف"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "half"
+   ],
+   "collocations": [
+    "pay double",
+    "earn double",
+    "worth double"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈdʌbəl",
+  "phonetic_uk": "ˈdʌb.l",
+  "syllables": "dou•ble",
+  "semantic_tags": [
+   "quantity",
+   "amount",
+   "number"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Twice the amount, number, or quantity.",
+  "explanation_ar": "ضعف الكمية أو المقدار (مرتان بقدر الشيء).",
+  "examples": [
+   "We expected twenty guests, but double arrived.",
+   "She earns double what I make for the same work.",
+   "Why pay double when you can get it at a discount?"
+  ],
+  "translations": {
+   "arabic_ar": "ضعف"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "half"
+  ],
+  "collocations": [
+   "pay double",
+   "earn double",
+   "worth double"
+  ],
+  "mnemonic_ar": null
+ }
+}

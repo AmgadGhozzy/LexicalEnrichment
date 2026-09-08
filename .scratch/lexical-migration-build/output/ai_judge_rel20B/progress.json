@@ -1,0 +1,178 @@
+{
+ "judgments": {
+  "EVAL-BLIND-V1-0006": {
+   "fields": {
+    "definition": "A-better",
+    "arabic_explanation": "A-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A provides a more complete definition that captures both speed and low elapsed time, a more professional standard Arabic explanation, and a solid set of collocations."
+  },
+  "EVAL-BLIND-V1-0014": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "A-better",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "tie"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": "B",
+     "evidence": "Arm B defines doctor as 'A person with a medical degree whose job is to treat sick people' but gives example 'He is a doctor of physics, not medicine.'"
+    },
+    "target_word_violation": {
+     "side": "B",
+     "evidence": "Arm B includes an inflected/possessive form: 'The doctor's prognosis was grim but accurate.'"
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm A maintains consistent sense coverage and MSA arabic. Arm B introduces an academic sense example ('doctor of physics') that contradicts its strictly medical definition, includes a possessive form violating the exact lemma token guard, and uses colloquial Arabic."
+  },
+  "EVAL-BLIND-V1-0019": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "B-better",
+    "sense_separation": "cannot-judge",
+    "examples": "tie",
+    "translations": "A-better",
+    "relations": "B-better",
+    "mnemonic": "B-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": null,
+     "evidence": ""
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": null,
+     "evidence": ""
+    }
+   },
+   "note": "Arm B provides a cleaner Modern Standard Arabic explanation, useful collocations, and a sound morphological mnemonic hook linking prior to priority, whereas Arm A relies on Egyptian dialect and an acoustic stretch (prayer)."
+  },
+  "EVAL-BLIND-V1-0020": {
+   "fields": {
+    "definition": "tie",
+    "arabic_explanation": "A-better",
+    "sense_separation": "tie",
+    "examples": "A-better",
+    "translations": "tie",
+    "relations": "A-better",
+    "mnemonic": "A-better"
+   },
+   "critical_errors": {
+    "wrong_meaning": {
+     "side": null,
+     "evidence": ""
+    },
+    "misleading_arabic": {
+     "side": null,
+     "evidence": ""
+    },
+    "invalid_relation_synonym": {
+     "side": "B",
+     "evidence": "Arm B lists 'marine life' and 'seafood' as direct synonyms of the noun 'fish'."
+    },
+    "example_semantic_error": {
+     "side": null,
+     "evidence": ""
+    },
+    "target_word_violation": {
+     "side": null,
+     "evidence": ""
+    },
+    "fabricated_etymology_mnemonic": {
+     "side": null,
+     "evidence": ""
+    },
+    "cefr_learner_mismatch": {
+     "side": "B",
+     "evidence": "Arm B introduces advanced register vocabulary inappropriately in an A1 basic noun example: 'The taxonomy of these tropical fish is complex.'"
+    }
+   },
+   "note": "Arm A provides a proper standard Arabic definition covering both the animal and food senses, solid collocations, and natural examples. Arm B uses Egyptian colloquial phrasing for the explanation, offers invalid direct synonyms ('marine life', 'seafood'), and includes an advanced academic example ('taxonomy') unfitting for a basic CEFR A1 lemma."
+  }
+ },
+ "attempts": {
+  "EVAL-BLIND-V1-0006": 1,
+  "EVAL-BLIND-V1-0014": 1,
+  "EVAL-BLIND-V1-0019": 1,
+  "EVAL-BLIND-V1-0020": 1
+ }
+}

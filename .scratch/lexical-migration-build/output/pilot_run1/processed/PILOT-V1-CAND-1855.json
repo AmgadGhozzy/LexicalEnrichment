@@ -1,0 +1,149 @@
+{
+ "candidate_id": "PILOT-V1-CAND-1855",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-1855",
+  "lemma": "pair",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 1855,
+  "lemma": "pair",
+  "pos": "noun",
+  "cefr_level": "A1",
+  "difficulty_score": "1",
+  "category": "Objects & Tools",
+  "ai_confidence": 0.98,
+  "phonetic_us": "pɛr",
+  "phonetic_uk": "peə",
+  "phonetic_ar": "بِير",
+  "definition_en": "Two things of the same kind that are used together, or an object with two joined parts.",
+  "explanation_ar": "زوج من شيئين متماثلين يستعملان معا مثل حذاءين، أو شيء واحد يتكون من جزأين متصلين كالمقص أو النظارة.",
+  "examples": [
+   {
+    "example_text": "I bought a new pair of shoes yesterday.",
+    "intended_cefr": "A1"
+   },
+   {
+    "example_text": "She needs a pair of scissors to cut the paper.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "They worked as a pair to complete the science project.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"pair\" بأنها تشبه لفظ كلمة بير في العربية، لكن تخيل شخصين يرتديان نفس الحذاء ويجلسان بجانب بئر ماء.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Two similar things that match and are designed to be used together.",
+    "short_def_en": "two matching items",
+    "definition_ar": "شيئان متطابقان يستعملان معا مثل قفازين أو حذاءين",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "clothing",
+     "matching",
+     "items"
+    ],
+    "usage_note": "Used with plural nouns for items that come in twos, such as shoes or socks.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A single object made of two parts that are connected together.",
+    "short_def_en": "single joined two-part object",
+    "definition_ar": "أداة مفردة تتكون من جزأين متصلين مثل النظارة أو البنطال",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Tool",
+    "semantic_tags": [
+     "tools",
+     "clothing",
+     "grammar"
+    ],
+    "usage_note": "Commonly used with nouns that only exist in the plural, like trousers or glasses.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 3,
+    "definition_en": "Two people who are connected or doing an activity together.",
+    "short_def_en": "two people together",
+    "definition_ar": "شخصان مرتبطان أو يعملان معا",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Person",
+    "semantic_tags": [
+     "people",
+     "team",
+     "relationship"
+    ],
+    "usage_note": "",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "pair of shoes",
+   "pair of glasses",
+   "pair of scissors",
+   "working in pairs",
+   "matching pair"
+  ],
+  "synonyms": [
+   "couple",
+   "duo",
+   "twosome",
+   "brace"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "two",
+    "both",
+    "twin",
+    "match",
+    "partner"
+   ],
+   "ar": [
+    "اثنان",
+    "كلاهما",
+    "توأم",
+    "تطابق",
+    "شريك"
+   ]
+  },
+  "word_family": {
+   "noun": "pair",
+   "verb": "pair",
+   "adj": "paired",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "زوج / جوز",
+   "french_fr": "paire",
+   "german_de": "Paar",
+   "spanish_es": "par",
+   "chinese_zh": "一双 (yī shuāng)",
+   "russian_ru": "пара",
+   "portuguese_pt": "par",
+   "japanese_ja": "一組 (Hito-kumi)",
+   "italian_it": "paio",
+   "turkish_tr": "çift"
+  }
+ },
+ "provenance": {
+  "output_hash": "704eb9e6c2dc102e96773174d56e7967bbd74df1894506276c13cac9c97c22b9",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

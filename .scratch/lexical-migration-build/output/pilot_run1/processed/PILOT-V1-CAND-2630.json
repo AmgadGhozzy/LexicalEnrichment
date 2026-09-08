@@ -1,0 +1,112 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2630",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2630",
+  "lemma": "racing",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2630,
+  "lemma": "racing",
+  "pos": "noun",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.95,
+  "phonetic_us": "reɪsɪŋ",
+  "phonetic_uk": null,
+  "phonetic_ar": "رَيسِنغ",
+  "definition_en": "The sport or activity of competing in contests of speed using vehicles, animals, or on foot.",
+  "explanation_ar": "رياضة أو نشاط خوض مسابقات السرعة، سواء بالسيارات أو الدراجات أو الخيول أو الجري.",
+  "examples": [
+   {
+    "example_text": "He has had a lifelong passion for horse racing.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Motor racing attracts millions of enthusiastic spectators worldwide.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Safety regulations in modern car racing have significantly reduced serious injuries.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"race\" التي تعني سباق بإضافة \"ing\" لتصبح رياضة السباقات السريعة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The sport or activity of competing in contests of speed.",
+    "short_def_en": "sport of speed contests",
+    "definition_ar": "رياضة التنافس في مسابقات السرعة",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "sports",
+     "competitions",
+     "speed"
+    ],
+    "usage_note": "Often used in compounds like horse racing, motor racing, or bike racing.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "horse racing",
+   "motor racing",
+   "car racing",
+   "racing circuit",
+   "racing driver"
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "speed",
+    "track",
+    "driver",
+    "competition",
+    "lap"
+   ],
+   "ar": [
+    "سرعة",
+    "مضمار",
+    "سائق",
+    "منافسة",
+    "دورة"
+   ]
+  },
+  "word_family": {
+   "noun": "racer",
+   "verb": "race",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "سباق / رياضة السباق",
+   "french_fr": "course",
+   "german_de": "Rennsport",
+   "spanish_es": "carreras",
+   "chinese_zh": "赛车 (sàichē) / 竞赛 (jìngsài)",
+   "russian_ru": "гонки",
+   "portuguese_pt": "corridas",
+   "japanese_ja": "レース (Rēsu)",
+   "italian_it": "corse",
+   "turkish_tr": "yarış"
+  }
+ },
+ "provenance": {
+  "output_hash": "44ec07e102bfbe42c251779e0a36600a24893fc9a1a265835f0b66499c95ebfd",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

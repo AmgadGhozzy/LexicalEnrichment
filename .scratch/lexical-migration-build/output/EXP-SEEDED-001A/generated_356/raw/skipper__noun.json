@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "skipper",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "skipper",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The captain of a ship, boat, or sports team.",
+  "explanation_ar": "القبطان اللي بيسوق السفينة، أو قائد الفريق الرياضي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The captain of a ship or boat.",
+    "definition_ar": "قبطان أو ربان السفينة أو القارب."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The captain or leader of a sports team.",
+    "definition_ar": "قائد أو كابتن الفريق الرياضي."
+   }
+  ],
+  "examples": [
+   "The experienced skipper navigated through the narrow channel.",
+   "The skipper told the crew to prepare for the storm.",
+   "As the team's skipper, he bore the responsibility for the defeat."
+  ],
+  "translations": [
+   "ربان",
+   "قبطان",
+   "قائد فريق"
+  ],
+  "relations": {
+   "synonyms": [
+    "captain",
+    "commander",
+    "master",
+    "leader"
+   ],
+   "antonyms": [
+    "crew",
+    "follower"
+   ],
+   "collocations": [
+    "team skipper",
+    "yacht skipper",
+    "skipper of the boat"
+   ]
+  },
+  "mnemonic": "الـ 'Skipper' هو اللي بيخلي السفينة تعمل 'Skip' للأمواج ويقودها بمهارة.",
+  "phonetic_us": "ˈskɪpɚ",
+  "phonetic_uk": "ˈskɪpə",
+  "syllables": "skip•per",
+  "semantic_tags": [
+   "Captain",
+   "Boat",
+   "Leader"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The captain of a ship, boat, or sports team.",
+  "explanation_ar": "القبطان اللي بيسوق السفينة، أو قائد الفريق الرياضي.",
+  "examples": [
+   "The experienced skipper navigated through the narrow channel.",
+   "The skipper told the crew to prepare for the storm.",
+   "As the team's skipper, he bore the responsibility for the defeat."
+  ],
+  "translations": {
+   "arabic_ar": "ربان قبطان قائد فريق"
+  },
+  "synonyms": [
+   "captain",
+   "commander",
+   "master",
+   "leader"
+  ],
+  "antonyms": [
+   "crew",
+   "follower"
+  ],
+  "collocations": [
+   "team skipper",
+   "yacht skipper",
+   "skipper of the boat"
+  ],
+  "mnemonic_ar": "الـ 'Skipper' هو اللي بيخلي السفينة تعمل 'Skip' للأمواج ويقودها بمهارة."
+ }
+}

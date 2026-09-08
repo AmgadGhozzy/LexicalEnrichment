@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "pope",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "pope",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The head of the Roman Catholic Church.",
+  "explanation_ar": "رئيس الكنيسة الكاثوليكية، وبيكون مقره في الفاتيكان.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The head of the Roman Catholic Church.",
+    "definition_ar": "رئيس الكنيسة الكاثوليكية وأسقف روما.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The cardinals gathered in Rome to elect a new pope.",
+   "Many people gathered in the square hoping to see the pope.",
+   "The election of a new pope was announced to the crowd."
+  ],
+  "translations": [
+   "البابا"
+  ],
+  "relations": {
+   "synonyms": [
+    "pontiff",
+    "Holy Father"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "elect a pope",
+    "the pope",
+    "Pope Francis"
+   ],
+   "related_words": {
+    "ar": [
+     "بابا",
+     "فاتيكان",
+     "كنيسة"
+    ],
+    "en": [
+     "vatican",
+     "catholic",
+     "bishop"
+    ]
+   },
+   "word_family": {
+    "noun": "pope",
+    "adj": "papal"
+   }
+  },
+  "mnemonic": "الـ 'Pope' هو 'بابا' الفاتيكان.. الكلمتين شبه بعض جداً.",
+  "phonetic_us": "poʊp",
+  "phonetic_uk": "pəʊp",
+  "syllables": [
+   "pope"
+  ],
+  "semantic_tags": [
+   "#Religion",
+   "#Catholic",
+   "#Leader",
+   "#Church"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The head of the Roman Catholic Church.",
+  "explanation_ar": "رئيس الكنيسة الكاثوليكية، وبيكون مقره في الفاتيكان.",
+  "examples": [
+   "The cardinals gathered in Rome to elect a new pope.",
+   "Many people gathered in the square hoping to see the pope.",
+   "The election of a new pope was announced to the crowd."
+  ],
+  "translations": {
+   "arabic_ar": "البابا"
+  },
+  "synonyms": [
+   "pontiff",
+   "Holy Father"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "elect a pope",
+   "the pope",
+   "Pope Francis"
+  ],
+  "mnemonic_ar": "الـ 'Pope' هو 'بابا' الفاتيكان.. الكلمتين شبه بعض جداً."
+ }
+}

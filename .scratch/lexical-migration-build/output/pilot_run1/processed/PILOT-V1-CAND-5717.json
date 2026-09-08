@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-5717",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-5717",
+  "lemma": "hairy",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 5717,
+  "lemma": "hairy",
+  "pos": "adj",
+  "cefr_level": "B1",
+  "difficulty_score": "3",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "hɛri",
+  "phonetic_uk": "heəri",
+  "phonetic_ar": "هيري",
+  "definition_en": "Covered with a lot of fine strands growing from the skin.",
+  "explanation_ar": "صفة تعني كثير الشعر أو مغطى بالشعر سواء للإنسان أو الحيوان أو حتى النباتات.",
+  "examples": [
+   {
+    "example_text": "He rolled up his sleeves to reveal his hairy arms.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The caterpillar has a soft and hairy body.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "Driving on the icy mountain road was a hairy experience.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"hair\" بمعنى شعر مع إضافة حرف الياء لتصبح \"hairy\" أي كثير الشعر",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Having or covered with a lot of hair.",
+    "short_def_en": "covered with hair",
+    "definition_ar": "كثير الشعر او مغطى بالشعر",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "body",
+     "appearance",
+     "animals"
+    ],
+    "usage_note": "Used commonly to describe skin, animals, or leaves with fine fuzz.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "Frightening, dangerous, or difficult to deal with.",
+    "short_def_en": "risky or alarming",
+    "definition_ar": "محفوف بالمخاطر او مخيف",
+    "is_primary": false,
+    "register": "Informal",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "danger",
+     "difficulty",
+     "feelings"
+    ],
+    "usage_note": "Informal idiom common in conversational English, often describing scary situations or close calls.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "hairy legs",
+   "hairy chest",
+   "hairy arms",
+   "hairy monster",
+   "hairy situation"
+  ],
+  "synonyms": [
+   "furry",
+   "bushy",
+   "shaggy",
+   "hirsute"
+  ],
+  "antonyms": [
+   "hairless",
+   "bald",
+   "smooth"
+  ],
+  "related_words": {
+   "en": [
+    "hair",
+    "beard",
+    "fur",
+    "fuzzy"
+   ],
+   "ar": [
+    "شعر",
+    "لحية",
+    "فرو",
+    "زغبي"
+   ]
+  },
+  "word_family": {
+   "noun": "hairiness",
+   "verb": "",
+   "adj": "hairy",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مشعر / مكسو بالشعر",
+   "french_fr": "poilu",
+   "german_de": "behaart",
+   "spanish_es": "peludo",
+   "chinese_zh": "多毛的 (Duō máo de)",
+   "russian_ru": "волосатый",
+   "portuguese_pt": "peludo",
+   "japanese_ja": "毛深い (Kebukai)",
+   "italian_it": "peloso",
+   "turkish_tr": "kıllı"
+  }
+ },
+ "provenance": {
+  "output_hash": "c95f55ecc8926ade8e9c217cccf67da26db30af4e08bfb46fdd30f5fb382666c",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4517",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4517",
+  "lemma": "outlook",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4517,
+  "lemma": "outlook",
+  "pos": "noun",
+  "cefr_level": "C1",
+  "difficulty_score": "5",
+  "category": "Mind & Thinking",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈaʊtlʊk",
+  "phonetic_uk": null,
+  "phonetic_ar": "آوْتْلُوك",
+  "definition_en": "A person's general attitude toward life, or the likely future situation regarding something.",
+  "explanation_ar": "المنظور أو النظرة العامة لشخص تجاه الحياة والأمور، أو التوقعات والآفاق المستقبلية لوضع ما.",
+  "examples": [
+   {
+    "example_text": "Traveling abroad gave her a much more open and positive outlook on life.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Economists warned that the economic outlook for the next quarter remains uncertain.",
+    "intended_cefr": "C1"
+   },
+   {
+    "example_text": "Despite the severe difficulties, he maintained a remarkably calm outlook throughout the crisis.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تخيل انك تنظر للخارج عبر نافذة لترى الافق وما يخبئه المستقبل او لتحدد نظرتك لما حولك من الكلمتين \"out\" اي خارج و \"look\" اي نظرة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "The general attitude or perspective that someone has toward life, events, or experiences.",
+    "short_def_en": "attitude or perspective",
+    "definition_ar": "المنظور او التوجه الفكري والنفسي تجاه الحياة والامور",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Attribute",
+    "semantic_tags": [
+     "perspective",
+     "attitude",
+     "psychology",
+     "mindset"
+    ],
+    "usage_note": "Often used with prepositions 'on' or 'towards', as in 'outlook on life'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "The probable future conditions or prospects for an economy, industry, or situation.",
+    "short_def_en": "future prospects",
+    "definition_ar": "التوقعات او الافاق المستقبلية لامر ما",
+    "is_primary": false,
+    "register": "Neutral",
+    "primary_sense": "Condition",
+    "semantic_tags": [
+     "future",
+     "prospects",
+     "forecast",
+     "business"
+    ],
+    "usage_note": "Common in business, economics, and weather reports.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "positive outlook",
+   "gloomy outlook",
+   "economic outlook",
+   "future outlook",
+   "outlook on life"
+  ],
+  "synonyms": [
+   "perspective",
+   "viewpoint",
+   "prospect",
+   "attitude",
+   "forecast"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "attitude",
+    "mindset",
+    "viewpoint",
+    "expectation",
+    "forecast",
+    "prospect"
+   ],
+   "ar": [
+    "موقف",
+    "عقلية",
+    "وجهة نظر",
+    "توقع",
+    "تنبؤ",
+    "أفق"
+   ]
+  },
+  "word_family": {
+   "noun": "outlook",
+   "verb": "",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "منظور / وجهة نظر / توقعات مستقبلية",
+   "french_fr": "perspective",
+   "german_de": "Aussicht",
+   "spanish_es": "perspectiva",
+   "chinese_zh": "前景 (qiánjǐng) / 观点 (guāndiǎn)",
+   "russian_ru": "взгляд / перспектива",
+   "portuguese_pt": "perspectiva",
+   "japanese_ja": "見通し (Mitooshi) / 見解 (Kenkai)",
+   "italian_it": "prospettiva",
+   "turkish_tr": "bakış açısı / görünüm"
+  }
+ },
+ "provenance": {
+  "output_hash": "41187fdf193f882ef41b5b3ee0325ee34c0392ee293a30f96f9f2a96f71b9137",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

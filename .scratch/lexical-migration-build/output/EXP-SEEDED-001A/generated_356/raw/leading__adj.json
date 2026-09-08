@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "leading",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "leading",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Most important, successful, or advanced.",
+  "explanation_ar": "صفة بتوصف الشيء أو الشخص اللي في المقدمة، يعني الأهم أو الأنجح في مجاله.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Most important, prominent, or successful.",
+    "definition_ar": "الرئيسي، الأبرز، أو الأكثر نجاحاً وأهمية.",
+    "examples": [
+     "She played the leading role in the play.",
+     "Heart disease is a leading cause of death.",
+     "They are the leading experts in this field."
+    ]
+   }
+  ],
+  "examples": [
+   "She played the leading role in the play.",
+   "Heart disease is a leading cause of death.",
+   "They are the leading experts in this field."
+  ],
+  "translations": [
+   "رئيسي",
+   "رائد",
+   "بارز",
+   "متصدر"
+  ],
+  "relations": {
+   "synonyms": [
+    "main",
+    "chief",
+    "principal",
+    "top"
+   ],
+   "antonyms": [
+    "minor",
+    "secondary"
+   ],
+   "collocations": [
+    "leading role",
+    "leading cause",
+    "leading edge",
+    "leading expert"
+   ]
+  },
+  "mnemonic": "جاية من 'Lead' 'يقود'.. فالـ 'Leading' هو القائد أو المتصدر.",
+  "phonetic_us": "ˈliːdɪŋ",
+  "phonetic_uk": "ˈliːdɪŋ",
+  "syllables": "lead•ing",
+  "semantic_tags": [
+   "Success",
+   "Rank",
+   "Importance"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Most important, successful, or advanced.",
+  "explanation_ar": "صفة بتوصف الشيء أو الشخص اللي في المقدمة، يعني الأهم أو الأنجح في مجاله.",
+  "examples": [
+   "She played the leading role in the play.",
+   "Heart disease is a leading cause of death.",
+   "They are the leading experts in this field."
+  ],
+  "translations": {
+   "arabic_ar": "رئيسي رائد بارز متصدر"
+  },
+  "synonyms": [
+   "main",
+   "chief",
+   "principal",
+   "top"
+  ],
+  "antonyms": [
+   "minor",
+   "secondary"
+  ],
+  "collocations": [
+   "leading role",
+   "leading cause",
+   "leading edge",
+   "leading expert"
+  ],
+  "mnemonic_ar": "جاية من 'Lead' 'يقود'.. فالـ 'Leading' هو القائد أو المتصدر."
+ }
+}

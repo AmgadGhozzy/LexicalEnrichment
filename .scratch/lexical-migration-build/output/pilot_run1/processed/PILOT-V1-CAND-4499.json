@@ -1,0 +1,135 @@
+{
+ "candidate_id": "PILOT-V1-CAND-4499",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-4499",
+  "lemma": "flame",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 4499,
+  "lemma": "flame",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Nature & Science",
+  "ai_confidence": 0.98,
+  "phonetic_us": "fleɪm",
+  "phonetic_uk": null,
+  "phonetic_ar": "فْلَيم",
+  "definition_en": "A glowing body of hot, burning gas produced by something that is on fire.",
+  "explanation_ar": "اللسان المضيء والساخن من الغاز المحترق الناتج عن النار، وهو ما يعرف باللهب.",
+  "examples": [
+   {
+    "example_text": "A tiny candle flame flickered in the drafty corridor.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The dry grass caught fire, producing a sudden bright flame.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Firefighters worked through the night to keep the flame away from nearby homes.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"flame\" بربطها بكلمة فلامنغو وهو الطائر ذو اللون الناري الوردي او بكلمة الفلم الذي تشتعل احداثه مثل لهب النار.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A stream of burning, hot gas that produces light and heat during a fire.",
+    "short_def_en": "burning stream of gas",
+    "definition_ar": "لسان من الغاز المحترق ينبعث من النار وينتج الضوء والحرارة.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "fire",
+     "heat",
+     "light",
+     "combustion"
+    ],
+    "usage_note": "Can be countable referring to a single tongue of fire, or uncountable in phrases like 'in flames'.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "A strong, passionate feeling such as intense love or sudden anger.",
+    "short_def_en": "passionate emotion",
+    "definition_ar": "عاطفة جياشة وشديدة مثل الحب العميق او الغضب المشتعل.",
+    "is_primary": false,
+    "register": "Literary",
+    "primary_sense": "Emotion",
+    "semantic_tags": [
+     "emotion",
+     "passion",
+     "desire",
+     "metaphor"
+    ],
+    "usage_note": "Often used in metaphors like 'an old flame' meaning a former romantic partner.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "burst into flame",
+   "candle flame",
+   "naked flame",
+   "fan the flame"
+  ],
+  "synonyms": [
+   "blaze",
+   "fire",
+   "flare"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "smoke",
+    "spark",
+    "burn",
+    "ash",
+    "ember",
+    "heat"
+   ],
+   "ar": [
+    "دخان",
+    "شرارة",
+    "يحترق",
+    "رماد",
+    "جمرة",
+    "حرارة"
+   ]
+  },
+  "word_family": {
+   "noun": "flame",
+   "verb": "flame",
+   "adj": "flaming",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "لهب / شعلة",
+   "french_fr": "flamme",
+   "german_de": "Flamme",
+   "spanish_es": "llama",
+   "chinese_zh": "火焰 (Huǒyàn)",
+   "russian_ru": "пламя",
+   "portuguese_pt": "chama",
+   "japanese_ja": "炎 (Honō)",
+   "italian_it": "fiamma",
+   "turkish_tr": "alev"
+  }
+ },
+ "provenance": {
+  "output_hash": "ddde5096c4c37ad86fb741c426d10b3d3db2bfbfe68f7e2c38072affc661905f",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "natural",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "natural",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Existing in or caused by nature; not made or caused by humankind.",
+  "explanation_ar": "حاجة طبيعية، موجودة في الطبيعة ومش من صنع الإنسان.",
+  "senses": [
+   {
+    "definition_en": "Existing in or caused by nature; not made or caused by humankind.",
+    "explanation_ar": "موجود في الطبيعة وليس من صنع الإنسان.",
+    "examples": [
+     "It is a natural lake.",
+     "We use only natural ingredients."
+    ]
+   },
+   {
+    "definition_en": "Normal, expected, or understandable.",
+    "explanation_ar": "أمر عادي، متوقع، أو بديهي.",
+    "examples": [
+     "It is natural to worry about your children."
+    ]
+   }
+  ],
+  "examples": [
+   "It is a natural lake.",
+   "We use only natural ingredients.",
+   "It is natural to worry about your children."
+  ],
+  "translations": [
+   "طبيعي",
+   "فطري"
+  ],
+  "relations": {
+   "synonyms": [
+    "organic",
+    "real",
+    "native",
+    "innate"
+   ],
+   "antonyms": [
+    "artificial",
+    "synthetic",
+    "unnatural"
+   ],
+   "collocations": [
+    "natural resources",
+    "natural disaster",
+    "natural habitat",
+    "natural light"
+   ]
+  },
+  "mnemonic": "خليك 'Natural' 'طبيعي' زي الـ 'Nature' 'الطبيعة'.",
+  "phonetic_us": "ˈnætʃ.ɚ.əl",
+  "phonetic_uk": "ˈnætʃ.ər.əl",
+  "syllables": "nat•u•ral",
+  "semantic_tags": [
+   "nature",
+   "real",
+   "organic",
+   "earth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Existing in or caused by nature; not made or caused by humankind.",
+  "explanation_ar": "حاجة طبيعية، موجودة في الطبيعة ومش من صنع الإنسان.",
+  "examples": [
+   "It is a natural lake.",
+   "We use only natural ingredients.",
+   "It is natural to worry about your children."
+  ],
+  "translations": {
+   "arabic_ar": "طبيعي فطري"
+  },
+  "synonyms": [
+   "organic",
+   "real",
+   "native",
+   "innate"
+  ],
+  "antonyms": [
+   "artificial",
+   "synthetic",
+   "unnatural"
+  ],
+  "collocations": [
+   "natural resources",
+   "natural disaster",
+   "natural habitat",
+   "natural light"
+  ],
+  "mnemonic_ar": "خليك 'Natural' 'طبيعي' زي الـ 'Nature' 'الطبيعة'."
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2702",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2702",
+  "lemma": "ignore",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2702,
+  "lemma": "ignore",
+  "pos": "verb",
+  "cefr_level": "B1",
+  "difficulty_score": "4",
+  "category": "Actions & Processes",
+  "ai_confidence": 0.98,
+  "phonetic_us": "ɪɡˈnɔːr",
+  "phonetic_uk": "ɪɡˈnɔː",
+  "phonetic_ar": "إِغْنور",
+  "definition_en": "To pay no attention to someone or something intentionally.",
+  "explanation_ar": "أن تتجاهل شخصا أو شيئا عن قصد ولا تعيره أي انتباه أو اهتمام.",
+  "examples": [
+   {
+    "example_text": "I tried to tell him the news, but he chose to ignore me.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "You cannot simply ignore the safety rules in this workshop.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "Drivers should never ignore road warning signs.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تذكر ان كلمة \"ignore\" تشترك مع \"ignorant\" اي جاهل، فالذي يختار ان \"ignore\" يتصرف وكانه لا يعلم شيئا عن الامر عمدا.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "To pay no attention to someone or something intentionally.",
+    "short_def_en": "pay no attention to",
+    "definition_ar": "يتجاهل عن قصد ولا يلقي بالا لشخص او شيء",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "attention",
+     "behavior",
+     "communication"
+    ],
+    "usage_note": "Often implies a deliberate choice not to listen, look, or react.",
+    "mnemonic_ar": null
+   },
+   {
+    "sense_no": 2,
+    "definition_en": "To reject or dismiss a legal charge or formal document due to lack of evidence.",
+    "short_def_en": "dismiss a legal charge",
+    "definition_ar": "يرفض دعوى او لائحة اتهام لعدم كفاية الادلة",
+    "is_primary": false,
+    "register": "Technical",
+    "primary_sense": "Action",
+    "semantic_tags": [
+     "law",
+     "court",
+     "procedure"
+    ],
+    "usage_note": "Specific historical and legal context, especially regarding a grand jury dismissing a bill of indictment.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "ignore advice",
+   "ignore a warning",
+   "completely ignore",
+   "ignore symptoms",
+   "choose to ignore"
+  ],
+  "synonyms": [
+   "disregard",
+   "overlook",
+   "neglect",
+   "brush aside"
+  ],
+  "antonyms": [
+   "heed",
+   "notice",
+   "acknowledge"
+  ],
+  "related_words": {
+   "en": [
+    "attention",
+    "unnoticed",
+    "snub",
+    "blind eye",
+    "distraction"
+   ],
+   "ar": [
+    "انتباه",
+    "غير ملحوظ",
+    "ازدراء",
+    "تغاضي",
+    "تشتيت"
+   ]
+  },
+  "word_family": {
+   "noun": "ignorance",
+   "verb": "ignore",
+   "adj": "ignorant",
+   "adv": "ignorantly"
+  },
+  "translations": {
+   "arabic_ar": "يتجاهل / يهمل",
+   "french_fr": "ignorer",
+   "german_de": "ignorieren",
+   "spanish_es": "ignorar",
+   "chinese_zh": "忽视 (hūshì)",
+   "russian_ru": "игнорировать",
+   "portuguese_pt": "ignorar",
+   "japanese_ja": "無視する (Mushi suru)",
+   "italian_it": "ignorare",
+   "turkish_tr": "görmezden gelmek"
+  }
+ },
+ "provenance": {
+  "output_hash": "b18af218d6b11bf7d2f8247e14adeef15e2642782a0023f3f8cbc80275e74328",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

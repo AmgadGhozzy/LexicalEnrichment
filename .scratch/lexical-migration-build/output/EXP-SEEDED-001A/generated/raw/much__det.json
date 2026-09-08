@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "cefr": "A1",
+  "lemma": "much",
+  "pos": "det"
+ },
+ "candidate": {
+  "lemma": "much",
+  "pos": "det",
+  "cefr": "A1",
+  "definition_en": "A large amount of (used before uncountable nouns).",
+  "explanation_ar": "كتير.. بتيجي قبل الاسم عشان توصف كميته.",
+  "senses": [
+   {
+    "definition_en": "A large amount of (used before uncountable nouns).",
+    "explanation_ar": "كمية كبيرة من شيء غير معدود.",
+    "examples": [
+     "I don't have much hope.",
+     "There isn't much difference.",
+     "He caused much trouble."
+    ]
+   }
+  ],
+  "examples": [
+   "I don't have much hope.",
+   "There isn't much difference.",
+   "He caused much trouble."
+  ],
+  "translations": [
+   "كثير"
+  ],
+  "relations": {
+   "synonyms": [
+    "a lot of"
+   ],
+   "antonyms": [
+    "little"
+   ],
+   "collocations": [
+    "much time",
+    "much effort",
+    "much money"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "mʌtʃ",
+  "phonetic_uk": "mʌtʃ",
+  "syllables": [
+   "much"
+  ],
+  "semantic_tags": [
+   "#Determiner",
+   "#Quantity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large amount of (used before uncountable nouns).",
+  "explanation_ar": "كتير.. بتيجي قبل الاسم عشان توصف كميته.",
+  "examples": [
+   "I don't have much hope.",
+   "There isn't much difference.",
+   "He caused much trouble."
+  ],
+  "translations": {
+   "arabic_ar": "كثير"
+  },
+  "synonyms": [
+   "a lot of"
+  ],
+  "antonyms": [
+   "little"
+  ],
+  "collocations": [
+   "much time",
+   "much effort",
+   "much money"
+  ],
+  "mnemonic_ar": null
+ }
+}

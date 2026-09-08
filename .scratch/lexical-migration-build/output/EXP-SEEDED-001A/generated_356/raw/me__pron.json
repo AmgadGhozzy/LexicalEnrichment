@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "me",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "me",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+  "explanation_ar": "ضمير المتكلم لما يكون مفعول به، زي الياء في 'كلمني' أو 'ساعدني'.",
+  "senses": [
+   {
+    "sense_id": "me_1",
+    "definition_en": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+    "explanation_ar": "ضمير المتكلم للمفعول به بعد الفعل أو حرف الجر.",
+    "examples": [
+     "Look at me.",
+     "Give it to me.",
+     "He told me the truth."
+    ]
+   }
+  ],
+  "examples": [
+   "Look at me.",
+   "Give it to me.",
+   "He told me the truth."
+  ],
+  "translations": [
+   "أنا",
+   "ـني",
+   "لي"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "tell me",
+    "help me",
+    "excuse me"
+   ]
+  },
+  "mnemonic": "كلمة 'Me' شبه 'مِي'.. مين؟ أنا!",
+  "phonetic_us": "miː",
+  "phonetic_uk": "miː",
+  "syllables": "me",
+  "semantic_tags": [
+   "#Pronoun",
+   "#Self",
+   "#Object"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+  "explanation_ar": "ضمير المتكلم لما يكون مفعول به، زي الياء في 'كلمني' أو 'ساعدني'.",
+  "examples": [
+   "Look at me.",
+   "Give it to me.",
+   "He told me the truth."
+  ],
+  "translations": {
+   "arabic_ar": "أنا ـني لي"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "tell me",
+   "help me",
+   "excuse me"
+  ],
+  "mnemonic_ar": "كلمة 'Me' شبه 'مِي'.. مين؟ أنا!"
+ }
+}

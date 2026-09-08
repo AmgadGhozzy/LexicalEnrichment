@@ -1,0 +1,120 @@
+{
+ "candidate_id": "PILOT-V1-CAND-6369",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-6369",
+  "lemma": "curly",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 6369,
+  "lemma": "curly",
+  "pos": "adj",
+  "cefr_level": "A2",
+  "difficulty_score": "2",
+  "category": "Health & Senses",
+  "ai_confidence": 0.95,
+  "phonetic_us": "ˈkɜːrli",
+  "phonetic_uk": "ˈkɜːli",
+  "phonetic_ar": "كِيرلِي",
+  "definition_en": "Formed into curves, rings, or spirals rather than being straight.",
+  "explanation_ar": "يصف الشيء الملتوي أو المتموج في انحناءات وحلقات بدلا من أن يكون مستقيما، وغالبا ما يستخدم لوصف الشعر.",
+  "examples": [
+   {
+    "example_text": "She has naturally curly hair that is hard to brush.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The little girl wore a ribbon in her curly hair.",
+    "intended_cefr": "A2"
+   },
+   {
+    "example_text": "The pig had a short, curly tail.",
+    "intended_cefr": "B1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"curl\" التي تعني يلتف أو يتجعد، فإذا أضفت لها حرف الواي تصبح الصفة التي تصف الشيء الملتف مثل الشعر المجعد.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Formed into curves, rings, or spirals rather than being straight.",
+    "short_def_en": "having curls or curves",
+    "definition_ar": "مجعد أو متموج ملتف في حلقات وانحناءات.",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Quality",
+    "semantic_tags": [
+     "appearance",
+     "hair",
+     "shape"
+    ],
+    "usage_note": "Most frequently used to describe human hair or animal fur.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "curly hair",
+   "curly locks",
+   "naturally curly",
+   "curly tail",
+   "short curly"
+  ],
+  "synonyms": [
+   "wavy",
+   "frizzy",
+   "curled",
+   "coiled",
+   "spiraled"
+  ],
+  "antonyms": [
+   "straight"
+  ],
+  "related_words": {
+   "en": [
+    "curl",
+    "curler",
+    "ringlet",
+    "wave",
+    "hair"
+   ],
+   "ar": [
+    "خصلة مجعدة",
+    "مكواة تجعيد الشعر",
+    "خصلة لولبية",
+    "تموج",
+    "شعر"
+   ]
+  },
+  "word_family": {
+   "noun": "curl",
+   "verb": "curl",
+   "adj": "curly",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "مجعد / متموج",
+   "french_fr": "bouclé",
+   "german_de": "lockig",
+   "spanish_es": "rizado",
+   "chinese_zh": "卷曲的 (Juǎnqū de)",
+   "russian_ru": "кудрявый",
+   "portuguese_pt": "cacheado",
+   "japanese_ja": "巻き毛の (Makige no)",
+   "italian_it": "riccio",
+   "turkish_tr": "kıvırcık"
+  }
+ },
+ "provenance": {
+  "output_hash": "57037530696a870211dc9a6153b40cdae74ce8b62c0358ce08b6d12eca55ffcb",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "target": "/home/aamgadghozzy/projects/LexicalEnrichment/.scratch/lexical-migration-build/output/migration_readiness/dryrun/wordsMaster_dryrun_20260908T231801Z.db",
+ "pre_logical_sha256": "56a5a095502bffae53548b50b0e8bc6bb31965e96c61fa489e85392178981f02",
+ "post_logical_sha256": "8d5510005b5d6bd837e5a3a71a4179cc0c07a1e440adf3c1d84af3c4ed5c508d",
+ "expected_promote_cells": 1384,
+ "applied_promote_cells": 1384,
+ "audit_rows": 1384,
+ "manifest": "a053dba7aa0a4e4aa65526955f76c2db1fe83f9957448ac7329d422886b13fa4",
+ "dry_run": true,
+ "rolled_back_cells": 1384,
+ "post_rollback_logical_sha256": "56a5a095502bffae53548b50b0e8bc6bb31965e96c61fa489e85392178981f02",
+ "rollback_restores_state": true
+}

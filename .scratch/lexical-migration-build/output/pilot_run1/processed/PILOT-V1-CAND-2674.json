@@ -1,0 +1,123 @@
+{
+ "candidate_id": "PILOT-V1-CAND-2674",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-2674",
+  "lemma": "vast",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 2674,
+  "lemma": "vast",
+  "pos": "adj",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Numbers, Time & Math",
+  "ai_confidence": 0.95,
+  "phonetic_us": "væst",
+  "phonetic_uk": "vɑːst",
+  "phonetic_ar": "فَاسْت",
+  "definition_en": "Extremely big in size, area, amount, or degree.",
+  "explanation_ar": "صفة تصف شيئا هائلا أو شاسع المساحة أو عظيم الحجم والكمية، مثل الصحراء الواسعة أو الفروق الضخمة.",
+  "examples": [
+   {
+    "example_text": "The Sahara is a vast desert covering much of North Africa.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The vast majority of employees supported the proposed schedule changes.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Space exploration reveals a vast universe beyond our current comprehension.",
+    "intended_cefr": "C1"
+   }
+  ],
+  "mnemonic_ar": "تذكر كلمة \"vast\" بتخيل سفينة ضخمة تبحر في بحر واسع مثل سفينة \"fast\" سريعة تعبر محيطا لا نهاية له.",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "Extremely big in size, area, amount, or degree.",
+    "short_def_en": "immense or huge",
+    "definition_ar": "شاسع المساحة أو هائل الحجم والكمية",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Measure",
+    "semantic_tags": [
+     "size",
+     "scale",
+     "quantity",
+     "dimensions"
+    ],
+    "usage_note": "Frequently collocates with words like 'majority', 'amount', 'area', and 'distance'.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "vast majority",
+   "vast area",
+   "vast amount",
+   "vast expanse",
+   "vast difference"
+  ],
+  "synonyms": [
+   "immense",
+   "enormous",
+   "huge",
+   "massive",
+   "colossal"
+  ],
+  "antonyms": [
+   "tiny",
+   "narrow",
+   "limited"
+  ],
+  "related_words": {
+   "en": [
+    "immense",
+    "boundless",
+    "expanse",
+    "endless",
+    "broad"
+   ],
+   "ar": [
+    "هائل",
+    "بلا حدود",
+    "امتداد",
+    "لا نهائي",
+    "عريض"
+   ]
+  },
+  "word_family": {
+   "noun": "vastness",
+   "verb": "",
+   "adj": "vast",
+   "adv": "vastly"
+  },
+  "translations": {
+   "arabic_ar": "شاسع / هائل",
+   "french_fr": "vaste",
+   "german_de": "gewaltig",
+   "spanish_es": "vasto",
+   "chinese_zh": "巨大的 (Jùdà de)",
+   "russian_ru": "огромный",
+   "portuguese_pt": "vasto",
+   "japanese_ja": "広大な (Kōdai na)",
+   "italian_it": "vasto",
+   "turkish_tr": "geniş"
+  }
+ },
+ "provenance": {
+  "output_hash": "7adfd47e2120eac12c2d71c81aa95d987443228f083cf0a0d4663d3c8af9680b",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

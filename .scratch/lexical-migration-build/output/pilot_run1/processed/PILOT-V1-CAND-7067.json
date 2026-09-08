@@ -1,0 +1,114 @@
+{
+ "candidate_id": "PILOT-V1-CAND-7067",
+ "experiment_id": "PILOT-V1",
+ "lexical_entry": {
+  "lexical_id": "PILOT-V1-CAND-7067",
+  "lemma": "leaflet",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "runtime": {
+  "status": "success"
+ },
+ "output": {
+  "id": 7067,
+  "lemma": "leaflet",
+  "pos": "noun",
+  "cefr_level": "B2",
+  "difficulty_score": "4",
+  "category": "Social Life & Communication",
+  "ai_confidence": 0.95,
+  "phonetic_us": "liːflət",
+  "phonetic_uk": null,
+  "phonetic_ar": "لِيفْلِت",
+  "definition_en": "A printed sheet of paper containing information or advertising, usually distributed free.",
+  "explanation_ar": "ورقة مطبوعة أو مطوية صغيرة تحتوي على معلومات أو إعلانات وتوزع مجانا على الناس في الشوارع أو توضع في صناديق البريد.",
+  "examples": [
+   {
+    "example_text": "A volunteer handed me an informative leaflet about healthy eating.",
+    "intended_cefr": "B1"
+   },
+   {
+    "example_text": "The local council produced a leaflet explaining the new recycling rules.",
+    "intended_cefr": "B2"
+   },
+   {
+    "example_text": "Check the enclosed leaflet for details on how to assemble the furniture.",
+    "intended_cefr": "B2"
+   }
+  ],
+  "mnemonic_ar": "تخيل كلمة leaf اي ورقة شجر واضيف لها تصغير let لتصبح ورقة صغيرة مطبوعة تطير بين ايدي الناس كالورقة الخفيفة",
+  "senses": [
+   {
+    "sense_no": 1,
+    "definition_en": "A printed sheet of paper containing information or advertising, usually distributed free.",
+    "short_def_en": "printed informational flyer",
+    "definition_ar": "نشرة اعلانية او تعريفية ورقية توزع بالمجان لنشر معلومات او ترويج لشيء ما",
+    "is_primary": true,
+    "register": "Neutral",
+    "primary_sense": "Object",
+    "semantic_tags": [
+     "advertising",
+     "print media",
+     "communication"
+    ],
+    "usage_note": "Often synonymous with flyer or pamphlet, but typically implies a folded single sheet or small printed notice.",
+    "mnemonic_ar": null
+   }
+  ],
+  "collocations": [
+   "distribute a leaflet",
+   "hand out a leaflet",
+   "information leaflet",
+   "campaign leaflet"
+  ],
+  "synonyms": [
+   "flyer",
+   "pamphlet",
+   "brochure",
+   "handbill"
+  ],
+  "antonyms": [],
+  "related_words": {
+   "en": [
+    "booklet",
+    "advertisement",
+    "printout",
+    "circular"
+   ],
+   "ar": [
+    "كتيب",
+    "إعلان",
+    "مطبوعة",
+    "منشور دوري"
+   ]
+  },
+  "word_family": {
+   "noun": "leaflet",
+   "verb": "leaflet",
+   "adj": "",
+   "adv": ""
+  },
+  "translations": {
+   "arabic_ar": "منشور إعلاني / مطوية",
+   "french_fr": "dépliant",
+   "german_de": "Faltblatt",
+   "spanish_es": "folleto",
+   "chinese_zh": "传单 (Chuándān)",
+   "russian_ru": "листовка",
+   "portuguese_pt": "folheto",
+   "japanese_ja": "チラシ (Chirashi)",
+   "italian_it": "volantino",
+   "turkish_tr": "broşür"
+  }
+ },
+ "provenance": {
+  "output_hash": "b1f34a5b448c9b276ba08b74ec25d3b34cc30eb14534241548df746afb00938e",
+  "golden_set_hash": null,
+  "schema_version": "v1.1-candidate",
+  "pilot_manifest_id": "pilot_manifest_v1",
+  "pilot_manifest_hash": "f76443bac76a9883db9590a897d1036ef8326922e7016c2f4f458fccda4be6dc",
+  "cefr_input_role": "evidence_label_only",
+  "batch_job_id": "projects/491799276439/locations/global/batchPredictionJobs/3053884887493771264"
+ }
+}

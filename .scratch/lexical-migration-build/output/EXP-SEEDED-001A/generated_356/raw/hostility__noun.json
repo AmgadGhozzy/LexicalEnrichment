@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "hostility",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "hostility",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Unfriendly or aggressive behavior or opposition.",
+  "explanation_ar": "العداء أو الخصومة، لما حد يكون بيعامل حد تاني بطريقة وحشة وعدوانية.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "Unfriendly or aggressive behavior or opposition.",
+    "explanation_ar": "مشاعر العداء أو الخصومة والسلوك العدواني تجاه شخص أو جهة ما."
+   }
+  ],
+  "examples": [
+   "She looked at him with hostility.",
+   "There is growing public hostility towards the new tax law.",
+   "The meeting was marred by open hostility between the two leaders."
+  ],
+  "translations": [
+   "عداء",
+   "خصومة"
+  ],
+  "relations": {
+   "synonyms": [
+    "enmity",
+    "animosity",
+    "antagonism",
+    "aggression"
+   ],
+   "antonyms": [
+    "friendliness",
+    "goodwill",
+    "hospitality"
+   ],
+   "collocations": [
+    "open hostility",
+    "public hostility",
+    "feel hostility",
+    "arouse hostility"
+   ],
+   "word_family": {
+    "noun": "hostility",
+    "adjective": "hostile",
+    "adverb": "hostilely"
+   }
+  },
+  "mnemonic": "عكس كلمة 'Hospitality' 'كرم الضيافة'.. الـ 'Hostility' هي سوء المعاملة والعداء.",
+  "phonetic_us": "hɑːˈstɪl.ə.t̬i",
+  "phonetic_uk": "hɒˈstɪl.ə.ti",
+  "syllables": "hos•til•i•ty",
+  "semantic_tags": [
+   "conflict",
+   "anger",
+   "war",
+   "opposition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Unfriendly or aggressive behavior or opposition.",
+  "explanation_ar": "العداء أو الخصومة، لما حد يكون بيعامل حد تاني بطريقة وحشة وعدوانية.",
+  "examples": [
+   "She looked at him with hostility.",
+   "There is growing public hostility towards the new tax law.",
+   "The meeting was marred by open hostility between the two leaders."
+  ],
+  "translations": {
+   "arabic_ar": "عداء خصومة"
+  },
+  "synonyms": [
+   "enmity",
+   "animosity",
+   "antagonism",
+   "aggression"
+  ],
+  "antonyms": [
+   "friendliness",
+   "goodwill",
+   "hospitality"
+  ],
+  "collocations": [
+   "open hostility",
+   "public hostility",
+   "feel hostility",
+   "arouse hostility"
+  ],
+  "mnemonic_ar": "عكس كلمة 'Hospitality' 'كرم الضيافة'.. الـ 'Hostility' هي سوء المعاملة والعداء."
+ }
+}

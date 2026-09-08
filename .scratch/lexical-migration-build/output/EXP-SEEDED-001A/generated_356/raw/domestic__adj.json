@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "domestic",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "domestic",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to the running of a home, family, or one's own country.",
+  "explanation_ar": "حاجة ليها علاقة بالبيت والعيلة، أو حاجة محلية جوه البلد مش أجنبية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Relating to the home, household affairs, or family life.",
+    "definition_ar": "متعلق بالمنزل أو الحياة الأسرية والواجبات المنزلية.",
+    "pos": "adj"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Relating to or occurring within a particular country; not foreign or international.",
+    "definition_ar": "متعلق بالشؤون الداخلية لبلد معين؛ محلي وغير أجنبي.",
+    "pos": "adj"
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "Tame and kept by humans as a pet or farm animal.",
+    "definition_ar": "أليف (يعيش مع الإنسان في المنزل أو المزرعة).",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The government focuses on domestic issues.",
+   "Cats are domestic animals.",
+   "I don't like domestic work like cleaning."
+  ],
+  "translations": [
+   "محلي",
+   "منزلي",
+   "داخلي",
+   "أليف"
+  ],
+  "relations": {
+   "synonyms": [
+    "household",
+    "internal",
+    "national",
+    "home"
+   ],
+   "antonyms": [
+    "foreign",
+    "international",
+    "wild"
+   ],
+   "collocations": [
+    "domestic violence",
+    "domestic flight",
+    "domestic market",
+    "domestic chores"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Dome' يعني قبة.. الـ 'Domestic' هو اللي بيحصل تحت قبة البيت أو قبة البلد",
+  "phonetic_us": "dəˈmɛstɪk",
+  "phonetic_uk": "dəˈmestɪk",
+  "syllables": "do•mes•tic",
+  "semantic_tags": [
+   "#Home",
+   "#National",
+   "#Family"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to the running of a home, family, or one's own country.",
+  "explanation_ar": "حاجة ليها علاقة بالبيت والعيلة، أو حاجة محلية جوه البلد مش أجنبية.",
+  "examples": [
+   "The government focuses on domestic issues.",
+   "Cats are domestic animals.",
+   "I don't like domestic work like cleaning."
+  ],
+  "translations": {
+   "arabic_ar": "محلي منزلي داخلي أليف"
+  },
+  "synonyms": [
+   "household",
+   "internal",
+   "national",
+   "home"
+  ],
+  "antonyms": [
+   "foreign",
+   "international",
+   "wild"
+  ],
+  "collocations": [
+   "domestic violence",
+   "domestic flight",
+   "domestic market",
+   "domestic chores"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Dome' يعني قبة.. الـ 'Domestic' هو اللي بيحصل تحت قبة البيت أو قبة البلد"
+ }
+}

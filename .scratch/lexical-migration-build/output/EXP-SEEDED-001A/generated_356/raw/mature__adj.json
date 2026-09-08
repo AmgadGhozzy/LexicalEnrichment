@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "mature",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "mature",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Fully grown or physically developed; behaving in a sensible and responsible way like an adult.",
+  "explanation_ar": "ناضج، سواء كان نضجاً جسدياً ومكتملاً، أو عقلياً بالتصرف برزانة ومسؤولية كالكبار.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Behaving in a sensible, balanced, and adult manner.",
+    "definition_ar": "عاقل ورزين في تفكيره وسلوكه."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Fully grown or fully developed physically.",
+    "definition_ar": "مكتمل النمو جسدياً أو حيوياً."
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "Based on careful, deep, and prolonged thought or established through long development.",
+    "definition_ar": "مدروس بعناية ومكتمل التطور (مثل قرار مدروس أو سوق مستقر)."
+   }
+  ],
+  "examples": [
+   "She is remarkably mature for her age and handles difficult challenges calmly.",
+   "We need to have a mature discussion to resolve our differences.",
+   "Upon mature reflection, I decided to decline the tempting job offer."
+  ],
+  "translations": [
+   "ناضج",
+   "راشد",
+   "مكتمل النمو"
+  ],
+  "relations": {
+   "synonyms": [
+    "adult",
+    "grown-up",
+    "sensible",
+    "ripe",
+    "developed"
+   ],
+   "antonyms": [
+    "immature",
+    "childish"
+   ],
+   "collocations": [
+    "mature reflection",
+    "mature attitude",
+    "mature market",
+    "mature for one's age"
+   ]
+  },
+  "mnemonic": "عكس كلمة Amateur (هاوي).. فالشخص الـ Mature هو الناضج والخبير.",
+  "phonetic_us": "məˈtʃʊr",
+  "phonetic_uk": "məˈtʃʊə",
+  "syllables": "ma•ture",
+  "semantic_tags": [
+   "#Age",
+   "#Growth",
+   "#Personality"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Fully grown or physically developed; behaving in a sensible and responsible way like an adult.",
+  "explanation_ar": "ناضج، سواء كان نضجاً جسدياً ومكتملاً، أو عقلياً بالتصرف برزانة ومسؤولية كالكبار.",
+  "examples": [
+   "She is remarkably mature for her age and handles difficult challenges calmly.",
+   "We need to have a mature discussion to resolve our differences.",
+   "Upon mature reflection, I decided to decline the tempting job offer."
+  ],
+  "translations": {
+   "arabic_ar": "ناضج راشد مكتمل النمو"
+  },
+  "synonyms": [
+   "adult",
+   "grown-up",
+   "sensible",
+   "ripe",
+   "developed"
+  ],
+  "antonyms": [
+   "immature",
+   "childish"
+  ],
+  "collocations": [
+   "mature reflection",
+   "mature attitude",
+   "mature market",
+   "mature for one's age"
+  ],
+  "mnemonic_ar": "عكس كلمة Amateur (هاوي).. فالشخص الـ Mature هو الناضج والخبير."
+ }
+}

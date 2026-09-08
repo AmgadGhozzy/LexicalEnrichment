@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "whisper",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "whisper",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To speak very softly using one's breath without one's vocal cords.",
+  "explanation_ar": "إنك تتكلم بصوت واطي جداً 'تهس' عشان محدش يسمعك.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To speak very softly using one's breath without one's vocal cords.",
+    "definition_ar": "أن يتكلم بصوت خافت جداً بحيث لا يكاد يُسمع.",
+    "examples": [
+     "Please whisper in the library.",
+     "You can whisper your secret to me.",
+     "They had to whisper so no one would overhear them."
+    ]
+   }
+  ],
+  "examples": [
+   "Please whisper in the library.",
+   "You can whisper your secret to me.",
+   "They had to whisper so no one would overhear them."
+  ],
+  "translations": [
+   "يهمس"
+  ],
+  "relations": {
+   "synonyms": [
+    "murmur",
+    "mutter"
+   ],
+   "antonyms": [
+    "shout",
+    "scream"
+   ],
+   "collocations": [
+    "whisper softly",
+    "whisper in ear",
+    "whisper words"
+   ]
+  },
+  "mnemonic": "زي ما بنقول بالمصري 'وسوسة'.. 'Whisper' قريبة في النطق والمعنى 'كلام واطي'.",
+  "phonetic_us": "ˈwɪspɚ",
+  "phonetic_uk": "ˈwɪspə",
+  "syllables": "whis•per",
+  "semantic_tags": [
+   "#Speaking",
+   "#Quiet",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To speak very softly using one's breath without one's vocal cords.",
+  "explanation_ar": "إنك تتكلم بصوت واطي جداً 'تهس' عشان محدش يسمعك.",
+  "examples": [
+   "Please whisper in the library.",
+   "You can whisper your secret to me.",
+   "They had to whisper so no one would overhear them."
+  ],
+  "translations": {
+   "arabic_ar": "يهمس"
+  },
+  "synonyms": [
+   "murmur",
+   "mutter"
+  ],
+  "antonyms": [
+   "shout",
+   "scream"
+  ],
+  "collocations": [
+   "whisper softly",
+   "whisper in ear",
+   "whisper words"
+  ],
+  "mnemonic_ar": "زي ما بنقول بالمصري 'وسوسة'.. 'Whisper' قريبة في النطق والمعنى 'كلام واطي'."
+ }
+}
