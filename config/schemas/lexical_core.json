@@ -1,0 +1,178 @@
+{
+  "type": "object",
+  "properties": {
+    "words": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "lemma": {
+            "type": "string"
+          },
+          "pos": {
+            "type": "string"
+          },
+          "cefr_level": {
+            "type": "string"
+          },
+          "aiConfidence": {
+            "type": "number"
+          },
+          "difficulty_score": {
+            "type": "string",
+            "enum": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10"
+            ]
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "General / Common",
+              "Social Life & Communication",
+              "Work & Business",
+              "Actions & Processes",
+              "Objects & Tools",
+              "Mind & Thinking",
+              "Numbers, Time & Math",
+              "Food & Drink",
+              "Travel & Movement",
+              "Nature & Science",
+              "Feelings & Emotions",
+              "Health & Senses"
+            ]
+          },
+          "phonetic_us": {
+            "type": "string",
+            "description": "NO slashes"
+          },
+          "phonetic_uk": {
+            "type": "string",
+            "nullable": true,
+            "description": "British IPA, no slashes. Return null if identical to US. Null = same as US, not missing."
+          },
+          "phonetic_ar": {
+            "type": "string",
+            "description": "Half Tashkeel"
+          },
+          "senses": {
+            "type": "array",
+            "description": "Distinct lexical senses. Quality over quantity. Do NOT inflate with stylistic variations, grammatical splits, or rare/archaic meanings. Fewer accurate senses > many redundant ones.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "sense_no": {
+                  "type": "integer"
+                },
+                "definition_en": {
+                  "type": "string",
+                  "description": "Simple, learner-friendly explanation. Max 20 words. Use high-frequency vocabulary. Do not use the target word."
+                },
+                "short_def_en": {
+                  "type": "string",
+                  "description": "Core gloss, 2-6 words. A label, not an explanation. Do not truncate definition_en."
+                },
+                "definition_ar": {
+                  "type": "string",
+                  "description": "White Arabic (Dialect-friendly MSA), no tashkeel. Explain as a good teacher would: short, natural, low cognitive load. NOT encyclopedic or dry dictionary style."
+                },
+                "is_primary": {
+                  "type": "boolean"
+                },
+                "register": {
+                  "type": "string",
+                  "enum": [
+                    "Formal",
+                    "Neutral",
+                    "Informal",
+                    "Slang",
+                    "Technical",
+                    "Literary"
+                  ]
+                },
+                "usage_note": {
+                  "type": "string",
+                  "description": "Brief learner-relevant usage distinction (register, construction, confused pair). Do not repeat definition. Empty string if none."
+                },
+                "mnemonic_ar": {
+                  "type": "string",
+                  "nullable": true,
+                  "description": "Genuine memory retrieval hook, not translation or definition. Must add recall value through a strong sound, word-part, morphology, or vivid association. Never force a weak connection; use null when no useful hook exists. English words must use double quotes. No parentheses () or brackets []."
+                },
+                "semantic_tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "3-5 hashtags e.g. #Finance"
+                },
+                "primary_sense": {
+                  "type": "string",
+                  "enum": [
+                    "Action",
+                    "Process",
+                    "Movement",
+                    "State",
+                    "Condition",
+                    "Change",
+                    "Relation",
+                    "Time",
+                    "Event",
+                    "Quantity",
+                    "Measure",
+                    "Quality",
+                    "Attribute",
+                    "Emotion",
+                    "Concept",
+                    "Communication",
+                    "Object",
+                    "Tool",
+                    "Person",
+                    "Place"
+                  ]
+                }
+              },
+              "required": [
+                "sense_no",
+                "definition_en",
+                "short_def_en",
+                "definition_ar",
+                "is_primary",
+                "register",
+                "primary_sense",
+                "semantic_tags",
+                "mnemonic_ar"
+              ]
+            }
+          }
+        },
+        "required": [
+          "id",
+          "lemma",
+          "pos",
+          "cefr_level",
+          "aiConfidence",
+          "difficulty_score",
+          "category",
+          "phonetic_us",
+          "phonetic_ar",
+          "senses"
+        ]
+      }
+    }
+  },
+  "required": [
+    "words"
+  ]
+}
