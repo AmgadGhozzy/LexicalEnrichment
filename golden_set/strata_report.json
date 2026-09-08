@@ -1,0 +1,14 @@
+{
+  "CEFR_A1": 20,
+  "CEFR_A2": 20,
+  "CEFR_B1": 20,
+  "CEFR_B2": 20,
+  "CEFR_C1": 20,
+  "CEFR_C2": 20,
+  "Adversarial_Long_Common": 10,
+  "Adversarial_Short_Rare": 10,
+  "Polysemy_Multi_POS": 5,
+  "Mnemonic_Traps": 10,
+  "IELTS_Overlap": 14,
+  "Total_Selected": 160
+}

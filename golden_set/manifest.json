@@ -1,0 +1,27 @@
+{
+  "dataset_snapshot_hash": "cfabafa8153521b3ebfe457f298f7e311cea25a2bbecb991a6e986fde286984f",
+  "sampling_algorithm": "stratified_v2",
+  "random_seed": 12345,
+  "created_at": "2026-09-01T23:35:02.401639",
+  "schema_version": "1.0",
+  "criteria": {
+    "cefr": true,
+    "frequency": true,
+    "pos": true,
+    "polysemy": true,
+    "ielts": true,
+    "morphology": true,
+    "mnemonic_traps": true
+  },
+  "replacements": [
+    {
+      "replacement_reason": "Original trap word missing from DB",
+      "original_candidate": "thereof",
+      "replacement_candidate": "whereby",
+      "selection_rule": "Abstract function word (adv/conj) with C1/C2 CEFR, same mnemonic trap criteria."
+    }
+  ],
+  "golden_set_id": "golden_v2",
+  "entry_count": 160,
+  "golden_set_sha256": "2a179128ad1d4594e03ebef6d1d48ea5ea902d0117694dcbef98ad8fd8212821"
+}
