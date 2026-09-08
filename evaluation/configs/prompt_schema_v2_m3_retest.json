@@ -1,0 +1,38 @@
+{
+  "config_id": "prompt_schema_v2_m3_retest",
+  "prompt_id": "lexical_enrichment_final_m3",
+  "prompt_version": "2.2.3",
+  "schema_version": "lexical_output.v1.1-candidate",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "word_ids": [
+    937,
+    1289,
+    3061
+  ],
+  "max_output_tokens": 8192,
+  "batch": {
+    "bucket": "lexical-enrichment",
+    "input_prefix": "experiments/{experiment_id}/input/",
+    "output_prefix": "experiments/{experiment_id}/output/",
+    "input_jsonl_filename": "requests.jsonl"
+  },
+  "model_id": "gemini-3.8-flash",
+  "temperature": 1.0,
+  "thinking": {
+    "enabled": true,
+    "level": "low"
+  },
+  "grounding": {
+    "enabled": false,
+    "google_search": false
+  },
+  "evaluation_role": "prompt_schema_v2_m3_retest",
+  "notes": [
+    "NARROW v2.2.3 over v2.2.2: (1) etymology discipline - factual derivation claims only when confident, else transparent associative framing; (2) morphology-hook availability - Latinate/Greek decomposition counts as available hook, null requires all candidates incl. morphological to fail.",
+    "Retest (3): election(937, mnemonic etymology caution) + administration(1289, persisting null) + telephone(3061, clean probe).",
+    "No pilot_manifest: none are corrected-POS words. golden_v2 immutable. HR-103 stands as baseline evidence, unmodified.",
+    "SETTINGS IDENTICAL: gemini-3.8-flash, temp 1.0, thinking low, grounding OFF, max 8192.",
+    "Gate: each of election/administration fixed without new regression. Pass -> lock v2.2.3, proceed to 1,000. administration-only fail -> document as edge case, no further prompt expansion."
+  ]
+}

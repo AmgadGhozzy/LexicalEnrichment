@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blind Review — HR-2026-09-03-104</title>
+<style>
+  :root { --ink:#1a1d21; --mut:#5b6470; --line:#d8dde3; --bg:#f5f7f9; --card:#ffffff; --accent:#2563eb; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; background:var(--bg); color:var(--ink); }
+  header { padding:18px 28px; background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:10; }
+  header h1 { margin:0; font-size:18px; }
+  header .sub { color:var(--mut); font-size:13px; margin-top:2px; }
+  main { max-width:1100px; margin:0 auto; padding:24px; }
+  .word-card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:22px; margin-bottom:22px; }
+  .word-head { border-bottom:1px solid var(--line); padding-bottom:12px; margin-bottom:16px; }
+  .word-title { font-size:22px; font-weight:700; }
+  .word-meta { color:var(--mut); font-size:14px; margin-top:4px; }
+  .progress { float:right; color:var(--mut); font-size:13px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  @media (max-width:800px){ .grid{ grid-template-columns:1fr; } }
+  .option { border:1px solid var(--line); border-radius:10px; padding:16px; background:#fbfcfd; }
+  .opt-label { font-weight:700; font-size:14px; letter-spacing:.5px; color:var(--accent); margin-bottom:10px; }
+  .opt-block { margin-bottom:10px; }
+  .opt-block h4 { margin:0 0 3px; font-size:12px; text-transform:uppercase; letter-spacing:.4px; color:var(--mut); }
+  .opt-block p, .opt-block li { margin:2px 0; font-size:14px; line-height:1.45; }
+  .opt-block ol { margin:4px 0; padding-left:20px; }
+  .ex-scroll { max-height:170px; overflow-y:auto; padding-right:6px; border-top:1px solid var(--line); padding-top:6px; }
+  .judge { border-top:1px solid var(--line); margin-top:16px; padding-top:14px; }
+  .q { margin-bottom:14px; }
+  .q .qlabel { font-weight:600; font-size:14px; margin-bottom:6px; }
+  .q .qhint { font-weight:400; font-size:12px; color:var(--mut); }
+  .choice { display:inline-flex; gap:6px; align-items:center; margin-right:16px; font-size:14px; }
+  .choice input { accent-color:var(--accent); }
+  fieldset { border:none; padding:0; margin:0; }
+  textarea { width:100%; min-height:52px; border:1px solid var(--line); border-radius:6px; padding:8px; font:inherit; font-size:13px; }
+  .toolbar { position:sticky; bottom:0; background:var(--card); border-top:1px solid var(--line); padding:10px 24px; display:flex; gap:10px; align-items:center; }
+  button { background:var(--accent); color:#fff; border:none; border-radius:6px; padding:9px 16px; font-size:14px; cursor:pointer; }
+  button.secondary { background:#eef1f4; color:var(--ink); }
+  .status { color:var(--mut); font-size:13px; flex:1; }
+  .na-hint { color:var(--mut); font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Blind Lexical Review — HR-2026-09-03-104</h1>
+  <div class="sub" id="headerStatus"></div>
+</header>
+
+<main id="main"></main>
+
+<div class="toolbar">
+  <button onclick="saveReview()">Save / Export responses.json</button>
+  <button class="secondary" onclick="loadReview()">Load responses.json</button>
+  <span class="status" id="status">Answers not saved.</span>
+</div>
+
+<script>
+// [{"lemma": "election", "word_id": 937, "pos": "noun", "options": [{"definition": "An organized process where people vote to choose someone for an official position or political office.", "arabic": "عملية رسمية ومنظمة يصوت فيها الناس لاختيار شخص لمنصب رسمي أو سياسي.", "senses": ["An occasion when people vote to choose a person or group for a political position. — عملية التصويت لاختيار قادة او ممثلين لمنصب سياسي"], "examples": [{"text": "The country will hold a general election next month."}, {"text": "She decided to run for office in the local election."}, {"text": "Observers monitored the national election to ensure fair results."}], "translations": "انتخابات / انتخاب", "relations": "Synonyms: vote, ballot, poll | Antonyms: (none) | Related EN: candidate, democracy, ballot, campaign, voter | Related AR: مرشح, ديمقراطية, ورقة اقتراع, حملة, ناخب | Collocations: general election, presidential election, hold an election, win an election, election campaign | Family: noun=election; verb=elect; adj=elective", "mnemonic": "تذكر ان كلمة \"election\" تشبه كلمة \"elect\" اي يختار او ينتخب واللاحقة \"tion\" تحول الفعل الى اسم عملية الاختيار عبر التصويت", "label": "A"}, {"definition": "A formal group process where people vote to choose a person for a political job or position.", "arabic": "عملية التصويت عشان نختار شخص لمنصب معين، زي انتخابات الرئاسة أو مجلس الشعب.", "senses": ["Process — A formal group process where people vote to choose a person for a political job or position. — عملية التصويت عشان نختار شخص لمنصب معين، زي انتخابات الرئاسة أو مجلس الشعب."], "examples": [{"text": "The election is next week."}, {"text": "Who won the election yesterday?"}, {"text": "People voted in the general election to choose a new leader."}, {"text": "The candidates debated important issues before the election."}, {"text": "Voter turnout was surprisingly low during the municipal election."}, {"text": "The integrity of the democratic process relies heavily on fair and transparent elections."}], "translations": "انتخاب / انتخابات", "relations": "Synonyms: poll, vote, ballot | Antonyms: (none) | Related EN: elect, voter, campaign, ballot | Related AR: ينتخب, ناخب, حملة, بطاقة اقتراع | Collocations: general election, presidential election, win an election, election campaign | Family: noun=electorate; verb=elect; adj=electoral", "mnemonic": "كلمة 'Select' يعني يختار.. والـ 'Election' هي العملية اللي بنعمل فيها 'Selection' للمرشحين.", "label": "B"}]}, {"lemma": "administration", "word_id": 1289, "pos": "noun", "options": [{"definition": "The activities involved in organizing, running, and controlling a business, organization, or institution.", "arabic": "عملية إدارة وتنظيم وتوجيه شؤون مؤسسة أو شركة أو جهة حكومية لضمان سير عملها بنجاح.", "senses": ["The process or activity of running an organization, business, or public service. — تنظيم وتسيير أعمال مؤسسة أو شركة", "A government or the executive group in control of public affairs during a specific period. — حكومة أو سلطة تنفيذية خلال فترة حكم معينة"], "examples": [{"text": "She has worked in hospital administration for over a decade."}, {"text": "Good administration is essential for the smooth operation of any school."}, {"text": "The new government administration promised major tax reforms."}], "translations": "إدارة / حكومة", "relations": "Synonyms: management, governance, direction, supervision | Antonyms: (none) | Related EN: executive, bureaucracy, management, official, organization | Related AR: تنفيذي, بيروقراطية, إدارة, مسؤول, منظمة | Collocations: public administration, business administration, administration costs, take over the administration, day-to-day administration | Family: noun=administrator; verb=administer; adj=administrative; adv=administratively", "mnemonic": "تذكر ان الكلمة تبدا بالمقطع ad بمعنى الى ومعه minister بمعنى يخدم او يرعى فالعملية تعني تقديم الخدمة والتنظيم للمؤسسة", "label": "A"}, {"definition": "The management of any office, business, or organization.", "arabic": "الإدارة أو الحكومة اللي بتمشي الشغل.", "senses": ["Action — The management of any office, business, or organization. — الإدارة أو الحكومة اللي بتمشي الشغل."], "examples": [{"text": "He works in administration."}, {"text": "The school administration is helpful."}, {"text": "She has a job in hospital administration."}, {"text": "The new administration promised to lower taxes."}, {"text": "The cost of administration is very high."}, {"text": "Efficient administration is crucial for large organizations."}], "translations": "إدارة", "relations": "Synonyms: management, government, supervision, control | Antonyms: (none) | Related EN: administer, administrator, administrative | Related AR: مدير, تسيير, حكم | Collocations: public administration, business administration, Trump administration, administration cost | Family: noun=administration; verb=administer; adj=administrative; adv=administratively", "mnemonic": "جاي منها 'Admin' و 'Minister' 'وزير'.. الإدارة والوزارة.", "label": "B"}]}, {"lemma": "telephone", "word_id": 3061, "pos": "noun", "options": [{"definition": "An electronic device used for speaking to someone in another place.", "arabic": "جهاز إلكتروني يُستخدم لإجراء المكالمات والتحدث مع شخص في مكان آخر.", "senses": ["An electronic device used to talk to someone in another place. — جهاز للاتصال الصوتي والتحدث مع شخص بعيد", "A system or network that allows voice communication over long distances. — شبكة أو نظام الاتصال الصوتي السلكي واللاسلكي"], "examples": [{"text": "The telephone is ringing in the living room."}, {"text": "She picked up the telephone to call her mother."}, {"text": "Can you give me your office telephone number?"}], "translations": "هاتف / تليفون", "relations": "Synonyms: phone | Antonyms: (none) | Related EN: call, caller, dial, ring, handset | Related AR: اتصال, متصل, يطلب رقما, يرن, سماعة الهاتف | Collocations: answer the telephone, telephone number, telephone call, by telephone, mobile telephone | Family: noun=telephone; verb=telephone; adj=telephonic; adv=telephonically", "mnemonic": "تتكون الكلمة من مقطعين يونانيين هما tele وتعني بعيد و phone وتعني صوت فتذكر الصوت القادم من بعيد", "label": "A"}, {"definition": "A system or device for transmitting voices over a distance.", "arabic": "التليفون أو الهاتف اللي بنتكلم فيه.", "senses": ["Tool — A system or device for transmitting voices over a distance. — التليفون أو الهاتف اللي بنتكلم فيه."], "examples": [{"text": "I have a telephone."}, {"text": "The telephone is ringing."}, {"text": "She spoke to him on the telephone."}, {"text": "Telephone lines were down after the storm."}, {"text": "The invention of the telephone revolutionized communication."}, {"text": "We conducted a telephone survey."}], "translations": "هاتف", "relations": "Synonyms: phone, cellphone, mobile | Antonyms: (none) | Related EN: call, ring, dial | Related AR: اتصال, يرن, يتصل | Collocations: telephone number, telephone call, telephone directory | Family: noun=telephone; verb=telephone; adj=telephonic; adv=telephonically", "mnemonic": "معروفة جداً 'Telephone' تليفون.", "label": "B"}]}] is replaced at build time with the embedded word cards.
+// The payload may contain ONLY neutral display content (Option A / Option B)
+// with no provenance tags of any kind in values, attributes, or comments.
+var WORDS = [{"lemma": "election", "word_id": 937, "pos": "noun", "options": [{"definition": "An organized process where people vote to choose someone for an official position or political office.", "arabic": "عملية رسمية ومنظمة يصوت فيها الناس لاختيار شخص لمنصب رسمي أو سياسي.", "senses": ["An occasion when people vote to choose a person or group for a political position. — عملية التصويت لاختيار قادة او ممثلين لمنصب سياسي"], "examples": [{"text": "The country will hold a general election next month."}, {"text": "She decided to run for office in the local election."}, {"text": "Observers monitored the national election to ensure fair results."}], "translations": "انتخابات / انتخاب", "relations": "Synonyms: vote, ballot, poll | Antonyms: (none) | Related EN: candidate, democracy, ballot, campaign, voter | Related AR: مرشح, ديمقراطية, ورقة اقتراع, حملة, ناخب | Collocations: general election, presidential election, hold an election, win an election, election campaign | Family: noun=election; verb=elect; adj=elective", "mnemonic": "تذكر ان كلمة \"election\" تشبه كلمة \"elect\" اي يختار او ينتخب واللاحقة \"tion\" تحول الفعل الى اسم عملية الاختيار عبر التصويت", "label": "A"}, {"definition": "A formal group process where people vote to choose a person for a political job or position.", "arabic": "عملية التصويت عشان نختار شخص لمنصب معين، زي انتخابات الرئاسة أو مجلس الشعب.", "senses": ["Process — A formal group process where people vote to choose a person for a political job or position. — عملية التصويت عشان نختار شخص لمنصب معين، زي انتخابات الرئاسة أو مجلس الشعب."], "examples": [{"text": "The election is next week."}, {"text": "Who won the election yesterday?"}, {"text": "People voted in the general election to choose a new leader."}, {"text": "The candidates debated important issues before the election."}, {"text": "Voter turnout was surprisingly low during the municipal election."}, {"text": "The integrity of the democratic process relies heavily on fair and transparent elections."}], "translations": "انتخاب / انتخابات", "relations": "Synonyms: poll, vote, ballot | Antonyms: (none) | Related EN: elect, voter, campaign, ballot | Related AR: ينتخب, ناخب, حملة, بطاقة اقتراع | Collocations: general election, presidential election, win an election, election campaign | Family: noun=electorate; verb=elect; adj=electoral", "mnemonic": "كلمة 'Select' يعني يختار.. والـ 'Election' هي العملية اللي بنعمل فيها 'Selection' للمرشحين.", "label": "B"}]}, {"lemma": "administration", "word_id": 1289, "pos": "noun", "options": [{"definition": "The activities involved in organizing, running, and controlling a business, organization, or institution.", "arabic": "عملية إدارة وتنظيم وتوجيه شؤون مؤسسة أو شركة أو جهة حكومية لضمان سير عملها بنجاح.", "senses": ["The process or activity of running an organization, business, or public service. — تنظيم وتسيير أعمال مؤسسة أو شركة", "A government or the executive group in control of public affairs during a specific period. — حكومة أو سلطة تنفيذية خلال فترة حكم معينة"], "examples": [{"text": "She has worked in hospital administration for over a decade."}, {"text": "Good administration is essential for the smooth operation of any school."}, {"text": "The new government administration promised major tax reforms."}], "translations": "إدارة / حكومة", "relations": "Synonyms: management, governance, direction, supervision | Antonyms: (none) | Related EN: executive, bureaucracy, management, official, organization | Related AR: تنفيذي, بيروقراطية, إدارة, مسؤول, منظمة | Collocations: public administration, business administration, administration costs, take over the administration, day-to-day administration | Family: noun=administrator; verb=administer; adj=administrative; adv=administratively", "mnemonic": "تذكر ان الكلمة تبدا بالمقطع ad بمعنى الى ومعه minister بمعنى يخدم او يرعى فالعملية تعني تقديم الخدمة والتنظيم للمؤسسة", "label": "A"}, {"definition": "The management of any office, business, or organization.", "arabic": "الإدارة أو الحكومة اللي بتمشي الشغل.", "senses": ["Action — The management of any office, business, or organization. — الإدارة أو الحكومة اللي بتمشي الشغل."], "examples": [{"text": "He works in administration."}, {"text": "The school administration is helpful."}, {"text": "She has a job in hospital administration."}, {"text": "The new administration promised to lower taxes."}, {"text": "The cost of administration is very high."}, {"text": "Efficient administration is crucial for large organizations."}], "translations": "إدارة", "relations": "Synonyms: management, government, supervision, control | Antonyms: (none) | Related EN: administer, administrator, administrative | Related AR: مدير, تسيير, حكم | Collocations: public administration, business administration, Trump administration, administration cost | Family: noun=administration; verb=administer; adj=administrative; adv=administratively", "mnemonic": "جاي منها 'Admin' و 'Minister' 'وزير'.. الإدارة والوزارة.", "label": "B"}]}, {"lemma": "telephone", "word_id": 3061, "pos": "noun", "options": [{"definition": "An electronic device used for speaking to someone in another place.", "arabic": "جهاز إلكتروني يُستخدم لإجراء المكالمات والتحدث مع شخص في مكان آخر.", "senses": ["An electronic device used to talk to someone in another place. — جهاز للاتصال الصوتي والتحدث مع شخص بعيد", "A system or network that allows voice communication over long distances. — شبكة أو نظام الاتصال الصوتي السلكي واللاسلكي"], "examples": [{"text": "The telephone is ringing in the living room."}, {"text": "She picked up the telephone to call her mother."}, {"text": "Can you give me your office telephone number?"}], "translations": "هاتف / تليفون", "relations": "Synonyms: phone | Antonyms: (none) | Related EN: call, caller, dial, ring, handset | Related AR: اتصال, متصل, يطلب رقما, يرن, سماعة الهاتف | Collocations: answer the telephone, telephone number, telephone call, by telephone, mobile telephone | Family: noun=telephone; verb=telephone; adj=telephonic; adv=telephonically", "mnemonic": "تتكون الكلمة من مقطعين يونانيين هما tele وتعني بعيد و phone وتعني صوت فتذكر الصوت القادم من بعيد", "label": "A"}, {"definition": "A system or device for transmitting voices over a distance.", "arabic": "التليفون أو الهاتف اللي بنتكلم فيه.", "senses": ["Tool — A system or device for transmitting voices over a distance. — التليفون أو الهاتف اللي بنتكلم فيه."], "examples": [{"text": "I have a telephone."}, {"text": "The telephone is ringing."}, {"text": "She spoke to him on the telephone."}, {"text": "Telephone lines were down after the storm."}, {"text": "The invention of the telephone revolutionized communication."}, {"text": "We conducted a telephone survey."}], "translations": "هاتف", "relations": "Synonyms: phone, cellphone, mobile | Antonyms: (none) | Related EN: call, ring, dial | Related AR: اتصال, يرن, يتصل | Collocations: telephone number, telephone call, telephone directory | Family: noun=telephone; verb=telephone; adj=telephonic; adv=telephonically", "mnemonic": "معروفة جداً 'Telephone' تليفون.", "label": "B"}]}];
+var REVIEW_ID = "HR-2026-09-03-104";
+
+function esc(s){
+  var d=document.createElement('div'); d.textContent=(s==null?'':String(s)); return d.innerHTML;
+}
+// Schema-neutral renderer: every option is drawn from the SAME normalized DTO
+// (definition / arabic / senses / examples / translations / relations / mnemonic)
+// using the SAME containers and headings for every candidate.
+// Proficiency labels are intentionally hidden. Example lists are shown in full
+// inside a fixed-height scroll container with no count or pagination indicator.
+function optHtml(opt){
+  var h='<div class="opt-label">'+esc(opt.label)+'</div>';
+  h+='<div class="opt-block"><h4>Definition</h4><p>'+esc(opt.definition)+'</p></div>';
+  h+='<div class="opt-block"><h4>Arabic</h4><p>'+esc(opt.arabic)+'</p></div>';
+  h+='<div class="opt-block"><h4>Senses</h4>';
+  if(opt.senses && opt.senses.length){
+    h+='<ol>';
+    opt.senses.forEach(function(s){ h+='<li>'+esc(s)+'</li>'; });
+    h+='</ol>';
+  } else {
+    h+='<p class="na-hint">(none)</p>';
+  }
+  h+='</div>';
+  h+='<div class="opt-block"><h4>Examples</h4>';
+  if(opt.examples && opt.examples.length){
+    h+='<div class="ex-scroll"><ol>';
+    opt.examples.forEach(function(e){ h+='<li>'+esc(e.text)+'</li>'; });
+    h+='</ol></div>';
+  } else {
+    h+='<p class="na-hint">(none)</p>';
+  }
+  h+='</div>';
+  h+='<div class="opt-block"><h4>Translations</h4><p>'+esc(opt.translations)+'</p></div>';
+  h+='<div class="opt-block"><h4>Relations</h4><p>'+esc(opt.relations)+'</p></div>';
+  h+='<div class="opt-block"><h4>Mnemonic</h4>';
+  if(opt.mnemonic && opt.mnemonic.length){
+    h+='<p>'+esc(opt.mnemonic)+'</p>';
+  } else {
+    h+='<p class="na-hint">(none)</p>';
+  }
+  h+='</div>';
+  return h;
+}
+
+function radioRow(name, labels){
+  var h='';
+  labels.forEach(function(l){
+    h+='<span class="choice"><input type="radio" name="'+name+'" value="'+l[0]+'"> '+l[1]+'</span>';
+  });
+  return h;
+}
+
+function render(){
+  var main=document.getElementById('main');
+  var total=WORDS.length;
+  var html='';
+  WORDS.forEach(function(w,idx){
+    html+='<div class="word-card" id="card-'+idx+'">';
+    html+='<div class="word-head"><div class="progress">Word '+(idx+1)+' of '+total+'</div>';
+    html+='<div class="word-title">'+esc(w.lemma)+'</div>';
+    html+='<div class="word-meta">POS: '+esc(w.pos)+' &nbsp;·&nbsp; '+esc(w.word_id)+'</div></div>';
+    html+='<div class="grid">';
+    html+='<div class="option">'+optHtml(w.options[0])+'</div>';
+    html+='<div class="option">'+optHtml(w.options[1])+'</div>';
+    html+='</div>';
+    html+='<div class="judge">';
+    html+='<div class="q"><div class="qlabel">1. Definition — which is more accurate and learner-useful?</div>'+radioRow('df-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">2. Arabic explanation — which is more natural and meaning-preserving?</div>'+radioRow('ar-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">3. Senses — which has better sense accuracy and separation?</div>'+radioRow('sn-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">4. Examples — which option has better examples? (judge the set as a whole)</div>'+radioRow('ex-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">5. Translations — which is more correct and complete?</div>'+radioRow('tr-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">6. Relations — which has higher-quality synonyms, related words, and collocations?</div>'+radioRow('rl-'+idx,[['A','A'],['B','B'],['TIE','Tie']])+'</div>';
+    html+='<div class="q"><div class="qlabel">7. Mnemonic — which hook is better (or whether null was justified)?</div>'+radioRow('mn-'+idx,[['A','A'],['B','B'],['TIE','Tie'],['N/A','N/A']])+'</div>';
+    html+='<div class="q"><div class="qlabel">8. Null adjudication <span class="qhint">— only if either option shows (none) for Mnemonic. Was null the correct decision?</span></div>'+radioRow('nv-'+idx,[['NA','N/A — no null to judge'],['CORRECT','Correct null'],['INCORRECT','Incorrect null'],['BORDERLINE','Borderline']])+'</div>';
+    html+='<div class="q"><div class="qlabel">9. Critical error? (wrong POS, wrong primary sense, invented pronunciation, incorrect translation, circular definition, inflection/plural instead of exact lemma in an example, invalid relation, hallucinated / misleading mnemonic, unjustified null)</div>';
+    html+='<span class="choice"><input type="checkbox" name="ce-A-'+idx+'"> A has error</span>';
+    html+='<span class="choice"><input type="checkbox" name="ce-B-'+idx+'"> B has error</span></div>';
+    html+='<div class="q"><div class="qlabel">Is the overall difference meaningful?</div>'+radioRow('diff-'+idx,[['yes','Yes'],['no','No / likely noise']])+'</div>';
+    html+='<div class="q"><div class="qlabel">Notes</div><textarea name="notes-'+idx+'" placeholder="Optional notes..."></textarea></div>';
+    html+='</div></div>';
+  });
+  main.innerHTML=html;
+  updateStatus();
+}
+
+function val(name, idx){
+  var el=document.querySelector('input[name="'+name+'-'+idx+'"]:checked');
+  return el?el.value:null;
+}
+function collect(){
+  var out=[];
+  WORDS.forEach(function(w,idx){
+    var cA=document.querySelector('input[name="ce-A-'+idx+'"]');
+    var cB=document.querySelector('input[name="ce-B-'+idx+'"]');
+    var notes=document.querySelector('textarea[name="notes-'+idx+'"]');
+    out.push({
+      word_id:w.word_id, lemma:w.lemma,
+      definition: val('df',idx),
+      arabic: val('ar',idx),
+      senses: val('sn',idx),
+      examples: val('ex',idx),
+      translations: val('tr',idx),
+      relations: val('rl',idx),
+      mnemonic: val('mn',idx),
+      null_verdict: val('nv',idx),
+      critical_error:{A:!!(cA&&cA.checked), B:!!(cB&&cB.checked)},
+      difference_meaningful: val('diff',idx),
+      notes: notes?notes.value:''
+    });
+  });
+  return out;
+}
+function saveReview(){
+  var data={review_id:REVIEW_ID, responses:collect()};
+  var blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
+  var a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='responses.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  localStorage.setItem('hr_'+REVIEW_ID, JSON.stringify(data.responses));
+  document.getElementById('status').textContent='Saved to responses.json + local draft.';
+}
+function setRadio(name, idx, v){
+  if(!v) return;
+  var el=document.querySelector('input[name="'+name+'-'+idx+'"][value="'+v+'"]');
+  if(el) el.checked=true;
+}
+function loadReview(){
+  var raw=localStorage.getItem('hr_'+REVIEW_ID);
+  if(!raw){ document.getElementById('status').textContent='No local draft found.'; return; }
+  var res=JSON.parse(raw);
+  res.forEach(function(r,idx){
+    setRadio('df',idx,r.definition); setRadio('ar',idx,r.arabic);
+    setRadio('sn',idx,r.senses); setRadio('ex',idx,r.examples);
+    setRadio('tr',idx,r.translations); setRadio('rl',idx,r.relations);
+    setRadio('mn',idx,r.mnemonic); setRadio('nv',idx,r.null_verdict);
+    if(r.critical_error && r.critical_error.A) document.querySelector('input[name="ce-A-'+idx+'"]').checked=true;
+    if(r.critical_error && r.critical_error.B) document.querySelector('input[name="ce-B-'+idx+'"]').checked=true;
+    setRadio('diff',idx,r.difference_meaningful);
+    if(r.notes) document.querySelector('textarea[name="notes-'+idx+'"]').value=r.notes;
+  });
+  document.getElementById('status').textContent='Loaded local draft.';
+}
+function updateStatus(){
+  var filled=0, total=WORDS.length;
+  for(var i=0;i<total;i++){ if(document.querySelector('input[name="ex-'+i+'"]:checked')) filled++; }
+  var s=document.getElementById('headerStatus'); if(s) s.textContent='Reviewed '+filled+' of '+total+' words.';
+  var st=document.getElementById('status'); if(st && filled===total) st.textContent='All '+total+' words answered. Save/export responses.json.';
+}
+document.body.addEventListener('change', updateStatus);
+render();
+</script>
+</body>
+</html>

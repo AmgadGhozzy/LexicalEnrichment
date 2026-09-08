@@ -1,0 +1,25 @@
+{
+  "prompt_id": "lexical_enrichment_final",
+  "prompt_version": "2.1.0",
+  "schema_version": "lexical_output.v1",
+  "model_id": "gemini-3.8-flash",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "thinking": {
+    "enabled": false
+  },
+  "grounding": {
+    "enabled": false,
+    "provider": null
+  },
+  "temperature": 0.2,
+  "top_p": 0.95,
+  "top_k": 40,
+  "max_output_tokens": 8192,
+  "batch": {
+    "bucket": "lexical-enrichment",
+    "input_prefix": "experiments/{experiment_id}/input/",
+    "output_prefix": "experiments/{experiment_id}/output/",
+    "input_jsonl_filename": "requests.jsonl"
+  }
+}

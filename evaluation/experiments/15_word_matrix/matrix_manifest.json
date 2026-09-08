@@ -1,0 +1,32 @@
+{
+  "matrix_id": "MATRIX-15-V1",
+  "description": "Model x prompt x settings matrix for the 15-word pilot. Each cell = one batch job over the same 15 fixed words, same prompt v2.1.0, same schema lexical_output.v1.",
+  "fixed_inputs": {
+    "pilot": "PILOT-15-V1",
+    "word_count": 15,
+    "prompt": "lexical_enrichment_final.txt (v2.1.0)",
+    "schema": "lexical_output.v1.json",
+    "project": "gen-lang-client-0841388254",
+    "location": "us-central1"
+  },
+  "design_notes": [
+    "Temperature sweep ONLY on gemini-3.8-flash (low temps on Gemini 3 can cause looping/degradation; Pro left at default 1.0).",
+    "Thinking level is explicit on every cell. gemini-3.1-pro-preview cannot disable thinking (default=high).",
+    "ISOLATION CAVEAT (Pro): cell m15_pro_t10_think_high_search combines high thinking AND search grounding. Its result is a COMPOSITE configuration, NOT isolated evidence that grounding alone improves quality. Do NOT claim 'search improved Pro' from this cell alone.",
+    "Flash grounding isolation is clean: m15_flash_t02_think_low_off vs m15_flash_t02_think_low_search differ ONLY in grounding, so the search effect IS isolatable on Flash.",
+    "Isolated grounding pair is NOT yet present for Pro (would need m15_pro high off vs high search). Add only if grounding appears valuable.",
+    "URL Context is NOT tested in this matrix (intentional). If external evidence shows value, run a follow-up 3-5 cell block: best_config / best+Search / best+URL_Context / best+Search+URL_Context. URL Context may beat open Search when passing specific trusted sources.",
+    "Schema is FIXED at lexical_output.v1 for all cells to minimize variables. Schema selection is deferred to EXP-015-schema AFTER the best generation configuration is chosen."
+  ],
+  "cells": [
+    {"cell": "m15_flash_t02_think_low_off",    "model": "gemini-3.8-flash",   "temperature": 0.2, "thinking": "low",    "grounding": false},
+    {"cell": "m15_flash_t07_think_low_off",    "model": "gemini-3.8-flash",   "temperature": 0.7, "thinking": "low",    "grounding": false},
+    {"cell": "m15_flash_t10_think_low_off",    "model": "gemini-3.8-flash",   "temperature": 1.0, "thinking": "low",    "grounding": false},
+    {"cell": "m15_flash_t02_think_med_off",    "model": "gemini-3.8-flash",   "temperature": 0.2, "thinking": "medium", "grounding": false},
+    {"cell": "m15_flash_t02_think_high_off",   "model": "gemini-3.8-flash",   "temperature": 0.2, "thinking": "high",   "grounding": false},
+    {"cell": "m15_flash_t02_think_low_search", "model": "gemini-3.8-flash",   "temperature": 0.2, "thinking": "low",    "grounding": true},
+    {"cell": "m15_pro_t10_think_low_off",      "model": "gemini-3.1-pro-preview", "temperature": 1.0, "thinking": "low",    "grounding": false},
+    {"cell": "m15_pro_t10_think_med_off",      "model": "gemini-3.1-pro-preview", "temperature": 1.0, "thinking": "medium", "grounding": false},
+    {"cell": "m15_pro_t10_think_high_search",  "model": "gemini-3.1-pro-preview", "temperature": 1.0, "thinking": "high",   "grounding": true}
+  ]
+}

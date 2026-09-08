@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blind Review — __REVIEW_ID__</title>
+<style>
+  :root { --ink:#1a1d21; --mut:#5b6470; --line:#d8dde3; --bg:#f5f7f9; --card:#ffffff; --accent:#2563eb; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; background:var(--bg); color:var(--ink); }
+  header { padding:18px 28px; background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:10; }
+  header h1 { margin:0; font-size:18px; }
+  header .sub { color:var(--mut); font-size:13px; margin-top:2px; }
+  main { max-width:1100px; margin:0 auto; padding:24px; }
+  .word-card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:22px; margin-bottom:22px; }
+  .word-head { border-bottom:1px solid var(--line); padding-bottom:12px; margin-bottom:16px; }
+  .word-title { font-size:22px; font-weight:700; }
+  .word-meta { color:var(--mut); font-size:14px; margin-top:4px; }
+  .progress { float:right; color:var(--mut); font-size:13px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  @media (max-width:800px){ .grid{ grid-template-columns:1fr; } }
+  .option { border:1px solid var(--line); border-radius:10px; padding:16px; background:#fbfcfd; }
+  .opt-label { font-weight:700; font-size:14px; letter-spacing:.5px; color:var(--accent); margin-bottom:10px; }
+  .opt-block { margin-bottom:10px; }
+  .opt-block h4 { margin:0 0 3px; font-size:12px; text-transform:uppercase; letter-spacing:.4px; color:var(--mut); }
+  .opt-block p, .opt-block li { margin:2px 0; font-size:14px; line-height:1.45; }
+  .opt-block ol { margin:4px 0; padding-left:20px; }
+  .ex-scroll { max-height:170px; overflow-y:auto; padding-right:6px; border-top:1px solid var(--line); padding-top:6px; }
+  .judge { border-top:1px solid var(--line); margin-top:16px; padding-top:14px; }
+  .q { margin-bottom:14px; }
+  .q .qlabel { font-weight:600; font-size:14px; margin-bottom:6px; }
+  .choice { display:inline-flex; gap:6px; align-items:center; margin-right:16px; font-size:14px; }
+  .choice input { accent-color:var(--accent); }
+  fieldset { border:none; padding:0; margin:0; }
+  textarea { width:100%; min-height:52px; border:1px solid var(--line); border-radius:6px; padding:8px; font:inherit; font-size:13px; }
+  .toolbar { position:sticky; bottom:0; background:var(--card); border-top:1px solid var(--line); padding:10px 24px; display:flex; gap:10px; align-items:center; }
+  button { background:var(--accent); color:#fff; border:none; border-radius:6px; padding:9px 16px; font-size:14px; cursor:pointer; }
+  button.secondary { background:#eef1f4; color:var(--ink); }
+  .status { color:var(--mut); font-size:13px; flex:1; }
+  .na-hint { color:var(--mut); font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Blind Lexical Review — __REVIEW_TITLE__</h1>
+  <div class="sub" id="headerStatus"></div>
+</header>
+
+<main id="main"></main>
+
+<div class="toolbar">
+  <button onclick="saveReview()">Save / Export responses.json</button>
+  <button class="secondary" onclick="loadReview()">Load responses.json</button>
+  <span class="status" id="status">Answers not saved.</span>
+</div>
+
+<script>
+// __WORDS_JSON__ is replaced at build time with the embedded word cards.
+// The payload may contain ONLY neutral display content (Option A / Option B)
+// with no provenance tags of any kind in values, attributes, or comments.
+var WORDS = __WORDS_JSON__;
+var REVIEW_ID = "__REVIEW_ID__";
+
+function esc(s){
+  var d=document.createElement('div'); d.textContent=(s==null?'':String(s)); return d.innerHTML;
+}
+// Schema-neutral renderer: every option is drawn from the SAME normalized DTO
+// (definition / arabic / examples / mnemonic) using the SAME containers and
+// headings for every candidate. Proficiency labels are intentionally hidden.
+function optHtml(opt){
+  var h='<div class="opt-label">'+esc(opt.label)+'</div>';
+  h+='<div class="opt-block"><h4>Definition</h4><p>'+esc(opt.definition)+'</p></div>';
+  h+='<div class="opt-block"><h4>Arabic</h4><p>'+esc(opt.arabic)+'</p></div>';
+  h+='<div class="opt-block"><h4>Examples</h4>';
+  if(opt.examples && opt.examples.length){
+    h+='<div class="ex-scroll"><ol>';
+    opt.examples.forEach(function(e){ h+='<li>'+esc(e.text)+'</li>'; });
+    h+='</ol></div>';
+  } else {
+    h+='<p class="na-hint">(none)</p>';
+  }
+  h+='</div>';
+  h+='<div class="opt-block"><h4>Mnemonic</h4>';
+  if(opt.mnemonic && opt.mnemonic.length){
+    h+='<p>'+esc(opt.mnemonic)+'</p>';
+  } else {
+    h+='<p class="na-hint">(none)</p>';
+  }
+  h+='</div>';
+  return h;
+}
+
+function render(){
+  var main=document.getElementById('main');
+  var total=WORDS.length;
+  var html='';
+  WORDS.forEach(function(w,idx){
+    html+='<div class="word-card" id="card-'+idx+'">';
+    html+='<div class="word-head"><div class="progress">Word '+(idx+1)+' of '+total+'</div>';
+    html+='<div class="word-title">'+esc(w.lemma)+'</div>';
+    html+='<div class="word-meta">POS: '+esc(w.pos)+' &nbsp;·&nbsp; '+esc(w.word_id)+'</div></div>';
+    html+='<div class="grid">';
+    html+='<div class="option">'+optHtml(w.options[0])+'</div>';
+    html+='<div class="option">'+optHtml(w.options[1])+'</div>';
+    html+='</div>';
+    html+='<div class="judge">';
+    html+='<div class="q"><div class="qlabel">Which option has better examples? (judge the set as a whole)</div>';
+    html+='<span class="choice"><input type="radio" name="ex-'+idx+'" value="A"> A</span>';
+    html+='<span class="choice"><input type="radio" name="ex-'+idx+'" value="B"> B</span>';
+    html+='<span class="choice"><input type="radio" name="ex-'+idx+'" value="TIE"> Tie</span></div>';
+    html+='<div class="q"><div class="qlabel">Which option has the better mnemonic?</div>';
+    html+='<span class="choice"><input type="radio" name="mn-'+idx+'" value="A"> A</span>';
+    html+='<span class="choice"><input type="radio" name="mn-'+idx+'" value="B"> B</span>';
+    html+='<span class="choice"><input type="radio" name="mn-'+idx+'" value="TIE"> Tie</span>';
+    html+='<span class="choice"><input type="radio" name="mn-'+idx+'" value="N/A"> N/A</span></div>';
+    html+='<div class="q"><div class="qlabel">Critical error? (wrong POS, wrong primary sense, invented pronunciation, incorrect translation, circular definition, inflection/plural instead of exact lemma in an example, invalid relation, hallucinated / misleading mnemonic, unjustified null)</div>';
+    html+='<span class="choice"><input type="checkbox" name="ce-A-'+idx+'"> A has error</span>';
+    html+='<span class="choice"><input type="checkbox" name="ce-B-'+idx+'"> B has error</span></div>';
+    html+='<div class="q"><div class="qlabel">Is the overall difference meaningful?</div>';
+    html+='<span class="choice"><input type="radio" name="diff-'+idx+'" value="yes"> Yes</span>';
+    html+='<span class="choice"><input type="radio" name="diff-'+idx+'" value="no"> No / likely noise</span></div>';
+    html+='<div class="q"><div class="qlabel">Notes</div><textarea name="notes-'+idx+'" placeholder="Optional notes..."></textarea></div>';
+    html+='</div></div>';
+  });
+  main.innerHTML=html;
+  updateStatus();
+}
+
+function collect(){
+  var out=[];
+  WORDS.forEach(function(w,idx){
+    var ex=document.querySelector('input[name="ex-'+idx+'"]:checked');
+    var mn=document.querySelector('input[name="mn-'+idx+'"]:checked');
+    var cA=document.querySelector('input[name="ce-A-'+idx+'"]');
+    var cB=document.querySelector('input[name="ce-B-'+idx+'"]');
+    var diff=document.querySelector('input[name="diff-'+idx+'"]:checked');
+    var notes=document.querySelector('textarea[name="notes-'+idx+'"]');
+    out.push({
+      word_id:w.word_id, lemma:w.lemma,
+      examples: ex?ex.value:null,
+      mnemonic: mn?mn.value:null,
+      critical_error:{A:!!(cA&&cA.checked), B:!!(cB&&cB.checked)},
+      difference_meaningful: diff?diff.value:null,
+      notes: notes?notes.value:''
+    });
+  });
+  return out;
+}
+function saveReview(){
+  var data={review_id:REVIEW_ID, responses:collect()};
+  var blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
+  var a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='responses.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  localStorage.setItem('hr_'+REVIEW_ID, JSON.stringify(data.responses));
+  document.getElementById('status').textContent='Saved to responses.json + local draft.';
+}
+function loadReview(){
+  var raw=localStorage.getItem('hr_'+REVIEW_ID);
+  if(!raw){ document.getElementById('status').textContent='No local draft found.'; return; }
+  var res=JSON.parse(raw);
+  res.forEach(function(r,idx){
+    if(r.examples) document.querySelector('input[name="ex-'+idx+'"][value="'+r.examples+'"]').checked=true;
+    if(r.mnemonic) document.querySelector('input[name="mn-'+idx+'"][value="'+r.mnemonic+'"]').checked=true;
+    if(r.critical_error && r.critical_error.A) document.querySelector('input[name="ce-A-'+idx+'"]').checked=true;
+    if(r.critical_error && r.critical_error.B) document.querySelector('input[name="ce-B-'+idx+'"]').checked=true;
+    if(r.difference_meaningful) document.querySelector('input[name="diff-'+idx+'"][value="'+r.difference_meaningful+'"]').checked=true;
+    if(r.notes) document.querySelector('textarea[name="notes-'+idx+'"]').value=r.notes;
+  });
+  document.getElementById('status').textContent='Loaded local draft.';
+}
+function updateStatus(){
+  var filled=0, total=WORDS.length;
+  for(var i=0;i<total;i++){ if(document.querySelector('input[name="ex-'+i+'"]:checked')) filled++; }
+  var s=document.getElementById('headerStatus'); if(s) s.textContent='Reviewed '+filled+' of '+total+' words.';
+  var st=document.getElementById('status'); if(st && filled===total) st.textContent='All '+total+' words answered. Save/export responses.json.';
+}
+document.body.addEventListener('change', updateStatus);
+render();
+</script>
+</body>
+</html>

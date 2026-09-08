@@ -1,0 +1,1032 @@
+{
+ "n": 100,
+ "dist": {
+  "cefr": {
+   "A1": 16,
+   "A2": 16,
+   "B1": 16,
+   "B2": 16,
+   "C1": 20,
+   "C2": 16
+  },
+  "pos": {
+   "adj": 23,
+   "adv": 21,
+   "noun": 24,
+   "num": 4,
+   "pron": 3,
+   "verb": 23,
+   "prep": 2
+  },
+  "cause": {
+   "absent_entirely": 28,
+   "inflected_form": 29,
+   "derived_form": 26,
+   "annotation_suffix": 12,
+   "placeholder": 4,
+   "shared_stem": 1
+  }
+ },
+ "sample": [
+  {
+   "id": 789,
+   "word": "hot",
+   "pos": "adj",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "The competition is heating up.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 171,
+   "word": "long",
+   "pos": "adv",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "He is no longer working here.",
+   "cause": "inflected_form",
+   "evidence": "longer"
+  },
+  {
+   "id": 6304,
+   "word": "carrot",
+   "pos": "noun",
+   "cefr": "A1",
+   "cell": "A1",
+   "sentence": "Rabbits like to eat carrots.",
+   "cause": "inflected_form",
+   "evidence": "carrots"
+  },
+  {
+   "id": 1652,
+   "word": "fourth",
+   "pos": "num",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "Cut the apple into fourths.",
+   "cause": "inflected_form",
+   "evidence": "fourths"
+  },
+  {
+   "id": 65,
+   "word": "other",
+   "pos": "pron",
+   "cefr": "A1",
+   "cell": "B2",
+   "sentence": "Treat others as you would like to be treated.",
+   "cause": "inflected_form",
+   "evidence": "others"
+  },
+  {
+   "id": 768,
+   "word": "learn",
+   "pos": "verb",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "He is a learned scholar in ancient languages.",
+   "cause": "inflected_form",
+   "evidence": "learned"
+  },
+  {
+   "id": 312,
+   "word": "under",
+   "pos": "adj",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "He wears an undershirt.",
+   "cause": "derived_form",
+   "evidence": "undershirt"
+  },
+  {
+   "id": 559,
+   "word": "soon",
+   "pos": "adv",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "No sooner said than done.",
+   "cause": "inflected_form",
+   "evidence": "sooner"
+  },
+  {
+   "id": 439,
+   "word": "fact",
+   "pos": "noun",
+   "cefr": "A1",
+   "cell": "B1",
+   "sentence": "He presented the facts clearly.",
+   "cause": "inflected_form",
+   "evidence": "facts"
+  },
+  {
+   "id": 6406,
+   "word": "nineteen",
+   "pos": "num",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "Talk nineteen to the dozen (speak very fast).",
+   "cause": "annotation_suffix",
+   "evidence": "Talk nineteen to the dozen (speak very fast)."
+  },
+  {
+   "id": 31,
+   "word": "they",
+   "pos": "pron",
+   "cefr": "A1",
+   "cell": "B1",
+   "sentence": "If anyone calls, tell them I'm busy.",
+   "cause": "absent_entirely",
+   "evidence": "if"
+  },
+  {
+   "id": 1684,
+   "word": "decide",
+   "pos": "verb",
+   "cefr": "A1",
+   "cell": "B1",
+   "sentence": "Have you decided on a date for the wedding?",
+   "cause": "derived_form",
+   "evidence": "decided"
+  },
+  {
+   "id": 429,
+   "word": "mean",
+   "pos": "adj",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "He plays a mean guitar (slang for excellent).",
+   "cause": "annotation_suffix",
+   "evidence": "He plays a mean guitar (slang for excellent)."
+  },
+  {
+   "id": 120,
+   "word": "here",
+   "pos": "adv",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "Herein lies the proof of his innocence.",
+   "cause": "derived_form",
+   "evidence": "herein"
+  },
+  {
+   "id": 1835,
+   "word": "blog",
+   "pos": "noun",
+   "cefr": "A1",
+   "cell": "B2",
+   "sentence": "Fashion blogs have become very influential in the industry.",
+   "cause": "inflected_form",
+   "evidence": "blogs"
+  },
+  {
+   "id": 1449,
+   "word": "nine",
+   "pos": "num",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "Dressed to the nines.",
+   "cause": "derived_form",
+   "evidence": "nines"
+  },
+  {
+   "id": 2749,
+   "word": "thin",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "C1",
+   "sentence": "His excuse was wearing thin (becoming unacceptable).",
+   "cause": "annotation_suffix",
+   "evidence": "His excuse was wearing thin (becoming unacceptable)."
+  },
+  {
+   "id": 2532,
+   "word": "loud",
+   "pos": "adv",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "Actions speak louder than words.",
+   "cause": "inflected_form",
+   "evidence": "louder"
+  },
+  {
+   "id": 2534,
+   "word": "introduction",
+   "pos": "noun",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "She made the introductions at the party.",
+   "cause": "inflected_form",
+   "evidence": "introductions"
+  },
+  {
+   "id": 1699,
+   "word": "onto",
+   "pos": "prep",
+   "cefr": "A2",
+   "cell": "C1",
+   "sentence": "I think the police are onto us (suspect us).",
+   "cause": "annotation_suffix",
+   "evidence": "I think the police are onto us (suspect us)."
+  },
+  {
+   "id": 4974,
+   "word": "hers",
+   "pos": "pron",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "She has her own car, and he has his.",
+   "cause": "inflected_form",
+   "evidence": "her"
+  },
+  {
+   "id": 3447,
+   "word": "invite",
+   "pos": "verb",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "The questions invited a lot of debate.",
+   "cause": "derived_form",
+   "evidence": "invited"
+  },
+  {
+   "id": 1537,
+   "word": "fit",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "It is a survival of the fittest scenario.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 2532,
+   "word": "loud",
+   "pos": "adv",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "His silence screamed louder than any accusation could.",
+   "cause": "inflected_form",
+   "evidence": "louder"
+  },
+  {
+   "id": 3436,
+   "word": "toy",
+   "pos": "noun",
+   "cefr": "A2",
+   "cell": "A2",
+   "sentence": "We bought new toys for the kids.",
+   "cause": "inflected_form",
+   "evidence": "toys"
+  },
+  {
+   "id": 2518,
+   "word": "burn",
+   "pos": "verb",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "The image was burned into my memory.",
+   "cause": "inflected_form",
+   "evidence": "burned"
+  },
+  {
+   "id": 1550,
+   "word": "fresh",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "Don't get fresh with me! (Don't be rude/cheeky).",
+   "cause": "annotation_suffix",
+   "evidence": "Don't get fresh with me! (Don't be rude/cheeky)."
+  },
+  {
+   "id": 1120,
+   "word": "rate",
+   "pos": "noun",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "Interest rates are very low right now.",
+   "cause": "derived_form",
+   "evidence": "rates"
+  },
+  {
+   "id": 6207,
+   "word": "pronounce",
+   "pos": "verb",
+   "cefr": "A2",
+   "cell": "A2",
+   "sentence": "He pronounced the name wrong.",
+   "cause": "derived_form",
+   "evidence": "pronounced"
+  },
+  {
+   "id": 2794,
+   "word": "thick",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "C1",
+   "sentence": "The plot thickens.",
+   "cause": "derived_form",
+   "evidence": "thickens"
+  },
+  {
+   "id": 1312,
+   "word": "fan",
+   "pos": "noun",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "The troops fanned out across the field.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 515,
+   "word": "cause",
+   "pos": "verb",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "What caused the accident?",
+   "cause": "derived_form",
+   "evidence": "caused"
+  },
+  {
+   "id": 4589,
+   "word": "elder",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "The council of elders met to discuss the issue.",
+   "cause": "inflected_form",
+   "evidence": "elders"
+  },
+  {
+   "id": 4689,
+   "word": "backwards",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "C2",
+   "sentence": "He bent over backwards to help them (idiom: tried very hard).",
+   "cause": "annotation_suffix",
+   "evidence": "He bent over backwards to help them (idiom: tried very hard)."
+  },
+  {
+   "id": 4491,
+   "word": "consequence",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "The environmental consequences of the oil spill were disastrous.",
+   "cause": "derived_form",
+   "evidence": "consequences"
+  },
+  {
+   "id": 1715,
+   "word": "prove",
+   "pos": "verb",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "The theory was proved wrong by new evidence.",
+   "cause": "derived_form",
+   "evidence": "proved"
+  },
+  {
+   "id": 2366,
+   "word": "competitive",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "A2",
+   "sentence": "It is a very hard game.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 1923,
+   "word": "cheap",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "Talk is cheap (idiom).",
+   "cause": "annotation_suffix",
+   "evidence": "Talk is cheap (idiom)."
+  },
+  {
+   "id": 5251,
+   "word": "ambition",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "His political ambitions were thwarted by the scandal.",
+   "cause": "inflected_form",
+   "evidence": "ambitions"
+  },
+  {
+   "id": 6831,
+   "word": "decorate",
+   "pos": "verb",
+   "cefr": "B1",
+   "cell": "C2",
+   "sentence": "The manuscript was richly decorated with gold leaf.",
+   "cause": "derived_form",
+   "evidence": "decorated"
+  },
+  {
+   "id": 1555,
+   "word": "smart",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "She is the smartest student in the class.",
+   "cause": "inflected_form",
+   "evidence": "smartest"
+  },
+  {
+   "id": 2094,
+   "word": "specifically",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "A2",
+   "sentence": "I asked for this one.",
+   "cause": "absent_entirely",
+   "evidence": "i"
+  },
+  {
+   "id": 4494,
+   "word": "supporter",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "The candidate thanked his supporters.",
+   "cause": "inflected_form",
+   "evidence": "supporters"
+  },
+  {
+   "id": 1566,
+   "word": "feature",
+   "pos": "verb",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "The new album features several guest artists.",
+   "cause": "derived_form",
+   "evidence": "features"
+  },
+  {
+   "id": 2707,
+   "word": "sharp",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "The meeting starts at 9:00 sharp (exactly).",
+   "cause": "annotation_suffix",
+   "evidence": "The meeting starts at 9:00 sharp (exactly)."
+  },
+  {
+   "id": 2094,
+   "word": "specifically",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "A1",
+   "sentence": "This is for you.",
+   "cause": "absent_entirely",
+   "evidence": "this"
+  },
+  {
+   "id": 4391,
+   "word": "recommendation",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "The committee made several recommendations for safety.",
+   "cause": "inflected_form",
+   "evidence": "recommendations"
+  },
+  {
+   "id": 4518,
+   "word": "scan",
+   "pos": "verb",
+   "cefr": "B1",
+   "cell": "A2",
+   "sentence": "She scanned the list for her name.",
+   "cause": "derived_form",
+   "evidence": "scanned"
+  },
+  {
+   "id": 6713,
+   "word": "clumsy",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "He dropped the cup.",
+   "cause": "absent_entirely",
+   "evidence": "he"
+  },
+  {
+   "id": 3760,
+   "word": "subsequently",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "He left, and later he called.",
+   "cause": "absent_entirely",
+   "evidence": "he"
+  },
+  {
+   "id": 2776,
+   "word": "moral",
+   "pos": "noun",
+   "cefr": "B2",
+   "cell": "B2",
+   "sentence": "He is a man of loose morals.",
+   "cause": "inflected_form",
+   "evidence": "morals"
+  },
+  {
+   "id": 5764,
+   "word": "trillion",
+   "pos": "num",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "Calculating to the trillionth decimal place.",
+   "cause": "derived_form",
+   "evidence": "trillionth"
+  },
+  {
+   "id": 5947,
+   "word": "owing to",
+   "pos": "prep",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "I was late owing to traffic. (Advanced for A1 context)",
+   "cause": "annotation_suffix",
+   "evidence": "I was late owing to traffic. (Advanced for A1 context)"
+  },
+  {
+   "id": 2247,
+   "word": "reserve",
+   "pos": "verb",
+   "cefr": "B2",
+   "cell": "C1",
+   "sentence": "The court reserved judgment until a later date.",
+   "cause": "derived_form",
+   "evidence": "reserved"
+  },
+  {
+   "id": 2061,
+   "word": "internal",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "The box has parts inside.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 6580,
+   "word": "comparatively",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "It is quite small.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 6245,
+   "word": "stitch",
+   "pos": "noun",
+   "cefr": "B2",
+   "cell": "B1",
+   "sentence": "The doctor put three stitches in his cut finger.",
+   "cause": "inflected_form",
+   "evidence": "stitches"
+  },
+  {
+   "id": 7140,
+   "word": "frustrate",
+   "pos": "verb",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "The complex legal system often frustrates attempts at reform.",
+   "cause": "derived_form",
+   "evidence": "frustrates"
+  },
+  {
+   "id": 1180,
+   "word": "short-term",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "Short-termism in business can damage long-term sustainability.",
+   "cause": "derived_form",
+   "evidence": "short"
+  },
+  {
+   "id": 6643,
+   "word": "urgently",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "Call me now.",
+   "cause": "absent_entirely",
+   "evidence": "call"
+  },
+  {
+   "id": 6243,
+   "word": "applicant",
+   "pos": "noun",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "We screen all applicants rigorously before the interview stage.",
+   "cause": "inflected_form",
+   "evidence": "applicants"
+  },
+  {
+   "id": 4302,
+   "word": "convert",
+   "pos": "verb",
+   "cefr": "B2",
+   "cell": "A2",
+   "sentence": "I need to change my dollars to euros.",
+   "cause": "absent_entirely",
+   "evidence": "i"
+  },
+  {
+   "id": 6057,
+   "word": "hopeless",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "A2",
+   "sentence": "I am bad at math (hopeless at).",
+   "cause": "annotation_suffix",
+   "evidence": "I am bad at math (hopeless at)."
+  },
+  {
+   "id": 3117,
+   "word": "hence",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "Not typically used in A1 contexts.",
+   "cause": "absent_entirely",
+   "evidence": "not"
+  },
+  {
+   "id": 6239,
+   "word": "formidable",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "The mountain looked big and scary.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 6537,
+   "word": "conversely",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "Not applicable for A1 (Advanced connector).",
+   "cause": "annotation_suffix",
+   "evidence": "Not applicable for A1 (Advanced connector)."
+  },
+  {
+   "id": 6664,
+   "word": "extremist",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "Governments try to stop violent extremists.",
+   "cause": "inflected_form",
+   "evidence": "extremists"
+  },
+  {
+   "id": 5839,
+   "word": "attribute",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "She attributes her long life to a healthy diet.",
+   "cause": "derived_form",
+   "evidence": "attributes"
+  },
+  {
+   "id": 4253,
+   "word": "lesser",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "Not used in A2.",
+   "cause": "placeholder",
+   "evidence": "Not used in A2."
+  },
+  {
+   "id": 2854,
+   "word": "respectively",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "Not used in A1 contexts.",
+   "cause": "placeholder",
+   "evidence": "Not used in A1 contexts."
+  },
+  {
+   "id": 7120,
+   "word": "atrocity",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "International law condemns such atrocities against civilians.",
+   "cause": "shared_stem",
+   "evidence": "atrocities"
+  },
+  {
+   "id": 2562,
+   "word": "license",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "The company licensed its technology to a foreign partner.",
+   "cause": "derived_form",
+   "evidence": "licensed"
+  },
+  {
+   "id": 3790,
+   "word": "alien",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "It is strange.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 4787,
+   "word": "accordingly",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "Act well.",
+   "cause": "absent_entirely",
+   "evidence": "act"
+  },
+  {
+   "id": 6271,
+   "word": "practitioner",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "B1",
+   "sentence": "Practitioners need a license.",
+   "cause": "inflected_form",
+   "evidence": "practitioners"
+  },
+  {
+   "id": 6610,
+   "word": "cling",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "C1",
+   "sentence": "The smell of smoke clung to his clothes.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 4422,
+   "word": "influential",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "He is a big man.",
+   "cause": "absent_entirely",
+   "evidence": "he"
+  },
+  {
+   "id": 543,
+   "word": "fucking",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "B1",
+   "sentence": "I am so tired. (Standard equivalent)",
+   "cause": "annotation_suffix",
+   "evidence": "I am so tired. (Standard equivalent)"
+  },
+  {
+   "id": 6163,
+   "word": "fixture",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "The team has a difficult list of fixtures this season.",
+   "cause": "derived_form",
+   "evidence": "fixtures"
+  },
+  {
+   "id": 6413,
+   "word": "dictate",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "Logic dictates that we must find an alternative solution.",
+   "cause": "derived_form",
+   "evidence": "dictates"
+  },
+  {
+   "id": 7097,
+   "word": "emphatic",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "She was very sure about it.",
+   "cause": "absent_entirely",
+   "evidence": "she"
+  },
+  {
+   "id": 5802,
+   "word": "wherein",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "Where is the problem?",
+   "cause": "derived_form",
+   "evidence": "where"
+  },
+  {
+   "id": 7092,
+   "word": "filament",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "Muscles are made of thick and thin filaments.",
+   "cause": "inflected_form",
+   "evidence": "filaments"
+  },
+  {
+   "id": 6524,
+   "word": "madden",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "The slow internet connection was maddening.",
+   "cause": "inflected_form",
+   "evidence": "maddening"
+  },
+  {
+   "id": 6839,
+   "word": "equitable",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "We need a fair rule for everyone.",
+   "cause": "absent_entirely",
+   "evidence": "we"
+  },
+  {
+   "id": 7054,
+   "word": "hitherto",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "Not used in A2 context.",
+   "cause": "placeholder",
+   "evidence": "Not used in A2 context."
+  },
+  {
+   "id": 7225,
+   "word": "fervour",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "The fans cheered with joy.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 7189,
+   "word": "pertain",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "This is about you.",
+   "cause": "absent_entirely",
+   "evidence": "this"
+  },
+  {
+   "id": 6124,
+   "word": "contingent",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "It depends on the weather.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 7054,
+   "word": "hitherto",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "Not used in A1 context.",
+   "cause": "placeholder",
+   "evidence": "Not used in A1 context."
+  },
+  {
+   "id": 7262,
+   "word": "postulate",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "Euclid's postulates are famous in geometry.",
+   "cause": "derived_form",
+   "evidence": "postulates"
+  },
+  {
+   "id": 7296,
+   "word": "sadden",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "We were saddened by the death of our neighbor.",
+   "cause": "inflected_form",
+   "evidence": "saddened"
+  },
+  {
+   "id": 6758,
+   "word": "prudent",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "It is good to save money.",
+   "cause": "absent_entirely",
+   "evidence": "it"
+  },
+  {
+   "id": 6716,
+   "word": "invariably",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "B1",
+   "sentence": "The train is consistently late.",
+   "cause": "absent_entirely",
+   "evidence": "the"
+  },
+  {
+   "id": 6949,
+   "word": "mercenary",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "He fights for money.",
+   "cause": "absent_entirely",
+   "evidence": "he"
+  },
+  {
+   "id": 7279,
+   "word": "repudiate",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "The leader repudiated all allegations of corruption.",
+   "cause": "derived_form",
+   "evidence": "repudiated"
+  },
+  {
+   "id": 6311,
+   "word": "assert",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "The report asserts that economic growth is unsustainable without reform.",
+   "cause": "inflected_form",
+   "evidence": "asserts"
+  },
+  {
+   "id": 3431,
+   "word": "intellectual",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "He is a thinker.",
+   "cause": "absent_entirely",
+   "evidence": "he"
+  },
+  {
+   "id": 5791,
+   "word": "compensate",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "They compensated him for the broken window.",
+   "cause": "derived_form",
+   "evidence": "compensated"
+  },
+  {
+   "id": 6766,
+   "word": "precaution",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "C1",
+   "sentence": "You must take precautions against fire.",
+   "cause": "inflected_form",
+   "evidence": "precautions"
+  }
+ ]
+}

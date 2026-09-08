@@ -1,0 +1,46 @@
+{
+  "pilot_id": "PILOT-15-V1",
+  "description": "Fixed 15-word representative sample reused across the entire model x prompt x settings matrix. IDs locked; never changes during the experiment.",
+  "selection": {
+    "source": "golden_v2.json",
+    "stratum_rule": "balanced across CEFR A1-C2, POS variety, difficulty, category",
+    "exclusion_rule": "excluded the 14/160 entries with legitimate-null core fields (mnemonic_ar for no-hook words, word_family for function words) to ensure clean A/B comparison",
+    "random_seed": 2026
+  },
+  "selection_bias": {
+    "excluded_entries_with_legitimate_null": 14,
+    "reason": "14/160 golden entries have legitimate-null core fields (mnemonic_ar=null for no-hook words, word_family=null for function words). These were excluded to keep the pilot's A/B comparison clean (no null-handling ambiguity).",
+    "implication": "PILOT-15-V1 therefore evaluates enrichment quality on NON-NULL-CAPABLE entries ONLY. It does NOT validate null behavior or null-generation discipline. Null-capable words MUST be re-introduced in the 100-word pilot before the null-default rule can be judged.",
+    "direction_of_bias": "Excluding null-capable words biases the pilot toward configurations that produce MORE content (especially mnemonics), because every pilot word is expected to carry a mnemonic. A configuration with disciplined nulls will not be fairly rewarded here."
+  },
+  "pos_corrections": {
+    "note": "CORRECTED POS comes ONLY from the pilot manifest, never edited into golden_v2.json. New generations receive the corrected POS. The Old Version baseline still carries the erroneous POS. This is a BASELINE METADATA CORRECTION, tracked SEPARATELY from content-quality scoring (see evaluation protocol).",
+    "corrections": {
+      "474": {"word": "thank",       "baseline": "noun", "corrected": "verb"},
+      "1071": {"word": "paper",      "baseline": "adj",  "corrected": "noun"},
+      "2532": {"word": "loud",       "baseline": "adv",  "corrected": "adj"},
+      "5167": {"word": "dial",       "baseline": "noun", "corrected": "verb"},
+      "5433": {"word": "stir",       "baseline": "noun", "corrected": "verb"},
+      "5496": {"word": "blend",      "baseline": "noun", "corrected": "verb"}
+    }
+  },
+  "entries": [
+    {"id": 474,  "word": "thank",       "pos": "verb", "cefr": "A1", "note": "POS corrected from baseline 'noun' (data error)"},
+    {"id": 1071, "word": "paper",       "pos": "noun", "cefr": "A1", "note": "POS corrected from baseline 'adj' (data error)"},
+    {"id": 3538, "word": "feeding",     "pos": "noun", "cefr": "A1"},
+    {"id": 2532, "word": "loud",        "pos": "adj",  "cefr": "A2", "note": "POS corrected from baseline 'adv' (data error)"},
+    {"id": 1295, "word": "independent", "pos": "adj",  "cefr": "A2"},
+    {"id": 5167, "word": "dial",        "pos": "verb", "cefr": "B1", "note": "POS corrected from baseline 'noun' — primary meaning here is verb 'to dial'"},
+    {"id": 6603, "word": "gardener",    "pos": "noun", "cefr": "B1"},
+    {"id": 937,  "word": "election",    "pos": "noun", "cefr": "B1"},
+    {"id": 6006, "word": "perceive",    "pos": "verb", "cefr": "B2"},
+    {"id": 5055, "word": "puzzle",      "pos": "noun", "cefr": "B2"},
+    {"id": 5673, "word": "memo",        "pos": "noun", "cefr": "C1"},
+    {"id": 5433, "word": "stir",        "pos": "verb", "cefr": "C1", "note": "POS corrected from baseline 'noun' — polysemous verb/noun, use verb primary"},
+    {"id": 5496, "word": "blend",       "pos": "verb", "cefr": "C1", "note": "POS corrected from baseline 'noun' — verb primary"},
+    {"id": 7157, "word": "amorphous",   "pos": "adj",  "cefr": "C2"},
+    {"id": 6917, "word": "gastric",     "pos": "adj",  "cefr": "C2"}
+  ],
+  "baseline_note": "golden_v2.json remains IMMUTABLE as the Old Version baseline. POS field there has 6 known data errors; corrected POS is recorded here and used by the pilot prompt. The baseline file itself is not modified.",
+  "created_at": "2026-09-03T00:00:00"
+}

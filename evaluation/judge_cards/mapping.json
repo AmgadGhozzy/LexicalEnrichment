@@ -1,0 +1,212 @@
+{
+  "c2efecb706": {
+    "type": "pairwise",
+    "wid": "474",
+    "word": "thank",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "5f9987a89f": {
+    "type": "baseline",
+    "wid": "474",
+    "word": "thank",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "0d8576d580": {
+    "type": "pairwise",
+    "wid": "937",
+    "word": "election",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "57f6868b4f": {
+    "type": "baseline",
+    "wid": "937",
+    "word": "election",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "ca911be7ea": {
+    "type": "pairwise",
+    "wid": "1071",
+    "word": "paper",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "8b838d5b47": {
+    "type": "baseline",
+    "wid": "1071",
+    "word": "paper",
+    "A": "EXP-002",
+    "B": "GOLDEN"
+  },
+  "40a3506b1e": {
+    "type": "pairwise",
+    "wid": "1295",
+    "word": "independent",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "2dee5a9d2a": {
+    "type": "baseline",
+    "wid": "1295",
+    "word": "independent",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "02a865052d": {
+    "type": "pairwise",
+    "wid": "2532",
+    "word": "loud",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "67058ea5e8": {
+    "type": "baseline",
+    "wid": "2532",
+    "word": "loud",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "fdb5282124": {
+    "type": "pairwise",
+    "wid": "3538",
+    "word": "feeding",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "5bf5ffd66a": {
+    "type": "baseline",
+    "wid": "3538",
+    "word": "feeding",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "44ac8544d1": {
+    "type": "pairwise",
+    "wid": "5055",
+    "word": "puzzle",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "e581ab83d2": {
+    "type": "baseline",
+    "wid": "5055",
+    "word": "puzzle",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "b8c2a3f195": {
+    "type": "pairwise",
+    "wid": "5167",
+    "word": "dial",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "5828425f11": {
+    "type": "baseline",
+    "wid": "5167",
+    "word": "dial",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "2c6e617340": {
+    "type": "pairwise",
+    "wid": "5433",
+    "word": "stir",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "aa50445e7f": {
+    "type": "baseline",
+    "wid": "5433",
+    "word": "stir",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "2c60192084": {
+    "type": "pairwise",
+    "wid": "5496",
+    "word": "blend",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "dbe207793e": {
+    "type": "baseline",
+    "wid": "5496",
+    "word": "blend",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "aa2907187e": {
+    "type": "pairwise",
+    "wid": "5673",
+    "word": "memo",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "a76ede70fa": {
+    "type": "baseline",
+    "wid": "5673",
+    "word": "memo",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "eab4ac86a1": {
+    "type": "pairwise",
+    "wid": "6006",
+    "word": "perceive",
+    "A": "EXP-001",
+    "B": "EXP-002"
+  },
+  "e35151d52b": {
+    "type": "baseline",
+    "wid": "6006",
+    "word": "perceive",
+    "A": "EXP-002",
+    "B": "GOLDEN"
+  },
+  "7a9eeb4854": {
+    "type": "pairwise",
+    "wid": "6603",
+    "word": "gardener",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "11d17423d8": {
+    "type": "baseline",
+    "wid": "6603",
+    "word": "gardener",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "d78d12f921": {
+    "type": "pairwise",
+    "wid": "6917",
+    "word": "gastric",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "85a67672ee": {
+    "type": "baseline",
+    "wid": "6917",
+    "word": "gastric",
+    "A": "GOLDEN",
+    "B": "EXP-002"
+  },
+  "ad440dd608": {
+    "type": "pairwise",
+    "wid": "7157",
+    "word": "amorphous",
+    "A": "EXP-002",
+    "B": "EXP-001"
+  },
+  "5c698ffb60": {
+    "type": "baseline",
+    "wid": "7157",
+    "word": "amorphous",
+    "A": "EXP-002",
+    "B": "GOLDEN"
+  }
+}

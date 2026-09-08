@@ -1,0 +1,126 @@
+[
+  {
+    "wid": "474",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.99
+  },
+  {
+    "wid": "937",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "1071",
+    "issues": [
+      "SENSE_DEF_CONTAINS_LEMMA[1]"
+    ],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 3,
+    "ai_confidence": 0.98
+  },
+  {
+    "wid": "1295",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 2,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "2532",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 2,
+    "ai_confidence": 0.98
+  },
+  {
+    "wid": "3538",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "5055",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 2,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "5167",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "5433",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 3,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "5496",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 3,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "5673",
+    "issues": [
+      "MNEMONIC_CONTAINS_LEMMA"
+    ],
+    "parse_err": null,
+    "mnemonic_is_null": false,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "6006",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 2,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "6603",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "6917",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": true,
+    "n_senses": 1,
+    "ai_confidence": 0.95
+  },
+  {
+    "wid": "7157",
+    "issues": [],
+    "parse_err": null,
+    "mnemonic_is_null": false,
+    "n_senses": 2,
+    "ai_confidence": 0.95
+  }
+]

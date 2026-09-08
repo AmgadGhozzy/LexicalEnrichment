@@ -1,0 +1,46 @@
+{
+  "experiment_id": "EXP-2026-09-03-004",
+  "execution_backend": "batch",
+  "experiment_type": "batch_pilot",
+  "status": "running",
+  "schema_version": "lexical_output.v1.1-candidate",
+  "prompt_id": "lexical_enrichment_final_m2",
+  "prompt_version": "2.2.2",
+  "model_provider": "google",
+  "model_id": "gemini-3.8-flash",
+  "model_version": null,
+  "sdk": {
+    "package": "google-genai",
+    "version": "2.20.0"
+  },
+  "thinking_mode": {
+    "enabled": true,
+    "level": "low"
+  },
+  "grounding": {
+    "enabled": false,
+    "google_search": false
+  },
+  "generation_config": {
+    "temperature": 1.0,
+    "top_p": null,
+    "top_k": null,
+    "max_output_tokens": 8192
+  },
+  "golden_set_id": "golden_v2",
+  "golden_set_hash": "2a179128ad1d4594e03ebef6d1d48ea5ea902d0117694dcbef98ad8fd8212821",
+  "batch_job": {
+    "job_id": "projects/491799276439/locations/global/batchPredictionJobs/8417957916715253760",
+    "input_gcs_uri": "gs://lexical-enrichment/experiments/EXP-2026-09-03-004/input/requests.jsonl",
+    "output_gcs_prefix": "gs://lexical-enrichment/experiments/EXP-2026-09-03-004/output/",
+    "input_jsonl_sha256": "123e5233b50e2fa123a9b44f34fb9cd473f78a88713d649df0a915bd1dfd13a1"
+  },
+  "created_at": "2026-09-03T23:11:54.888311+00:00",
+  "updated_at": "2026-09-03T23:11:54.888311+00:00",
+  "progress": {
+    "total": 8,
+    "completed": 0,
+    "failed": 0,
+    "skipped": 0
+  }
+}

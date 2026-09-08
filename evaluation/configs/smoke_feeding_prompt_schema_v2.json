@@ -1,0 +1,35 @@
+{
+  "config_id": "smoke_feeding_prompt_schema_v2",
+  "prompt_id": "lexical_enrichment_final",
+  "prompt_version": "2.2.0",
+  "schema_version": "lexical_output.v1.1-candidate",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "word_ids": [
+    3538
+  ],
+  "max_output_tokens": 8192,
+  "batch": {
+    "bucket": "lexical-enrichment",
+    "input_prefix": "experiments/{experiment_id}/input/",
+    "output_prefix": "experiments/{experiment_id}/output/",
+    "input_jsonl_filename": "requests.jsonl"
+  },
+  "model_id": "gemini-3.8-flash",
+  "temperature": 1.0,
+  "thinking": {
+    "enabled": true,
+    "level": "low"
+  },
+  "grounding": {
+    "enabled": false,
+    "google_search": false
+  },
+  "evaluation_role": "smoke_prompt_schema_v2_feeding",
+  "notes": [
+    "1-word smoke (feeding, id 3538, POS noun, CEFR A1) to validate: (a) Schema v1.1 difficulty_score pattern fixes the Vertex proto enum collision; (b) Prompt v2.2 config produces a parseable lexical_output. Separate from frozen MATRIX-15-V1.",
+    "flash + thinking low + grounding OFF (isolate prompt/schema effects).",
+    "temperature 1.0 (Gemini 3 default; top_p/top_k intentionally omitted per Google guidance).",
+    "NOT a continuation of MATRIX-15-V1. New experiment, C-only (prompt + schema both)."
+  ]
+}

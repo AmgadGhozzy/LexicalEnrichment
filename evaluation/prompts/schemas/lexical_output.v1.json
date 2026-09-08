@@ -1,0 +1,104 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Consolidated RICH-SCHEMA CANDIDATE (development). NOT yet G2-approved production schema. Pending EXP-015b. Single English word entry, batch-friendly.",
+  "properties": {
+    "id": { "type": "integer", "description": "Unique input ID. Preserved exactly as received." },
+    "lemma": { "type": "string", "description": "Target English word. Preserve spelling and casing exactly from input." },
+    "pos": { "type": "string", "enum": ["adj", "adv", "conj", "det", "excl", "modal", "noun", "num", "prep", "pron", "verb"], "description": "Grammatical part of speech." },
+    "cefr_level": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1", "C2"], "description": "CEFR proficiency level." },
+    "difficulty_score": { "type": "string", "enum": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"], "description": "Storage-compat decision: kept as string to match legacy DB TEXT contract. 1=concrete/basic, 10=abstract/nuanced." },
+    "category": { "type": "string", "enum": ["General / Common", "Social Life & Communication", "Work & Business", "Actions & Processes", "Objects & Tools", "Mind & Thinking", "Numbers, Time & Math", "Food & Drink", "Travel & Movement", "Nature & Science", "Feelings & Emotions", "Health & Senses"], "description": "Thematic folder." },
+    "ai_confidence": { "type": "number", "minimum": 0.0, "maximum": 1.0, "description": "MODEL SELF-CONFIDENCE score (0.0-1.0), NOT a calibrated probability. Not statistically authoritative." },
+    "phonetic_us": { "type": "string", "description": "American English IPA. NO slashes or brackets, e.g. əˈtʃiːv." },
+    "phonetic_uk": { "type": ["string", "null"], "description": "British English IPA, NO slashes. Null = same as US, not missing." },
+    "phonetic_ar": { "type": "string", "description": "English pronunciation transliterated to Arabic script with HALF TASHKEEL." },
+    "definition_en": { "type": "string", "description": "Clear, simple English explanation, max 20 words, high-frequency vocabulary, no target word, no circular definition." },
+    "explanation_ar": { "type": "string", "description": "Natural Arabic explanation in modern standard Arabic across dialects, written as a teacher, not machine translation." },
+    "examples": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "description": "Exactly 3 natural examples, each containing the exact target lemma as a standalone token.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "example_text": { "type": "string", "description": "Natural sentence containing the exact target lemma." },
+          "intended_cefr": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1", "C2"], "description": "CEFR band this example best demonstrates." }
+        },
+        "required": ["example_text", "intended_cefr"]
+      }
+    },
+    "mnemonic_ar": { "type": ["string", "null"], "description": "Genuine memory retrieval hook in simple Arabic without tashkeel. English words in double quotes. Null is the default unless a strong hook passes the Counterfactual and Novelty tests. No parentheses () or brackets []. Never a paraphrase/translation." },
+    "senses": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Distinct lexical senses. Fewer accurate senses than many redundant ones. Exactly-one-primary and sequential sense_no are SEMANTIC checks enforced by the validator, not this JSON Schema.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "sense_no": { "type": "integer", "minimum": 1, "description": "Sequential integer starting at 1. Sequentiality enforced by validator." },
+          "definition_en": { "type": "string", "description": "Simple explanation, max 20 words, no target word." },
+          "short_def_en": { "type": "string", "description": "Core gloss / label, 2-6 words, not a truncation of definition_en." },
+          "definition_ar": { "type": "string", "description": "White Arabic, no tashkeel, teacher-style explanation." },
+          "is_primary": { "type": "boolean", "description": "Exactly one sense true; enforced by validator." },
+          "register": { "type": "string", "enum": ["Formal", "Neutral", "Informal", "Slang", "Technical", "Literary"] },
+          "primary_sense": { "type": "string", "enum": ["Action", "Process", "Movement", "State", "Condition", "Change", "Relation", "Time", "Event", "Quantity", "Measure", "Quality", "Attribute", "Emotion", "Concept", "Communication", "Object", "Tool", "Person", "Place"] },
+          "semantic_tags": { "type": "array", "minItems": 3, "maxItems": 5, "items": { "type": "string" }, "description": "3-5 hashtags, e.g. #Finance." },
+          "usage_note": { "type": "string", "description": "Brief learner-relevant usage distinction. Empty string if none." },
+          "mnemonic_ar": { "type": ["string", "null"], "description": "Genuine retrieval hook for this sense. Usually null on secondary senses unless independently strong. Rules as entry-level mnemonic_ar." }
+        },
+        "required": ["sense_no", "definition_en", "short_def_en", "definition_ar", "is_primary", "register", "primary_sense", "semantic_tags", "usage_note", "mnemonic_ar"]
+      }
+    },
+    "collocations": { "type": "array", "items": { "type": "string" }, "description": "3-5 natural high-frequency pairings, e.g. achieve success." },
+    "synonyms": { "type": "array", "items": { "type": "string" }, "description": "Up to 5 common learner-friendly synonyms." },
+    "antonyms": { "type": "array", "items": { "type": "string" }, "description": "Up to 3 clear antonyms. Empty array if none." },
+    "related_words": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "en": { "type": "array", "additionalProperties": false, "items": { "type": "string" }, "description": "Words in the same semantic field." },
+        "ar": { "type": "array", "additionalProperties": false, "items": { "type": "string" }, "description": "Direct Arabic translations of the related English words." }
+      },
+      "required": ["en", "ar"]
+    },
+    "word_family": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "noun": { "type": "string", "description": "Noun form, empty string if none." },
+        "verb": { "type": "string", "description": "Verb form, empty string if none." },
+        "adj": { "type": "string", "description": "Adjective form, empty string if none." },
+        "adv": { "type": "string", "description": "Adverb form, empty string if none." }
+      },
+      "required": ["noun", "verb", "adj", "adv"]
+    },
+    "translations": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Multilingual translations. All fields required and non-null.",
+      "properties": {
+        "arabic_ar": { "type": "string", "description": "Primary Arabic translation; separate distinct meanings with ' / '." },
+        "french_fr": { "type": "string" },
+        "german_de": { "type": "string" },
+        "spanish_es": { "type": "string" },
+        "chinese_zh": { "type": "string", "description": "Simplified Chinese + Pinyin in brackets, e.g. 你好 (Nǐ hǎo)." },
+        "russian_ru": { "type": "string" },
+        "portuguese_pt": { "type": "string" },
+        "japanese_ja": { "type": "string", "description": "Kanji/Kana + Romaji in brackets, e.g. 猫 (Neko)." },
+        "italian_it": { "type": "string" },
+        "turkish_tr": { "type": "string" }
+      },
+      "required": ["arabic_ar", "french_fr", "german_de", "spanish_es", "chinese_zh", "russian_ru", "portuguese_pt", "japanese_ja", "italian_it", "turkish_tr"]
+    }
+  },
+  "required": [
+    "id", "lemma", "pos", "cefr_level", "difficulty_score", "category", "ai_confidence",
+    "phonetic_us", "phonetic_uk", "phonetic_ar",
+    "definition_en", "explanation_ar", "examples", "mnemonic_ar", "senses",
+    "collocations", "synonyms", "antonyms", "related_words", "word_family", "translations"
+  ]
+}

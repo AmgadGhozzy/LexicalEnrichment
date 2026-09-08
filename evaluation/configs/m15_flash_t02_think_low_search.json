@@ -1,0 +1,43 @@
+{
+  "prompt_id": "lexical_enrichment_final",
+  "prompt_version": "2.1.0",
+  "schema_version": "lexical_output.v1",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "word_ids": [
+    474,
+    1071,
+    3538,
+    2532,
+    1295,
+    5167,
+    6603,
+    937,
+    6006,
+    5055,
+    5673,
+    5433,
+    5496,
+    7157,
+    6917
+  ],
+  "pilot_manifest": "experiments/15_word_matrix/pilot_manifest.json",
+  "top_p": 0.95,
+  "max_output_tokens": 8192,
+  "batch": {
+    "bucket": "lexical-enrichment",
+    "input_prefix": "experiments/{experiment_id}/input/",
+    "output_prefix": "experiments/{experiment_id}/output/",
+    "input_jsonl_filename": "requests.jsonl"
+  },
+  "model_id": "gemini-3.8-flash",
+  "temperature": 0.2,
+  "thinking": {
+    "enabled": true,
+    "level": "low"
+  },
+  "grounding": {
+    "enabled": true,
+    "google_search": true
+  }
+}

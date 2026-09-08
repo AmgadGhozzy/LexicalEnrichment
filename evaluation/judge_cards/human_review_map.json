@@ -1,0 +1,18 @@
+{
+  "election": {
+    "A_label": "EXP-002",
+    "B_label": "GOLDEN"
+  },
+  "independent": {
+    "A_label": "GOLDEN",
+    "B_label": "EXP-002"
+  },
+  "puzzle": {
+    "A_label": "GOLDEN",
+    "B_label": "EXP-002"
+  },
+  "gastric": {
+    "A_label": "GOLDEN",
+    "B_label": "EXP-002"
+  }
+}

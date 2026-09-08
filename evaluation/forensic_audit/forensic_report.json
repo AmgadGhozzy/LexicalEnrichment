@@ -1,0 +1,144 @@
+{
+  "audit": "forensic-read-only-v1",
+  "read_only": true,
+  "writes_to_dbs": 0,
+  "snapshot": {
+    "WordsMaster.db": {
+      "path": "C:\\Users\\HP\\Desktop\\LexicalEnrichment\\WordsMaster.db",
+      "bytes": 10399744,
+      "mtime_utc": "2026-03-02T17:28:03.976871+00:00",
+      "sha256": "cfabafa8153521b3ebfe457f298f7e311cea25a2bbecb991a6e986fde286984f"
+    },
+    "LexicalStaging.db": {
+      "path": "C:\\Users\\HP\\Desktop\\LexicalEnrichment\\data\\staging\\LexicalStaging.db",
+      "bytes": 21954560,
+      "mtime_utc": "2026-09-03T00:55:19.624817+00:00",
+      "sha256": "8f1a382d7768942733a2bd9282eceb2950574723a6aa73022cb063b4ffadd060"
+    }
+  },
+  "inventory": {
+    "words_master_rows": 7300,
+    "note": "user said 8000; on-disk file holds 7300",
+    "staging_words_rows": 8027,
+    "staging_source_records": 8027,
+    "staging_extra_rows": 727,
+    "staging_enrichment_tables_populated": 0,
+    "levels": 6,
+    "units": 136
+  },
+  "provenance_flag": {
+    "severity": "HIGH",
+    "finding": "On-disk WordsMaster.db (7300 rows, 2026-03-02) is NOT the database staging was imported from: source_records reference source_row_id up to 8027 and extras carry a different serialization vintage (array-encoded fields, truncated phonetics). Staging source = newer/larger WordsMaster not present on disk. Snapshot mismatch must be resolved before any migration."
+  },
+  "numeric_forensics": {
+    "master_rank_eq_id": "7300/7300 (rank is row number, not a measurement)",
+    "staging_frequency_rank_eq_id": "8027/8027 (same)",
+    "frequency_scale": "1-6 band, 1=most frequent (anchors: the=1, time=2, telephone=4, gastric=5)",
+    "difficulty_vs_cefr_freq": "tight bands but not a pure function; staging recomputed difficulty, agreement with master only 1514/7300 (21%)",
+    "difficulty_is_measurement": false
+  },
+  "field_verdicts": [
+    {
+      "field": "lemma/pos-register/cefr/category/primarySense/fromOxford",
+      "verdict": "KEEP",
+      "note": "authoritative curriculum data; 789 dup lemmas are all clean POS variants, 0 exact dup pairs"
+    },
+    {
+      "field": "frequency(1-6)",
+      "verdict": "KEEP",
+      "note": "coherent Zipf-ish band; direction verified by anchors"
+    },
+    {
+      "field": "rank/frequency_rank",
+      "verdict": "DETERMINISTIC-DERIVE",
+      "note": "both equal row id; useless as stored — recompute real ranks from frequency if needed"
+    },
+    {
+      "field": "difficultyScore",
+      "verdict": "RECOMPUTE-TRANSPARENTLY",
+      "note": "banded heuristic recycling CEFR+frequency; staging silently recomputed 79% of values"
+    },
+    {
+      "field": "definitionEn",
+      "verdict": "KEEP-WITH-SPOT-CHECK",
+      "note": "clean shape (len p50 59, max 130, 0 nulls)"
+    },
+    {
+      "field": "definitionAr",
+      "verdict": "REGENERATE-OR-NORMALIZE (decision point)",
+      "note": "Egyptian dialect throughout; 2893-char grounding-leak outlier; else healthy"
+    },
+    {
+      "field": "arabicAr+9 translations",
+      "verdict": "KEEP-WITH-COGNATE-SPOT-CHECK",
+      "note": "false friends verified correct (sensible/pain/sale/chair); ~1543 eq-wordEn forms are mostly true cognates"
+    },
+    {
+      "field": "IPA (Us/Ar/translit)",
+      "verdict": "KEEP",
+      "note": "complete (0 nulls); UK variant 48% missing -> deterministic fill from dictionary, not LLM"
+    },
+    {
+      "field": "syllabify",
+      "verdict": "DETERMINISTIC-FILL",
+      "note": "34% nulls; rule-based fill, not LLM"
+    },
+    {
+      "field": "examples (6 CEFR cells)",
+      "verdict": "REGENERATE",
+      "note": "85.2% exact-token; 14.8% fail exact-lemma rule (mostly inflections); placeholders 34 cells; annotation suffixes; 176 cross-word shared sentences"
+    },
+    {
+      "field": "synonyms/antonyms/collocations/relatedWords/wordFamily",
+      "verdict": "KEEP-WITH-AUDIT",
+      "note": "valid JSON everywhere; antonyms [] 30% legitimate; synonyms [] 80 function words; wordFamily nulls legitimate by POS; run v2.2.2 substitution audit on compounds"
+    },
+    {
+      "field": "mnemonicAr",
+      "verdict": "KEEP-STYLE + AUDIT-ETYMOLOGY-CLAIMS",
+      "note": "94% populated, hook style matches target philosophy; 1630 etymology-claim candidates need sampled adjudication under v2.2.3 discipline; 439 nulls mostly justified function words"
+    },
+    {
+      "field": "usageNote",
+      "verdict": "KEEP-WITH-OUTLIER-STRIP",
+      "note": "clean pedagogical notes; 3298-char grounding-leak outlier + annotation suffixes to strip"
+    },
+    {
+      "field": "staging 727 extras",
+      "verdict": "QUARANTINE",
+      "note": "lower-quality partial vintage (null definitionAr/usageNote/senses, truncated phonetics, dubious function-word POS like the/noun); do not feed to 1,000-pilot"
+    }
+  ],
+  "examples_audit": {
+    "cells": 43800,
+    "exact_token_ok": 37310,
+    "target_absent": 6490,
+    "absent_note": "dominated by inflected forms (was/has/them/getting); true absences need inflection-aware pass",
+    "lt3_words": 69,
+    "no_terminal_punct": 42,
+    "dup_within_word": 0,
+    "cross_word_shared_sentences": 176,
+    "placeholder_cells": 34
+  },
+  "contamination": {
+    "grounding_url_rows": 2,
+    "http_rows": 2,
+    "note": "isolated Google-grounding citation leakage (homemade, migrate); deterministic strip"
+  },
+  "null_gaps": {
+    "phoneticUk_null": 3480,
+    "syllabify_null": 2517,
+    "mnemonicAr_null": 439,
+    "wordFamily_null": 296
+  },
+  "quality_ceiling_answer": {
+    "is_v223_ceiling": false,
+    "v223_status": "best PROVEN setup, not a scientific ceiling",
+    "biggest_levers": [
+      "deterministic preprocessing (IPA-UK fill, syllabify, grounding-strip, transparent difficulty)",
+      "examples regeneration under exact-lemma rule (legacy fails it at 14.8%)",
+      "etymology-claim audit on legacy mnemonics under v2.2.3 discipline",
+      "keep legacy translations/definitions/IPA instead of re-paying LLM for solved fields"
+    ]
+  }
+}

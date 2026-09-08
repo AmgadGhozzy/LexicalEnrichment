@@ -1,0 +1,43 @@
+{
+  "config_id": "prompt_schema_v2_m2_miniretest",
+  "prompt_id": "lexical_enrichment_final_m2",
+  "prompt_version": "2.2.2",
+  "schema_version": "lexical_output.v1.1-candidate",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "word_ids": [
+    937,
+    1217,
+    1289,
+    3061,
+    5942,
+    6917,
+    4969,
+    2902
+  ],
+  "max_output_tokens": 8192,
+  "batch": {
+    "bucket": "lexical-enrichment",
+    "input_prefix": "experiments/{experiment_id}/input/",
+    "output_prefix": "experiments/{experiment_id}/output/",
+    "input_jsonl_filename": "requests.jsonl"
+  },
+  "model_id": "gemini-3.8-flash",
+  "temperature": 1.0,
+  "thinking": {
+    "enabled": true,
+    "level": "low"
+  },
+  "grounding": {
+    "enabled": false,
+    "google_search": false
+  },
+  "evaluation_role": "prompt_schema_v2_m2_miniretest",
+  "notes": [
+    "MICRO-PATCH v2.2.2 over locked v2.2.1: (1) phonetic-hook guard banning misleading fragments; (2) compound-synonym substitution audit, empty array preferred over wrong synonym.",
+    "Mini retest sample (8): affected election(937, mnemonic garble) + decision-making(1217, bad synonyms); null-guard probes administration(1289), telephone(3061), whereby(5942, golden-null); clean regression checks gastric(6917), dense(4969), trick-noun(2902).",
+    "No pilot_manifest: none of the 8 are corrected-POS words; golden POS used. golden_v2 immutable.",
+    "SETTINGS IDENTICAL to EXP-2026-09-03-002/003: gemini-3.8-flash, temp 1.0, thinking low, grounding OFF, max 8192.",
+    "Gate: 0 critical errors in patched fields (mnemonic, synonyms), no regression elsewhere. No 1,000-word run before this gate passes."
+  ]
+}

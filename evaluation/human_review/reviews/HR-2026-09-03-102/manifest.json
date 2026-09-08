@@ -1,0 +1,260 @@
+{
+  "review_id": "HR-2026-09-03-102",
+  "seed": 20260904,
+  "exp_label": "EXP-003",
+  "exp_records": "all_records.json",
+  "entries": [
+    {
+      "word_id": 3061,
+      "lemma": "telephone",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "A1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": true,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 2016,
+      "lemma": "lawyer",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "A2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 937,
+      "lemma": "election",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "B1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 6006,
+      "lemma": "perceive",
+      "pos_golden": "verb",
+      "pos_exp": "verb",
+      "cefr": "B2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 1289,
+      "lemma": "administration",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "B2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": true,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 6917,
+      "lemma": "gastric",
+      "pos_golden": "adj",
+      "pos_exp": "adj",
+      "cefr": "C2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 6077,
+      "lemma": "indictment",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "C1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 4969,
+      "lemma": "dense",
+      "pos_golden": "adj",
+      "pos_exp": "adj",
+      "cefr": "C1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 3,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 1217,
+      "lemma": "decision-making",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "C1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": true,
+        "golden": true
+      }
+    },
+    {
+      "word_id": 5942,
+      "lemma": "whereby",
+      "pos_golden": "adv",
+      "pos_exp": "adv",
+      "cefr": "C1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": true
+      }
+    },
+    {
+      "word_id": 2902,
+      "lemma": "trick",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "B1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 4449,
+      "lemma": "dump",
+      "pos_golden": "verb",
+      "pos_exp": "verb",
+      "cefr": "B2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 3,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    }
+  ]
+}

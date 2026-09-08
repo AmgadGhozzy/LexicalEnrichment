@@ -1,0 +1,197 @@
+{
+ "task": "DifficultyScore_forensics_v2",
+ "read_only": true,
+ "formula_changed": false,
+ "source": "dicPyImp/DifficultyScore.py (calculate_score, CEFR_BOUNDS, POS_DELTA, SYLLABLE_DELTA, _rank_position)",
+ "formula": "raw = lo + range x rank_position + pos_delta + syllable_delta; score = clamp(round(raw), lo, hi)",
+ "bounds": {
+  "A1": [
+   2,
+   5
+  ],
+  "A2": [
+   3,
+   6
+  ],
+  "B1": [
+   4,
+   7
+  ],
+  "B2": [
+   5,
+   7
+  ],
+  "C1": [
+   7,
+   9
+  ],
+  "C2": [
+   8,
+   10
+  ]
+ },
+ "reproduction_vs_stored": {
+  "exact": 4283,
+  "off_by_1": 2587,
+  "off_by_2plus": 430,
+  "examples_off": [
+   [
+    72,
+    "first",
+    "A1",
+    "det",
+    72,
+    4,
+    2
+   ],
+   [
+    78,
+    "no-one",
+    "A2",
+    "pron",
+    78,
+    5,
+    3
+   ],
+   [
+    114,
+    "even",
+    "A1",
+    "adv",
+    114,
+    4,
+    2
+   ],
+   [
+    117,
+    "need",
+    "A1",
+    "verb",
+    117,
+    4,
+    2
+   ],
+   [
+    121,
+    "really",
+    "A1",
+    "adv",
+    121,
+    5,
+    3
+   ],
+   [
+    125,
+    "work",
+    "A1",
+    "verb",
+    125,
+    4,
+    2
+   ],
+   [
+    130,
+    "being",
+    "B2",
+    "noun",
+    130,
+    7,
+    5
+   ],
+   [
+    136,
+    "take",
+    "A1",
+    "verb",
+    136,
+    4,
+    2
+   ],
+   [
+    141,
+    "make-up",
+    "B2",
+    "noun",
+    141,
+    7,
+    5
+   ],
+   [
+    142,
+    "never",
+    "A1",
+    "adv",
+    142,
+    4,
+    2
+   ],
+   [
+    144,
+    "say",
+    "A1",
+    "verb",
+    144,
+    4,
+    2
+   ],
+   [
+    149,
+    "any more",
+    "A2",
+    "adv",
+    149,
+    5,
+    3
+   ]
+  ]
+ },
+ "reproduction_note": "59% exact match = fixer only touched out-of-bounds rows; stored scores are a MIX of two processes. 0 rows currently out of bounds.",
+ "rank_is_row_id": "rank==id for 7300/7300, so the ~70%-weight 'rank driver' measures CURRICULUM POSITION, not frequency. The formula's docstring examples (year/man/day) assume true frequency ranks.",
+ "clamp_forced_rows": 2139,
+ "clamp_note": "29% of rows had raw output outside bounds and were clamped: for these, difficulty == CEFR bound, pure tautology",
+ "correlations": {
+  "difficulty_vs_cefr_index": 0.858,
+  "difficulty_vs_frequency_band": 0.729,
+  "within_cefr": {
+   "A1": {
+    "n": 1027,
+    "corr_diff_len": 0.541,
+    "corr_diff_syll": 0.509,
+    "corr_diff_rankid": 0.554
+   },
+   "A2": {
+    "n": 1007,
+    "corr_diff_len": 0.438,
+    "corr_diff_syll": 0.462,
+    "corr_diff_rankid": 0.543
+   },
+   "B1": {
+    "n": 1055,
+    "corr_diff_len": 0.561,
+    "corr_diff_syll": 0.553,
+    "corr_diff_rankid": 0.514
+   },
+   "B2": {
+    "n": 2049,
+    "corr_diff_len": 0.554,
+    "corr_diff_syll": 0.552,
+    "corr_diff_rankid": 0.459
+   },
+   "C1": {
+    "n": 1980,
+    "corr_diff_len": 0.295,
+    "corr_diff_syll": 0.367,
+    "corr_diff_rankid": 0.247
+   },
+   "C2": {
+    "n": 182,
+    "corr_diff_len": 0.284,
+    "corr_diff_syll": 0.339,
+    "corr_diff_rankid": 0.052
+   }
+  }
+ },
+ "self_test_tolerance": "+-1 (the formula cannot reproduce its own hand-verified examples exactly)",
+ "staging_recompute": "staging difficulty agrees with master on 21% (1514/7300), scatters non-monotonically, and takes values (1,2) IMPOSSIBLE under this formula -> undocumented different computation",
+ "verdict": "RECYCLED HEURISTIC, not a measurement. Information beyond CEFR: within-level ordering by (curriculum position ~ length ~ syllables) plus +-1 POS/syllable nudges. Options: (a) recompute transparently on REAL frequency rank + syllables with documented weights, or (b) drop the column and let CEFR + frequency speak. Never migrate as-is; never present as measured."
+}

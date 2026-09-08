@@ -1,0 +1,317 @@
+{
+  "1289": {
+    "id": 1289,
+    "lemma": "administration",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "difficulty_score": "5",
+    "category": "Work & Business",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ædˌmɪnəˈstreɪʃn",
+    "phonetic_uk": "ədˌmɪnɪˈstreɪʃn",
+    "phonetic_ar": "أَدْمِنِسْتْرَيْشَن",
+    "definition_en": "The activities involved in organizing, running, and controlling a business, organization, or institution.",
+    "explanation_ar": "عملية إدارة وتنظيم وتوجيه شؤون مؤسسة أو شركة أو جهة حكومية لضمان سير عملها بنجاح.",
+    "examples": [
+      {
+        "example_text": "She has worked in hospital administration for over a decade.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Good administration is essential for the smooth operation of any school.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The new government administration promised major tax reforms.",
+        "intended_cefr": "B2"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان الكلمة تبدا بالمقطع ad بمعنى الى ومعه minister بمعنى يخدم او يرعى فالعملية تعني تقديم الخدمة والتنظيم للمؤسسة",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "The process or activity of running an organization, business, or public service.",
+        "short_def_en": "management and organization",
+        "definition_ar": "تنظيم وتسيير أعمال مؤسسة أو شركة",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Process",
+        "semantic_tags": [
+          "management",
+          "business",
+          "organization"
+        ],
+        "usage_note": "Often refers to administrative or office tasks.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "A government or the executive group in control of public affairs during a specific period.",
+        "short_def_en": "governing body or term",
+        "definition_ar": "حكومة أو سلطة تنفيذية خلال فترة حكم معينة",
+        "is_primary": false,
+        "register": "Formal",
+        "primary_sense": "Person",
+        "semantic_tags": [
+          "politics",
+          "government",
+          "leadership"
+        ],
+        "usage_note": "Commonly capitalized when referring to a specific US presidency, like the Biden Administration.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "public administration",
+      "business administration",
+      "administration costs",
+      "take over the administration",
+      "day-to-day administration"
+    ],
+    "synonyms": [
+      "management",
+      "governance",
+      "direction",
+      "supervision"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "executive",
+        "bureaucracy",
+        "management",
+        "official",
+        "organization"
+      ],
+      "ar": [
+        "تنفيذي",
+        "بيروقراطية",
+        "إدارة",
+        "مسؤول",
+        "منظمة"
+      ]
+    },
+    "word_family": {
+      "noun": "administrator",
+      "verb": "administer",
+      "adj": "administrative",
+      "adv": "administratively"
+    },
+    "translations": {
+      "arabic_ar": "إدارة / حكومة",
+      "french_fr": "administration",
+      "german_de": "Verwaltung",
+      "spanish_es": "administración",
+      "chinese_zh": "管理 (Guǎnlǐ)",
+      "russian_ru": "администрация",
+      "portuguese_pt": "administração",
+      "japanese_ja": "管理 (Kanri)",
+      "italian_it": "amministrazione",
+      "turkish_tr": "yönetim"
+    }
+  },
+  "3061": {
+    "id": 3061,
+    "lemma": "telephone",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "difficulty_score": "1",
+    "category": "Objects & Tools",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ˈtɛləˌfoʊn",
+    "phonetic_uk": "ˈtelɪfəʊn",
+    "phonetic_ar": "تِليفون",
+    "definition_en": "An electronic device used for speaking to someone in another place.",
+    "explanation_ar": "جهاز إلكتروني يُستخدم لإجراء المكالمات والتحدث مع شخص في مكان آخر.",
+    "examples": [
+      {
+        "example_text": "The telephone is ringing in the living room.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "She picked up the telephone to call her mother.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Can you give me your office telephone number?",
+        "intended_cefr": "A2"
+      }
+    ],
+    "mnemonic_ar": "تتكون الكلمة من مقطعين يونانيين هما tele وتعني بعيد و phone وتعني صوت فتذكر الصوت القادم من بعيد",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An electronic device used to talk to someone in another place.",
+        "short_def_en": "device for voice calls",
+        "definition_ar": "جهاز للاتصال الصوتي والتحدث مع شخص بعيد",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Tool",
+        "semantic_tags": [
+          "Communication",
+          "Technology",
+          "Electronics",
+          "Household"
+        ],
+        "usage_note": "In everyday speech, people often use 'phone' instead.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "A system or network that allows voice communication over long distances.",
+        "short_def_en": "voice communication system",
+        "definition_ar": "شبكة أو نظام الاتصال الصوتي السلكي واللاسلكي",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Communication",
+        "semantic_tags": [
+          "Communication",
+          "Infrastructure",
+          "Technology"
+        ],
+        "usage_note": "Commonly used in phrases like 'by telephone' or 'over the telephone'.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "answer the telephone",
+      "telephone number",
+      "telephone call",
+      "by telephone",
+      "mobile telephone"
+    ],
+    "synonyms": [
+      "phone"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "call",
+        "caller",
+        "dial",
+        "ring",
+        "handset"
+      ],
+      "ar": [
+        "اتصال",
+        "متصل",
+        "يطلب رقما",
+        "يرن",
+        "سماعة الهاتف"
+      ]
+    },
+    "word_family": {
+      "noun": "telephone",
+      "verb": "telephone",
+      "adj": "telephonic",
+      "adv": "telephonically"
+    },
+    "translations": {
+      "arabic_ar": "هاتف / تليفون",
+      "french_fr": "téléphone",
+      "german_de": "Telefon",
+      "spanish_es": "teléfono",
+      "chinese_zh": "电话 (Diànhuà)",
+      "russian_ru": "телефон",
+      "portuguese_pt": "telefone",
+      "japanese_ja": "電話 (Denwa)",
+      "italian_it": "telefono",
+      "turkish_tr": "telefon"
+    }
+  },
+  "937": {
+    "id": 937,
+    "lemma": "election",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "difficulty_score": "3",
+    "category": "Social Life & Communication",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ɪˈlɛkʃən",
+    "phonetic_uk": null,
+    "phonetic_ar": "إِلِكْشَن",
+    "definition_en": "An organized process where people vote to choose someone for an official position or political office.",
+    "explanation_ar": "عملية رسمية ومنظمة يصوت فيها الناس لاختيار شخص لمنصب رسمي أو سياسي.",
+    "examples": [
+      {
+        "example_text": "The country will hold a general election next month.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "She decided to run for office in the local election.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "Observers monitored the national election to ensure fair results.",
+        "intended_cefr": "B2"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان كلمة \"election\" تشبه كلمة \"elect\" اي يختار او ينتخب واللاحقة \"tion\" تحول الفعل الى اسم عملية الاختيار عبر التصويت",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An occasion when people vote to choose a person or group for a political position.",
+        "short_def_en": "voting to choose leaders",
+        "definition_ar": "عملية التصويت لاختيار قادة او ممثلين لمنصب سياسي",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Event",
+        "semantic_tags": [
+          "politics",
+          "voting",
+          "government",
+          "democracy"
+        ],
+        "usage_note": "Often used with verbs like hold, win, or lose.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "general election",
+      "presidential election",
+      "hold an election",
+      "win an election",
+      "election campaign"
+    ],
+    "synonyms": [
+      "vote",
+      "ballot",
+      "poll"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "candidate",
+        "democracy",
+        "ballot",
+        "campaign",
+        "voter"
+      ],
+      "ar": [
+        "مرشح",
+        "ديمقراطية",
+        "ورقة اقتراع",
+        "حملة",
+        "ناخب"
+      ]
+    },
+    "word_family": {
+      "noun": "election",
+      "verb": "elect",
+      "adj": "elective",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "انتخابات / انتخاب",
+      "french_fr": "élection",
+      "german_de": "Wahl",
+      "spanish_es": "elección",
+      "chinese_zh": "选举 (xuǎnjǔ)",
+      "russian_ru": "выборы",
+      "portuguese_pt": "eleição",
+      "japanese_ja": "選挙 (Senkyo)",
+      "italian_it": "elezione",
+      "turkish_tr": "seçim"
+    }
+  }
+}

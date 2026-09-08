@@ -1,0 +1,71 @@
+{
+  "review_id": "HR-2026-09-03-104",
+  "seed": 20260906,
+  "exp_label": "EXP-005",
+  "exp_records": "all_records.json",
+  "entries": [
+    {
+      "word_id": 937,
+      "lemma": "election",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "B1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 1,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 1289,
+      "lemma": "administration",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "B2",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    },
+    {
+      "word_id": 3061,
+      "lemma": "telephone",
+      "pos_golden": "noun",
+      "pos_exp": "noun",
+      "cefr": "A1",
+      "a": "exp",
+      "b": "golden",
+      "example_count": {
+        "exp": 3,
+        "golden": 6
+      },
+      "sense_count": {
+        "exp": 2,
+        "golden": 1
+      },
+      "mnemonic_null": {
+        "exp": false,
+        "golden": false
+      }
+    }
+  ]
+}

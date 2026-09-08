@@ -1,0 +1,1031 @@
+{
+ "n": 100,
+ "dist": {
+  "cefr": {
+   "A1": 16,
+   "A2": 17,
+   "B1": 16,
+   "B2": 17,
+   "C1": 18,
+   "C2": 16
+  },
+  "pos": {
+   "adj": 17,
+   "adv": 15,
+   "conj": 11,
+   "det": 8,
+   "excl": 4,
+   "modal": 4,
+   "noun": 14,
+   "num": 4,
+   "prep": 8,
+   "pron": 4,
+   "verb": 11
+  },
+  "cause": {
+   "pass": 100
+  }
+ },
+ "sample": [
+  {
+   "id": 348,
+   "word": "through",
+   "pos": "adj",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "He booked a through ticket to ensure a seamless journey.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 131,
+   "word": "too",
+   "pos": "adv",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "It is too hot today.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 99,
+   "word": "because",
+   "pos": "conj",
+   "cefr": "A1",
+   "cell": "B1",
+   "sentence": "We cancelled the trip because of the rain.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 88,
+   "word": "any",
+   "pos": "det",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "He denied any involvement in the scandal.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1157,
+   "word": "hi",
+   "pos": "excl",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "Hi there, stranger!",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 54,
+   "word": "would",
+   "pos": "modal",
+   "cefr": "A1",
+   "cell": "B2",
+   "sentence": "It would be nice to see him again.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 973,
+   "word": "december",
+   "pos": "noun",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "It snows in December.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3903,
+   "word": "forty",
+   "pos": "num",
+   "cefr": "A1",
+   "cell": "B1",
+   "sentence": "There are forty students in the hall.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 13,
+   "word": "with",
+   "pos": "prep",
+   "cefr": "A1",
+   "cell": "B2",
+   "sentence": "She is working with a new team.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7,
+   "word": "i",
+   "pos": "pron",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "Had I known, I would have helped.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 737,
+   "word": "happen",
+   "pos": "verb",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "Such phenomena rarely happen in this climate.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2564,
+   "word": "tall",
+   "pos": "adj",
+   "cefr": "A1",
+   "cell": "C2",
+   "sentence": "The tall ships sailed into the harbor.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 218,
+   "word": "more",
+   "pos": "adv",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "I couldn't agree more.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 262,
+   "word": "until",
+   "pos": "conj",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "Keep going until you see the sign.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 195,
+   "word": "much",
+   "pos": "det",
+   "cefr": "A1",
+   "cell": "A2",
+   "sentence": "I don't have much hope.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 499,
+   "word": "yeah",
+   "pos": "excl",
+   "cefr": "A1",
+   "cell": "C1",
+   "sentence": "Yeah, baby! That's how we do it.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1027,
+   "word": "inside",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "A2",
+   "sentence": "There is an inside lane for fast cars.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1347,
+   "word": "easily",
+   "pos": "adv",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "This is easily the best pizza here.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 132,
+   "word": "before",
+   "pos": "conj",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "It was an hour before the police arrived.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 159,
+   "word": "such",
+   "pos": "det",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "It was such a surprise to see him there.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1825,
+   "word": "dear",
+   "pos": "excl",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "Oh dear, I hope you're okay.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 238,
+   "word": "might",
+   "pos": "modal",
+   "cefr": "A2",
+   "cell": "C1",
+   "sentence": "Whatever the outcome might be, we are ready.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 775,
+   "word": "role",
+   "pos": "noun",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "They discussed the role of the media in politics.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1789,
+   "word": "billion",
+   "pos": "num",
+   "cefr": "A2",
+   "cell": "C2",
+   "sentence": "We are looking at a timescale of a billion years.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 393,
+   "word": "per",
+   "pos": "prep",
+   "cefr": "A2",
+   "cell": "A2",
+   "sentence": "We drive 50 miles per hour.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1281,
+   "word": "none",
+   "pos": "pron",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "None of us wanted to go out.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 547,
+   "word": "report",
+   "pos": "verb",
+   "cefr": "A2",
+   "cell": "A2",
+   "sentence": "Please report to the office.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 985,
+   "word": "either",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "In either case, the result is the same.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3075,
+   "word": "abroad",
+   "pos": "adv",
+   "cefr": "A2",
+   "cell": "B2",
+   "sentence": "They have never been abroad before.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 155,
+   "word": "while",
+   "pos": "conj",
+   "cefr": "A2",
+   "cell": "B1",
+   "sentence": "While I understand your point, I disagree.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 617,
+   "word": "several",
+   "pos": "det",
+   "cefr": "A2",
+   "cell": "A1",
+   "sentence": "I bought several apples.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 158,
+   "word": "all right",
+   "pos": "excl",
+   "cefr": "A2",
+   "cell": "A1",
+   "sentence": "All right, let's go.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1920,
+   "word": "advanced",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "She has advanced views on education.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2418,
+   "word": "frequently",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "A2",
+   "sentence": "Buses run frequently in the city.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1670,
+   "word": "nor",
+   "pos": "conj",
+   "cefr": "B1",
+   "cell": "C2",
+   "sentence": "He did not know the answer, nor indeed did he care to know.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1004,
+   "word": "whatever",
+   "pos": "det",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "Whatever decision you make, I support you.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3236,
+   "word": "ought",
+   "pos": "modal",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "You ought to apologize for what you said.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4284,
+   "word": "deer",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "A1",
+   "sentence": "I saw a deer in the park.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1125,
+   "word": "despite",
+   "pos": "prep",
+   "cefr": "B1",
+   "cell": "C2",
+   "sentence": "Despite the overwhelming evidence, he denied the charges.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 810,
+   "word": "whatever",
+   "pos": "pron",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "I'll do whatever I can to help.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1311,
+   "word": "impact",
+   "pos": "verb",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "The new laws will impact small businesses.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3456,
+   "word": "talented",
+   "pos": "adj",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "The team has many talented young players.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2374,
+   "word": "personally",
+   "pos": "adv",
+   "cefr": "B1",
+   "cell": "B1",
+   "sentence": "The manager thanked us personally.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1172,
+   "word": "unless",
+   "pos": "conj",
+   "cefr": "B1",
+   "cell": "C1",
+   "sentence": "Unless I am very much mistaken, he is the new director.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1004,
+   "word": "whatever",
+   "pos": "det",
+   "cefr": "B1",
+   "cell": "A1",
+   "sentence": "Read whatever book you want.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3236,
+   "word": "ought",
+   "pos": "modal",
+   "cefr": "B1",
+   "cell": "C2",
+   "sentence": "The government ought to have foreseen this crisis.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3240,
+   "word": "bother",
+   "pos": "noun",
+   "cefr": "B1",
+   "cell": "A1",
+   "sentence": "It is no bother.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 406,
+   "word": "within",
+   "pos": "prep",
+   "cefr": "B1",
+   "cell": "B2",
+   "sentence": "It is not within my power to help.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4922,
+   "word": "wicked",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "C1",
+   "sentence": "There is a wicked problem in this software code.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6657,
+   "word": "vaguely",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "B1",
+   "sentence": "I vaguely remember meeting her.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2967,
+   "word": "whereas",
+   "pos": "conj",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "Whereas the treaty was signed in good faith, it was soon violated.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3201,
+   "word": "dozen",
+   "pos": "det",
+   "cefr": "B2",
+   "cell": "C1",
+   "sentence": "We have a dozen or so options left.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5465,
+   "word": "envelope",
+   "pos": "noun",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "I need a stamp for this envelope.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5764,
+   "word": "trillion",
+   "pos": "num",
+   "cefr": "B2",
+   "cell": "A2",
+   "sentence": "It costs a trillion.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3904,
+   "word": "beside",
+   "pos": "prep",
+   "cefr": "B2",
+   "cell": "C1",
+   "sentence": "The arguments are beside the point.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1472,
+   "word": "whom",
+   "pos": "pron",
+   "cefr": "B2",
+   "cell": "B1",
+   "sentence": "The student whom the teacher praised was happy.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5520,
+   "word": "clarify",
+   "pos": "verb",
+   "cefr": "B2",
+   "cell": "B2",
+   "sentence": "The minister issued a statement to clarify the new law.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4586,
+   "word": "ashamed",
+   "pos": "adj",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "He was ashamed of his lie.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3117,
+   "word": "hence",
+   "pos": "adv",
+   "cefr": "B2",
+   "cell": "B2",
+   "sentence": "He was a newcomer and hence had no enemies.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 311,
+   "word": "yet",
+   "pos": "conj",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "It is small yet strong.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3201,
+   "word": "dozen",
+   "pos": "det",
+   "cefr": "B2",
+   "cell": "B1",
+   "sentence": "There were about a dozen people there.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2401,
+   "word": "conflict",
+   "pos": "noun",
+   "cefr": "B2",
+   "cell": "B1",
+   "sentence": "There is a conflict between the two countries.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5764,
+   "word": "trillion",
+   "pos": "num",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "One trillion stars.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 2809,
+   "word": "alongside",
+   "pos": "prep",
+   "cefr": "B2",
+   "cell": "C2",
+   "sentence": "The exhibition features contemporary art alongside classical masterpieces.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4733,
+   "word": "tribal",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "Modern politics is becoming increasingly tribal and polarized.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7099,
+   "word": "doubtless",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "The company will doubtless grow larger.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3083,
+   "word": "whilst",
+   "pos": "conj",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "The system was upgraded whilst maintaining full operational capacity.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4945,
+   "word": "lawn",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "You should mow the lawn before it rains.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5073,
+   "word": "amid",
+   "pos": "prep",
+   "cefr": "C1",
+   "cell": "B1",
+   "sentence": "He left amid the noise.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7045,
+   "word": "intensify",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "C1",
+   "sentence": "Diplomatic efforts to intensify pressure on the regime have failed.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6267,
+   "word": "accustomed",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "B1",
+   "sentence": "He became accustomed to the noise of the city.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3712,
+   "word": "exclusively",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "We sell exclusively online.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5245,
+   "word": "albeit",
+   "pos": "conj",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "Good, albeit small.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4085,
+   "word": "warrior",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "The warrior has a sword.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 3668,
+   "word": "beneath",
+   "pos": "prep",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "The ball is beneath the table.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6769,
+   "word": "conceive",
+   "pos": "verb",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "He couldn't conceive of living anywhere else.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5799,
+   "word": "ecological",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "B1",
+   "sentence": "Pollution causes ecological damage.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5606,
+   "word": "wholly",
+   "pos": "adv",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "The story is wholly true.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5245,
+   "word": "albeit",
+   "pos": "conj",
+   "cefr": "C1",
+   "cell": "C2",
+   "sentence": "They made a significant, albeit controversial, contribution to science.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4220,
+   "word": "separation",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "A1",
+   "sentence": "The separation of the boys was necessary.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6851,
+   "word": "ingenious",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "He found an ingenious way to fix it.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7149,
+   "word": "unduly",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "A2",
+   "sentence": "The task was not unduly difficult.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6514,
+   "word": "characterization",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "Critics praised the subtle characterization of the villain.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7269,
+   "word": "saturate",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "B1",
+   "sentence": "Soak the sponge until you saturate it.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6268,
+   "word": "plausible",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "C2",
+   "sentence": "The scenario is scientifically plausible, though highly unlikely to occur.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7149,
+   "word": "unduly",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "There is no need to be unduly pessimistic about the outcome.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5675,
+   "word": "retention",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "Employee retention has become a major issue for the company.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6976,
+   "word": "partake",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "He declined to partake in the political debate.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6851,
+   "word": "ingenious",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "The engineer came up with an ingenious solution to the problem.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7089,
+   "word": "whence",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "B1",
+   "sentence": "He returned to the land whence he originated.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6989,
+   "word": "fallacy",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "The common fallacy that cold weather causes colds.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6596,
+   "word": "reconcile",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "B2",
+   "sentence": "The two countries managed to reconcile their differences.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 6742,
+   "word": "inverse",
+   "pos": "adj",
+   "cefr": "C2",
+   "cell": "A1",
+   "sentence": "It is the inverse way.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7195,
+   "word": "earnestly",
+   "pos": "adv",
+   "cefr": "C2",
+   "cell": "C1",
+   "sentence": "The government earnestly solicited public opinion.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7228,
+   "word": "pretence",
+   "pos": "noun",
+   "cefr": "C2",
+   "cell": "B1",
+   "sentence": "She dropped the pretence of friendship.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 7290,
+   "word": "reverberate",
+   "pos": "verb",
+   "cefr": "C2",
+   "cell": "C2",
+   "sentence": "The economic crash will reverberate for decades to come.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 4195,
+   "word": "teenage",
+   "pos": "adj",
+   "cefr": "A2",
+   "cell": "A1",
+   "sentence": "She has a teenage son.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5256,
+   "word": "sphere",
+   "pos": "noun",
+   "cefr": "C1",
+   "cell": "A2",
+   "sentence": "We learned how to calculate the volume of a sphere.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 5845,
+   "word": "neighbouring",
+   "pos": "adj",
+   "cefr": "C1",
+   "cell": "B2",
+   "sentence": "Relations with neighbouring countries are improving.",
+   "cause": "pass",
+   "evidence": ""
+  },
+  {
+   "id": 1383,
+   "word": "spot",
+   "pos": "verb",
+   "cefr": "B2",
+   "cell": "A1",
+   "sentence": "Can you spot the difference?",
+   "cause": "pass",
+   "evidence": ""
+  }
+ ]
+}

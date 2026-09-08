@@ -1,0 +1,36 @@
+{
+  "experiment": "EXP-SEEDED-001A",
+  "arm": "seeded_v1.1",
+  "model_id": "gemini-3.8-flash",
+  "prompt_id": "lexical_enrichment_seeded_v1.1",
+  "prompt_version": "1.1",
+  "prompt_path": "evaluation/prompts/lexical_enrichment_seeded_v1.1.txt",
+  "project_id": "gen-lang-client-0841388254",
+  "location": "global",
+  "temperature": 0,
+  "pacing_seconds": 4,
+  "quota_ladder": [15, 30, 60, 120],
+  "watchdog_seconds": 600,
+  "decisions_enabled": true,
+  "seed_snapshot": ".scratch/lexical-migration-build/output/EXP-SEEDED-001/seed_snapshot_v1.jsonl",
+  "pilot_identities": ".scratch/lexical-migration-build/output/EXP-SEEDED-001A/pilot60.json",
+  "output_dir": ".scratch/lexical-migration-build/output/EXP-SEEDED-001A/generated",
+  "champion": "legacy_v1",
+  "challenger": "seeded_v1.1",
+  "evaluator_arm": "eval_blind_v1",
+  "ai_judge": "ai-rubric-v3",
+  "governance": {
+    "no_full_356_claim": true,
+    "post_scale_human_audit": "required after generation",
+    "field_level_promotion_only": true,
+    "golden_frozen": true,
+    "hard_fail": [
+      "identity_corruption",
+      "schema_failure",
+      "provenance_missing",
+      "unexplained_nullification",
+      "systematic_target_word_failure",
+      "seed_hash_mismatch"
+    ]
+  }
+}

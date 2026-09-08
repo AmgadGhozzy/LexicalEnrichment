@@ -1,0 +1,830 @@
+{
+  "5942": {
+    "id": 5942,
+    "lemma": "whereby",
+    "pos": "adv",
+    "cefr_level": "C1",
+    "difficulty_score": "7",
+    "category": "General / Common",
+    "ai_confidence": 0.95,
+    "phonetic_us": "werˈbaɪ",
+    "phonetic_uk": "weəˈbaɪ",
+    "phonetic_ar": "ويرْبَاي",
+    "definition_en": "By which or through which a specified action, rule, or system occurs.",
+    "explanation_ar": "تستخدم لربط جملتين بمعنى 'الذي من خلاله' أو 'وبموجبه'، وتوضح الطريقة أو النظام الذي يتم به شيء ما.",
+    "examples": [
+      {
+        "example_text": "They signed a contract whereby the company agreed to provide free maintenance.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "We need a system whereby employees can report problems without fear.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "A new law was introduced whereby foreign investors receive tax incentives.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": "تذكر انها مركبة من \"where\" اي اين و\"by\" اي بواسطة، فتصبح المعنى: الوسيلة او الطريقة التي يتم بها الامر.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "By which or through which a specified action, rule, or system occurs.",
+        "short_def_en": "by which, through which",
+        "definition_ar": "بموجبه او من خلاله، وتوضح الوسيلة او الطريقة المتبعة",
+        "is_primary": true,
+        "register": "Formal",
+        "primary_sense": "Relation",
+        "semantic_tags": [
+          "rules",
+          "methods",
+          "formal relations",
+          "agreements"
+        ],
+        "usage_note": "Common in formal, legal, and academic English rather than informal conversation.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "system whereby",
+      "process whereby",
+      "mechanism whereby",
+      "agreement whereby",
+      "arrangement whereby"
+    ],
+    "synonyms": [
+      "by which",
+      "through which",
+      "under which"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "wherein",
+        "whereupon",
+        "thereby",
+        "method",
+        "provision"
+      ],
+      "ar": [
+        "فيه",
+        "عندئذ",
+        "وبذلك",
+        "طريقة",
+        "بند او شرط"
+      ]
+    },
+    "word_family": {
+      "noun": "",
+      "verb": "",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "بموجبه / الذي من خلاله",
+      "french_fr": "par lequel / selon lequel",
+      "german_de": "wodurch / wonach",
+      "spanish_es": "por el cual / según el cual",
+      "chinese_zh": "凭此 (píng cǐ)",
+      "russian_ru": "посредством чего / в силу чего",
+      "portuguese_pt": "pelo qual / por meio do qual",
+      "japanese_ja": "それによって (Sore ni yotte)",
+      "italian_it": "per cui / con cui",
+      "turkish_tr": "sayesinde / vasıtasıyla"
+    }
+  },
+  "1217": {
+    "id": 1217,
+    "lemma": "decision-making",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "difficulty_score": "4",
+    "category": "Mind & Thinking",
+    "ai_confidence": 0.95,
+    "phonetic_us": "dɪˈsɪʒ.ənˌmeɪ.kɪŋ",
+    "phonetic_uk": null,
+    "phonetic_ar": "دِسِشَنْ مَيكِنْغ",
+    "definition_en": "The process of choosing between two or more options or courses of action.",
+    "explanation_ar": "عملية اختيار البديل الأفضل أو التوصل إلى خيار حاسم ومحدد بين مجموعة من الخيارات المتاحة.",
+    "examples": [
+      {
+        "example_text": "Good decision-making is an essential quality for any successful corporate leader.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The committee was criticized for delays in its decision-making during the crisis.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "Recent research examines how emotional stress negatively affects ethical decision-making.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": null,
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "The cognitive process of choosing among alternatives to reach a conclusion or solution.",
+        "short_def_en": "process of choosing options",
+        "definition_ar": "العملية الفكرية لتحديد واختيار أفضل خيار ممكن من بين عدة بدائل.",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Process",
+        "semantic_tags": [
+          "choice",
+          "management",
+          "cognition",
+          "leadership"
+        ],
+        "usage_note": "Often functions attributively as a compound modifier, as in 'decision-making process' or 'decision-making skills'.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "effective decision-making",
+      "ethical decision-making",
+      "strategic decision-making",
+      "decision-making process",
+      "participate in decision-making"
+    ],
+    "synonyms": [
+      "deliberation",
+      "judgment",
+      "resolution"
+    ],
+    "antonyms": [
+      "indecision",
+      "hesitation",
+      "vacillation"
+    ],
+    "related_words": {
+      "en": [
+        "choice",
+        "option",
+        "policy",
+        "strategy",
+        "consensus"
+      ],
+      "ar": [
+        "خيار",
+        "بديل",
+        "سياسة",
+        "استراتيجية",
+        "إجماع"
+      ]
+    },
+    "word_family": {
+      "noun": "decision-maker",
+      "verb": "",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "صنع القرار / اتخاذ القرار",
+      "french_fr": "prise de décision",
+      "german_de": "Entscheidungsfindung",
+      "spanish_es": "toma de decisiones",
+      "chinese_zh": "决策 (juécè)",
+      "russian_ru": "принятие решений",
+      "portuguese_pt": "tomada de decisão",
+      "japanese_ja": "意思決定 (Ishi kettei)",
+      "italian_it": "processo decisionale",
+      "turkish_tr": "karar verme"
+    }
+  },
+  "2902": {
+    "id": 2902,
+    "lemma": "trick",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "difficulty_score": "4",
+    "category": "Actions & Processes",
+    "ai_confidence": 0.95,
+    "phonetic_us": "trɪk",
+    "phonetic_uk": null,
+    "phonetic_ar": "تْرِك",
+    "definition_en": "An action intended to deceive someone, either to cheat them or as a joke.",
+    "explanation_ar": "حيلة أو خدعة يقوم بها شخص لخداع الآخرين، إما للمزاح والمرح أو للغش والاحتيال.",
+    "examples": [
+      {
+        "example_text": "The magician performed a clever card trick that amazed the audience.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "He played a cruel trick on his brother by hiding his keys.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "She learned a neat trick to slice onions without crying.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"trick\" من عبارة الهالوين الشهيرة \"trick or treat\" حيث تعني الخدعة والمزاح.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An act done to deceive someone or make them look foolish.",
+        "short_def_en": "act of deception or prank",
+        "definition_ar": "خدعة او مزحة لخداع شخص او السخرية منه",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Action",
+        "semantic_tags": [
+          "deception",
+          "humor",
+          "behavior"
+        ],
+        "usage_note": "Commonly used with the verbs 'play' or 'pull', as in 'play a trick on someone'.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "A clever or skillful way of doing something difficult.",
+        "short_def_en": "clever technique or tip",
+        "definition_ar": "طريقة ذكية او مهارة لانجاز عمل ما",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Concept",
+        "semantic_tags": [
+          "skills",
+          "methods",
+          "tips"
+        ],
+        "usage_note": "Often seen in the phrase 'the trick to doing something'.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 3,
+        "definition_en": "An entertaining illusion or magic stunt performed to amuse people.",
+        "short_def_en": "magic illusion or stunt",
+        "definition_ar": "عرض خفة يد او خدعة بصرية للتسلية",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Event",
+        "semantic_tags": [
+          "entertainment",
+          "magic",
+          "performance"
+        ],
+        "usage_note": "Frequently combined as 'magic trick' or 'card trick'.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "play a trick",
+      "magic trick",
+      "dirty trick",
+      "card trick",
+      "clever trick"
+    ],
+    "synonyms": [
+      "prank",
+      "hoax",
+      "ruse",
+      "deception",
+      "knack"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "magic",
+        "illusion",
+        "cheat",
+        "skill",
+        "prankster"
+      ],
+      "ar": [
+        "سحر",
+        "وهم",
+        "غش",
+        "مهارة",
+        "مازح"
+      ]
+    },
+    "word_family": {
+      "noun": "trick",
+      "verb": "trick",
+      "adj": "tricky",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "خدعة / حيلة / مزحة",
+      "french_fr": "tour",
+      "german_de": "Trick",
+      "spanish_es": "truco",
+      "chinese_zh": "把戏 (Bǎxì)",
+      "russian_ru": "трюк",
+      "portuguese_pt": "truque",
+      "japanese_ja": "手品 (Tejina)",
+      "italian_it": "trucco",
+      "turkish_tr": "hile"
+    }
+  },
+  "1289": {
+    "id": 1289,
+    "lemma": "administration",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "difficulty_score": "5",
+    "category": "Work & Business",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ədˌmɪnəˈstreɪʃn",
+    "phonetic_uk": "ədˌmɪnɪˈstreɪʃn",
+    "phonetic_ar": "أَدْمِنِسْتْرَيْشَن",
+    "definition_en": "The activities involved in managing, organizing, and running a business, institution, or government.",
+    "explanation_ar": "عملية تنظيم وإدارة شؤون مؤسسة أو شركة أو جهة حكومية، ويقصد بها أيضا الجهاز أو الفريق المسؤول عن هذه الإدارة.",
+    "examples": [
+      {
+        "example_text": "She has worked in hospital administration for more than a decade.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The new government administration introduced major educational reforms.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Good school administration ensures that teachers have all necessary classroom resources.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": null,
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "The process of organizing, supervising, and directing the day-to-day operations of an organization.",
+        "short_def_en": "management and operation of organization",
+        "definition_ar": "عملية إدارة وتسيير الأعمال اليومية لمؤسسة أو شركة",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Process",
+        "semantic_tags": [
+          "management",
+          "business",
+          "operations"
+        ],
+        "usage_note": "Often refers specifically to paperwork, operational coordination, and organizational logistics.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "The group of people or government officials responsible for governing a country during a specific period.",
+        "short_def_en": "governing body or presidency",
+        "definition_ar": "الجهاز الحكومي أو الهيئة الحاكمة خلال فترة زمنية محددة",
+        "is_primary": false,
+        "register": "Formal",
+        "primary_sense": "Person",
+        "semantic_tags": [
+          "government",
+          "politics",
+          "leadership"
+        ],
+        "usage_note": "Commonly capitalized in American English when referring to a specific presidency.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "business administration",
+      "public administration",
+      "take over the administration",
+      "day-to-day administration",
+      "presidential administration"
+    ],
+    "synonyms": [
+      "management",
+      "direction",
+      "governance",
+      "supervision"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "office",
+        "executive",
+        "bureaucracy",
+        "policy",
+        "department"
+      ],
+      "ar": [
+        "مكتب",
+        "تنفيذي",
+        "بيروقراطية",
+        "سياسة",
+        "قسم"
+      ]
+    },
+    "word_family": {
+      "noun": "administrator",
+      "verb": "administer",
+      "adj": "administrative",
+      "adv": "administratively"
+    },
+    "translations": {
+      "arabic_ar": "إدارة / حكومة",
+      "french_fr": "administration",
+      "german_de": "Verwaltung",
+      "spanish_es": "administración",
+      "chinese_zh": "管理 (Guǎnlǐ)",
+      "russian_ru": "администрация",
+      "portuguese_pt": "administração",
+      "japanese_ja": "管理 (Kanri)",
+      "italian_it": "amministrazione",
+      "turkish_tr": "yönetim"
+    }
+  },
+  "4969": {
+    "id": 4969,
+    "lemma": "dense",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "difficulty_score": "5",
+    "category": "Nature & Science",
+    "ai_confidence": 0.95,
+    "phonetic_us": "dɛns",
+    "phonetic_uk": null,
+    "phonetic_ar": "دِنس",
+    "definition_en": "Having parts packed closely together with little space in between, or difficult to see through or penetrate.",
+    "explanation_ar": "يصف الشيء المتراص والمتقارب بشدة بحيث يصعب اختراقه أو الرؤية من خلاله، مثل الغابات المتشابكة أو الضباب الشديد، كما يستخدم مجازيا لوصف النصوص المعقدة المليئة بالأفكار.",
+    "examples": [
+      {
+        "example_text": "We could barely see the road ahead through the dense fog.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "The hikers struggled to make their way through the dense undergrowth of the jungle.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The report provides a dense analysis of international trade policies.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة دنس بالقرب من كلمة دسم في الصوت وكلاهما يعبر عن امتلاء الشيء وثقله وازدحام مكوناته",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Having things crowded closely together, making it difficult to penetrate or see through.",
+        "short_def_en": "closely packed or thick",
+        "definition_ar": "كثيف ومكتظ الأجزاء بحيث يصعب اختراقه أو العبور منه",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Quality",
+        "semantic_tags": [
+          "physical texture",
+          "concentration",
+          "nature"
+        ],
+        "usage_note": "Frequently used to describe foliage, fog, smoke, or materials.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "Containing a lot of complicated ideas or information in a small space, making it hard to understand.",
+        "short_def_en": "packed with complex ideas",
+        "definition_ar": "مليء بالمعلومات المعقدة والصعبة الفهم",
+        "is_primary": false,
+        "register": "Formal",
+        "primary_sense": "Quality",
+        "semantic_tags": [
+          "academic",
+          "text",
+          "complexity"
+        ],
+        "usage_note": "Used for writing, theoretical texts, and abstract arguments.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "dense fog",
+      "dense forest",
+      "dense smoke",
+      "dense population",
+      "dense foliage"
+    ],
+    "synonyms": [
+      "thick",
+      "compact",
+      "heavy",
+      "crowded",
+      "concentrated"
+    ],
+    "antonyms": [
+      "sparse",
+      "thin"
+    ],
+    "related_words": {
+      "en": [
+        "mass",
+        "matter",
+        "volume",
+        "thickness",
+        "impenetrable"
+      ],
+      "ar": [
+        "كتلة",
+        "مادة",
+        "حجم",
+        "سماكة",
+        "منيع"
+      ]
+    },
+    "word_family": {
+      "noun": "density",
+      "verb": "condense",
+      "adj": "dense",
+      "adv": "densely"
+    },
+    "translations": {
+      "arabic_ar": "كثيف / متراص",
+      "french_fr": "dense",
+      "german_de": "dicht",
+      "spanish_es": "denso",
+      "chinese_zh": "稠密的 (chóumì de)",
+      "russian_ru": "плотный",
+      "portuguese_pt": "denso",
+      "japanese_ja": "濃い (Koi)",
+      "italian_it": "denso",
+      "turkish_tr": "yoğun"
+    }
+  },
+  "3061": {
+    "id": 3061,
+    "lemma": "telephone",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "difficulty_score": "1",
+    "category": "Objects & Tools",
+    "ai_confidence": 0.99,
+    "phonetic_us": "ˈtɛləˌfoʊn",
+    "phonetic_uk": "ˈtelɪfəʊn",
+    "phonetic_ar": "تِليفون",
+    "definition_en": "An electronic device used for speaking to someone who is in another place.",
+    "explanation_ar": "جهاز إلكتروني يُستخدم لإجراء المكالمات الصوتية والتواصل مع شخص في مكان آخر.",
+    "examples": [
+      {
+        "example_text": "The telephone rang while I was cooking dinner.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Please answer the telephone if someone calls.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "You can reach our office by telephone or email.",
+        "intended_cefr": "A2"
+      }
+    ],
+    "mnemonic_ar": "الكلمة مطابقة للكلمة العربية الشائعة تلفون المأخوذة مباشرة من tele وتعني عن بعد و phone وتعني صوت",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An electronic device used for speaking to someone who is in another place.",
+        "short_def_en": "device for voice communication",
+        "definition_ar": "جهاز اتصال صوتي عن بعد يستخدم للتحدث مع شخص اخر",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Tool",
+        "semantic_tags": [
+          "electronics",
+          "communication",
+          "technology"
+        ],
+        "usage_note": "Often shortened to phone in everyday modern speech.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "answer the telephone",
+      "by telephone",
+      "telephone call",
+      "telephone number"
+    ],
+    "synonyms": [
+      "phone"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "call",
+        "caller",
+        "dial",
+        "receiver",
+        "ring"
+      ],
+      "ar": [
+        "اتصال",
+        "متصل",
+        "طلب الرقم",
+        "سماعة الهاتف",
+        "رنين"
+      ]
+    },
+    "word_family": {
+      "noun": "telephone",
+      "verb": "telephone",
+      "adj": "telephonic",
+      "adv": "telephonically"
+    },
+    "translations": {
+      "arabic_ar": "هاتف / تليفون",
+      "french_fr": "téléphone",
+      "german_de": "Telefon",
+      "spanish_es": "teléfono",
+      "chinese_zh": "电话 (Diànhuà)",
+      "russian_ru": "телефон",
+      "portuguese_pt": "telefone",
+      "japanese_ja": "電話 (Denwa)",
+      "italian_it": "telefono",
+      "turkish_tr": "telefon"
+    }
+  },
+  "6917": {
+    "id": 6917,
+    "lemma": "gastric",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "difficulty_score": "5",
+    "category": "Health & Senses",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ˈɡæstrɪk",
+    "phonetic_uk": null,
+    "phonetic_ar": "غَاسْتْرِكْ",
+    "definition_en": "Connected with or located in the stomach.",
+    "explanation_ar": "صفة طبية تُستعمل للإشارة إلى كل ما يتعلق بالمعدة أو يرتبط بها مباشرة.",
+    "examples": [
+      {
+        "example_text": "The patient complained of severe gastric pain after eating.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Excess production of gastric acid can cause damage to the lining of the stomach.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "She underwent gastric bypass surgery to improve her overall metabolic health.",
+        "intended_cefr": "C2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة التهاب المعدة بالإنجليزية وهو gastritis فالمقطع الاول gastr يشير دائما إلى المعدة",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Connected with or located in the stomach.",
+        "short_def_en": "relating to the stomach",
+        "definition_ar": "متعلق بالمعدة او كائن فيها",
+        "is_primary": true,
+        "register": "Technical",
+        "primary_sense": "Attribute",
+        "semantic_tags": [
+          "anatomy",
+          "medicine",
+          "digestive system"
+        ],
+        "usage_note": "Used primarily in medical, anatomical, or scientific contexts rather than everyday conversation.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "gastric juice",
+      "gastric acid",
+      "gastric ulcer",
+      "gastric bypass",
+      "gastric mucosa"
+    ],
+    "synonyms": [
+      "stomach",
+      "abdominal"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "stomach",
+        "digestion",
+        "gastrointestinal",
+        "abdomen",
+        "intestine"
+      ],
+      "ar": [
+        "معدة",
+        "هضم",
+        "معدي معوي",
+        "بطن",
+        "أمعاء"
+      ]
+    },
+    "word_family": {
+      "noun": "gastritis",
+      "verb": "",
+      "adj": "gastric",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "مَعِدِيّ",
+      "french_fr": "gastrique",
+      "german_de": "Magen-",
+      "spanish_es": "gástrico",
+      "chinese_zh": "胃的 (Wèi de)",
+      "russian_ru": "желудочный",
+      "portuguese_pt": "gástrico",
+      "japanese_ja": "胃の (I no)",
+      "italian_it": "gastrico",
+      "turkish_tr": "mideye ait"
+    }
+  },
+  "937": {
+    "id": 937,
+    "lemma": "election",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "difficulty_score": "4",
+    "category": "Social Life & Communication",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ɪˈlɛkʃən",
+    "phonetic_uk": null,
+    "phonetic_ar": "إِلِكْشَن",
+    "definition_en": "A formal process where people vote to choose an official or representative.",
+    "explanation_ar": "عملية رسمية يقوم فيها المواطنون بالتصويت لاختيار قادتهم أو ممثليهم في الحكومة أو المناصب العامة.",
+    "examples": [
+      {
+        "example_text": "The country will hold a presidential election next month.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "She won the general election by a large majority of votes.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "Voter turnout was surprisingly low during the local election.",
+        "intended_cefr": "B2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"select\" التي تعني يختار فالكلمتان تشتركان في نفس الأصل وتعبران عن عملية الاختيار بالتصويت",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "A formal event where people vote to choose someone for a political office or position.",
+        "short_def_en": "voting for leaders",
+        "definition_ar": "عملية تصويت رسمية لاختيار شخص لمنصب سياسي",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Process",
+        "semantic_tags": [
+          "politics",
+          "voting",
+          "government"
+        ],
+        "usage_note": "Commonly used with verbs like hold, win, lose, and run in.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "hold an election",
+      "win an election",
+      "lose an election",
+      "general election",
+      "presidential election"
+    ],
+    "synonyms": [
+      "vote",
+      "ballot",
+      "poll"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "candidate",
+        "campaign",
+        "voter",
+        "ballot",
+        "politics",
+        "democracy"
+      ],
+      "ar": [
+        "مرشح",
+        "حملة",
+        "ناخب",
+        "ورقة اقتراع",
+        "سياسة",
+        "ديمقراطية"
+      ]
+    },
+    "word_family": {
+      "noun": "election",
+      "verb": "elect",
+      "adj": "elective",
+      "adv": "electively"
+    },
+    "translations": {
+      "arabic_ar": "انتخابات / اقتراع",
+      "french_fr": "élection",
+      "german_de": "Wahl",
+      "spanish_es": "elección",
+      "chinese_zh": "选举 (Xuǎnjǔ)",
+      "russian_ru": "выборы",
+      "portuguese_pt": "eleição",
+      "japanese_ja": "選挙 (Senkyo)",
+      "italian_it": "elezione",
+      "turkish_tr": "seçim"
+    }
+  }
+}

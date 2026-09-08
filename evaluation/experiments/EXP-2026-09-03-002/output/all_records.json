@@ -1,0 +1,1623 @@
+{
+  "3538": {
+    "id": 3538,
+    "lemma": "feeding",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "difficulty_score": "2",
+    "category": "Food & Drink",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ˈfiːdɪŋ",
+    "phonetic_uk": null,
+    "phonetic_ar": "فِيدِنْغ",
+    "definition_en": "An occasion or process of giving food to a person or animal.",
+    "explanation_ar": "عملية إعطاء الطعام أو تناوله، وخاصة للأطفال الرضع أو الحيوانات في وقت محدد.",
+    "examples": [
+      {
+        "example_text": "The baby is crying because it is time for her next feeding.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Morning feeding of the horses begins at six o'clock.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "You can watch the fish feeding at the city aquarium.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة feed وتعني يطعم مع إضافة ing لتصبح عملية الإطعام ذاتها مثل feeding time وقت الطعام",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An occasion or process of giving food to a person or animal.",
+        "short_def_en": "giving food to someone",
+        "definition_ar": "تقديم الطعام لشخص أو حيوان أو وجبة الرضيع المحددة",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Action",
+        "semantic_tags": [
+          "food",
+          "nutrition",
+          "animals",
+          "childcare"
+        ],
+        "usage_note": "Often used for scheduled meals of infants or domestic animals.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "feeding time",
+      "breast feeding",
+      "bottle feeding",
+      "regular feeding",
+      "feeding frenzy"
+    ],
+    "synonyms": [
+      "nourishment",
+      "meal",
+      "nutrition"
+    ],
+    "antonyms": [
+      "starvation",
+      "fasting"
+    ],
+    "related_words": {
+      "en": [
+        "food",
+        "feed",
+        "eater",
+        "diet",
+        "meal"
+      ],
+      "ar": [
+        "طعام",
+        "يطعم",
+        "آكل",
+        "حمية",
+        "وجبة"
+      ]
+    },
+    "word_family": {
+      "noun": "feeder",
+      "verb": "feed",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "إطعام / وجبة رضاعة",
+      "french_fr": "alimentation",
+      "german_de": "Fütterung",
+      "spanish_es": "alimentación",
+      "chinese_zh": "喂养 (wèiyǎng)",
+      "russian_ru": "кормление",
+      "portuguese_pt": "alimentação",
+      "japanese_ja": "給餌 (Kyūji)",
+      "italian_it": "alimentazione",
+      "turkish_tr": "besleme"
+    }
+  },
+  "1071": {
+    "id": 1071,
+    "lemma": "paper",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "difficulty_score": "1",
+    "category": "Objects & Tools",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ˈpeɪpər",
+    "phonetic_uk": "ˈpeɪpə",
+    "phonetic_ar": "بَيْبَر",
+    "definition_en": "Thin flat sheets made from wood pulp, used for writing, drawing, or wrapping items.",
+    "explanation_ar": "مادة رقيقة تصنع من الخشب وتستخدم للكتابة أو الرسم أو التغليف.",
+    "examples": [
+      {
+        "example_text": "She wrote her name on a blank sheet of paper.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Can you give me a piece of paper to write notes?",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "He bought the morning paper at the train station.",
+        "intended_cefr": "A2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة بردي papyrus الفرعونية القديمة فمنها جاءت كلمة \"paper\" التي تعني ورقا للكتابة",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Thin material made from wood or rags, used for writing, printing, or packaging.",
+        "short_def_en": "material for writing or printing",
+        "definition_ar": "مادة رقيقة من لب الخشب تستخدم في الكتابة والطباعة",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Object",
+        "semantic_tags": [
+          "materials",
+          "stationery",
+          "writing"
+        ],
+        "usage_note": "Usually uncountable when referring to the material; use 'a sheet of paper' or 'a piece of paper' for single units.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "A printed daily or weekly publication containing news and articles.",
+        "short_def_en": "printed news publication",
+        "definition_ar": "جريدة أو صحيفة يومية مطبوعة",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Object",
+        "semantic_tags": [
+          "media",
+          "news",
+          "reading"
+        ],
+        "usage_note": "Countable when used as a short form for newspaper.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 3,
+        "definition_en": "A formal academic article or written school assignment on a specific subject.",
+        "short_def_en": "academic essay or article",
+        "definition_ar": "بحث علمي أو مقال دراسي",
+        "is_primary": false,
+        "register": "Formal",
+        "primary_sense": "Communication",
+        "semantic_tags": [
+          "education",
+          "research",
+          "writing"
+        ],
+        "usage_note": "Countable in this sense, referring to an individual essay or research report.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "piece of paper",
+      "sheet of paper",
+      "waste paper",
+      "morning paper",
+      "term paper"
+    ],
+    "synonyms": [
+      "newspaper",
+      "article",
+      "essay",
+      "document"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "pen",
+        "pencil",
+        "notebook",
+        "print",
+        "write",
+        "cardboard"
+      ],
+      "ar": [
+        "قلم حبر",
+        "قلم رصاص",
+        "دفتر",
+        "يطبع",
+        "يكتب",
+        "ورق مقوى"
+      ]
+    },
+    "word_family": {
+      "noun": "paper",
+      "verb": "paper",
+      "adj": "papery",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "ورق / صحيفة / بحث",
+      "french_fr": "papier",
+      "german_de": "Papier",
+      "spanish_es": "papel",
+      "chinese_zh": "纸 (zhǐ)",
+      "russian_ru": "бумага",
+      "portuguese_pt": "papel",
+      "japanese_ja": "紙 (Kami)",
+      "italian_it": "carta",
+      "turkish_tr": "kağıt"
+    }
+  },
+  "6006": {
+    "id": 6006,
+    "lemma": "perceive",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "difficulty_score": "6",
+    "category": "Mind & Thinking",
+    "ai_confidence": 0.95,
+    "phonetic_us": "pərˈsiːv",
+    "phonetic_uk": "pəˈsiːv",
+    "phonetic_ar": "بَرْسِيف",
+    "definition_en": "To notice, see, or become aware of something through the senses or the mind.",
+    "explanation_ar": "أن تلاحظ شيئا أو تدركه بحواسك أو عقلك، أو تفهم موقفا معينا بطريقة خاصة.",
+    "examples": [
+      {
+        "example_text": "I could perceive a faint light in the distance.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "People often perceive him as cold, but he is actually very kind.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Experts perceive a major shift in global economic trends.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"receive\" التي تعني يستقبل، فكلمة \"perceive\" تعني أن تستقبل الإشارات بحواسك لتدرك وتفهم ما حولك.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "To notice, recognize, or become aware of something using your senses.",
+        "short_def_en": "to notice or sense",
+        "definition_ar": "يلاحظ او يدرك شيئا بواسطة الحواس كالرؤية او السمع",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Process",
+        "semantic_tags": [
+          "perception",
+          "senses",
+          "awareness"
+        ],
+        "usage_note": "Often used in formal or careful descriptions of sensory experience.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "To understand, interpret, or view someone or something in a particular way.",
+        "short_def_en": "to view or interpret",
+        "definition_ar": "يفهم او يعتبر شخصا او امرا بطريقة معينة",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Concept",
+        "semantic_tags": [
+          "opinion",
+          "judgement",
+          "understanding"
+        ],
+        "usage_note": "Commonly followed by 'as' (e.g., perceive someone as a threat).",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "perceive a threat",
+      "perceive a difference",
+      "widely perceived",
+      "perceive as",
+      "easily perceive"
+    ],
+    "synonyms": [
+      "notice",
+      "detect",
+      "discern",
+      "regard",
+      "view"
+    ],
+    "antonyms": [
+      "overlook",
+      "ignore",
+      "misunderstand"
+    ],
+    "related_words": {
+      "en": [
+        "awareness",
+        "insight",
+        "sensation",
+        "viewpoint"
+      ],
+      "ar": [
+        "وعي",
+        "بصيرة",
+        "إحساس",
+        "وجهة نظر"
+      ]
+    },
+    "word_family": {
+      "noun": "perception",
+      "verb": "perceive",
+      "adj": "perceptible",
+      "adv": "perceptibly"
+    },
+    "translations": {
+      "arabic_ar": "يدرك / يلاحظ / يرى",
+      "french_fr": "percevoir",
+      "german_de": "wahrnehmen",
+      "spanish_es": "percibir",
+      "chinese_zh": "察觉 (Chájué)",
+      "russian_ru": "воспринимать",
+      "portuguese_pt": "perceber",
+      "japanese_ja": "知覚する (Chikaku suru)",
+      "italian_it": "percepire",
+      "turkish_tr": "algılamak"
+    }
+  },
+  "2532": {
+    "id": 2532,
+    "lemma": "loud",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "difficulty_score": "2",
+    "category": "Health & Senses",
+    "ai_confidence": 0.98,
+    "phonetic_us": "laʊd",
+    "phonetic_uk": null,
+    "phonetic_ar": "لاوْد",
+    "definition_en": "Making a lot of sound or easily heard from far away.",
+    "explanation_ar": "يصف صوتا قويا وعاليا يسهل سماعه وقد يسبب الإزعاج أحيانا.",
+    "examples": [
+      {
+        "example_text": "The music at the party was very loud.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Suddenly, we heard a loud knock on the front door.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "He spoke in a loud voice so everyone in the room could hear.",
+        "intended_cefr": "A2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"cloud\" أي السحابة فصوت الرعد القادم منها دائما صوت \"loud\"",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Producing or having a lot of volume or sound.",
+        "short_def_en": "high in volume",
+        "definition_ar": "عالي الصوت او قوي الرنين ويمكن سماعه بوضوح",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Attribute",
+        "semantic_tags": [
+          "sound",
+          "hearing",
+          "volume",
+          "noise"
+        ],
+        "usage_note": "Used to describe noises, voices, or instruments with strong volume.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "Unpleasantly bright or having patterns that are too noticeable, especially clothing.",
+        "short_def_en": "garish or excessively bright",
+        "definition_ar": "فارقع او ملفت للنظر بشكل مبالغ فيه خاصة الملابس والالوان",
+        "is_primary": false,
+        "register": "Informal",
+        "primary_sense": "Quality",
+        "semantic_tags": [
+          "color",
+          "fashion",
+          "appearance"
+        ],
+        "usage_note": "Commonly applied to shirts, ties, or decorative patterns that look overly bright.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "loud voice",
+      "loud noise",
+      "loud music",
+      "loud bang",
+      "loud speaker"
+    ],
+    "synonyms": [
+      "noisy",
+      "deafening",
+      "boisterous",
+      "clamorous"
+    ],
+    "antonyms": [
+      "quiet",
+      "silent",
+      "soft"
+    ],
+    "related_words": {
+      "en": [
+        "volume",
+        "sound",
+        "noise",
+        "decibel",
+        "ear"
+      ],
+      "ar": [
+        "مستوى الصوت",
+        "صوت",
+        "ضجيج",
+        "ديسيبل",
+        "أذن"
+      ]
+    },
+    "word_family": {
+      "noun": "loudness",
+      "verb": "",
+      "adj": "loud",
+      "adv": "loudly"
+    },
+    "translations": {
+      "arabic_ar": "عالٍ / صاخب",
+      "french_fr": "fort / bruyant",
+      "german_de": "laut",
+      "spanish_es": "fuerte / ruidoso",
+      "chinese_zh": "大声的 (Dàshēng de)",
+      "russian_ru": "громкий",
+      "portuguese_pt": "alto / barulhento",
+      "japanese_ja": "うるさい (Urusai) / 大音量の (Dai-onryō no)",
+      "italian_it": "forte / rumoroso",
+      "turkish_tr": "yüksek sesli / gürültülü"
+    }
+  },
+  "7157": {
+    "id": 7157,
+    "lemma": "amorphous",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "difficulty_score": "8",
+    "category": "Mind & Thinking",
+    "ai_confidence": 0.95,
+    "phonetic_us": "əˈmɔːrfəs",
+    "phonetic_uk": "əˈmɔːfəs",
+    "phonetic_ar": "أَمُورْفَس",
+    "definition_en": "Lacking a clear shape, definite structure, or organized character.",
+    "explanation_ar": "يصف الشيء الذي لا يمتلك شكلا محددا أو بنية واضحة، سواء كان مادة فيزيائية كالسائل والغاز، أو فكرة وتنظيما غير محدد الملامح.",
+    "examples": [
+      {
+        "example_text": "The dark cloud was an amorphous mass drifting across the night sky.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The committee presented an amorphous plan that lacked clear objectives and deadlines.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "Without strong leadership, the movement remained an amorphous group of dissatisfied citizens.",
+        "intended_cefr": "C2"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان البداية a تعني بدون و morph تعني شكل مثل الكائنات التي تغير شكلها فكلمة amorphous تعني بلا شكل محدد",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Having no definite form or distinct shape.",
+        "short_def_en": "shapeless or formless",
+        "definition_ar": "عديم الشكل او غير محدد الهيئة",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Quality",
+        "semantic_tags": [
+          "shape",
+          "appearance",
+          "physical structure"
+        ],
+        "usage_note": "Used for both physical objects that lack definite edges and non-physical ideas lacking structure.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "Lacking an organized system, clear structure, or defined character.",
+        "short_def_en": "unstructured or vague",
+        "definition_ar": "غير منظم او يفتقر للبنية الواضحة",
+        "is_primary": false,
+        "register": "Formal",
+        "primary_sense": "Concept",
+        "semantic_tags": [
+          "organization",
+          "abstract concepts",
+          "structure"
+        ],
+        "usage_note": "Commonly applied to organizations, concepts, writing, or groups.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "amorphous mass",
+      "amorphous shape",
+      "amorphous group",
+      "amorphous structure"
+    ],
+    "synonyms": [
+      "shapeless",
+      "formless",
+      "unstructured",
+      "vague",
+      "indeterminate"
+    ],
+    "antonyms": [
+      "shaped",
+      "structured",
+      "defined"
+    ],
+    "related_words": {
+      "en": [
+        "morphology",
+        "metamorphosis",
+        "structure",
+        "shape"
+      ],
+      "ar": [
+        "علم تشكل الكائنات",
+        "تحول شكلي",
+        "بنية",
+        "شكل"
+      ]
+    },
+    "word_family": {
+      "noun": "amorphousness",
+      "verb": "",
+      "adj": "amorphous",
+      "adv": "amorphously"
+    },
+    "translations": {
+      "arabic_ar": "عديم الشكل / غير متبلور / غير محدد",
+      "french_fr": "amorphe",
+      "german_de": "amorph",
+      "spanish_es": "amorfo",
+      "chinese_zh": "无定形的 (wú dìng xíng de)",
+      "russian_ru": "аморфный",
+      "portuguese_pt": "amorfo",
+      "japanese_ja": "無定形の (muteikei no)",
+      "italian_it": "amorfo",
+      "turkish_tr": "biçimsiz"
+    }
+  },
+  "5673": {
+    "id": 5673,
+    "lemma": "memo",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "difficulty_score": "3",
+    "category": "Work & Business",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ˈmɛmoʊ",
+    "phonetic_uk": "ˈmɛməʊ",
+    "phonetic_ar": "مِيمُو",
+    "definition_en": "A short official note or message sent from one person or department to another within an organization.",
+    "explanation_ar": "مذكرة رسمية موجزة تُرسل داخليا بين موظفي المؤسسة أو أقسامها للتوجيه أو التذكير بأمر محدد.",
+    "examples": [
+      {
+        "example_text": "The director sent an urgent memo reminding staff about the revised security policy.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Please circulate this internal memo before the department head leaves for the weekend.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "She drafted a concise memo outlining the main budgetary changes for next quarter.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"memory\" فكلمة \"memo\" اختصار لكلمة تهدف لتذكير الموظفين بأمر مهم في العمل.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "A short written official communication sent within a business, office, or organization.",
+        "short_def_en": "internal written note",
+        "definition_ar": "مذكرة رسمية قصيرة يتم تداولها داخليا بين الموظفين في بيئة العمل.",
+        "is_primary": true,
+        "register": "Formal",
+        "primary_sense": "Communication",
+        "semantic_tags": [
+          "business",
+          "workplace",
+          "communication"
+        ],
+        "usage_note": "A short form of memorandum, typically used in administrative and office contexts.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "send a memo",
+      "internal memo",
+      "draft a memo",
+      "confidential memo",
+      "circulate a memo"
+    ],
+    "synonyms": [
+      "memorandum",
+      "message",
+      "circular",
+      "notice",
+      "note"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "reminder",
+        "bulletin",
+        "correspondence",
+        "staff",
+        "office"
+      ],
+      "ar": [
+        "تذكير",
+        "نشرة",
+        "مراسلات",
+        "موظفون",
+        "مكتب"
+      ]
+    },
+    "word_family": {
+      "noun": "memorandum",
+      "verb": "memo",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "مُذَكِّرَة",
+      "french_fr": "note de service",
+      "german_de": "Memo",
+      "spanish_es": "memorando",
+      "chinese_zh": "备忘录 (Bèiwànglù)",
+      "russian_ru": "служебная записка",
+      "portuguese_pt": "memorando",
+      "japanese_ja": "社内連絡 (Shanai renraku)",
+      "italian_it": "promemoria",
+      "turkish_tr": "not"
+    }
+  },
+  "5496": {
+    "id": 5496,
+    "lemma": "blend",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "difficulty_score": "5",
+    "category": "Actions & Processes",
+    "ai_confidence": 0.95,
+    "phonetic_us": "blend",
+    "phonetic_uk": null,
+    "phonetic_ar": "بلِيند",
+    "definition_en": "To mix different substances, qualities, or styles together smoothly so they form a harmonious single unit.",
+    "explanation_ar": "يمزج أو يخلط شيئين أو أكثر معا بتناسق وانسجام، سواء كان ذلك خلطا ماديا للمكونات أو دمج عناصر مجردة كالأفكار والأساليب.",
+    "examples": [
+      {
+        "example_text": "Good writers often blend humor with serious political commentary.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The architect tried to blend modern glass elements with traditional stone walls.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "Chameleons can blend into their background to hide from predators.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر جهاز الـ blender في المطبخ وظيفته ان يقوم بـ \"blend\" المكونات حتى تصبح خليطا متجانسا وواحدا.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "To combine different things or qualities in a pleasing or successful way.",
+        "short_def_en": "combine harmoniously",
+        "definition_ar": "يمزج أو يدمج عناصر مختلفة بشكل متناغم وناجح.",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Change",
+        "semantic_tags": [
+          "combination",
+          "harmony",
+          "abstract mixing"
+        ],
+        "usage_note": "Frequently used with abstract nouns like traditions, styles, or cultures.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "To mix two or more substances thoroughly together.",
+        "short_def_en": "mix substances thoroughly",
+        "definition_ar": "يخلط مواد مختلفة تماما حتى تتجانس.",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Action",
+        "semantic_tags": [
+          "cooking",
+          "chemistry",
+          "substances"
+        ],
+        "usage_note": "Common in culinary and manufacturing contexts.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 3,
+        "definition_en": "To look so similar to surrounding things that you become difficult to see.",
+        "short_def_en": "merge into surroundings",
+        "definition_ar": "يتماهى أو يندمج مع البيئة المحيطة بحيث يصعب تمييزه.",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "State",
+        "semantic_tags": [
+          "camouflage",
+          "appearance",
+          "nature"
+        ],
+        "usage_note": "Almost always followed by the preposition 'in' or 'into'.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "blend in",
+      "blend into",
+      "blend together",
+      "blend seamlessly",
+      "blend well"
+    ],
+    "synonyms": [
+      "mix",
+      "merge",
+      "fuse",
+      "combine",
+      "integrate"
+    ],
+    "antonyms": [
+      "separate",
+      "isolate",
+      "divide"
+    ],
+    "related_words": {
+      "en": [
+        "blender",
+        "mixture",
+        "harmony",
+        "hybrid",
+        "fusion"
+      ],
+      "ar": [
+        "خلاط",
+        "مزيج",
+        "تناغم",
+        "هجين",
+        "اندماج"
+      ]
+    },
+    "word_family": {
+      "noun": "blend",
+      "verb": "blend",
+      "adj": "blended",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "يمزج / يدمج / ينسجم",
+      "french_fr": "mélanger",
+      "german_de": "mischen",
+      "spanish_es": "mezclar",
+      "chinese_zh": "混合 (hùnhé)",
+      "russian_ru": "смешивать",
+      "portuguese_pt": "misturar",
+      "japanese_ja": "混ぜる (Mazeru)",
+      "italian_it": "fondere",
+      "turkish_tr": "harmanlamak"
+    }
+  },
+  "5055": {
+    "id": 5055,
+    "lemma": "puzzle",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "difficulty_score": "4",
+    "category": "Mind & Thinking",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ˈpʌz.əl",
+    "phonetic_uk": null,
+    "phonetic_ar": "بَزِل",
+    "definition_en": "A game, question, or problem designed to test mental skill, knowledge, or clever thinking.",
+    "explanation_ar": "لغز أو أحجية أو مسألة فكرية تتطلب التفكير والذكاء لحلها، وقد تشير أيضاً إلى لعبة تركيب الصور.",
+    "examples": [
+      {
+        "example_text": "Scientists are trying to solve the complex genetic puzzle behind the disease.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "He spent the entire rainy afternoon working on a difficult crossword puzzle.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "Her sudden resignation remains a complete puzzle to her colleagues.",
+        "intended_cefr": "B2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"puzzle\" كأنها بازل ألعاب التركيب والأحاجي التي تحتاج إلى ترتيب القطع لحل اللغز.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "A game or toy designed to test ingenuity or knowledge, such as a crossword.",
+        "short_def_en": "game testing mental skill",
+        "definition_ar": "أحجية أو لعبة ذكاء مثل الكلمات المتقاطعة أو تركيب الصور",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Object",
+        "semantic_tags": [
+          "games",
+          "thinking",
+          "entertainment"
+        ],
+        "usage_note": "Often used for physical games like jigsaw puzzles as well as word games.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "A person, thing, or situation that is mysterious and difficult to understand or explain.",
+        "short_def_en": "mysterious situation or person",
+        "definition_ar": "أمر محير أو غامض يصعب تفسيره أو فهمه",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Concept",
+        "semantic_tags": [
+          "mystery",
+          "confusion",
+          "problems"
+        ],
+        "usage_note": "Commonly preceded by adjectives like complete, real, or unsolved.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "crossword puzzle",
+      "jigsaw puzzle",
+      "solve a puzzle",
+      "piece together a puzzle",
+      "remain a puzzle"
+    ],
+    "synonyms": [
+      "riddle",
+      "enigma",
+      "mystery",
+      "conundrum",
+      "brainteaser"
+    ],
+    "antonyms": [
+      "solution",
+      "explanation"
+    ],
+    "related_words": {
+      "en": [
+        "mystery",
+        "clue",
+        "piece",
+        "solution",
+        "logic"
+      ],
+      "ar": [
+        "غموض",
+        "دليل",
+        "قطعة",
+        "حل",
+        "منطق"
+      ]
+    },
+    "word_family": {
+      "noun": "puzzlement",
+      "verb": "puzzle",
+      "adj": "puzzling",
+      "adv": "puzzlingly"
+    },
+    "translations": {
+      "arabic_ar": "لغز / أحجية",
+      "french_fr": "énigme / casse-tête",
+      "german_de": "Rätsel",
+      "spanish_es": "rompecabezas / enigma",
+      "chinese_zh": "谜 (Mí) / 拼图 (Pīntú)",
+      "russian_ru": "головоломка / загадка",
+      "portuguese_pt": "quebra-cabeça / enigma",
+      "japanese_ja": "パズル (Pazuru) / 謎 (Nazo)",
+      "italian_it": "rompicapo / enigma",
+      "turkish_tr": "bulmaca / bilmece"
+    }
+  },
+  "6917": {
+    "id": 6917,
+    "lemma": "gastric",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "difficulty_score": "4",
+    "category": "Health & Senses",
+    "ai_confidence": 0.95,
+    "phonetic_us": "ˈɡæstrɪk",
+    "phonetic_uk": null,
+    "phonetic_ar": "غَاسْتْرِك",
+    "definition_en": "Relating to or located in the stomach.",
+    "explanation_ar": "صفة طبية تشير إلى كل ما يتعلق بالمعدة أو يرتبط بوظائفها وأمراضها.",
+    "examples": [
+      {
+        "example_text": "The patient complained of severe gastric pain after eating.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "Excess production of gastric acid can cause irritation to the stomach lining.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "She underwent gastric bypass surgery to improve her overall health.",
+        "intended_cefr": "C2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة gastronomy التي تعني فن الطهي والأكل، وكل طعام يستقر أخيرا في المعدة gastric.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Connected with the stomach or stomach functions.",
+        "short_def_en": "relating to the stomach",
+        "definition_ar": "متعلق بالمعدة أو خاص بها",
+        "is_primary": true,
+        "register": "Technical",
+        "primary_sense": "Attribute",
+        "semantic_tags": [
+          "anatomy",
+          "medicine",
+          "health"
+        ],
+        "usage_note": "Commonly used in medical contexts describing organs, secretions, or ailments related to the stomach.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "gastric juice",
+      "gastric acid",
+      "gastric ulcer",
+      "gastric bypass",
+      "gastric flu"
+    ],
+    "synonyms": [
+      "stomach",
+      "abdominal"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "stomach",
+        "gastrointestinal",
+        "digestion",
+        "abdomen"
+      ],
+      "ar": [
+        "معدة",
+        "معوي معدي",
+        "هضم",
+        "بطن"
+      ]
+    },
+    "word_family": {
+      "noun": "gastritis",
+      "verb": "",
+      "adj": "gastric",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "مَعِديّ",
+      "french_fr": "gastrique",
+      "german_de": "Magen-",
+      "spanish_es": "gástrico",
+      "chinese_zh": "胃的 (wèi de)",
+      "russian_ru": "желудочный",
+      "portuguese_pt": "gástrico",
+      "japanese_ja": "胃の (I no)",
+      "italian_it": "gastrico",
+      "turkish_tr": "mideye ait"
+    }
+  },
+  "5433": {
+    "id": 5433,
+    "lemma": "stir",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "difficulty_score": "5",
+    "category": "Feelings & Emotions",
+    "ai_confidence": 0.95,
+    "phonetic_us": "stɜːr",
+    "phonetic_uk": "stɜː",
+    "phonetic_ar": "ستِير",
+    "definition_en": "To cause a strong feeling, reaction, or memory to arise in someone.",
+    "explanation_ar": "يثير مشاعر قوية أو ذكريات أو ردود فعل حماسية لدى شخص أو جماعة.",
+    "examples": [
+      {
+        "example_text": "Such passionate speeches never fail to stir deep feelings of patriotism among listeners.",
+        "intended_cefr": "C1"
+      },
+      {
+        "example_text": "Old photographs often stir memories that had long been forgotten.",
+        "intended_cefr": "B2"
+      },
+      {
+        "example_text": "The government hoped the new policies would stir public interest in renewable energy.",
+        "intended_cefr": "C1"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان كلمة \"stir\" تشبه صوت ملعقة تحرك السائل بحماس فتحرك المشاعر الكامنة داخلك بقوة",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "To cause a strong feeling, reaction, or memory to arise in someone.",
+        "short_def_en": "evoke feelings or memories",
+        "definition_ar": "يثير عاطفة او ذكرى او رد فعل قوي",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Emotion",
+        "semantic_tags": [
+          "feelings",
+          "psychology",
+          "reaction"
+        ],
+        "usage_note": "Often used with emotions such as anger, pity, passion, or nostalgia.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "To move a liquid or substance using an implement to mix it thoroughly.",
+        "short_def_en": "mix by moving",
+        "definition_ar": "يحرك سائلا او طعاما بملعقة لمزجه",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "Action",
+        "semantic_tags": [
+          "cooking",
+          "food",
+          "movement"
+        ],
+        "usage_note": "This is the everyday concrete meaning, commonly used in cooking.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 3,
+        "definition_en": "To begin to move slightly after being still or asleep.",
+        "short_def_en": "begin moving slightly",
+        "definition_ar": "يتحرك حركة خفيفة بعد سكون او نوم",
+        "is_primary": false,
+        "register": "Literary",
+        "primary_sense": "Movement",
+        "semantic_tags": [
+          "movement",
+          "sleep",
+          "waking"
+        ],
+        "usage_note": "",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "stir emotions",
+      "stir memories",
+      "stir up controversy",
+      "stir gently",
+      "hardly stir"
+    ],
+    "synonyms": [
+      "arouse",
+      "evoke",
+      "provoke",
+      "rouse",
+      "agitate"
+    ],
+    "antonyms": [
+      "suppress",
+      "calm",
+      "quell"
+    ],
+    "related_words": {
+      "en": [
+        "emotion",
+        "agitation",
+        "movement",
+        "reaction",
+        "memory"
+      ],
+      "ar": [
+        "عاطفة",
+        "اضطراب",
+        "حركة",
+        "رد فعل",
+        "ذكرى"
+      ]
+    },
+    "word_family": {
+      "noun": "stir",
+      "verb": "stir",
+      "adj": "stirring",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "يُثير / يُحرّك",
+      "french_fr": "émouvoir",
+      "german_de": "wecken",
+      "spanish_es": "suscitar",
+      "chinese_zh": "激起 (Jīqǐ)",
+      "russian_ru": "пробуждать",
+      "portuguese_pt": "suscitar",
+      "japanese_ja": "呼び起こす (Yobiokosu)",
+      "italian_it": "suscitare",
+      "turkish_tr": "uyandırmak"
+    }
+  },
+  "6603": {
+    "id": 6603,
+    "lemma": "gardener",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "difficulty_score": "2",
+    "category": "Work & Business",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ˈɡɑːrdnər",
+    "phonetic_uk": "ˈɡɑːdnə",
+    "phonetic_ar": "غَارْدْنَر",
+    "definition_en": "A person whose job or hobby is growing and caring for plants, flowers, or vegetables.",
+    "explanation_ar": "شخص يعمل في رعاية الحدائق وزراعة النباتات والأزهار إما كمهنة أو كهواية.",
+    "examples": [
+      {
+        "example_text": "The gardener planted new rose bushes along the fence.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "They hired a professional gardener to maintain the hotel grounds.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "Even an inexperienced gardener can easily grow these herbs.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": null,
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "A person whose job or hobby is growing and caring for plants, flowers, or vegetables.",
+        "short_def_en": "person who cares for plants",
+        "definition_ar": "شخص يعتني بالنباتات والحدائق كمهنة او هواية",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Person",
+        "semantic_tags": [
+          "gardening",
+          "occupations",
+          "nature"
+        ],
+        "usage_note": "",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "landscape gardener",
+      "keen gardener",
+      "professional gardener",
+      "market gardener"
+    ],
+    "synonyms": [
+      "horticulturist",
+      "groundsman"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "garden",
+        "soil",
+        "plants",
+        "prune",
+        "lawn"
+      ],
+      "ar": [
+        "حديقة",
+        "تربة",
+        "نباتات",
+        "يشذب",
+        "عشب"
+      ]
+    },
+    "word_family": {
+      "noun": "garden",
+      "verb": "garden",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "بُسْتَانِيّ / جَنَائِنِيّ",
+      "french_fr": "jardinier",
+      "german_de": "Gärtner",
+      "spanish_es": "jardinero",
+      "chinese_zh": "园丁 (yuándīng)",
+      "russian_ru": "садовник",
+      "portuguese_pt": "jardineiro",
+      "japanese_ja": "庭師 (Niwashi)",
+      "italian_it": "giardiniere",
+      "turkish_tr": "bahçıvan"
+    }
+  },
+  "1295": {
+    "id": 1295,
+    "lemma": "independent",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "difficulty_score": "4",
+    "category": "Mind & Thinking",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ˌɪndɪˈpendənt",
+    "phonetic_uk": null,
+    "phonetic_ar": "إِندِبِينْدَنْت",
+    "definition_en": "Free from the control, influence, or financial support of others.",
+    "explanation_ar": "يصف الشخص او الكيان القادر على تدبير اموره واتخاذ قراراته بنفسه دون الاعتماد على الاخرين او الخضوع لتحكمهم.",
+    "examples": [
+      {
+        "example_text": "She wants to get a job so she can be financially independent.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "He prefers working alone because he is very independent.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "The country became an independent nation fifty years ago.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان كلمة \"depend\" تعني يعتمد على شخص وعند اضافة بادئة النفي \"in\" تصبح الكلمة تعني غير معتمد على احد اي حر ومستقل",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "Not needing help or money from other people.",
+        "short_def_en": "self-reliant or autonomous",
+        "definition_ar": "مستقل بذاته ومعتمد على نفسه دون مساعدة من احد",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Quality",
+        "semantic_tags": [
+          "character",
+          "lifestyle",
+          "finance"
+        ],
+        "usage_note": "Often followed by the preposition 'of'.",
+        "mnemonic_ar": null
+      },
+      {
+        "sense_no": 2,
+        "definition_en": "Ruled by its own government rather than by another country.",
+        "short_def_en": "self-governing politically",
+        "definition_ar": "دولة او جهة ذات سيادة لا تخضع لحكم خارجي",
+        "is_primary": false,
+        "register": "Neutral",
+        "primary_sense": "State",
+        "semantic_tags": [
+          "politics",
+          "geography",
+          "government"
+        ],
+        "usage_note": "Frequently used to describe nations, states, or organizations.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "become independent",
+      "financially independent",
+      "independent country",
+      "independent state",
+      "fiercely independent"
+    ],
+    "synonyms": [
+      "autonomous",
+      "self-reliant",
+      "free",
+      "self-sufficient"
+    ],
+    "antonyms": [
+      "dependent",
+      "reliant"
+    ],
+    "related_words": {
+      "en": [
+        "freedom",
+        "autonomy",
+        "liberty",
+        "individual"
+      ],
+      "ar": [
+        "حرية",
+        "حكم ذاتي",
+        "استقلال",
+        "فرد"
+      ]
+    },
+    "word_family": {
+      "noun": "independence",
+      "verb": "",
+      "adj": "independent",
+      "adv": "independently"
+    },
+    "translations": {
+      "arabic_ar": "مستقل / معتمد على نفسه",
+      "french_fr": "indépendant",
+      "german_de": "unabhängig",
+      "spanish_es": "independiente",
+      "chinese_zh": "独立的 (Dúlì de)",
+      "russian_ru": "независимый",
+      "portuguese_pt": "independente",
+      "japanese_ja": "独立した (Dokuritsu shita)",
+      "italian_it": "indipendente",
+      "turkish_tr": "bağımsız"
+    }
+  },
+  "5167": {
+    "id": 5167,
+    "lemma": "dial",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "difficulty_score": "3",
+    "category": "Actions & Processes",
+    "ai_confidence": 0.95,
+    "phonetic_us": "daɪəl",
+    "phonetic_uk": "daɪəl",
+    "phonetic_ar": "دايَل",
+    "definition_en": "To enter a phone number by pressing buttons or turning a disc to make a call.",
+    "explanation_ar": "إدخال رقم هاتف معين بالضغط على الأزرار أو الشاشة لإجراء مكالمة هاتفية.",
+    "examples": [
+      {
+        "example_text": "Please dial 911 immediately if there is an emergency.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "You do not need to dial the area code for local calls.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "I tried to dial his number several times, but the line was busy.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة \"dial\" عبر تخيل دائرة الأرقام القديمة في الهاتف التي تديرها بإصبعك لتتصل",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "To enter a phone number using keys, buttons, or a screen to place a call.",
+        "short_def_en": "call a phone number",
+        "definition_ar": "يطلب رقم هاتف بالضغط على الأزرار لإجراء اتصال",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Action",
+        "semantic_tags": [
+          "communication",
+          "telephony",
+          "actions"
+        ],
+        "usage_note": "Used for both modern push-button/touchscreen phones and traditional rotary phones.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "dial a number",
+      "dial 911",
+      "dial direct",
+      "dial the wrong number"
+    ],
+    "synonyms": [
+      "call",
+      "phone",
+      "ring"
+    ],
+    "antonyms": [
+      "hang up"
+    ],
+    "related_words": {
+      "en": [
+        "phone",
+        "keypad",
+        "number",
+        "operator",
+        "call"
+      ],
+      "ar": [
+        "هاتف",
+        "لوحة مفاتيح",
+        "رقم",
+        "عامل تحويلة",
+        "مكالمة"
+      ]
+    },
+    "word_family": {
+      "noun": "dial",
+      "verb": "dial",
+      "adj": "",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "يطلب رقما / يتصل",
+      "french_fr": "composer",
+      "german_de": "wählen",
+      "spanish_es": "marcar",
+      "chinese_zh": "拨打 (Bōdǎ)",
+      "russian_ru": "набирать",
+      "portuguese_pt": "discar",
+      "japanese_ja": "ダイヤルする (Daiyaru suru)",
+      "italian_it": "comporre",
+      "turkish_tr": "numara çevirmek"
+    }
+  },
+  "474": {
+    "id": 474,
+    "lemma": "thank",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "difficulty_score": "1",
+    "category": "Social Life & Communication",
+    "ai_confidence": 0.98,
+    "phonetic_us": "θæŋk",
+    "phonetic_uk": null,
+    "phonetic_ar": "ثَانْك",
+    "definition_en": "To tell someone that you are grateful for something they have given or done for you.",
+    "explanation_ar": "ان تعبر لشخص ما عن الامتنان والتقدير لمساعدته او لشيء قدمه لك.",
+    "examples": [
+      {
+        "example_text": "I want to thank you for your kind help.",
+        "intended_cefr": "A1"
+      },
+      {
+        "example_text": "Did you thank your teacher after the lesson?",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "We should write a letter to thank them for the gift.",
+        "intended_cefr": "B1"
+      }
+    ],
+    "mnemonic_ar": "تذكر ان كلمة \"thank\" هي الفعل المباشر في العبارة اليومية الشهيرة \"thank you\" التي تقولها دائما لتعبر عن الشكر.",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "To express gratitude to someone for a favor, help, or gift.",
+        "short_def_en": "express gratitude to",
+        "definition_ar": "يعرب عن امتنانه او يوجه الشكر لشخص ما",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Communication",
+        "semantic_tags": [
+          "politeness",
+          "gratitude",
+          "conversation"
+        ],
+        "usage_note": "Often followed directly by the person being thanked and then 'for' plus the reason.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "thank you",
+      "thank someone for",
+      "thank personally",
+      "warmly thank"
+    ],
+    "synonyms": [
+      "acknowledge",
+      "appreciate"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "grateful",
+        "gratitude",
+        "appreciation",
+        "polite"
+      ],
+      "ar": [
+        "ممتن",
+        "امتنان",
+        "تقدير",
+        "مهذب"
+      ]
+    },
+    "word_family": {
+      "noun": "thanks",
+      "verb": "thank",
+      "adj": "thankful",
+      "adv": "thankfully"
+    },
+    "translations": {
+      "arabic_ar": "يشكر",
+      "french_fr": "remercier",
+      "german_de": "danken",
+      "spanish_es": "agradecer",
+      "chinese_zh": "感谢 (gǎn xiè)",
+      "russian_ru": "благодарить",
+      "portuguese_pt": "agradecer",
+      "japanese_ja": "感謝する (Kansha suru)",
+      "italian_it": "ringraziare",
+      "turkish_tr": "teşekkür etmek"
+    }
+  },
+  "937": {
+    "id": 937,
+    "lemma": "election",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "difficulty_score": "3",
+    "category": "Social Life & Communication",
+    "ai_confidence": 0.98,
+    "phonetic_us": "ɪˈlɛkʃn",
+    "phonetic_uk": null,
+    "phonetic_ar": "إِلِكْشَن",
+    "definition_en": "An organized process where people vote to choose leaders or make official decisions.",
+    "explanation_ar": "عملية تصويت رسمية ومنظمة يختار فيها الناس شخصا لشغل منصب أو قيادة بلد.",
+    "examples": [
+      {
+        "example_text": "The country will hold a general election next month.",
+        "intended_cefr": "A2"
+      },
+      {
+        "example_text": "She won the election by a very large majority of votes.",
+        "intended_cefr": "B1"
+      },
+      {
+        "example_text": "Public debates play a decisive role in every presidential election.",
+        "intended_cefr": "B2"
+      }
+    ],
+    "mnemonic_ar": "تذكر كلمة select بمعنى يختار فكلمة election هي عملية الاختيار والتصويت الرسمي لاختيار القائد",
+    "senses": [
+      {
+        "sense_no": 1,
+        "definition_en": "An organized occasion where people vote to choose someone for a political position.",
+        "short_def_en": "voting to choose leaders",
+        "definition_ar": "عملية تصويت يختار فيها المواطنون ممثليهم أو حكامهم السياسيين",
+        "is_primary": true,
+        "register": "Neutral",
+        "primary_sense": "Event",
+        "semantic_tags": [
+          "politics",
+          "voting",
+          "government"
+        ],
+        "usage_note": "Often preceded by adjectives like general, local, or presidential.",
+        "mnemonic_ar": null
+      }
+    ],
+    "collocations": [
+      "hold an election",
+      "win an election",
+      "lose an election",
+      "general election",
+      "presidential election"
+    ],
+    "synonyms": [
+      "vote",
+      "ballot",
+      "poll"
+    ],
+    "antonyms": [],
+    "related_words": {
+      "en": [
+        "vote",
+        "candidate",
+        "campaign",
+        "ballot",
+        "democracy",
+        "voter"
+      ],
+      "ar": [
+        "تصويت",
+        "مرشح",
+        "حملة انتخابية",
+        "ورقة اقتراع",
+        "ديمقراطية",
+        "ناخب"
+      ]
+    },
+    "word_family": {
+      "noun": "election",
+      "verb": "elect",
+      "adj": "elective",
+      "adv": ""
+    },
+    "translations": {
+      "arabic_ar": "انتخابات / اقتراع",
+      "french_fr": "élection",
+      "german_de": "Wahl",
+      "spanish_es": "elección",
+      "chinese_zh": "选举 (Xuǎnjǔ)",
+      "russian_ru": "выборы",
+      "portuguese_pt": "eleição",
+      "japanese_ja": "選挙 (Senkyo)",
+      "italian_it": "elezione",
+      "turkish_tr": "seçim"
+    }
+  }
+}

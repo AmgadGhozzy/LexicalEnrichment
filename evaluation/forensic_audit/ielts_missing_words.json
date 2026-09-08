@@ -1,0 +1,1580 @@
+{
+ "snapshot": {
+  "db": "1000 IELTS Vocabulary/IeltsWord.db",
+  "sha256": "69416c58f881334d5e24a6039a9b3167eb171c78535c2e5f727d17c39ce0646a",
+  "bytes": 1110016,
+  "vs": "WordsMaster.db 7300 rows (cfabafa8)"
+ },
+ "counts": {
+  "ielts_rows": 1022,
+  "ielts_unique_lemmas": 986,
+  "overlap_rows": 712,
+  "missing_rows": 310,
+  "multiword_entries": 34
+ },
+ "overlap_cefr_dist": {
+  "B2": 293,
+  "A2": 134,
+  "B1": 179,
+  "A1": 74,
+  "C1": 150,
+  "C2": 5
+ },
+ "missing": [
+  {
+   "ielts_id": 1,
+   "word": "adolescence",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 3,
+   "word": "adulthood",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 5,
+   "word": "brotherhood",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 9,
+   "word": "close-knit",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 14,
+   "word": "fatherhood",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 18,
+   "word": "maternal",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 21,
+   "word": "nurture",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 23,
+   "word": "paternal",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 28,
+   "word": "rewarding",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 32,
+   "word": "temperament",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 35,
+   "word": "upbringing",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 40,
+   "word": "behavior",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 50,
+   "word": "immature",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 53,
+   "word": "infancy",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 54,
+   "word": "irresponsible",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 56,
+   "word": "look back",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 60,
+   "word": "milestone",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 67,
+   "word": "rebellious",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 70,
+   "word": "reminisce",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 74,
+   "word": "toddler",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 77,
+   "word": "allergic",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 78,
+   "word": "alternate",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 81,
+   "word": "artery",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 85,
+   "word": "brisk",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 87,
+   "word": "counteract",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 88,
+   "word": "crave",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 89,
+   "word": "curb",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 94,
+   "word": "dietitian",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 108,
+   "word": "insomnia",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 112,
+   "word": "muscular",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 114,
+   "word": "nutritious",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 116,
+   "word": "onset",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 117,
+   "word": "overdo",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 118,
+   "word": "overeat",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 119,
+   "word": "overweight",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 139,
+   "word": "acclimatize",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 140,
+   "word": "asteroid",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 141,
+   "word": "astronaut",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 143,
+   "word": "colonize",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 145,
+   "word": "cosmos",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 146,
+   "word": "crater",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 158,
+   "word": "lunar",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 159,
+   "word": "meteor",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 163,
+   "word": "outer space",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 165,
+   "word": "propel",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 170,
+   "word": "simulator",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 172,
+   "word": "solar system",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 174,
+   "word": "space shuttle",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 175,
+   "word": "space station",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 176,
+   "word": "spacecraft",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 179,
+   "word": "terrestrial",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 182,
+   "word": "uninhabitable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 184,
+   "word": "unmanned",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 185,
+   "word": "weightlessness",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 187,
+   "word": "antivirus",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 190,
+   "word": "computerisation",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 193,
+   "word": "dated",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 200,
+   "word": "gadget",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 202,
+   "word": "keypad",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 203,
+   "word": "labour-saving",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 209,
+   "word": "operating system",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 213,
+   "word": "prototype",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 214,
+   "word": "remote control",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 215,
+   "word": "revolutionize",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 216,
+   "word": "scroll",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 217,
+   "word": "silicon chip",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 219,
+   "word": "state-of-the-art",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 221,
+   "word": "surpass",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 223,
+   "word": "telecommunications",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 225,
+   "word": "user-friendly",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 228,
+   "word": "wireless",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 233,
+   "word": "demographics",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 236,
+   "word": "hindsight",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 245,
+   "word": "joint venture",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 248,
+   "word": "modernisation",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 249,
+   "word": "multiculturalism",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 266,
+   "word": "mid-term",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 278,
+   "word": "dwindle",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 283,
+   "word": "acid rain",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 284,
+   "word": "biodiversity",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 285,
+   "word": "climate change",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 286,
+   "word": "contamination",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 287,
+   "word": "deforestation",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 290,
+   "word": "ecosystem",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 295,
+   "word": "fertilizer",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 297,
+   "word": "food chain",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 298,
+   "word": "fumes",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 299,
+   "word": "greenhouse gases",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 300,
+   "word": "pollutant",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 306,
+   "word": "achievable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 307,
+   "word": "advantageous",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 308,
+   "word": "at-risk",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 311,
+   "word": "conceivable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 312,
+   "word": "devastating",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 314,
+   "word": "environmentally friendly",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 316,
+   "word": "fruitless",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 317,
+   "word": "futile",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 319,
+   "word": "impracticable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 320,
+   "word": "improbable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 322,
+   "word": "insoluble",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 323,
+   "word": "irreparable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 324,
+   "word": "irreplaceable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 325,
+   "word": "irreversible",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 327,
+   "word": "life-threatening",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 328,
+   "word": "pervasive",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 329,
+   "word": "pointless",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 330,
+   "word": "pristine",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 331,
+   "word": "questionable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 332,
+   "word": "recyclable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 334,
+   "word": "taxing",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 335,
+   "word": "unattainable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 340,
+   "word": "visualize",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 344,
+   "word": "aggravate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 347,
+   "word": "booming",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 348,
+   "word": "catastrophic",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 357,
+   "word": "developing",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 360,
+   "word": "double-edged",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 362,
+   "word": "exacerbate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 371,
+   "word": "long-sighted",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 372,
+   "word": "megacity",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 373,
+   "word": "migrant",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 377,
+   "word": "overpriced",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 378,
+   "word": "overworked",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 382,
+   "word": "pressing",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 389,
+   "word": "setback",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 390,
+   "word": "short-sighted",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 391,
+   "word": "slum",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 392,
+   "word": "staggering",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 396,
+   "word": "worsen",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 398,
+   "word": "adventurous",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 402,
+   "word": "breathtaking",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 405,
+   "word": "cosmopolitan",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 409,
+   "word": "ecotourism",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 416,
+   "word": "itinerary",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 420,
+   "word": "luggage",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 421,
+   "word": "luxurious",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 422,
+   "word": "mountainous",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 425,
+   "word": "picturesque",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 426,
+   "word": "polluted",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 427,
+   "word": "quaint",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 430,
+   "word": "scenic",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 438,
+   "word": "unspoilt",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 455,
+   "word": "customize",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 456,
+   "word": "demanding",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 461,
+   "word": "exhausting",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 476,
+   "word": "monotonous",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 480,
+   "word": "overtime",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 481,
+   "word": "packaging",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 484,
+   "word": "perk",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 494,
+   "word": "rewarding",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 509,
+   "word": "archaeologist",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 516,
+   "word": "the Middle Ages",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 517,
+   "word": "millennium",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 521,
+   "word": "timeline",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 523,
+   "word": "chronological",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 527,
+   "word": "middle-aged",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 528,
+   "word": "nostalgic",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 529,
+   "word": "prehistoric",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 531,
+   "word": "time-consuming",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 532,
+   "word": "erode",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 534,
+   "word": "predate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 539,
+   "word": "burrow",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 543,
+   "word": "den",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 545,
+   "word": "ecology",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 547,
+   "word": "extinction",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 548,
+   "word": "fauna",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 549,
+   "word": "flora",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 550,
+   "word": "genetics",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 553,
+   "word": "Mother Nature",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 554,
+   "word": "pesticide",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 557,
+   "word": "repercussion",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 560,
+   "word": "vermin",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 562,
+   "word": "arid",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 563,
+   "word": "domesticated",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 564,
+   "word": "endangered",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 565,
+   "word": "genetically modified",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 568,
+   "word": "resistant",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 569,
+   "word": "semi-arid",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 575,
+   "word": "eradicate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 576,
+   "word": "hibernate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 581,
+   "word": "inexorably",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 585,
+   "word": "conjecture",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 586,
+   "word": "dialect",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 587,
+   "word": "fluency",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 591,
+   "word": "linguistics",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 593,
+   "word": "mother tongue",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 594,
+   "word": "native speaker",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 596,
+   "word": "sign language",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 597,
+   "word": "slang",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 599,
+   "word": "bilingual",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 600,
+   "word": "incoherent",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 605,
+   "word": "comprehend",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 619,
+   "word": "flatter",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 628,
+   "word": "slander",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 630,
+   "word": "stutter",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 634,
+   "word": "biofuel",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 635,
+   "word": "blackout",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 637,
+   "word": "carbon dioxide",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 638,
+   "word": "containment",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 641,
+   "word": "fossil fuel",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 642,
+   "word": "generator",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 643,
+   "word": "hybrid",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 644,
+   "word": "oil rig",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 649,
+   "word": "turbine",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 651,
+   "word": "windmill",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 654,
+   "word": "disposable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 656,
+   "word": "eco-friendly",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 657,
+   "word": "economical",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 659,
+   "word": "hydroelectric",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 661,
+   "word": "rechargeable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 662,
+   "word": "renewable",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 663,
+   "word": "unleaded",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 665,
+   "word": "combust",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 670,
+   "word": "deplete",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 673,
+   "word": "mitigate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 674,
+   "word": "outweigh",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 678,
+   "word": "accomplished",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 681,
+   "word": "aesthetics",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 683,
+   "word": "artefact",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 687,
+   "word": "audition",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 688,
+   "word": "ballad",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 689,
+   "word": "ballerina",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 691,
+   "word": "burgeon",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 692,
+   "word": "carving",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 693,
+   "word": "choreograph",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 694,
+   "word": "chorus",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 707,
+   "word": "distracting",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 712,
+   "word": "epic",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 716,
+   "word": "farce",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 721,
+   "word": "impersonate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 723,
+   "word": "improvise",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 734,
+   "word": "masterpiece",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 736,
+   "word": "monologue",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 743,
+   "word": "pantomime",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 747,
+   "word": "plagiarism",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 749,
+   "word": "playwright",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 760,
+   "word": "stimulating",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 762,
+   "word": "surreal",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 766,
+   "word": "transcend",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 770,
+   "word": "vogue",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 778,
+   "word": "fulfillment",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 784,
+   "word": "optimist",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 788,
+   "word": "pessimist",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 791,
+   "word": "realist",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 792,
+   "word": "risk-taker",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 793,
+   "word": "self-expression",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 796,
+   "word": "dreamy",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 797,
+   "word": "well-educated",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 798,
+   "word": "painstaking",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 811,
+   "word": "dissertation",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 818,
+   "word": "high school",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 820,
+   "word": "kindergarten",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 823,
+   "word": "prodigy",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 826,
+   "word": "PhD",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 827,
+   "word": "primary school",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 834,
+   "word": "secondary school",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 836,
+   "word": "syllabus",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 844,
+   "word": "postgraduate",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 846,
+   "word": "studious",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 864,
+   "word": "elevator",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 866,
+   "word": "flooring",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 872,
+   "word": "occupant",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 876,
+   "word": "skyscraper",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 883,
+   "word": "airy",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 885,
+   "word": "cosy",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 886,
+   "word": "cramped",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 888,
+   "word": "exterior",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 890,
+   "word": "futuristic",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 891,
+   "word": "high-rise",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 896,
+   "word": "spacious",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 899,
+   "word": "automate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 902,
+   "word": "plywood",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 905,
+   "word": "renovate",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 911,
+   "word": "censorship",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 915,
+   "word": "free press",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 921,
+   "word": "mass media",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 924,
+   "word": "newsstand",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 926,
+   "word": "paparazzi",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 936,
+   "word": "distorted",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 938,
+   "word": "informative",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 939,
+   "word": "intrusive",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 941,
+   "word": "pervasive",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 943,
+   "word": "sensationalist",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 945,
+   "word": "unbiased",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 946,
+   "word": "well-informed",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 956,
+   "word": "press conference",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 957,
+   "word": "libel",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 958,
+   "word": "tabloid",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 959,
+   "word": "prime time",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 961,
+   "word": "broadsheet",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 962,
+   "word": "reality TV",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 963,
+   "word": "legal action",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 964,
+   "word": "arson",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 966,
+   "word": "burglary",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 967,
+   "word": "duress",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 970,
+   "word": "parole",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 977,
+   "word": "kidnapping",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 982,
+   "word": "pickpocket",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 985,
+   "word": "stole",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 989,
+   "word": "recklessness",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 990,
+   "word": "smuggling",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 991,
+   "word": "swearing",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 994,
+   "word": "vandalism",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 1001,
+   "word": "law-abiding",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 1002,
+   "word": "non-violent",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 1003,
+   "word": "petty crime",
+   "pos": "noun"
+  },
+  {
+   "ielts_id": 1006,
+   "word": "unintentional",
+   "pos": "adj"
+  },
+  {
+   "ielts_id": 1007,
+   "word": "break into",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 1008,
+   "word": "abide",
+   "pos": "verb"
+  },
+  {
+   "ielts_id": 1021,
+   "word": "felony",
+   "pos": "noun"
+  }
+ ],
+ "notes": [
+  "match on lowercased lemma; POS not used as filter",
+  "36 dup lemma rows in IELTS (same word, 2 topics)",
+  "34 multiword entries need single-vs-multi policy before any pilot"
+ ]
+}
