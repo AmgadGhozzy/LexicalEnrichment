@@ -1,0 +1,2143 @@
+[
+  {
+    "id": 53,
+    "lemma": "get",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 126,
+    "lemma": "right",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 136,
+    "lemma": "take",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 217,
+    "lemma": "right",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 277,
+    "lemma": "set",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 322,
+    "lemma": "right",
+    "pos": "adj",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 487,
+    "lemma": "set",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 504,
+    "lemma": "close",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 600,
+    "lemma": "close",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 695,
+    "lemma": "set",
+    "pos": "adj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 702,
+    "lemma": "record",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "minefield",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 706,
+    "lemma": "lead",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 716,
+    "lemma": "close",
+    "pos": "adv",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 752,
+    "lemma": "present",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 776,
+    "lemma": "bank",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 815,
+    "lemma": "close",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 849,
+    "lemma": "lead",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 889,
+    "lemma": "present",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1047,
+    "lemma": "present",
+    "pos": "adj",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 2381,
+    "lemma": "object",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2684,
+    "lemma": "object",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "minefield",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 21,
+    "lemma": "by",
+    "pos": "prep",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 357,
+    "lemma": "yes",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 813,
+    "lemma": "stand",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 524,
+    "lemma": "thanks",
+    "pos": "excl",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 281,
+    "lemma": "around",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 872,
+    "lemma": "east",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 800,
+    "lemma": "market",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 97,
+    "lemma": "your",
+    "pos": "det",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 71,
+    "lemma": "on",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 376,
+    "lemma": "same",
+    "pos": "adj",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2537,
+    "lemma": "theatre",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 3495,
+    "lemma": "relax",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 538,
+    "lemma": "water",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 6014,
+    "lemma": "downstairs",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1992,
+    "lemma": "email",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 54,
+    "lemma": "would",
+    "pos": "modal",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_mnemonic",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 58,
+    "lemma": "how",
+    "pos": "adv",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 32,
+    "lemma": "me",
+    "pos": "pron",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 700,
+    "lemma": "include",
+    "pos": "verb",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 2691,
+    "lemma": "grey",
+    "pos": "noun",
+    "cefr_level": "A1",
+    "strata": [
+      "cefr_a1",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 16,
+    "lemma": "as",
+    "pos": "conj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 798,
+    "lemma": "source",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1110,
+    "lemma": "gas",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1660,
+    "lemma": "prevent",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1429,
+    "lemma": "drug",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 859,
+    "lemma": "review",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 3190,
+    "lemma": "refuse",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1612,
+    "lemma": "apply",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 2498,
+    "lemma": "height",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 831,
+    "lemma": "experience",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1250,
+    "lemma": "regular",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 5982,
+    "lemma": "petrol",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 512,
+    "lemma": "series",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 1113,
+    "lemma": "top",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 994,
+    "lemma": "earth",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 910,
+    "lemma": "decision",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 154,
+    "lemma": "last",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2003,
+    "lemma": "connected",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2000,
+    "lemma": "soft",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6591,
+    "lemma": "organise",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 1354,
+    "lemma": "disease",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 915,
+    "lemma": "technology",
+    "pos": "noun",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_missing_mnemonic",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 476,
+    "lemma": "lost",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 483,
+    "lemma": "along",
+    "pos": "prep",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6844,
+    "lemma": "recycle",
+    "pos": "verb",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2293,
+    "lemma": "careful",
+    "pos": "adj",
+    "cefr_level": "A2",
+    "strata": [
+      "cefr_a2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3028,
+    "lemma": "confirm",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 3412,
+    "lemma": "unlikely",
+    "pos": "adj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 5583,
+    "lemma": "fry",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2277,
+    "lemma": "warning",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4852,
+    "lemma": "flour",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 188,
+    "lemma": "go",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3147,
+    "lemma": "hunter",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 441,
+    "lemma": "court",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5343,
+    "lemma": "unemployed",
+    "pos": "adj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2408,
+    "lemma": "promote",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4152,
+    "lemma": "hurry",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 860,
+    "lemma": "key",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2263,
+    "lemma": "mainly",
+    "pos": "adv",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 970,
+    "lemma": "version",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5593,
+    "lemma": "entertain",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1714,
+    "lemma": "journal",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 3686,
+    "lemma": "dirt",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1926,
+    "lemma": "profit",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1704,
+    "lemma": "length",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5234,
+    "lemma": "recognise",
+    "pos": "verb",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4743,
+    "lemma": "tire",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 63,
+    "lemma": "now",
+    "pos": "conj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 5024,
+    "lemma": "theirs",
+    "pos": "pron",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 5569,
+    "lemma": "dislike",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5720,
+    "lemma": "unpleasant",
+    "pos": "adj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4313,
+    "lemma": "drum",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3257,
+    "lemma": "narrative",
+    "pos": "adj",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 1008,
+    "lemma": "truth",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 420,
+    "lemma": "young",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 1599,
+    "lemma": "basis",
+    "pos": "noun",
+    "cefr_level": "B1",
+    "strata": [
+      "cefr_b1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2128,
+    "lemma": "besides",
+    "pos": "prep",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 4454,
+    "lemma": "basin",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 3128,
+    "lemma": "survival",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3802,
+    "lemma": "slight",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4669,
+    "lemma": "cope",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3054,
+    "lemma": "lifetime",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 682,
+    "lemma": "date",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3427,
+    "lemma": "fortune",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 846,
+    "lemma": "model",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2567,
+    "lemma": "blind",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2090,
+    "lemma": "numerous",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5682,
+    "lemma": "spoil",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6117,
+    "lemma": "trait",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3010,
+    "lemma": "delay",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2583,
+    "lemma": "democracy",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5445,
+    "lemma": "consult",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 1847,
+    "lemma": "democratic",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1832,
+    "lemma": "plus",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5820,
+    "lemma": "worm",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3119,
+    "lemma": "commonly",
+    "pos": "adv",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5118,
+    "lemma": "tense",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6066,
+    "lemma": "emission",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 5135,
+    "lemma": "workforce",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 6415,
+    "lemma": "staircase",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_word_family",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4799,
+    "lemma": "orchestra",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 2510,
+    "lemma": "contest",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3768,
+    "lemma": "drag",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6382,
+    "lemma": "organism",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2986,
+    "lemma": "crack",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2679,
+    "lemma": "universal",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4883,
+    "lemma": "dock",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6214,
+    "lemma": "trivial",
+    "pos": "adj",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2424,
+    "lemma": "relief",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 2868,
+    "lemma": "rank",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4400,
+    "lemma": "bombing",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4394,
+    "lemma": "receiver",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4836,
+    "lemma": "pause",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5928,
+    "lemma": "amusement",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4067,
+    "lemma": "satisfaction",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3169,
+    "lemma": "objective",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1626,
+    "lemma": "chairman",
+    "pos": "noun",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5199,
+    "lemma": "impress",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4074,
+    "lemma": "embrace",
+    "pos": "verb",
+    "cefr_level": "B2",
+    "strata": [
+      "cefr_b2",
+      "ambiguous_pos",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 1210,
+    "lemma": "whatever",
+    "pos": "adv",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "ambiguous_pos",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 5586,
+    "lemma": "breakthrough",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6810,
+    "lemma": "dictate",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5636,
+    "lemma": "assassination",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4565,
+    "lemma": "subscription",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4509,
+    "lemma": "matrix",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6593,
+    "lemma": "provoke",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4569,
+    "lemma": "demon",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4657,
+    "lemma": "meantime",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 3141,
+    "lemma": "commerce",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5259,
+    "lemma": "likelihood",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7233,
+    "lemma": "motherly",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3947,
+    "lemma": "mature",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "ambiguous_pos",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 7015,
+    "lemma": "shrub",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 3373,
+    "lemma": "treaty",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6122,
+    "lemma": "preach",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 7062,
+    "lemma": "denominator",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2729,
+    "lemma": "chamber",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6613,
+    "lemma": "weaken",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6093,
+    "lemma": "solicitor",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5792,
+    "lemma": "stab",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 4464,
+    "lemma": "duo",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5859,
+    "lemma": "newsletter",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6875,
+    "lemma": "grieve",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5063,
+    "lemma": "integral",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5067,
+    "lemma": "architectural",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4532,
+    "lemma": "lesbian",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "ambiguous_pos",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 6523,
+    "lemma": "pastry",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 7277,
+    "lemma": "stiffen",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4903,
+    "lemma": "pal",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4679,
+    "lemma": "thermal",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4816,
+    "lemma": "harassment",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 5503,
+    "lemma": "proposition",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 4771,
+    "lemma": "bounce",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "ambiguous_pos",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5751,
+    "lemma": "neglect",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4217,
+    "lemma": "chancellor",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7020,
+    "lemma": "exaggerate",
+    "pos": "verb",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk",
+      "ielts_overlap"
+    ]
+  },
+  {
+    "id": 4582,
+    "lemma": "intensive",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 3901,
+    "lemma": "solely",
+    "pos": "adv",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 2988,
+    "lemma": "bureau",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6731,
+    "lemma": "ozone",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_mnemonic"
+    ]
+  },
+  {
+    "id": 5494,
+    "lemma": "cooperative",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6972,
+    "lemma": "forceful",
+    "pos": "adj",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 5609,
+    "lemma": "premise",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6660,
+    "lemma": "antibody",
+    "pos": "noun",
+    "cefr_level": "C1",
+    "strata": [
+      "cefr_c1",
+      "legacy_missing_word_family"
+    ]
+  },
+  {
+    "id": 7262,
+    "lemma": "postulate",
+    "pos": "noun",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6252,
+    "lemma": "swell",
+    "pos": "noun",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 7070,
+    "lemma": "incite",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 7285,
+    "lemma": "enumerate",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7250,
+    "lemma": "recur",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6963,
+    "lemma": "extant",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7189,
+    "lemma": "pertain",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7239,
+    "lemma": "putrid",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7074,
+    "lemma": "resolute",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7279,
+    "lemma": "repudiate",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 7122,
+    "lemma": "prickly",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  },
+  {
+    "id": 6219,
+    "lemma": "herein",
+    "pos": "adv",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7157,
+    "lemma": "amorphous",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 7290,
+    "lemma": "reverberate",
+    "pos": "verb",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_complete"
+    ]
+  },
+  {
+    "id": 6693,
+    "lemma": "implicit",
+    "pos": "adj",
+    "cefr_level": "C2",
+    "strata": [
+      "cefr_c2",
+      "legacy_missing_uk"
+    ]
+  }
+]

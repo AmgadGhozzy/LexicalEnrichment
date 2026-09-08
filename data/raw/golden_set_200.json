@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 823,
+    "lemma": "accept",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1210,
+    "lemma": "affect",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1211,
+    "lemma": "affect",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 3427,
+    "lemma": "apple",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 799,
+    "lemma": "bank",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 454,
+    "lemma": "book",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 455,
+    "lemma": "book",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 474,
+    "lemma": "car",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 2377,
+    "lemma": "cat",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1031,
+    "lemma": "close",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1032,
+    "lemma": "close",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1033,
+    "lemma": "close",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1034,
+    "lemma": "close",
+    "pos": "adv",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 7530,
+    "lemma": "complement",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7531,
+    "lemma": "complement",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 34,
+    "lemma": "do",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1255,
+    "lemma": "dog",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 498,
+    "lemma": "effect",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 7952,
+    "lemma": "elicit",
+    "pos": "verb",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 1531,
+    "lemma": "except",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1532,
+    "lemma": "except",
+    "pos": "prep",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1533,
+    "lemma": "except",
+    "pos": "conj",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 4527,
+    "lemma": "excuse",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 4528,
+    "lemma": "excuse",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 87,
+    "lemma": "get",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 88,
+    "lemma": "get",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 355,
+    "lemma": "house",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 356,
+    "lemma": "house",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 500,
+    "lemma": "lead",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 501,
+    "lemma": "lead",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 511,
+    "lemma": "live",
+    "pos": "adj",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 512,
+    "lemma": "live",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 513,
+    "lemma": "live",
+    "pos": "adv",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 92,
+    "lemma": "make",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 93,
+    "lemma": "make",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 666,
+    "lemma": "minute",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 667,
+    "lemma": "minute",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1511,
+    "lemma": "object",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1512,
+    "lemma": "object",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3118,
+    "lemma": "phenomenon",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7814,
+    "lemma": "pragmatic",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 1165,
+    "lemma": "present",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1166,
+    "lemma": "present",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1167,
+    "lemma": "present",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 3142,
+    "lemma": "principal",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3143,
+    "lemma": "principal",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 1145,
+    "lemma": "principle",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 252,
+    "lemma": "put",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 253,
+    "lemma": "put",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 595,
+    "lemma": "read",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 596,
+    "lemma": "read",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 850,
+    "lemma": "record",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 851,
+    "lemma": "record",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 415,
+    "lemma": "right",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 416,
+    "lemma": "right",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 417,
+    "lemma": "right",
+    "pos": "adv",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 418,
+    "lemma": "set",
+    "pos": "adj",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 419,
+    "lemma": "set",
+    "pos": "verb",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 420,
+    "lemma": "set",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 4272,
+    "lemma": "stationary",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 577,
+    "lemma": "subject",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 578,
+    "lemma": "subject",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 731,
+    "lemma": "table",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 109,
+    "lemma": "take",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 110,
+    "lemma": "take",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 2570,
+    "lemma": "tear",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 2571,
+    "lemma": "tear",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1074,
+    "lemma": "tree",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 193,
+    "lemma": "use",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 194,
+    "lemma": "use",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1681,
+    "lemma": "wind",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1682,
+    "lemma": "wind",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 80,
+    "lemma": "what",
+    "pos": "pron",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 7618,
+    "lemma": "talking",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 2675,
+    "lemma": "height",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 5169,
+    "lemma": "conceal",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 788,
+    "lemma": "create",
+    "pos": "verb",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 7843,
+    "lemma": "arbitration",
+    "pos": "noun",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 5095,
+    "lemma": "regret",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 4209,
+    "lemma": "subsidize",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4085,
+    "lemma": "converse",
+    "pos": "adj",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 6465,
+    "lemma": "outlook",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3132,
+    "lemma": "alliance",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 254,
+    "lemma": "own",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 4855,
+    "lemma": "rumour",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4680,
+    "lemma": "accommodate",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 5141,
+    "lemma": "resemble",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 6692,
+    "lemma": "ash",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 1936,
+    "lemma": "mainly",
+    "pos": "adv",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 5033,
+    "lemma": "graduate",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 7199,
+    "lemma": "ecological",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 2987,
+    "lemma": "silent",
+    "pos": "adj",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 2966,
+    "lemma": "plaintiff",
+    "pos": "noun",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 692,
+    "lemma": "several",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 2785,
+    "lemma": "blame",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 2608,
+    "lemma": "nose",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 4747,
+    "lemma": "tragedy",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 5046,
+    "lemma": "hunt",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 6964,
+    "lemma": "unsuccessful",
+    "pos": "adj",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 5536,
+    "lemma": "contradiction",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4669,
+    "lemma": "statistical",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 5352,
+    "lemma": "notable",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7041,
+    "lemma": "spy",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7465,
+    "lemma": "departmental",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7257,
+    "lemma": "line-up",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4098,
+    "lemma": "groove",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 2072,
+    "lemma": "freedom",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3304,
+    "lemma": "pace",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7113,
+    "lemma": "resent",
+    "pos": "verb",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 2241,
+    "lemma": "store",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 1943,
+    "lemma": "inside",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 169,
+    "lemma": "well",
+    "pos": "adv",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 5963,
+    "lemma": "profitable",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 2457,
+    "lemma": "passage",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 599,
+    "lemma": "process",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1151,
+    "lemma": "refer",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 5035,
+    "lemma": "musician",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 288,
+    "lemma": "each",
+    "pos": "adv",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 4141,
+    "lemma": "deceitful",
+    "pos": "adj",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 6935,
+    "lemma": "altar",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7829,
+    "lemma": "hopeless",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 997,
+    "lemma": "leader",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 3607,
+    "lemma": "curve",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7629,
+    "lemma": "utter",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 6978,
+    "lemma": "nominate",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 1452,
+    "lemma": "blood",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 3050,
+    "lemma": "mood",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 1583,
+    "lemma": "worth",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3166,
+    "lemma": "rent",
+    "pos": "verb",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 8009,
+    "lemma": "weekday",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 6298,
+    "lemma": "mobile",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 6381,
+    "lemma": "locomotive",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 6584,
+    "lemma": "exotic",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1775,
+    "lemma": "aid",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7721,
+    "lemma": "workplace",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 7131,
+    "lemma": "anchor",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3767,
+    "lemma": "label",
+    "pos": "verb",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 313,
+    "lemma": "shall",
+    "pos": "modal",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 4171,
+    "lemma": "greed",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 2334,
+    "lemma": "recall",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 4081,
+    "lemma": "colourless",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4537,
+    "lemma": "harm",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 6375,
+    "lemma": "patent",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7383,
+    "lemma": "upcoming",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 5743,
+    "lemma": "info",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1259,
+    "lemma": "indicate",
+    "pos": "verb",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 1337,
+    "lemma": "concern",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 305,
+    "lemma": "again",
+    "pos": "adv",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 5762,
+    "lemma": "punk",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 5834,
+    "lemma": "taxpayer",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 5121,
+    "lemma": "correlation",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7874,
+    "lemma": "reside",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3504,
+    "lemma": "six",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 2280,
+    "lemma": "necessarily",
+    "pos": "adv",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 3485,
+    "lemma": "mum",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 2477,
+    "lemma": "advance",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1621,
+    "lemma": "north",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 5167,
+    "lemma": "resume",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4133,
+    "lemma": "synchronous",
+    "pos": "adj",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 4605,
+    "lemma": "explosion",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 5170,
+    "lemma": "disclose",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4190,
+    "lemma": "merry",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1277,
+    "lemma": "argument",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 7496,
+    "lemma": "leak",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7392,
+    "lemma": "vulnerability",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 1821,
+    "lemma": "usual",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 7394,
+    "lemma": "well-being",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3100,
+    "lemma": "emotional",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3026,
+    "lemma": "statutory",
+    "pos": "adj",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3122,
+    "lemma": "kick",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 5740,
+    "lemma": "hilarious",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3757,
+    "lemma": "alongside",
+    "pos": "adv",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1572,
+    "lemma": "tomorrow",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 6437,
+    "lemma": "disagreement",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 1970,
+    "lemma": "senior",
+    "pos": "adj",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3656,
+    "lemma": "cool",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 2594,
+    "lemma": "fuel",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 85,
+    "lemma": "all",
+    "pos": "det",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 722,
+    "lemma": "father",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 6217,
+    "lemma": "sunlight",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 189,
+    "lemma": "like",
+    "pos": "adj",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 1114,
+    "lemma": "success",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 6113,
+    "lemma": "harmony",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 5282,
+    "lemma": "facilitate",
+    "pos": "verb",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 7324,
+    "lemma": "shipping",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 2340,
+    "lemma": "display",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 535,
+    "lemma": "view",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 4265,
+    "lemma": "spade",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 2037,
+    "lemma": "sheet",
+    "pos": "noun",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 6486,
+    "lemma": "renaissance",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 3380,
+    "lemma": "behave",
+    "pos": "verb",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 2273,
+    "lemma": "tape",
+    "pos": "noun",
+    "cefr_level": "B1"
+  },
+  {
+    "id": 1959,
+    "lemma": "commitment",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 6629,
+    "lemma": "staircase",
+    "pos": "noun",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3404,
+    "lemma": "electric",
+    "pos": "adj",
+    "cefr_level": "A2"
+  },
+  {
+    "id": 6213,
+    "lemma": "negligence",
+    "pos": "noun",
+    "cefr_level": "C2"
+  },
+  {
+    "id": 3256,
+    "lemma": "expose",
+    "pos": "verb",
+    "cefr_level": "B2"
+  },
+  {
+    "id": 3805,
+    "lemma": "squad",
+    "pos": "noun",
+    "cefr_level": "C1"
+  },
+  {
+    "id": 4463,
+    "lemma": "cow",
+    "pos": "noun",
+    "cefr_level": "A1"
+  },
+  {
+    "id": 3095,
+    "lemma": "invest",
+    "pos": "verb",
+    "cefr_level": "B1"
+  }
+]
