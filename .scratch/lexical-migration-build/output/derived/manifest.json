@@ -1,0 +1,31 @@
+{
+ "baseline": "Baseline-PostMigration-002",
+ "canonical_db_sha256": "66fcf8b91987e4b1a8ac8d3ccf5aed372e38da967218de13c58a68aaaae3eba7",
+ "files": {
+  "audit.json": "344263aa1900c2d16b9cf7a0a678c658e759229bcc1b3d34136d2c577111fab7",
+  "curriculum/curricula.json": "bcde9c09f5ebc1fa4d99b2c92df652234e267b9e6835801275560004c62351f3",
+  "curriculum/units_derived.json": "db33a562f8bf2565a534935edfd55515147570c85c0bc266ff629dbbc025d863",
+  "evidence_layer.jsonl": "5e526f1c98252e3900f426413f2893b0b17d7a6337c5a8ebe29c7d7b541e51d1",
+  "views/ielts.json": "81f3330ed841780ac15e81a0aaef2a3dc146d8a3cdebb19283811566113f0375",
+  "views/ielts_unmapped.json": "3d42113fa06b033b2a59b79e697c74250a70c170d577695c89950515936758dd",
+  "views/intersections.json": "ceff0b06c5c2d739cac3bb4a8931539366e7af8c80b79b5d49671c51ac240472",
+  "views/non_oxford.json": "fa8ed76c49828654b89b5adf473c0f61e57bb1134cf561d815f47a1e39cea20b",
+  "views/oxford_flagged.json": "a4ace5e64b7330d9f4a95063803343ae3d1e224a23bf613605e0137b03e02eb6"
+ },
+ "hash_semantics": "canonical_db_sha256 = SHA-256 of WordsMaster.db FILE BYTES (cf Baseline-002 file_sha256). Content-level hash lives separately as Baseline-002 final_logical_hash_wordsmaster. Different functions, both pinned; never compared across.",
+ "layer": "derived_v1",
+ "mapping_sha256": "a29de5a1335a0ad32b321be1eacc62d0609159f0652c3cc55dab59bf774b9990",
+ "normalization_provenance": {
+  "builder": "evaluation/build_derived_layer.py",
+  "derived_join": "lower(strip) both sides; tiers exact_lemma_pos / same_lemma_diff_pos / multiword",
+  "mapping_produced_by": "BT-09 deterministic cascade (BT-04 folding + BT-03 order)",
+  "mapping_rule_order": [
+   "MULTIWORD",
+   "NEW_SINGLE_WORD",
+   "NORMALIZED_LEMMA_EXACT",
+   "NORMALIZED_LEMMA_POS_EXACT",
+   "SAME_LEMMA_DIFFERENT_POS",
+   "UNRESOLVED_MALFORMED"
+  ]
+ }
+}
