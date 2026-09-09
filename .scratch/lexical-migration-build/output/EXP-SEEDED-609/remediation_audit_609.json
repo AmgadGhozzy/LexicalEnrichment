@@ -1,0 +1,218 @@
+{
+ "ticket": "19_targeted_remediation",
+ "verdict": "EXECUTION_COMPLETE",
+ "scope": {
+  "cells": 609,
+  "examples": 597,
+  "synonyms": 6,
+  "antonyms": 6,
+  "identities": 603,
+  "source": "triage_manifest_7300_v1 status==LLM_REVIEW"
+ },
+ "generation": {
+  "submitted": 603,
+  "lines_mapped": 603,
+  "artifact_pass": 590,
+  "validator_failed": 13,
+  "api_errors": 0,
+  "failures": [
+   {
+    "key": "smell/verb",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "weigh/noun",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "strike/verb",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "them/noun",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "mean/verb",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "hero/noun",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "up-to-date/adj",
+    "fails": [
+     "examples_contain_target"
+    ]
+   },
+   {
+    "key": "tell/verb",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "cry/noun",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "write/verb",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "decision-making/noun",
+    "fails": [
+     "examples_contain_target"
+    ]
+   },
+   {
+    "key": "bond/noun",
+    "fails": [
+     "syllables"
+    ]
+   },
+   {
+    "key": "yes/excl",
+    "fails": [
+     "examples_contain_target"
+    ]
+   }
+  ],
+  "snapshot_sha": "68ebd3d89b7bb121e252775bf039026689eb285acacab47649193a5959aaa618",
+  "input_sha": "cd6401224326a357f2c29c5bcd25afe94ed1122138b4345f3a3ad367a4c52ed9",
+  "prompt_sha": "fdb8716e1389c86c395429cc1ca81ebd25517e76274c54ebb8887fd8dcc1afb8",
+  "model": "gemini-3.8-flash/temp0/global",
+  "job": "batchPredictionJobs/6735170763566874624",
+  "percent_escaped_seeds": [
+   "differ/verb",
+   "migrate/verb",
+   "respectively/adv",
+   "theory/noun"
+  ]
+ },
+ "judge": {
+  "package": "eval_remed609_v1/seed600118/items590/sidesA317B273",
+  "attempt1_roleless": "FAILED server-side (code 3 role mandate), 0/590, archived",
+  "attempt2_job": "batchPredictionJobs/6683942317805535232",
+  "submitted": 590,
+  "judged": 589,
+  "malformed_ballot": 1,
+  "malformed_identity": "apology/noun (examples cell unevaluated)",
+  "probe_calls": 1
+ },
+ "cell_verdicts": {
+  "examples_covered_584": {
+   "candidate": 557,
+   "tie": 22,
+   "legacy": 4,
+   "no_ballot": 1
+  },
+  "examples_no_candidate_13": "validator-failed identities (listed in generation.failures)",
+  "ties_22": [
+   "three/num",
+   "author/noun",
+   "nation/noun",
+   "app/noun",
+   "village/noun",
+   "institute/noun",
+   "prince/noun",
+   "actor/noun",
+   "novel/noun",
+   "boyfriend/noun",
+   "bible/noun",
+   "emperor/noun",
+   "poet/noun",
+   "politician/noun",
+   "invisible/adj",
+   "dancer/noun",
+   "drain/noun",
+   "composer/noun",
+   "goalkeeper/noun",
+   "salesman/noun",
+   "columnist/noun",
+   "lordship/noun"
+  ],
+  "legacy_wins_4": [
+   "leave/verb",
+   "duck/noun",
+   "cathedral/noun",
+   "proclaim/noun"
+  ],
+  "relations_12": "candidate on all 6 cards (this/det, that/pron, this/noun, that/det, conquest/noun, takeover/noun), syn+ant each"
+ },
+ "criticals": {
+  "candidate_side": [
+   {
+    "card": "proclaim/noun",
+    "cell": "examples",
+    "effect": "CANDIDATE REJECTED for this cell",
+    "classes": [
+     "wrong_meaning",
+     "misleading_arabic",
+     "example_semantic_error"
+    ],
+    "note": "definition/arabic criticals out-of-scope fields (KEEP); example_semantic_error condemns the in-scope examples candidate"
+   }
+  ],
+  "legacy_side_relations_6": "invalid_relation_synonym on all 6 (that-as-syn+ant; defeat-as-synonym-of-conquest; merger-as-both-for-takeover)",
+  "legacy_totals": {
+   "target_word_violation": 537,
+   "example_semantic_error": 52,
+   "invalid_relation_synonym": 34,
+   "wrong_meaning": 5,
+   "fabricated_etymology_mnemonic": 4,
+   "misleading_arabic": 1
+  }
+ },
+ "no_ops": {
+  "relations_antonyms_byte_identical_5": [
+   "this/det",
+   "that/pron",
+   "this/noun",
+   "that/det",
+   "conquest/noun"
+  ],
+  "note": "judge voted candidate on identical lists (tie-leniency, wave-1 pattern); guard: DO NOT WRITE, DO NOT COUNT",
+  "examples_byte_identical_0": "structural (3-list vs banded object); legacy-band reuse overlap: 533/597 cards keep >=1 band sentence, 64 keep none"
+ },
+ "provenance": {
+  "gen_lines": 603,
+  "judge_lines_accounted": "590 attempt-2 + 590 attempt-1-archived + 1 probe",
+  "decode_n": 589
+ },
+ "hashes": {
+  "package": "c5df2133ce7c",
+  "map": "b12fe67fbb62",
+  "input": "b519264264ee",
+  "ballots": "eb91421ec999",
+  "decode": "c39228b760eb"
+ },
+ "requests_accounting": {
+  "gen_batch": 603,
+  "judge_attempt1": 590,
+  "judge_attempt2": 590,
+  "probe": 1,
+  "total_submitted": 1784
+ },
+ "quotas_circuits": "none tripped (validator gate is a gate, not a quota; 1 malformed ballot handled per frozen contract)",
+ "db_untouched": {
+  "file_sha_match_baseline": true
+ }
+}
