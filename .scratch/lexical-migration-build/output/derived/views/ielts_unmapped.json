@@ -1,0 +1,279 @@
+{
+ "count": 34,
+ "meaning": "mapping rows with zero canonical counterpart. Preserved as evidence of intent; NOT members, NO fake identities, NOT counted in matched_identities.",
+ "rows": [
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "look back",
+   "source_pos": "verb",
+   "source_row_id": 56,
+   "source_text": "look back",
+   "topic": "Growing up"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "outer space",
+   "source_pos": "noun",
+   "source_row_id": 163,
+   "source_text": "outer space",
+   "topic": "Science, Engineering"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "solar system",
+   "source_pos": "noun",
+   "source_row_id": 172,
+   "source_text": "solar system",
+   "topic": "Science, Engineering"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "space shuttle",
+   "source_pos": "noun",
+   "source_row_id": 174,
+   "source_text": "space shuttle",
+   "topic": "Science, Engineering"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "space station",
+   "source_pos": "noun",
+   "source_row_id": 175,
+   "source_text": "space station",
+   "topic": "Science, Engineering"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "operating system",
+   "source_pos": "noun",
+   "source_row_id": 209,
+   "source_text": "operating system",
+   "topic": "Information Technology"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "remote control",
+   "source_pos": "noun",
+   "source_row_id": 214,
+   "source_text": "remote control",
+   "topic": "Information Technology"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "silicon chip",
+   "source_pos": "noun",
+   "source_row_id": 217,
+   "source_text": "silicon chip",
+   "topic": "Information Technology"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "joint venture",
+   "source_pos": "noun",
+   "source_row_id": 245,
+   "source_text": "joint venture",
+   "topic": "Modern World"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "acid rain",
+   "source_pos": "noun",
+   "source_row_id": 283,
+   "source_text": "acid rain",
+   "topic": "Environment"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "climate change",
+   "source_pos": "noun",
+   "source_row_id": 285,
+   "source_text": "climate change",
+   "topic": "Environment"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "food chain",
+   "source_pos": "noun",
+   "source_row_id": 297,
+   "source_text": "food chain",
+   "topic": "Environment"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "greenhouse gases",
+   "source_pos": "noun",
+   "source_row_id": 299,
+   "source_text": "greenhouse gases",
+   "topic": "Environment"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "environmentally friendly",
+   "source_pos": "adj",
+   "source_row_id": 314,
+   "source_text": "environmentally friendly",
+   "topic": "Environment"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "the middle ages",
+   "source_pos": "noun",
+   "source_row_id": 516,
+   "source_text": "the Middle Ages",
+   "topic": "Through the Ages"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "mother nature",
+   "source_pos": "noun",
+   "source_row_id": 553,
+   "source_text": "Mother Nature",
+   "topic": "The Natural World"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "genetically modified",
+   "source_pos": "adj",
+   "source_row_id": 565,
+   "source_text": "genetically modified",
+   "topic": "The Natural World"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "mother tongue",
+   "source_pos": "noun",
+   "source_row_id": 593,
+   "source_text": "mother tongue",
+   "topic": "Communication Skills"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "native speaker",
+   "source_pos": "noun",
+   "source_row_id": 594,
+   "source_text": "native speaker",
+   "topic": "Communication Skills"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "sign language",
+   "source_pos": "noun",
+   "source_row_id": 596,
+   "source_text": "sign language",
+   "topic": "Communication Skills"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "carbon dioxide",
+   "source_pos": "noun",
+   "source_row_id": 637,
+   "source_text": "carbon dioxide",
+   "topic": "Energy, Resources"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "fossil fuel",
+   "source_pos": "noun",
+   "source_row_id": 641,
+   "source_text": "fossil fuel",
+   "topic": "Energy, Resources"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "oil rig",
+   "source_pos": "noun",
+   "source_row_id": 644,
+   "source_text": "oil rig",
+   "topic": "Energy, Resources"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "high school",
+   "source_pos": "noun",
+   "source_row_id": 818,
+   "source_text": "high school",
+   "topic": "Education"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "primary school",
+   "source_pos": "noun",
+   "source_row_id": 827,
+   "source_text": "primary school",
+   "topic": "Education"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "secondary school",
+   "source_pos": "noun",
+   "source_row_id": 834,
+   "source_text": "secondary school",
+   "topic": "Education"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "free press",
+   "source_pos": "noun",
+   "source_row_id": 915,
+   "source_text": "free press",
+   "topic": "The Media"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "mass media",
+   "source_pos": "noun",
+   "source_row_id": 921,
+   "source_text": "mass media",
+   "topic": "The Media"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "press conference",
+   "source_pos": "noun",
+   "source_row_id": 956,
+   "source_text": "press conference",
+   "topic": "The Media"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "prime time",
+   "source_pos": "noun",
+   "source_row_id": 959,
+   "source_text": "prime time",
+   "topic": "The Media"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "reality tv",
+   "source_pos": "noun",
+   "source_row_id": 962,
+   "source_text": "reality TV",
+   "topic": "The Media"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "legal action",
+   "source_pos": "noun",
+   "source_row_id": 963,
+   "source_text": "legal action",
+   "topic": "The Law"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "petty crime",
+   "source_pos": "noun",
+   "source_row_id": 1003,
+   "source_text": "petty crime",
+   "topic": "The Law"
+  },
+  {
+   "match_status": "unmapped_multiword",
+   "normalized_form": "break into",
+   "source_pos": "verb",
+   "source_row_id": 1007,
+   "source_text": "break into",
+   "topic": "The Law"
+  }
+ ],
+ "view": "ielts_unmapped_multiword"
+}
