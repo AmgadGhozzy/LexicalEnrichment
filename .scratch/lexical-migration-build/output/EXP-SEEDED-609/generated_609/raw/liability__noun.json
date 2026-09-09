@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "liability",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "liability",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state of being responsible for something, especially by law; or a person or thing that causes problems or puts someone at a disadvantage.",
+  "explanation_ar": "مسؤولية قانونية 'عليك فلوس أو حق'، أو حاجة بتسببلك مشاكل وبتعطلك.",
+  "senses": [
+   {
+    "definition_en": "The state of being legally responsible for something.",
+    "explanation_ar": "المسؤولية القانونية عن شيء أو تعويض ضرر.",
+    "pos": "noun"
+   },
+   {
+    "definition_en": "A person or thing that causes you problems or is a disadvantage.",
+    "explanation_ar": "شخص أو شيء يشكل عبئاً أو يسبب المتاعب.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "He admitted liability for the mistake.",
+   "They wanted to avoid any legal liability.",
+   "His outspoken nature was seen as a political liability."
+  ],
+  "translations": [
+   "مسؤولية قانونية",
+   "عبء",
+   "التزام"
+  ],
+  "relations": {
+   "synonyms": [
+    "accountability",
+    "responsibility",
+    "burden",
+    "drawback"
+   ],
+   "antonyms": [
+    "asset",
+    "advantage"
+   ],
+   "collocations": [
+    "limited liability",
+    "accept liability",
+    "tax liability",
+    "legal liability"
+   ]
+  },
+  "mnemonic": "جاية من 'Liable' يعني مسؤول.. الـ 'Liability' هي المسؤولية دي، أو العبء اللي عليك.",
+  "phonetic_us": "ˌlaɪ.əˈbɪl.ə.t̬i",
+  "phonetic_uk": "ˌlaɪəˈbɪlɪtɪ",
+  "syllables": "li•a•bil•i•ty",
+  "semantic_tags": [
+   "#Law",
+   "#Finance",
+   "#Risk"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of being responsible for something, especially by law; or a person or thing that causes problems or puts someone at a disadvantage.",
+  "explanation_ar": "مسؤولية قانونية 'عليك فلوس أو حق'، أو حاجة بتسببلك مشاكل وبتعطلك.",
+  "examples": [
+   "He admitted liability for the mistake.",
+   "They wanted to avoid any legal liability.",
+   "His outspoken nature was seen as a political liability."
+  ],
+  "translations": {
+   "arabic_ar": "مسؤولية قانونية عبء التزام"
+  },
+  "synonyms": [
+   "accountability",
+   "responsibility",
+   "burden",
+   "drawback"
+  ],
+  "antonyms": [
+   "asset",
+   "advantage"
+  ],
+  "collocations": [
+   "limited liability",
+   "accept liability",
+   "tax liability",
+   "legal liability"
+  ],
+  "mnemonic_ar": "جاية من 'Liable' يعني مسؤول.. الـ 'Liability' هي المسؤولية دي، أو العبء اللي عليك."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "load",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "load",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Something heavy that is being carried or lifted.",
+  "explanation_ar": "الحمولة أو العبء اللي بتشيله، سواء كان بضاعة على عربية أو ضغط شغل عليك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Something heavy that is being carried or lifted.",
+    "definition_ar": "حمولة أو ثقل يتم حمله أو نقله.",
+    "examples": [
+     "The truck has a full load.",
+     "The pillars bear the entire load of the roof."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An amount of work, responsibility, or worry that must be dealt with.",
+    "definition_ar": "عبء أو قدر كبير من العمل والمسؤولية.",
+    "examples": [
+     "Talking to a friend helped ease the load."
+    ]
+   }
+  ],
+  "examples": [
+   "The truck has a full load.",
+   "The pillars bear the entire load of the roof.",
+   "Talking to a friend helped ease the load."
+  ],
+  "translations": [
+   "حمولة",
+   "عبء"
+  ],
+  "relations": {
+   "synonyms": [
+    "burden",
+    "cargo",
+    "freight",
+    "weight"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "heavy load",
+    "full load",
+    "bear the load",
+    "ease the load"
+   ]
+  },
+  "mnemonic": "الـ 'Loader' 'لَوْدَر' بيرفع الـ 'Load' 'الحمولة' التقيلة.",
+  "phonetic_us": "/loʊd/",
+  "phonetic_uk": "/ləʊd/",
+  "syllables": "load",
+  "semantic_tags": [
+   "weight",
+   "transport",
+   "work"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Something heavy that is being carried or lifted.",
+  "explanation_ar": "الحمولة أو العبء اللي بتشيله، سواء كان بضاعة على عربية أو ضغط شغل عليك.",
+  "examples": [
+   "The truck has a full load.",
+   "The pillars bear the entire load of the roof.",
+   "Talking to a friend helped ease the load."
+  ],
+  "translations": {
+   "arabic_ar": "حمولة عبء"
+  },
+  "synonyms": [
+   "burden",
+   "cargo",
+   "freight",
+   "weight"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "heavy load",
+   "full load",
+   "bear the load",
+   "ease the load"
+  ],
+  "mnemonic_ar": "الـ 'Loader' 'لَوْدَر' بيرفع الـ 'Load' 'الحمولة' التقيلة."
+ }
+}

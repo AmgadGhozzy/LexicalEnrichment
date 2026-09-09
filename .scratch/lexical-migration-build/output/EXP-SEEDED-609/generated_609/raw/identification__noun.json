@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "identification",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "identification",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action of identifying someone or something; an official document proving who you are.",
+  "explanation_ar": "عملية التعرف على هوية شخص، أو الوثيقة 'البطاقة' اللي بتثبت مين هو.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "An official document, card, or paper that proves who a person is.",
+    "definition_ar": "وثيقة أو بطاقة رسمية تثبت هوية الشخص.",
+    "examples": [
+     "Do you have identification?"
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "The act or process of recognizing or establishing the identity of someone or something.",
+    "definition_ar": "عملية التعرّف على شخص أو تحديد ماهية شيء ما.",
+    "examples": [
+     "The witness allowed for the positive identification of the suspect."
+    ]
+   },
+   {
+    "sense_number": 3,
+    "definition_en": "A feeling of shared interest, understanding, or emotional connection with a person or group.",
+    "definition_ar": "الشعور بالانتماء أو التماهي والارتباط الفكري أو العاطفي مع جماعة أو فكرة.",
+    "examples": [
+     "Her strong identification with the feminist movement influenced her writing."
+    ]
+   }
+  ],
+  "examples": [
+   "Do you have identification?",
+   "The witness allowed for the positive identification of the suspect.",
+   "Her strong identification with the feminist movement influenced her writing."
+  ],
+  "translations": [
+   "إثبات هوية",
+   "تحديد هوية",
+   "تماهٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "recognition",
+    "ID",
+    "credentials",
+    "verification"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "positive identification",
+    "carry identification",
+    "form of identification",
+    "identification card"
+   ]
+  },
+  "mnemonic": "اختصارها 'ID'.. البطاقة اللي معاك في المحفظة.",
+  "phonetic_us": "aɪˌdɛntəfəˈkeɪʃən",
+  "phonetic_uk": "aɪˌdentɪfɪˈkeɪʃən",
+  "syllables": "iden•ti•fi•ca•tion",
+  "semantic_tags": [
+   "#ID",
+   "#Security",
+   "#Documents",
+   "#Identity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of identifying someone or something; an official document proving who you are.",
+  "explanation_ar": "عملية التعرف على هوية شخص، أو الوثيقة 'البطاقة' اللي بتثبت مين هو.",
+  "examples": [
+   "Do you have identification?",
+   "The witness allowed for the positive identification of the suspect.",
+   "Her strong identification with the feminist movement influenced her writing."
+  ],
+  "translations": {
+   "arabic_ar": "إثبات هوية تحديد هوية تماهٍ"
+  },
+  "synonyms": [
+   "recognition",
+   "ID",
+   "credentials",
+   "verification"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "positive identification",
+   "carry identification",
+   "form of identification",
+   "identification card"
+  ],
+  "mnemonic_ar": "اختصارها 'ID'.. البطاقة اللي معاك في المحفظة."
+ }
+}

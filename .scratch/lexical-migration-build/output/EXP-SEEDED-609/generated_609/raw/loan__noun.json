@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "loan",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "loan",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A sum of money that is borrowed and expected to be paid back with interest.",
+  "explanation_ar": "القرض.. مبلغ بتستلفه من البنك أو من شخص ولازم ترجعه تاني، غالباً بفوائد.",
+  "senses": [
+   {
+    "sense_id": "loan_noun_1",
+    "definition_en": "A sum of money that is borrowed and expected to be paid back with interest.",
+    "definition_ar": "مبلغ من المال يُقترض على أن يُرد لاحقاً مع فائدة.",
+    "examples": [
+     "The bank approved her application for a car loan.",
+     "He is paying back a student loan.",
+     "The company secured a bridge loan to cover immediate costs."
+    ]
+   }
+  ],
+  "examples": [
+   "The bank approved her application for a car loan.",
+   "He is paying back a student loan.",
+   "The company secured a bridge loan to cover immediate costs."
+  ],
+  "translations": [
+   "قرض"
+  ],
+  "relations": {
+   "synonyms": [
+    "credit",
+    "advance"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bank loan",
+    "student loan",
+    "take out a loan",
+    "repay a loan"
+   ]
+  },
+  "mnemonic": "كلمة 'Loan' شبه 'لون'.. ممكن تقول 'أنا أخدت Loan عشان أدهن البيت لون جديد'",
+  "phonetic_us": "loʊn",
+  "phonetic_uk": "ləʊn",
+  "syllables": "loan",
+  "semantic_tags": [
+   "bank",
+   "debt",
+   "finance"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sum of money that is borrowed and expected to be paid back with interest.",
+  "explanation_ar": "القرض.. مبلغ بتستلفه من البنك أو من شخص ولازم ترجعه تاني، غالباً بفوائد.",
+  "examples": [
+   "The bank approved her application for a car loan.",
+   "He is paying back a student loan.",
+   "The company secured a bridge loan to cover immediate costs."
+  ],
+  "translations": {
+   "arabic_ar": "قرض"
+  },
+  "synonyms": [
+   "credit",
+   "advance"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bank loan",
+   "student loan",
+   "take out a loan",
+   "repay a loan"
+  ],
+  "mnemonic_ar": "كلمة 'Loan' شبه 'لون'.. ممكن تقول 'أنا أخدت Loan عشان أدهن البيت لون جديد'"
+ }
+}

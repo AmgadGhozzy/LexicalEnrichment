@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "hang",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "hang",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To suspend from above; or to kill by suspending by the neck.",
+  "explanation_ar": "إنك تعلق حاجة على مسمار أو شماعة، وليها معنى تاني: يشنق.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To fasten or suspend something from above so that the lower part is free.",
+    "definition_ar": "يُعلّق شيئاً من الأعلى بحيث يتدلى.",
+    "examples": [
+     "Please hang your coat on the hook.",
+     "We hang pictures on the wall."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To kill someone by suspending them by a rope around the neck.",
+    "definition_ar": "يُعدم شخصاً بالشنق.",
+    "examples": [
+     "In the past, the court could hang a person for serious crimes."
+    ]
+   }
+  ],
+  "examples": [
+   "Please hang your coat on the hook.",
+   "We hang pictures on the wall.",
+   "In the past, the court could hang a person for serious crimes."
+  ],
+  "translations": [
+   "يُعَلِّق",
+   "يَشْنُق"
+  ],
+  "relations": {
+   "synonyms": [
+    "suspend",
+    "dangle"
+   ],
+   "antonyms": [
+    "drop"
+   ],
+   "collocations": [
+    "hang up",
+    "hang out",
+    "hang on"
+   ]
+  },
+  "mnemonic": "زي الـ 'Hanger' 'الشماعة'.. بنعمل إيه فيها؟ بنـ 'Hang' الهدوم.",
+  "phonetic_us": "hæŋ",
+  "phonetic_uk": "hæŋ",
+  "syllables": "hang",
+  "semantic_tags": [
+   "Decoration",
+   "Execution",
+   "Suspension"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To suspend from above; or to kill by suspending by the neck.",
+  "explanation_ar": "إنك تعلق حاجة على مسمار أو شماعة، وليها معنى تاني: يشنق.",
+  "examples": [
+   "Please hang your coat on the hook.",
+   "We hang pictures on the wall.",
+   "In the past, the court could hang a person for serious crimes."
+  ],
+  "translations": {
+   "arabic_ar": "يُعَلِّق يَشْنُق"
+  },
+  "synonyms": [
+   "suspend",
+   "dangle"
+  ],
+  "antonyms": [
+   "drop"
+  ],
+  "collocations": [
+   "hang up",
+   "hang out",
+   "hang on"
+  ],
+  "mnemonic_ar": "زي الـ 'Hanger' 'الشماعة'.. بنعمل إيه فيها؟ بنـ 'Hang' الهدوم."
+ }
+}

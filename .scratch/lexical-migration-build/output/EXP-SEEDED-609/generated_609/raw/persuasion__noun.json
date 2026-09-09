@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "persuasion",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "persuasion",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action of persuading someone to do or believe something.",
+  "explanation_ar": "فن إقناع الناس برأيك أو جعلهم يقومون بشيء معين بالكلام المقنع والمنطق.",
+  "senses": [
+   {
+    "definition_en": "The action or process of convincing someone to do or believe something.",
+    "definition_ar": "عملية أو مهارة إقناع شخص بفعل شيء أو اعتناق رأي معين.",
+    "pos": "noun",
+    "examples": [
+     "It took a lot of persuasion to get him to agree.",
+     "The power of persuasion is a key skill in sales.",
+     "She used persuasion to get what she wanted."
+    ]
+   }
+  ],
+  "examples": [
+   "It took a lot of persuasion to get him to agree.",
+   "The power of persuasion is a key skill in sales.",
+   "She used persuasion to get what she wanted."
+  ],
+  "translations": [
+   "إقناع"
+  ],
+  "relations": {
+   "synonyms": [
+    "convincing",
+    "influence",
+    "coaxing"
+   ],
+   "antonyms": [
+    "dissuasion"
+   ],
+   "collocations": [
+    "power of persuasion",
+    "gentle persuasion",
+    "moral persuasion"
+   ]
+  },
+  "mnemonic": "الفعل 'Persuade'.. افتكر 'Pursue' يطارد.. بتفضل ورا الشخص لحد ما تقنعه.",
+  "phonetic_us": "pərˈsweɪʒən",
+  "phonetic_uk": "pəˈsweɪʒən",
+  "syllables": "per•sua•sion",
+  "semantic_tags": [
+   "influence",
+   "speech",
+   "belief"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of persuading someone to do or believe something.",
+  "explanation_ar": "فن إقناع الناس برأيك أو جعلهم يقومون بشيء معين بالكلام المقنع والمنطق.",
+  "examples": [
+   "It took a lot of persuasion to get him to agree.",
+   "The power of persuasion is a key skill in sales.",
+   "She used persuasion to get what she wanted."
+  ],
+  "translations": {
+   "arabic_ar": "إقناع"
+  },
+  "synonyms": [
+   "convincing",
+   "influence",
+   "coaxing"
+  ],
+  "antonyms": [
+   "dissuasion"
+  ],
+  "collocations": [
+   "power of persuasion",
+   "gentle persuasion",
+   "moral persuasion"
+  ],
+  "mnemonic_ar": "الفعل 'Persuade'.. افتكر 'Pursue' يطارد.. بتفضل ورا الشخص لحد ما تقنعه."
+ }
+}

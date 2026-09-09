@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "novel",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "novel",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A long written story, usually about imaginary characters and events.",
+  "explanation_ar": "قصة طويلة مكتوبة في كتاب، فيها شخصيات وأحداث وتفاصيل كتير.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A long written story, usually about imaginary characters and events.",
+    "definition_ar": "رواية؛ قصة خيالية طويلة مكتوبة ذات حبكة وشخصيات.",
+    "translations": [
+     "رواية"
+    ]
+   }
+  ],
+  "examples": [
+   "She is writing a novel.",
+   "The novel is set in 19th century London.",
+   "His latest novel explores themes of war."
+  ],
+  "translations": [
+   "رواية"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "write a novel",
+    "read a novel",
+    "graphic novel",
+    "debut novel"
+   ]
+  },
+  "mnemonic": "الـ 'Novel' يعني رواية.. افتكر 'Nobel'.. نجيب محفوظ خد جايزة 'Nobel' عشان بيكتب 'Novel'.",
+  "phonetic_us": "ˈnɑvəl",
+  "phonetic_uk": "ˈnɒvəl",
+  "syllables": "nov•el",
+  "semantic_tags": [
+   "#Literature",
+   "#Book",
+   "#Reading"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A long written story, usually about imaginary characters and events.",
+  "explanation_ar": "قصة طويلة مكتوبة في كتاب، فيها شخصيات وأحداث وتفاصيل كتير.",
+  "examples": [
+   "She is writing a novel.",
+   "The novel is set in 19th century London.",
+   "His latest novel explores themes of war."
+  ],
+  "translations": {
+   "arabic_ar": "رواية"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "write a novel",
+   "read a novel",
+   "graphic novel",
+   "debut novel"
+  ],
+  "mnemonic_ar": "الـ 'Novel' يعني رواية.. افتكر 'Nobel'.. نجيب محفوظ خد جايزة 'Nobel' عشان بيكتب 'Novel'."
+ }
+}

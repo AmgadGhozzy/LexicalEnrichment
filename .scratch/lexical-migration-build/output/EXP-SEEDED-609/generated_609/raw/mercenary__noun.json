@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "mercenary",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "mercenary",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A professional soldier hired to serve in a foreign army or private military force.",
+  "explanation_ar": "مرتزق، وهو جندي محترف يقاتل لصالح دولة أو جهة أجنبية مقابل المال دون اعتبار لأي قضية وطنية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "noun",
+    "definition_en": "A professional soldier hired to serve in a foreign army or private military force.",
+    "definition_ar": "جندي مأجور يقاتل في سبيل المال لصالح جهة أو دولة أجنبية.",
+    "examples": [
+     "He was accused of being a mercenary.",
+     "A mercenary fights for financial gain rather than national loyalty.",
+     "The rebel leader hired an experienced mercenary to train his recruits."
+    ]
+   }
+  ],
+  "examples": [
+   "He was accused of being a mercenary.",
+   "A mercenary fights for financial gain rather than national loyalty.",
+   "The rebel leader hired an experienced mercenary to train his recruits."
+  ],
+  "translations": [
+   "مرتزق",
+   "جندي مأجور"
+  ],
+  "relations": {
+   "synonyms": [
+    "soldier of fortune",
+    "hired gun"
+   ],
+   "antonyms": [
+    "patriot",
+    "volunteer"
+   ],
+   "collocations": [
+    "foreign mercenary",
+    "hired mercenary",
+    "ruthless mercenary"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة Merchant (تاجر)؛ فالمرتزق (mercenary) يتاجر بسلاحه ويحارب من أجل المال فقط كأنه صفقة تجارية.",
+  "phonetic_us": "ˈmɝːsəˌnɛri",
+  "phonetic_uk": "ˈmɜːsənəri",
+  "syllables": "mer•ce•na•ry",
+  "semantic_tags": [
+   "military",
+   "warfare",
+   "conflict",
+   "money"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A professional soldier hired to serve in a foreign army or private military force.",
+  "explanation_ar": "مرتزق، وهو جندي محترف يقاتل لصالح دولة أو جهة أجنبية مقابل المال دون اعتبار لأي قضية وطنية.",
+  "examples": [
+   "He was accused of being a mercenary.",
+   "A mercenary fights for financial gain rather than national loyalty.",
+   "The rebel leader hired an experienced mercenary to train his recruits."
+  ],
+  "translations": {
+   "arabic_ar": "مرتزق جندي مأجور"
+  },
+  "synonyms": [
+   "soldier of fortune",
+   "hired gun"
+  ],
+  "antonyms": [
+   "patriot",
+   "volunteer"
+  ],
+  "collocations": [
+   "foreign mercenary",
+   "hired mercenary",
+   "ruthless mercenary"
+  ],
+  "mnemonic_ar": "قريبة من كلمة Merchant (تاجر)؛ فالمرتزق (mercenary) يتاجر بسلاحه ويحارب من أجل المال فقط كأنه صفقة تجارية."
+ }
+}

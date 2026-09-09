@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "no",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "no",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A negative answer or decision.",
+  "explanation_ar": "الرفض أو كلمة 'لا' نفسها لما نستخدمها كاسم، زي لما تقول 'أخدت لا كبيرة'.",
+  "senses": [
+   {
+    "definition_en": "A negative answer or decision.",
+    "explanation_ar": "إجابة بالرفض أو النفي.",
+    "examples": [
+     "The answer is no.",
+     "I won't take no for an answer.",
+     "It was a definite no from the boss."
+    ]
+   }
+  ],
+  "examples": [
+   "The answer is no.",
+   "I won't take no for an answer.",
+   "It was a definite no from the boss."
+  ],
+  "translations": [
+   "لا",
+   "رَفْض"
+  ],
+  "relations": {
+   "synonyms": [
+    "refusal",
+    "denial"
+   ],
+   "antonyms": [
+    "yes",
+    "approval"
+   ],
+   "collocations": [
+    "say no",
+    "vote no",
+    "big no"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "noʊ",
+  "phonetic_uk": "nəʊ",
+  "syllables": [
+   "no"
+  ],
+  "semantic_tags": [
+   "#Negation",
+   "#Refusal",
+   "#Vote"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A negative answer or decision.",
+  "explanation_ar": "الرفض أو كلمة 'لا' نفسها لما نستخدمها كاسم، زي لما تقول 'أخدت لا كبيرة'.",
+  "examples": [
+   "The answer is no.",
+   "I won't take no for an answer.",
+   "It was a definite no from the boss."
+  ],
+  "translations": {
+   "arabic_ar": "لا رَفْض"
+  },
+  "synonyms": [
+   "refusal",
+   "denial"
+  ],
+  "antonyms": [
+   "yes",
+   "approval"
+  ],
+  "collocations": [
+   "say no",
+   "vote no",
+   "big no"
+  ],
+  "mnemonic_ar": null
+ }
+}

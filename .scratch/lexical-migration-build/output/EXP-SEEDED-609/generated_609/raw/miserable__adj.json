@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "miserable",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "miserable",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Wretchedly unhappy or uncomfortable.",
+  "explanation_ar": "بائس أو تعيس جداً. حالته صعبة وحزين أوي.",
+  "senses": [
+   {
+    "definition_en": "Extremely unhappy, depressed, or wretched.",
+    "explanation_ar": "بائس، تعيس وحزين للغاية.",
+    "examples": [
+     "He looked miserable sitting in the rain.",
+     "She has been making his life miserable."
+    ]
+   },
+   {
+    "definition_en": "Causing great discomfort, unhappiness, or unpleasantness.",
+    "explanation_ar": "كئيب أو يبعث على الضيق وعدم الراحة (كالطقس أو الأوضاع السيئة).",
+    "examples": [
+     "The weather was cold and miserable."
+    ]
+   }
+  ],
+  "examples": [
+   "The weather was cold and miserable.",
+   "He looked miserable sitting in the rain.",
+   "She has been making his life miserable."
+  ],
+  "translations": [
+   "بَائِس",
+   "تَعِيس"
+  ],
+  "relations": {
+   "synonyms": [
+    "unhappy",
+    "wretched",
+    "depressed",
+    "gloomy"
+   ],
+   "antonyms": [
+    "happy",
+    "cheerful",
+    "joyful"
+   ],
+   "collocations": [
+    "miserable life",
+    "feel miserable",
+    "miserable weather",
+    "make someone miserable"
+   ]
+  },
+  "mnemonic": "قريبة من 'Misery' 'بؤس'.. وشبه 'Bues' في رواية 'Les Misérables' 'البؤساء'",
+  "phonetic_us": "ˈmɪzərəbəl",
+  "phonetic_uk": "ˈmɪzrəbl",
+  "syllables": "mis•er•able",
+  "semantic_tags": [
+   "#Sadness",
+   "#Suffering",
+   "#Bad"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Wretchedly unhappy or uncomfortable.",
+  "explanation_ar": "بائس أو تعيس جداً. حالته صعبة وحزين أوي.",
+  "examples": [
+   "The weather was cold and miserable.",
+   "He looked miserable sitting in the rain.",
+   "She has been making his life miserable."
+  ],
+  "translations": {
+   "arabic_ar": "بَائِس تَعِيس"
+  },
+  "synonyms": [
+   "unhappy",
+   "wretched",
+   "depressed",
+   "gloomy"
+  ],
+  "antonyms": [
+   "happy",
+   "cheerful",
+   "joyful"
+  ],
+  "collocations": [
+   "miserable life",
+   "feel miserable",
+   "miserable weather",
+   "make someone miserable"
+  ],
+  "mnemonic_ar": "قريبة من 'Misery' 'بؤس'.. وشبه 'Bues' في رواية 'Les Misérables' 'البؤساء'"
+ }
+}

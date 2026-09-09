@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "guild",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "guild",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An association of people for mutual aid or the pursuit of a common goal, especially a medieval association of craftsmen or merchants.",
+  "explanation_ar": "جمعية أو نقابة كانت بتضم الحرفيين زمان (زي النجارين أو الحدادين) عشان يحموا مصالحهم، وتُطلق أيضاً على بعض الروابط المهنية الحديثة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A medieval association of craftsmen or merchants organized to maintain standards and protect their mutual interests.",
+    "definition_ar": "طائفة حرفية أو نقابة تجارية في العصور الوسطى لحماية المصالح وتنظيم المهنة.",
+    "examples": [
+     "He joined the merchant guild to trade freely in the city."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A modern society or association of people engaged in the same profession or trade.",
+    "definition_ar": "رابطة أو نقابة مهنية حديثة تجمع أصحاب مهنة أو مصلحة واحدة.",
+    "examples": [
+     "The writers' guild protects the legal rights of authors."
+    ]
+   }
+  ],
+  "examples": [
+   "He joined the merchant guild to trade freely in the city.",
+   "The writers' guild protects the legal rights of authors.",
+   "Modern professional associations function somewhat like a medieval guild."
+  ],
+  "translations": [
+   "نقابة",
+   "طائفة حرفية",
+   "رابطة"
+  ],
+  "relations": {
+   "synonyms": [
+    "association",
+    "union",
+    "society",
+    "league",
+    "brotherhood"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "writers' guild",
+    "merchant guild",
+    "guild hall",
+    "guild member"
+   ]
+  },
+  "mnemonic": "شبه 'Gold' (دهب).. عشان النقابات دي كانت بتتحكم في الفلوس والـ 'Gold' بتاع الصنعة.",
+  "phonetic_us": "ɡɪld",
+  "phonetic_uk": "ɡɪld",
+  "syllables": "guild",
+  "semantic_tags": [
+   "#History",
+   "#Group",
+   "#Work",
+   "#Society"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An association of people for mutual aid or the pursuit of a common goal, especially a medieval association of craftsmen or merchants.",
+  "explanation_ar": "جمعية أو نقابة كانت بتضم الحرفيين زمان (زي النجارين أو الحدادين) عشان يحموا مصالحهم، وتُطلق أيضاً على بعض الروابط المهنية الحديثة.",
+  "examples": [
+   "He joined the merchant guild to trade freely in the city.",
+   "The writers' guild protects the legal rights of authors.",
+   "Modern professional associations function somewhat like a medieval guild."
+  ],
+  "translations": {
+   "arabic_ar": "نقابة طائفة حرفية رابطة"
+  },
+  "synonyms": [
+   "association",
+   "union",
+   "society",
+   "league",
+   "brotherhood"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "writers' guild",
+   "merchant guild",
+   "guild hall",
+   "guild member"
+  ],
+  "mnemonic_ar": "شبه 'Gold' (دهب).. عشان النقابات دي كانت بتتحكم في الفلوس والـ 'Gold' بتاع الصنعة."
+ }
+}

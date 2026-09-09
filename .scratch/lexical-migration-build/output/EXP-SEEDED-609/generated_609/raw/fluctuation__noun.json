@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "fluctuation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "fluctuation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An irregular rising and falling in number or amount; variation.",
+  "explanation_ar": "التغيير المستمر طالع نازل، زي سعر الذهب أو درجات الحرارة لما مش بتثبت.",
+  "senses": [
+   {
+    "definition_en": "An irregular rising and falling in number or amount; variation.",
+    "definition_ar": "تَقَلُّب أو تذبذب غير منتظم في العدد أو المقدار صعودًا وهبوطًا.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "There was a sudden fluctuation in the temperature overnight.",
+   "The company suffered heavy losses due to rapid currency fluctuation.",
+   "Any slight fluctuation in interest rates could affect the property market."
+  ],
+  "translations": [
+   "تَقَلُّب",
+   "تَذَبْذُب"
+  ],
+  "relations": {
+   "synonyms": [
+    "variation",
+    "instability",
+    "oscillation",
+    "shift"
+   ],
+   "antonyms": [
+    "stability",
+    "constancy",
+    "steadiness"
+   ],
+   "collocations": [
+    "price fluctuation",
+    "wild fluctuation",
+    "market fluctuation",
+    "currency fluctuation"
+   ]
+  },
+  "mnemonic": "أولها 'Flu' 'أنفلونزا'.. لما يجيلك 'Flu' حرارتك بيحصلها 'Fluctuation' بتطلع وتنزل.",
+  "phonetic_us": "flʌktʃuːˈeɪʃən",
+  "phonetic_uk": "ˌflʌktjuˈeɪʃən",
+  "syllables": "fluc•tu•a•tion",
+  "semantic_tags": [
+   "#Change",
+   "#Business",
+   "#Statistics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An irregular rising and falling in number or amount; variation.",
+  "explanation_ar": "التغيير المستمر طالع نازل، زي سعر الذهب أو درجات الحرارة لما مش بتثبت.",
+  "examples": [
+   "There was a sudden fluctuation in the temperature overnight.",
+   "The company suffered heavy losses due to rapid currency fluctuation.",
+   "Any slight fluctuation in interest rates could affect the property market."
+  ],
+  "translations": {
+   "arabic_ar": "تَقَلُّب تَذَبْذُب"
+  },
+  "synonyms": [
+   "variation",
+   "instability",
+   "oscillation",
+   "shift"
+  ],
+  "antonyms": [
+   "stability",
+   "constancy",
+   "steadiness"
+  ],
+  "collocations": [
+   "price fluctuation",
+   "wild fluctuation",
+   "market fluctuation",
+   "currency fluctuation"
+  ],
+  "mnemonic_ar": "أولها 'Flu' 'أنفلونزا'.. لما يجيلك 'Flu' حرارتك بيحصلها 'Fluctuation' بتطلع وتنزل."
+ }
+}

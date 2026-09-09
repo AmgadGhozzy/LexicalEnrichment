@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "goalkeeper",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "goalkeeper",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The player in sports like soccer whose job is to stop the ball from entering the goal.",
+  "explanation_ar": "اللاعب اللي بيقف في الجون ومهمته يمنع الكورة تدخل الشبكة.",
+  "senses": [
+   {
+    "definition_en": "The player in sports like soccer whose job is to stop the ball from entering the goal.",
+    "definition_ar": "اللاعب في رياضات مثل كرة القدم الذي تتمثل مهمته في حراسة المرمى ومنع الكرة من دخوله.",
+    "examples": [
+     "The goalkeeper stopped the ball.",
+     "The goalkeeper made a great save.",
+     "Our team needs a better goalkeeper."
+    ]
+   }
+  ],
+  "examples": [
+   "The goalkeeper stopped the ball.",
+   "The goalkeeper made a great save.",
+   "Our team needs a better goalkeeper."
+  ],
+  "translations": [
+   "حارس المرمى"
+  ],
+  "relations": {
+   "synonyms": [
+    "goalie",
+    "keeper",
+    "goaltender"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "good goalkeeper",
+    "goalkeeper gloves",
+    "beat the goalkeeper"
+   ]
+  },
+  "mnemonic": "هو الشخص اللي بيعمل 'Keep' (حفاظ) على الـ 'Goal' (المرمى) عشان مايدخلش فيه هدف.",
+  "phonetic_us": "ˈgoʊlkipər",
+  "phonetic_uk": "ˈɡəʊlkiːpə(r)",
+  "syllables": "goal•keep•er",
+  "semantic_tags": [
+   "#Sports",
+   "#Soccer",
+   "#Defense",
+   "#Game"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The player in sports like soccer whose job is to stop the ball from entering the goal.",
+  "explanation_ar": "اللاعب اللي بيقف في الجون ومهمته يمنع الكورة تدخل الشبكة.",
+  "examples": [
+   "The goalkeeper stopped the ball.",
+   "The goalkeeper made a great save.",
+   "Our team needs a better goalkeeper."
+  ],
+  "translations": {
+   "arabic_ar": "حارس المرمى"
+  },
+  "synonyms": [
+   "goalie",
+   "keeper",
+   "goaltender"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "good goalkeeper",
+   "goalkeeper gloves",
+   "beat the goalkeeper"
+  ],
+  "mnemonic_ar": "هو الشخص اللي بيعمل 'Keep' (حفاظ) على الـ 'Goal' (المرمى) عشان مايدخلش فيه هدف."
+ }
+}

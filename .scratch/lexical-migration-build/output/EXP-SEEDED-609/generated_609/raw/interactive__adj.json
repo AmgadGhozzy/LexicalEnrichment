@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "interactive",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "interactive",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Allowing a two-way flow of information between a computer and a user, or involving active participation and communication between people.",
+  "explanation_ar": "تفاعلي، يصف البرامج أو الوسائط التي تستجيب لأفعال المستخدم، أو الأنشطة والأساليب التي تتطلب مشاركة وتفاعلاً بين الأطراف.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Involving direct two-way communication or active participation between people.",
+    "definition_ar": "تفاعلي ينطوي على مشاركة متبادلة وتواصل بين الأشخاص."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Allowing a two-way flow of information between a computer or device and its user.",
+    "definition_ar": "تفاعلي تقنياً، يستجيب لإدخالات وأوامر المستخدم."
+   }
+  ],
+  "examples": [
+   "The museum has interactive displays for visitors.",
+   "The software provides an interactive user interface.",
+   "Teachers use interactive games to keep students engaged."
+  ],
+  "translations": [
+   "تفاعلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "participatory",
+    "two-way"
+   ],
+   "antonyms": [
+    "passive",
+    "one-way"
+   ],
+   "collocations": [
+    "interactive media",
+    "interactive whiteboard",
+    "interactive learning",
+    "interactive website"
+   ]
+  },
+  "mnemonic": "'Inter' تعني بين + 'Act' تعني فعل أو تصرف؛ المعنى فعل وتأثير متبادل بين طرفين.",
+  "phonetic_us": "ˌɪntɚˈæktɪv",
+  "phonetic_uk": "ˌɪntərˈæktɪv",
+  "syllables": "in•ter•ac•tive",
+  "semantic_tags": [
+   "Technology",
+   "Education",
+   "Communication"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Allowing a two-way flow of information between a computer and a user, or involving active participation and communication between people.",
+  "explanation_ar": "تفاعلي، يصف البرامج أو الوسائط التي تستجيب لأفعال المستخدم، أو الأنشطة والأساليب التي تتطلب مشاركة وتفاعلاً بين الأطراف.",
+  "examples": [
+   "The museum has interactive displays for visitors.",
+   "The software provides an interactive user interface.",
+   "Teachers use interactive games to keep students engaged."
+  ],
+  "translations": {
+   "arabic_ar": "تفاعلي"
+  },
+  "synonyms": [
+   "participatory",
+   "two-way"
+  ],
+  "antonyms": [
+   "passive",
+   "one-way"
+  ],
+  "collocations": [
+   "interactive media",
+   "interactive whiteboard",
+   "interactive learning",
+   "interactive website"
+  ],
+  "mnemonic_ar": "'Inter' تعني بين + 'Act' تعني فعل أو تصرف؛ المعنى فعل وتأثير متبادل بين طرفين."
+ }
+}

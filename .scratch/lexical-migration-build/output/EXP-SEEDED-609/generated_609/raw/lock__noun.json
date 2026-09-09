@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "lock",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "lock",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A mechanism for keeping a door or container fastened, usually operated by a key.",
+  "explanation_ar": "القفل اللي بنقفل بيه الباب أو الشنطة عشان الأمان.",
+  "senses": [
+   {
+    "definition_en": "A mechanism for keeping a door or container fastened, usually operated by a key.",
+    "definition_ar": "قفل يُستخدم لإغلاق الأبواب أو الحاويات بإحكام لأغراض الأمان.",
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "I have a key for the lock.",
+   "The door has a strong lock.",
+   "He changed the lock on the front door."
+  ],
+  "translations": [
+   "قُفْل"
+  ],
+  "relations": {
+   "synonyms": [
+    "latch",
+    "fastener",
+    "bolt"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "door lock",
+    "lock and key",
+    "combination lock"
+   ]
+  },
+  "mnemonic": "لو معاك 'Lock' 'قفل' قوي، فأنت عندك 'Luck' 'حظ' إن الحرامي مش هيعرف يدخل.",
+  "phonetic_us": "/lɑːk/",
+  "phonetic_uk": "/lɒk/",
+  "syllables": [
+   "lock"
+  ],
+  "semantic_tags": [
+   "Security",
+   "House",
+   "Objects & Tools"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A mechanism for keeping a door or container fastened, usually operated by a key.",
+  "explanation_ar": "القفل اللي بنقفل بيه الباب أو الشنطة عشان الأمان.",
+  "examples": [
+   "I have a key for the lock.",
+   "The door has a strong lock.",
+   "He changed the lock on the front door."
+  ],
+  "translations": {
+   "arabic_ar": "قُفْل"
+  },
+  "synonyms": [
+   "latch",
+   "fastener",
+   "bolt"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "door lock",
+   "lock and key",
+   "combination lock"
+  ],
+  "mnemonic_ar": "لو معاك 'Lock' 'قفل' قوي، فأنت عندك 'Luck' 'حظ' إن الحرامي مش هيعرف يدخل."
+ }
+}

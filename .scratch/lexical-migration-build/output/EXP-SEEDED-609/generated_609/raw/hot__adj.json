@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "hot",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "hot",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Having a high degree of heat or a high temperature.",
+  "explanation_ar": "سخن أو حار؛ يُستخدم لوصف الجو، أو الأشياء الساخنة، أو الأكل الحراق (سبايسي).",
+  "senses": [
+   {
+    "pos": "adj",
+    "definition_en": "Having a high temperature or producing heat.",
+    "definition_ar": "ساخن أو ذو حرارة مرتفعة."
+   },
+   {
+    "pos": "adj",
+    "definition_en": "Producing a burning sensation on the tongue; spicy.",
+    "definition_ar": "حار أو حِريف (طعام)."
+   }
+  ],
+  "examples": [
+   "The tea is hot.",
+   "It is hot in the summer.",
+   "Be careful with that hot pan."
+  ],
+  "translations": [
+   "ساخن",
+   "حار"
+  ],
+  "relations": {
+   "synonyms": [
+    "warm",
+    "boiling",
+    "scorching"
+   ],
+   "antonyms": [
+    "cold",
+    "cool"
+   ],
+   "collocations": [
+    "hot water",
+    "hot weather",
+    "hot topic"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Hat' (طاقية).. لما الجو يبقى 'Hot' والشمس حامية بنلبس 'Hat'.",
+  "phonetic_us": "hɑt",
+  "phonetic_uk": "hɒt",
+  "syllables": [
+   "hot"
+  ],
+  "semantic_tags": [
+   "#Weather",
+   "#Temperature",
+   "#Food"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having a high degree of heat or a high temperature.",
+  "explanation_ar": "سخن أو حار؛ يُستخدم لوصف الجو، أو الأشياء الساخنة، أو الأكل الحراق (سبايسي).",
+  "examples": [
+   "The tea is hot.",
+   "It is hot in the summer.",
+   "Be careful with that hot pan."
+  ],
+  "translations": {
+   "arabic_ar": "ساخن حار"
+  },
+  "synonyms": [
+   "warm",
+   "boiling",
+   "scorching"
+  ],
+  "antonyms": [
+   "cold",
+   "cool"
+  ],
+  "collocations": [
+   "hot water",
+   "hot weather",
+   "hot topic"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Hat' (طاقية).. لما الجو يبقى 'Hot' والشمس حامية بنلبس 'Hat'."
+ }
+}

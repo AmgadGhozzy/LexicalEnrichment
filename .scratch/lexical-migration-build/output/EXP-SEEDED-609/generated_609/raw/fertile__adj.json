@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "fertile",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "fertile",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Producing or capable of producing abundant vegetation, crops, or offspring; highly productive or inventive.",
+  "explanation_ar": "خصب؛ يصف الأرض كثيرة الإنتاج للزرع، أو الكائن الحي القادر على الإنجاب والتكاثر، أو العقل/الخيال الغني بالأفكار الجديدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Producing or capable of producing abundant vegetation or crops.",
+    "definition_ar": "خصب؛ قادر على إنتاج محاصيل ونباتات وفيرة (للتربة أو الأرض).",
+    "pos": "adj"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Able to produce babies, young animals, or new plants.",
+    "definition_ar": "قادر على الإنجاب أو التكاثر (للإنسان والحيوان).",
+    "pos": "adj"
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "Producing many good, new, or inventive ideas.",
+    "definition_ar": "خصب؛ متوقد أو منتج لأفكار إبداعية (للخيال أو الذهن).",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The Nile Valley is very fertile.",
+   "They went to a doctor to check if they were fertile.",
+   "He has a fertile imagination for writing stories."
+  ],
+  "translations": [
+   "خصب",
+   "خصبة",
+   "ولود"
+  ],
+  "relations": {
+   "synonyms": [
+    "fruitful",
+    "productive",
+    "fecund",
+    "rich"
+   ],
+   "antonyms": [
+    "barren",
+    "infertile",
+    "sterile"
+   ],
+   "collocations": [
+    "fertile soil",
+    "fertile ground",
+    "fertile imagination"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Fruit'.. الأرض الـ 'Fertile' بتطلع 'Fruit' كتير.",
+  "phonetic_us": "ˈfɜːrtəl",
+  "phonetic_uk": "ˈfɜːtaɪl",
+  "syllables": "fer•tile",
+  "semantic_tags": [
+   "Nature",
+   "Growth",
+   "Reproduction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Producing or capable of producing abundant vegetation, crops, or offspring; highly productive or inventive.",
+  "explanation_ar": "خصب؛ يصف الأرض كثيرة الإنتاج للزرع، أو الكائن الحي القادر على الإنجاب والتكاثر، أو العقل/الخيال الغني بالأفكار الجديدة.",
+  "examples": [
+   "The Nile Valley is very fertile.",
+   "They went to a doctor to check if they were fertile.",
+   "He has a fertile imagination for writing stories."
+  ],
+  "translations": {
+   "arabic_ar": "خصب خصبة ولود"
+  },
+  "synonyms": [
+   "fruitful",
+   "productive",
+   "fecund",
+   "rich"
+  ],
+  "antonyms": [
+   "barren",
+   "infertile",
+   "sterile"
+  ],
+  "collocations": [
+   "fertile soil",
+   "fertile ground",
+   "fertile imagination"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Fruit'.. الأرض الـ 'Fertile' بتطلع 'Fruit' كتير."
+ }
+}

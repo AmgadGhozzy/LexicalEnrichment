@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "fitness",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "fitness",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The condition of being physically strong and healthy.",
+  "explanation_ar": "حالة اللياقة البدنية، إن جسمك يكون صحي وقوي وتقدر تعمل مجهود.",
+  "senses": [
+   {
+    "sense_id": "fitness_1",
+    "definition_en": "The condition of being physically strong and healthy.",
+    "definition_ar": "اللياقة البدنية والصحة الجيدة",
+    "examples": [
+     "Walking is good for your fitness.",
+     "She has a high level of physical fitness."
+    ]
+   },
+   {
+    "sense_id": "fitness_2",
+    "definition_en": "The state or condition of being suitable or fit for a particular task or purpose.",
+    "definition_ar": "الأهلية أو الصلاحية للقيام بأمر معين",
+    "examples": [
+     "The doctor questioned his fitness to drive after the accident."
+    ]
+   }
+  ],
+  "examples": [
+   "Walking is good for your fitness.",
+   "She has a high level of physical fitness.",
+   "The doctor questioned his fitness to drive after the accident."
+  ],
+  "translations": [
+   "لِياقَة بَدَنِيَّة",
+   "صَلَاحِيَّة",
+   "أَهْلِيَّة"
+  ],
+  "relations": {
+   "synonyms": [
+    "health",
+    "strength",
+    "vigor",
+    "suitability"
+   ],
+   "antonyms": [
+    "weakness",
+    "illness",
+    "unfitness"
+   ],
+   "collocations": [
+    "physical fitness",
+    "fitness center",
+    "fitness tracker",
+    "fitness level"
+   ]
+  },
+  "mnemonic": "كلمة 'Fit' يعني مناسب.. الـ 'Fitness' إن جسمك يكون مناسب وصحي.",
+  "phonetic_us": "ˈfɪtnəs",
+  "phonetic_uk": "ˈfɪtnəs",
+  "syllables": "fit•ness",
+  "semantic_tags": [
+   "#Health",
+   "#Exercise",
+   "#Gym",
+   "#Body"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The condition of being physically strong and healthy.",
+  "explanation_ar": "حالة اللياقة البدنية، إن جسمك يكون صحي وقوي وتقدر تعمل مجهود.",
+  "examples": [
+   "Walking is good for your fitness.",
+   "She has a high level of physical fitness.",
+   "The doctor questioned his fitness to drive after the accident."
+  ],
+  "translations": {
+   "arabic_ar": "لِياقَة بَدَنِيَّة صَلَاحِيَّة أَهْلِيَّة"
+  },
+  "synonyms": [
+   "health",
+   "strength",
+   "vigor",
+   "suitability"
+  ],
+  "antonyms": [
+   "weakness",
+   "illness",
+   "unfitness"
+  ],
+  "collocations": [
+   "physical fitness",
+   "fitness center",
+   "fitness tracker",
+   "fitness level"
+  ],
+  "mnemonic_ar": "كلمة 'Fit' يعني مناسب.. الـ 'Fitness' إن جسمك يكون مناسب وصحي."
+ }
+}

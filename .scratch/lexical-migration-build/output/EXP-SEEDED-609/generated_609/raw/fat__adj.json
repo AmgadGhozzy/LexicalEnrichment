@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "fat",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fat",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Having a large amount of excess flesh; overweight.",
+  "explanation_ar": "صفة للشخص أو الحيوان اللي وزنه زايد، أو الحاجة اللي فيها دهون كتير.",
+  "senses": [
+   {
+    "definition_en": "Having a large amount of excess flesh; overweight.",
+    "definition_ar": "سمين، بدين، أو ذو وزن زائد.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The cat is very fat.",
+   "He thinks he is too fat.",
+   "You will get fat if you eat too many sweets."
+  ],
+  "translations": [
+   "سمين",
+   "بدين"
+  ],
+  "relations": {
+   "synonyms": [
+    "overweight",
+    "plump",
+    "heavy",
+    "obese"
+   ],
+   "antonyms": [
+    "thin",
+    "skinny",
+    "lean",
+    "slim"
+   ],
+   "collocations": [
+    "get fat",
+    "grow fat",
+    "big fat"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Fast' (سريع).. الشخص الـ 'Fat' غالباً مش بيبقى 'Fast'.",
+  "phonetic_us": "/fæt/",
+  "phonetic_uk": "/fæt/",
+  "syllables": "fat",
+  "semantic_tags": [
+   "#Body",
+   "#Weight",
+   "#Description"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having a large amount of excess flesh; overweight.",
+  "explanation_ar": "صفة للشخص أو الحيوان اللي وزنه زايد، أو الحاجة اللي فيها دهون كتير.",
+  "examples": [
+   "The cat is very fat.",
+   "He thinks he is too fat.",
+   "You will get fat if you eat too many sweets."
+  ],
+  "translations": {
+   "arabic_ar": "سمين بدين"
+  },
+  "synonyms": [
+   "overweight",
+   "plump",
+   "heavy",
+   "obese"
+  ],
+  "antonyms": [
+   "thin",
+   "skinny",
+   "lean",
+   "slim"
+  ],
+  "collocations": [
+   "get fat",
+   "grow fat",
+   "big fat"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Fast' (سريع).. الشخص الـ 'Fat' غالباً مش بيبقى 'Fast'."
+ }
+}

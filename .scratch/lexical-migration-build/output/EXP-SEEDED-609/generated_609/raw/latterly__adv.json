@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "latterly",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "latterly",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "Recently; in the later stages of a period.",
+  "explanation_ar": "في الفترة الأخيرة، أو في الجزء الأخير من حياته أو شغله.",
+  "senses": [
+   {
+    "definition_en": "Recently; of late.",
+    "definition_ar": "مؤخرًا، في الآونة الأخيرة."
+   },
+   {
+    "definition_en": "In the later part of a period, especially of someone's life or career.",
+    "definition_ar": "في الجزء الأخير من فترة زمنية، خاصة في أواخر حياة شخص أو مسيرته المهنية."
+   }
+  ],
+  "examples": [
+   "He has been ill latterly.",
+   "He worked as a clerk, and latterly as a manager.",
+   "Latterly, the company has focused on renewable energy."
+  ],
+  "translations": [
+   "مؤخرًا",
+   "حديثًا",
+   "في الفترة الأخيرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "recently",
+    "lately",
+    "of late"
+   ],
+   "antonyms": [
+    "formerly",
+    "initially",
+    "originally"
+   ],
+   "collocations": [
+    "served latterly",
+    "lived latterly",
+    "known latterly"
+   ]
+  },
+  "mnemonic": "جاية من 'Later' 'بعدين'.. يعني في الفترة الأخيرة.",
+  "phonetic_us": "ˈlætərli",
+  "phonetic_uk": "ˈlætəli",
+  "syllables": "lat•ter•ly",
+  "semantic_tags": [
+   "#Time",
+   "#History",
+   "#Sequence"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Recently; in the later stages of a period.",
+  "explanation_ar": "في الفترة الأخيرة، أو في الجزء الأخير من حياته أو شغله.",
+  "examples": [
+   "He has been ill latterly.",
+   "He worked as a clerk, and latterly as a manager.",
+   "Latterly, the company has focused on renewable energy."
+  ],
+  "translations": {
+   "arabic_ar": "مؤخرًا حديثًا في الفترة الأخيرة"
+  },
+  "synonyms": [
+   "recently",
+   "lately",
+   "of late"
+  ],
+  "antonyms": [
+   "formerly",
+   "initially",
+   "originally"
+  ],
+  "collocations": [
+   "served latterly",
+   "lived latterly",
+   "known latterly"
+  ],
+  "mnemonic_ar": "جاية من 'Later' 'بعدين'.. يعني في الفترة الأخيرة."
+ }
+}

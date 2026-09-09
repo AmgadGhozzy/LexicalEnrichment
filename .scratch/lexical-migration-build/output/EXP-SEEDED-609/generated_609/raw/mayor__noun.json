@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "mayor",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "mayor",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The elected head of a city, town, or other municipality.",
+  "explanation_ar": "العمدة أو المحافظ، الشخص المنتخب اللي بيدير المدينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The elected head of a city, town, or other municipality.",
+    "definition_ar": "العمدة أو رئيس البلدية المنتخب لإدارة شؤون المدينة أو البلدة.",
+    "examples": [
+     "The mayor opened the new park.",
+     "She is running for mayor this year.",
+     "We met the mayor of the town."
+    ]
+   }
+  ],
+  "examples": [
+   "The mayor opened the new park.",
+   "She is running for mayor this year.",
+   "We met the mayor of the town."
+  ],
+  "translations": [
+   "عمدة",
+   "رئيس بلدية",
+   "محافظ"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "run for mayor",
+    "city mayor",
+    "deputy mayor",
+    "elect a mayor"
+   ]
+  },
+  "mnemonic": "الـ 'Mayor' هو الـ 'Major' 'الرئيسي' في المدينة.",
+  "phonetic_us": "ˈmeɪɚ",
+  "phonetic_uk": "meə",
+  "syllables": "may•or",
+  "semantic_tags": [
+   "Politics",
+   "City",
+   "Government"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The elected head of a city, town, or other municipality.",
+  "explanation_ar": "العمدة أو المحافظ، الشخص المنتخب اللي بيدير المدينة.",
+  "examples": [
+   "The mayor opened the new park.",
+   "She is running for mayor this year.",
+   "We met the mayor of the town."
+  ],
+  "translations": {
+   "arabic_ar": "عمدة رئيس بلدية محافظ"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "run for mayor",
+   "city mayor",
+   "deputy mayor",
+   "elect a mayor"
+  ],
+  "mnemonic_ar": "الـ 'Mayor' هو الـ 'Major' 'الرئيسي' في المدينة."
+ }
+}

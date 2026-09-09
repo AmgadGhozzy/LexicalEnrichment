@@ -1,0 +1,115 @@
+{
+ "identity": {
+  "lemma": "linger",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "linger",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To stay in a place longer than necessary because of a reluctance to leave.",
+  "explanation_ar": "تفضل قاعد في مكان أو مكمل في حاجة وقت أطول من اللازم، بتتباطأ ومش عايز تمشي.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "To stay in a place longer than necessary because of a reluctance to leave.",
+    "definition_ar": "البقاء في مكان ما لفترة أطول من اللازم لعدم الرغبة في المغادرة.",
+    "examples": [
+     "Customers often linger over coffee for hours at the small cafe.",
+     "Do not linger in the hallway after the bell rings."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "To continue to exist or remain noticeable for a long time.",
+    "definition_ar": "أن يستمر أثر شيء أو يبقى ملحوظاً لفترة طويلة (كرائحة أو فكرة).",
+    "examples": [
+     "The pleasant scent of lavender will linger in the room all evening."
+    ]
+   }
+  ],
+  "examples": [
+   "Customers often linger over coffee for hours at the small cafe.",
+   "Do not linger in the hallway after the bell rings.",
+   "The pleasant scent of lavender will linger in the room all evening."
+  ],
+  "translations": [
+   "يبقى",
+   "يتريث",
+   "يمكث"
+  ],
+  "relations": {
+   "synonyms": [
+    "stay",
+    "remain",
+    "loiter",
+    "dawdle"
+   ],
+   "antonyms": [
+    "leave",
+    "rush",
+    "hurry"
+   ],
+   "collocations": [
+    "linger on",
+    "linger in the mind",
+    "linger over",
+    "linger in the air"
+   ],
+   "related_words": [
+    "wait",
+    "delay",
+    "stay",
+    "remain"
+   ],
+   "word_family": {
+    "verb": "linger",
+    "noun": "lingerer",
+    "adjective": "lingering",
+    "adverb": "lingeringly"
+   }
+  },
+  "mnemonic": "كلمة 'Linger' فيها 'Long' 'طويل'.. يعني بتقعد وقت 'Longer' أطول.",
+  "phonetic_us": "ˈlɪŋɡɚ",
+  "phonetic_uk": "ˈlɪŋɡə",
+  "syllables": "lin-ger",
+  "semantic_tags": [
+   "#Time",
+   "#Stay",
+   "#Wait",
+   "#Delay"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To stay in a place longer than necessary because of a reluctance to leave.",
+  "explanation_ar": "تفضل قاعد في مكان أو مكمل في حاجة وقت أطول من اللازم، بتتباطأ ومش عايز تمشي.",
+  "examples": [
+   "Customers often linger over coffee for hours at the small cafe.",
+   "Do not linger in the hallway after the bell rings.",
+   "The pleasant scent of lavender will linger in the room all evening."
+  ],
+  "translations": {
+   "arabic_ar": "يبقى يتريث يمكث"
+  },
+  "synonyms": [
+   "stay",
+   "remain",
+   "loiter",
+   "dawdle"
+  ],
+  "antonyms": [
+   "leave",
+   "rush",
+   "hurry"
+  ],
+  "collocations": [
+   "linger on",
+   "linger in the mind",
+   "linger over",
+   "linger in the air"
+  ],
+  "mnemonic_ar": "كلمة 'Linger' فيها 'Long' 'طويل'.. يعني بتقعد وقت 'Longer' أطول."
+ }
+}

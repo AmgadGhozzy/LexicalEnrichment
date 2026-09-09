@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "intellectual",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intellectual",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who is well-educated and enjoys serious study and thought.",
+  "explanation_ar": "شخص مثقف جداً، بيحب القراية والتفكير في المواضيع العميقة.",
+  "senses": [
+   {
+    "definition_en": "A person who is well-educated and enjoys serious study and thought.",
+    "definition_ar": "شخص مثقف جداً، بيحب القراية والتفكير في المواضيع العميقة.",
+    "examples": [
+     "He considers himself an intellectual.",
+     "The role of the public intellectual has diminished in modern society.",
+     "As a young intellectual, he was deeply interested in politics and philosophy."
+    ]
+   }
+  ],
+  "examples": [
+   "He considers himself an intellectual.",
+   "The role of the public intellectual has diminished in modern society.",
+   "As a young intellectual, he was deeply interested in politics and philosophy."
+  ],
+  "translations": [
+   "مفكر",
+   "شخص مثقف"
+  ],
+  "relations": {
+   "synonyms": [
+    "thinker",
+    "academic",
+    "scholar",
+    "highbrow"
+   ],
+   "antonyms": [
+    "lowbrow"
+   ],
+   "collocations": [
+    "public intellectual",
+    "leading intellectual",
+    "young intellectual"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˌɪntəˈlɛktʃuəl",
+  "phonetic_uk": "ˌɪntəˈlektʃuəl",
+  "syllables": "in•tel•lec•tu•al",
+  "semantic_tags": [
+   "Person",
+   "Smart",
+   "Culture",
+   "Thinker"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who is well-educated and enjoys serious study and thought.",
+  "explanation_ar": "شخص مثقف جداً، بيحب القراية والتفكير في المواضيع العميقة.",
+  "examples": [
+   "He considers himself an intellectual.",
+   "The role of the public intellectual has diminished in modern society.",
+   "As a young intellectual, he was deeply interested in politics and philosophy."
+  ],
+  "translations": {
+   "arabic_ar": "مفكر شخص مثقف"
+  },
+  "synonyms": [
+   "thinker",
+   "academic",
+   "scholar",
+   "highbrow"
+  ],
+  "antonyms": [
+   "lowbrow"
+  ],
+  "collocations": [
+   "public intellectual",
+   "leading intellectual",
+   "young intellectual"
+  ],
+  "mnemonic_ar": null
+ }
+}

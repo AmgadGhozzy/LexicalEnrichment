@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "flourish",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "flourish",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A bold or extravagant gesture made to attract attention, or an ornamental detail in writing, speech, or performance.",
+  "explanation_ar": "حركة استعراضية ملفتة للنظر، أو لمسة زخرفية وتنميق في الكلام أو الكتابة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A bold, dramatic, or extravagant gesture or action.",
+    "definition_ar": "حركة استعراضية أو إيماءة لافتة للأنظار.",
+    "examples": [
+     "He opened the door with a dramatic flourish."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "An ornamental stroke in handwriting or an elaborate embellishment in speech, music, or design.",
+    "definition_ar": "زخرفة أو حلية شكلية في الخط أو تنميق بلاغي في الكلام أو الموسيقى.",
+    "examples": [
+     "The speech ended with a rhetorical flourish.",
+     "She signed her name with an elaborate flourish."
+    ]
+   }
+  ],
+  "examples": [
+   "He opened the door with a dramatic flourish.",
+   "The speech ended with a rhetorical flourish.",
+   "She signed her name with an elaborate flourish."
+  ],
+  "translations": [
+   "حركة استعراضية",
+   "زخرفة",
+   "تنميق"
+  ],
+  "relations": {
+   "synonyms": [
+    "embellishment",
+    "ornament",
+    "gesture"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "with a flourish",
+    "rhetorical flourish",
+    "artistic flourish"
+   ]
+  },
+  "mnemonic": "جاية من 'Flower' 'وردة'.. الـ 'Flourish' تزيين وزخرفة زي الورد.",
+  "phonetic_us": "/ˈflɜːr.ɪʃ/",
+  "phonetic_uk": "/ˈflʌr.ɪʃ/",
+  "syllables": "flour•ish",
+  "semantic_tags": [
+   "#Gesture",
+   "#Style",
+   "#Decoration"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A bold or extravagant gesture made to attract attention, or an ornamental detail in writing, speech, or performance.",
+  "explanation_ar": "حركة استعراضية ملفتة للنظر، أو لمسة زخرفية وتنميق في الكلام أو الكتابة.",
+  "examples": [
+   "He opened the door with a dramatic flourish.",
+   "The speech ended with a rhetorical flourish.",
+   "She signed her name with an elaborate flourish."
+  ],
+  "translations": {
+   "arabic_ar": "حركة استعراضية زخرفة تنميق"
+  },
+  "synonyms": [
+   "embellishment",
+   "ornament",
+   "gesture"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "with a flourish",
+   "rhetorical flourish",
+   "artistic flourish"
+  ],
+  "mnemonic_ar": "جاية من 'Flower' 'وردة'.. الـ 'Flourish' تزيين وزخرفة زي الورد."
+ }
+}

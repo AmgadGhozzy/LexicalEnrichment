@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "offensive",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "offensive",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Causing someone to feel deeply hurt, upset, or angry.",
+  "explanation_ar": "مهين أو جارح.. كلام أو تصرف بيزعل الناس ويجرح مشاعرهم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Causing someone to feel deeply hurt, upset, or angry.",
+    "definition_ar": "مُهين أو جارح للمشاعر",
+    "pos": "adj"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Connected with attack rather than defense.",
+    "definition_ar": "هجومي (متعلق بالهجوم)",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "I found his joke very offensive.",
+   "He made offensive remarks about her appearance.",
+   "The content was deemed offensive to community standards."
+  ],
+  "translations": [
+   "مُهين",
+   "جارح",
+   "هجومي"
+  ],
+  "relations": {
+   "synonyms": [
+    "insulting",
+    "rude",
+    "objectionable"
+   ],
+   "antonyms": [
+    "inoffensive",
+    "polite",
+    "complimentary",
+    "defensive"
+   ],
+   "collocations": [
+    "offensive language",
+    "offensive weapon",
+    "highly offensive"
+   ]
+  },
+  "mnemonic": "عكس 'Defensive' 'دفاعي'.. الـ 'Offensive' هو اللي بيبدأ بالهجوم أو الإهانة.",
+  "phonetic_us": "əˈfɛnsɪv",
+  "phonetic_uk": "əˈfensɪv",
+  "syllables": "of•fen•sive",
+  "semantic_tags": [
+   "#Insult",
+   "#Rude",
+   "#Attack"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Causing someone to feel deeply hurt, upset, or angry.",
+  "explanation_ar": "مهين أو جارح.. كلام أو تصرف بيزعل الناس ويجرح مشاعرهم.",
+  "examples": [
+   "I found his joke very offensive.",
+   "He made offensive remarks about her appearance.",
+   "The content was deemed offensive to community standards."
+  ],
+  "translations": {
+   "arabic_ar": "مُهين جارح هجومي"
+  },
+  "synonyms": [
+   "insulting",
+   "rude",
+   "objectionable"
+  ],
+  "antonyms": [
+   "inoffensive",
+   "polite",
+   "complimentary",
+   "defensive"
+  ],
+  "collocations": [
+   "offensive language",
+   "offensive weapon",
+   "highly offensive"
+  ],
+  "mnemonic_ar": "عكس 'Defensive' 'دفاعي'.. الـ 'Offensive' هو اللي بيبدأ بالهجوم أو الإهانة."
+ }
+}

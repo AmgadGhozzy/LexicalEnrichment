@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "give",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "give",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To freely transfer the possession of something to someone.",
+  "explanation_ar": "يعطي أو يدي حاجة لحد. زي لما تدي هدية لصاحبك.",
+  "senses": [
+   {
+    "definition_en": "To freely transfer the possession of something to someone.",
+    "definition_ar": "أن تنقل ملكية أو حيازة شيء إلى شخص آخر؛ يعطي أو يمنح.",
+    "examples": [
+     "Please give me the book.",
+     "They give money to charity every year.",
+     "I will give you the keys tomorrow."
+    ]
+   }
+  ],
+  "examples": [
+   "Please give me the book.",
+   "They give money to charity every year.",
+   "I will give you the keys tomorrow."
+  ],
+  "translations": [
+   "يعطي",
+   "يمنح"
+  ],
+  "relations": {
+   "synonyms": [
+    "offer",
+    "provide",
+    "grant",
+    "donate"
+   ],
+   "antonyms": [
+    "take",
+    "receive"
+   ],
+   "collocations": [
+    "give up",
+    "give in",
+    "give way",
+    "give a hand"
+   ]
+  },
+  "mnemonic": "كلمة 'Give' قريبة من 'Gift' 'هدية'.. لما تدي حد 'Gift' إنت بتعمل 'Give'.",
+  "phonetic_us": "/ɡɪv/",
+  "phonetic_uk": "/ɡɪv/",
+  "syllables": "give",
+  "semantic_tags": [
+   "Transfer",
+   "Generosity",
+   "Interaction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To freely transfer the possession of something to someone.",
+  "explanation_ar": "يعطي أو يدي حاجة لحد. زي لما تدي هدية لصاحبك.",
+  "examples": [
+   "Please give me the book.",
+   "They give money to charity every year.",
+   "I will give you the keys tomorrow."
+  ],
+  "translations": {
+   "arabic_ar": "يعطي يمنح"
+  },
+  "synonyms": [
+   "offer",
+   "provide",
+   "grant",
+   "donate"
+  ],
+  "antonyms": [
+   "take",
+   "receive"
+  ],
+  "collocations": [
+   "give up",
+   "give in",
+   "give way",
+   "give a hand"
+  ],
+  "mnemonic_ar": "كلمة 'Give' قريبة من 'Gift' 'هدية'.. لما تدي حد 'Gift' إنت بتعمل 'Give'."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "nobody",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "nobody",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "No person; no one.",
+  "explanation_ar": "محدش.. ولا أي شخص.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "No person; no one.",
+    "explanation_ar": "لا أحد، ولا أي شخص.",
+    "examples": [
+     "Nobody came to the party.",
+     "There was nobody at the desk.",
+     "Nobody else can do this job."
+    ]
+   }
+  ],
+  "examples": [
+   "Nobody came to the party.",
+   "There was nobody at the desk.",
+   "Nobody else can do this job."
+  ],
+  "translations": [
+   "لا أحد"
+  ],
+  "relations": {
+   "synonyms": [
+    "no one",
+    "none"
+   ],
+   "antonyms": [
+    "everybody",
+    "everyone",
+    "somebody"
+   ],
+   "collocations": [
+    "nobody else",
+    "nobody knows",
+    "nobody cares"
+   ]
+  },
+  "mnemonic": "'No' 'لا' + 'Body' 'جسم'.. يعني ولا حد.",
+  "phonetic_us": "ˈnoʊ.bɑ.di",
+  "phonetic_uk": "ˈnəʊ.bɒ.di",
+  "syllables": "no•body",
+  "semantic_tags": [
+   "#Pronoun",
+   "#People",
+   "#Negative",
+   "#Quantity"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "No person; no one.",
+  "explanation_ar": "محدش.. ولا أي شخص.",
+  "examples": [
+   "Nobody came to the party.",
+   "There was nobody at the desk.",
+   "Nobody else can do this job."
+  ],
+  "translations": {
+   "arabic_ar": "لا أحد"
+  },
+  "synonyms": [
+   "no one",
+   "none"
+  ],
+  "antonyms": [
+   "everybody",
+   "everyone",
+   "somebody"
+  ],
+  "collocations": [
+   "nobody else",
+   "nobody knows",
+   "nobody cares"
+  ],
+  "mnemonic_ar": "'No' 'لا' + 'Body' 'جسم'.. يعني ولا حد."
+ }
+}

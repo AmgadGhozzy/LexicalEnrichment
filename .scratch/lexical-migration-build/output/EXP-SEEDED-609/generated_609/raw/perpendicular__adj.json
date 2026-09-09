@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "perpendicular",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "perpendicular",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "At an angle of 90 degrees to a line or surface.",
+  "explanation_ar": "عمودي، يعني عامل زاوية 90 درجة (قائمة) مع خط أو سطح آخر.",
+  "senses": [
+   {
+    "definition_en": "At an angle of 90 degrees to a line or surface.",
+    "explanation_ar": "عمودي أو متعامد، يشكل زاوية قائمة (90 درجة) مع سطح أو خط آخر."
+   }
+  ],
+  "examples": [
+   "The street is perpendicular to the beach.",
+   "Ensure the post is perpendicular to the ground.",
+   "The force acts in a direction perpendicular to the surface."
+  ],
+  "translations": [
+   "عمودي",
+   "متعامد"
+  ],
+  "relations": {
+   "synonyms": [
+    "orthogonal",
+    "upright",
+    "vertical"
+   ],
+   "antonyms": [
+    "parallel",
+    "horizontal"
+   ],
+   "collocations": [
+    "perpendicular line",
+    "perpendicular to",
+    "perpendicular distance"
+   ]
+  },
+  "mnemonic": "كلمة طويلة واقفة زي العمود.. 'Perpendicular' يعني عمودي.",
+  "phonetic_us": "ˌpɜːrpənˈdɪkjələr",
+  "phonetic_uk": "ˌpɜːpənˈdɪkjələ",
+  "syllables": "per•pen•dic•u•lar",
+  "semantic_tags": [
+   "Math",
+   "Geometry",
+   "Angle",
+   "Shape"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "At an angle of 90 degrees to a line or surface.",
+  "explanation_ar": "عمودي، يعني عامل زاوية 90 درجة (قائمة) مع خط أو سطح آخر.",
+  "examples": [
+   "The street is perpendicular to the beach.",
+   "Ensure the post is perpendicular to the ground.",
+   "The force acts in a direction perpendicular to the surface."
+  ],
+  "translations": {
+   "arabic_ar": "عمودي متعامد"
+  },
+  "synonyms": [
+   "orthogonal",
+   "upright",
+   "vertical"
+  ],
+  "antonyms": [
+   "parallel",
+   "horizontal"
+  ],
+  "collocations": [
+   "perpendicular line",
+   "perpendicular to",
+   "perpendicular distance"
+  ],
+  "mnemonic_ar": "كلمة طويلة واقفة زي العمود.. 'Perpendicular' يعني عمودي."
+ }
+}

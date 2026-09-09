@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "floor",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "floor",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The lower surface of a room, on which one may walk.",
+  "explanation_ar": "الأرضية اللي بنمشي عليها في الأوضة، أو الطابق في العمارة.",
+  "senses": [
+   {
+    "definition_en": "The lower surface of a room on which one walks.",
+    "definition_ar": "الأرضية التي يُسار عليها في الغرفة.",
+    "examples": [
+     "The bag is on the floor.",
+     "Don't sit on the cold floor."
+    ]
+   },
+   {
+    "definition_en": "All the rooms that are on the same level of a building; a storey.",
+    "definition_ar": "طابق أو دور في مبنى.",
+    "examples": [
+     "I live on the second floor."
+    ]
+   }
+  ],
+  "examples": [
+   "The bag is on the floor.",
+   "I live on the second floor.",
+   "Don't sit on the cold floor."
+  ],
+  "translations": [
+   "أرضية",
+   "طابق"
+  ],
+  "relations": {
+   "synonyms": [
+    "ground",
+    "story",
+    "level"
+   ],
+   "antonyms": [
+    "ceiling",
+    "roof"
+   ],
+   "collocations": [
+    "ground floor",
+    "top floor",
+    "dance floor",
+    "sweep the floor"
+   ]
+  },
+  "mnemonic": "كلمة 'Floor' قريبة من 'Flower'.. ممكن تفرش 'Flowers' على الـ 'Floor'.",
+  "phonetic_us": "flɔɹ",
+  "phonetic_uk": "flɔː",
+  "syllables": [
+   "floor"
+  ],
+  "semantic_tags": [
+   "#Building",
+   "#Ground",
+   "#House"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The lower surface of a room, on which one may walk.",
+  "explanation_ar": "الأرضية اللي بنمشي عليها في الأوضة، أو الطابق في العمارة.",
+  "examples": [
+   "The bag is on the floor.",
+   "I live on the second floor.",
+   "Don't sit on the cold floor."
+  ],
+  "translations": {
+   "arabic_ar": "أرضية طابق"
+  },
+  "synonyms": [
+   "ground",
+   "story",
+   "level"
+  ],
+  "antonyms": [
+   "ceiling",
+   "roof"
+  ],
+  "collocations": [
+   "ground floor",
+   "top floor",
+   "dance floor",
+   "sweep the floor"
+  ],
+  "mnemonic_ar": "كلمة 'Floor' قريبة من 'Flower'.. ممكن تفرش 'Flowers' على الـ 'Floor'."
+ }
+}

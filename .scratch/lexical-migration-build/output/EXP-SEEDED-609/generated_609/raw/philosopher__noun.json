@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "philosopher",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "philosopher",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person engaged or learned in philosophy, especially as an academic discipline.",
+  "explanation_ar": "الفيلسوف، الشخص اللي بيفكر في أسئلة وجودية عميقة زي معنى الحياة والحقيقة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person engaged or learned in philosophy, especially as an academic discipline.",
+    "definition_ar": "فيلسوف؛ شخص متخصص أو متعمق في دراسة الفلسفة والتفكير في مبادئ الوجود والمعرفة والأخلاق.",
+    "examples": [
+     "Plato was a philosopher.",
+     "The philosopher wrote many books about life.",
+     "As a moral philosopher, he debates ethics."
+    ]
+   }
+  ],
+  "examples": [
+   "Plato was a philosopher.",
+   "The philosopher wrote many books about life.",
+   "As a moral philosopher, he debates ethics."
+  ],
+  "translations": [
+   "فيلسوف"
+  ],
+  "relations": {
+   "synonyms": [
+    "thinker",
+    "theorist",
+    "scholar",
+    "sage"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Greek philosopher",
+    "moral philosopher",
+    "political philosopher",
+    "great philosopher"
+   ]
+  },
+  "mnemonic": "هي كلمة 'فيلسوف' بالعربي.. جاية من 'Philosophy' 'فلسفة'.",
+  "phonetic_us": "fəˈlɑːsəfər",
+  "phonetic_uk": "fɪˈlɒsəfə",
+  "syllables": "phi•los•o•pher",
+  "semantic_tags": [
+   "#Thinking",
+   "#Wisdom",
+   "#Academic",
+   "#Logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person engaged or learned in philosophy, especially as an academic discipline.",
+  "explanation_ar": "الفيلسوف، الشخص اللي بيفكر في أسئلة وجودية عميقة زي معنى الحياة والحقيقة.",
+  "examples": [
+   "Plato was a philosopher.",
+   "The philosopher wrote many books about life.",
+   "As a moral philosopher, he debates ethics."
+  ],
+  "translations": {
+   "arabic_ar": "فيلسوف"
+  },
+  "synonyms": [
+   "thinker",
+   "theorist",
+   "scholar",
+   "sage"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Greek philosopher",
+   "moral philosopher",
+   "political philosopher",
+   "great philosopher"
+  ],
+  "mnemonic_ar": "هي كلمة 'فيلسوف' بالعربي.. جاية من 'Philosophy' 'فلسفة'."
+ }
+}

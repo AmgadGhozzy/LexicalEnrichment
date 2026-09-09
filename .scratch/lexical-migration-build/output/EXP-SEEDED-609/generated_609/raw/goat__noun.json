@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "goat",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "goat",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A farm animal with horns and a beard, kept for milk and meat.",
+  "explanation_ar": "حيوان المعزة اللي بنربيه عشان اللبن واللحم.",
+  "senses": [
+   {
+    "sense_id": "goat-noun-1",
+    "pos": "noun",
+    "definition_en": "A farm animal with horns and a beard, kept for milk and meat.",
+    "explanation_ar": "حيوان المعزة اللي بنربيه عشان اللبن واللحم."
+   }
+  ],
+  "examples": [
+   "The goat eats grass in the field.",
+   "We saw a goat on the farm.",
+   "The farmer keeps a goat for fresh milk."
+  ],
+  "translations": [
+   "ماعز",
+   "معزة",
+   "عنزة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "mountain goat",
+    "goat cheese",
+    "goat milk"
+   ]
+  },
+  "mnemonic": "كلمة 'Goat' قريبة من 'Go at'.. المعزة بتنطح وبتهجم 'Go at' على أي حاجة.",
+  "phonetic_us": "ɡoʊt",
+  "phonetic_uk": "ɡəʊt",
+  "syllables": [
+   "goat"
+  ],
+  "semantic_tags": [
+   "#Animals",
+   "#Farm",
+   "#Livestock"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A farm animal with horns and a beard, kept for milk and meat.",
+  "explanation_ar": "حيوان المعزة اللي بنربيه عشان اللبن واللحم.",
+  "examples": [
+   "The goat eats grass in the field.",
+   "We saw a goat on the farm.",
+   "The farmer keeps a goat for fresh milk."
+  ],
+  "translations": {
+   "arabic_ar": "ماعز معزة عنزة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "mountain goat",
+   "goat cheese",
+   "goat milk"
+  ],
+  "mnemonic_ar": "كلمة 'Goat' قريبة من 'Go at'.. المعزة بتنطح وبتهجم 'Go at' على أي حاجة."
+ }
+}

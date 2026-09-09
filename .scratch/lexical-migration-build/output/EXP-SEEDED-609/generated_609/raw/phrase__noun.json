@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "phrase",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "phrase",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A small group of words standing together as a conceptual unit.",
+  "explanation_ar": "عبارة، يعني مجموعة كلمات جنب بعض بتدي معنى، بس مش جملة كاملة.",
+  "senses": [
+   {
+    "definition_en": "A small group of words standing together as a conceptual unit.",
+    "explanation_ar": "عبارة، يعني مجموعة كلمات جنب بعض بتدي معنى، بس مش جملة كاملة.",
+    "examples": [
+     "Translate this phrase.",
+     "He used a funny phrase.",
+     "The phrase 'climate change' is common now."
+    ]
+   }
+  ],
+  "examples": [
+   "Translate this phrase.",
+   "He used a funny phrase.",
+   "The phrase 'climate change' is common now."
+  ],
+  "translations": [
+   "عِبارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "expression",
+    "idiom",
+    "saying",
+    "term"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "catch phrase",
+    "noun phrase",
+    "turn of phrase"
+   ]
+  },
+  "mnemonic": "كلمة 'Phrase' قريبة من 'Fries'.. زي ما الـ 'Fries' بتيجي مجموعة صوابع، الـ 'Phrase' مجموعة كلمات.",
+  "phonetic_us": "freɪz",
+  "phonetic_uk": "freɪz",
+  "syllables": "phrase",
+  "semantic_tags": [
+   "Language",
+   "Grammar",
+   "Writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small group of words standing together as a conceptual unit.",
+  "explanation_ar": "عبارة، يعني مجموعة كلمات جنب بعض بتدي معنى، بس مش جملة كاملة.",
+  "examples": [
+   "Translate this phrase.",
+   "He used a funny phrase.",
+   "The phrase 'climate change' is common now."
+  ],
+  "translations": {
+   "arabic_ar": "عِبارة"
+  },
+  "synonyms": [
+   "expression",
+   "idiom",
+   "saying",
+   "term"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "catch phrase",
+   "noun phrase",
+   "turn of phrase"
+  ],
+  "mnemonic_ar": "كلمة 'Phrase' قريبة من 'Fries'.. زي ما الـ 'Fries' بتيجي مجموعة صوابع، الـ 'Phrase' مجموعة كلمات."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "humble",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "humble",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Having or showing a modest or low estimate of one's own importance.",
+  "explanation_ar": "شخص متواضع، مش شايف نفسه على الناس، وبسيط في تعامله.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Having or showing a modest estimate of one's own importance; not proud or arrogant.",
+    "definition_ar": "متواضع؛ لا يتعالى على غيره."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Of low social status, rank, or modest condition.",
+    "definition_ar": "بسيط أو متواضع الحال والمكانة."
+   }
+  ],
+  "examples": [
+   "Despite his success, he remained humble.",
+   "He came from a humble background.",
+   "In my humble opinion, this is the best option."
+  ],
+  "translations": [
+   "متواضع",
+   "بسيط"
+  ],
+  "relations": {
+   "synonyms": [
+    "modest",
+    "unassuming",
+    "meek"
+   ],
+   "antonyms": [
+    "proud",
+    "arrogant",
+    "boastful"
+   ],
+   "collocations": [
+    "humble opinion",
+    "humble background",
+    "humble abode",
+    "remain humble"
+   ]
+  },
+  "mnemonic": "كلمة 'Humble' قريبة من 'Human' 'إنسان'.. الإنسان لازم يكون 'Humble' ومتواضع.",
+  "phonetic_us": "ˈhʌmbəl",
+  "phonetic_uk": "ˈhʌmbəl",
+  "syllables": "hum•ble",
+  "semantic_tags": [
+   "#Personality",
+   "#Character",
+   "#Modesty",
+   "#Status"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having or showing a modest or low estimate of one's own importance.",
+  "explanation_ar": "شخص متواضع، مش شايف نفسه على الناس، وبسيط في تعامله.",
+  "examples": [
+   "Despite his success, he remained humble.",
+   "He came from a humble background.",
+   "In my humble opinion, this is the best option."
+  ],
+  "translations": {
+   "arabic_ar": "متواضع بسيط"
+  },
+  "synonyms": [
+   "modest",
+   "unassuming",
+   "meek"
+  ],
+  "antonyms": [
+   "proud",
+   "arrogant",
+   "boastful"
+  ],
+  "collocations": [
+   "humble opinion",
+   "humble background",
+   "humble abode",
+   "remain humble"
+  ],
+  "mnemonic_ar": "كلمة 'Humble' قريبة من 'Human' 'إنسان'.. الإنسان لازم يكون 'Humble' ومتواضع."
+ }
+}

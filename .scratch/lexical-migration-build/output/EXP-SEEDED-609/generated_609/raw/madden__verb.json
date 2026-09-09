@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "madden",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "madden",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To make someone extremely annoyed or angry; to drive insane.",
+  "explanation_ar": "يعصب حد جداً ويطير عقله، أو يجننه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To make someone extremely annoyed or angry; to drive insane.",
+    "definition_ar": "أن يُغضب شخصاً بشدة أو يثير حنقه وجنونه."
+   }
+  ],
+  "examples": [
+   "To be ignored completely is enough to madden anyone.",
+   "Such persistent delays would madden even the most patient traveler.",
+   "It was an evasive tactic designed to madden his opponents."
+  ],
+  "translations": [
+   "يُغضِب",
+   "يُحنِق",
+   "يُثير الغضب",
+   "يُجِنّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "infuriate",
+    "enrage",
+    "incense",
+    "irritate"
+   ],
+   "antonyms": [
+    "calm",
+    "soothe",
+    "pacify"
+   ]
+  },
+  "mnemonic": "جاية من 'Mad' 'مجنون'.. الـ 'Madden' هو الفعل، يعني يجنن حد.",
+  "phonetic_us": "ˈmædn",
+  "phonetic_uk": null,
+  "syllables": "mad•den",
+  "semantic_tags": [
+   "#Anger",
+   "#Insanity",
+   "#Emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To make someone extremely annoyed or angry; to drive insane.",
+  "explanation_ar": "يعصب حد جداً ويطير عقله، أو يجننه.",
+  "examples": [
+   "To be ignored completely is enough to madden anyone.",
+   "Such persistent delays would madden even the most patient traveler.",
+   "It was an evasive tactic designed to madden his opponents."
+  ],
+  "translations": {
+   "arabic_ar": "يُغضِب يُحنِق يُثير الغضب يُجِنّ"
+  },
+  "synonyms": [
+   "infuriate",
+   "enrage",
+   "incense",
+   "irritate"
+  ],
+  "antonyms": [
+   "calm",
+   "soothe",
+   "pacify"
+  ],
+  "collocations": [],
+  "mnemonic_ar": "جاية من 'Mad' 'مجنون'.. الـ 'Madden' هو الفعل، يعني يجنن حد."
+ }
+}

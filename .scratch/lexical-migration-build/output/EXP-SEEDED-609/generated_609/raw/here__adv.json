@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "here",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "here",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "In, at, or to this place or position.",
+  "explanation_ar": "هنا، في المكان اللي إحنا فيه دلوقتي.",
+  "senses": [
+   {
+    "sense_id": "here_adv_1",
+    "definition_en": "In, at, or to this place or position.",
+    "explanation_ar": "هنا، في هذا المكان أو إليه.",
+    "examples": [
+     "Come here.",
+     "I live near here.",
+     "Here is the money I owe you."
+    ]
+   }
+  ],
+  "examples": [
+   "Come here.",
+   "I live near here.",
+   "Here is the money I owe you."
+  ],
+  "translations": [
+   "هُنا"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "there"
+   ],
+   "collocations": [
+    "come here",
+    "over here",
+    "right here",
+    "here and there"
+   ]
+  },
+  "mnemonic": "نفس نطق 'Hear' يسمع.. أنا قادر أسمعك 'Here' في المكان ده.",
+  "phonetic_us": "hɪr",
+  "phonetic_uk": "hɪə(r)",
+  "syllables": 1,
+  "semantic_tags": [
+   "Location",
+   "Place",
+   "Deictic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In, at, or to this place or position.",
+  "explanation_ar": "هنا، في المكان اللي إحنا فيه دلوقتي.",
+  "examples": [
+   "Come here.",
+   "I live near here.",
+   "Here is the money I owe you."
+  ],
+  "translations": {
+   "arabic_ar": "هُنا"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "there"
+  ],
+  "collocations": [
+   "come here",
+   "over here",
+   "right here",
+   "here and there"
+  ],
+  "mnemonic_ar": "نفس نطق 'Hear' يسمع.. أنا قادر أسمعك 'Here' في المكان ده."
+ }
+}

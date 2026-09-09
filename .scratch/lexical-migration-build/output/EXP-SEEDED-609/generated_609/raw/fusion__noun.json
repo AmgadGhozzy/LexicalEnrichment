@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "fusion",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "fusion",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The process of joining two or more things together to form a single entity, or a nuclear reaction where atomic nuclei combine.",
+  "explanation_ar": "الاندماج أو الانصهار؛ دمج شيئين أو أكثر معًا ليصبحا شيئًا واحدًا، مثل اندماج الثقافات والأنماط الموسيقية، أو الانصهار النووي في الفيزياء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The process or result of joining two or more things together to form a single entity.",
+    "definition_ar": "اندماج أو امتزاج شيئين أو أكثر ليشكلا كيانًا واحدًا متكاملًا.",
+    "examples": [
+     "The fusion of different cultures created a unique society.",
+     "The show was a brilliant fusion of dance, theater, and acrobatics."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A nuclear reaction in which atomic nuclei fuse to form a heavier nucleus with the release of energy.",
+    "definition_ar": "انصهار نووي؛ تفاعل تتحد فيه الأنوية الذرية مطلقةً طاقة هائلة.",
+    "examples": [
+     "Scientists are working on achieving sustainable nuclear fusion."
+    ]
+   }
+  ],
+  "examples": [
+   "The fusion of different cultures created a unique society.",
+   "Scientists are working on achieving sustainable nuclear fusion.",
+   "The show was a brilliant fusion of dance, theater, and acrobatics."
+  ],
+  "translations": [
+   "انْدِمَاج",
+   "انْصِهَار"
+  ],
+  "relations": {
+   "synonyms": [
+    "blend",
+    "combination",
+    "merger",
+    "synthesis",
+    "union"
+   ],
+   "antonyms": [
+    "fission",
+    "separation"
+   ],
+   "collocations": [
+    "cold fusion",
+    "fusion cuisine",
+    "jazz fusion",
+    "nuclear fusion"
+   ]
+  },
+  "mnemonic": "الـ 'Fuse' في الكهرباء بيسيح ويدمج.. والـ 'Fusion' هو الانصهار أو الاندماج، زي الأكل أو الموسيقى اللي فيها اندماج (Fusion).",
+  "phonetic_us": "ˈfjuːʒən",
+  "phonetic_uk": "ˈfjuːʒən",
+  "syllables": "fu•sion",
+  "semantic_tags": [
+   "#Physics",
+   "#Cooking",
+   "#Music",
+   "#Combination"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The process of joining two or more things together to form a single entity, or a nuclear reaction where atomic nuclei combine.",
+  "explanation_ar": "الاندماج أو الانصهار؛ دمج شيئين أو أكثر معًا ليصبحا شيئًا واحدًا، مثل اندماج الثقافات والأنماط الموسيقية، أو الانصهار النووي في الفيزياء.",
+  "examples": [
+   "The fusion of different cultures created a unique society.",
+   "Scientists are working on achieving sustainable nuclear fusion.",
+   "The show was a brilliant fusion of dance, theater, and acrobatics."
+  ],
+  "translations": {
+   "arabic_ar": "انْدِمَاج انْصِهَار"
+  },
+  "synonyms": [
+   "blend",
+   "combination",
+   "merger",
+   "synthesis",
+   "union"
+  ],
+  "antonyms": [
+   "fission",
+   "separation"
+  ],
+  "collocations": [
+   "cold fusion",
+   "fusion cuisine",
+   "jazz fusion",
+   "nuclear fusion"
+  ],
+  "mnemonic_ar": "الـ 'Fuse' في الكهرباء بيسيح ويدمج.. والـ 'Fusion' هو الانصهار أو الاندماج، زي الأكل أو الموسيقى اللي فيها اندماج (Fusion)."
+ }
+}

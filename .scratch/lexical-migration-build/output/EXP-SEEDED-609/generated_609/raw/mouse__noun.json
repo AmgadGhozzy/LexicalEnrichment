@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "mouse",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "mouse",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A small mammal with a pointed snout and a long tail, or a handheld device used to control a cursor on a computer screen.",
+  "explanation_ar": "الحيوان الثديي الصغير ذو الذيل الطويل (الفأر)، أو جهاز التحكم بمؤشر شاشة الكمبيوتر (الماوس).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A small mammal with short fur, a pointed snout, and a long tail.",
+    "definition_ar": "فأر (حيوان قارض صغير)",
+    "pos": "noun",
+    "examples": [
+     "The cat saw a mouse."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A hand-operated electronic device that controls the cursor on a computer screen.",
+    "definition_ar": "فأرة حاسوب (ماوس)",
+    "pos": "noun",
+    "examples": [
+     "Click the left mouse button.",
+     "My wireless mouse needs new batteries."
+    ]
+   }
+  ],
+  "examples": [
+   "The cat saw a mouse.",
+   "Click the left mouse button.",
+   "My wireless mouse needs new batteries."
+  ],
+  "translations": [
+   "فأر",
+   "ماوس (فأرة حاسوب)"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "computer mouse",
+    "mouse pad",
+    "mouse button",
+    "quiet as a mouse"
+   ]
+  },
+  "mnemonic": "بالعربي بنقول عليه 'ماوس' برضه لما نقصد بتاع الكمبيوتر.",
+  "phonetic_us": "maʊs",
+  "phonetic_uk": "maʊs",
+  "syllables": "mouse",
+  "semantic_tags": [
+   "#Animal",
+   "#Computer",
+   "#Tech"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small mammal with a pointed snout and a long tail, or a handheld device used to control a cursor on a computer screen.",
+  "explanation_ar": "الحيوان الثديي الصغير ذو الذيل الطويل (الفأر)، أو جهاز التحكم بمؤشر شاشة الكمبيوتر (الماوس).",
+  "examples": [
+   "The cat saw a mouse.",
+   "Click the left mouse button.",
+   "My wireless mouse needs new batteries."
+  ],
+  "translations": {
+   "arabic_ar": "فأر ماوس (فأرة حاسوب)"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "computer mouse",
+   "mouse pad",
+   "mouse button",
+   "quiet as a mouse"
+  ],
+  "mnemonic_ar": "بالعربي بنقول عليه 'ماوس' برضه لما نقصد بتاع الكمبيوتر."
+ }
+}

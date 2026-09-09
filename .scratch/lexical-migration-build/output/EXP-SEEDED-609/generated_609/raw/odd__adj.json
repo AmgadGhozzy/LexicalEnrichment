@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "odd",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "odd",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Different from what is usual or expected; strange.",
+  "explanation_ar": "حاجة غريبة أو مش عادية، أو رقم فردي (زي 1، 3، 5).",
+  "senses": [
+   {
+    "sense_id": "odd_adj_1",
+    "definition_en": "Different from what is usual or expected; strange.",
+    "definition_ar": "غريب أو غير معتاد",
+    "examples": [
+     "He has an odd name.",
+     "It is odd that he didn't call."
+    ]
+   },
+   {
+    "sense_id": "odd_adj_2",
+    "definition_en": "(Of numbers) not able to be divided exactly by two.",
+    "definition_ar": "فردي (للأعداد التي لا تقبل القسمة على 2)",
+    "examples": [
+     "The numbers 1, 3, and 5 are odd numbers."
+    ]
+   }
+  ],
+  "examples": [
+   "He has an odd name.",
+   "It is odd that he didn't call.",
+   "The numbers 1, 3, and 5 are odd numbers."
+  ],
+  "translations": [
+   "غريب",
+   "فردي",
+   "غير معتاد"
+  ],
+  "relations": {
+   "synonyms": [
+    "strange",
+    "unusual",
+    "weird",
+    "peculiar"
+   ],
+   "antonyms": [
+    "normal",
+    "ordinary",
+    "even"
+   ],
+   "collocations": [
+    "odd number",
+    "odd job",
+    "odd feeling",
+    "very odd"
+   ]
+  },
+  "mnemonic": "مش 'Add' يضيف.. دي 'Odd' يعني حاجة غريبة ومش راكبة على بعضها.",
+  "phonetic_us": "/ɑːd/",
+  "phonetic_uk": "/ɒd/",
+  "syllables": "odd",
+  "semantic_tags": [
+   "#Strange",
+   "#Numbers",
+   "#Unusual",
+   "#Difference"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Different from what is usual or expected; strange.",
+  "explanation_ar": "حاجة غريبة أو مش عادية، أو رقم فردي (زي 1، 3، 5).",
+  "examples": [
+   "He has an odd name.",
+   "It is odd that he didn't call.",
+   "The numbers 1, 3, and 5 are odd numbers."
+  ],
+  "translations": {
+   "arabic_ar": "غريب فردي غير معتاد"
+  },
+  "synonyms": [
+   "strange",
+   "unusual",
+   "weird",
+   "peculiar"
+  ],
+  "antonyms": [
+   "normal",
+   "ordinary",
+   "even"
+  ],
+  "collocations": [
+   "odd number",
+   "odd job",
+   "odd feeling",
+   "very odd"
+  ],
+  "mnemonic_ar": "مش 'Add' يضيف.. دي 'Odd' يعني حاجة غريبة ومش راكبة على بعضها."
+ }
+}

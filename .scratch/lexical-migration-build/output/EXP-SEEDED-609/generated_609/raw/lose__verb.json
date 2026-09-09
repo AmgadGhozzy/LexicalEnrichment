@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "lose",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "lose",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To be unable to find something, or to fail to win a game, contest, or battle.",
+  "explanation_ar": "يعني أن تضيع منك حاجة ولا تجدها، أو تخسر في لعبة أو مسابقة.",
+  "senses": [
+   {
+    "definition_en": "To be unable to find something that you had.",
+    "definition_ar": "يفقد أو يضيع شيئاً كان يملكه",
+    "pos": "verb"
+   },
+   {
+    "definition_en": "To fail to win a game, match, or competition.",
+    "definition_ar": "يخسر في منافسة أو مباراة",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "Did you lose your keys?",
+   "I don't want to lose the game.",
+   "She is trying to lose weight."
+  ],
+  "translations": [
+   "يفقد",
+   "يخسر",
+   "يضيع"
+  ],
+  "relations": {
+   "synonyms": [
+    "misplace"
+   ],
+   "antonyms": [
+    "find",
+    "win",
+    "keep"
+   ],
+   "collocations": [
+    "lose weight",
+    "lose control",
+    "lose money",
+    "win or lose"
+   ]
+  },
+  "mnemonic": "كلمة 'Lose' (يخسر/يضيع) شبه 'Loose' (واسع أو مفكوك).. لو الزرار 'Loose' ممكن يقع و 'Lose' تضيعه.",
+  "phonetic_us": "/luːz/",
+  "phonetic_uk": "/luːz/",
+  "syllables": "lose",
+  "semantic_tags": [
+   "competition",
+   "failure",
+   "general"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be unable to find something, or to fail to win a game, contest, or battle.",
+  "explanation_ar": "يعني أن تضيع منك حاجة ولا تجدها، أو تخسر في لعبة أو مسابقة.",
+  "examples": [
+   "Did you lose your keys?",
+   "I don't want to lose the game.",
+   "She is trying to lose weight."
+  ],
+  "translations": {
+   "arabic_ar": "يفقد يخسر يضيع"
+  },
+  "synonyms": [
+   "misplace"
+  ],
+  "antonyms": [
+   "find",
+   "win",
+   "keep"
+  ],
+  "collocations": [
+   "lose weight",
+   "lose control",
+   "lose money",
+   "win or lose"
+  ],
+  "mnemonic_ar": "كلمة 'Lose' (يخسر/يضيع) شبه 'Loose' (واسع أو مفكوك).. لو الزرار 'Loose' ممكن يقع و 'Lose' تضيعه."
+ }
+}

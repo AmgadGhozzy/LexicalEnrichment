@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "intimacy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intimacy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Close familiarity or friendship; closeness.",
+  "explanation_ar": "القرب الشديد والعلاقة الخاصة جداً بين شخصين، زي الصحاب القريبين أو المتجوزين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Close familiarity or friendship; closeness.",
+    "definition_ar": "القرب الشديد والألفة أو العلاقة الخاصة جداً بين شخصين.",
+    "examples": [
+     "True intimacy requires trust and honesty.",
+     "The cozy room created an atmosphere of intimacy.",
+     "Their relationship lacked emotional intimacy despite their years together."
+    ]
+   }
+  ],
+  "examples": [
+   "True intimacy requires trust and honesty.",
+   "The cozy room created an atmosphere of intimacy.",
+   "Their relationship lacked emotional intimacy despite their years together."
+  ],
+  "translations": [
+   "حميمية",
+   "مودة",
+   "ألفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "closeness",
+    "familiarity",
+    "affection",
+    "nearness"
+   ],
+   "antonyms": [
+    "distance",
+    "aloofness",
+    "coldness"
+   ],
+   "collocations": [
+    "emotional intimacy",
+    "physical intimacy",
+    "fear of intimacy"
+   ]
+  },
+  "mnemonic": "جاية من 'Intimate'.. يعني 'إنت ميت' في دباديب اللي بتحبه.. دي قمة الـ 'Intimacy'.",
+  "phonetic_us": "ˈɪntɪməsi",
+  "phonetic_uk": "ˈɪntɪməsi",
+  "syllables": "in•ti•ma•cy",
+  "semantic_tags": [
+   "Relationship",
+   "Love",
+   "Emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Close familiarity or friendship; closeness.",
+  "explanation_ar": "القرب الشديد والعلاقة الخاصة جداً بين شخصين، زي الصحاب القريبين أو المتجوزين.",
+  "examples": [
+   "True intimacy requires trust and honesty.",
+   "The cozy room created an atmosphere of intimacy.",
+   "Their relationship lacked emotional intimacy despite their years together."
+  ],
+  "translations": {
+   "arabic_ar": "حميمية مودة ألفة"
+  },
+  "synonyms": [
+   "closeness",
+   "familiarity",
+   "affection",
+   "nearness"
+  ],
+  "antonyms": [
+   "distance",
+   "aloofness",
+   "coldness"
+  ],
+  "collocations": [
+   "emotional intimacy",
+   "physical intimacy",
+   "fear of intimacy"
+  ],
+  "mnemonic_ar": "جاية من 'Intimate'.. يعني 'إنت ميت' في دباديب اللي بتحبه.. دي قمة الـ 'Intimacy'."
+ }
+}

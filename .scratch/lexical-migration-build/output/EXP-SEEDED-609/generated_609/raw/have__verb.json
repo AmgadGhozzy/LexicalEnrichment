@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "have",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "have",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To possess, own, hold, or experience something.",
+  "explanation_ar": "معناها يملك أو عنده حاجة. زي لما تقول 'أنا عندي عربية' أو 'عندي فكرة'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To possess, own, or hold something.",
+    "definition_ar": "يمتلك أو يكون لديه شيء ما.",
+    "examples": [
+     "I have a cat.",
+     "Do you have any brothers or sisters?"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To experience, undergo, or take part in an activity.",
+    "definition_ar": "يمر بتجربة معينة أو يشارك في نشاط.",
+    "examples": [
+     "We have a meeting at 10 AM."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a cat.",
+   "Do you have any brothers or sisters?",
+   "We have a meeting at 10 AM."
+  ],
+  "translations": [
+   "يملك",
+   "عنده",
+   "لديه"
+  ],
+  "relations": {
+   "synonyms": [
+    "possess",
+    "own",
+    "hold",
+    "keep"
+   ],
+   "antonyms": [
+    "lack"
+   ],
+   "collocations": [
+    "have a look",
+    "have to",
+    "have got",
+    "have fun"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة 'هات' 'Hat' بالمصري.. لما تقول لحد 'هات' وتاخد الحاجة، بيبقى عندك 'You have' الحاجة دي.",
+  "phonetic_us": "hæv",
+  "phonetic_uk": "hæv",
+  "syllables": "have",
+  "semantic_tags": [
+   "#Possession",
+   "#Auxiliary",
+   "#Ownership",
+   "#Basic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To possess, own, hold, or experience something.",
+  "explanation_ar": "معناها يملك أو عنده حاجة. زي لما تقول 'أنا عندي عربية' أو 'عندي فكرة'.",
+  "examples": [
+   "I have a cat.",
+   "Do you have any brothers or sisters?",
+   "We have a meeting at 10 AM."
+  ],
+  "translations": {
+   "arabic_ar": "يملك عنده لديه"
+  },
+  "synonyms": [
+   "possess",
+   "own",
+   "hold",
+   "keep"
+  ],
+  "antonyms": [
+   "lack"
+  ],
+  "collocations": [
+   "have a look",
+   "have to",
+   "have got",
+   "have fun"
+  ],
+  "mnemonic_ar": "قريبة من كلمة 'هات' 'Hat' بالمصري.. لما تقول لحد 'هات' وتاخد الحاجة، بيبقى عندك 'You have' الحاجة دي."
+ }
+}

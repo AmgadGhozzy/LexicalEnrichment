@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "know",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "know",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To have information in your mind; to be aware of something; to be familiar with a person.",
+  "explanation_ar": "يعني يكون عندك معلومة، أو تكون عارف شخص معين أو مكان.",
+  "senses": [
+   {
+    "definition_en": "To have information or facts in your mind.",
+    "definition_ar": "أن تكون لديك معلومات أو حقائق في ذهنك.",
+    "examples": [
+     "I know your name.",
+     "I do not know the answer."
+    ]
+   },
+   {
+    "definition_en": "To be familiar with someone, a place, or how to do something.",
+    "definition_ar": "أن تكون على معرفة بشخص أو مكان أو كيفية فعل شيء.",
+    "examples": [
+     "Do you know how to swim?"
+    ]
+   }
+  ],
+  "examples": [
+   "I know your name.",
+   "Do you know how to swim?",
+   "I do not know the answer."
+  ],
+  "translations": [
+   "يعرف",
+   "يعلم"
+  ],
+  "relations": {
+   "synonyms": [
+    "understand",
+    "recognize",
+    "realize"
+   ],
+   "antonyms": [
+    "guess",
+    "wonder"
+   ],
+   "collocations": [
+    "know how",
+    "let me know",
+    "you know",
+    "get to know"
+   ]
+  },
+  "mnemonic": "كلمة 'Know' نطقها زي 'No'.. بس المعنى إنك 'عارف' مش 'لأ'.",
+  "phonetic_us": "/noʊ/",
+  "phonetic_uk": "/nəʊ/",
+  "syllables": "know",
+  "semantic_tags": [
+   "#Knowledge",
+   "#Memory",
+   "#Relationship"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To have information in your mind; to be aware of something; to be familiar with a person.",
+  "explanation_ar": "يعني يكون عندك معلومة، أو تكون عارف شخص معين أو مكان.",
+  "examples": [
+   "I know your name.",
+   "Do you know how to swim?",
+   "I do not know the answer."
+  ],
+  "translations": {
+   "arabic_ar": "يعرف يعلم"
+  },
+  "synonyms": [
+   "understand",
+   "recognize",
+   "realize"
+  ],
+  "antonyms": [
+   "guess",
+   "wonder"
+  ],
+  "collocations": [
+   "know how",
+   "let me know",
+   "you know",
+   "get to know"
+  ],
+  "mnemonic_ar": "كلمة 'Know' نطقها زي 'No'.. بس المعنى إنك 'عارف' مش 'لأ'."
+ }
+}

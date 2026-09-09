@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "flush",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "flush",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Completely level or even with another surface; or having plenty of money.",
+  "explanation_ar": "يا إما سطح متساوي وممسوح، يا إما واحد 'مريّش' ومعاه فلوس كتير.",
+  "senses": [
+   {
+    "definition_en": "Completely level or even with an adjacent surface.",
+    "definition_ar": "مستوٍ تماماً مع السطح المجاور بدون أي بروز.",
+    "pos": "adj",
+    "examples": [
+     "Make sure the shelf is flush with the wall.",
+     "The carpenter ensured the nails were flush with the wood."
+    ]
+   },
+   {
+    "definition_en": "Having a large amount of money; affluent or well-off.",
+    "definition_ar": "ممتلئ بالمال، أو 'مريّش' وميسور الحال.",
+    "pos": "adj",
+    "examples": [
+     "He was feeling flush after payday."
+    ]
+   }
+  ],
+  "examples": [
+   "Make sure the shelf is flush with the wall.",
+   "He was feeling flush after payday.",
+   "The carpenter ensured the nails were flush with the wood."
+  ],
+  "translations": [
+   "مستوٍ",
+   "متساوٍ",
+   "مريّش",
+   "ثري"
+  ],
+  "relations": {
+   "synonyms": [
+    "level",
+    "even",
+    "wealthy",
+    "well-off"
+   ],
+   "antonyms": [
+    "uneven",
+    "protruding",
+    "broke"
+   ],
+   "collocations": [
+    "flush with",
+    "feeling flush",
+    "flush against"
+   ]
+  },
+  "mnemonic": "زي زرار الـ 'Flush' في الحمام بيبقى مساوي للسطح، أو لما المية تجري.. الشخص الـ 'Flush' الفلوس بتجري في إيده.",
+  "phonetic_us": "flʌʃ",
+  "phonetic_uk": "flʌʃ",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Level",
+   "#Money",
+   "#Construction"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Completely level or even with another surface; or having plenty of money.",
+  "explanation_ar": "يا إما سطح متساوي وممسوح، يا إما واحد 'مريّش' ومعاه فلوس كتير.",
+  "examples": [
+   "Make sure the shelf is flush with the wall.",
+   "He was feeling flush after payday.",
+   "The carpenter ensured the nails were flush with the wood."
+  ],
+  "translations": {
+   "arabic_ar": "مستوٍ متساوٍ مريّش ثري"
+  },
+  "synonyms": [
+   "level",
+   "even",
+   "wealthy",
+   "well-off"
+  ],
+  "antonyms": [
+   "uneven",
+   "protruding",
+   "broke"
+  ],
+  "collocations": [
+   "flush with",
+   "feeling flush",
+   "flush against"
+  ],
+  "mnemonic_ar": "زي زرار الـ 'Flush' في الحمام بيبقى مساوي للسطح، أو لما المية تجري.. الشخص الـ 'Flush' الفلوس بتجري في إيده."
+ }
+}

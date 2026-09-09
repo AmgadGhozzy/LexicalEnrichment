@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "hide",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "hide",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To put something where it cannot be seen, or to go to a place where you cannot be seen.",
+  "explanation_ar": "إنك تخبي حاجة أو تستخبى عشان محدش يشوفك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To go to a place where you cannot be seen.",
+    "definition_ar": "يختبئ في مكان لا يراه فيه أحد.",
+    "examples": [
+     "I hide under the bed."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To put or keep something in a place where it cannot be seen.",
+    "definition_ar": "يُخفي شيئاً حتى لا يراه أحد.",
+    "examples": [
+     "He tried to hide his feelings from her.",
+     "The politician tried to hide the truth from the public."
+    ]
+   }
+  ],
+  "examples": [
+   "I hide under the bed.",
+   "He tried to hide his feelings from her.",
+   "The politician tried to hide the truth from the public."
+  ],
+  "translations": [
+   "يخفي",
+   "يختبئ"
+  ],
+  "relations": {
+   "synonyms": [
+    "conceal",
+    "cover",
+    "mask",
+    "stash"
+   ],
+   "antonyms": [
+    "reveal",
+    "show",
+    "expose",
+    "uncover"
+   ],
+   "collocations": [
+    "hide and seek",
+    "hide the truth",
+    "nowhere to hide",
+    "hide away"
+   ]
+  },
+  "mnemonic": "العب 'Hide and Seek' 'استغماية' واستخبى في الـ 'Hide' 'المخبأ'.",
+  "phonetic_us": "haɪd",
+  "phonetic_uk": "haɪd",
+  "syllables": [
+   "hide"
+  ],
+  "semantic_tags": [
+   "#Concealment",
+   "#Action",
+   "#Mystery"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To put something where it cannot be seen, or to go to a place where you cannot be seen.",
+  "explanation_ar": "إنك تخبي حاجة أو تستخبى عشان محدش يشوفك.",
+  "examples": [
+   "I hide under the bed.",
+   "He tried to hide his feelings from her.",
+   "The politician tried to hide the truth from the public."
+  ],
+  "translations": {
+   "arabic_ar": "يخفي يختبئ"
+  },
+  "synonyms": [
+   "conceal",
+   "cover",
+   "mask",
+   "stash"
+  ],
+  "antonyms": [
+   "reveal",
+   "show",
+   "expose",
+   "uncover"
+  ],
+  "collocations": [
+   "hide and seek",
+   "hide the truth",
+   "nowhere to hide",
+   "hide away"
+  ],
+  "mnemonic_ar": "العب 'Hide and Seek' 'استغماية' واستخبى في الـ 'Hide' 'المخبأ'."
+ }
+}

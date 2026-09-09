@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "pin",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "pin",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A thin piece of metal with a sharp point at one end and a round head.",
+  "explanation_ar": "الدبوس اللي بنستخدمه عشان نثبت الورق أو القماش.",
+  "senses": [
+   {
+    "definition_en": "A thin piece of metal with a sharp point at one end and a round head.",
+    "explanation_ar": "الدبوس اللي بنستخدمه عشان نثبت الورق أو القماش.",
+    "examples": [
+     "Be careful, the pin is sharp.",
+     "She used a pin to fasten the papers together.",
+     "It was so quiet you could hear a pin drop."
+    ]
+   }
+  ],
+  "examples": [
+   "Be careful, the pin is sharp.",
+   "She used a pin to fasten the papers together.",
+   "It was so quiet you could hear a pin drop."
+  ],
+  "translations": [
+   "دبوس"
+  ],
+  "relations": {
+   "synonyms": [
+    "tack",
+    "peg",
+    "fastener"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "safety pin",
+    "rolling pin",
+    "hear a pin drop"
+   ]
+  },
+  "mnemonic": "زي 'Pen' 'قلم' في النطق شوية بس أقصر.. الدبوس 'Pin' رفيع وبيشك.",
+  "phonetic_us": "/pɪn/",
+  "phonetic_uk": "/pɪn/",
+  "syllables": [
+   "pin"
+  ],
+  "semantic_tags": [
+   "Objects & Tools",
+   "Sewing",
+   "Fasteners"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A thin piece of metal with a sharp point at one end and a round head.",
+  "explanation_ar": "الدبوس اللي بنستخدمه عشان نثبت الورق أو القماش.",
+  "examples": [
+   "Be careful, the pin is sharp.",
+   "She used a pin to fasten the papers together.",
+   "It was so quiet you could hear a pin drop."
+  ],
+  "translations": {
+   "arabic_ar": "دبوس"
+  },
+  "synonyms": [
+   "tack",
+   "peg",
+   "fastener"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "safety pin",
+   "rolling pin",
+   "hear a pin drop"
+  ],
+  "mnemonic_ar": "زي 'Pen' 'قلم' في النطق شوية بس أقصر.. الدبوس 'Pin' رفيع وبيشك."
+ }
+}

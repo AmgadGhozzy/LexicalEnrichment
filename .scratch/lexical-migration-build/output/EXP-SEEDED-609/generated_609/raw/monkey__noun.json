@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "monkey",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "monkey",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A small to medium-sized primate that typically has a long tail.",
+  "explanation_ar": "قرد.. حيوان ذكي بيعيش في الشجر وبيحب الموز.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A small to medium-sized primate that typically has a long tail.",
+    "definition_ar": "قرد.. حيوان ذكي بيعيش في الشجر وبيحب الموز.",
+    "examples": [
+     "The monkey eats a banana.",
+     "I saw a monkey at the zoo.",
+     "A monkey can climb trees very fast."
+    ]
+   }
+  ],
+  "examples": [
+   "The monkey eats a banana.",
+   "I saw a monkey at the zoo.",
+   "A monkey can climb trees very fast."
+  ],
+  "translations": [
+   "قرد"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "cheeky monkey",
+    "monkey business",
+    "grease monkey"
+   ],
+   "related_words": [
+    "ape",
+    "banana",
+    "jungle",
+    "primate"
+   ],
+   "word_family": {
+    "verb": "monkey"
+   }
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈmʌŋki",
+  "phonetic_uk": "ˈmʌŋki",
+  "syllables": "mon•key",
+  "semantic_tags": [
+   "#Animal",
+   "#Jungle",
+   "#Zoo"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small to medium-sized primate that typically has a long tail.",
+  "explanation_ar": "قرد.. حيوان ذكي بيعيش في الشجر وبيحب الموز.",
+  "examples": [
+   "The monkey eats a banana.",
+   "I saw a monkey at the zoo.",
+   "A monkey can climb trees very fast."
+  ],
+  "translations": {
+   "arabic_ar": "قرد"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "cheeky monkey",
+   "monkey business",
+   "grease monkey"
+  ],
+  "mnemonic_ar": null
+ }
+}

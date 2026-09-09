@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "opponent",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "opponent",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Someone who competes against or fights another in a contest, game, or argument.",
+  "explanation_ar": "الخصم أو المنافس.. الشخص اللي بيلعب ضدك في ماتش أو بيعاديك في رأي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Someone who competes against another person in a game, fight, or sport.",
+    "definition_ar": "شخص ينافس آخر في لعبة أو مسابقة أو رياضة.",
+    "examples": [
+     "She beat her opponent easily.",
+     "Respect your opponent in sports."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A person who disagrees with and argues against a proposal, policy, or idea.",
+    "definition_ar": "شخص يعارض فكرة أو سياسة أو مقترحاً معيناً.",
+    "examples": [
+     "He is a formidable opponent in the courtroom."
+    ]
+   }
+  ],
+  "examples": [
+   "She beat her opponent easily.",
+   "Respect your opponent in sports.",
+   "He is a formidable opponent in the courtroom."
+  ],
+  "translations": [
+   "خصم",
+   "منافس",
+   "معارض"
+  ],
+  "relations": {
+   "synonyms": [
+    "rival",
+    "adversary",
+    "competitor"
+   ],
+   "antonyms": [
+    "ally",
+    "partner",
+    "teammate",
+    "supporter"
+   ],
+   "collocations": [
+    "political opponent",
+    "worthy opponent",
+    "beat an opponent"
+   ]
+  },
+  "mnemonic": "كلمة 'Opponent' من 'Oppose' يعارض.. يعني الشخص اللي واقف 'Opposite' 'عكسك' في اللعبة.",
+  "phonetic_us": "əˈpoʊ.nənt",
+  "phonetic_uk": "əˈpəʊ.nənt",
+  "syllables": "op•po•nent",
+  "semantic_tags": [
+   "#Competition",
+   "#Sports",
+   "#Conflict"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Someone who competes against or fights another in a contest, game, or argument.",
+  "explanation_ar": "الخصم أو المنافس.. الشخص اللي بيلعب ضدك في ماتش أو بيعاديك في رأي.",
+  "examples": [
+   "She beat her opponent easily.",
+   "Respect your opponent in sports.",
+   "He is a formidable opponent in the courtroom."
+  ],
+  "translations": {
+   "arabic_ar": "خصم منافس معارض"
+  },
+  "synonyms": [
+   "rival",
+   "adversary",
+   "competitor"
+  ],
+  "antonyms": [
+   "ally",
+   "partner",
+   "teammate",
+   "supporter"
+  ],
+  "collocations": [
+   "political opponent",
+   "worthy opponent",
+   "beat an opponent"
+  ],
+  "mnemonic_ar": "كلمة 'Opponent' من 'Oppose' يعارض.. يعني الشخص اللي واقف 'Opposite' 'عكسك' في اللعبة."
+ }
+}

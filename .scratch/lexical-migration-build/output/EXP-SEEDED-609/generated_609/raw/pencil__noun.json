@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "pencil",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "pencil",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A thin wooden stick with a black or colored center used for writing or drawing.",
+  "explanation_ar": "القلم الرصاص اللي بنكتب ونرسم بيه وممكن نمسحه بالأستيكة.",
+  "senses": [
+   {
+    "definition_en": "A thin wooden stick with a black or colored center used for writing or drawing.",
+    "explanation_ar": "القلم الرصاص اللي بنكتب ونرسم بيه وممكن نمسحه بالأستيكة.",
+    "examples": [
+     "I have a red pencil.",
+     "Can I borrow your pencil?",
+     "Sharpen your pencil before the test."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a red pencil.",
+   "Can I borrow your pencil?",
+   "Sharpen your pencil before the test."
+  ],
+  "translations": [
+   "قلم رصاص"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "sharp pencil",
+    "pencil case",
+    "pencil sharpener",
+    "colored pencil"
+   ]
+  },
+  "mnemonic": "شبه 'Pen' 'قلم' بس بنزود 'Cil'.. قلم رصاص يعني 'Pencil'.",
+  "phonetic_us": "ˈpɛnsəl",
+  "phonetic_uk": "ˈpensl",
+  "syllables": "pen•cil",
+  "semantic_tags": [
+   "School",
+   "Writing",
+   "Art",
+   "Stationery"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thin wooden stick with a black or colored center used for writing or drawing.",
+  "explanation_ar": "القلم الرصاص اللي بنكتب ونرسم بيه وممكن نمسحه بالأستيكة.",
+  "examples": [
+   "I have a red pencil.",
+   "Can I borrow your pencil?",
+   "Sharpen your pencil before the test."
+  ],
+  "translations": {
+   "arabic_ar": "قلم رصاص"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "sharp pencil",
+   "pencil case",
+   "pencil sharpener",
+   "colored pencil"
+  ],
+  "mnemonic_ar": "شبه 'Pen' 'قلم' بس بنزود 'Cil'.. قلم رصاص يعني 'Pencil'."
+ }
+}

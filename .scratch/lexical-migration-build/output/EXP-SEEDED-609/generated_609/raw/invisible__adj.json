@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "invisible",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "invisible",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Impossible to see.",
+  "explanation_ar": "حاجة مستحيل تشوفها بعينك، زي الهوا أو الأشباح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Impossible to see; not visible to the eye.",
+    "definition_ar": "غير مرئي أو يستحيل رؤيته بالعين.",
+    "examples": [
+     "Germs are invisible to the eye.",
+     "The plane uses technology to be invisible to radar."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Treated as if not present; ignored or unnoticed.",
+    "definition_ar": "مُتجاهَل أو غير ملحوظ كأنه غير موجود.",
+    "examples": [
+     "He felt invisible in the crowd."
+    ]
+   }
+  ],
+  "examples": [
+   "Germs are invisible to the eye.",
+   "He felt invisible in the crowd.",
+   "The plane uses technology to be invisible to radar."
+  ],
+  "translations": [
+   "غير مرئي",
+   "خفي"
+  ],
+  "relations": {
+   "synonyms": [
+    "unseen",
+    "imperceptible",
+    "hidden"
+   ],
+   "antonyms": [
+    "visible",
+    "seen",
+    "obvious"
+   ],
+   "collocations": [
+    "invisible ink",
+    "invisible hand",
+    "invisible to the naked eye"
+   ]
+  },
+  "mnemonic": "'Visible' يعني متشاف.. 'In' بتنفي.. يبقى 'Invisible' مش متشاف.",
+  "phonetic_us": "ɪnˈvɪzəb(ə)l",
+  "phonetic_uk": "ɪnˈvɪzəbl",
+  "syllables": "in•vis•i•ble",
+  "semantic_tags": [
+   "sight",
+   "perception",
+   "hidden"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Impossible to see.",
+  "explanation_ar": "حاجة مستحيل تشوفها بعينك، زي الهوا أو الأشباح.",
+  "examples": [
+   "Germs are invisible to the eye.",
+   "He felt invisible in the crowd.",
+   "The plane uses technology to be invisible to radar."
+  ],
+  "translations": {
+   "arabic_ar": "غير مرئي خفي"
+  },
+  "synonyms": [
+   "unseen",
+   "imperceptible",
+   "hidden"
+  ],
+  "antonyms": [
+   "visible",
+   "seen",
+   "obvious"
+  ],
+  "collocations": [
+   "invisible ink",
+   "invisible hand",
+   "invisible to the naked eye"
+  ],
+  "mnemonic_ar": "'Visible' يعني متشاف.. 'In' بتنفي.. يبقى 'Invisible' مش متشاف."
+ }
+}

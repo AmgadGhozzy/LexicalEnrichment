@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "hunter",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "hunter",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person or animal that hunts wild animals for food or sport.",
+  "explanation_ar": "الصياد؛ سواء كان شخصاً يصطاد الحيوانات أو حيواناً مفترساً يصطاد فريسته.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person or animal that hunts wild animals for food or sport.",
+    "definition_ar": "شخص أو حيوان يصطاد طرائده للحصول على الطعام أو كرياضة.",
+    "examples": [
+     "The hunter tracked the deer through the forest.",
+     "A skilled hunter knows how to move quietly through the woods.",
+     "The leopard is a solitary hunter that stalks its prey at night."
+    ]
+   }
+  ],
+  "examples": [
+   "The hunter tracked the deer through the forest.",
+   "A skilled hunter knows how to move quietly through the woods.",
+   "The leopard is a solitary hunter that stalks its prey at night."
+  ],
+  "translations": [
+   "صَيَّاد",
+   "حَيَوَان مُفْتَرِس"
+  ],
+  "relations": {
+   "synonyms": [
+    "huntsman",
+    "predator"
+   ],
+   "antonyms": [
+    "prey",
+    "quarry"
+   ],
+   "collocations": [
+    "bargain hunter",
+    "head hunter",
+    "hunter-gatherer",
+    "deer hunter"
+   ]
+  },
+  "mnemonic": "من الفعل 'hunt' (يصطاد) بإضافة اللاحقة '-er' لتكوين اسم الفاعل، فيكون 'hunter' هو الصياد.",
+  "phonetic_us": "ˈhʌntər",
+  "phonetic_uk": "ˈhʌntə",
+  "syllables": [
+   "hunt",
+   "er"
+  ],
+  "semantic_tags": [
+   "Nature",
+   "Animals",
+   "Hunting"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person or animal that hunts wild animals for food or sport.",
+  "explanation_ar": "الصياد؛ سواء كان شخصاً يصطاد الحيوانات أو حيواناً مفترساً يصطاد فريسته.",
+  "examples": [
+   "The hunter tracked the deer through the forest.",
+   "A skilled hunter knows how to move quietly through the woods.",
+   "The leopard is a solitary hunter that stalks its prey at night."
+  ],
+  "translations": {
+   "arabic_ar": "صَيَّاد حَيَوَان مُفْتَرِس"
+  },
+  "synonyms": [
+   "huntsman",
+   "predator"
+  ],
+  "antonyms": [
+   "prey",
+   "quarry"
+  ],
+  "collocations": [
+   "bargain hunter",
+   "head hunter",
+   "hunter-gatherer",
+   "deer hunter"
+  ],
+  "mnemonic_ar": "من الفعل 'hunt' (يصطاد) بإضافة اللاحقة '-er' لتكوين اسم الفاعل، فيكون 'hunter' هو الصياد."
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "omit",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "omit",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To leave something out or not include it.",
+  "explanation_ar": "يحذف حاجة أو يشيلها، سواء بقصد أو من غير قصد.",
+  "senses": [
+   {
+    "sense_id": "omit-verb-1",
+    "definition_en": "To leave something out or not include it, either intentionally or by accident.",
+    "explanation_ar": "يحذف حاجة أو يشيلها، سواء بقصد أو من غير قصد.",
+    "examples": [
+     "You can omit the salt if you want.",
+     "Please omit my name from the list.",
+     "Be careful not to omit any crucial details from your report."
+    ]
+   }
+  ],
+  "examples": [
+   "You can omit the salt if you want.",
+   "Please omit my name from the list.",
+   "Be careful not to omit any crucial details from your report."
+  ],
+  "translations": [
+   "يحذف",
+   "يسقط",
+   "يغفل"
+  ],
+  "relations": {
+   "synonyms": [
+    "exclude",
+    "leave out",
+    "skip",
+    "drop"
+   ],
+   "antonyms": [
+    "include",
+    "add",
+    "insert"
+   ],
+   "collocations": [
+    "omit details",
+    "accidentally omit",
+    "omit to mention",
+    "deliberately omit"
+   ]
+  },
+  "mnemonic": "كلمة 'Omit' شبه 'Commit'.. 'Don't commit if you're going to omit details' 'متلتزمش لو ناوي تحذف تفاصيل'.",
+  "phonetic_us": "oʊˈmɪt",
+  "phonetic_uk": "əˈmɪt",
+  "syllables": [
+   "o",
+   "mit"
+  ],
+  "semantic_tags": [
+   "#Edit",
+   "#Remove",
+   "#Skip",
+   "#Forget"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To leave something out or not include it.",
+  "explanation_ar": "يحذف حاجة أو يشيلها، سواء بقصد أو من غير قصد.",
+  "examples": [
+   "You can omit the salt if you want.",
+   "Please omit my name from the list.",
+   "Be careful not to omit any crucial details from your report."
+  ],
+  "translations": {
+   "arabic_ar": "يحذف يسقط يغفل"
+  },
+  "synonyms": [
+   "exclude",
+   "leave out",
+   "skip",
+   "drop"
+  ],
+  "antonyms": [
+   "include",
+   "add",
+   "insert"
+  ],
+  "collocations": [
+   "omit details",
+   "accidentally omit",
+   "omit to mention",
+   "deliberately omit"
+  ],
+  "mnemonic_ar": "كلمة 'Omit' شبه 'Commit'.. 'Don't commit if you're going to omit details' 'متلتزمش لو ناوي تحذف تفاصيل'."
+ }
+}

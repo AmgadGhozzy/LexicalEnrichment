@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "mobility",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "mobility",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The ability to move freely or be easily moved.",
+  "explanation_ar": "القدرة على الحركة أو التنقل بسهولة.",
+  "senses": [
+   {
+    "definition_en": "The ability to move physically or be moved freely and easily.",
+    "explanation_ar": "القدرة على الحركة الجسدية أو التنقل بحرية وسهولة.",
+    "examples": [
+     "He exercises to improve his mobility."
+    ]
+   },
+   {
+    "definition_en": "The ability to move between different social, economic, or occupational levels.",
+    "explanation_ar": "القدرة على الانتقال بين المستويات الاجتماعية أو الاقتصادية أو المهنية (الحراك).",
+    "examples": [
+     "Social mobility allows people to improve their status.",
+     "The new job offers greater career mobility."
+    ]
+   }
+  ],
+  "examples": [
+   "He exercises to improve his mobility.",
+   "Social mobility allows people to improve their status.",
+   "The new job offers greater career mobility."
+  ],
+  "translations": [
+   "القدرة على الحركة",
+   "التنقل",
+   "حَراك"
+  ],
+  "relations": {
+   "synonyms": [
+    "flexibility",
+    "movement",
+    "motility"
+   ],
+   "antonyms": [
+    "immobility",
+    "stiffness"
+   ],
+   "collocations": [
+    "social mobility",
+    "upward mobility",
+    "mobility issues",
+    "limited mobility"
+   ],
+   "word_family": {
+    "adj": "mobile",
+    "noun": "mobility",
+    "verb": "mobilize"
+   }
+  },
+  "mnemonic": "جاية من 'Mobile' 'موبايل' لأنه جهاز محمول وبيتحرك معاك.. الـ 'Mobility' هي القدرة على الحركة.",
+  "phonetic_us": "moʊˈbɪləti",
+  "phonetic_uk": "məʊˈbɪləti",
+  "syllables": "mo•bil•i•ty",
+  "semantic_tags": [
+   "#Movement",
+   "#Freedom",
+   "#Society",
+   "#Health"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The ability to move freely or be easily moved.",
+  "explanation_ar": "القدرة على الحركة أو التنقل بسهولة.",
+  "examples": [
+   "He exercises to improve his mobility.",
+   "Social mobility allows people to improve their status.",
+   "The new job offers greater career mobility."
+  ],
+  "translations": {
+   "arabic_ar": "القدرة على الحركة التنقل حَراك"
+  },
+  "synonyms": [
+   "flexibility",
+   "movement",
+   "motility"
+  ],
+  "antonyms": [
+   "immobility",
+   "stiffness"
+  ],
+  "collocations": [
+   "social mobility",
+   "upward mobility",
+   "mobility issues",
+   "limited mobility"
+  ],
+  "mnemonic_ar": "جاية من 'Mobile' 'موبايل' لأنه جهاز محمول وبيتحرك معاك.. الـ 'Mobility' هي القدرة على الحركة."
+ }
+}

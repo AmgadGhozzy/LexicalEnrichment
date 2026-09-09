@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "laboratory",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "laboratory",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A room or building used for scientific research, experiments, or testing.",
+  "explanation_ar": "المعمل أو المختبر اللي العلماء بيعملوا فيه أبحاث وتجارب.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A room or building equipped for scientific research, experiments, or testing.",
+    "definition_ar": "معمل أو مختبر مجهز لإجراء التجارب والأبحاث العلمية.",
+    "examples": [
+     "The scientist works in a laboratory.",
+     "They sent the sample to the laboratory for analysis.",
+     "We did a test in the laboratory."
+    ]
+   }
+  ],
+  "examples": [
+   "The scientist works in a laboratory.",
+   "They sent the sample to the laboratory for analysis.",
+   "We did a test in the laboratory."
+  ],
+  "translations": [
+   "معمل",
+   "مختبر"
+  ],
+  "relations": {
+   "synonyms": [
+    "lab"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "research laboratory",
+    "science laboratory",
+    "laboratory test",
+    "laboratory analysis"
+   ]
+  },
+  "mnemonic": "جاية من 'Labor' بمعنى 'عمل'.. الـ 'Laboratory' هو المكان المخصص للعمل والبحث العلمي.",
+  "phonetic_us": "ˈlæbrəˌtɔri",
+  "phonetic_uk": "ləˈbɒrətri",
+  "syllables": "lab•o•ra•to•ry",
+  "semantic_tags": [
+   "Science",
+   "Research",
+   "Education"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A room or building used for scientific research, experiments, or testing.",
+  "explanation_ar": "المعمل أو المختبر اللي العلماء بيعملوا فيه أبحاث وتجارب.",
+  "examples": [
+   "The scientist works in a laboratory.",
+   "They sent the sample to the laboratory for analysis.",
+   "We did a test in the laboratory."
+  ],
+  "translations": {
+   "arabic_ar": "معمل مختبر"
+  },
+  "synonyms": [
+   "lab"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "research laboratory",
+   "science laboratory",
+   "laboratory test",
+   "laboratory analysis"
+  ],
+  "mnemonic_ar": "جاية من 'Labor' بمعنى 'عمل'.. الـ 'Laboratory' هو المكان المخصص للعمل والبحث العلمي."
+ }
+}

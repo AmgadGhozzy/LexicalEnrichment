@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "orientation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "orientation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The relative position or direction of something, a person's general attitude or beliefs, or introductory training for a new job or activity.",
+  "explanation_ar": "الاتجاه أو الموضع النسبي لشيء، أو التوجه الفكري والميول، أو التدريب والبرنامج التعريفي عند بدء وظيفة أو دراسة جديدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The position or direction of something relative to the points of a compass or other objects.",
+    "definition_ar": "الاتجاه أو الموضع النسبي لشيء ما."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A period or program of introduction and training for someone starting a new job, course, or role.",
+    "definition_ar": "برنامج أو تدريب تعريفي وتأهيلي للملتحقين الجدد بعمل أو دراسة."
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "A person's basic beliefs, attitudes, or preferences.",
+    "definition_ar": "التوجه الفكري أو السياسي أو الميول والاهتمامات الشخصية."
+   }
+  ],
+  "examples": [
+   "The building has an east-west orientation.",
+   "I have orientation for my new job today.",
+   "Birds use magnetic fields for orientation during migration."
+  ],
+  "translations": [
+   "تَوْجِيه",
+   "اتِّجَاه",
+   "تَأْهِيل تَعْرِيفِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "direction",
+    "positioning",
+    "alignment",
+    "induction"
+   ],
+   "antonyms": [
+    "disorientation"
+   ],
+   "collocations": [
+    "sexual orientation",
+    "orientation day",
+    "political orientation",
+    "customer orientation"
+   ]
+  },
+  "mnemonic": "الـ 'Orient' هو 'الشرق'.. زمان كانوا بيعرفوا الاتجاهات من الشرق.. فالـ 'Orientation' هو تحديد الاتجاه",
+  "phonetic_us": "ˌɔɹiɛnˈteɪʃən",
+  "phonetic_uk": "ˌɔːrɪənˈteɪʃn",
+  "syllables": "ori•en•ta•tion",
+  "semantic_tags": [
+   "Direction",
+   "Position",
+   "Training"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The relative position or direction of something, a person's general attitude or beliefs, or introductory training for a new job or activity.",
+  "explanation_ar": "الاتجاه أو الموضع النسبي لشيء، أو التوجه الفكري والميول، أو التدريب والبرنامج التعريفي عند بدء وظيفة أو دراسة جديدة.",
+  "examples": [
+   "The building has an east-west orientation.",
+   "I have orientation for my new job today.",
+   "Birds use magnetic fields for orientation during migration."
+  ],
+  "translations": {
+   "arabic_ar": "تَوْجِيه اتِّجَاه تَأْهِيل تَعْرِيفِيّ"
+  },
+  "synonyms": [
+   "direction",
+   "positioning",
+   "alignment",
+   "induction"
+  ],
+  "antonyms": [
+   "disorientation"
+  ],
+  "collocations": [
+   "sexual orientation",
+   "orientation day",
+   "political orientation",
+   "customer orientation"
+  ],
+  "mnemonic_ar": "الـ 'Orient' هو 'الشرق'.. زمان كانوا بيعرفوا الاتجاهات من الشرق.. فالـ 'Orientation' هو تحديد الاتجاه"
+ }
+}

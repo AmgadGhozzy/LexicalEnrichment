@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "minimum",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "minimum",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The least or smallest amount or quantity possible.",
+  "explanation_ar": "الحد الأدنى.. أقل كمية مسموح بيها.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "The least or smallest amount or quantity possible.",
+    "explanation_ar": "الحد الأدنى أو أقل قدر ممكن."
+   }
+  ],
+  "examples": [
+   "Keep noise to a minimum.",
+   "This is the bare minimum we can accept.",
+   "Costs were kept to an absolute minimum."
+  ],
+  "translations": [
+   "الحد الأدنى"
+  ],
+  "relations": {
+   "synonyms": [
+    "least"
+   ],
+   "antonyms": [
+    "maximum"
+   ],
+   "collocations": [
+    "bare minimum",
+    "keep to a minimum",
+    "absolute minimum"
+   ]
+  },
+  "mnemonic": "نفس فكرة 'Mini'.. الشيء الصغير.",
+  "phonetic_us": "ˈmɪn.ə.məm",
+  "phonetic_uk": "ˈmɪn.ɪ.məm",
+  "syllables": "min•i•mum",
+  "semantic_tags": [
+   "Limit",
+   "Math",
+   "Quantity"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "The least or smallest amount or quantity possible.",
+  "explanation_ar": "الحد الأدنى.. أقل كمية مسموح بيها.",
+  "examples": [
+   "Keep noise to a minimum.",
+   "This is the bare minimum we can accept.",
+   "Costs were kept to an absolute minimum."
+  ],
+  "translations": {
+   "arabic_ar": "الحد الأدنى"
+  },
+  "synonyms": [
+   "least"
+  ],
+  "antonyms": [
+   "maximum"
+  ],
+  "collocations": [
+   "bare minimum",
+   "keep to a minimum",
+   "absolute minimum"
+  ],
+  "mnemonic_ar": "نفس فكرة 'Mini'.. الشيء الصغير."
+ }
+}

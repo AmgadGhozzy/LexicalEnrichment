@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "glue",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "glue",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A sticky substance used for joining things together.",
+  "explanation_ar": "المادة اللي بنستخدمها عشان نلزق الحاجات المكسورة أو الورق في بعضه.",
+  "senses": [
+   {
+    "definition_en": "A sticky substance used for joining things together.",
+    "explanation_ar": "المادة اللي بنستخدمها عشان نلزق الحاجات المكسورة أو الورق في بعضه.",
+    "examples": [
+     "I need some glue for my project.",
+     "Use glue to stick the picture.",
+     "The glue takes an hour to dry."
+    ]
+   }
+  ],
+  "examples": [
+   "I need some glue for my project.",
+   "Use glue to stick the picture.",
+   "The glue takes an hour to dry."
+  ],
+  "translations": [
+   "غراء",
+   "صمغ"
+  ],
+  "relations": {
+   "synonyms": [
+    "adhesive",
+    "paste",
+    "cement"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "super glue",
+    "glue stick",
+    "glue gun"
+   ]
+  },
+  "mnemonic": "كلمة 'Glue' قصيرة زي 'Gum'.. الـ 'Glue' هو اللي بيلزق الورق والخشب.",
+  "phonetic_us": "/ɡluː/",
+  "phonetic_uk": "/ɡluː/",
+  "syllables": [
+   "glue"
+  ],
+  "semantic_tags": [
+   "Crafts",
+   "School",
+   "Repair"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sticky substance used for joining things together.",
+  "explanation_ar": "المادة اللي بنستخدمها عشان نلزق الحاجات المكسورة أو الورق في بعضه.",
+  "examples": [
+   "I need some glue for my project.",
+   "Use glue to stick the picture.",
+   "The glue takes an hour to dry."
+  ],
+  "translations": {
+   "arabic_ar": "غراء صمغ"
+  },
+  "synonyms": [
+   "adhesive",
+   "paste",
+   "cement"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "super glue",
+   "glue stick",
+   "glue gun"
+  ],
+  "mnemonic_ar": "كلمة 'Glue' قصيرة زي 'Gum'.. الـ 'Glue' هو اللي بيلزق الورق والخشب."
+ }
+}

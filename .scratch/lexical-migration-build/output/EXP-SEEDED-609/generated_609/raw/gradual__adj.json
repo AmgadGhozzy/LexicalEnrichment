@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "gradual",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "gradual",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Taking place or progressing slowly or by degrees.",
+  "explanation_ar": "حاجة بتحصل شوية بشوية، ببطء وعلى مراحل، مش فجأة مرة واحدة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Happening, developing, or changing slowly over a period of time.",
+    "definition_ar": "يحدث أو يتطور ببطء وتدريجيًا على مراحل.",
+    "examples": [
+     "There has been a gradual improvement in his health.",
+     "We saw a gradual change in the weather."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "(Of a slope or incline) rising or descending gently rather than steeply.",
+    "definition_ar": "(عن المنحدر أو الارتفاع) مائل برفق وليس شديد الانحدار.",
+    "examples": [
+     "The slope is so gradual that you hardly notice you are climbing."
+    ]
+   }
+  ],
+  "examples": [
+   "There has been a gradual improvement in his health.",
+   "We saw a gradual change in the weather.",
+   "The slope is so gradual that you hardly notice you are climbing."
+  ],
+  "translations": [
+   "تدريجي"
+  ],
+  "relations": {
+   "synonyms": [
+    "steady",
+    "progressive",
+    "slow"
+   ],
+   "antonyms": [
+    "sudden",
+    "abrupt",
+    "immediate"
+   ],
+   "collocations": [
+    "gradual change",
+    "gradual process",
+    "gradual increase",
+    "gradual decline"
+   ]
+  },
+  "mnemonic": "جاية من 'Grade' 'درجة'.. يعني بتطلع درجة درجة، مش مرة واحدة.",
+  "phonetic_us": "ˈɡrædʒuəl",
+  "phonetic_uk": "ˈɡrædʒuəl",
+  "syllables": "grad•u•al",
+  "semantic_tags": [
+   "Time",
+   "Change",
+   "Process",
+   "Speed"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Taking place or progressing slowly or by degrees.",
+  "explanation_ar": "حاجة بتحصل شوية بشوية، ببطء وعلى مراحل، مش فجأة مرة واحدة.",
+  "examples": [
+   "There has been a gradual improvement in his health.",
+   "We saw a gradual change in the weather.",
+   "The slope is so gradual that you hardly notice you are climbing."
+  ],
+  "translations": {
+   "arabic_ar": "تدريجي"
+  },
+  "synonyms": [
+   "steady",
+   "progressive",
+   "slow"
+  ],
+  "antonyms": [
+   "sudden",
+   "abrupt",
+   "immediate"
+  ],
+  "collocations": [
+   "gradual change",
+   "gradual process",
+   "gradual increase",
+   "gradual decline"
+  ],
+  "mnemonic_ar": "جاية من 'Grade' 'درجة'.. يعني بتطلع درجة درجة، مش مرة واحدة."
+ }
+}

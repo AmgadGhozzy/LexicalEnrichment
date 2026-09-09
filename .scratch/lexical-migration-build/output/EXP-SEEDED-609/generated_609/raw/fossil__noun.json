@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "fossil",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fossil",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The remains of a prehistoric animal or plant found inside a rock.",
+  "explanation_ar": "بقايا حيوان أو نبات عاش من ملايين السنين ومحفوظ جوه الصخور.",
+  "senses": [
+   {
+    "definition_en": "The remains of a prehistoric animal or plant found inside a rock.",
+    "explanation_ar": "بقايا حيوان أو نبات عاش من ملايين السنين ومحفوظ جوه الصخور.",
+    "examples": [
+     "We found a shell fossil on the beach.",
+     "The museum has a complete dinosaur fossil on display.",
+     "Each fossil provides valuable clues about life millions of years ago."
+    ]
+   }
+  ],
+  "examples": [
+   "We found a shell fossil on the beach.",
+   "The museum has a complete dinosaur fossil on display.",
+   "Each fossil provides valuable clues about life millions of years ago."
+  ],
+  "translations": [
+   "حَفْرِيَّة",
+   "أُحْفُورَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "remains",
+    "petrifaction"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "dinosaur fossil",
+    "fossil hunter",
+    "living fossil",
+    "old fossil"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Fuel'.. لأن الـ 'Fossil' 'الحفرية' هي أصل الـ 'Fossil Fuel' 'الوقود الحفري'.",
+  "phonetic_us": "ˈfɑːsəl",
+  "phonetic_uk": "ˈfɒsl",
+  "syllables": "fos•sil",
+  "semantic_tags": [
+   "#History",
+   "#Dinosaur",
+   "#Science",
+   "#Rock"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The remains of a prehistoric animal or plant found inside a rock.",
+  "explanation_ar": "بقايا حيوان أو نبات عاش من ملايين السنين ومحفوظ جوه الصخور.",
+  "examples": [
+   "We found a shell fossil on the beach.",
+   "The museum has a complete dinosaur fossil on display.",
+   "Each fossil provides valuable clues about life millions of years ago."
+  ],
+  "translations": {
+   "arabic_ar": "حَفْرِيَّة أُحْفُورَة"
+  },
+  "synonyms": [
+   "remains",
+   "petrifaction"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "dinosaur fossil",
+   "fossil hunter",
+   "living fossil",
+   "old fossil"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Fuel'.. لأن الـ 'Fossil' 'الحفرية' هي أصل الـ 'Fossil Fuel' 'الوقود الحفري'."
+ }
+}

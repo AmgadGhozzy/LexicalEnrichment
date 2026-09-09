@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "hatred",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "hatred",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Intense dislike or ill will.",
+  "explanation_ar": "كراهية شديدة.. شعور قوي جداً بالعداوة تجاه حد.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "An extremely strong feeling of dislike, hostility, or ill will.",
+    "definition_ar": "شعور قوي للغاية بالكره أو العداوة أو البغضاء.",
+    "examples": [
+     "She felt no hatred towards her ex-husband.",
+     "The war was fueled by racial hatred.",
+     "His speech incited hatred against the minority group."
+    ]
+   }
+  ],
+  "examples": [
+   "She felt no hatred towards her ex-husband.",
+   "The war was fueled by racial hatred.",
+   "His speech incited hatred against the minority group."
+  ],
+  "translations": [
+   "كراهية",
+   "حقد",
+   "بغضاء"
+  ],
+  "relations": {
+   "synonyms": [
+    "loathing",
+    "detestation",
+    "animosity",
+    "hostility"
+   ],
+   "antonyms": [
+    "love",
+    "affection",
+    "adoration"
+   ],
+   "collocations": [
+    "racial hatred",
+    "incite hatred",
+    "full of hatred"
+   ]
+  },
+  "mnemonic": "جاية من 'Hate' 'يكره'.. الـ 'Hatred' هو الاسم منها، الكراهية العميقة.",
+  "phonetic_us": "ˈheɪtɹəd",
+  "phonetic_uk": "ˈheɪtrɪd",
+  "syllables": "ha•tred",
+  "semantic_tags": [
+   "Feelings & Emotions",
+   "Anger",
+   "Conflict"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Intense dislike or ill will.",
+  "explanation_ar": "كراهية شديدة.. شعور قوي جداً بالعداوة تجاه حد.",
+  "examples": [
+   "She felt no hatred towards her ex-husband.",
+   "The war was fueled by racial hatred.",
+   "His speech incited hatred against the minority group."
+  ],
+  "translations": {
+   "arabic_ar": "كراهية حقد بغضاء"
+  },
+  "synonyms": [
+   "loathing",
+   "detestation",
+   "animosity",
+   "hostility"
+  ],
+  "antonyms": [
+   "love",
+   "affection",
+   "adoration"
+  ],
+  "collocations": [
+   "racial hatred",
+   "incite hatred",
+   "full of hatred"
+  ],
+  "mnemonic_ar": "جاية من 'Hate' 'يكره'.. الـ 'Hatred' هو الاسم منها، الكراهية العميقة."
+ }
+}

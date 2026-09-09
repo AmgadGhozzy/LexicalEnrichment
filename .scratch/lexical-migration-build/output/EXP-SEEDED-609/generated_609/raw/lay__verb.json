@@ -1,0 +1,116 @@
+{
+ "identity": {
+  "lemma": "lay",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "lay",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To put something down gently or carefully; (of a bird, reptile, or insect) to produce an egg.",
+  "explanation_ar": "أن تضع شيئاً بحرص أو برفق في مكان ما، أو (للطيور والحشرات) أن تبيض.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To put something down gently, carefully, or in a flat position.",
+    "definition_ar": "يضع شيئاً برفق أو يفرده في مكان معين.",
+    "examples": [
+     "Please lay the book on the table.",
+     "They are going to lay a new carpet."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "(Of a bird, fish, reptile, or insect) to produce an egg from the body.",
+    "definition_ar": "يبيض (للطيور والأسماك والحشرات).",
+    "examples": [
+     "Hens lay eggs."
+    ]
+   }
+  ],
+  "examples": [
+   "Please lay the book on the table.",
+   "Hens lay eggs.",
+   "They are going to lay a new carpet."
+  ],
+  "translations": [
+   "يضع",
+   "يفرش",
+   "يبيض"
+  ],
+  "relations": {
+   "synonyms": [
+    "put",
+    "place",
+    "set"
+   ],
+   "antonyms": [
+    "lift",
+    "pick up"
+   ],
+   "collocations": [
+    "lay the table",
+    "lay eggs",
+    "lay emphasis on",
+    "lay a carpet"
+   ],
+   "related_words": {
+    "ar": [
+     "طبقة",
+     "تصميم",
+     "يستلقي"
+    ],
+    "en": [
+     "layer",
+     "layout",
+     "lie"
+    ]
+   },
+   "word_family": {
+    "noun": "layer",
+    "verb": "lay"
+   }
+  },
+  "mnemonic": "اربط الفعل lay بكلمة layer (طبقة)؛ عندما تقوم بفعل lay فإنك تفرش شيئاً أو تضعه برفق كطبقة مستوية على السطح.",
+  "phonetic_us": "leɪ",
+  "phonetic_uk": "leɪ",
+  "syllables": [
+   "lay"
+  ],
+  "semantic_tags": [
+   "#Placement",
+   "#Animals",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To put something down gently or carefully; (of a bird, reptile, or insect) to produce an egg.",
+  "explanation_ar": "أن تضع شيئاً بحرص أو برفق في مكان ما، أو (للطيور والحشرات) أن تبيض.",
+  "examples": [
+   "Please lay the book on the table.",
+   "Hens lay eggs.",
+   "They are going to lay a new carpet."
+  ],
+  "translations": {
+   "arabic_ar": "يضع يفرش يبيض"
+  },
+  "synonyms": [
+   "put",
+   "place",
+   "set"
+  ],
+  "antonyms": [
+   "lift",
+   "pick up"
+  ],
+  "collocations": [
+   "lay the table",
+   "lay eggs",
+   "lay emphasis on",
+   "lay a carpet"
+  ],
+  "mnemonic_ar": "اربط الفعل lay بكلمة layer (طبقة)؛ عندما تقوم بفعل lay فإنك تفرش شيئاً أو تضعه برفق كطبقة مستوية على السطح."
+ }
+}

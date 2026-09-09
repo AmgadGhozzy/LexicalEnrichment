@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "find",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "find",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To discover or perceive by chance or search.",
+  "explanation_ar": "يلاقي أو يجد. لما تدور على حاجة وتوصلها، أو تكتشف حاجة بالصدفة.",
+  "senses": [
+   {
+    "definition_en": "To discover or locate something by searching or by chance.",
+    "definition_ar": "أن تجد أو تعثر على شيء بالبحث أو بالمصادفة.",
+    "examples": [
+     "I can't find my keys.",
+     "Did you find the book you wanted?"
+    ]
+   },
+   {
+    "definition_en": "To discover or realize something through experience or consideration.",
+    "definition_ar": "أن تكتشف أو تدرك شيئاً من خلال التجربة أو الملاحظة.",
+    "examples": [
+     "You will find that this software is very useful."
+    ]
+   }
+  ],
+  "examples": [
+   "I can't find my keys.",
+   "Did you find the book you wanted?",
+   "You will find that this software is very useful."
+  ],
+  "translations": [
+   "يجد",
+   "يعثر على"
+  ],
+  "relations": {
+   "synonyms": [
+    "discover",
+    "locate",
+    "detect"
+   ],
+   "antonyms": [
+    "lose",
+    "misplace"
+   ],
+   "collocations": [
+    "find out",
+    "find a way",
+    "hard to find"
+   ]
+  },
+  "mnemonic": "كلمة 'Find' شبه 'Fine'.. لما تلاقي حاجة 'Fine' 'كويسة' بتبقى 'Lucky Find'.",
+  "phonetic_us": "faɪnd",
+  "phonetic_uk": "faɪnd",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Search",
+   "#Discovery",
+   "#Locate"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To discover or perceive by chance or search.",
+  "explanation_ar": "يلاقي أو يجد. لما تدور على حاجة وتوصلها، أو تكتشف حاجة بالصدفة.",
+  "examples": [
+   "I can't find my keys.",
+   "Did you find the book you wanted?",
+   "You will find that this software is very useful."
+  ],
+  "translations": {
+   "arabic_ar": "يجد يعثر على"
+  },
+  "synonyms": [
+   "discover",
+   "locate",
+   "detect"
+  ],
+  "antonyms": [
+   "lose",
+   "misplace"
+  ],
+  "collocations": [
+   "find out",
+   "find a way",
+   "hard to find"
+  ],
+  "mnemonic_ar": "كلمة 'Find' شبه 'Fine'.. لما تلاقي حاجة 'Fine' 'كويسة' بتبقى 'Lucky Find'."
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "nutrient",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "nutrient",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A substance that plants, animals, and people need to live and grow.",
+  "explanation_ar": "المادة المغذية (مثل الفيتامينات والمعادن) التي يحتاجها الجسم لينمو ويعيش بصحة جيدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A substance that plants, animals, and people need to live and grow.",
+    "definition_ar": "مادة مغذية أو عنصر غذائي أساسي لنمو وبقاء الكائنات الحية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Calcium is an essential nutrient for building strong bones and teeth.",
+   "The plant struggled to grow because the soil lacked a vital nutrient.",
+   "Iron is an important nutrient that helps transport oxygen in the blood."
+  ],
+  "translations": [
+   "مادة مغذية",
+   "عنصر مغذٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "nourishment"
+   ],
+   "antonyms": [
+    "toxin",
+    "poison"
+   ],
+   "collocations": [
+    "essential nutrient",
+    "vital nutrient",
+    "key nutrient",
+    "nutrient rich"
+   ]
+  },
+  "mnemonic": "جاية من 'Nutrition' (تغذية).. الـ 'Nutrient' هو العنصر اللي بيغذي الجسم.",
+  "phonetic_us": "ˈnuːtriənt",
+  "phonetic_uk": "ˈnjuːtriənt",
+  "syllables": "nu•tri•ent",
+  "semantic_tags": [
+   "#Food",
+   "#Health",
+   "#Biology",
+   "#Growth"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A substance that plants, animals, and people need to live and grow.",
+  "explanation_ar": "المادة المغذية (مثل الفيتامينات والمعادن) التي يحتاجها الجسم لينمو ويعيش بصحة جيدة.",
+  "examples": [
+   "Calcium is an essential nutrient for building strong bones and teeth.",
+   "The plant struggled to grow because the soil lacked a vital nutrient.",
+   "Iron is an important nutrient that helps transport oxygen in the blood."
+  ],
+  "translations": {
+   "arabic_ar": "مادة مغذية عنصر مغذٍ"
+  },
+  "synonyms": [
+   "nourishment"
+  ],
+  "antonyms": [
+   "toxin",
+   "poison"
+  ],
+  "collocations": [
+   "essential nutrient",
+   "vital nutrient",
+   "key nutrient",
+   "nutrient rich"
+  ],
+  "mnemonic_ar": "جاية من 'Nutrition' (تغذية).. الـ 'Nutrient' هو العنصر اللي بيغذي الجسم."
+ }
+}

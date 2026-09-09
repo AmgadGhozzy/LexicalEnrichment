@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "novelist",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "novelist",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who writes novels (long fiction books).",
+  "explanation_ar": "الكاتب اللي بيألف روايات وقصص طويلة.",
+  "senses": [
+   {
+    "definition_en": "A person who writes novels (long fiction books).",
+    "explanation_ar": "الكاتب اللي بيألف روايات وقصص طويلة.",
+    "pos": "noun",
+    "examples": [
+     "She wants to be a novelist.",
+     "The celebrated novelist won a literary prize.",
+     "His style as a novelist is characterized by intricate plotting."
+    ]
+   }
+  ],
+  "examples": [
+   "She wants to be a novelist.",
+   "The celebrated novelist won a literary prize.",
+   "His style as a novelist is characterized by intricate plotting."
+  ],
+  "translations": [
+   "روائي"
+  ],
+  "relations": {
+   "synonyms": [
+    "author",
+    "fiction writer",
+    "writer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "American novelist",
+    "bestselling novelist",
+    "debut novelist",
+    "famous novelist"
+   ]
+  },
+  "mnemonic": "جاية من 'Novel' 'رواية'.. اللي بيكتب 'Novel' يبقى 'Novelist'.",
+  "phonetic_us": "ˈnɑvəlɪst",
+  "phonetic_uk": "ˈnɒvəlɪst",
+  "syllables": "nov•el•ist",
+  "semantic_tags": [
+   "Literature",
+   "Writing",
+   "Books",
+   "Art"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who writes novels (long fiction books).",
+  "explanation_ar": "الكاتب اللي بيألف روايات وقصص طويلة.",
+  "examples": [
+   "She wants to be a novelist.",
+   "The celebrated novelist won a literary prize.",
+   "His style as a novelist is characterized by intricate plotting."
+  ],
+  "translations": {
+   "arabic_ar": "روائي"
+  },
+  "synonyms": [
+   "author",
+   "fiction writer",
+   "writer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "American novelist",
+   "bestselling novelist",
+   "debut novelist",
+   "famous novelist"
+  ],
+  "mnemonic_ar": "جاية من 'Novel' 'رواية'.. اللي بيكتب 'Novel' يبقى 'Novelist'."
+ }
+}

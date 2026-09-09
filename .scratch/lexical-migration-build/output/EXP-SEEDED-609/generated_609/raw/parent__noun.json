@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "parent",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "parent",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A father or mother.",
+  "explanation_ar": "الأب أو الأم، الشخص المسئول عن تربية الأطفال.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A father or mother.",
+    "definition_ar": "الأب أو الأم.",
+    "examples": [
+     "Being a single parent is hard work.",
+     "Every parent wants to protect their child.",
+     "As a parent, he spends a lot of time with his daughter."
+    ]
+   }
+  ],
+  "examples": [
+   "Being a single parent is hard work.",
+   "Every parent wants to protect their child.",
+   "As a parent, he spends a lot of time with his daughter."
+  ],
+  "translations": [
+   "أحد الوالدين",
+   "والد",
+   "والدة"
+  ],
+  "relations": {
+   "synonyms": [
+    "mother",
+    "father",
+    "guardian"
+   ],
+   "antonyms": [
+    "child",
+    "offspring"
+   ],
+   "collocations": [
+    "single parent",
+    "foster parent",
+    "working parent",
+    "parent company"
+   ]
+  },
+  "mnemonic": "الـ 'Parents' هما الـ 'Pair' 'الزوجين' اللي خلفوك.",
+  "phonetic_us": "ˈpɛr.ənt",
+  "phonetic_uk": "ˈpeə.rənt",
+  "syllables": "par•ent",
+  "semantic_tags": [
+   "#Family",
+   "#Mother",
+   "#Father"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A father or mother.",
+  "explanation_ar": "الأب أو الأم، الشخص المسئول عن تربية الأطفال.",
+  "examples": [
+   "Being a single parent is hard work.",
+   "Every parent wants to protect their child.",
+   "As a parent, he spends a lot of time with his daughter."
+  ],
+  "translations": {
+   "arabic_ar": "أحد الوالدين والد والدة"
+  },
+  "synonyms": [
+   "mother",
+   "father",
+   "guardian"
+  ],
+  "antonyms": [
+   "child",
+   "offspring"
+  ],
+  "collocations": [
+   "single parent",
+   "foster parent",
+   "working parent",
+   "parent company"
+  ],
+  "mnemonic_ar": "الـ 'Parents' هما الـ 'Pair' 'الزوجين' اللي خلفوك."
+ }
+}

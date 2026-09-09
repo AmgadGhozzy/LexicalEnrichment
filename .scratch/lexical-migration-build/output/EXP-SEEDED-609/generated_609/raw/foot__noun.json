@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "foot",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "foot",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The part of the body at the bottom of the leg on which a person or animal stands and walks.",
+  "explanation_ar": "القدم. الجزء اللي تحت في الرجل اللي بتمشي عليه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The part of the body at the bottom of the leg on which a person or animal stands and walks.",
+    "definition_ar": "القدم؛ الجزء السفلي من الساق للوقوف والمشي."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A unit of length equal to 12 inches (approximately 30.48 cm).",
+    "definition_ar": "قدم؛ وحدة قياس للطول تساوي 12 بوصة."
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "The lowest part or base of something.",
+    "definition_ar": "أسفل أو قاعدة شيء ما (مثل الجبل أو الصفحة)."
+   }
+  ],
+  "examples": [
+   "My foot hurts.",
+   "He goes to school on foot.",
+   "She tapped her foot impatiently."
+  ],
+  "translations": [
+   "قدم"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "head",
+    "top"
+   ],
+   "collocations": [
+    "on foot",
+    "left foot",
+    "bare foot",
+    "at the foot of"
+   ]
+  },
+  "mnemonic": "كلمة 'Foot' بتفكرنا بـ 'Football'.. الكورة اللي بتلعبها برجلك.",
+  "phonetic_us": "fʊt",
+  "phonetic_uk": "fʊt",
+  "syllables": "foot",
+  "semantic_tags": [
+   "#Body",
+   "#Anatomy",
+   "#Measure"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The part of the body at the bottom of the leg on which a person or animal stands and walks.",
+  "explanation_ar": "القدم. الجزء اللي تحت في الرجل اللي بتمشي عليه.",
+  "examples": [
+   "My foot hurts.",
+   "He goes to school on foot.",
+   "She tapped her foot impatiently."
+  ],
+  "translations": {
+   "arabic_ar": "قدم"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "head",
+   "top"
+  ],
+  "collocations": [
+   "on foot",
+   "left foot",
+   "bare foot",
+   "at the foot of"
+  ],
+  "mnemonic_ar": "كلمة 'Foot' بتفكرنا بـ 'Football'.. الكورة اللي بتلعبها برجلك."
+ }
+}

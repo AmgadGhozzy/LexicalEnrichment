@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "gradually",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "gradually",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "Slowly, over a long period of time.",
+  "explanation_ar": "تدريجياً، يعني واحدة واحدة مش مرة واحدة. زي لما الجو يبرد شوية بشوية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Slowly, over a long period of time.",
+    "definition_ar": "تدريجياً، على مدار فترة زمنية وبشكل تدريجي غير مفاجئ.",
+    "pos": "adv"
+   }
+  ],
+  "examples": [
+   "The weather gradually improved.",
+   "Her health is gradually getting better.",
+   "The sound gradually faded away into silence."
+  ],
+  "translations": [
+   "تدريجياً",
+   "بالتدريج"
+  ],
+  "relations": {
+   "synonyms": [
+    "slowly",
+    "steadily",
+    "progressively",
+    "bit by bit"
+   ],
+   "antonyms": [
+    "suddenly",
+    "abruptly",
+    "instantly"
+   ],
+   "collocations": [
+    "gradually improve",
+    "gradually increase",
+    "gradually fade",
+    "change gradually"
+   ]
+  },
+  "mnemonic": "جاية من 'Grade' 'درجة'.. يعني بتطلع السلم 'Grade' بـ 'Grade' 'درجة بدرجة' مش بتنط.",
+  "phonetic_us": "ˈɡrædʒuəli",
+  "phonetic_uk": "ˈɡrædʒuəli",
+  "syllables": "grad•u•al•ly",
+  "semantic_tags": [
+   "Time",
+   "Change",
+   "Process"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Slowly, over a long period of time.",
+  "explanation_ar": "تدريجياً، يعني واحدة واحدة مش مرة واحدة. زي لما الجو يبرد شوية بشوية.",
+  "examples": [
+   "The weather gradually improved.",
+   "Her health is gradually getting better.",
+   "The sound gradually faded away into silence."
+  ],
+  "translations": {
+   "arabic_ar": "تدريجياً بالتدريج"
+  },
+  "synonyms": [
+   "slowly",
+   "steadily",
+   "progressively",
+   "bit by bit"
+  ],
+  "antonyms": [
+   "suddenly",
+   "abruptly",
+   "instantly"
+  ],
+  "collocations": [
+   "gradually improve",
+   "gradually increase",
+   "gradually fade",
+   "change gradually"
+  ],
+  "mnemonic_ar": "جاية من 'Grade' 'درجة'.. يعني بتطلع السلم 'Grade' بـ 'Grade' 'درجة بدرجة' مش بتنط."
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "other",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "other",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "The other one; a different or additional person or thing.",
+  "explanation_ar": "الواحد التاني. بنستخدمها لما نكون بنختار بين حاجتين أو أكتر ونشاور على التاني.",
+  "senses": [
+   {
+    "definition_en": "The second of two people or things, or a different or additional one.",
+    "explanation_ar": "الطرف أو الشخص أو الشيء الآخر من اثنين، أو شيء بديل أو إضافي.",
+    "examples": [
+     "I have two cats. One is black, the other is white.",
+     "One or the other must be correct.",
+     "He lifted one arm and then the other."
+    ]
+   }
+  ],
+  "examples": [
+   "I have two cats. One is black, the other is white.",
+   "One or the other must be correct.",
+   "He lifted one arm and then the other."
+  ],
+  "translations": [
+   "الآخر",
+   "أخرى"
+  ],
+  "relations": {
+   "synonyms": [
+    "another"
+   ],
+   "antonyms": [
+    "same"
+   ],
+   "collocations": [
+    "the other",
+    "one or the other",
+    "none other"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈʌðər",
+  "phonetic_uk": "ˈʌðə",
+  "syllables": "oth•er",
+  "semantic_tags": [
+   "#Selection",
+   "#Reference",
+   "#Pronouns"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The other one; a different or additional person or thing.",
+  "explanation_ar": "الواحد التاني. بنستخدمها لما نكون بنختار بين حاجتين أو أكتر ونشاور على التاني.",
+  "examples": [
+   "I have two cats. One is black, the other is white.",
+   "One or the other must be correct.",
+   "He lifted one arm and then the other."
+  ],
+  "translations": {
+   "arabic_ar": "الآخر أخرى"
+  },
+  "synonyms": [
+   "another"
+  ],
+  "antonyms": [
+   "same"
+  ],
+  "collocations": [
+   "the other",
+   "one or the other",
+   "none other"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "interior",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "interior",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Situated within or inside; relating to the inside.",
+  "explanation_ar": "حاجة داخلية، جوه البيت أو المبنى، أو حتى جوه البلد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "adj",
+    "definition_en": "Situated within or inside; relating to the inside.",
+    "definition_ar": "داخلي؛ يقع في الداخل أو يرتبط بالجزء الداخلي لشيء ما."
+   }
+  ],
+  "examples": [
+   "The interior walls are blue.",
+   "She is studying interior design.",
+   "Large windows were installed to improve the interior lighting."
+  ],
+  "translations": [
+   "داخلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "internal",
+    "inner",
+    "inside",
+    "inland"
+   ],
+   "antonyms": [
+    "exterior",
+    "outer",
+    "external"
+   ],
+   "collocations": [
+    "interior design",
+    "interior decorator",
+    "interior minister",
+    "interior lighting"
+   ]
+  },
+  "mnemonic": "عكس 'Exterior' 'خارجي'.. 'In' يعني جوه، يبقى 'Interior' داخلي.",
+  "phonetic_us": "ɪnˈtɪɹiɚ",
+  "phonetic_uk": "ɪnˈtɪərɪə",
+  "syllables": "in•te•ri•or",
+  "semantic_tags": [
+   "Inside",
+   "Design",
+   "Home",
+   "Space"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Situated within or inside; relating to the inside.",
+  "explanation_ar": "حاجة داخلية، جوه البيت أو المبنى، أو حتى جوه البلد.",
+  "examples": [
+   "The interior walls are blue.",
+   "She is studying interior design.",
+   "Large windows were installed to improve the interior lighting."
+  ],
+  "translations": {
+   "arabic_ar": "داخلي"
+  },
+  "synonyms": [
+   "internal",
+   "inner",
+   "inside",
+   "inland"
+  ],
+  "antonyms": [
+   "exterior",
+   "outer",
+   "external"
+  ],
+  "collocations": [
+   "interior design",
+   "interior decorator",
+   "interior minister",
+   "interior lighting"
+  ],
+  "mnemonic_ar": "عكس 'Exterior' 'خارجي'.. 'In' يعني جوه، يبقى 'Interior' داخلي."
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "gentleman",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "gentleman",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A polite, chivalrous, or honorable man with good manners.",
+  "explanation_ar": "الراجل اللي أخلاقه عالية وبيحترم الناس وبيتعامل بذوق وأدب، اللي بنقول عليه 'جنتل'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A man who is polite, well-mannered, and honorable in his behavior toward others.",
+    "definition_ar": "رجل مهذب، خلوق، وحسن المعاملة.",
+    "examples": [
+     "A true gentleman holds the door for others.",
+     "He behaved like a perfect gentleman throughout the evening."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A polite or formal way of referring to any man.",
+    "definition_ar": "طريقة مؤدبة أو رسمية للإشارة إلى أي رجل (سيد).",
+    "examples": [
+     "An old gentleman helped me with my bags."
+    ]
+   }
+  ],
+  "examples": [
+   "An old gentleman helped me with my bags.",
+   "A true gentleman holds the door for others.",
+   "He behaved like a perfect gentleman throughout the evening."
+  ],
+  "translations": [
+   "رجل نبيل",
+   "رجل مهذب",
+   "سيد"
+  ],
+  "relations": {
+   "synonyms": [
+    "nobleman",
+    "cavalier"
+   ],
+   "antonyms": [
+    "boor",
+    "lout",
+    "cad"
+   ],
+   "collocations": [
+    "perfect gentleman",
+    "true gentleman",
+    "old gentleman",
+    "southern gentleman"
+   ]
+  },
+  "mnemonic": "كلمة 'Gentle' يعني لطيف.. فالـ 'Gentleman' هو الراجل اللطيف المحترم في تعامله.",
+  "phonetic_us": "ˈdʒentlmən",
+  "phonetic_uk": "ˈdʒentlmən",
+  "syllables": "gen•tle•man",
+  "semantic_tags": [
+   "Politeness",
+   "Society",
+   "Men",
+   "Manners"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A polite, chivalrous, or honorable man with good manners.",
+  "explanation_ar": "الراجل اللي أخلاقه عالية وبيحترم الناس وبيتعامل بذوق وأدب، اللي بنقول عليه 'جنتل'.",
+  "examples": [
+   "An old gentleman helped me with my bags.",
+   "A true gentleman holds the door for others.",
+   "He behaved like a perfect gentleman throughout the evening."
+  ],
+  "translations": {
+   "arabic_ar": "رجل نبيل رجل مهذب سيد"
+  },
+  "synonyms": [
+   "nobleman",
+   "cavalier"
+  ],
+  "antonyms": [
+   "boor",
+   "lout",
+   "cad"
+  ],
+  "collocations": [
+   "perfect gentleman",
+   "true gentleman",
+   "old gentleman",
+   "southern gentleman"
+  ],
+  "mnemonic_ar": "كلمة 'Gentle' يعني لطيف.. فالـ 'Gentleman' هو الراجل اللطيف المحترم في تعامله."
+ }
+}

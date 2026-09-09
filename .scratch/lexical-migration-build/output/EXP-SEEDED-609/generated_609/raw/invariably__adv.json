@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "invariably",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "invariably",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "In every case or on every occasion; always.",
+  "explanation_ar": "كلمة معناها إن الحاجة دي بتحصل علطول في كل مرة، من غير أي تغيير أو استثناء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In every case or on every occasion; always.",
+    "definition_ar": "دائماً وفي كل الحالات دون أي تغيير أو استثناء.",
+    "examples": [
+     "She invariably forgets her keys when she leaves.",
+     "The most difficult questions are invariably asked at the end.",
+     "Such policies invariably lead to economic stagnation."
+    ]
+   }
+  ],
+  "examples": [
+   "She invariably forgets her keys when she leaves.",
+   "The most difficult questions are invariably asked at the end.",
+   "Such policies invariably lead to economic stagnation."
+  ],
+  "translations": [
+   "دائماً",
+   "بثبات"
+  ],
+  "relations": {
+   "synonyms": [
+    "always",
+    "consistently",
+    "without fail",
+    "perpetually"
+   ],
+   "antonyms": [
+    "never",
+    "rarely",
+    "sometimes"
+   ],
+   "collocations": [
+    "almost invariably",
+    "invariably fatal",
+    "invariably true"
+   ]
+  },
+  "mnemonic": "جاية من 'Vary' يختلف.. و 'In' للنفي.. يعني 'Invariably' حاجة مش بتختلف أبداً.",
+  "phonetic_us": "ɪnˈvɛriəbli",
+  "phonetic_uk": "ɪnˈveərɪəbli",
+  "syllables": "in•vari•ably",
+  "semantic_tags": [
+   "#Time",
+   "#Consistency",
+   "#Formal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In every case or on every occasion; always.",
+  "explanation_ar": "كلمة معناها إن الحاجة دي بتحصل علطول في كل مرة، من غير أي تغيير أو استثناء.",
+  "examples": [
+   "She invariably forgets her keys when she leaves.",
+   "The most difficult questions are invariably asked at the end.",
+   "Such policies invariably lead to economic stagnation."
+  ],
+  "translations": {
+   "arabic_ar": "دائماً بثبات"
+  },
+  "synonyms": [
+   "always",
+   "consistently",
+   "without fail",
+   "perpetually"
+  ],
+  "antonyms": [
+   "never",
+   "rarely",
+   "sometimes"
+  ],
+  "collocations": [
+   "almost invariably",
+   "invariably fatal",
+   "invariably true"
+  ],
+  "mnemonic_ar": "جاية من 'Vary' يختلف.. و 'In' للنفي.. يعني 'Invariably' حاجة مش بتختلف أبداً."
+ }
+}

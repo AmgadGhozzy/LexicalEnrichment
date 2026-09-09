@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "isolate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "isolate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "Cause to be or remain alone or apart from others.",
+  "explanation_ar": "تفصل شخص أو حاجة عن الباقيين وتخليه لوحده.",
+  "senses": [
+   {
+    "definition_en": "To separate someone or something physically or socially from others.",
+    "explanation_ar": "فصل شخص أو شيء عن الآخرين وجعله في معزل.",
+    "examples": [
+     "You should isolate yourself if you have the flu."
+    ]
+   },
+   {
+    "definition_en": "To identify and separate a specific substance, organism, or problem from a whole.",
+    "explanation_ar": "عزل أو تحديد عنصر أو مشكلة أو جين معين لدراسته أو معالجته.",
+    "examples": [
+     "Scientists managed to isolate the specific gene responsible for the disease."
+    ]
+   }
+  ],
+  "examples": [
+   "You should isolate yourself if you have the flu.",
+   "They tried to isolate the problem to fix it.",
+   "Scientists managed to isolate the specific gene responsible for the disease."
+  ],
+  "translations": [
+   "يعزل",
+   "يفصل"
+  ],
+  "relations": {
+   "synonyms": [
+    "separate",
+    "segregate",
+    "detach",
+    "sequester"
+   ],
+   "antonyms": [
+    "integrate",
+    "combine",
+    "unite"
+   ],
+   "collocations": [
+    "isolate oneself",
+    "isolate the virus",
+    "isolate the problem"
+   ]
+  },
+  "mnemonic": "جاية من 'Island' 'جزيرة'.. لما تعمل 'Isolate' لحد بتخليه كأنه عايش في 'Island' لوحده.",
+  "phonetic_us": "ˈaɪsəleɪt",
+  "phonetic_uk": "ˈaɪsəleɪt",
+  "syllables": "iso•late",
+  "semantic_tags": [
+   "#Separation",
+   "#Health",
+   "#Solitude"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Cause to be or remain alone or apart from others.",
+  "explanation_ar": "تفصل شخص أو حاجة عن الباقيين وتخليه لوحده.",
+  "examples": [
+   "You should isolate yourself if you have the flu.",
+   "They tried to isolate the problem to fix it.",
+   "Scientists managed to isolate the specific gene responsible for the disease."
+  ],
+  "translations": {
+   "arabic_ar": "يعزل يفصل"
+  },
+  "synonyms": [
+   "separate",
+   "segregate",
+   "detach",
+   "sequester"
+  ],
+  "antonyms": [
+   "integrate",
+   "combine",
+   "unite"
+  ],
+  "collocations": [
+   "isolate oneself",
+   "isolate the virus",
+   "isolate the problem"
+  ],
+  "mnemonic_ar": "جاية من 'Island' 'جزيرة'.. لما تعمل 'Isolate' لحد بتخليه كأنه عايش في 'Island' لوحده."
+ }
+}

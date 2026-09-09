@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "name",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "name",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A word used to call a person, place, or thing.",
+  "explanation_ar": "الكلمة اللي بننادي بيها على أي شخص أو حاجة عشان نميزهم عن غيرهم.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A word used to call a person, place, or thing.",
+    "definition_ar": "الاسم أو اللفظ الذي يُطلق على شخص أو مكان أو شيء لتمييزه."
+   }
+  ],
+  "examples": [
+   "My name is Sarah.",
+   "What is the name of this street?",
+   "Please write your name on the form."
+  ],
+  "translations": [
+   "اسم"
+  ],
+  "relations": {
+   "synonyms": [
+    "title",
+    "label",
+    "designation",
+    "term"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "first name",
+    "last name",
+    "brand name",
+    "make a name"
+   ]
+  },
+  "mnemonic": "كلمة 'Name' قريبة من 'نيم'.. اكتب الـ 'Name' بتاعك عشان محدش ينساه وهو 'نايم'.",
+  "phonetic_us": "neɪm",
+  "phonetic_uk": "neɪm",
+  "syllables": "name",
+  "semantic_tags": [
+   "Identity",
+   "Person",
+   "Label",
+   "Introduction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A word used to call a person, place, or thing.",
+  "explanation_ar": "الكلمة اللي بننادي بيها على أي شخص أو حاجة عشان نميزهم عن غيرهم.",
+  "examples": [
+   "My name is Sarah.",
+   "What is the name of this street?",
+   "Please write your name on the form."
+  ],
+  "translations": {
+   "arabic_ar": "اسم"
+  },
+  "synonyms": [
+   "title",
+   "label",
+   "designation",
+   "term"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "first name",
+   "last name",
+   "brand name",
+   "make a name"
+  ],
+  "mnemonic_ar": "كلمة 'Name' قريبة من 'نيم'.. اكتب الـ 'Name' بتاعك عشان محدش ينساه وهو 'نايم'."
+ }
+}

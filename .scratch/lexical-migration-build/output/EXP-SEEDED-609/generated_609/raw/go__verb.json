@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "go",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "go",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To move from one place to another; to travel.",
+  "explanation_ar": "يعني يتحرك من مكان لمكان تاني، زي لما تروح الشغل أو المدرسة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To move from one place to another; to travel.",
+    "definition_ar": "يتحرك أو يسافر من مكان إلى آخر.",
+    "examples": [
+     "I go to school by bus.",
+     "Let's go to the park.",
+     "We plan to go abroad next year."
+    ]
+   }
+  ],
+  "examples": [
+   "I go to school by bus.",
+   "Let's go to the park.",
+   "We plan to go abroad next year."
+  ],
+  "translations": [
+   "يَذْهَب"
+  ],
+  "relations": {
+   "synonyms": [
+    "move",
+    "travel",
+    "depart"
+   ],
+   "antonyms": [
+    "come",
+    "stay",
+    "stop"
+   ],
+   "collocations": [
+    "go home",
+    "go away",
+    "go on",
+    "go out"
+   ]
+  },
+  "mnemonic": "كلمة 'Go' شبه 'Goal'.. عشان تجيب 'Goal' لازم 'Go' 'تتحرك' ناحية المرمى.",
+  "phonetic_us": "ɡoʊ",
+  "phonetic_uk": "ɡəʊ",
+  "syllables": [
+   "go"
+  ],
+  "semantic_tags": [
+   "travel",
+   "action",
+   "motion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move from one place to another; to travel.",
+  "explanation_ar": "يعني يتحرك من مكان لمكان تاني، زي لما تروح الشغل أو المدرسة.",
+  "examples": [
+   "I go to school by bus.",
+   "Let's go to the park.",
+   "We plan to go abroad next year."
+  ],
+  "translations": {
+   "arabic_ar": "يَذْهَب"
+  },
+  "synonyms": [
+   "move",
+   "travel",
+   "depart"
+  ],
+  "antonyms": [
+   "come",
+   "stay",
+   "stop"
+  ],
+  "collocations": [
+   "go home",
+   "go away",
+   "go on",
+   "go out"
+  ],
+  "mnemonic_ar": "كلمة 'Go' شبه 'Goal'.. عشان تجيب 'Goal' لازم 'Go' 'تتحرك' ناحية المرمى."
+ }
+}

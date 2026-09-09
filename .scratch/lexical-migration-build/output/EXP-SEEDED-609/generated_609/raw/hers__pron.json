@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "hers",
+  "pos": "pron",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "hers",
+  "pos": "pron",
+  "cefr": "A2",
+  "definition_en": "Used to refer to a thing or things belonging to or associated with a female person.",
+  "explanation_ar": "ضمير ملكية بيعود عليها هي، يعني حاجة بتاعتها أو 'ملكها'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Used to refer to a thing or things belonging to or associated with a female person.",
+    "explanation_ar": "ضمير ملكية يعود على أنثى، بمعنى ملكها أو يخصها دون الحاجة لتكرار الاسم بعدها.",
+    "examples": [
+     "This bag is hers.",
+     "Is this seat yours or hers?",
+     "A friend of hers told me the news."
+    ]
+   }
+  ],
+  "examples": [
+   "This bag is hers.",
+   "Is this seat yours or hers?",
+   "A friend of hers told me the news."
+  ],
+  "translations": [
+   "مِلْكُها",
+   "لَها",
+   "بتاعتها"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "his",
+    "theirs",
+    "yours"
+   ],
+   "collocations": [
+    "friend of hers",
+    "yours or hers"
+   ]
+  },
+  "mnemonic": "كلمة 'Her' يعني لها، زودنا 's' الملكية بقت 'Hers' يعني 'ملكها'.",
+  "phonetic_us": "hɜːrz",
+  "phonetic_uk": "hɜːz",
+  "syllables": "hers",
+  "semantic_tags": [
+   "Pronouns",
+   "Possession",
+   "People"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to refer to a thing or things belonging to or associated with a female person.",
+  "explanation_ar": "ضمير ملكية بيعود عليها هي، يعني حاجة بتاعتها أو 'ملكها'.",
+  "examples": [
+   "This bag is hers.",
+   "Is this seat yours or hers?",
+   "A friend of hers told me the news."
+  ],
+  "translations": {
+   "arabic_ar": "مِلْكُها لَها بتاعتها"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "his",
+   "theirs",
+   "yours"
+  ],
+  "collocations": [
+   "friend of hers",
+   "yours or hers"
+  ],
+  "mnemonic_ar": "كلمة 'Her' يعني لها، زودنا 's' الملكية بقت 'Hers' يعني 'ملكها'."
+ }
+}

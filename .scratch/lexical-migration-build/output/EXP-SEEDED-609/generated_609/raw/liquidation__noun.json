@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "liquidation",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "liquidation",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "The process of closing a business and selling its assets to pay debts.",
+  "explanation_ar": "تصفية الشركة، يعني بيع كل ممتلكاتها عشان تسدد ديونها وتقفل.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "The process of closing a business and selling its assets to pay debts.",
+    "definition_ar": "تصفية شركة أو أصول مالية وتسويتها لسداد ديونها.",
+    "examples": [
+     "The company went into liquidation last year.",
+     "Creditors demanded the liquidation of the firm's assets.",
+     "Following the scandal, the board voted for the immediate liquidation of the subsidiary."
+    ]
+   }
+  ],
+  "examples": [
+   "The company went into liquidation last year.",
+   "Creditors demanded the liquidation of the firm's assets.",
+   "Following the scandal, the board voted for the immediate liquidation of the subsidiary."
+  ],
+  "translations": [
+   "تصفية"
+  ],
+  "relations": {
+   "synonyms": [
+    "dissolution",
+    "winding up"
+   ],
+   "antonyms": [
+    "founding",
+    "incorporation",
+    "inception"
+   ],
+   "collocations": [
+    "go into liquidation",
+    "forced liquidation",
+    "liquidation sale",
+    "asset liquidation"
+   ]
+  },
+  "mnemonic": "جاية من 'Liquid' 'سائل'.. الـ 'Liquidation' يعني تسييل الأصول 'تحويلها لفلوس كاش'.",
+  "phonetic_us": "ˌlɪkwɪˈdeɪʃn",
+  "phonetic_uk": "ˌlɪkwɪˈdeɪʃn",
+  "syllables": "liq•ui•da•tion",
+  "semantic_tags": [
+   "Business",
+   "Finance",
+   "Bankruptcy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The process of closing a business and selling its assets to pay debts.",
+  "explanation_ar": "تصفية الشركة، يعني بيع كل ممتلكاتها عشان تسدد ديونها وتقفل.",
+  "examples": [
+   "The company went into liquidation last year.",
+   "Creditors demanded the liquidation of the firm's assets.",
+   "Following the scandal, the board voted for the immediate liquidation of the subsidiary."
+  ],
+  "translations": {
+   "arabic_ar": "تصفية"
+  },
+  "synonyms": [
+   "dissolution",
+   "winding up"
+  ],
+  "antonyms": [
+   "founding",
+   "incorporation",
+   "inception"
+  ],
+  "collocations": [
+   "go into liquidation",
+   "forced liquidation",
+   "liquidation sale",
+   "asset liquidation"
+  ],
+  "mnemonic_ar": "جاية من 'Liquid' 'سائل'.. الـ 'Liquidation' يعني تسييل الأصول 'تحويلها لفلوس كاش'."
+ }
+}

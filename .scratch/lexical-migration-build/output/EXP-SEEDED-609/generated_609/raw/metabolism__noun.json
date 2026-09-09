@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "metabolism",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "metabolism",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The chemical processes in a living thing that turn food into energy.",
+  "explanation_ar": "عملية الحرق في الجسم.. إزاي جسمك بيحول الأكل لطاقة عشان تعيش",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The chemical processes in a living thing that turn food into energy.",
+    "definition_ar": "التمثيل الغذائي أو الأيض؛ مجموع العمليات الكيميائية الحيوية التي تحول الطعام إلى طاقة.",
+    "examples": [
+     "He has a very fast metabolism so he doesn't get fat.",
+     "Drinking water can boost your metabolism.",
+     "The drug interferes with the metabolism of certain vitamins."
+    ]
+   }
+  ],
+  "examples": [
+   "He has a very fast metabolism so he doesn't get fat.",
+   "Drinking water can boost your metabolism.",
+   "The drug interferes with the metabolism of certain vitamins."
+  ],
+  "translations": [
+   "التمثيل الغذائي",
+   "الأيض"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "fast metabolism",
+    "slow metabolism",
+    "boost metabolism"
+   ]
+  },
+  "mnemonic": "افتكر 'Metal'.. جسمك بيحرق الأكل زي المكنة الـ 'Metal' عشان يطلع طاقة",
+  "phonetic_us": "məˈtæbəˌlɪzəm",
+  "phonetic_uk": "məˈtæb.əl.ɪ.zəm",
+  "syllables": "me•tab•o•lism",
+  "semantic_tags": [
+   "#Biology",
+   "#Health",
+   "#Energy",
+   "#Body"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The chemical processes in a living thing that turn food into energy.",
+  "explanation_ar": "عملية الحرق في الجسم.. إزاي جسمك بيحول الأكل لطاقة عشان تعيش",
+  "examples": [
+   "He has a very fast metabolism so he doesn't get fat.",
+   "Drinking water can boost your metabolism.",
+   "The drug interferes with the metabolism of certain vitamins."
+  ],
+  "translations": {
+   "arabic_ar": "التمثيل الغذائي الأيض"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "fast metabolism",
+   "slow metabolism",
+   "boost metabolism"
+  ],
+  "mnemonic_ar": "افتكر 'Metal'.. جسمك بيحرق الأكل زي المكنة الـ 'Metal' عشان يطلع طاقة"
+ }
+}

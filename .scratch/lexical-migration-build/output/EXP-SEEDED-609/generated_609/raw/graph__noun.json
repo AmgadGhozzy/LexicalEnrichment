@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "graph",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "graph",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A diagram showing the relationship between different measurements.",
+  "explanation_ar": "رسم بياني يوضح العلاقة بين الأرقام والمعلومات.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A diagram showing the relationship between different measurements.",
+    "explanation_ar": "رسم بياني يوضح العلاقة بين الأرقام والمعلومات."
+   }
+  ],
+  "examples": [
+   "The graph shows our sales this year.",
+   "We plotted the results on a graph.",
+   "The data is represented in a bar graph."
+  ],
+  "translations": [
+   "رسم بياني"
+  ],
+  "relations": {
+   "synonyms": [
+    "chart",
+    "diagram",
+    "plot"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bar graph",
+    "line graph",
+    "draw a graph",
+    "plot a graph"
+   ]
+  },
+  "mnemonic": "جزء من كلمة 'Graphic'.. الـ 'Graph' هو رسم توضيحي.",
+  "phonetic_us": "ɡɹæf",
+  "phonetic_uk": "ɡɹɑːf",
+  "syllables": "graph",
+  "semantic_tags": [
+   "Math",
+   "Data",
+   "Visual",
+   "Statistics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A diagram showing the relationship between different measurements.",
+  "explanation_ar": "رسم بياني يوضح العلاقة بين الأرقام والمعلومات.",
+  "examples": [
+   "The graph shows our sales this year.",
+   "We plotted the results on a graph.",
+   "The data is represented in a bar graph."
+  ],
+  "translations": {
+   "arabic_ar": "رسم بياني"
+  },
+  "synonyms": [
+   "chart",
+   "diagram",
+   "plot"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bar graph",
+   "line graph",
+   "draw a graph",
+   "plot a graph"
+  ],
+  "mnemonic_ar": "جزء من كلمة 'Graphic'.. الـ 'Graph' هو رسم توضيحي."
+ }
+}

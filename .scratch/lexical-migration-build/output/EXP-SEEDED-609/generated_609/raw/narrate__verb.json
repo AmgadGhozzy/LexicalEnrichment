@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "narrate",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "narrate",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To tell a story or describe events.",
+  "explanation_ar": "يحكي قصة أو يسرد أحداثاً بترتيب معين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To tell a story or describe events.",
+    "explanation_ar": "يحكي قصة أو يسرد أحداثاً بترتيب معين."
+   }
+  ],
+  "examples": [
+   "The author chooses to narrate from the child's perspective.",
+   "She was invited to narrate the documentary about marine life.",
+   "He agreed to narrate the audio version of the novel."
+  ],
+  "translations": [
+   "يروي",
+   "يسرد",
+   "يقص"
+  ],
+  "relations": {
+   "synonyms": [
+    "recount",
+    "relate",
+    "tell"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "narrate a story",
+    "narrate events",
+    "narrate an experience"
+   ]
+  },
+  "mnemonic": "الراوي اسمه 'Narrator'.. يبقى الفعل 'Narrate' يعني يقوم بدور الراوي ويحكي.",
+  "phonetic_us": "nəˈreɪt",
+  "phonetic_uk": "ˈnæreɪt",
+  "syllables": "nar•rate",
+  "semantic_tags": [
+   "story",
+   "communication",
+   "literature",
+   "film"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To tell a story or describe events.",
+  "explanation_ar": "يحكي قصة أو يسرد أحداثاً بترتيب معين.",
+  "examples": [
+   "The author chooses to narrate from the child's perspective.",
+   "She was invited to narrate the documentary about marine life.",
+   "He agreed to narrate the audio version of the novel."
+  ],
+  "translations": {
+   "arabic_ar": "يروي يسرد يقص"
+  },
+  "synonyms": [
+   "recount",
+   "relate",
+   "tell"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "narrate a story",
+   "narrate events",
+   "narrate an experience"
+  ],
+  "mnemonic_ar": "الراوي اسمه 'Narrator'.. يبقى الفعل 'Narrate' يعني يقوم بدور الراوي ويحكي."
+ }
+}

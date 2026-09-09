@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "lead",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "lead",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To show the way to a destination by going in front of or beside someone.",
+  "explanation_ar": "تمشي قدام الناس عشان تدلهم على الطريق، أو تكون المسؤول عن مجموعة.",
+  "senses": [
+   {
+    "sense_id": "lead_verb_1",
+    "definition_en": "To show the way to a place by going in front of someone.",
+    "definition_ar": "يقود أو يرشد إلى مكان بالسير في المقدمة.",
+    "examples": [
+     "Can you lead the way to the train station?"
+    ]
+   },
+   {
+    "sense_id": "lead_verb_2",
+    "definition_en": "To be in charge of or manage a group, team, or activity.",
+    "definition_ar": "يقود أو يتولى إدارة فريق أو نشاط.",
+    "examples": [
+     "She will lead the group during the museum tour."
+    ]
+   },
+   {
+    "sense_id": "lead_verb_3",
+    "definition_en": "To result in or cause a particular situation or outcome (lead to).",
+    "definition_ar": "يؤدي إلى نتيجة معينة.",
+    "examples": [
+     "Eating too much sugar can lead to health problems."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you lead the way to the train station?",
+   "She will lead the group during the museum tour.",
+   "Eating too much sugar can lead to health problems."
+  ],
+  "translations": [
+   "يقود",
+   "يرشد",
+   "يؤدي إلى"
+  ],
+  "relations": {
+   "synonyms": [
+    "guide",
+    "direct",
+    "conduct"
+   ],
+   "antonyms": [
+    "follow",
+    "trail"
+   ],
+   "collocations": [
+    "lead the way",
+    "lead to",
+    "lead a life"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "liːd",
+  "phonetic_uk": "liːd",
+  "syllables": "lead",
+  "semantic_tags": [
+   "#Guide",
+   "#Direct",
+   "#Control"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To show the way to a destination by going in front of or beside someone.",
+  "explanation_ar": "تمشي قدام الناس عشان تدلهم على الطريق، أو تكون المسؤول عن مجموعة.",
+  "examples": [
+   "Can you lead the way to the train station?",
+   "She will lead the group during the museum tour.",
+   "Eating too much sugar can lead to health problems."
+  ],
+  "translations": {
+   "arabic_ar": "يقود يرشد يؤدي إلى"
+  },
+  "synonyms": [
+   "guide",
+   "direct",
+   "conduct"
+  ],
+  "antonyms": [
+   "follow",
+   "trail"
+  ],
+  "collocations": [
+   "lead the way",
+   "lead to",
+   "lead a life"
+  ],
+  "mnemonic_ar": null
+ }
+}

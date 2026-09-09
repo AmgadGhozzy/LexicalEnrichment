@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "journal",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "journal",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A book in which you write personal experiences and thoughts, or a serious magazine or newspaper that deals with a particular subject.",
+  "explanation_ar": "دفتر يوميات بتكتب فيه أحداث يومك ومشاعرك، أو مجلة علمية متخصصة بتنشر أبحاث ومقالات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A personal record of experiences, events, and thoughts kept on a regular basis; a diary.",
+    "definition_ar": "دفتر يوميات يُسجَّل فيه الشخص تجاربه وأفكاره اليومية.",
+    "pos": "noun",
+    "cefr": "B1"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A newspaper or magazine that deals with a particular subject, professional activity, or academic field.",
+    "definition_ar": "مجلة أو دورية متخصصة في مجال مهني أو أكاديمي معين.",
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "examples": [
+   "I write in my journal every night.",
+   "He keeps a travel journal to remember his trips.",
+   "The scientist published his findings in a medical journal."
+  ],
+  "translations": [
+   "دفتر يوميات",
+   "مجلة علمية",
+   "دورية"
+  ],
+  "relations": {
+   "synonyms": [
+    "diary",
+    "log",
+    "periodical",
+    "magazine"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "keep a journal",
+    "academic journal",
+    "travel journal",
+    "medical journal"
+   ]
+  },
+  "mnemonic": "كلمة 'Journal' جاية من 'Journey' 'رحلة'.. لأنك بتكتب فيها تفاصيل رحلة حياتك كل يوم.",
+  "phonetic_us": "ˈdʒɜːrnəl",
+  "phonetic_uk": "ˈdʒɜːnəl",
+  "syllables": "jour•nal",
+  "semantic_tags": [
+   "#Writing",
+   "#Media",
+   "#Science",
+   "#Diary"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A book in which you write personal experiences and thoughts, or a serious magazine or newspaper that deals with a particular subject.",
+  "explanation_ar": "دفتر يوميات بتكتب فيه أحداث يومك ومشاعرك، أو مجلة علمية متخصصة بتنشر أبحاث ومقالات.",
+  "examples": [
+   "I write in my journal every night.",
+   "He keeps a travel journal to remember his trips.",
+   "The scientist published his findings in a medical journal."
+  ],
+  "translations": {
+   "arabic_ar": "دفتر يوميات مجلة علمية دورية"
+  },
+  "synonyms": [
+   "diary",
+   "log",
+   "periodical",
+   "magazine"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "keep a journal",
+   "academic journal",
+   "travel journal",
+   "medical journal"
+  ],
+  "mnemonic_ar": "كلمة 'Journal' جاية من 'Journey' 'رحلة'.. لأنك بتكتب فيها تفاصيل رحلة حياتك كل يوم."
+ }
+}

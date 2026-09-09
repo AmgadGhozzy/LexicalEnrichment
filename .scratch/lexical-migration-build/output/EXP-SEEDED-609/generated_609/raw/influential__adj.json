@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "influential",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "influential",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Having great influence on someone or something; powerful and effective.",
+  "explanation_ar": "مؤثر، يعني شخص أو شيء عنده قوة وقدرة إنه يغير في آراء الناس أو الأحداث.",
+  "senses": [
+   {
+    "definition_en": "Having great influence on someone or something; powerful and effective.",
+    "definition_ar": "مؤثر وله نفوذ وقدرة على توجيه الأحداث والآراء.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "She became an influential figure in the company.",
+   "His book was very influential in the 1990s.",
+   "The philosopher's influential treatise changed modern thought."
+  ],
+  "translations": [
+   "مُؤَثِّر",
+   "ذو نُفُوذ"
+  ],
+  "relations": {
+   "synonyms": [
+    "powerful",
+    "authoritative",
+    "dominant"
+   ],
+   "antonyms": [
+    "insignificant",
+    "powerless",
+    "ineffective"
+   ],
+   "collocations": [
+    "highly influential",
+    "influential figure",
+    "influential position",
+    "politically influential"
+   ]
+  },
+  "mnemonic": "جاية من 'Influence' 'تأثير'.. الشخص الـ 'Influential' هو اللي كلمته مسموعة.",
+  "phonetic_us": "ˌɪnfluˈɛnʃəl",
+  "phonetic_uk": "ˌɪnfluˈenʃəl",
+  "syllables": "in•flu•en•tial",
+  "semantic_tags": [
+   "#Power",
+   "#Impact",
+   "#Leadership",
+   "#Status"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Having great influence on someone or something; powerful and effective.",
+  "explanation_ar": "مؤثر، يعني شخص أو شيء عنده قوة وقدرة إنه يغير في آراء الناس أو الأحداث.",
+  "examples": [
+   "She became an influential figure in the company.",
+   "His book was very influential in the 1990s.",
+   "The philosopher's influential treatise changed modern thought."
+  ],
+  "translations": {
+   "arabic_ar": "مُؤَثِّر ذو نُفُوذ"
+  },
+  "synonyms": [
+   "powerful",
+   "authoritative",
+   "dominant"
+  ],
+  "antonyms": [
+   "insignificant",
+   "powerless",
+   "ineffective"
+  ],
+  "collocations": [
+   "highly influential",
+   "influential figure",
+   "influential position",
+   "politically influential"
+  ],
+  "mnemonic_ar": "جاية من 'Influence' 'تأثير'.. الشخص الـ 'Influential' هو اللي كلمته مسموعة."
+ }
+}

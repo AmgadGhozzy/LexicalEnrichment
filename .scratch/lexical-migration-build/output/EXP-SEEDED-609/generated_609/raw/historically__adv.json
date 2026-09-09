@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "historically",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "historically",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "With reference to past events; throughout history or in the past.",
+  "explanation_ar": "تاريخياً؛ يُستخدم للتعبير عن أحداث أو حقائق بالرجوع إلى الماضي أو على مر التاريخ.",
+  "senses": [
+   {
+    "definition_en": "With reference to past events; throughout history or in the past.",
+    "definition_ar": "تاريخياً، بالرجوع إلى أحداث الماضي أو على مر التاريخ.",
+    "examples": [
+     "The region has historically been a center of trade.",
+     "The building is historically significant.",
+     "Interest rates are at a historically low level."
+    ]
+   }
+  ],
+  "examples": [
+   "The region has historically been a center of trade.",
+   "The building is historically significant.",
+   "Interest rates are at a historically low level."
+  ],
+  "translations": [
+   "تاريخياً"
+  ],
+  "relations": {
+   "synonyms": [
+    "traditionally",
+    "formerly"
+   ],
+   "antonyms": [
+    "currently",
+    "presently"
+   ],
+   "collocations": [
+    "historically significant",
+    "historically accurate",
+    "historically low"
+   ]
+  },
+  "mnemonic": "جاية من 'History' (تاريخ).. والمقطع 'ally' بيحولها لظرف يعني 'بشكل تاريخي' أو 'تاريخياً'.",
+  "phonetic_us": "hɪˈstɔːrɪkli",
+  "phonetic_uk": "hɪˈstɒrɪkli",
+  "syllables": "his•tor•i•cal•ly",
+  "semantic_tags": [
+   "Time",
+   "Past",
+   "History"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "With reference to past events; throughout history or in the past.",
+  "explanation_ar": "تاريخياً؛ يُستخدم للتعبير عن أحداث أو حقائق بالرجوع إلى الماضي أو على مر التاريخ.",
+  "examples": [
+   "The region has historically been a center of trade.",
+   "The building is historically significant.",
+   "Interest rates are at a historically low level."
+  ],
+  "translations": {
+   "arabic_ar": "تاريخياً"
+  },
+  "synonyms": [
+   "traditionally",
+   "formerly"
+  ],
+  "antonyms": [
+   "currently",
+   "presently"
+  ],
+  "collocations": [
+   "historically significant",
+   "historically accurate",
+   "historically low"
+  ],
+  "mnemonic_ar": "جاية من 'History' (تاريخ).. والمقطع 'ally' بيحولها لظرف يعني 'بشكل تاريخي' أو 'تاريخياً'."
+ }
+}

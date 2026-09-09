@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "overlap",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "overlap",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Extend over so as to cover partly.",
+  "explanation_ar": "لما حاجتين يغطوا على بعض جزئياً، زي وقت الشغل لما يدخل في وقت الراحة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To extend over and cover part of an adjacent object physically.",
+    "definition_ar": "يتراكب أو يغطي جزءاً من شيء آخر مادياً.",
+    "pos": "verb"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To cover part of the same area of responsibility, interest, or time period.",
+    "definition_ar": "يتداخل أو يشترك في جزء من الوقت أو العمل أو المسؤوليات.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The roof tiles overlap to keep rain out.",
+   "Their responsibilities overlap, causing confusion in the department.",
+   "The historical eras overlap, making precise dating difficult."
+  ],
+  "translations": [
+   "يتداخل",
+   "يتراكب"
+  ],
+  "relations": {
+   "synonyms": [
+    "overlay",
+    "intersect",
+    "coincide"
+   ],
+   "antonyms": [
+    "separate",
+    "diverge"
+   ],
+   "collocations": [
+    "overlap with",
+    "overlap significantly",
+    "overlap each other"
+   ]
+  },
+  "mnemonic": "'Over' فوق + 'Lap' حِجر.. كأن حاجة قعدت على 'Lap' التانية وغطتها.",
+  "phonetic_us": "ˌoʊvərˈlæp",
+  "phonetic_uk": "ˌəʊvəˈlæp",
+  "syllables": "over•lap",
+  "semantic_tags": [
+   "#Position",
+   "#Time",
+   "#Organization"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Extend over so as to cover partly.",
+  "explanation_ar": "لما حاجتين يغطوا على بعض جزئياً، زي وقت الشغل لما يدخل في وقت الراحة.",
+  "examples": [
+   "The roof tiles overlap to keep rain out.",
+   "Their responsibilities overlap, causing confusion in the department.",
+   "The historical eras overlap, making precise dating difficult."
+  ],
+  "translations": {
+   "arabic_ar": "يتداخل يتراكب"
+  },
+  "synonyms": [
+   "overlay",
+   "intersect",
+   "coincide"
+  ],
+  "antonyms": [
+   "separate",
+   "diverge"
+  ],
+  "collocations": [
+   "overlap with",
+   "overlap significantly",
+   "overlap each other"
+  ],
+  "mnemonic_ar": "'Over' فوق + 'Lap' حِجر.. كأن حاجة قعدت على 'Lap' التانية وغطتها."
+ }
+}

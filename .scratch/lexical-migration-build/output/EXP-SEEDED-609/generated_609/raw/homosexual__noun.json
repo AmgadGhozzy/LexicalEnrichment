@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "homosexual",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "homosexual",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who is sexually attracted to people of their own sex.",
+  "explanation_ar": "الشخص المثلي جنسياً؛ وهو من ينجذب عاطفياً وجنسياً لأشخاص من نفس جنسه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "cefr": "C1",
+    "definition_en": "A person who is sexually attracted to people of their own sex.",
+    "definition_ar": "شخص ينجذب عاطفياً وجنسياً لأشخاص من نفس جنسه."
+   }
+  ],
+  "examples": [
+   "He lived openly as a homosexual at a time when society was deeply intolerant.",
+   "The activist was recognized as a prominent homosexual who fought bravely for civil rights.",
+   "The new legislation ensured that no homosexual could be denied housing based on sexual orientation."
+  ],
+  "translations": [
+   "مثلي الجنس"
+  ],
+  "relations": {
+   "synonyms": [
+    "gay"
+   ],
+   "antonyms": [
+    "heterosexual"
+   ],
+   "collocations": [
+    "open homosexual",
+    "closeted homosexual",
+    "practicing homosexual"
+   ]
+  },
+  "mnemonic": "البادئة 'homo-' في اليونانية تعني 'نفس' (same)، و'sexual' تعني جنسي، فالمعنى شخص ينجذب جنسياً لمن هو من نفس جنسه.",
+  "phonetic_us": "ˌhoʊməˈsekʃuəl",
+  "phonetic_uk": "ˌhɒməʊˈseksjuəl",
+  "syllables": "ho•mo•sex•u•al",
+  "semantic_tags": [
+   "#Identity",
+   "#Sexuality",
+   "#Society"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who is sexually attracted to people of their own sex.",
+  "explanation_ar": "الشخص المثلي جنسياً؛ وهو من ينجذب عاطفياً وجنسياً لأشخاص من نفس جنسه.",
+  "examples": [
+   "He lived openly as a homosexual at a time when society was deeply intolerant.",
+   "The activist was recognized as a prominent homosexual who fought bravely for civil rights.",
+   "The new legislation ensured that no homosexual could be denied housing based on sexual orientation."
+  ],
+  "translations": {
+   "arabic_ar": "مثلي الجنس"
+  },
+  "synonyms": [
+   "gay"
+  ],
+  "antonyms": [
+   "heterosexual"
+  ],
+  "collocations": [
+   "open homosexual",
+   "closeted homosexual",
+   "practicing homosexual"
+  ],
+  "mnemonic_ar": "البادئة 'homo-' في اليونانية تعني 'نفس' (same)، و'sexual' تعني جنسي، فالمعنى شخص ينجذب جنسياً لمن هو من نفس جنسه."
+ }
+}

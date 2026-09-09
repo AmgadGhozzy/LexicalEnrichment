@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "forget",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "forget",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To fail to remember something.",
+  "explanation_ar": "ينسى.. لما المعلومة تروح من بالك أو ماتفتكرش تعمل حاجة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To fail to remember information, a fact, or an event, or to fail to bring or do something.",
+    "explanation_ar": "يفشل في تذكر معلومة أو حدث، أو ينسى إحضار أو فعل شيء معين.",
+    "examples": [
+     "Don't forget your keys.",
+     "I will never forget this day.",
+     "Let's forget our differences and work together."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't forget your keys.",
+   "I will never forget this day.",
+   "Let's forget our differences and work together."
+  ],
+  "translations": [
+   "ينسى",
+   "يتناسى"
+  ],
+  "relations": {
+   "synonyms": [
+    "overlook",
+    "neglect",
+    "omit"
+   ],
+   "antonyms": [
+    "remember",
+    "recall",
+    "recollect"
+   ],
+   "collocations": [
+    "don't forget",
+    "never forget",
+    "forget about",
+    "quickly forget"
+   ]
+  },
+  "mnemonic": "عشان 'Get' 'تجيب' المعلومة تاني، لازم ماتعملش 'Forget' 'نسيان'.",
+  "phonetic_us": "fərˈɡɛt",
+  "phonetic_uk": "fəˈɡet",
+  "syllables": "for•get",
+  "semantic_tags": [
+   "Memory",
+   "Mind",
+   "Thinking"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To fail to remember something.",
+  "explanation_ar": "ينسى.. لما المعلومة تروح من بالك أو ماتفتكرش تعمل حاجة.",
+  "examples": [
+   "Don't forget your keys.",
+   "I will never forget this day.",
+   "Let's forget our differences and work together."
+  ],
+  "translations": {
+   "arabic_ar": "ينسى يتناسى"
+  },
+  "synonyms": [
+   "overlook",
+   "neglect",
+   "omit"
+  ],
+  "antonyms": [
+   "remember",
+   "recall",
+   "recollect"
+  ],
+  "collocations": [
+   "don't forget",
+   "never forget",
+   "forget about",
+   "quickly forget"
+  ],
+  "mnemonic_ar": "عشان 'Get' 'تجيب' المعلومة تاني، لازم ماتعملش 'Forget' 'نسيان'."
+ }
+}

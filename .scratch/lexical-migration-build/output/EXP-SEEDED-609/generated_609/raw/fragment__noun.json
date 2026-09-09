@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "fragment",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fragment",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A small part broken or separated off something, or an incomplete piece of something larger.",
+  "explanation_ar": "حتة صغيرة مكسورة أو منفصلة عن حاجة أكبر (زي شظية أو كسرة)، أو جزء غير مكتمل من حاجة زي محادثة أو نص.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A small piece broken or separated off a physical object.",
+    "definition_ar": "شظية أو قطعة مكسورة منفصلة عن جسم صلب أكبر.",
+    "examples": [
+     "She found a sharp glass fragment on the kitchen floor.",
+     "The archaeologist carefully examined the pottery fragment."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A small, incomplete part of something abstract such as a conversation, memory, or text.",
+    "definition_ar": "جزء صغير غير مكتمل من محادثة، أو فكرة، أو نص.",
+    "examples": [
+     "She heard only a fragment of the conversation."
+    ]
+   }
+  ],
+  "examples": [
+   "She found a sharp glass fragment on the kitchen floor.",
+   "She heard only a fragment of the conversation.",
+   "The archaeologist carefully examined the pottery fragment."
+  ],
+  "translations": [
+   "شظية",
+   "كسرة",
+   "جزء غير مكتمل"
+  ],
+  "relations": {
+   "synonyms": [
+    "piece",
+    "shard",
+    "splinter",
+    "bit"
+   ],
+   "antonyms": [
+    "whole",
+    "total"
+   ],
+   "collocations": [
+    "bone fragment",
+    "glass fragment",
+    "pottery fragment",
+    "a fragment of"
+   ]
+  },
+  "mnemonic": "كلمة 'Fragile' (قابل للكسر) لما تقع وتتكسر بتبقى 'Fragments' (شظايا/كسر). الاتنين جايين من نفس المعنى المرتبط بالكسر.",
+  "phonetic_us": "/ˈfræɡmənt/",
+  "phonetic_uk": "/ˈfræɡmənt/",
+  "syllables": "frag•ment",
+  "semantic_tags": [
+   "#Broken",
+   "#Piece",
+   "#Science",
+   "#Archeology"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A small part broken or separated off something, or an incomplete piece of something larger.",
+  "explanation_ar": "حتة صغيرة مكسورة أو منفصلة عن حاجة أكبر (زي شظية أو كسرة)، أو جزء غير مكتمل من حاجة زي محادثة أو نص.",
+  "examples": [
+   "She found a sharp glass fragment on the kitchen floor.",
+   "She heard only a fragment of the conversation.",
+   "The archaeologist carefully examined the pottery fragment."
+  ],
+  "translations": {
+   "arabic_ar": "شظية كسرة جزء غير مكتمل"
+  },
+  "synonyms": [
+   "piece",
+   "shard",
+   "splinter",
+   "bit"
+  ],
+  "antonyms": [
+   "whole",
+   "total"
+  ],
+  "collocations": [
+   "bone fragment",
+   "glass fragment",
+   "pottery fragment",
+   "a fragment of"
+  ],
+  "mnemonic_ar": "كلمة 'Fragile' (قابل للكسر) لما تقع وتتكسر بتبقى 'Fragments' (شظايا/كسر). الاتنين جايين من نفس المعنى المرتبط بالكسر."
+ }
+}

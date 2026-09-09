@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "organism",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "organism",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An individual animal, plant, or single-celled life form.",
+  "explanation_ar": "الكائن الحي، سواء كان إنسان أو حيوان أو نبات أو حتى بكتيريا.",
+  "senses": [
+   {
+    "definition_en": "An individual animal, plant, or single-celled life form.",
+    "explanation_ar": "الكائن الحي، سواء كان إنسان أو حيوان أو نبات أو حتى بكتيريا.",
+    "examples": [
+     "Every living organism needs water to survive.",
+     "An amoeba is a single-celled organism.",
+     "The social structure behaves like a living organism."
+    ]
+   }
+  ],
+  "examples": [
+   "Every living organism needs water to survive.",
+   "An amoeba is a single-celled organism.",
+   "The social structure behaves like a living organism."
+  ],
+  "translations": [
+   "كائن حي",
+   "كائن"
+  ],
+  "relations": {
+   "synonyms": [
+    "living thing",
+    "creature",
+    "being"
+   ],
+   "antonyms": [
+    "inanimate object"
+   ],
+   "collocations": [
+    "living organism",
+    "micro-organism",
+    "single-celled organism",
+    "marine organism"
+   ]
+  },
+  "mnemonic": "جاية من كلمة 'Organ' 'عضو'.. لأن الكائن الحي مكون من أعضاء.",
+  "phonetic_us": "ˈɔːɹ.ɡən.ɪ.zəm",
+  "phonetic_uk": "ˈɔː.ɡən.ɪ.zəm",
+  "syllables": "or•gan•ism",
+  "semantic_tags": [
+   "biology",
+   "life",
+   "science"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An individual animal, plant, or single-celled life form.",
+  "explanation_ar": "الكائن الحي، سواء كان إنسان أو حيوان أو نبات أو حتى بكتيريا.",
+  "examples": [
+   "Every living organism needs water to survive.",
+   "An amoeba is a single-celled organism.",
+   "The social structure behaves like a living organism."
+  ],
+  "translations": {
+   "arabic_ar": "كائن حي كائن"
+  },
+  "synonyms": [
+   "living thing",
+   "creature",
+   "being"
+  ],
+  "antonyms": [
+   "inanimate object"
+  ],
+  "collocations": [
+   "living organism",
+   "micro-organism",
+   "single-celled organism",
+   "marine organism"
+  ],
+  "mnemonic_ar": "جاية من كلمة 'Organ' 'عضو'.. لأن الكائن الحي مكون من أعضاء."
+ }
+}

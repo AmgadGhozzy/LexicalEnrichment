@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "flourish",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To grow or develop in a healthy or vigorous way.",
+  "explanation_ar": "يزدهر وينمو بقوة.. لما مشروع أو زرعة تكبر وتنجح.",
+  "senses": [
+   {
+    "definition_en": "To grow or develop in a healthy or vigorous way.",
+    "explanation_ar": "يزدهر وينمو بقوة ونجاح.",
+    "examples": [
+     "Business is starting to flourish.",
+     "Bacteria flourish in warm, damp environments.",
+     "Plants need adequate sunlight and water to flourish."
+    ]
+   }
+  ],
+  "examples": [
+   "Business is starting to flourish.",
+   "Bacteria flourish in warm, damp environments.",
+   "Plants need adequate sunlight and water to flourish."
+  ],
+  "translations": [
+   "يزدهر",
+   "ينمو بقوة"
+  ],
+  "relations": {
+   "synonyms": [
+    "thrive",
+    "prosper",
+    "bloom"
+   ],
+   "antonyms": [
+    "wither",
+    "decline",
+    "fail"
+   ],
+   "collocations": [
+    "flourish in",
+    "continue to flourish",
+    "begin to flourish"
+   ]
+  },
+  "mnemonic": "زي الـ 'Flower' 'الوردة' لما تفتح وتكبر.. المشروع بيـ 'Flourish'.",
+  "phonetic_us": "ˈflɜːɹɪʃ",
+  "phonetic_uk": "ˈflʌrɪʃ",
+  "syllables": "flour•ish",
+  "semantic_tags": [
+   "#Growth",
+   "#Success",
+   "#Nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To grow or develop in a healthy or vigorous way.",
+  "explanation_ar": "يزدهر وينمو بقوة.. لما مشروع أو زرعة تكبر وتنجح.",
+  "examples": [
+   "Business is starting to flourish.",
+   "Bacteria flourish in warm, damp environments.",
+   "Plants need adequate sunlight and water to flourish."
+  ],
+  "translations": {
+   "arabic_ar": "يزدهر ينمو بقوة"
+  },
+  "synonyms": [
+   "thrive",
+   "prosper",
+   "bloom"
+  ],
+  "antonyms": [
+   "wither",
+   "decline",
+   "fail"
+  ],
+  "collocations": [
+   "flourish in",
+   "continue to flourish",
+   "begin to flourish"
+  ],
+  "mnemonic_ar": "زي الـ 'Flower' 'الوردة' لما تفتح وتكبر.. المشروع بيـ 'Flourish'."
+ }
+}

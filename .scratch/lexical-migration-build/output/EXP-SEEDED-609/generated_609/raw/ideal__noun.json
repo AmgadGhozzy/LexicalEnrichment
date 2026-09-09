@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "ideal",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "ideal",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A standard of perfection; a principle to be aimed at.",
+  "explanation_ar": "المثل الأعلى أو النموذج اللي بنحاول نوصله.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A standard of perfection; a principle to be aimed at.",
+    "explanation_ar": "المثل الأعلى أو النموذج الذي يُسعى لتحقيقه.",
+    "examples": [
+     "He considered justice to be the highest human ideal.",
+     "The small cottage represented her ideal of peaceful country living.",
+     "She worked hard to live up to that moral ideal."
+    ]
+   }
+  ],
+  "examples": [
+   "He considered justice to be the highest human ideal.",
+   "The small cottage represented her ideal of peaceful country living.",
+   "She worked hard to live up to that moral ideal."
+  ],
+  "translations": [
+   "مثل أعلى",
+   "نموذج مثالي"
+  ],
+  "relations": {
+   "synonyms": [
+    "standard",
+    "model",
+    "pattern",
+    "archetype"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "moral ideal",
+    "democratic ideal",
+    "pursuit of an ideal",
+    "live up to an ideal"
+   ]
+  },
+  "mnemonic": "زي الصفة.. الـ 'Ideal' هو النموذج اللي مبني على 'Idea' 'فكرة' الكمال.",
+  "phonetic_us": "aɪˈdiəl",
+  "phonetic_uk": "aɪˈdɪəl",
+  "syllables": "ide•al",
+  "semantic_tags": [
+   "#Values",
+   "#Standards",
+   "#Philosophy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A standard of perfection; a principle to be aimed at.",
+  "explanation_ar": "المثل الأعلى أو النموذج اللي بنحاول نوصله.",
+  "examples": [
+   "He considered justice to be the highest human ideal.",
+   "The small cottage represented her ideal of peaceful country living.",
+   "She worked hard to live up to that moral ideal."
+  ],
+  "translations": {
+   "arabic_ar": "مثل أعلى نموذج مثالي"
+  },
+  "synonyms": [
+   "standard",
+   "model",
+   "pattern",
+   "archetype"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "moral ideal",
+   "democratic ideal",
+   "pursuit of an ideal",
+   "live up to an ideal"
+  ],
+  "mnemonic_ar": "زي الصفة.. الـ 'Ideal' هو النموذج اللي مبني على 'Idea' 'فكرة' الكمال."
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "inflation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "inflation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A general increase in prices and fall in the purchasing value of money.",
+  "explanation_ar": "لما الأسعار بتزيد وقيمة الفلوس بتقل، ده اللي بنسميه التضخم الاقتصادي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A general increase in prices and fall in the purchasing value of money.",
+    "definition_ar": "ارتفاع مستمر في المستوى العام للأسعار يؤدي إلى انخفاض القوة الشرائية للنقود.",
+    "examples": [
+     "The government is trying to control inflation.",
+     "High inflation reduces the value of savings.",
+     "The price went up because of inflation."
+    ]
+   }
+  ],
+  "examples": [
+   "The government is trying to control inflation.",
+   "High inflation reduces the value of savings.",
+   "The price went up because of inflation."
+  ],
+  "translations": [
+   "تَضَخُّم اقْتِصَادِيّ",
+   "تَضَخُّم"
+  ],
+  "relations": {
+   "synonyms": [
+    "price increases"
+   ],
+   "antonyms": [
+    "deflation"
+   ],
+   "collocations": [
+    "rate of inflation",
+    "high inflation",
+    "control inflation",
+    "rising inflation"
+   ]
+  },
+  "mnemonic": "زي ما بتعمل 'Inflate' 'تنفخ' البالونة وتكبر.. الـ 'Inflation' هو إن الأسعار بتكبر وتتضخم.",
+  "phonetic_us": "ɪnˈfleɪʃən",
+  "phonetic_uk": "ɪnˈfleɪʃn",
+  "syllables": "in•fla•tion",
+  "semantic_tags": [
+   "Economics",
+   "Money",
+   "Finance",
+   "Prices"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A general increase in prices and fall in the purchasing value of money.",
+  "explanation_ar": "لما الأسعار بتزيد وقيمة الفلوس بتقل، ده اللي بنسميه التضخم الاقتصادي.",
+  "examples": [
+   "The government is trying to control inflation.",
+   "High inflation reduces the value of savings.",
+   "The price went up because of inflation."
+  ],
+  "translations": {
+   "arabic_ar": "تَضَخُّم اقْتِصَادِيّ تَضَخُّم"
+  },
+  "synonyms": [
+   "price increases"
+  ],
+  "antonyms": [
+   "deflation"
+  ],
+  "collocations": [
+   "rate of inflation",
+   "high inflation",
+   "control inflation",
+   "rising inflation"
+  ],
+  "mnemonic_ar": "زي ما بتعمل 'Inflate' 'تنفخ' البالونة وتكبر.. الـ 'Inflation' هو إن الأسعار بتكبر وتتضخم."
+ }
+}

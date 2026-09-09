@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "origin",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "origin",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The point or place where something begins, arises, or is derived.",
+  "explanation_ar": "أصل الشيء، أو المكان أو النقطة التي يبدأ منها أو ينشأ عنها.",
+  "senses": [
+   {
+    "sense_id": "origin_1",
+    "definition_en": "The point or place where something begins, arises, or is derived.",
+    "definition_ar": "نقطة البداية، المصدر، أو أصل الشيء ونشأته.",
+    "examples": [
+     "What is the origin of this fruit?",
+     "The word has a Latin origin.",
+     "They studied the origin of the universe."
+    ]
+   }
+  ],
+  "examples": [
+   "What is the origin of this fruit?",
+   "The word has a Latin origin.",
+   "They studied the origin of the universe."
+  ],
+  "translations": [
+   "أصل",
+   "منشأ",
+   "مصدر"
+  ],
+  "relations": {
+   "synonyms": [
+    "source",
+    "root",
+    "beginning",
+    "genesis",
+    "derivation"
+   ],
+   "antonyms": [
+    "end",
+    "conclusion",
+    "destination"
+   ],
+   "collocations": [
+    "country of origin",
+    "humble origin",
+    "common origin",
+    "point of origin"
+   ],
+   "word_family": {
+    "noun": "origin",
+    "verb": "originate",
+    "adjective": "original",
+    "adverb": "originally"
+   }
+  },
+  "mnemonic": "جاية من 'Original' 'أصلي'.. فالـ 'Origin' هو الأصل.",
+  "phonetic_us": "ˈɔːr.ə.dʒɪn",
+  "phonetic_uk": "ˈɒrɪdʒɪn",
+  "syllables": "or•i•gin",
+  "semantic_tags": [
+   "Source",
+   "History",
+   "Beginning"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The point or place where something begins, arises, or is derived.",
+  "explanation_ar": "أصل الشيء، أو المكان أو النقطة التي يبدأ منها أو ينشأ عنها.",
+  "examples": [
+   "What is the origin of this fruit?",
+   "The word has a Latin origin.",
+   "They studied the origin of the universe."
+  ],
+  "translations": {
+   "arabic_ar": "أصل منشأ مصدر"
+  },
+  "synonyms": [
+   "source",
+   "root",
+   "beginning",
+   "genesis",
+   "derivation"
+  ],
+  "antonyms": [
+   "end",
+   "conclusion",
+   "destination"
+  ],
+  "collocations": [
+   "country of origin",
+   "humble origin",
+   "common origin",
+   "point of origin"
+  ],
+  "mnemonic_ar": "جاية من 'Original' 'أصلي'.. فالـ 'Origin' هو الأصل."
+ }
+}

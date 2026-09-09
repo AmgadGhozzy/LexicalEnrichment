@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "goodness",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "goodness",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The quality of being morally good.",
+  "explanation_ar": "الطيبة والخير اللي في الشخص، أو الجودة اللي في الشيء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The quality of being morally good, kind, or virtuous.",
+    "definition_ar": "الطيبة أو الصلاح أو الخير في الإنسان.",
+    "examples": [
+     "I trust in his goodness.",
+     "She did it out of the goodness of her heart."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The beneficial or nutritious element of something, especially food.",
+    "definition_ar": "الفائدة أو القيمة الغذائية في الشيء.",
+    "examples": [
+     "The vegetables are full of natural goodness."
+    ]
+   }
+  ],
+  "examples": [
+   "I trust in his goodness.",
+   "The vegetables are full of natural goodness.",
+   "She did it out of the goodness of her heart."
+  ],
+  "translations": [
+   "الخير",
+   "الصلاح",
+   "الطيبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "virtue",
+    "kindness",
+    "integrity",
+    "decency"
+   ],
+   "antonyms": [
+    "badness",
+    "evil",
+    "wickedness"
+   ],
+   "collocations": [
+    "oh my goodness",
+    "goodness of heart",
+    "natural goodness",
+    "thank goodness"
+   ]
+  },
+  "mnemonic": "جاية من 'Good'.. الـ 'Goodness' هو الخير نفسه.",
+  "phonetic_us": "ˈɡʊdnəs",
+  "phonetic_uk": "ˈɡʊdnɪs",
+  "syllables": "good•ness",
+  "semantic_tags": [
+   "#Morality",
+   "#Quality",
+   "#Exclamation",
+   "#Virtue"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The quality of being morally good.",
+  "explanation_ar": "الطيبة والخير اللي في الشخص، أو الجودة اللي في الشيء.",
+  "examples": [
+   "I trust in his goodness.",
+   "The vegetables are full of natural goodness.",
+   "She did it out of the goodness of her heart."
+  ],
+  "translations": {
+   "arabic_ar": "الخير الصلاح الطيبة"
+  },
+  "synonyms": [
+   "virtue",
+   "kindness",
+   "integrity",
+   "decency"
+  ],
+  "antonyms": [
+   "badness",
+   "evil",
+   "wickedness"
+  ],
+  "collocations": [
+   "oh my goodness",
+   "goodness of heart",
+   "natural goodness",
+   "thank goodness"
+  ],
+  "mnemonic_ar": "جاية من 'Good'.. الـ 'Goodness' هو الخير نفسه."
+ }
+}

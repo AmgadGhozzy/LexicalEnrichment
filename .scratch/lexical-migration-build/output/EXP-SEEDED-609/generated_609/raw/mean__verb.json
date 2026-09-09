@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "mean",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "mean",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To intend to convey, indicate, or refer to a particular thing.",
+  "explanation_ar": "يعني أو يقصد حاجة معينة لما يتكلم.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To express, signify, or indicate a particular idea or thing.",
+    "explanation_ar": "يدل على أو يعبر عن معنى محدد.",
+    "examples": [
+     "What does this word mean?",
+     "I know what you mean."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To intend or have something in mind as a purpose.",
+    "explanation_ar": "يقصد أو ينوي فعل شيء معين.",
+    "examples": [
+     "I didn't mean to hurt you."
+    ]
+   }
+  ],
+  "examples": [
+   "What does this word mean?",
+   "I didn't mean to hurt you.",
+   "I know what you mean."
+  ],
+  "translations": [
+   "يَعْني",
+   "يَقْصِد"
+  ],
+  "relations": {
+   "synonyms": [
+    "signify",
+    "intend",
+    "imply"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "mean to say",
+    "mean business",
+    "mean well",
+    "what do you mean"
+   ],
+   "word_family": {
+    "verb": "mean",
+    "noun": "meaning",
+    "adj": "meaningful",
+    "adv": "meaningfully"
+   },
+   "related_words": {
+    "ar": [
+     "معنى",
+     "ذو معنى",
+     "نية"
+    ],
+    "en": [
+     "meaning",
+     "meaningful",
+     "intent"
+    ]
+   }
+  },
+  "mnemonic": "كلمة 'Mean' قريبة من 'Meaning' 'معنى'.. لما تسأل عن الـ 'Meaning' بتقول 'What does it mean?'.",
+  "phonetic_us": "miːn",
+  "phonetic_uk": "miːn",
+  "syllables": null,
+  "semantic_tags": [
+   "#Intent",
+   "#Definition",
+   "#Understanding"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To intend to convey, indicate, or refer to a particular thing.",
+  "explanation_ar": "يعني أو يقصد حاجة معينة لما يتكلم.",
+  "examples": [
+   "What does this word mean?",
+   "I didn't mean to hurt you.",
+   "I know what you mean."
+  ],
+  "translations": {
+   "arabic_ar": "يَعْني يَقْصِد"
+  },
+  "synonyms": [
+   "signify",
+   "intend",
+   "imply"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "mean to say",
+   "mean business",
+   "mean well",
+   "what do you mean"
+  ],
+  "mnemonic_ar": "كلمة 'Mean' قريبة من 'Meaning' 'معنى'.. لما تسأل عن الـ 'Meaning' بتقول 'What does it mean?'."
+ }
+}

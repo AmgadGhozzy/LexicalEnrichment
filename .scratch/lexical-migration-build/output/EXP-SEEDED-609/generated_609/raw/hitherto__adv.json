@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "hitherto",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "hitherto",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "Until now or until the point in time under discussion.",
+  "explanation_ar": "كلمة رسمية تعني «حتى الآن» أو «إلى هذه اللحظة»، وتُستخدم غالبًا في السياقات الأكاديمية والرسمية للإشارة إلى حالة كانت مستمرة حتى وقت محدد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Until now or until the point in time under discussion.",
+    "definition_ar": "حتى الآن أو حتى ذلك الوقت المشار إليه.",
+    "pos": "adv",
+    "cefr": "C2"
+   }
+  ],
+  "examples": [
+   "The area was hitherto unknown to tourists.",
+   "We need to tackle problems that have hitherto been ignored.",
+   "The company has hitherto managed to avoid any major scandals."
+  ],
+  "translations": [
+   "حتى الآن",
+   "إلى هذا الحد",
+   "حتى ذلك الحين"
+  ],
+  "relations": {
+   "synonyms": [
+    "previously",
+    "heretofore",
+    "until now",
+    "so far"
+   ],
+   "antonyms": [
+    "henceforth",
+    "hereafter",
+    "from now on"
+   ],
+   "collocations": [
+    "hitherto unknown",
+    "hitherto neglected",
+    "hitherto impossible"
+   ]
+  },
+  "mnemonic": "قسّم الكلمة إلى جزأين: 'Hither' (إلى هنا) + 'To' (حتى)؛ أي حرفيًا «حتى هنا»، والمقصود بها «حتى هذه اللحظة أو النقطة الزمنية».",
+  "phonetic_us": "/ˌhɪð.ɚˈtuː/",
+  "phonetic_uk": "/ˌhɪð.əˈtuː/",
+  "syllables": "hith•er•to",
+  "semantic_tags": [
+   "#Time",
+   "#Formal",
+   "#Past"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Until now or until the point in time under discussion.",
+  "explanation_ar": "كلمة رسمية تعني «حتى الآن» أو «إلى هذه اللحظة»، وتُستخدم غالبًا في السياقات الأكاديمية والرسمية للإشارة إلى حالة كانت مستمرة حتى وقت محدد.",
+  "examples": [
+   "The area was hitherto unknown to tourists.",
+   "We need to tackle problems that have hitherto been ignored.",
+   "The company has hitherto managed to avoid any major scandals."
+  ],
+  "translations": {
+   "arabic_ar": "حتى الآن إلى هذا الحد حتى ذلك الحين"
+  },
+  "synonyms": [
+   "previously",
+   "heretofore",
+   "until now",
+   "so far"
+  ],
+  "antonyms": [
+   "henceforth",
+   "hereafter",
+   "from now on"
+  ],
+  "collocations": [
+   "hitherto unknown",
+   "hitherto neglected",
+   "hitherto impossible"
+  ],
+  "mnemonic_ar": "قسّم الكلمة إلى جزأين: 'Hither' (إلى هنا) + 'To' (حتى)؛ أي حرفيًا «حتى هنا»، والمقصود بها «حتى هذه اللحظة أو النقطة الزمنية»."
+ }
+}

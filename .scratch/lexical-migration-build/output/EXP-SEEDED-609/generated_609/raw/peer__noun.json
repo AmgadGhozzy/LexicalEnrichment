@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "peer",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "peer",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who is the same age or has the same social position or abilities as you.",
+  "explanation_ar": "الشخص اللي زيك بالظبط، سواء في السن أو المقام أو الشغل. يعني زميلك أو نظيرك.",
+  "senses": [
+   {
+    "definition_en": "A person who is the same age or has the same social position or abilities as you.",
+    "definition_ar": "نظير أو قرين أو شخص مساوٍ في السن أو المكانة الاجتماعية أو القدرات.",
+    "examples": [
+     "He is considered an intellectual peer by the top researchers in his field.",
+     "She found it easier to discuss her problems with a peer rather than an adult.",
+     "Each new employee is paired with an experienced peer who can offer advice and support."
+    ]
+   }
+  ],
+  "examples": [
+   "He is considered an intellectual peer by the top researchers in his field.",
+   "She found it easier to discuss her problems with a peer rather than an adult.",
+   "Each new employee is paired with an experienced peer who can offer advice and support."
+  ],
+  "translations": [
+   "نظير",
+   "ند",
+   "قرين"
+  ],
+  "relations": {
+   "synonyms": [
+    "equal",
+    "fellow",
+    "contemporary",
+    "match"
+   ],
+   "antonyms": [
+    "superior",
+    "subordinate"
+   ],
+   "collocations": [
+    "peer pressure",
+    "peer review",
+    "peer group"
+   ]
+  },
+  "mnemonic": "كلمة 'Peer' قريبة من 'Pair' 'زوج'.. يعني انتوا اتنين زي بعض بالظبط.",
+  "phonetic_us": "pɪr",
+  "phonetic_uk": "pɪə",
+  "syllables": [
+   "peer"
+  ],
+  "semantic_tags": [
+   "#Social",
+   "#Equality",
+   "#Group"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who is the same age or has the same social position or abilities as you.",
+  "explanation_ar": "الشخص اللي زيك بالظبط، سواء في السن أو المقام أو الشغل. يعني زميلك أو نظيرك.",
+  "examples": [
+   "He is considered an intellectual peer by the top researchers in his field.",
+   "She found it easier to discuss her problems with a peer rather than an adult.",
+   "Each new employee is paired with an experienced peer who can offer advice and support."
+  ],
+  "translations": {
+   "arabic_ar": "نظير ند قرين"
+  },
+  "synonyms": [
+   "equal",
+   "fellow",
+   "contemporary",
+   "match"
+  ],
+  "antonyms": [
+   "superior",
+   "subordinate"
+  ],
+  "collocations": [
+   "peer pressure",
+   "peer review",
+   "peer group"
+  ],
+  "mnemonic_ar": "كلمة 'Peer' قريبة من 'Pair' 'زوج'.. يعني انتوا اتنين زي بعض بالظبط."
+ }
+}

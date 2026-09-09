@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "fundamentally",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fundamentally",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a central or primary respect; essentially.",
+  "explanation_ar": "بشكل أساسي وجوهري، يعني في أصل الموضوع مش في القشور.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In a central or primary respect; essentially.",
+    "definition_ar": "بشكل أساسي وجوهري في أصل الأمر.",
+    "examples": [
+     "We are fundamentally different.",
+     "The system is fundamentally sound.",
+     "I fundamentally agree with your approach."
+    ]
+   }
+  ],
+  "examples": [
+   "We are fundamentally different.",
+   "The system is fundamentally sound.",
+   "I fundamentally agree with your approach."
+  ],
+  "translations": [
+   "بشكل أساسي",
+   "جوهريًا"
+  ],
+  "relations": {
+   "synonyms": [
+    "essentially",
+    "basically",
+    "primarily"
+   ],
+   "antonyms": [
+    "superficially"
+   ],
+   "collocations": [
+    "fundamentally different",
+    "fundamentally flawed",
+    "fundamentally change",
+    "differ fundamentally"
+   ]
+  },
+  "mnemonic": "جاية من 'Fund' 'أساس' أو 'Fundamental'.. الأساس اللي بيتبني عليه كل حاجة.",
+  "phonetic_us": "ˌfʌndəˈmɛntəli",
+  "phonetic_uk": "ˌfʌndəˈmentəlɪ",
+  "syllables": "fun•da•men•tal•ly",
+  "semantic_tags": [
+   "Core",
+   "Logic",
+   "Emphasis"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a central or primary respect; essentially.",
+  "explanation_ar": "بشكل أساسي وجوهري، يعني في أصل الموضوع مش في القشور.",
+  "examples": [
+   "We are fundamentally different.",
+   "The system is fundamentally sound.",
+   "I fundamentally agree with your approach."
+  ],
+  "translations": {
+   "arabic_ar": "بشكل أساسي جوهريًا"
+  },
+  "synonyms": [
+   "essentially",
+   "basically",
+   "primarily"
+  ],
+  "antonyms": [
+   "superficially"
+  ],
+  "collocations": [
+   "fundamentally different",
+   "fundamentally flawed",
+   "fundamentally change",
+   "differ fundamentally"
+  ],
+  "mnemonic_ar": "جاية من 'Fund' 'أساس' أو 'Fundamental'.. الأساس اللي بيتبني عليه كل حاجة."
+ }
+}

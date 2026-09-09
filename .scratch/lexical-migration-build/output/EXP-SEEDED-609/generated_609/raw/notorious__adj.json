@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "notorious",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "notorious",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Famous or well known, typically for some bad quality or deed.",
+  "explanation_ar": "شخص أو مكان مشهور ومعروف، بس بحاجه وحشة أو سمعة مش تمام.",
+  "senses": [
+   {
+    "definition_en": "Famous or well known, typically for some bad quality or deed.",
+    "explanation_ar": "مشهور ومعروف بصفة سيئة أو سمعة غير طيبة.",
+    "examples": [
+     "The city is notorious for its traffic jams.",
+     "He was a notorious criminal in the area.",
+     "The company is notorious for paying low wages."
+    ]
+   }
+  ],
+  "examples": [
+   "The city is notorious for its traffic jams.",
+   "He was a notorious criminal in the area.",
+   "The company is notorious for paying low wages."
+  ],
+  "translations": [
+   "سيئ السمعة",
+   "سيئة السمعة"
+  ],
+  "relations": {
+   "synonyms": [
+    "infamous",
+    "disreputable",
+    "scandalous"
+   ],
+   "antonyms": [
+    "reputable",
+    "honorable",
+    "unknown"
+   ],
+   "collocations": [
+    "notorious criminal",
+    "notorious for",
+    "become notorious"
+   ]
+  },
+  "mnemonic": "عكس 'Glorious' مجيد.. هو مشهور بس بـ 'Notes' وملاحظات سلبية في ملفه.",
+  "phonetic_us": "noʊˈtɔːriəs",
+  "phonetic_uk": "nəʊˈtɔːriəs",
+  "syllables": "no•to•ri•ous",
+  "semantic_tags": [
+   "reputation",
+   "fame",
+   "crime"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Famous or well known, typically for some bad quality or deed.",
+  "explanation_ar": "شخص أو مكان مشهور ومعروف، بس بحاجه وحشة أو سمعة مش تمام.",
+  "examples": [
+   "The city is notorious for its traffic jams.",
+   "He was a notorious criminal in the area.",
+   "The company is notorious for paying low wages."
+  ],
+  "translations": {
+   "arabic_ar": "سيئ السمعة سيئة السمعة"
+  },
+  "synonyms": [
+   "infamous",
+   "disreputable",
+   "scandalous"
+  ],
+  "antonyms": [
+   "reputable",
+   "honorable",
+   "unknown"
+  ],
+  "collocations": [
+   "notorious criminal",
+   "notorious for",
+   "become notorious"
+  ],
+  "mnemonic_ar": "عكس 'Glorious' مجيد.. هو مشهور بس بـ 'Notes' وملاحظات سلبية في ملفه."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "navy",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "navy",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The branch of a nation's armed services that conducts military operations at sea.",
+  "explanation_ar": "القوات البحرية، الجيش اللي بيحارب في البحر بالسفن والغواصات.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The branch of a nation's armed services that conducts military operations at sea.",
+    "definition_ar": "القوات البحرية؛ فرع القوات المسلحة المسؤول عن العمليات العسكرية والدفاع في البحر.",
+    "examples": [
+     "He decided to join the navy after finishing his studies.",
+     "My grandfather served in the navy during the war.",
+     "The government announced cuts to the navy budget."
+    ]
+   }
+  ],
+  "examples": [
+   "He decided to join the navy after finishing his studies.",
+   "My grandfather served in the navy during the war.",
+   "The government announced cuts to the navy budget."
+  ],
+  "translations": [
+   "البحرية",
+   "سلاح البحرية",
+   "القوات البحرية"
+  ],
+  "relations": {
+   "synonyms": [
+    "naval forces",
+    "fleet",
+    "armada"
+   ],
+   "antonyms": [
+    "army",
+    "air force"
+   ],
+   "collocations": [
+    "join the navy",
+    "navy seal",
+    "merchant navy",
+    "navy base"
+   ]
+  },
+  "mnemonic": "جاية من 'Navigate' يعني يُبحر.. الـ 'Navy' هي القوة اللي بتتحكم في البحر.",
+  "phonetic_us": "ˈneɪ.vi",
+  "phonetic_uk": "ˈneɪ.vi",
+  "syllables": "na-vy",
+  "semantic_tags": [
+   "Military",
+   "Sea",
+   "Ships",
+   "Government"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The branch of a nation's armed services that conducts military operations at sea.",
+  "explanation_ar": "القوات البحرية، الجيش اللي بيحارب في البحر بالسفن والغواصات.",
+  "examples": [
+   "He decided to join the navy after finishing his studies.",
+   "My grandfather served in the navy during the war.",
+   "The government announced cuts to the navy budget."
+  ],
+  "translations": {
+   "arabic_ar": "البحرية سلاح البحرية القوات البحرية"
+  },
+  "synonyms": [
+   "naval forces",
+   "fleet",
+   "armada"
+  ],
+  "antonyms": [
+   "army",
+   "air force"
+  ],
+  "collocations": [
+   "join the navy",
+   "navy seal",
+   "merchant navy",
+   "navy base"
+  ],
+  "mnemonic_ar": "جاية من 'Navigate' يعني يُبحر.. الـ 'Navy' هي القوة اللي بتتحكم في البحر."
+ }
+}

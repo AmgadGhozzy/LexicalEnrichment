@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "incline",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "incline",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A slope, especially on a road or railway.",
+  "explanation_ar": "منحدر أو مطلع، طريق مايل طالع أو نازل.",
+  "senses": [
+   {
+    "definition_en": "A slope, especially on a road or railway.",
+    "explanation_ar": "منحدر أو مطلع، طريق مايل طالع أو نازل.",
+    "examples": [
+     "The road has a slight incline.",
+     "We walked up a steep incline.",
+     "The railway was built on a dangerous incline."
+    ]
+   }
+  ],
+  "examples": [
+   "The road has a slight incline.",
+   "We walked up a steep incline.",
+   "The railway was built on a dangerous incline."
+  ],
+  "translations": [
+   "مُنْحَدَر",
+   "مَطْلَع"
+  ],
+  "relations": {
+   "synonyms": [
+    "slope",
+    "gradient",
+    "slant"
+   ],
+   "antonyms": [
+    "flat",
+    "level"
+   ],
+   "collocations": [
+    "steep incline",
+    "slight incline",
+    "sharp incline"
+   ]
+  },
+  "mnemonic": "الفعل 'Incline' يعني يميل.. فالاسم هو الميل أو المنحدر نفسه.",
+  "phonetic_us": "ˈɪnklaɪn",
+  "phonetic_uk": "ˈɪnklaɪn",
+  "syllables": "in•cline",
+  "semantic_tags": [
+   "#Slope",
+   "#Road",
+   "#Angle"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A slope, especially on a road or railway.",
+  "explanation_ar": "منحدر أو مطلع، طريق مايل طالع أو نازل.",
+  "examples": [
+   "The road has a slight incline.",
+   "We walked up a steep incline.",
+   "The railway was built on a dangerous incline."
+  ],
+  "translations": {
+   "arabic_ar": "مُنْحَدَر مَطْلَع"
+  },
+  "synonyms": [
+   "slope",
+   "gradient",
+   "slant"
+  ],
+  "antonyms": [
+   "flat",
+   "level"
+  ],
+  "collocations": [
+   "steep incline",
+   "slight incline",
+   "sharp incline"
+  ],
+  "mnemonic_ar": "الفعل 'Incline' يعني يميل.. فالاسم هو الميل أو المنحدر نفسه."
+ }
+}

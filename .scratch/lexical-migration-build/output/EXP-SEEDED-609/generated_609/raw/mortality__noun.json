@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "mortality",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "mortality",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state of being subject to death; the number of deaths in a given time or group.",
+  "explanation_ar": "كون الإنسان بيموت (الفناء)، أو عدد ونسبة الوفيات في مكان أو فترة معينة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The condition of being mortal and subject to death.",
+    "explanation_ar": "الفناء أو حتمية الموت للكائنات الحية.",
+    "translations": [
+     "فناء",
+     "حتمية الموت"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The number of deaths in a particular situation, group, or period of time.",
+    "explanation_ar": "معدل أو نسبة الوفيات.",
+    "translations": [
+     "وفيات",
+     "معدل الوفيات"
+    ]
+   }
+  ],
+  "examples": [
+   "We all have to face our own mortality one day.",
+   "Infant mortality has decreased significantly over the past decade.",
+   "The hospital reported a sudden rise in mortality among elderly patients."
+  ],
+  "translations": [
+   "فناء",
+   "وفيات",
+   "حتمية الموت"
+  ],
+  "relations": {
+   "synonyms": [
+    "death",
+    "fatality",
+    "impermanence",
+    "transience"
+   ],
+   "antonyms": [
+    "immortality"
+   ],
+   "collocations": [
+    "mortality rate",
+    "infant mortality",
+    "maternal mortality",
+    "face mortality"
+   ],
+   "word_family": {
+    "noun": "mortality",
+    "adjective": "mortal",
+    "adverb": "mortally"
+   }
+  },
+  "mnemonic": "جاية من 'Mortal' يعني 'فانٍ'.. وكلمة 'Murder' 'قتل' قريبة منها في الصوت.. كله ليه علاقة بالموت.",
+  "phonetic_us": "mɔɹˈtælɪti",
+  "phonetic_uk": "mɔːˈtælɪti",
+  "syllables": "mor•tal•i•ty",
+  "semantic_tags": [
+   "#Death",
+   "#Statistics",
+   "#Health",
+   "#Life"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of being subject to death; the number of deaths in a given time or group.",
+  "explanation_ar": "كون الإنسان بيموت (الفناء)، أو عدد ونسبة الوفيات في مكان أو فترة معينة.",
+  "examples": [
+   "We all have to face our own mortality one day.",
+   "Infant mortality has decreased significantly over the past decade.",
+   "The hospital reported a sudden rise in mortality among elderly patients."
+  ],
+  "translations": {
+   "arabic_ar": "فناء وفيات حتمية الموت"
+  },
+  "synonyms": [
+   "death",
+   "fatality",
+   "impermanence",
+   "transience"
+  ],
+  "antonyms": [
+   "immortality"
+  ],
+  "collocations": [
+   "mortality rate",
+   "infant mortality",
+   "maternal mortality",
+   "face mortality"
+  ],
+  "mnemonic_ar": "جاية من 'Mortal' يعني 'فانٍ'.. وكلمة 'Murder' 'قتل' قريبة منها في الصوت.. كله ليه علاقة بالموت."
+ }
+}

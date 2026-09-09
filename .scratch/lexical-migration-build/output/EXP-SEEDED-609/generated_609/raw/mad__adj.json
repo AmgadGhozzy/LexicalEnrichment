@@ -1,0 +1,115 @@
+{
+ "identity": {
+  "lemma": "mad",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "mad",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Mentally ill; very angry; or extremely enthusiastic.",
+  "explanation_ar": "مجنون أو فاقد لصوابه، وفي الإنجليزية الأمريكية تأتي كثيراً بمعنى غاضب جداً، وتُستعمل أيضاً للتعبير عن شدة الشغف أو الهوس بشيء ما.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Very angry or annoyed.",
+    "definition_ar": "غاضب جداً أو مستاء.",
+    "examples": [
+     "He is mad at me."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Mentally ill, insane, or extremely foolish.",
+    "definition_ar": "مجنون أو فاقد للعقل أو طائش.",
+    "examples": [
+     "Are you mad?"
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "Extremely enthusiastic or passionate about something.",
+    "definition_ar": "مهووس أو شديد التعلق بشيء ما.",
+    "examples": [
+     "She is mad about football."
+    ]
+   }
+  ],
+  "examples": [
+   "He is mad at me.",
+   "Are you mad?",
+   "She is mad about football."
+  ],
+  "translations": [
+   "مجنون",
+   "غاضب",
+   "مهووس"
+  ],
+  "relations": {
+   "synonyms": [
+    "angry",
+    "crazy",
+    "furious",
+    "insane"
+   ],
+   "antonyms": [
+    "calm",
+    "sane"
+   ],
+   "collocations": [
+    "go mad",
+    "drive someone mad",
+    "mad about",
+    "mad at"
+   ],
+   "word_family": {
+    "adj": "mad",
+    "adv": "madly",
+    "noun": "madness",
+    "verb": "madden"
+   }
+  },
+  "mnemonic": "كلمة 'Mad' يعني مجنون.. قريبة من 'Bad'.. لما حد يبقى 'Mad' مزاجه بيبقى 'Bad'.",
+  "phonetic_us": "mæd",
+  "phonetic_uk": "mæd",
+  "syllables": [
+   "mad"
+  ],
+  "semantic_tags": [
+   "#Anger",
+   "#MentalHealth",
+   "#Emotions"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Mentally ill; very angry; or extremely enthusiastic.",
+  "explanation_ar": "مجنون أو فاقد لصوابه، وفي الإنجليزية الأمريكية تأتي كثيراً بمعنى غاضب جداً، وتُستعمل أيضاً للتعبير عن شدة الشغف أو الهوس بشيء ما.",
+  "examples": [
+   "He is mad at me.",
+   "Are you mad?",
+   "She is mad about football."
+  ],
+  "translations": {
+   "arabic_ar": "مجنون غاضب مهووس"
+  },
+  "synonyms": [
+   "angry",
+   "crazy",
+   "furious",
+   "insane"
+  ],
+  "antonyms": [
+   "calm",
+   "sane"
+  ],
+  "collocations": [
+   "go mad",
+   "drive someone mad",
+   "mad about",
+   "mad at"
+  ],
+  "mnemonic_ar": "كلمة 'Mad' يعني مجنون.. قريبة من 'Bad'.. لما حد يبقى 'Mad' مزاجه بيبقى 'Bad'."
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "fisherman",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "fisherman",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who catches fish for a living or for sport.",
+  "explanation_ar": "الشخص اللي بيصطاد سمك، سواء كشغلانة أو هواية.",
+  "senses": [
+   {
+    "sense_id": "fisherman-noun-1",
+    "definition_en": "A person who catches fish for a living or for sport.",
+    "definition_ar": "شخص يصطاد السمك كمهنة أو هواية أو رياضة.",
+    "examples": [
+     "The fisherman caught a big fish.",
+     "The fisherman went out to sea early in the morning.",
+     "The old fisherman mended his nets."
+    ]
+   }
+  ],
+  "examples": [
+   "The fisherman caught a big fish.",
+   "The fisherman went out to sea early in the morning.",
+   "The old fisherman mended his nets."
+  ],
+  "translations": [
+   "صياد سمك",
+   "صياد"
+  ],
+  "relations": {
+   "synonyms": [
+    "angler",
+    "fisher"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "local fisherman",
+    "commercial fisherman",
+    "fisherman's knot"
+   ]
+  },
+  "mnemonic": "'Fish' 'سمك' + 'Man' 'رجل'.. رجل السمك 'الصياد'.",
+  "phonetic_us": "ˈfɪʃɚmən",
+  "phonetic_uk": "ˈfɪʃəmən",
+  "syllables": "fish•er•man",
+  "semantic_tags": [
+   "Job",
+   "Sea",
+   "Fish"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who catches fish for a living or for sport.",
+  "explanation_ar": "الشخص اللي بيصطاد سمك، سواء كشغلانة أو هواية.",
+  "examples": [
+   "The fisherman caught a big fish.",
+   "The fisherman went out to sea early in the morning.",
+   "The old fisherman mended his nets."
+  ],
+  "translations": {
+   "arabic_ar": "صياد سمك صياد"
+  },
+  "synonyms": [
+   "angler",
+   "fisher"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "local fisherman",
+   "commercial fisherman",
+   "fisherman's knot"
+  ],
+  "mnemonic_ar": "'Fish' 'سمك' + 'Man' 'رجل'.. رجل السمك 'الصياد'."
+ }
+}

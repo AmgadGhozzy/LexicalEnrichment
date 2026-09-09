@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "modify",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "modify",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To change something slightly, usually to improve it.",
+  "explanation_ar": "تغير حاجة تغيير بسيط عشان تحسنها أو تخليها مناسبة أكتر.",
+  "senses": [
+   {
+    "definition_en": "To change something slightly, usually to improve it.",
+    "definition_ar": "أن تُغيّر شيئاً تغييراً طفيفاً بهدف تحسينه أو ملاءمته للغرض المطلوب.",
+    "examples": [
+     "Please modify the text before submitting it.",
+     "We need to modify the design to make it safer.",
+     "You may need to modify your diet to stay healthy."
+    ]
+   }
+  ],
+  "examples": [
+   "Please modify the text before submitting it.",
+   "We need to modify the design to make it safer.",
+   "You may need to modify your diet to stay healthy."
+  ],
+  "translations": [
+   "يُعَدِّل",
+   "يُغيّر جزئياً"
+  ],
+  "relations": {
+   "synonyms": [
+    "alter",
+    "adjust",
+    "adapt",
+    "revise"
+   ],
+   "antonyms": [
+    "preserve",
+    "keep",
+    "maintain"
+   ],
+   "collocations": [
+    "modify behavior",
+    "modify a plan",
+    "slightly modify",
+    "modify the design"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Mode'.. يعني بتغير الـ 'Mode' بتاع الحاجة وتعملها 'Modify'.",
+  "phonetic_us": "ˈmɑːdɪfaɪ",
+  "phonetic_uk": "ˈmɒdɪfaɪ",
+  "syllables": "mod•i•fy",
+  "semantic_tags": [
+   "#Change",
+   "#Edit",
+   "#Improve",
+   "#Adapt"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To change something slightly, usually to improve it.",
+  "explanation_ar": "تغير حاجة تغيير بسيط عشان تحسنها أو تخليها مناسبة أكتر.",
+  "examples": [
+   "Please modify the text before submitting it.",
+   "We need to modify the design to make it safer.",
+   "You may need to modify your diet to stay healthy."
+  ],
+  "translations": {
+   "arabic_ar": "يُعَدِّل يُغيّر جزئياً"
+  },
+  "synonyms": [
+   "alter",
+   "adjust",
+   "adapt",
+   "revise"
+  ],
+  "antonyms": [
+   "preserve",
+   "keep",
+   "maintain"
+  ],
+  "collocations": [
+   "modify behavior",
+   "modify a plan",
+   "slightly modify",
+   "modify the design"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Mode'.. يعني بتغير الـ 'Mode' بتاع الحاجة وتعملها 'Modify'."
+ }
+}

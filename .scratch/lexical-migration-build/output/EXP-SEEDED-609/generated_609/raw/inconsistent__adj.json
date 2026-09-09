@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "inconsistent",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "inconsistent",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Not staying the same in behavior or quality; contradictory.",
+  "explanation_ar": "يعني مش ثابت على مبدأ أو مستوى واحد، النهاردة برأي وبكرة برأي تاني، أو النتائج كل مرة شكل.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Not staying the same in behavior, quality, or standard; erratic.",
+    "definition_ar": "متقلب أو غير ثابت في السلوك أو المستوى."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Not compatible or in agreement with something else; contradictory.",
+    "definition_ar": "متناقض أو غير متوافق مع شيء آخر."
+   }
+  ],
+  "examples": [
+   "The witness gave inconsistent statements to the police.",
+   "The policy is inconsistent with our values.",
+   "Her argument was logically inconsistent and fell apart under scrutiny."
+  ],
+  "translations": [
+   "غير متناسق",
+   "متضارب",
+   "متناقض",
+   "غير متسق"
+  ],
+  "relations": {
+   "synonyms": [
+    "erratic",
+    "variable",
+    "contradictory",
+    "unpredictable"
+   ],
+   "antonyms": [
+    "consistent",
+    "steady",
+    "uniform"
+   ],
+   "collocations": [
+    "inconsistent with",
+    "highly inconsistent",
+    "inconsistent results"
+   ]
+  },
+  "mnemonic": "عكس 'Consistent' 'ثابت'.. الـ 'In' للنفي، يبقى 'Inconsistent' يعني شوية كدة وشوية كدة، مش ثابت على حال.",
+  "phonetic_us": "ˌɪnkənˈsɪstənt",
+  "phonetic_uk": "ˌɪnkənˈsɪstənt",
+  "syllables": "in•con•sis•tent",
+  "semantic_tags": [
+   "#Logic",
+   "#Behavior",
+   "#Quality"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Not staying the same in behavior or quality; contradictory.",
+  "explanation_ar": "يعني مش ثابت على مبدأ أو مستوى واحد، النهاردة برأي وبكرة برأي تاني، أو النتائج كل مرة شكل.",
+  "examples": [
+   "The witness gave inconsistent statements to the police.",
+   "The policy is inconsistent with our values.",
+   "Her argument was logically inconsistent and fell apart under scrutiny."
+  ],
+  "translations": {
+   "arabic_ar": "غير متناسق متضارب متناقض غير متسق"
+  },
+  "synonyms": [
+   "erratic",
+   "variable",
+   "contradictory",
+   "unpredictable"
+  ],
+  "antonyms": [
+   "consistent",
+   "steady",
+   "uniform"
+  ],
+  "collocations": [
+   "inconsistent with",
+   "highly inconsistent",
+   "inconsistent results"
+  ],
+  "mnemonic_ar": "عكس 'Consistent' 'ثابت'.. الـ 'In' للنفي، يبقى 'Inconsistent' يعني شوية كدة وشوية كدة، مش ثابت على حال."
+ }
+}

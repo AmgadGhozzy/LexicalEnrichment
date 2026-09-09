@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "monitor",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "monitor",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To watch and check a situation carefully for a period of time.",
+  "explanation_ar": "تراقب وتتابع حاجة باستمرار عشان تتأكد إن كل حاجة تمام.",
+  "senses": [
+   {
+    "definition_en": "To watch and check a situation carefully for a period of time.",
+    "definition_ar": "تراقب وتتابع حاجة باستمرار عشان تتأكد إن كل حاجة تمام.",
+    "examples": [
+     "We need to monitor the situation.",
+     "Doctors will monitor your heart rate during the test.",
+     "Teachers should monitor student progress throughout the term."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to monitor the situation.",
+   "Doctors will monitor your heart rate during the test.",
+   "Teachers should monitor student progress throughout the term."
+  ],
+  "translations": [
+   "يراقب",
+   "يتابع",
+   "يرصد"
+  ],
+  "relations": {
+   "synonyms": [
+    "watch",
+    "observe",
+    "track",
+    "check"
+   ],
+   "antonyms": [
+    "ignore",
+    "neglect"
+   ],
+   "collocations": [
+    "monitor closely",
+    "monitor progress",
+    "monitor the situation",
+    "carefully monitor"
+   ]
+  },
+  "mnemonic": "نفس الاسم.. الفعل 'Monitor' يعني يقوم بدور المراقب.",
+  "phonetic_us": "ˈmɑnɪtɚ",
+  "phonetic_uk": "ˈmɒnɪtə",
+  "syllables": "mon•i•tor",
+  "semantic_tags": [
+   "Watch",
+   "Check",
+   "Control"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To watch and check a situation carefully for a period of time.",
+  "explanation_ar": "تراقب وتتابع حاجة باستمرار عشان تتأكد إن كل حاجة تمام.",
+  "examples": [
+   "We need to monitor the situation.",
+   "Doctors will monitor your heart rate during the test.",
+   "Teachers should monitor student progress throughout the term."
+  ],
+  "translations": {
+   "arabic_ar": "يراقب يتابع يرصد"
+  },
+  "synonyms": [
+   "watch",
+   "observe",
+   "track",
+   "check"
+  ],
+  "antonyms": [
+   "ignore",
+   "neglect"
+  ],
+  "collocations": [
+   "monitor closely",
+   "monitor progress",
+   "monitor the situation",
+   "carefully monitor"
+  ],
+  "mnemonic_ar": "نفس الاسم.. الفعل 'Monitor' يعني يقوم بدور المراقب."
+ }
+}

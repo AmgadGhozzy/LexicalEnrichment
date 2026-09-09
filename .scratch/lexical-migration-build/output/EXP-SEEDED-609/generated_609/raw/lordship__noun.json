@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "lordship",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "lordship",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "Supreme power or rule; a title of respect used when speaking to or about a judge or nobleman.",
+  "explanation_ar": "السيادة أو السلطة، وتُستخدم أيضاً كلقب احترام رسمي للنبلاء والقضاة في بريطانيا (مثل: صاحب السيادة).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Supreme power, authority, or rule.",
+    "explanation_ar": "السيادة أو السلطة والسيطرة.",
+    "translations": [
+     "سيادة",
+     "سلطة"
+    ],
+    "examples": [
+     "He lost his lordship over the lands.",
+     "The concept of divine lordship was central to medieval theology."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A title of respect used when speaking to or referring to a nobleman or judge.",
+    "explanation_ar": "لقب احترام رسمي يُستخدم لمخاطبة النبلاء أو القضاة أو الإشارة إليهم.",
+    "translations": [
+     "صاحب السيادة",
+     "سمو اللورد"
+    ],
+    "examples": [
+     "He bowed to his lordship."
+    ]
+   }
+  ],
+  "examples": [
+   "He bowed to his lordship.",
+   "He lost his lordship over the lands.",
+   "The concept of divine lordship was central to medieval theology."
+  ],
+  "translations": [
+   "سيادة",
+   "صاحب السيادة"
+  ],
+  "relations": {
+   "synonyms": [
+    "dominion",
+    "rule",
+    "sovereignty",
+    "authority"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Your Lordship",
+    "His Lordship",
+    "right of lordship",
+    "lordship of Christ"
+   ]
+  },
+  "mnemonic": "جاية من 'Lord'.. لقب للتعظيم.",
+  "phonetic_us": "ˈlɔːrd.ʃɪp",
+  "phonetic_uk": "ˈlɔːd.ʃɪp",
+  "syllables": "lord•ship",
+  "semantic_tags": [
+   "#Title",
+   "#Respect",
+   "#Law",
+   "#Nobility"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Supreme power or rule; a title of respect used when speaking to or about a judge or nobleman.",
+  "explanation_ar": "السيادة أو السلطة، وتُستخدم أيضاً كلقب احترام رسمي للنبلاء والقضاة في بريطانيا (مثل: صاحب السيادة).",
+  "examples": [
+   "He bowed to his lordship.",
+   "He lost his lordship over the lands.",
+   "The concept of divine lordship was central to medieval theology."
+  ],
+  "translations": {
+   "arabic_ar": "سيادة صاحب السيادة"
+  },
+  "synonyms": [
+   "dominion",
+   "rule",
+   "sovereignty",
+   "authority"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Your Lordship",
+   "His Lordship",
+   "right of lordship",
+   "lordship of Christ"
+  ],
+  "mnemonic_ar": "جاية من 'Lord'.. لقب للتعظيم."
+ }
+}

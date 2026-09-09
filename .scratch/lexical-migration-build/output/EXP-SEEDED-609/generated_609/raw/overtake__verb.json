@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "overtake",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "overtake",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To catch up with and pass someone or something while traveling in the same direction, or to become greater in number, amount, or success than a competitor.",
+  "explanation_ar": "لما تعدي عربية تانية أو شخص وتسبقه، أو لما تتفوق على منافس في سباق أو عمل وتتخطاه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To catch up with and pass while moving in the same direction.",
+    "definition_ar": "يتجاوز أو يسبق أثناء السير أو القيادة",
+    "pos": "verb"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To surpass or become greater than someone or something in number, quantity, or success.",
+    "definition_ar": "يتفوق على أو يتخطى في منافسة أو مستوى",
+    "pos": "verb"
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "To affect or happen to someone suddenly and unexpectedly.",
+    "definition_ar": "يداهم أو يباغت (مثل مشاعر الخوف أو أحداث غير متوقعة)",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "It is dangerous to overtake on this narrow road.",
+   "The company hopes to overtake its main rival in sales by next year.",
+   "Panic began to overtake the crowd."
+  ],
+  "translations": [
+   "يتجاوز",
+   "يسبق",
+   "يتخطى",
+   "يداهم"
+  ],
+  "relations": {
+   "synonyms": [
+    "pass",
+    "surpass",
+    "outstrip",
+    "outpace"
+   ],
+   "antonyms": [
+    "fall behind",
+    "lag"
+   ],
+   "collocations": [
+    "overtake a car",
+    "overtake a competitor",
+    "overtake the leader",
+    "be overtaken by events"
+   ]
+  },
+  "mnemonic": "مكونة من 'over' (فوق / للأمام) و 'take' (يأخذ)؛ يعني تأخذ مكانًا أمامه وتسبقه.",
+  "phonetic_us": "ˌoʊvərˈteɪk",
+  "phonetic_uk": "ˌəʊvəˈteɪk",
+  "syllables": "o•ver•take",
+  "semantic_tags": [
+   "driving",
+   "competition",
+   "speed",
+   "movement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To catch up with and pass someone or something while traveling in the same direction, or to become greater in number, amount, or success than a competitor.",
+  "explanation_ar": "لما تعدي عربية تانية أو شخص وتسبقه، أو لما تتفوق على منافس في سباق أو عمل وتتخطاه.",
+  "examples": [
+   "It is dangerous to overtake on this narrow road.",
+   "The company hopes to overtake its main rival in sales by next year.",
+   "Panic began to overtake the crowd."
+  ],
+  "translations": {
+   "arabic_ar": "يتجاوز يسبق يتخطى يداهم"
+  },
+  "synonyms": [
+   "pass",
+   "surpass",
+   "outstrip",
+   "outpace"
+  ],
+  "antonyms": [
+   "fall behind",
+   "lag"
+  ],
+  "collocations": [
+   "overtake a car",
+   "overtake a competitor",
+   "overtake the leader",
+   "be overtaken by events"
+  ],
+  "mnemonic_ar": "مكونة من 'over' (فوق / للأمام) و 'take' (يأخذ)؛ يعني تأخذ مكانًا أمامه وتسبقه."
+ }
+}

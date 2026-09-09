@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "glow",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "glow",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A steady radiance of light or heat, or a warm feeling or healthy appearance.",
+  "explanation_ar": "ضوء خافت ودافئ أو حرارة خفيفة مستمرة، وممكن يعبر كمان عن احمرار صحي في الوجه أو إحساس دافئ بالسعادة والرضا.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A steady, gentle light or warmth produced by something.",
+    "definition_ar": "ضوء أو دفء خافت ومستمر.",
+    "examples": [
+     "The fire has a warm glow.",
+     "The city lights cast an orange glow on the clouds."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A feeling or appearance of warm satisfaction or good health.",
+    "definition_ar": "إشراقة أو بريق صحي في الوجه، أو شعور داخلي دافئ بالسعادة.",
+    "examples": [
+     "She felt a warm glow of happiness."
+    ]
+   }
+  ],
+  "examples": [
+   "The fire has a warm glow.",
+   "She felt a warm glow of happiness.",
+   "The city lights cast an orange glow on the clouds."
+  ],
+  "translations": [
+   "تَوَهُّج",
+   "بَرِيق",
+   "إِشْرَاقَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "radiance",
+    "gleam",
+    "shine",
+    "warmth"
+   ],
+   "antonyms": [
+    "darkness",
+    "dullness"
+   ],
+   "collocations": [
+    "warm glow",
+    "soft glow",
+    "healthy glow",
+    "golden glow"
+   ]
+  },
+  "mnemonic": "زي 'Slow'.. النور بيطلع 'Slow' وهادي في الـ 'Glow'.",
+  "phonetic_us": "ɡloʊ",
+  "phonetic_uk": "ɡləʊ",
+  "syllables": "glow",
+  "semantic_tags": [
+   "light",
+   "heat",
+   "appearance",
+   "emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A steady radiance of light or heat, or a warm feeling or healthy appearance.",
+  "explanation_ar": "ضوء خافت ودافئ أو حرارة خفيفة مستمرة، وممكن يعبر كمان عن احمرار صحي في الوجه أو إحساس دافئ بالسعادة والرضا.",
+  "examples": [
+   "The fire has a warm glow.",
+   "She felt a warm glow of happiness.",
+   "The city lights cast an orange glow on the clouds."
+  ],
+  "translations": {
+   "arabic_ar": "تَوَهُّج بَرِيق إِشْرَاقَة"
+  },
+  "synonyms": [
+   "radiance",
+   "gleam",
+   "shine",
+   "warmth"
+  ],
+  "antonyms": [
+   "darkness",
+   "dullness"
+  ],
+  "collocations": [
+   "warm glow",
+   "soft glow",
+   "healthy glow",
+   "golden glow"
+  ],
+  "mnemonic_ar": "زي 'Slow'.. النور بيطلع 'Slow' وهادي في الـ 'Glow'."
+ }
+}

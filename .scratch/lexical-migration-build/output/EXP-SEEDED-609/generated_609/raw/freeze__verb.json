@@ -1,0 +1,112 @@
+{
+ "identity": {
+  "lemma": "freeze",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "freeze",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To turn into ice; to preserve food by chilling it below zero; or to stop moving suddenly.",
+  "explanation_ar": "المية تتحول لتلج، أو تثبت مكانك وماتتحركش خالص.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To turn into ice or preserve food at a temperature below freezing.",
+    "definition_ar": "يتجمد أو يجمد الطعام بحفظه في درجات حرارة منخفضة جداً.",
+    "examples": [
+     "You can freeze the leftover food."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To suddenly stop moving and stay completely still, especially because of fear or surprise.",
+    "definition_ar": "يتسمر في مكانه أو يتوقف فجأة عن الحركة بسبب الخوف أو المفاجأة.",
+    "examples": [
+     "Fear made him freeze in his tracks."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "To officially stop or restrict access to money, accounts, or assets.",
+    "definition_ar": "يجمد حساباً مصرفياً أو أصولاً مالية ويمنع التصرف فيها.",
+    "examples": [
+     "The bank decided to freeze the account due to suspicious activity."
+    ]
+   }
+  ],
+  "examples": [
+   "You can freeze the leftover food.",
+   "Fear made him freeze in his tracks.",
+   "The bank decided to freeze the account due to suspicious activity."
+  ],
+  "translations": [
+   "يتجمد",
+   "يجمد",
+   "يتسمر"
+  ],
+  "relations": {
+   "synonyms": [
+    "solidify",
+    "halt",
+    "stop",
+    "ice over"
+   ],
+   "antonyms": [
+    "melt",
+    "thaw",
+    "boil"
+   ],
+   "collocations": [
+    "freeze to death",
+    "freeze assets",
+    "freeze over",
+    "freeze frame"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "fɹiːz",
+  "phonetic_uk": "friːz",
+  "syllables": [
+   "freeze"
+  ],
+  "semantic_tags": [
+   "#Cold",
+   "#Ice",
+   "#Stop",
+   "#Police"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To turn into ice; to preserve food by chilling it below zero; or to stop moving suddenly.",
+  "explanation_ar": "المية تتحول لتلج، أو تثبت مكانك وماتتحركش خالص.",
+  "examples": [
+   "You can freeze the leftover food.",
+   "Fear made him freeze in his tracks.",
+   "The bank decided to freeze the account due to suspicious activity."
+  ],
+  "translations": {
+   "arabic_ar": "يتجمد يجمد يتسمر"
+  },
+  "synonyms": [
+   "solidify",
+   "halt",
+   "stop",
+   "ice over"
+  ],
+  "antonyms": [
+   "melt",
+   "thaw",
+   "boil"
+  ],
+  "collocations": [
+   "freeze to death",
+   "freeze assets",
+   "freeze over",
+   "freeze frame"
+  ],
+  "mnemonic_ar": null
+ }
+}

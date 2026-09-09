@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "pay",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "pay",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To give money for goods or services.",
+  "explanation_ar": "تدفع فلوس عشان تشتري حاجة أو تسدد ديون.",
+  "senses": [
+   {
+    "sense_id": "pay_v_1",
+    "definition_en": "To give money for goods or services.",
+    "definition_ar": "أن تعطي مالاً مقابل سلع أو خدمات.",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "I pay for the food.",
+   "Can I pay by credit card?",
+   "He forgot to pay the electricity bill."
+  ],
+  "translations": [
+   "يدفع",
+   "يسدد"
+  ],
+  "relations": {
+   "synonyms": [
+    "settle"
+   ],
+   "antonyms": [
+    "receive",
+    "earn"
+   ],
+   "collocations": [
+    "pay cash",
+    "pay by credit card",
+    "pay a bill",
+    "pay attention"
+   ]
+  },
+  "mnemonic": "عشان تشتري 'Buy' لازم تدفع 'Pay'.",
+  "phonetic_us": "peɪ",
+  "phonetic_uk": "peɪ",
+  "syllables": "pay",
+  "semantic_tags": [
+   "money",
+   "transaction",
+   "shopping"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To give money for goods or services.",
+  "explanation_ar": "تدفع فلوس عشان تشتري حاجة أو تسدد ديون.",
+  "examples": [
+   "I pay for the food.",
+   "Can I pay by credit card?",
+   "He forgot to pay the electricity bill."
+  ],
+  "translations": {
+   "arabic_ar": "يدفع يسدد"
+  },
+  "synonyms": [
+   "settle"
+  ],
+  "antonyms": [
+   "receive",
+   "earn"
+  ],
+  "collocations": [
+   "pay cash",
+   "pay by credit card",
+   "pay a bill",
+   "pay attention"
+  ],
+  "mnemonic_ar": "عشان تشتري 'Buy' لازم تدفع 'Pay'."
+ }
+}

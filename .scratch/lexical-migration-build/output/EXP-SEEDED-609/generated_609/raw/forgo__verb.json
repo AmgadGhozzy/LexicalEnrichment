@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "forgo",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "forgo",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To decide not to have or do something that you would like to have or do.",
+  "explanation_ar": "تتنازل عن حاجة أو تسيبها بمزاجك، حتى لو كنت عايزها.",
+  "senses": [
+   {
+    "definition_en": "To decide not to have or do something that you would like to have or do.",
+    "definition_ar": "أن تتنازل عن شيء أو تمتنع عنه باختيارك ورضاك رغم رغبتك فيه.",
+    "examples": [
+     "She decided to forgo the trip.",
+     "He agreed to forgo his salary for a month.",
+     "She resolved to forgo all personal comforts to achieve her goal."
+    ]
+   }
+  ],
+  "examples": [
+   "She decided to forgo the trip.",
+   "He agreed to forgo his salary for a month.",
+   "She resolved to forgo all personal comforts to achieve her goal."
+  ],
+  "translations": [
+   "يتخلى عن",
+   "يمتنع عن",
+   "يتنازل عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "give up",
+    "waive",
+    "sacrifice",
+    "abstain from"
+   ],
+   "antonyms": [
+    "keep",
+    "claim",
+    "insist on"
+   ],
+   "collocations": [
+    "forgo an opportunity",
+    "forgo pleasure",
+    "forgo a right",
+    "forgo treatment"
+   ]
+  },
+  "mnemonic": "كلمة 'For' 'لأجل' + 'Go' 'يذهب'.. كأنك بتقول 'Go' للحاجة دي عشان خاطر حاجة تانية 'تتخلى عنها'.",
+  "phonetic_us": "fɔːrˈɡoʊ",
+  "phonetic_uk": "fɔːˈɡəʊ",
+  "syllables": "for•go",
+  "semantic_tags": [
+   "#Choice",
+   "#Sacrifice",
+   "#Decision",
+   "#Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To decide not to have or do something that you would like to have or do.",
+  "explanation_ar": "تتنازل عن حاجة أو تسيبها بمزاجك، حتى لو كنت عايزها.",
+  "examples": [
+   "She decided to forgo the trip.",
+   "He agreed to forgo his salary for a month.",
+   "She resolved to forgo all personal comforts to achieve her goal."
+  ],
+  "translations": {
+   "arabic_ar": "يتخلى عن يمتنع عن يتنازل عن"
+  },
+  "synonyms": [
+   "give up",
+   "waive",
+   "sacrifice",
+   "abstain from"
+  ],
+  "antonyms": [
+   "keep",
+   "claim",
+   "insist on"
+  ],
+  "collocations": [
+   "forgo an opportunity",
+   "forgo pleasure",
+   "forgo a right",
+   "forgo treatment"
+  ],
+  "mnemonic_ar": "كلمة 'For' 'لأجل' + 'Go' 'يذهب'.. كأنك بتقول 'Go' للحاجة دي عشان خاطر حاجة تانية 'تتخلى عنها'."
+ }
+}

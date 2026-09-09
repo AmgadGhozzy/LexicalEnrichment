@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "internal",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "internal",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Of or situated on the inside; existing within an organization or country.",
+  "explanation_ar": "داخلي.. حاجة جوه الشيء أو جوه المؤسسة، مش ظاهرة للناس اللي بره.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Situated on or inside the body or an object.",
+    "definition_ar": "داخلي؛ موجود في باطن الجسم أو في الجزء الداخلي لشيء ما.",
+    "examples": [
+     "The doctor was worried about internal bleeding after the accident."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Existing or occurring within an organization, group, or country.",
+    "definition_ar": "داخلي؛ يحدث أو يعمل داخل منظومة أو مؤسسة أو دولة معينة.",
+    "examples": [
+     "The company conducted an internal investigation into the incident.",
+     "We use an internal messaging system to communicate with colleagues."
+    ]
+   }
+  ],
+  "examples": [
+   "The doctor was worried about internal bleeding after the accident.",
+   "The company conducted an internal investigation into the incident.",
+   "We use an internal messaging system to communicate with colleagues."
+  ],
+  "translations": [
+   "داخلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "inner",
+    "interior",
+    "inside",
+    "domestic"
+   ],
+   "antonyms": [
+    "external",
+    "outer",
+    "exterior"
+   ],
+   "collocations": [
+    "internal affairs",
+    "internal audit",
+    "internal bleeding",
+    "internal memory"
+   ]
+  },
+  "mnemonic": "شبه 'Enter' 'يدخل'.. الـ 'Internal' هو الحاجة اللي جوه بعد ما تعمل Enter",
+  "phonetic_us": "ɪnˈtɝnəl",
+  "phonetic_uk": "ɪnˈtɜːnl",
+  "syllables": "in•ter•nal",
+  "semantic_tags": [
+   "#Inside",
+   "#Corporate",
+   "#Medical"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Of or situated on the inside; existing within an organization or country.",
+  "explanation_ar": "داخلي.. حاجة جوه الشيء أو جوه المؤسسة، مش ظاهرة للناس اللي بره.",
+  "examples": [
+   "The doctor was worried about internal bleeding after the accident.",
+   "The company conducted an internal investigation into the incident.",
+   "We use an internal messaging system to communicate with colleagues."
+  ],
+  "translations": {
+   "arabic_ar": "داخلي"
+  },
+  "synonyms": [
+   "inner",
+   "interior",
+   "inside",
+   "domestic"
+  ],
+  "antonyms": [
+   "external",
+   "outer",
+   "exterior"
+  ],
+  "collocations": [
+   "internal affairs",
+   "internal audit",
+   "internal bleeding",
+   "internal memory"
+  ],
+  "mnemonic_ar": "شبه 'Enter' 'يدخل'.. الـ 'Internal' هو الحاجة اللي جوه بعد ما تعمل Enter"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "institute",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "institute",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An organization having a particular purpose, especially for science, education, or a profession.",
+  "explanation_ar": "مؤسسة أو معهد متخصص في مجال معين مثل التعليم أو البحث العلمي.",
+  "senses": [
+   {
+    "definition_en": "An organization having a particular purpose, especially for science, education, or a profession.",
+    "explanation_ar": "مؤسسة أو معهد متخصص في مجال معين مثل التعليم أو البحث العلمي.",
+    "translations": [
+     "معهد",
+     "مؤسسة"
+    ]
+   }
+  ],
+  "examples": [
+   "He works for a research institute in London.",
+   "She decided to study English at a local language institute.",
+   "They founded an institute dedicated to medical research."
+  ],
+  "translations": [
+   "معهد",
+   "مؤسسة"
+  ],
+  "relations": {
+   "synonyms": [
+    "institution",
+    "organization",
+    "academy",
+    "establishment"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "research institute",
+    "art institute",
+    "technical institute",
+    "found an institute"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Institution' 'مؤسسة'.. مكان بنتعلم فيه زي الـ 'Institute' بتاع اللغات.",
+  "phonetic_us": "ˈɪnstɪtuːt",
+  "phonetic_uk": "ˈɪnstɪtjuːt",
+  "syllables": "in•sti•tute",
+  "semantic_tags": [
+   "Education",
+   "Research",
+   "Organization",
+   "Science",
+   "Academy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An organization having a particular purpose, especially for science, education, or a profession.",
+  "explanation_ar": "مؤسسة أو معهد متخصص في مجال معين مثل التعليم أو البحث العلمي.",
+  "examples": [
+   "He works for a research institute in London.",
+   "She decided to study English at a local language institute.",
+   "They founded an institute dedicated to medical research."
+  ],
+  "translations": {
+   "arabic_ar": "معهد مؤسسة"
+  },
+  "synonyms": [
+   "institution",
+   "organization",
+   "academy",
+   "establishment"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "research institute",
+   "art institute",
+   "technical institute",
+   "found an institute"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Institution' 'مؤسسة'.. مكان بنتعلم فيه زي الـ 'Institute' بتاع اللغات."
+ }
+}

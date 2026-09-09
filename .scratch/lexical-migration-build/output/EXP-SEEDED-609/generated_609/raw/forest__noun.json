@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "forest",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "forest",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A large area covered chiefly with trees and undergrowth.",
+  "explanation_ar": "الغابة، مكان واسع وكبير كله شجر وحيوانات برية.",
+  "senses": [
+   {
+    "definition_en": "A large area covered chiefly with trees and undergrowth.",
+    "explanation_ar": "الغابة، مكان واسع وكبير كله شجر وحيوانات برية.",
+    "examples": [
+     "Bears live in the forest.",
+     "We walked through the forest.",
+     "The forest is full of tall trees."
+    ]
+   }
+  ],
+  "examples": [
+   "Bears live in the forest.",
+   "We walked through the forest.",
+   "The forest is full of tall trees."
+  ],
+  "translations": [
+   "غابة"
+  ],
+  "relations": {
+   "synonyms": [
+    "woods",
+    "woodland"
+   ],
+   "antonyms": [
+    "desert",
+    "plain"
+   ],
+   "collocations": [
+    "rain forest",
+    "forest fire",
+    "thick forest"
+   ]
+  },
+  "mnemonic": "مكان كله 'Rest' 'راحة' وهدوء بين الشجر في الـ 'Forest'.",
+  "phonetic_us": "ˈfɔːr.ɪst",
+  "phonetic_uk": "ˈfɒr.ɪst",
+  "syllables": "for•est",
+  "semantic_tags": [
+   "Nature",
+   "Trees",
+   "Environment"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "A large area covered chiefly with trees and undergrowth.",
+  "explanation_ar": "الغابة، مكان واسع وكبير كله شجر وحيوانات برية.",
+  "examples": [
+   "Bears live in the forest.",
+   "We walked through the forest.",
+   "The forest is full of tall trees."
+  ],
+  "translations": {
+   "arabic_ar": "غابة"
+  },
+  "synonyms": [
+   "woods",
+   "woodland"
+  ],
+  "antonyms": [
+   "desert",
+   "plain"
+  ],
+  "collocations": [
+   "rain forest",
+   "forest fire",
+   "thick forest"
+  ],
+  "mnemonic_ar": "مكان كله 'Rest' 'راحة' وهدوء بين الشجر في الـ 'Forest'."
+ }
+}

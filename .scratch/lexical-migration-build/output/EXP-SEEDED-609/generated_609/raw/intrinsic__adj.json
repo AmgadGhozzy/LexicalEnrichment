@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "intrinsic",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "intrinsic",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Belonging naturally to something; essential.",
+  "explanation_ar": "حاجة أساسية وموجودة في طبيعة الشيء نفسه، مش مضافة عليه من بره، زي قيمة الدهب هي فيه هو.",
+  "senses": [
+   {
+    "definition_en": "Belonging naturally to something; essential.",
+    "definition_ar": "جوهري أو متأصل كجزء لا يتجزأ من طبيعة الشيء",
+    "examples": [
+     "Trust is intrinsic to a good friendship.",
+     "The intrinsic value of the coin is low, but it is rare.",
+     "Freedom of speech is intrinsic to a democratic society."
+    ]
+   }
+  ],
+  "examples": [
+   "Trust is intrinsic to a good friendship.",
+   "The intrinsic value of the coin is low, but it is rare.",
+   "Freedom of speech is intrinsic to a democratic society."
+  ],
+  "translations": [
+   "جوهري",
+   "متأصل",
+   "ذاتي"
+  ],
+  "relations": {
+   "synonyms": [
+    "inherent",
+    "innate",
+    "essential",
+    "natural"
+   ],
+   "antonyms": [
+    "extrinsic",
+    "external",
+    "acquired"
+   ],
+   "collocations": [
+    "intrinsic value",
+    "intrinsic nature",
+    "intrinsic motivation"
+   ]
+  },
+  "mnemonic": "أولها 'In' 'داخل'.. الـ 'Intrinsic' هي القيمة اللي 'In' جوه الشيء نفسه مش جاية من بره.",
+  "phonetic_us": "ɪnˈtrɪnzɪk",
+  "phonetic_uk": "ɪnˈtrɪnsɪk",
+  "syllables": "in•trin•sic",
+  "semantic_tags": [
+   "#Nature",
+   "#Value",
+   "#Philosophy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Belonging naturally to something; essential.",
+  "explanation_ar": "حاجة أساسية وموجودة في طبيعة الشيء نفسه، مش مضافة عليه من بره، زي قيمة الدهب هي فيه هو.",
+  "examples": [
+   "Trust is intrinsic to a good friendship.",
+   "The intrinsic value of the coin is low, but it is rare.",
+   "Freedom of speech is intrinsic to a democratic society."
+  ],
+  "translations": {
+   "arabic_ar": "جوهري متأصل ذاتي"
+  },
+  "synonyms": [
+   "inherent",
+   "innate",
+   "essential",
+   "natural"
+  ],
+  "antonyms": [
+   "extrinsic",
+   "external",
+   "acquired"
+  ],
+  "collocations": [
+   "intrinsic value",
+   "intrinsic nature",
+   "intrinsic motivation"
+  ],
+  "mnemonic_ar": "أولها 'In' 'داخل'.. الـ 'Intrinsic' هي القيمة اللي 'In' جوه الشيء نفسه مش جاية من بره."
+ }
+}

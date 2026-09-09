@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "hypothesis",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "hypothesis",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+  "explanation_ar": "تفسير مبدئي أو تخمين علمي لسه محتاج إثبات 'فرضية'.",
+  "senses": [
+   {
+    "sense_id": "hypothesis-noun-1",
+    "definition_en": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+    "definition_ar": "تفسير مبدئي أو تخمين علمي يُطرح كبداية للبحث والتحقق.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The scientist formed a hypothesis.",
+   "Results supported the hypothesis.",
+   "We need to test this hypothesis experimentally."
+  ],
+  "translations": [
+   "فرضية"
+  ],
+  "relations": {
+   "synonyms": [
+    "assumption",
+    "premise",
+    "proposition",
+    "theory"
+   ],
+   "antonyms": [
+    "fact",
+    "proof"
+   ],
+   "collocations": [
+    "test a hypothesis",
+    "formulate a hypothesis",
+    "confirm a hypothesis",
+    "null hypothesis"
+   ]
+  },
+  "mnemonic": "قريبة من 'Thesis' 'رسالة علمية'.. الـ 'Hypothesis' هي الفرضية اللي بتبني عليها الرسالة.",
+  "phonetic_us": "haɪˈpɑːθəsɪs",
+  "phonetic_uk": "haɪˈpɒθəsɪs",
+  "syllables": "hy•poth•e•sis",
+  "semantic_tags": [
+   "#Science",
+   "#Research",
+   "#Theory",
+   "#Logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+  "explanation_ar": "تفسير مبدئي أو تخمين علمي لسه محتاج إثبات 'فرضية'.",
+  "examples": [
+   "The scientist formed a hypothesis.",
+   "Results supported the hypothesis.",
+   "We need to test this hypothesis experimentally."
+  ],
+  "translations": {
+   "arabic_ar": "فرضية"
+  },
+  "synonyms": [
+   "assumption",
+   "premise",
+   "proposition",
+   "theory"
+  ],
+  "antonyms": [
+   "fact",
+   "proof"
+  ],
+  "collocations": [
+   "test a hypothesis",
+   "formulate a hypothesis",
+   "confirm a hypothesis",
+   "null hypothesis"
+  ],
+  "mnemonic_ar": "قريبة من 'Thesis' 'رسالة علمية'.. الـ 'Hypothesis' هي الفرضية اللي بتبني عليها الرسالة."
+ }
+}

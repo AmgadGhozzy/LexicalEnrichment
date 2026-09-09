@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "mouth",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "mouth",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The opening in the face used for eating and speaking.",
+  "explanation_ar": "الفم اللي بناكل وبنتكلم بيه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The opening in the face used for eating and speaking.",
+    "explanation_ar": "الفم، الفتحة في الوجه المستخدمة للأكل والتحدث.",
+    "examples": [
+     "Open your mouth.",
+     "She covered her mouth when she sneezed.",
+     "Don't talk with your mouth full."
+    ]
+   }
+  ],
+  "examples": [
+   "Open your mouth.",
+   "She covered her mouth when she sneezed.",
+   "Don't talk with your mouth full."
+  ],
+  "translations": [
+   "فم"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "open mouth",
+    "big mouth",
+    "shut your mouth"
+   ]
+  },
+  "mnemonic": "نطقها قريب من 'Mouse' 'فأر' بس بالثاء.. الـ 'Mouth' هو الفم.",
+  "phonetic_us": "maʊθ",
+  "phonetic_uk": "maʊθ",
+  "syllables": [
+   "mouth"
+  ],
+  "semantic_tags": [
+   "#Body",
+   "#Face",
+   "#Anatomy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The opening in the face used for eating and speaking.",
+  "explanation_ar": "الفم اللي بناكل وبنتكلم بيه.",
+  "examples": [
+   "Open your mouth.",
+   "She covered her mouth when she sneezed.",
+   "Don't talk with your mouth full."
+  ],
+  "translations": {
+   "arabic_ar": "فم"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "open mouth",
+   "big mouth",
+   "shut your mouth"
+  ],
+  "mnemonic_ar": "نطقها قريب من 'Mouse' 'فأر' بس بالثاء.. الـ 'Mouth' هو الفم."
+ }
+}

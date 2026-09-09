@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "loaf",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "loaf",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A shaped mass of baked bread.",
+  "explanation_ar": "رغيف العيش الكامل قبل ما يتقطع 'زي التوست أو الفينو'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A shaped mass of baked bread.",
+    "explanation_ar": "رغيف الخبز المخبوز كقطعة واحدة قبل تقطيعه.",
+    "examples": [
+     "I bought a loaf of bread.",
+     "She sliced the loaf.",
+     "A fresh loaf smells wonderful."
+    ]
+   }
+  ],
+  "examples": [
+   "I bought a loaf of bread.",
+   "She sliced the loaf.",
+   "A fresh loaf smells wonderful."
+  ],
+  "translations": [
+   "رغيف"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "loaf of bread",
+    "fresh loaf",
+    "slice a loaf"
+   ]
+  },
+  "mnemonic": "كلمة 'Loaf' شبه 'Life'.. والعيش هو الـ 'Life' 'الحياة' عند ناس كتير.",
+  "phonetic_us": "loʊf",
+  "phonetic_uk": "ləʊf",
+  "syllables": "loaf",
+  "semantic_tags": [
+   "#Food",
+   "#Bread",
+   "#Bakery",
+   "#Cooking"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A shaped mass of baked bread.",
+  "explanation_ar": "رغيف العيش الكامل قبل ما يتقطع 'زي التوست أو الفينو'.",
+  "examples": [
+   "I bought a loaf of bread.",
+   "She sliced the loaf.",
+   "A fresh loaf smells wonderful."
+  ],
+  "translations": {
+   "arabic_ar": "رغيف"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "loaf of bread",
+   "fresh loaf",
+   "slice a loaf"
+  ],
+  "mnemonic_ar": "كلمة 'Loaf' شبه 'Life'.. والعيش هو الـ 'Life' 'الحياة' عند ناس كتير."
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "neighbour",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "neighbour",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A person living near or next door to you.",
+  "explanation_ar": "الشخص الذي يعيش بالقرب منك أو في المنزل المجاور لك (جار).",
+  "senses": [
+   {
+    "sense_id": "neighbour-1",
+    "definition_en": "A person living near or next door to you.",
+    "definition_ar": "الشخص الذي يعيش بجوارك أو بالقرب منك.",
+    "examples": [
+     "He is my next-door neighbour.",
+     "I helped my neighbour carry her bags.",
+     "Our new neighbour moved in yesterday."
+    ]
+   }
+  ],
+  "examples": [
+   "He is my neighbour.",
+   "I helped my neighbour carry her bags.",
+   "Our new neighbour moved in yesterday."
+  ],
+  "translations": [
+   "جار"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "next-door neighbour",
+    "good neighbour",
+    "friendly neighbour"
+   ]
+  },
+  "mnemonic": "تخيل أن جارك (neighbour) يربي حصاناً يصدر صوت صهيل (neigh) كل صباح.",
+  "phonetic_us": "ˈneɪbər",
+  "phonetic_uk": "ˈneɪbə",
+  "syllables": "neigh•bour",
+  "semantic_tags": [
+   "People",
+   "Home",
+   "Community"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person living near or next door to you.",
+  "explanation_ar": "الشخص الذي يعيش بالقرب منك أو في المنزل المجاور لك (جار).",
+  "examples": [
+   "He is my neighbour.",
+   "I helped my neighbour carry her bags.",
+   "Our new neighbour moved in yesterday."
+  ],
+  "translations": {
+   "arabic_ar": "جار"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "next-door neighbour",
+   "good neighbour",
+   "friendly neighbour"
+  ],
+  "mnemonic_ar": "تخيل أن جارك (neighbour) يربي حصاناً يصدر صوت صهيل (neigh) كل صباح."
+ }
+}

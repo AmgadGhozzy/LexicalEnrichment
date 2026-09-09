@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "ox",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "ox",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A castrated bull used as a draft animal.",
+  "explanation_ar": "الثور اللي بيستخدموه في الحقل لجر المحراث.",
+  "senses": [
+   {
+    "definition_en": "A castrated bull used as a draft animal.",
+    "explanation_ar": "الثور اللي بيستخدموه في الحقل لجر المحراث.",
+    "examples": [
+     "The ox is a symbol of strength.",
+     "They roasted a whole ox for the feast.",
+     "The yoke was heavy on the neck of the ox."
+    ]
+   }
+  ],
+  "examples": [
+   "The ox is a symbol of strength.",
+   "They roasted a whole ox for the feast.",
+   "The yoke was heavy on the neck of the ox."
+  ],
+  "translations": [
+   "ثَوْر"
+  ],
+  "relations": {
+   "synonyms": [
+    "bullock",
+    "steer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "strong as an ox",
+    "ox cart",
+    "wild ox"
+   ]
+  },
+  "mnemonic": "حيوان قوي بيجر المحراث.. كلمة قصيرة 'Ox' بس بتوصف حيوان ضخم.",
+  "phonetic_us": "ɑːks",
+  "phonetic_uk": "ɒks",
+  "syllables": [
+   "ox"
+  ],
+  "semantic_tags": [
+   "Animal",
+   "Farm",
+   "Strength"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A castrated bull used as a draft animal.",
+  "explanation_ar": "الثور اللي بيستخدموه في الحقل لجر المحراث.",
+  "examples": [
+   "The ox is a symbol of strength.",
+   "They roasted a whole ox for the feast.",
+   "The yoke was heavy on the neck of the ox."
+  ],
+  "translations": {
+   "arabic_ar": "ثَوْر"
+  },
+  "synonyms": [
+   "bullock",
+   "steer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "strong as an ox",
+   "ox cart",
+   "wild ox"
+  ],
+  "mnemonic_ar": "حيوان قوي بيجر المحراث.. كلمة قصيرة 'Ox' بس بتوصف حيوان ضخم."
+ }
+}

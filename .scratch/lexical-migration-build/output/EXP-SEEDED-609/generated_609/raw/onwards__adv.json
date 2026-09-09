@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "onwards",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "onwards",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Forward in time or space; continuing ahead.",
+  "explanation_ar": "من الوقت ده وطالع (فصاعداً)، أو باتجاه الأمام.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "Continuing forward in time from a particular point.",
+    "definition_ar": "من نقطة زمنية معينة فصاعداً في اتجاه المستقبل.",
+    "examples": [
+     "The agreement applies from June onwards.",
+     "The records from the 18th century onwards are well preserved."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "Continuing forward in space or movement; towards a point ahead.",
+    "definition_ar": "إلى الأمام في الحركة أو المكان.",
+    "examples": [
+     "They marched onwards despite the fatigue."
+    ]
+   }
+  ],
+  "examples": [
+   "The agreement applies from June onwards.",
+   "They marched onwards despite the fatigue.",
+   "The records from the 18th century onwards are well preserved."
+  ],
+  "translations": [
+   "فَصَاعِدًا",
+   "إِلَى الأَمَامِ"
+  ],
+  "relations": {
+   "synonyms": [
+    "forward",
+    "ahead",
+    "forth"
+   ],
+   "antonyms": [
+    "backwards"
+   ],
+   "collocations": [
+    "from now onwards",
+    "from then onwards",
+    "move onwards",
+    "onwards and upwards"
+   ]
+  },
+  "mnemonic": "فيها 'On' و 'Ward' 'اتجاه'.. يعني مكمل في الاتجاه ده 'Onwards'.",
+  "phonetic_us": "ˈɑːnwɚdz",
+  "phonetic_uk": "ˈɒnwədz",
+  "syllables": "on•wards",
+  "semantic_tags": [
+   "#Time",
+   "#Future",
+   "#Direction",
+   "#Progress"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Forward in time or space; continuing ahead.",
+  "explanation_ar": "من الوقت ده وطالع (فصاعداً)، أو باتجاه الأمام.",
+  "examples": [
+   "The agreement applies from June onwards.",
+   "They marched onwards despite the fatigue.",
+   "The records from the 18th century onwards are well preserved."
+  ],
+  "translations": {
+   "arabic_ar": "فَصَاعِدًا إِلَى الأَمَامِ"
+  },
+  "synonyms": [
+   "forward",
+   "ahead",
+   "forth"
+  ],
+  "antonyms": [
+   "backwards"
+  ],
+  "collocations": [
+   "from now onwards",
+   "from then onwards",
+   "move onwards",
+   "onwards and upwards"
+  ],
+  "mnemonic_ar": "فيها 'On' و 'Ward' 'اتجاه'.. يعني مكمل في الاتجاه ده 'Onwards'."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "perpetrate",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "perpetrate",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To carry out or commit a harmful, illegal, or immoral action.",
+  "explanation_ar": "أن ترتكب أو تقترف جريمة أو عملاً ضاراً أو غير أخلاقي.",
+  "senses": [
+   {
+    "definition_en": "To carry out or commit a harmful, illegal, or immoral action.",
+    "explanation_ar": "أن ترتكب أو تقترف جريمة أو عملاً ضاراً أو غير أخلاقي.",
+    "examples": [
+     "Who would perpetrate such a terrible act?",
+     "A small group of conspirators planned to perpetrate fraud on a massive scale.",
+     "Security analysts warned that hostile actors could perpetrate cyberattacks against vital infrastructure."
+    ]
+   }
+  ],
+  "examples": [
+   "Who would perpetrate such a terrible act?",
+   "A small group of conspirators planned to perpetrate fraud on a massive scale.",
+   "Security analysts warned that hostile actors could perpetrate cyberattacks against vital infrastructure."
+  ],
+  "translations": [
+   "يرتكب",
+   "يقترف",
+   "ارتكاب"
+  ],
+  "relations": {
+   "synonyms": [
+    "commit",
+    "carry out",
+    "execute"
+   ],
+   "antonyms": [
+    "prevent",
+    "stop",
+    "abstain"
+   ],
+   "collocations": [
+    "perpetrate a crime",
+    "perpetrate fraud",
+    "perpetrate violence",
+    "perpetrate a hoax"
+   ]
+  },
+  "mnemonic": "قريبة من 'Perpetual' 'دائم'.. المجرم بيعمل 'Perpetrate' لجرائم بتسيب أثر دائم.",
+  "phonetic_us": "ˈpɜːrpətreɪt",
+  "phonetic_uk": "ˈpɜːpətreɪt",
+  "syllables": "per•pe•trate",
+  "semantic_tags": [
+   "#Crime",
+   "#Law",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To carry out or commit a harmful, illegal, or immoral action.",
+  "explanation_ar": "أن ترتكب أو تقترف جريمة أو عملاً ضاراً أو غير أخلاقي.",
+  "examples": [
+   "Who would perpetrate such a terrible act?",
+   "A small group of conspirators planned to perpetrate fraud on a massive scale.",
+   "Security analysts warned that hostile actors could perpetrate cyberattacks against vital infrastructure."
+  ],
+  "translations": {
+   "arabic_ar": "يرتكب يقترف ارتكاب"
+  },
+  "synonyms": [
+   "commit",
+   "carry out",
+   "execute"
+  ],
+  "antonyms": [
+   "prevent",
+   "stop",
+   "abstain"
+  ],
+  "collocations": [
+   "perpetrate a crime",
+   "perpetrate fraud",
+   "perpetrate violence",
+   "perpetrate a hoax"
+  ],
+  "mnemonic_ar": "قريبة من 'Perpetual' 'دائم'.. المجرم بيعمل 'Perpetrate' لجرائم بتسيب أثر دائم."
+ }
+}

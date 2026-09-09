@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "notion",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "notion",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A conception of or belief about something.",
+  "explanation_ar": "فكرة أو معتقد معين عن حاجة، وأحياناً بتبقى فكرة مش دقيقة أوي.",
+  "senses": [
+   {
+    "definition_en": "A conception of or belief about something.",
+    "definition_ar": "فكرة أو تصور أو معتقد عن شيء ما.",
+    "examples": [
+     "He has a vague notion of the plan.",
+     "She rejected the notion that girls are weaker.",
+     "The whole notion of democracy is complex."
+    ]
+   }
+  ],
+  "examples": [
+   "He has a vague notion of the plan.",
+   "She rejected the notion that girls are weaker.",
+   "The whole notion of democracy is complex."
+  ],
+  "translations": [
+   "فكرة",
+   "مفهوم",
+   "تصور"
+  ],
+  "relations": {
+   "synonyms": [
+    "idea",
+    "belief",
+    "concept",
+    "view",
+    "opinion"
+   ],
+   "antonyms": [
+    "fact",
+    "reality"
+   ],
+   "collocations": [
+    "vague notion",
+    "preconceived notion",
+    "dispel a notion"
+   ]
+  },
+  "mnemonic": "كلمة 'Notion' قريبة من 'Lotion' 'لوشن'.. فكرة إنك تحط 'Lotion' دي مجرد 'Notion' 'فكرة' عشان ترطب بشرتك.",
+  "phonetic_us": "ˈnoʊ.ʃən",
+  "phonetic_uk": "ˈnəʊ.ʃən",
+  "syllables": "no•tion",
+  "semantic_tags": [
+   "Idea",
+   "Belief",
+   "Thought"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A conception of or belief about something.",
+  "explanation_ar": "فكرة أو معتقد معين عن حاجة، وأحياناً بتبقى فكرة مش دقيقة أوي.",
+  "examples": [
+   "He has a vague notion of the plan.",
+   "She rejected the notion that girls are weaker.",
+   "The whole notion of democracy is complex."
+  ],
+  "translations": {
+   "arabic_ar": "فكرة مفهوم تصور"
+  },
+  "synonyms": [
+   "idea",
+   "belief",
+   "concept",
+   "view",
+   "opinion"
+  ],
+  "antonyms": [
+   "fact",
+   "reality"
+  ],
+  "collocations": [
+   "vague notion",
+   "preconceived notion",
+   "dispel a notion"
+  ],
+  "mnemonic_ar": "كلمة 'Notion' قريبة من 'Lotion' 'لوشن'.. فكرة إنك تحط 'Lotion' دي مجرد 'Notion' 'فكرة' عشان ترطب بشرتك."
+ }
+}

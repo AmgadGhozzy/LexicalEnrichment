@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "lexical",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "lexical",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to the words or vocabulary of a language.",
+  "explanation_ar": "معجمي.. حاجة ليها علاقة بالكلمات والمفردات في اللغة.",
+  "senses": [
+   {
+    "definition_en": "Relating to the words or vocabulary of a language.",
+    "explanation_ar": "معجمي، أي متعلق بالكلمات والمفردات في اللغة."
+   }
+  ],
+  "examples": [
+   "English has a rich lexical variety.",
+   "The lexical density of this text is very high.",
+   "He analyzed the lexical structure of the poem."
+  ],
+  "translations": [
+   "معجمي",
+   "مفرداتي"
+  ],
+  "relations": {
+   "synonyms": [
+    "linguistic"
+   ],
+   "antonyms": [
+    "grammatical"
+   ],
+   "collocations": [
+    "lexical item",
+    "lexical meaning",
+    "lexical analysis"
+   ]
+  },
+  "mnemonic": "جاية من 'Lexicon' 'قاموس'.. يعني حاجة ليها علاقة بالكلمات اللي في القاموس.",
+  "phonetic_us": "ˈlɛksɪkl",
+  "phonetic_uk": "ˈleksɪkl",
+  "syllables": "lex•i•cal",
+  "semantic_tags": [
+   "Language",
+   "Words",
+   "Linguistics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to the words or vocabulary of a language.",
+  "explanation_ar": "معجمي.. حاجة ليها علاقة بالكلمات والمفردات في اللغة.",
+  "examples": [
+   "English has a rich lexical variety.",
+   "The lexical density of this text is very high.",
+   "He analyzed the lexical structure of the poem."
+  ],
+  "translations": {
+   "arabic_ar": "معجمي مفرداتي"
+  },
+  "synonyms": [
+   "linguistic"
+  ],
+  "antonyms": [
+   "grammatical"
+  ],
+  "collocations": [
+   "lexical item",
+   "lexical meaning",
+   "lexical analysis"
+  ],
+  "mnemonic_ar": "جاية من 'Lexicon' 'قاموس'.. يعني حاجة ليها علاقة بالكلمات اللي في القاموس."
+ }
+}

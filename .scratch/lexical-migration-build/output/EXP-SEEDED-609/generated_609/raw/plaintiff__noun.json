@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "plaintiff",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "plaintiff",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A person who brings a case against another in a court of law.",
+  "explanation_ar": "الشخص اللي بيرفع قضية على حد تاني في المحكمة 'المدعي'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person who brings a case against another in a court of law.",
+    "explanation_ar": "الشخص الذي يرفع دعوى قضائية ضد طرف آخر أمام المحكمة (المدعي).",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The burden of proof lies with the plaintiff.",
+   "The judge ruled in favor of the plaintiff after reviewing the evidence.",
+   "The lawyer advised the plaintiff to accept the settlement offer."
+  ],
+  "translations": [
+   "المدعي",
+   "صاحب الدعوى"
+  ],
+  "relations": {
+   "synonyms": [
+    "complainant",
+    "claimant",
+    "petitioner"
+   ],
+   "antonyms": [
+    "defendant"
+   ],
+   "collocations": [
+    "represent the plaintiff",
+    "find for the plaintiff",
+    "named plaintiff"
+   ]
+  },
+  "mnemonic": "جاية من 'Complain' 'يشتكي'.. الـ 'Plaintiff' هو اللي بيقدم الشكوى للمحكمة.",
+  "phonetic_us": "ˈpleɪntɪf",
+  "phonetic_uk": "ˈpleɪntɪf",
+  "syllables": "plain•tiff",
+  "semantic_tags": [
+   "#Law",
+   "#Court",
+   "#Legal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who brings a case against another in a court of law.",
+  "explanation_ar": "الشخص اللي بيرفع قضية على حد تاني في المحكمة 'المدعي'.",
+  "examples": [
+   "The burden of proof lies with the plaintiff.",
+   "The judge ruled in favor of the plaintiff after reviewing the evidence.",
+   "The lawyer advised the plaintiff to accept the settlement offer."
+  ],
+  "translations": {
+   "arabic_ar": "المدعي صاحب الدعوى"
+  },
+  "synonyms": [
+   "complainant",
+   "claimant",
+   "petitioner"
+  ],
+  "antonyms": [
+   "defendant"
+  ],
+  "collocations": [
+   "represent the plaintiff",
+   "find for the plaintiff",
+   "named plaintiff"
+  ],
+  "mnemonic_ar": "جاية من 'Complain' 'يشتكي'.. الـ 'Plaintiff' هو اللي بيقدم الشكوى للمحكمة."
+ }
+}

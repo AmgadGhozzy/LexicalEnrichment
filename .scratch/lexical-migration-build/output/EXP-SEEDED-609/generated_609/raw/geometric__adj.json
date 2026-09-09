@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "geometric",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "geometric",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to geometry, or characterized by regular lines and shapes.",
+  "explanation_ar": "ليه علاقة بالأشكال الهندسية زي المربع والمثلث والخطوط المستقيمة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Characterized by or decorated with regular lines and shapes.",
+    "explanation_ar": "متميز بأشكال وخطوط هندسية منتظمة كالمربعات والدوائر.",
+    "examples": [
+     "The building has a geometric design.",
+     "Islamic art is famous for its geometric patterns."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Relating to geometry or mathematical principles.",
+    "explanation_ar": "خاص بعلم الهندسة الرياضية وقوانينها.",
+    "examples": [
+     "The population growth followed a geometric progression."
+    ]
+   }
+  ],
+  "examples": [
+   "The building has a geometric design.",
+   "Islamic art is famous for its geometric patterns.",
+   "The population growth followed a geometric progression."
+  ],
+  "translations": [
+   "هندسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "mathematical",
+    "symmetrical",
+    "structural"
+   ],
+   "antonyms": [
+    "organic",
+    "irregular"
+   ],
+   "collocations": [
+    "geometric pattern",
+    "geometric shape",
+    "geometric progression"
+   ]
+  },
+  "mnemonic": "'Geo' أرض + 'Metric' قياس.. الهندسة هي قياس الأرض والأشكال.",
+  "phonetic_us": "ˌdʒiːəˈmetrɪk",
+  "phonetic_uk": "ˌdʒiːəˈmetrɪk",
+  "syllables": "geo•met•ric",
+  "semantic_tags": [
+   "#Math",
+   "#Shape",
+   "#Design"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Relating to geometry, or characterized by regular lines and shapes.",
+  "explanation_ar": "ليه علاقة بالأشكال الهندسية زي المربع والمثلث والخطوط المستقيمة.",
+  "examples": [
+   "The building has a geometric design.",
+   "Islamic art is famous for its geometric patterns.",
+   "The population growth followed a geometric progression."
+  ],
+  "translations": {
+   "arabic_ar": "هندسي"
+  },
+  "synonyms": [
+   "mathematical",
+   "symmetrical",
+   "structural"
+  ],
+  "antonyms": [
+   "organic",
+   "irregular"
+  ],
+  "collocations": [
+   "geometric pattern",
+   "geometric shape",
+   "geometric progression"
+  ],
+  "mnemonic_ar": "'Geo' أرض + 'Metric' قياس.. الهندسة هي قياس الأرض والأشكال."
+ }
+}

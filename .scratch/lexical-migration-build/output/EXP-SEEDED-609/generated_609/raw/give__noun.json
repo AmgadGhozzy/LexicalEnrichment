@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "give",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "give",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The capacity to bend or alter shape under pressure without breaking; elasticity.",
+  "explanation_ar": "المرونة أو القابلية للثني؛ القدرة على التحرك أو التمدد تحت الضغط دون أن ينكسر الشيء.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The capacity to bend or alter shape under pressure without breaking; elasticity.",
+    "definition_ar": "المرونة أو القابلية للانثناء والضغط دون انكسار.",
+    "examples": [
+     "The floor is hard; it has no give.",
+     "These new shoes have enough give to be comfortable.",
+     "There is no give in the rope; it is pulled tight."
+    ]
+   }
+  ],
+  "examples": [
+   "The floor is hard; it has no give.",
+   "These new shoes have enough give to be comfortable.",
+   "There is no give in the rope; it is pulled tight."
+  ],
+  "translations": [
+   "مرونة",
+   "مطاطية"
+  ],
+  "relations": {
+   "synonyms": [
+    "elasticity",
+    "flexibility",
+    "resilience"
+   ],
+   "antonyms": [
+    "rigidity",
+    "stiffness"
+   ],
+   "collocations": [
+    "no give",
+    "some give",
+    "give and take"
+   ]
+  },
+  "mnemonic": "كلمة 'Give' معناها يعطي.. والشيء اللي فيه 'Give' 'مرونة' هو اللي 'بيديك' مساحة تتحرك وما بيعاندش معاك.",
+  "phonetic_us": "ɡɪv",
+  "phonetic_uk": "ɡɪv",
+  "syllables": "give",
+  "semantic_tags": [
+   "#Elasticity",
+   "#Flexibility",
+   "#Materials"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The capacity to bend or alter shape under pressure without breaking; elasticity.",
+  "explanation_ar": "المرونة أو القابلية للثني؛ القدرة على التحرك أو التمدد تحت الضغط دون أن ينكسر الشيء.",
+  "examples": [
+   "The floor is hard; it has no give.",
+   "These new shoes have enough give to be comfortable.",
+   "There is no give in the rope; it is pulled tight."
+  ],
+  "translations": {
+   "arabic_ar": "مرونة مطاطية"
+  },
+  "synonyms": [
+   "elasticity",
+   "flexibility",
+   "resilience"
+  ],
+  "antonyms": [
+   "rigidity",
+   "stiffness"
+  ],
+  "collocations": [
+   "no give",
+   "some give",
+   "give and take"
+  ],
+  "mnemonic_ar": "كلمة 'Give' معناها يعطي.. والشيء اللي فيه 'Give' 'مرونة' هو اللي 'بيديك' مساحة تتحرك وما بيعاندش معاك."
+ }
+}

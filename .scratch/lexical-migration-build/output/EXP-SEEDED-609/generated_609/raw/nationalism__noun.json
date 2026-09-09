@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "nationalism",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "nationalism",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A strong feeling of pride in and devotion to one's country, often accompanied by the belief in its superiority or the desire for self-governance.",
+  "explanation_ar": "القومية؛ الشعور القوي بالانتماء للوطن وتفضيل مصلحته، أو الرغبة في الاستقلال الوطني.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A strong feeling of pride in and devotion to one's country, often accompanied by the belief in its superiority or the desire for self-governance.",
+    "definition_ar": "القومية؛ الشعور القوي بالانتماء للوطن وتفضيل مصلحته، أو الرغبة في الاستقلال الوطني.",
+    "examples": [
+     "The war increased feelings of nationalism.",
+     "The rise of extreme nationalism worries many leaders.",
+     "Nineteenth-century nationalism reshaped the map of Europe."
+    ]
+   }
+  ],
+  "examples": [
+   "The war increased feelings of nationalism.",
+   "The rise of extreme nationalism worries many leaders.",
+   "Nineteenth-century nationalism reshaped the map of Europe."
+  ],
+  "translations": [
+   "القومية",
+   "الوطنية"
+  ],
+  "relations": {
+   "synonyms": [
+    "patriotism",
+    "allegiance",
+    "loyalty"
+   ],
+   "antonyms": [
+    "internationalism",
+    "globalism"
+   ],
+   "collocations": [
+    "extreme nationalism",
+    "rise of nationalism",
+    "economic nationalism"
+   ]
+  },
+  "mnemonic": "جاية من كلمة nation (أمة/دولة)، واللاحقة -ism بتدل على الفكر أو المذهب، فيبقى nationalism هو فكر الانتماء للأمة والاعتزاز بيها (القومية).",
+  "phonetic_us": "ˈnæʃənəlɪzəm",
+  "phonetic_uk": "ˈnæʃnəlɪzəm",
+  "syllables": "na•tion•al•ism",
+  "semantic_tags": [
+   "#Politics",
+   "#Country",
+   "#Identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A strong feeling of pride in and devotion to one's country, often accompanied by the belief in its superiority or the desire for self-governance.",
+  "explanation_ar": "القومية؛ الشعور القوي بالانتماء للوطن وتفضيل مصلحته، أو الرغبة في الاستقلال الوطني.",
+  "examples": [
+   "The war increased feelings of nationalism.",
+   "The rise of extreme nationalism worries many leaders.",
+   "Nineteenth-century nationalism reshaped the map of Europe."
+  ],
+  "translations": {
+   "arabic_ar": "القومية الوطنية"
+  },
+  "synonyms": [
+   "patriotism",
+   "allegiance",
+   "loyalty"
+  ],
+  "antonyms": [
+   "internationalism",
+   "globalism"
+  ],
+  "collocations": [
+   "extreme nationalism",
+   "rise of nationalism",
+   "economic nationalism"
+  ],
+  "mnemonic_ar": "جاية من كلمة nation (أمة/دولة)، واللاحقة -ism بتدل على الفكر أو المذهب، فيبقى nationalism هو فكر الانتماء للأمة والاعتزاز بيها (القومية)."
+ }
+}

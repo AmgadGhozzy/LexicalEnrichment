@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "grind",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "grind",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To crush something into small particles; to rub surfaces together harshly.",
+  "explanation_ar": "إنك تكسر حاجة وتخليها بودرة، أو تحك حاجتين في بعض جامد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To crush substances into powder or small pieces between hard surfaces.",
+    "definition_ar": "يطحن الحبوب أو المواد الصلبة لتصبح مسحوقاً.",
+    "cefr": "B1"
+   },
+   {
+    "definition_en": "To rub two hard surfaces or teeth together firmly with a harsh noise.",
+    "definition_ar": "يصرّ على أسنانه أو يحك سطحين ببعضهما بقوة.",
+    "cefr": "B2"
+   },
+   {
+    "definition_en": "To move, operate, or progress slowly, with difficulty, or to come to a stop.",
+    "definition_ar": "يتوقف أو يتعطل تدريجياً وبصعوبة (كما في التعبير grind to a halt).",
+    "cefr": "C1"
+   }
+  ],
+  "examples": [
+   "They grind fresh coffee beans every morning.",
+   "Stress often causes people to grind their teeth at night.",
+   "Without immediate funding, the entire project will grind to a halt."
+  ],
+  "translations": [
+   "يطحن",
+   "يسحق",
+   "يصرّ على أسنانه"
+  ],
+  "relations": {
+   "synonyms": [
+    "crush",
+    "pulverize",
+    "mill",
+    "gnash",
+    "grate"
+   ],
+   "antonyms": [
+    "smooth",
+    "polish"
+   ],
+   "collocations": [
+    "grind teeth",
+    "grind to a halt",
+    "axe to grind",
+    "grind down"
+   ]
+  },
+  "mnemonic": "زي ما الـ 'Grinder' بتطحن البن، الـ 'Grind' هو الفعل نفسه.",
+  "phonetic_us": "/ɡraɪnd/",
+  "phonetic_uk": "/ɡraɪnd/",
+  "syllables": "grind",
+  "semantic_tags": [
+   "#Crush",
+   "#Coffee",
+   "#Teeth",
+   "#Rub"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To crush something into small particles; to rub surfaces together harshly.",
+  "explanation_ar": "إنك تكسر حاجة وتخليها بودرة، أو تحك حاجتين في بعض جامد.",
+  "examples": [
+   "They grind fresh coffee beans every morning.",
+   "Stress often causes people to grind their teeth at night.",
+   "Without immediate funding, the entire project will grind to a halt."
+  ],
+  "translations": {
+   "arabic_ar": "يطحن يسحق يصرّ على أسنانه"
+  },
+  "synonyms": [
+   "crush",
+   "pulverize",
+   "mill",
+   "gnash",
+   "grate"
+  ],
+  "antonyms": [
+   "smooth",
+   "polish"
+  ],
+  "collocations": [
+   "grind teeth",
+   "grind to a halt",
+   "axe to grind",
+   "grind down"
+  ],
+  "mnemonic_ar": "زي ما الـ 'Grinder' بتطحن البن، الـ 'Grind' هو الفعل نفسه."
+ }
+}

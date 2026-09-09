@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "kneel",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "kneel",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To go down on your knees.",
+  "explanation_ar": "أن تنزل على ركبتيك (تركع أو تجثو).",
+  "senses": [
+   {
+    "sense_id": "kneel_v_1",
+    "definition_en": "To go down or rest on one or both knees.",
+    "explanation_ar": "النزول على الركبتين أو الجثو عليهما.",
+    "examples": [
+     "Kneel down on the cushion if the floor is too hard.",
+     "The protesters decided to kneel in silent demonstration.",
+     "You should kneel so the children can see your face clearly."
+    ]
+   }
+  ],
+  "examples": [
+   "Kneel down on the cushion if the floor is too hard.",
+   "The protesters decided to kneel in silent demonstration.",
+   "You should kneel so the children can see your face clearly."
+  ],
+  "translations": [
+   "يركع",
+   "يجثو"
+  ],
+  "relations": {
+   "synonyms": [
+    "genuflect",
+    "bow"
+   ],
+   "antonyms": [
+    "stand",
+    "rise"
+   ],
+   "collocations": [
+    "kneel down",
+    "kneel and pray",
+    "kneel before"
+   ]
+  },
+  "mnemonic": "جاية من كلمة 'Knee' (ركبة).. يعني تنزل على ركبتك.",
+  "phonetic_us": "niːl",
+  "phonetic_uk": "niːl",
+  "syllables": [
+   "kneel"
+  ],
+  "semantic_tags": [
+   "#Body",
+   "#Move",
+   "#Pray",
+   "#Respect"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To go down on your knees.",
+  "explanation_ar": "أن تنزل على ركبتيك (تركع أو تجثو).",
+  "examples": [
+   "Kneel down on the cushion if the floor is too hard.",
+   "The protesters decided to kneel in silent demonstration.",
+   "You should kneel so the children can see your face clearly."
+  ],
+  "translations": {
+   "arabic_ar": "يركع يجثو"
+  },
+  "synonyms": [
+   "genuflect",
+   "bow"
+  ],
+  "antonyms": [
+   "stand",
+   "rise"
+  ],
+  "collocations": [
+   "kneel down",
+   "kneel and pray",
+   "kneel before"
+  ],
+  "mnemonic_ar": "جاية من كلمة 'Knee' (ركبة).. يعني تنزل على ركبتك."
+ }
+}

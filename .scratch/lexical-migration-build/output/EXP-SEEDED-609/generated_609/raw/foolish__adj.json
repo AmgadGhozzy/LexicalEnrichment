@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "foolish",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "foolish",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Lacking good sense or judgment; unwise.",
+  "explanation_ar": "غير حكيم أو أحمق؛ يصف شخصاً أو تصرفاً يفتقر إلى حسن التقدير والتمييز.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Lacking good sense or judgment; unwise.",
+    "explanation_ar": "غير حكيم أو أحمق؛ يفتقر إلى حسن التقدير والتمييز.",
+    "examples": [
+     "That was a foolish thing to do.",
+     "I felt foolish when I forgot his name.",
+     "It would be foolish to ignore the warnings of history."
+    ]
+   }
+  ],
+  "examples": [
+   "That was a foolish thing to do.",
+   "I felt foolish when I forgot his name.",
+   "It would be foolish to ignore the warnings of history."
+  ],
+  "translations": [
+   "أحمق",
+   "غير حكيم",
+   "مغفل"
+  ],
+  "relations": {
+   "synonyms": [
+    "unwise",
+    "silly",
+    "imprudent"
+   ],
+   "antonyms": [
+    "wise",
+    "sensible",
+    "prudent"
+   ],
+   "collocations": [
+    "foolish mistake",
+    "feel foolish",
+    "look foolish"
+   ]
+  },
+  "mnemonic": "جاية من 'Fool' 'مغفل'.. الشخص الـ 'Fool' بيعمل تصرفات 'Foolish'.",
+  "phonetic_us": "ˈfuː.lɪʃ",
+  "phonetic_uk": "ˈfuː.lɪʃ",
+  "syllables": "fool•ish",
+  "semantic_tags": [
+   "Personality",
+   "Judgment",
+   "Mistake"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Lacking good sense or judgment; unwise.",
+  "explanation_ar": "غير حكيم أو أحمق؛ يصف شخصاً أو تصرفاً يفتقر إلى حسن التقدير والتمييز.",
+  "examples": [
+   "That was a foolish thing to do.",
+   "I felt foolish when I forgot his name.",
+   "It would be foolish to ignore the warnings of history."
+  ],
+  "translations": {
+   "arabic_ar": "أحمق غير حكيم مغفل"
+  },
+  "synonyms": [
+   "unwise",
+   "silly",
+   "imprudent"
+  ],
+  "antonyms": [
+   "wise",
+   "sensible",
+   "prudent"
+  ],
+  "collocations": [
+   "foolish mistake",
+   "feel foolish",
+   "look foolish"
+  ],
+  "mnemonic_ar": "جاية من 'Fool' 'مغفل'.. الشخص الـ 'Fool' بيعمل تصرفات 'Foolish'."
+ }
+}

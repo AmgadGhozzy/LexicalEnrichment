@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "he",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "he",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A male person or animal.",
+  "explanation_ar": "كلمة تُستخدم للدلالة على شخص أو حيوان ذكر.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A male person or animal.",
+    "explanation_ar": "شخص أو حيوان ذكر.",
+    "examples": [
+     "Is the cat a he?",
+     "We don't know if the baby is a he or a she.",
+     "That dog is definitely a he."
+    ]
+   }
+  ],
+  "examples": [
+   "Is the cat a he?",
+   "We don't know if the baby is a he or a she.",
+   "That dog is definitely a he."
+  ],
+  "translations": [
+   "ذكر"
+  ],
+  "relations": {
+   "synonyms": [
+    "male"
+   ],
+   "antonyms": [
+    "she",
+    "female"
+   ],
+   "collocations": [
+    "a he or a she",
+    "is it a he"
+   ]
+  },
+  "mnemonic": "نطق كلمة 'he' يشبه كلمة 'هي' في العربية، لكن المعنى عكس ذلك تماماً: 'he' تعني هو أو ذكر.",
+  "phonetic_us": "/hiː/",
+  "phonetic_uk": "/hiː/",
+  "syllables": "he",
+  "semantic_tags": [
+   "gender",
+   "people",
+   "identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A male person or animal.",
+  "explanation_ar": "كلمة تُستخدم للدلالة على شخص أو حيوان ذكر.",
+  "examples": [
+   "Is the cat a he?",
+   "We don't know if the baby is a he or a she.",
+   "That dog is definitely a he."
+  ],
+  "translations": {
+   "arabic_ar": "ذكر"
+  },
+  "synonyms": [
+   "male"
+  ],
+  "antonyms": [
+   "she",
+   "female"
+  ],
+  "collocations": [
+   "a he or a she",
+   "is it a he"
+  ],
+  "mnemonic_ar": "نطق كلمة 'he' يشبه كلمة 'هي' في العربية، لكن المعنى عكس ذلك تماماً: 'he' تعني هو أو ذكر."
+ }
+}

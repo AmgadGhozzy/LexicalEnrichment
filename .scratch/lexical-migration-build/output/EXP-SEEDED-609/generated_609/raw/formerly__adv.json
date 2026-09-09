@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "formerly",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "formerly",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In the past; in earlier times.",
+  "explanation_ar": "سابقاً، يعني زمان أو في وقت فات، بنستخدمها لما نتكلم عن حاجة اتغيرت.",
+  "senses": [
+   {
+    "definition_en": "In the past; in earlier times.",
+    "definition_ar": "سابقاً، في وقت مضى",
+    "pos": "adv"
+   }
+  ],
+  "examples": [
+   "The house was formerly a school.",
+   "He formerly worked in a bank.",
+   "This country was formerly known as Burma."
+  ],
+  "translations": [
+   "سابقاً"
+  ],
+  "relations": {
+   "synonyms": [
+    "previously",
+    "earlier",
+    "once"
+   ],
+   "antonyms": [
+    "currently",
+    "now",
+    "presently"
+   ],
+   "collocations": [
+    "formerly known as",
+    "formerly called"
+   ]
+  },
+  "mnemonic": "جاية من 'Formal'.. لأ، جاية من 'Former' يعني السابق.",
+  "phonetic_us": "ˈfɔːɹ.mɚ.li",
+  "phonetic_uk": "ˈfɔː.mə.li",
+  "syllables": "for•mer•ly",
+  "semantic_tags": [
+   "#Past",
+   "#History",
+   "#Change"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "In the past; in earlier times.",
+  "explanation_ar": "سابقاً، يعني زمان أو في وقت فات، بنستخدمها لما نتكلم عن حاجة اتغيرت.",
+  "examples": [
+   "The house was formerly a school.",
+   "He formerly worked in a bank.",
+   "This country was formerly known as Burma."
+  ],
+  "translations": {
+   "arabic_ar": "سابقاً"
+  },
+  "synonyms": [
+   "previously",
+   "earlier",
+   "once"
+  ],
+  "antonyms": [
+   "currently",
+   "now",
+   "presently"
+  ],
+  "collocations": [
+   "formerly known as",
+   "formerly called"
+  ],
+  "mnemonic_ar": "جاية من 'Formal'.. لأ، جاية من 'Former' يعني السابق."
+ }
+}

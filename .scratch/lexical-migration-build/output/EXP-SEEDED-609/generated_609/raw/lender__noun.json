@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "lender",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "lender",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An organization or person that lends money.",
+  "explanation_ar": "الشخص أو البنك اللي بيسلفك فلوس وعادة بياخد عليها فوايد.",
+  "senses": [
+   {
+    "definition_en": "An organization or person that lends money.",
+    "explanation_ar": "الشخص أو البنك اللي بيسلفك فلوس وعادة بياخد عليها فوايد.",
+    "examples": [
+     "The lender requires collateral before approving the loan.",
+     "You must repay the lender according to the agreed schedule.",
+     "They decided to work with a private lender to finance the project."
+    ]
+   }
+  ],
+  "examples": [
+   "The lender requires collateral before approving the loan.",
+   "You must repay the lender according to the agreed schedule.",
+   "They decided to work with a private lender to finance the project."
+  ],
+  "translations": [
+   "مُقْرِض",
+   "جهة إقراض"
+  ],
+  "relations": {
+   "synonyms": [
+    "creditor",
+    "financier"
+   ],
+   "antonyms": [
+    "borrower",
+    "debtor"
+   ],
+   "collocations": [
+    "mortgage lender",
+    "money lender",
+    "lender of last resort",
+    "private lender"
+   ]
+  },
+  "mnemonic": "جاية من 'Lend' 'يسلف'.. الـ 'Lender' هو اللي بيسلف.",
+  "phonetic_us": "ˈlɛndɚ",
+  "phonetic_uk": "ˈlendə",
+  "syllables": [
+   "len",
+   "der"
+  ],
+  "semantic_tags": [
+   "Money",
+   "Finance",
+   "Bank",
+   "Debt"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An organization or person that lends money.",
+  "explanation_ar": "الشخص أو البنك اللي بيسلفك فلوس وعادة بياخد عليها فوايد.",
+  "examples": [
+   "The lender requires collateral before approving the loan.",
+   "You must repay the lender according to the agreed schedule.",
+   "They decided to work with a private lender to finance the project."
+  ],
+  "translations": {
+   "arabic_ar": "مُقْرِض جهة إقراض"
+  },
+  "synonyms": [
+   "creditor",
+   "financier"
+  ],
+  "antonyms": [
+   "borrower",
+   "debtor"
+  ],
+  "collocations": [
+   "mortgage lender",
+   "money lender",
+   "lender of last resort",
+   "private lender"
+  ],
+  "mnemonic_ar": "جاية من 'Lend' 'يسلف'.. الـ 'Lender' هو اللي بيسلف."
+ }
+}

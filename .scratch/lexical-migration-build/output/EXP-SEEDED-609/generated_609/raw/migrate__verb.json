@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "migrate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "migrate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To move from one region or habitat to another, especially seasonally or in search of work, or to transfer computer data between systems.",
+  "explanation_ar": "يعني يسيب بلده أو مكانه ويروح مكان تاني.. زي الطيور أو الناس، وتُستخدم أيضاً في مجال التقنية لنقل البيانات من نظام لآخر.",
+  "senses": [
+   {
+    "definition_en": "To move from one region, country, or habitat to another, especially seasonally or to find work.",
+    "definition_ar": "أن ينتقل من مكان أو موطن إلى آخر، خاصة في مواسم معينة أو بحثاً عن العمل والعيش.",
+    "examples": [
+     "Some birds migrate in winter.",
+     "Thousands of workers migrate to the city for jobs."
+    ]
+   },
+   {
+    "definition_en": "To transfer data, software, or computer systems from one environment to another.",
+    "definition_ar": "نقل البرمجيات أو البيانات من نظام حاسوبي إلى نظام آخر.",
+    "examples": [
+     "We need to migrate the data to a new server."
+    ]
+   }
+  ],
+  "examples": [
+   "Some birds migrate in winter.",
+   "Thousands of workers migrate to the city for jobs.",
+   "We need to migrate the data to a new server."
+  ],
+  "translations": [
+   "يُهاجِر",
+   "يرتحل",
+   "ينقل (بيانات)"
+  ],
+  "relations": {
+   "synonyms": [
+    "relocate",
+    "move",
+    "emigrate"
+   ],
+   "antonyms": [
+    "stay",
+    "remain",
+    "settle"
+   ],
+   "collocations": [
+    "birds migrate",
+    "migrate to",
+    "migrate south"
+   ],
+   "word_family": {
+    "noun": "migration",
+    "adjective": "migratory",
+    "verb": "migrate"
+   }
+  },
+  "mnemonic": "الطيور بتعمل 'Migration' يعني هجرة.. بتسيب مكان وتروح مكان",
+  "phonetic_us": "ˈmaɪˌɡreɪt",
+  "phonetic_uk": "maɪˈɡreɪt",
+  "syllables": "mi•grate",
+  "semantic_tags": [
+   "#Travel",
+   "#Nature",
+   "#Population",
+   "#Change"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To move from one region or habitat to another, especially seasonally or in search of work, or to transfer computer data between systems.",
+  "explanation_ar": "يعني يسيب بلده أو مكانه ويروح مكان تاني.. زي الطيور أو الناس، وتُستخدم أيضاً في مجال التقنية لنقل البيانات من نظام لآخر.",
+  "examples": [
+   "Some birds migrate in winter.",
+   "Thousands of workers migrate to the city for jobs.",
+   "We need to migrate the data to a new server."
+  ],
+  "translations": {
+   "arabic_ar": "يُهاجِر يرتحل ينقل (بيانات)"
+  },
+  "synonyms": [
+   "relocate",
+   "move",
+   "emigrate"
+  ],
+  "antonyms": [
+   "stay",
+   "remain",
+   "settle"
+  ],
+  "collocations": [
+   "birds migrate",
+   "migrate to",
+   "migrate south"
+  ],
+  "mnemonic_ar": "الطيور بتعمل 'Migration' يعني هجرة.. بتسيب مكان وتروح مكان"
+ }
+}

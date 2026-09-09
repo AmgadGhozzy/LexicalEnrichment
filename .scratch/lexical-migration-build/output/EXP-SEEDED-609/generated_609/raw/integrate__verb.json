@@ -1,0 +1,111 @@
+{
+ "identity": {
+  "lemma": "integrate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "integrate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To combine two or more things to form a whole, or to become accepted as part of a group or community.",
+  "explanation_ar": "إنك تدمج حاجات مع بعض عشان يعملوا نظام واحد متكامل، أو شخص يندمج في مجتمع جديد.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To combine two or more things so that they work together effectively.",
+    "explanation_ar": "دمج شيئين أو أكثر معاً ليعملا كنظام متكامل.",
+    "translation": "يدمج"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To become part of a group or society and be accepted by them.",
+    "explanation_ar": "الاندماج في جماعة أو مجتمع والتأقلم معهم.",
+    "translation": "يندمج"
+   }
+  ],
+  "examples": [
+   "We need to integrate the new software with the old system.",
+   "The policy aims to integrate immigrants into the community.",
+   "It takes time to integrate into a completely new culture."
+  ],
+  "translations": [
+   "يدمج",
+   "يندمج"
+  ],
+  "relations": {
+   "synonyms": [
+    "combine",
+    "merge",
+    "unite",
+    "assimilate",
+    "incorporate"
+   ],
+   "antonyms": [
+    "separate",
+    "segregate",
+    "divide",
+    "isolate"
+   ],
+   "collocations": [
+    "integrate into",
+    "fully integrated",
+    "integrate systems",
+    "integrate with"
+   ],
+   "related_words": [
+    "integration",
+    "integral",
+    "integrity"
+   ],
+   "word_family": {
+    "noun": "integration",
+    "verb": "integrate",
+    "adjective": "integrated"
+   }
+  },
+  "mnemonic": "افتكر 'Integer' 'رقم صحيح'.. بتجمع الكسور والأجزاء عشان تعمل واحد صحيح 'Integrated'.",
+  "phonetic_us": "ˈɪntəˌɡreɪt",
+  "phonetic_uk": "ˈɪntɪɡreɪt",
+  "syllables": "in•te•grate",
+  "semantic_tags": [
+   "#Actions",
+   "#Society",
+   "#Technology",
+   "#Unity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To combine two or more things to form a whole, or to become accepted as part of a group or community.",
+  "explanation_ar": "إنك تدمج حاجات مع بعض عشان يعملوا نظام واحد متكامل، أو شخص يندمج في مجتمع جديد.",
+  "examples": [
+   "We need to integrate the new software with the old system.",
+   "The policy aims to integrate immigrants into the community.",
+   "It takes time to integrate into a completely new culture."
+  ],
+  "translations": {
+   "arabic_ar": "يدمج يندمج"
+  },
+  "synonyms": [
+   "combine",
+   "merge",
+   "unite",
+   "assimilate",
+   "incorporate"
+  ],
+  "antonyms": [
+   "separate",
+   "segregate",
+   "divide",
+   "isolate"
+  ],
+  "collocations": [
+   "integrate into",
+   "fully integrated",
+   "integrate systems",
+   "integrate with"
+  ],
+  "mnemonic_ar": "افتكر 'Integer' 'رقم صحيح'.. بتجمع الكسور والأجزاء عشان تعمل واحد صحيح 'Integrated'."
+ }
+}

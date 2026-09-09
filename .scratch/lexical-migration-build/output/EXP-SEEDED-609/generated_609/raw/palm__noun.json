@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "palm",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "palm",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The inner surface of the hand between the wrist and the fingers, or a tropical tree with a crown of large leaves.",
+  "explanation_ar": "ليها معنيين: يا إما كف الإيد من جوه (باطن اليد)، يا إما شجرة النخيل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The inner surface of the hand between the wrist and the fingers.",
+    "definition_ar": "كف اليد أو باطن اليد.",
+    "examples": [
+     "He held the gold coin tightly in his palm.",
+     "She read my fortune in my palm."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A tropical or subtropical tree with a tall, branchless trunk and a crown of large leaves at the top.",
+    "definition_ar": "شجرة النخيل.",
+    "examples": [
+     "We rested under the shade of a tall palm on the beach."
+    ]
+   }
+  ],
+  "examples": [
+   "He held the gold coin tightly in his palm.",
+   "She read my fortune in my palm.",
+   "We rested under the shade of a tall palm on the beach."
+  ],
+  "translations": [
+   "كف اليد",
+   "باطن اليد",
+   "نخلة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "palm tree",
+    "palm oil",
+    "palm of hand",
+    "read palm"
+   ]
+  },
+  "mnemonic": "حرف الـ L فيها سايلنت 'لا ينطق'، بتتنطق 'بام' زي صوت الخبطة بكف الإيد.",
+  "phonetic_us": "pɑm",
+  "phonetic_uk": "pɑːm",
+  "syllables": "palm",
+  "semantic_tags": [
+   "#Body",
+   "#Hand",
+   "#Trees",
+   "#Nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The inner surface of the hand between the wrist and the fingers, or a tropical tree with a crown of large leaves.",
+  "explanation_ar": "ليها معنيين: يا إما كف الإيد من جوه (باطن اليد)، يا إما شجرة النخيل.",
+  "examples": [
+   "He held the gold coin tightly in his palm.",
+   "She read my fortune in my palm.",
+   "We rested under the shade of a tall palm on the beach."
+  ],
+  "translations": {
+   "arabic_ar": "كف اليد باطن اليد نخلة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "palm tree",
+   "palm oil",
+   "palm of hand",
+   "read palm"
+  ],
+  "mnemonic_ar": "حرف الـ L فيها سايلنت 'لا ينطق'، بتتنطق 'بام' زي صوت الخبطة بكف الإيد."
+ }
+}

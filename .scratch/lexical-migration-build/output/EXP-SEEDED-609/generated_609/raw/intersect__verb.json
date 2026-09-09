@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "intersect",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intersect",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To divide by passing or lying across; to cross each other.",
+  "explanation_ar": "لما خطين أو طريقين يقطعوا بعض ويتقابلوا في نقطة واحدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To cross each other or meet at a point (of lines, paths, or surfaces).",
+    "definition_ar": "يتقاطع؛ يمر خط أو طريق عبر آخر ويلتقيان في نقطة",
+    "examples": [
+     "Two roads intersect near my house.",
+     "The two circles intersect at two points."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To overlap or have common ground in ideas, interests, or fields.",
+    "definition_ar": "يتلاقى أو يتداخل في مجالات أو اهتمامات مشتركة",
+    "examples": [
+     "Our interests intersect in the field of technology."
+    ]
+   }
+  ],
+  "examples": [
+   "Two roads intersect near my house.",
+   "The two circles intersect at two points.",
+   "Our interests intersect in the field of technology."
+  ],
+  "translations": [
+   "يتقاطع",
+   "تتقاطع",
+   "يتداخل"
+  ],
+  "relations": {
+   "synonyms": [
+    "cross",
+    "cut across",
+    "bisect",
+    "meet"
+   ],
+   "antonyms": [
+    "diverge",
+    "run parallel"
+   ],
+   "collocations": [
+    "lines intersect",
+    "paths intersect",
+    "intersect at right angles",
+    "interests intersect"
+   ]
+  },
+  "mnemonic": "فيها 'Section' 'قسم'.. الـ 'Intersect' بيقسم الطريق نصين وهو بيعدي عليه.",
+  "phonetic_us": "ˌɪntərˈsekt",
+  "phonetic_uk": "ˌɪntəˈsekt",
+  "syllables": "in•ter•sect",
+  "semantic_tags": [
+   "Geometry",
+   "Roads",
+   "Connections"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To divide by passing or lying across; to cross each other.",
+  "explanation_ar": "لما خطين أو طريقين يقطعوا بعض ويتقابلوا في نقطة واحدة.",
+  "examples": [
+   "Two roads intersect near my house.",
+   "The two circles intersect at two points.",
+   "Our interests intersect in the field of technology."
+  ],
+  "translations": {
+   "arabic_ar": "يتقاطع تتقاطع يتداخل"
+  },
+  "synonyms": [
+   "cross",
+   "cut across",
+   "bisect",
+   "meet"
+  ],
+  "antonyms": [
+   "diverge",
+   "run parallel"
+  ],
+  "collocations": [
+   "lines intersect",
+   "paths intersect",
+   "intersect at right angles",
+   "interests intersect"
+  ],
+  "mnemonic_ar": "فيها 'Section' 'قسم'.. الـ 'Intersect' بيقسم الطريق نصين وهو بيعدي عليه."
+ }
+}

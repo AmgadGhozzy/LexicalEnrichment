@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "headdress",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "headdress",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An ornamental covering or band for the head, often worn on ceremonial occasions.",
+  "explanation_ar": "غطاء للرأس بيكون مزخرف وشكله مميز، وغالباً بيتلبس في المناسبات الرسمية أو التقليدية.",
+  "senses": [
+   {
+    "definition_en": "An ornamental covering or band for the head, often worn on ceremonial occasions.",
+    "definition_ar": "غطاء مزخرف للرأس يُرتدى غالبًا في المناسبات الرسمية أو الاحتفالية.",
+    "examples": [
+     "The bride wore a beautiful pearl headdress.",
+     "The museum displayed a rare ceremonial headdress.",
+     "Her heavy jeweled headdress was a symbol of her royal status."
+    ]
+   }
+  ],
+  "examples": [
+   "The bride wore a beautiful pearl headdress.",
+   "The museum displayed a rare ceremonial headdress.",
+   "Her heavy jeweled headdress was a symbol of her royal status."
+  ],
+  "translations": [
+   "غطاء رأس مزخرف",
+   "غطاء للرأس"
+  ],
+  "relations": {
+   "synonyms": [
+    "headpiece",
+    "headgear"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ceremonial headdress",
+    "feather headdress",
+    "elaborate headdress",
+    "wear a headdress"
+   ]
+  },
+  "mnemonic": "واضحة: 'Head' (رأس) و 'Dress' (لباس/زينة).. يعني زينة أو لباس مخصص للرأس.",
+  "phonetic_us": "ˈhed.dres",
+  "phonetic_uk": "ˈhed.dres",
+  "syllables": "head•dress",
+  "semantic_tags": [
+   "Clothing",
+   "Culture",
+   "Ceremony"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An ornamental covering or band for the head, often worn on ceremonial occasions.",
+  "explanation_ar": "غطاء للرأس بيكون مزخرف وشكله مميز، وغالباً بيتلبس في المناسبات الرسمية أو التقليدية.",
+  "examples": [
+   "The bride wore a beautiful pearl headdress.",
+   "The museum displayed a rare ceremonial headdress.",
+   "Her heavy jeweled headdress was a symbol of her royal status."
+  ],
+  "translations": {
+   "arabic_ar": "غطاء رأس مزخرف غطاء للرأس"
+  },
+  "synonyms": [
+   "headpiece",
+   "headgear"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ceremonial headdress",
+   "feather headdress",
+   "elaborate headdress",
+   "wear a headdress"
+  ],
+  "mnemonic_ar": "واضحة: 'Head' (رأس) و 'Dress' (لباس/زينة).. يعني زينة أو لباس مخصص للرأس."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "just",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "just",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Based on or behaving according to what is morally right and fair.",
+  "explanation_ar": "عادل أو منصف. بتوصف الشخص أو القرار اللي بيدي كل واحد حقه.",
+  "senses": [
+   {
+    "definition_en": "Based on or behaving according to what is morally right and fair.",
+    "definition_ar": "عادل أو منصف وفقاً للحق والعدل.",
+    "pos": "adj",
+    "examples": [
+     "It was a just decision by the judge.",
+     "They are fighting for a just cause.",
+     "A just society must protect its most vulnerable members."
+    ]
+   }
+  ],
+  "examples": [
+   "It was a just decision by the judge.",
+   "They are fighting for a just cause.",
+   "A just society must protect its most vulnerable members."
+  ],
+  "translations": [
+   "عادل",
+   "منصف"
+  ],
+  "relations": {
+   "synonyms": [
+    "fair",
+    "equitable",
+    "impartial",
+    "righteous"
+   ],
+   "antonyms": [
+    "unjust",
+    "unfair",
+    "biased"
+   ],
+   "collocations": [
+    "just cause",
+    "just society",
+    "just punishment",
+    "just war"
+   ]
+  },
+  "mnemonic": "كلمة 'Just' جاية من 'Justice' (عدالة).. فالشخص أو القرار الـ 'Just' هو العادل والمنصف.",
+  "phonetic_us": "dʒʌst",
+  "phonetic_uk": "dʒʌst",
+  "syllables": "just",
+  "semantic_tags": [
+   "Justice",
+   "Fairness",
+   "Morality"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Based on or behaving according to what is morally right and fair.",
+  "explanation_ar": "عادل أو منصف. بتوصف الشخص أو القرار اللي بيدي كل واحد حقه.",
+  "examples": [
+   "It was a just decision by the judge.",
+   "They are fighting for a just cause.",
+   "A just society must protect its most vulnerable members."
+  ],
+  "translations": {
+   "arabic_ar": "عادل منصف"
+  },
+  "synonyms": [
+   "fair",
+   "equitable",
+   "impartial",
+   "righteous"
+  ],
+  "antonyms": [
+   "unjust",
+   "unfair",
+   "biased"
+  ],
+  "collocations": [
+   "just cause",
+   "just society",
+   "just punishment",
+   "just war"
+  ],
+  "mnemonic_ar": "كلمة 'Just' جاية من 'Justice' (عدالة).. فالشخص أو القرار الـ 'Just' هو العادل والمنصف."
+ }
+}

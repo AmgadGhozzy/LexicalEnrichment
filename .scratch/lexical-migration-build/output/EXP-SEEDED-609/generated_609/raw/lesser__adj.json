@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "lesser",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "lesser",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Not so great or important as the other or the rest.",
+  "explanation_ar": "الأقل أو الأصغر في الأهمية أو الحجم مقارنة بحاجة تانية.",
+  "senses": [
+   {
+    "definition_en": "Not so great or important as the other or the rest.",
+    "explanation_ar": "الأقل أو الأصغر في الأهمية أو الحجم مقارنة بحاجة تانية.",
+    "examples": [
+     "We chose the lesser of two evils.",
+     "A lesser man would have given up.",
+     "The charge was reduced to a lesser offense."
+    ]
+   }
+  ],
+  "examples": [
+   "We chose the lesser of two evils.",
+   "A lesser man would have given up.",
+   "The charge was reduced to a lesser offense."
+  ],
+  "translations": [
+   "أقل",
+   "أدنى"
+  ],
+  "relations": {
+   "synonyms": [
+    "minor",
+    "secondary",
+    "inferior",
+    "smaller"
+   ],
+   "antonyms": [
+    "greater",
+    "major",
+    "superior"
+   ],
+   "collocations": [
+    "lesser evil",
+    "lesser extent",
+    "lesser degree",
+    "lesser known"
+   ]
+  },
+  "mnemonic": "جاية من 'Less' 'أقل'.",
+  "phonetic_us": "ˈlɛs.ɚ",
+  "phonetic_uk": "ˈles.ə",
+  "syllables": "less•er",
+  "semantic_tags": [
+   "comparison",
+   "size",
+   "importance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Not so great or important as the other or the rest.",
+  "explanation_ar": "الأقل أو الأصغر في الأهمية أو الحجم مقارنة بحاجة تانية.",
+  "examples": [
+   "We chose the lesser of two evils.",
+   "A lesser man would have given up.",
+   "The charge was reduced to a lesser offense."
+  ],
+  "translations": {
+   "arabic_ar": "أقل أدنى"
+  },
+  "synonyms": [
+   "minor",
+   "secondary",
+   "inferior",
+   "smaller"
+  ],
+  "antonyms": [
+   "greater",
+   "major",
+   "superior"
+  ],
+  "collocations": [
+   "lesser evil",
+   "lesser extent",
+   "lesser degree",
+   "lesser known"
+  ],
+  "mnemonic_ar": "جاية من 'Less' 'أقل'."
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "lap",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "lap",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The flat area between the waist and knees when seated; or one circuit of a track.",
+  "explanation_ar": "ليها معنيين: حِجرك 'رجلك وانت قاعد'، أو لفة كاملة في التراك بتاع السباق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The flat area formed by the upper surfaces of the thighs of a seated person.",
+    "definition_ar": "حِجر الشخص وهو جالس (المنطقة المستوية بين الخصر والركبتين)",
+    "examples": [
+     "The cat slept on her lap."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "One complete circuit of a track or racecourse.",
+    "definition_ar": "دورة أو لفة كاملة في مضمار السباق",
+    "examples": [
+     "The runner finished the final lap."
+    ]
+   }
+  ],
+  "examples": [
+   "The cat slept on her lap.",
+   "The runner finished the final lap.",
+   "She lived her whole life in the lap of luxury."
+  ],
+  "translations": [
+   "حِجْر",
+   "دَوْرَة",
+   "لَفَّة"
+  ],
+  "relations": {
+   "synonyms": [
+    "circuit",
+    "round",
+    "loop"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "final lap",
+    "victory lap",
+    "lap of luxury"
+   ]
+  },
+  "mnemonic": "الـ 'Laptop' 'لابتوب' اتسمى كده عشان بيتحط على الـ 'Lap' 'الحجر'.",
+  "phonetic_us": "læp",
+  "phonetic_uk": "læp",
+  "syllables": "lap",
+  "semantic_tags": [
+   "#Body",
+   "#Sports",
+   "#Racing"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The flat area between the waist and knees when seated; or one circuit of a track.",
+  "explanation_ar": "ليها معنيين: حِجرك 'رجلك وانت قاعد'، أو لفة كاملة في التراك بتاع السباق.",
+  "examples": [
+   "The cat slept on her lap.",
+   "The runner finished the final lap.",
+   "She lived her whole life in the lap of luxury."
+  ],
+  "translations": {
+   "arabic_ar": "حِجْر دَوْرَة لَفَّة"
+  },
+  "synonyms": [
+   "circuit",
+   "round",
+   "loop"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "final lap",
+   "victory lap",
+   "lap of luxury"
+  ],
+  "mnemonic_ar": "الـ 'Laptop' 'لابتوب' اتسمى كده عشان بيتحط على الـ 'Lap' 'الحجر'."
+ }
+}

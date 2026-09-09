@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "maker",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "maker",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person, company, or machine that makes something.",
+  "explanation_ar": "الشخص أو المصنع اللي بيصنع أو بيخلق حاجة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person, company, or machine that makes something.",
+    "definition_ar": "الشخص أو المصنع أو الآلة التي تصنع أو تنتج شيئاً ما.",
+    "examples": [
+     "He is a toy maker.",
+     "I bought a coffee maker.",
+     "She is a talented jewelry maker."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a toy maker.",
+   "I bought a coffee maker.",
+   "She is a talented jewelry maker."
+  ],
+  "translations": [
+   "صانع",
+   "مُصَنِّع"
+  ],
+  "relations": {
+   "synonyms": [
+    "creator",
+    "manufacturer",
+    "producer",
+    "builder",
+    "constructor"
+   ],
+   "antonyms": [
+    "destroyer",
+    "consumer"
+   ],
+   "collocations": [
+    "decision maker",
+    "coffee maker",
+    "policy maker",
+    "car maker"
+   ]
+  },
+  "mnemonic": "من الفعل 'Make' 'يصنع'.. واضحة جداً.",
+  "phonetic_us": "ˈmeɪkər",
+  "phonetic_uk": "ˈmeɪkə",
+  "syllables": "mak•er",
+  "semantic_tags": [
+   "#Creation",
+   "#Production",
+   "#Manufacturer"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person, company, or machine that makes something.",
+  "explanation_ar": "الشخص أو المصنع اللي بيصنع أو بيخلق حاجة.",
+  "examples": [
+   "He is a toy maker.",
+   "I bought a coffee maker.",
+   "She is a talented jewelry maker."
+  ],
+  "translations": {
+   "arabic_ar": "صانع مُصَنِّع"
+  },
+  "synonyms": [
+   "creator",
+   "manufacturer",
+   "producer",
+   "builder",
+   "constructor"
+  ],
+  "antonyms": [
+   "destroyer",
+   "consumer"
+  ],
+  "collocations": [
+   "decision maker",
+   "coffee maker",
+   "policy maker",
+   "car maker"
+  ],
+  "mnemonic_ar": "من الفعل 'Make' 'يصنع'.. واضحة جداً."
+ }
+}

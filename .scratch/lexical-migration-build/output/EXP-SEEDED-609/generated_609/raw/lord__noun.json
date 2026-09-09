@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "lord",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "lord",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A man of noble rank or high social title; a master or ruler who holds power over others or over land.",
+  "explanation_ar": "سيد أو حاكم، أو رجل من طبقة النبلاء يحمل لقباً رفيعاً (لورد).",
+  "senses": [
+   {
+    "definition_en": "A nobleman or peer of high social or feudal standing.",
+    "explanation_ar": "رجل من طبقة النبلاء أو الأعيان ذو مكانة اجتماعية أو إقطاعية رفيعة.",
+    "examples": [
+     "The king granted the loyal lord a large estate in the north."
+    ]
+   },
+   {
+    "definition_en": "A master or person exercising supreme authority or control over land, property, or subordinates.",
+    "explanation_ar": "سيد أو صاحب سلطة ونفوذ على ممتلكات أو أتباع.",
+    "examples": [
+     "The feudal system relied on the relationship between lord and vassal.",
+     "He behaved like the lord of the manor whenever guests visited."
+    ]
+   }
+  ],
+  "examples": [
+   "The feudal system relied on the relationship between lord and vassal.",
+   "He behaved like the lord of the manor whenever guests visited.",
+   "The king granted the loyal lord a large estate in the north."
+  ],
+  "translations": [
+   "سيد",
+   "لورد",
+   "حاكم"
+  ],
+  "relations": {
+   "synonyms": [
+    "noble",
+    "peer",
+    "master",
+    "ruler"
+   ],
+   "antonyms": [
+    "servant",
+    "commoner",
+    "vassal"
+   ],
+   "collocations": [
+    "feudal lord",
+    "lord of the manor",
+    "House of Lords"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "lɔːrd",
+  "phonetic_uk": "lɔːd",
+  "syllables": [
+   "lord"
+  ],
+  "semantic_tags": [
+   "#Title",
+   "#Religion",
+   "#History"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A man of noble rank or high social title; a master or ruler who holds power over others or over land.",
+  "explanation_ar": "سيد أو حاكم، أو رجل من طبقة النبلاء يحمل لقباً رفيعاً (لورد).",
+  "examples": [
+   "The feudal system relied on the relationship between lord and vassal.",
+   "He behaved like the lord of the manor whenever guests visited.",
+   "The king granted the loyal lord a large estate in the north."
+  ],
+  "translations": {
+   "arabic_ar": "سيد لورد حاكم"
+  },
+  "synonyms": [
+   "noble",
+   "peer",
+   "master",
+   "ruler"
+  ],
+  "antonyms": [
+   "servant",
+   "commoner",
+   "vassal"
+  ],
+  "collocations": [
+   "feudal lord",
+   "lord of the manor",
+   "House of Lords"
+  ],
+  "mnemonic_ar": null
+ }
+}

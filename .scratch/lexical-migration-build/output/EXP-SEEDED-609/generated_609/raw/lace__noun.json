@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "lace",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "lace",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A fine open fabric of cotton or silk; also a cord used to tie shoes.",
+  "explanation_ar": "قماش الدانتيل المزخرف، أو الرباط اللي بنربط بيه الجزمة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A delicate, decorative fabric made of yarn or thread in an open web-like pattern.",
+    "explanation_ar": "قماش الدانتيل المزخرف المفرغ بخيوط دقيقة.",
+    "examples": [
+     "Her wedding dress was decorated with delicate white lace.",
+     "Sunlight streamed into the room through the sheer lace curtains."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A cord or string used for fastening or tying shoes or boots.",
+    "explanation_ar": "رباط الحذاء المستخدم للشد والتثبيت.",
+    "examples": [
+     "The lace on his running shoe snapped when he pulled it."
+    ]
+   }
+  ],
+  "examples": [
+   "Her wedding dress was decorated with delicate white lace.",
+   "The lace on his running shoe snapped when he pulled it.",
+   "Sunlight streamed into the room through the sheer lace curtains."
+  ],
+  "translations": [
+   "دانتيل",
+   "رباط حذاء"
+  ],
+  "relations": {
+   "synonyms": [
+    "shoelace",
+    "cord",
+    "webbing",
+    "tatting"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "lace curtains",
+    "lace dress",
+    "shoe lace",
+    "delicate lace"
+   ]
+  },
+  "mnemonic": "زي 'Necklace' 'عقد'.. الـ 'Lace' زينة زي العقد، أو رباط.",
+  "phonetic_us": "leɪs",
+  "phonetic_uk": "leɪs",
+  "syllables": "lace",
+  "semantic_tags": [
+   "#Fabric",
+   "#Shoe",
+   "#Clothes",
+   "#Knot"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A fine open fabric of cotton or silk; also a cord used to tie shoes.",
+  "explanation_ar": "قماش الدانتيل المزخرف، أو الرباط اللي بنربط بيه الجزمة.",
+  "examples": [
+   "Her wedding dress was decorated with delicate white lace.",
+   "The lace on his running shoe snapped when he pulled it.",
+   "Sunlight streamed into the room through the sheer lace curtains."
+  ],
+  "translations": {
+   "arabic_ar": "دانتيل رباط حذاء"
+  },
+  "synonyms": [
+   "shoelace",
+   "cord",
+   "webbing",
+   "tatting"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "lace curtains",
+   "lace dress",
+   "shoe lace",
+   "delicate lace"
+  ],
+  "mnemonic_ar": "زي 'Necklace' 'عقد'.. الـ 'Lace' زينة زي العقد، أو رباط."
+ }
+}

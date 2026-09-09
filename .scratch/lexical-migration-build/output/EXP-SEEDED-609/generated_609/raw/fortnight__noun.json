@@ -1,0 +1,72 @@
+{
+ "identity": {
+  "lemma": "fortnight",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "fortnight",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A period of two weeks.",
+  "explanation_ar": "فترة مدتها أسبوعان (14 يوماً)، وتُستخدم بكثرة في الإنجليزية البريطانية.",
+  "senses": [
+   {
+    "definition_en": "A period of two weeks.",
+    "definition_ar": "فترة زمنية مدتها أسبوعان."
+   }
+  ],
+  "examples": [
+   "We stayed there for a fortnight.",
+   "I will see you in a fortnight.",
+   "A fortnight ago, the situation was completely different."
+  ],
+  "translations": [
+   "أسبوعان",
+   "فترة أسبوعين"
+  ],
+  "relations": {
+   "synonyms": [
+    "two weeks"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "a fortnight ago",
+    "in a fortnight",
+    "every fortnight"
+   ]
+  },
+  "mnemonic": "الكلمة مشتقة تاريخياً من 'fourteen nights' (أربعة عشر ليلة)، أي ما يعادل أسبوعين.",
+  "phonetic_us": "ˈfɔːrtˌnaɪt",
+  "phonetic_uk": "ˈfɔːtnaɪt",
+  "syllables": "fort•night",
+  "semantic_tags": [
+   "Time",
+   "British",
+   "Calendar"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "A period of two weeks.",
+  "explanation_ar": "فترة مدتها أسبوعان (14 يوماً)، وتُستخدم بكثرة في الإنجليزية البريطانية.",
+  "examples": [
+   "We stayed there for a fortnight.",
+   "I will see you in a fortnight.",
+   "A fortnight ago, the situation was completely different."
+  ],
+  "translations": {
+   "arabic_ar": "أسبوعان فترة أسبوعين"
+  },
+  "synonyms": [
+   "two weeks"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "a fortnight ago",
+   "in a fortnight",
+   "every fortnight"
+  ],
+  "mnemonic_ar": "الكلمة مشتقة تاريخياً من 'fourteen nights' (أربعة عشر ليلة)، أي ما يعادل أسبوعين."
+ }
+}

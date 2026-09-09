@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "odour",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "odour",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A distinctive smell, especially an unpleasant one.",
+  "explanation_ar": "ريحة مميزة، وغالباً بتكون ريحة مش حلوة أو نفاذة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A distinctive smell, especially an unpleasant one.",
+    "explanation_ar": "رائحة مميزة، وتكون عادةً غير مستحبة أو نفاذة.",
+    "examples": [
+     "There is a strange odour in the room.",
+     "The chemical released a pungent odour.",
+     "The distinctive odour of ozone filled the laboratory after the experiment."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a strange odour in the room.",
+   "The chemical released a pungent odour.",
+   "The distinctive odour of ozone filled the laboratory after the experiment."
+  ],
+  "translations": [
+   "رائحة",
+   "رائحة كريهة"
+  ],
+  "relations": {
+   "synonyms": [
+    "smell",
+    "scent",
+    "stench",
+    "aroma"
+   ],
+   "antonyms": [
+    "fragrance",
+    "perfume"
+   ],
+   "collocations": [
+    "body odour",
+    "strong odour",
+    "unpleasant odour",
+    "pungent odour"
+   ]
+  },
+  "mnemonic": "قريبة من 'Odorless' 'بدون رائحة'.. الـ 'Odour' هي الريحة نفسها. أو افتكر 'Oh dear' 'يا خبر' لما تشم ريحة وحشة 'Odour'.",
+  "phonetic_us": "ˈoʊdər",
+  "phonetic_uk": "ˈəʊdə",
+  "syllables": "o-dour",
+  "semantic_tags": [
+   "#Smell",
+   "#Senses",
+   "#Chemistry",
+   "#Body"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A distinctive smell, especially an unpleasant one.",
+  "explanation_ar": "ريحة مميزة، وغالباً بتكون ريحة مش حلوة أو نفاذة.",
+  "examples": [
+   "There is a strange odour in the room.",
+   "The chemical released a pungent odour.",
+   "The distinctive odour of ozone filled the laboratory after the experiment."
+  ],
+  "translations": {
+   "arabic_ar": "رائحة رائحة كريهة"
+  },
+  "synonyms": [
+   "smell",
+   "scent",
+   "stench",
+   "aroma"
+  ],
+  "antonyms": [
+   "fragrance",
+   "perfume"
+  ],
+  "collocations": [
+   "body odour",
+   "strong odour",
+   "unpleasant odour",
+   "pungent odour"
+  ],
+  "mnemonic_ar": "قريبة من 'Odorless' 'بدون رائحة'.. الـ 'Odour' هي الريحة نفسها. أو افتكر 'Oh dear' 'يا خبر' لما تشم ريحة وحشة 'Odour'."
+ }
+}

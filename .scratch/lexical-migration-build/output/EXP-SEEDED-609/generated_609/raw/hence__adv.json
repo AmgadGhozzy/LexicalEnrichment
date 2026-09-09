@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "hence",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "hence",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "As a consequence; for this reason.",
+  "explanation_ar": "بمعنى 'عشان كدة' أو 'وبالتالي'. بتستخدم لما تشرح نتيجة لحاجة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "As a consequence; for this reason.",
+    "definition_ar": "لذلك، ومن ثم، وبالتالي",
+    "pos": "adv"
+   }
+  ],
+  "examples": [
+   "The cost of transport is high, hence the high prices.",
+   "He was a newcomer and hence had no enemies.",
+   "The evidence is false; hence, the conclusion is invalid."
+  ],
+  "translations": [
+   "لذلك",
+   "من ثَمَّ",
+   "وبالتالي"
+  ],
+  "relations": {
+   "synonyms": [
+    "therefore",
+    "thus",
+    "consequently",
+    "accordingly"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "hence the name",
+    "years hence"
+   ]
+  },
+  "mnemonic": "كلمة 'Hence' شبه 'Hens' 'فراخ'.. الفراخ هربت 'Hence' 'وبالتالي' مفيش بيض النهاردة.",
+  "phonetic_us": "hɛns",
+  "phonetic_uk": "hens",
+  "syllables": "hence",
+  "semantic_tags": [
+   "#Logic",
+   "#Reasoning",
+   "#Formal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "As a consequence; for this reason.",
+  "explanation_ar": "بمعنى 'عشان كدة' أو 'وبالتالي'. بتستخدم لما تشرح نتيجة لحاجة.",
+  "examples": [
+   "The cost of transport is high, hence the high prices.",
+   "He was a newcomer and hence had no enemies.",
+   "The evidence is false; hence, the conclusion is invalid."
+  ],
+  "translations": {
+   "arabic_ar": "لذلك من ثَمَّ وبالتالي"
+  },
+  "synonyms": [
+   "therefore",
+   "thus",
+   "consequently",
+   "accordingly"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "hence the name",
+   "years hence"
+  ],
+  "mnemonic_ar": "كلمة 'Hence' شبه 'Hens' 'فراخ'.. الفراخ هربت 'Hence' 'وبالتالي' مفيش بيض النهاردة."
+ }
+}

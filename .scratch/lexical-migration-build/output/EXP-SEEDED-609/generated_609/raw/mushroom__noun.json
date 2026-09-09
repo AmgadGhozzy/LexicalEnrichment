@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "mushroom",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "mushroom",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A fungal growth that typically takes the form of a domed cap on a stalk.",
+  "explanation_ar": "فِطر (عيش الغراب) له ساق وقبعة مستديرة، وتؤكل بعض أنواعه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A fungus with a round top and a stem, some types of which can be eaten as food.",
+    "definition_ar": "فِطر ذو قبعة مستديرة وساق، تؤكل بعض أنواعه.",
+    "examples": [
+     "I like mushroom soup.",
+     "We picked a wild mushroom in the forest.",
+     "He found a large white mushroom under the tree."
+    ]
+   }
+  ],
+  "examples": [
+   "I like mushroom soup.",
+   "We picked a wild mushroom in the forest.",
+   "He found a large white mushroom under the tree."
+  ],
+  "translations": [
+   "فِطْر",
+   "عَيْش الغُرَاب",
+   "مَشْرُوم"
+  ],
+  "relations": {
+   "synonyms": [
+    "fungus",
+    "toadstool"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "mushroom soup",
+    "wild mushroom",
+    "mushroom cloud"
+   ]
+  },
+  "mnemonic": "الكلمة فيها 'Room' 'غرفة'.. شكل الـ 'Mushroom' عامل زي 'Room' صغيرة للكائنات الدقيقة.",
+  "phonetic_us": "ˈmʌʃruːm",
+  "phonetic_uk": "ˈmʌʃrʊm",
+  "syllables": "mush•room",
+  "semantic_tags": [
+   "#Nature",
+   "#Fungi",
+   "#Cooking",
+   "#Vegetable"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A fungal growth that typically takes the form of a domed cap on a stalk.",
+  "explanation_ar": "فِطر (عيش الغراب) له ساق وقبعة مستديرة، وتؤكل بعض أنواعه.",
+  "examples": [
+   "I like mushroom soup.",
+   "We picked a wild mushroom in the forest.",
+   "He found a large white mushroom under the tree."
+  ],
+  "translations": {
+   "arabic_ar": "فِطْر عَيْش الغُرَاب مَشْرُوم"
+  },
+  "synonyms": [
+   "fungus",
+   "toadstool"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "mushroom soup",
+   "wild mushroom",
+   "mushroom cloud"
+  ],
+  "mnemonic_ar": "الكلمة فيها 'Room' 'غرفة'.. شكل الـ 'Mushroom' عامل زي 'Room' صغيرة للكائنات الدقيقة."
+ }
+}

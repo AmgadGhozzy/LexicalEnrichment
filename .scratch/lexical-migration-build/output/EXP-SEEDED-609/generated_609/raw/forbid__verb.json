@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "forbid",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "forbid",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To refuse to allow something; to order someone not to do something.",
+  "explanation_ar": "يمنع أو يحرم حاجة بشكل قاطع، عكس يسمح.",
+  "senses": [
+   {
+    "definition_en": "To refuse to allow something; to order someone not to do something.",
+    "explanation_ar": "أن تمنع شخصاً من فعل شيء أو تحظر أمراً ما بشكل رسمي أو قاطع.",
+    "examples": [
+     "I forbid you to go.",
+     "International treaties forbid the use of chemical weapons.",
+     "Strict social codes forbid such behavior in public."
+    ]
+   }
+  ],
+  "examples": [
+   "I forbid you to go.",
+   "International treaties forbid the use of chemical weapons.",
+   "Strict social codes forbid such behavior in public."
+  ],
+  "translations": [
+   "يَمْنَع",
+   "يُحَرِّم"
+  ],
+  "relations": {
+   "synonyms": [
+    "prohibit",
+    "ban",
+    "disallow",
+    "outlaw"
+   ],
+   "antonyms": [
+    "allow",
+    "permit",
+    "authorize"
+   ],
+   "collocations": [
+    "strictly forbid",
+    "expressly forbid",
+    "law forbids"
+   ]
+  },
+  "mnemonic": "كلمة 'For-bid'.. تخيل إنك بتقول لحد 'لأ' على الـ 'Bid' 'العرض' بتاعه.. يعني بتمنعه.",
+  "phonetic_us": "fərˈbɪd",
+  "phonetic_uk": "fəˈbɪd",
+  "syllables": "for•bid",
+  "semantic_tags": [
+   "#Rules",
+   "#Law",
+   "#Control"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To refuse to allow something; to order someone not to do something.",
+  "explanation_ar": "يمنع أو يحرم حاجة بشكل قاطع، عكس يسمح.",
+  "examples": [
+   "I forbid you to go.",
+   "International treaties forbid the use of chemical weapons.",
+   "Strict social codes forbid such behavior in public."
+  ],
+  "translations": {
+   "arabic_ar": "يَمْنَع يُحَرِّم"
+  },
+  "synonyms": [
+   "prohibit",
+   "ban",
+   "disallow",
+   "outlaw"
+  ],
+  "antonyms": [
+   "allow",
+   "permit",
+   "authorize"
+  ],
+  "collocations": [
+   "strictly forbid",
+   "expressly forbid",
+   "law forbids"
+  ],
+  "mnemonic_ar": "كلمة 'For-bid'.. تخيل إنك بتقول لحد 'لأ' على الـ 'Bid' 'العرض' بتاعه.. يعني بتمنعه."
+ }
+}

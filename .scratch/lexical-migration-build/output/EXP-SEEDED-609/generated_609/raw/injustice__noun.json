@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "injustice",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "injustice",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Lack of fairness or justice; an unfair act.",
+  "explanation_ar": "الظلم، لما الحق يضيع أو حد يتعامل بطريقة مش عادلة.",
+  "senses": [
+   {
+    "definition_en": "The condition of being unfair or unjust.",
+    "explanation_ar": "حالة الظلم وانعدام العدالة والإنصاف."
+   },
+   {
+    "definition_en": "A specific unfair act, decision, or situation.",
+    "explanation_ar": "تصرف أو واقعة جائرة وغير عادلة."
+   }
+  ],
+  "examples": [
+   "They fought against injustice.",
+   "It was a terrible injustice to put him in prison.",
+   "Social injustice is a major cause of unrest."
+  ],
+  "translations": [
+   "ظُلْم",
+   "إجحاف"
+  ],
+  "relations": {
+   "synonyms": [
+    "unfairness",
+    "inequity",
+    "wrong"
+   ],
+   "antonyms": [
+    "justice",
+    "fairness"
+   ],
+   "collocations": [
+    "social injustice",
+    "grave injustice",
+    "fight injustice"
+   ]
+  },
+  "mnemonic": "'In' 'نفي' + 'Justice' 'عدالة'.. يعني مفيش عدالة.",
+  "phonetic_us": "ɪnˈdʒʌstɪs",
+  "phonetic_uk": "ɪnˈdʒʌstɪs",
+  "syllables": "in•jus•tice",
+  "semantic_tags": [
+   "fairness",
+   "society",
+   "law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Lack of fairness or justice; an unfair act.",
+  "explanation_ar": "الظلم، لما الحق يضيع أو حد يتعامل بطريقة مش عادلة.",
+  "examples": [
+   "They fought against injustice.",
+   "It was a terrible injustice to put him in prison.",
+   "Social injustice is a major cause of unrest."
+  ],
+  "translations": {
+   "arabic_ar": "ظُلْم إجحاف"
+  },
+  "synonyms": [
+   "unfairness",
+   "inequity",
+   "wrong"
+  ],
+  "antonyms": [
+   "justice",
+   "fairness"
+  ],
+  "collocations": [
+   "social injustice",
+   "grave injustice",
+   "fight injustice"
+  ],
+  "mnemonic_ar": "'In' 'نفي' + 'Justice' 'عدالة'.. يعني مفيش عدالة."
+ }
+}

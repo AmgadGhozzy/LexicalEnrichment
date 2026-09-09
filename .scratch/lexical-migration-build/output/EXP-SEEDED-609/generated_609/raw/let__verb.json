@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "let",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "let",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To allow someone to do something or to allow something to happen.",
+  "explanation_ar": "يدع أو يسمح. يعني تسيب حد يعمل حاجة أو تخلي حاجة تحصل",
+  "senses": [
+   {
+    "pos": "verb",
+    "definition_en": "To allow someone to do something or to allow something to happen.",
+    "definition_ar": "يسمح أو يدع شخصاً بفعل شيء ما أو يدع أمراً يحدث",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "Please let me help you.",
+   "Please let the dog out.",
+   "Don't let him drive your car."
+  ],
+  "translations": [
+   "يسمح",
+   "يدع"
+  ],
+  "relations": {
+   "synonyms": [
+    "allow",
+    "permit"
+   ],
+   "antonyms": [
+    "forbid",
+    "prohibit",
+    "prevent"
+   ],
+   "collocations": [
+    "let go",
+    "let me know",
+    "let it be"
+   ]
+  },
+  "mnemonic": "كلمة 'Let' شبه 'لِيت' 'يا ليت'.. لما تقول يا ليت كذا يحصل، يعني بتطلب السماح بحدوثه",
+  "phonetic_us": "lɛt",
+  "phonetic_uk": "let",
+  "syllables": "let",
+  "semantic_tags": [
+   "Permission",
+   "Action",
+   "Control"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To allow someone to do something or to allow something to happen.",
+  "explanation_ar": "يدع أو يسمح. يعني تسيب حد يعمل حاجة أو تخلي حاجة تحصل",
+  "examples": [
+   "Please let me help you.",
+   "Please let the dog out.",
+   "Don't let him drive your car."
+  ],
+  "translations": {
+   "arabic_ar": "يسمح يدع"
+  },
+  "synonyms": [
+   "allow",
+   "permit"
+  ],
+  "antonyms": [
+   "forbid",
+   "prohibit",
+   "prevent"
+  ],
+  "collocations": [
+   "let go",
+   "let me know",
+   "let it be"
+  ],
+  "mnemonic_ar": "كلمة 'Let' شبه 'لِيت' 'يا ليت'.. لما تقول يا ليت كذا يحصل، يعني بتطلب السماح بحدوثه"
+ }
+}

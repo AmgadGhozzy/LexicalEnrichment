@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "formidable",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "formidable",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+  "explanation_ar": "حاجة قوية جداً وليها هيبة، بتخليك تحس بالخوف أو الاحترام، زي خصم قوي أو مهمة صعبة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+    "explanation_ar": "مهيب أو مخيف بسبب قوته أو ضخامته أو كفاءته العالية.",
+    "examples": [
+     "They faced a formidable enemy.",
+     "Completing the project was a formidable task.",
+     "She has a formidable reputation in the legal world."
+    ]
+   }
+  ],
+  "examples": [
+   "They faced a formidable enemy.",
+   "Completing the project was a formidable task.",
+   "She has a formidable reputation in the legal world."
+  ],
+  "translations": [
+   "هائل",
+   "مهيب",
+   "صعب"
+  ],
+  "relations": {
+   "synonyms": [
+    "intimidating",
+    "daunting",
+    "impressive",
+    "powerful"
+   ],
+   "antonyms": [
+    "weak",
+    "easy",
+    "insignificant"
+   ],
+   "collocations": [
+    "formidable opponent",
+    "formidable task",
+    "formidable reputation",
+    "formidable challenge"
+   ]
+  },
+  "mnemonic": "كلمة 'Formidable' فيها 'For' و 'Mid'.. تخيل 'Middle' الحلبة واقف فيها مصارع 'Formidable' مرعب.",
+  "phonetic_us": "ˈfɔːrmɪdəbl",
+  "phonetic_uk": "ˈfɔːmɪdəbl",
+  "syllables": "for•mi•da•ble",
+  "semantic_tags": [
+   "Power",
+   "Fear",
+   "Respect",
+   "Strength"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+  "explanation_ar": "حاجة قوية جداً وليها هيبة، بتخليك تحس بالخوف أو الاحترام، زي خصم قوي أو مهمة صعبة.",
+  "examples": [
+   "They faced a formidable enemy.",
+   "Completing the project was a formidable task.",
+   "She has a formidable reputation in the legal world."
+  ],
+  "translations": {
+   "arabic_ar": "هائل مهيب صعب"
+  },
+  "synonyms": [
+   "intimidating",
+   "daunting",
+   "impressive",
+   "powerful"
+  ],
+  "antonyms": [
+   "weak",
+   "easy",
+   "insignificant"
+  ],
+  "collocations": [
+   "formidable opponent",
+   "formidable task",
+   "formidable reputation",
+   "formidable challenge"
+  ],
+  "mnemonic_ar": "كلمة 'Formidable' فيها 'For' و 'Mid'.. تخيل 'Middle' الحلبة واقف فيها مصارع 'Formidable' مرعب."
+ }
+}

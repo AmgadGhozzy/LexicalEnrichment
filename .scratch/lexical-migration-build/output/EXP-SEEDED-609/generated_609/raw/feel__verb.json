@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "feel",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "feel",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To experience an emotion or physical sensation.",
+  "explanation_ar": "يحس أو يشعر.. سواء وجع في جسمك أو مشاعر في قلبك.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To experience a particular physical sensation or emotion.",
+    "explanation_ar": "أن يمر الشخص بإحساس جسدي أو عاطفي معين.",
+    "examples": [
+     "I feel happy.",
+     "Do you feel sick?"
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To perceive or examine something through touch.",
+    "explanation_ar": "أن يتحسس أو يلمس شيئاً باليد ليشعر بملمسه.",
+    "examples": [
+     "I feel the cold wind on my face."
+    ]
+   }
+  ],
+  "examples": [
+   "I feel happy.",
+   "Do you feel sick?",
+   "I feel like eating pizza."
+  ],
+  "translations": [
+   "يشعر",
+   "يحس"
+  ],
+  "relations": {
+   "synonyms": [
+    "sense",
+    "experience",
+    "perceive"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "feel good",
+    "feel like",
+    "feel sorry",
+    "feel free"
+   ]
+  },
+  "mnemonic": "الـ 'فيل' بيحس (feel) بخرطومه.",
+  "phonetic_us": "fiːl",
+  "phonetic_uk": "fiːl",
+  "syllables": "feel",
+  "semantic_tags": [
+   "#Senses",
+   "#Emotions",
+   "#Perception"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To experience an emotion or physical sensation.",
+  "explanation_ar": "يحس أو يشعر.. سواء وجع في جسمك أو مشاعر في قلبك.",
+  "examples": [
+   "I feel happy.",
+   "Do you feel sick?",
+   "I feel like eating pizza."
+  ],
+  "translations": {
+   "arabic_ar": "يشعر يحس"
+  },
+  "synonyms": [
+   "sense",
+   "experience",
+   "perceive"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "feel good",
+   "feel like",
+   "feel sorry",
+   "feel free"
+  ],
+  "mnemonic_ar": "الـ 'فيل' بيحس (feel) بخرطومه."
+ }
+}

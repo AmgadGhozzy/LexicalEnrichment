@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "highway",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "highway",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A main road, especially one connecting major towns or cities.",
+  "explanation_ar": "طريق واسع وسريع بيربط بين المدن، العربيات بتمشي فيه بسرعة عالية ومن غير إشارات توقف كتير.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A main road, especially one connecting major towns or cities.",
+    "explanation_ar": "طريق واسع وسريع بيربط بين المدن.",
+    "translations": [
+     "طريق سريع",
+     "طريق عام"
+    ]
+   }
+  ],
+  "examples": [
+   "We took the highway to the beach.",
+   "The highway was closed due to an accident.",
+   "Driving on the highway requires full attention."
+  ],
+  "translations": [
+   "طريق سريع"
+  ],
+  "relations": {
+   "synonyms": [
+    "expressway",
+    "freeway",
+    "motorway",
+    "thoroughfare"
+   ],
+   "antonyms": [
+    "backroad",
+    "alley"
+   ],
+   "collocations": [
+    "highway patrol",
+    "interstate highway",
+    "major highway"
+   ]
+  },
+  "mnemonic": "هي 'High' 'عالي' و 'Way' 'طريق'.. طريق سريع بيخليك تمشي بـ 'High' speed.",
+  "phonetic_us": "ˈhaɪweɪ",
+  "phonetic_uk": "ˈhaɪweɪ",
+  "syllables": "high•way",
+  "semantic_tags": [
+   "Road",
+   "Travel",
+   "Driving",
+   "Infrastructure"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A main road, especially one connecting major towns or cities.",
+  "explanation_ar": "طريق واسع وسريع بيربط بين المدن، العربيات بتمشي فيه بسرعة عالية ومن غير إشارات توقف كتير.",
+  "examples": [
+   "We took the highway to the beach.",
+   "The highway was closed due to an accident.",
+   "Driving on the highway requires full attention."
+  ],
+  "translations": {
+   "arabic_ar": "طريق سريع"
+  },
+  "synonyms": [
+   "expressway",
+   "freeway",
+   "motorway",
+   "thoroughfare"
+  ],
+  "antonyms": [
+   "backroad",
+   "alley"
+  ],
+  "collocations": [
+   "highway patrol",
+   "interstate highway",
+   "major highway"
+  ],
+  "mnemonic_ar": "هي 'High' 'عالي' و 'Way' 'طريق'.. طريق سريع بيخليك تمشي بـ 'High' speed."
+ }
+}

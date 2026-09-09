@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "mistake",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "mistake",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To be wrong about something or to confuse someone with another person.",
+  "explanation_ar": "إنك تفهم حاجة غلط، أو تشبه على حد وتفتكره حد تاني.",
+  "senses": [
+   {
+    "definition_en": "To wrongly think that someone or something is someone or something else.",
+    "explanation_ar": "يخلط بين شخص أو شيء وآخر.",
+    "examples": [
+     "It is easy to mistake him for his brother.",
+     "Do not mistake kindness for weakness."
+    ]
+   },
+   {
+    "definition_en": "To misunderstand or misinterpret something.",
+    "explanation_ar": "يفهم شيئاً على نحو خاطئ.",
+    "examples": [
+     "Be careful not to mistake my silence for agreement."
+    ]
+   }
+  ],
+  "examples": [
+   "Do not mistake kindness for weakness.",
+   "It is easy to mistake him for his brother.",
+   "Be careful not to mistake my silence for agreement."
+  ],
+  "translations": [
+   "يخلط بين",
+   "يسيء فهم"
+  ],
+  "relations": {
+   "synonyms": [
+    "confuse",
+    "misinterpret",
+    "mix up"
+   ],
+   "antonyms": [
+    "distinguish",
+    "recognize"
+   ],
+   "collocations": [
+    "mistake for",
+    "mistake someone's identity",
+    "be mistaken"
+   ]
+  },
+  "mnemonic": "لو عملت 'Miss' 'فوتّ' الحقيقة و 'Take' 'أخدت' الظاهر.. يبقى إنت 'Mistake' 'أخطأت' في الحكم.",
+  "phonetic_us": "mɪˈsteɪk",
+  "phonetic_uk": "mɪˈsteɪk",
+  "syllables": "mis•take",
+  "semantic_tags": [
+   "#Confusion",
+   "#Identity",
+   "#Error"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To be wrong about something or to confuse someone with another person.",
+  "explanation_ar": "إنك تفهم حاجة غلط، أو تشبه على حد وتفتكره حد تاني.",
+  "examples": [
+   "Do not mistake kindness for weakness.",
+   "It is easy to mistake him for his brother.",
+   "Be careful not to mistake my silence for agreement."
+  ],
+  "translations": {
+   "arabic_ar": "يخلط بين يسيء فهم"
+  },
+  "synonyms": [
+   "confuse",
+   "misinterpret",
+   "mix up"
+  ],
+  "antonyms": [
+   "distinguish",
+   "recognize"
+  ],
+  "collocations": [
+   "mistake for",
+   "mistake someone's identity",
+   "be mistaken"
+  ],
+  "mnemonic_ar": "لو عملت 'Miss' 'فوتّ' الحقيقة و 'Take' 'أخدت' الظاهر.. يبقى إنت 'Mistake' 'أخطأت' في الحكم."
+ }
+}

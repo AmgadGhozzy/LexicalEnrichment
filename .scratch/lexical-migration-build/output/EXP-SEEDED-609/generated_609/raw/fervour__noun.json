@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "fervour",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "fervour",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "Intense and passionate feeling.",
+  "explanation_ar": "حماس قوي جدًا ومشاعر ملتهبة تجاه حاجة بتؤمن بيها أو بتحبها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Intense and passionate feeling.",
+    "definition_ar": "حماس شديد ومشاعر متقدة.",
+    "examples": [
+     "The speech was delivered with patriotic fervour.",
+     "His religious fervour surprised everyone in the room.",
+     "The revolutionary fervour swept across the entire nation."
+    ]
+   }
+  ],
+  "examples": [
+   "The speech was delivered with patriotic fervour.",
+   "His religious fervour surprised everyone in the room.",
+   "The revolutionary fervour swept across the entire nation."
+  ],
+  "translations": [
+   "حماسة",
+   "توقد",
+   "حرارة المشاعر"
+  ],
+  "relations": {
+   "synonyms": [
+    "passion",
+    "zeal",
+    "ardor",
+    "intensity"
+   ],
+   "antonyms": [
+    "apathy",
+    "indifference"
+   ],
+   "collocations": [
+    "religious fervour",
+    "patriotic fervour",
+    "revolutionary fervour"
+   ]
+  },
+  "mnemonic": "قريبة من 'Fever' (حُمّى).. الـ 'Fervour' هو حماس سخن زي الحُمّى.",
+  "phonetic_us": "ˈfɝːvɚ",
+  "phonetic_uk": "ˈfɜːvə",
+  "syllables": "fer•vour",
+  "semantic_tags": [
+   "Emotion",
+   "Passion",
+   "Zeal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Intense and passionate feeling.",
+  "explanation_ar": "حماس قوي جدًا ومشاعر ملتهبة تجاه حاجة بتؤمن بيها أو بتحبها.",
+  "examples": [
+   "The speech was delivered with patriotic fervour.",
+   "His religious fervour surprised everyone in the room.",
+   "The revolutionary fervour swept across the entire nation."
+  ],
+  "translations": {
+   "arabic_ar": "حماسة توقد حرارة المشاعر"
+  },
+  "synonyms": [
+   "passion",
+   "zeal",
+   "ardor",
+   "intensity"
+  ],
+  "antonyms": [
+   "apathy",
+   "indifference"
+  ],
+  "collocations": [
+   "religious fervour",
+   "patriotic fervour",
+   "revolutionary fervour"
+  ],
+  "mnemonic_ar": "قريبة من 'Fever' (حُمّى).. الـ 'Fervour' هو حماس سخن زي الحُمّى."
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "fly",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fly",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To move through the air using wings or an aircraft.",
+  "explanation_ar": "إنك تتحرك في الجو زي الطيور أو تسافر بالطيارة.",
+  "senses": [
+   {
+    "sense_id": "fly-v1",
+    "definition_en": "To move through the air using wings or an aircraft.",
+    "definition_ar": "يتحرك في الجو باستخدام الأجنحة أو يسافر بالطائرة.",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "Birds can fly.",
+   "I will fly to London next week.",
+   "He wants to learn how to fly a plane."
+  ],
+  "translations": [
+   "يطير",
+   "يسافر بالطائرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "soar",
+    "glide"
+   ],
+   "antonyms": [
+    "land"
+   ],
+   "collocations": [
+    "fly a kite",
+    "fly a plane",
+    "fly away"
+   ]
+  },
+  "mnemonic": "افتكر كلمة الفراشة (butterfly) وهي بتطير (fly) في الهواء.",
+  "phonetic_us": "flaɪ",
+  "phonetic_uk": "flaɪ",
+  "syllables": [
+   "fly"
+  ],
+  "semantic_tags": [
+   "#Travel",
+   "#Air",
+   "#Motion",
+   "#Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move through the air using wings or an aircraft.",
+  "explanation_ar": "إنك تتحرك في الجو زي الطيور أو تسافر بالطيارة.",
+  "examples": [
+   "Birds can fly.",
+   "I will fly to London next week.",
+   "He wants to learn how to fly a plane."
+  ],
+  "translations": {
+   "arabic_ar": "يطير يسافر بالطائرة"
+  },
+  "synonyms": [
+   "soar",
+   "glide"
+  ],
+  "antonyms": [
+   "land"
+  ],
+  "collocations": [
+   "fly a kite",
+   "fly a plane",
+   "fly away"
+  ],
+  "mnemonic_ar": "افتكر كلمة الفراشة (butterfly) وهي بتطير (fly) في الهواء."
+ }
+}

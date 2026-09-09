@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "ingenious",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "ingenious",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Clever, original, and inventive in finding new ways to do things or solve problems.",
+  "explanation_ar": "شخص ذكي ومبتكر جداً، أو فكرة/اختراع يتسم بالعبقرية والابتكار.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "(of a person) very clever, skillful, and inventive",
+    "definition_ar": "(للشخص) واسع الحيلة، ماهر، ومبتكر",
+    "examples": [
+     "She is an ingenious cook who creates new recipes."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "(of an object, plan, or idea) cleverly designed, original, and inventive",
+    "definition_ar": "(للخطة أو الاختراع أو الفكرة) متقن، عبقري، ومبتكر",
+    "examples": [
+     "The engineer came up with an ingenious solution to the problem.",
+     "The device is simple but ingenious."
+    ]
+   }
+  ],
+  "examples": [
+   "The engineer came up with an ingenious solution to the problem.",
+   "The device is simple but ingenious.",
+   "She is an ingenious cook who creates new recipes."
+  ],
+  "translations": [
+   "مبتكر",
+   "عبقري",
+   "بارع"
+  ],
+  "relations": {
+   "synonyms": [
+    "inventive",
+    "creative",
+    "brilliant",
+    "resourceful"
+   ],
+   "antonyms": [
+    "unimaginative",
+    "dull",
+    "clumsy"
+   ],
+   "collocations": [
+    "ingenious solution",
+    "ingenious device",
+    "ingenious idea",
+    "ingenious mind"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Genius' 'عبقري'.. الـ 'Ingenious' هو الشخص العبقري أو الفكرة العبقرية.",
+  "phonetic_us": "ɪnˈdʒiːniəs",
+  "phonetic_uk": "ɪnˈdʒiːniəs",
+  "syllables": "in•ge•nious",
+  "semantic_tags": [
+   "Creativity",
+   "Innovation",
+   "Intelligence"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Clever, original, and inventive in finding new ways to do things or solve problems.",
+  "explanation_ar": "شخص ذكي ومبتكر جداً، أو فكرة/اختراع يتسم بالعبقرية والابتكار.",
+  "examples": [
+   "The engineer came up with an ingenious solution to the problem.",
+   "The device is simple but ingenious.",
+   "She is an ingenious cook who creates new recipes."
+  ],
+  "translations": {
+   "arabic_ar": "مبتكر عبقري بارع"
+  },
+  "synonyms": [
+   "inventive",
+   "creative",
+   "brilliant",
+   "resourceful"
+  ],
+  "antonyms": [
+   "unimaginative",
+   "dull",
+   "clumsy"
+  ],
+  "collocations": [
+   "ingenious solution",
+   "ingenious device",
+   "ingenious idea",
+   "ingenious mind"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Genius' 'عبقري'.. الـ 'Ingenious' هو الشخص العبقري أو الفكرة العبقرية."
+ }
+}

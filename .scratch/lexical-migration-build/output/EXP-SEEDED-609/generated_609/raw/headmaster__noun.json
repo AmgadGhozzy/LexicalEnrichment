@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "headmaster",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "headmaster",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A man who is in charge of a school; a principal.",
+  "explanation_ar": "مدير المدرسة 'الناظر'. الشخص المسؤول عن المدرسة كلها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A man who is in charge of a school; a principal.",
+    "explanation_ar": "مدير المدرسة أو الناظر المسؤول عن إدارتها.",
+    "examples": [
+     "The headmaster spoke to the students.",
+     "The headmaster retired after 30 years of service.",
+     "The role of the headmaster has evolved into that of a CEO."
+    ]
+   }
+  ],
+  "examples": [
+   "The headmaster spoke to the students.",
+   "The headmaster retired after 30 years of service.",
+   "The role of the headmaster has evolved into that of a CEO."
+  ],
+  "translations": [
+   "مُدِير المَدْرَسَة",
+   "نَاظِر"
+  ],
+  "relations": {
+   "synonyms": [
+    "principal",
+    "headteacher",
+    "head"
+   ],
+   "antonyms": [
+    "student",
+    "pupil"
+   ],
+   "collocations": [
+    "headmaster's office",
+    "deputy headmaster",
+    "school headmaster",
+    "appointment of a headmaster"
+   ]
+  },
+  "mnemonic": "هو الـ 'Master' والـ 'Head' 'الراس الكبيرة' في المدرسة",
+  "phonetic_us": "ˈhɛdˌmæstɚ",
+  "phonetic_uk": "ˈhɛdˌmɑːstə",
+  "syllables": "head•mas•ter",
+  "semantic_tags": [
+   "#School",
+   "#Education",
+   "#Job"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A man who is in charge of a school; a principal.",
+  "explanation_ar": "مدير المدرسة 'الناظر'. الشخص المسؤول عن المدرسة كلها.",
+  "examples": [
+   "The headmaster spoke to the students.",
+   "The headmaster retired after 30 years of service.",
+   "The role of the headmaster has evolved into that of a CEO."
+  ],
+  "translations": {
+   "arabic_ar": "مُدِير المَدْرَسَة نَاظِر"
+  },
+  "synonyms": [
+   "principal",
+   "headteacher",
+   "head"
+  ],
+  "antonyms": [
+   "student",
+   "pupil"
+  ],
+  "collocations": [
+   "headmaster's office",
+   "deputy headmaster",
+   "school headmaster",
+   "appointment of a headmaster"
+  ],
+  "mnemonic_ar": "هو الـ 'Master' والـ 'Head' 'الراس الكبيرة' في المدرسة"
+ }
+}

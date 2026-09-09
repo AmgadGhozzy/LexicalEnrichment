@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "forgive",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "forgive",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To stop being angry with someone for something they have done.",
+  "explanation_ar": "إنك تسامح حد وتنسى الغلط اللي عمله في حقك.",
+  "senses": [
+   {
+    "sense_id": "forgive_v_1",
+    "definition_en": "To stop feeling angry or resentful toward someone for an offense or mistake.",
+    "definition_ar": "أن تسامح شخصًا وتعفو عنه وتتوقف عن الغضب منه بسبب خطأ ارتكبه.",
+    "examples": [
+     "Please forgive me for not letting you know sooner.",
+     "It is hard to forgive someone who lied to you.",
+     "I can forgive the accident, but not the carelessness."
+    ]
+   }
+  ],
+  "examples": [
+   "Please forgive me for not letting you know sooner.",
+   "It is hard to forgive someone who lied to you.",
+   "I can forgive the accident, but not the carelessness."
+  ],
+  "translations": [
+   "يسامح",
+   "يغفر",
+   "يعفو عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "pardon",
+    "excuse",
+    "absolve"
+   ],
+   "antonyms": [
+    "blame",
+    "condemn",
+    "resent"
+   ],
+   "collocations": [
+    "forgive and forget",
+    "please forgive",
+    "never forgive",
+    "hard to forgive"
+   ],
+   "word_family": {
+    "verb": "forgive",
+    "noun": "forgiveness",
+    "adjective": "forgiving"
+   }
+  },
+  "mnemonic": "مكونة من 'For' و 'Give'.. كأنك بتعطي 'Give' السماح والعفو.",
+  "phonetic_us": "fɚˈɡɪv",
+  "phonetic_uk": "fəˈɡɪv",
+  "syllables": "for•give",
+  "semantic_tags": [
+   "#Emotion",
+   "#Relationship",
+   "#Peace",
+   "#Religion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To stop being angry with someone for something they have done.",
+  "explanation_ar": "إنك تسامح حد وتنسى الغلط اللي عمله في حقك.",
+  "examples": [
+   "Please forgive me for not letting you know sooner.",
+   "It is hard to forgive someone who lied to you.",
+   "I can forgive the accident, but not the carelessness."
+  ],
+  "translations": {
+   "arabic_ar": "يسامح يغفر يعفو عن"
+  },
+  "synonyms": [
+   "pardon",
+   "excuse",
+   "absolve"
+  ],
+  "antonyms": [
+   "blame",
+   "condemn",
+   "resent"
+  ],
+  "collocations": [
+   "forgive and forget",
+   "please forgive",
+   "never forgive",
+   "hard to forgive"
+  ],
+  "mnemonic_ar": "مكونة من 'For' و 'Give'.. كأنك بتعطي 'Give' السماح والعفو."
+ }
+}

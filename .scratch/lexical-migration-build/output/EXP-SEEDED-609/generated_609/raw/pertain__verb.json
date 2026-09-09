@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "pertain",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "pertain",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To relate to or be connected with.",
+  "explanation_ar": "يخص أو يتعلق بـ. بتستخدم لما تقول إن الموضوع ده يخص كذا.",
+  "senses": [
+   {
+    "definition_en": "To relate to or be connected with.",
+    "explanation_ar": "يخص أو يتعلق بـ.",
+    "examples": [
+     "The rules pertain to everyone.",
+     "The documents pertain to the sale of the house.",
+     "The evidence does not pertain to the case at hand."
+    ]
+   }
+  ],
+  "examples": [
+   "The rules pertain to everyone.",
+   "The documents pertain to the sale of the house.",
+   "The evidence does not pertain to the case at hand."
+  ],
+  "translations": [
+   "يخص",
+   "يتعلق بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "relate",
+    "concern",
+    "apply",
+    "refer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "pertain to",
+    "directly pertain"
+   ]
+  },
+  "mnemonic": "شبه 'Contain' بس دي 'Pertain'.. الموضوع ده بـ 'Pertain' ليك يعني يخصك.",
+  "phonetic_us": "pərˈteɪn",
+  "phonetic_uk": "pəˈteɪn",
+  "syllables": "per•tain",
+  "semantic_tags": [
+   "#Relate",
+   "#Connect",
+   "#Formal",
+   "#Topic"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To relate to or be connected with.",
+  "explanation_ar": "يخص أو يتعلق بـ. بتستخدم لما تقول إن الموضوع ده يخص كذا.",
+  "examples": [
+   "The rules pertain to everyone.",
+   "The documents pertain to the sale of the house.",
+   "The evidence does not pertain to the case at hand."
+  ],
+  "translations": {
+   "arabic_ar": "يخص يتعلق بـ"
+  },
+  "synonyms": [
+   "relate",
+   "concern",
+   "apply",
+   "refer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "pertain to",
+   "directly pertain"
+  ],
+  "mnemonic_ar": "شبه 'Contain' بس دي 'Pertain'.. الموضوع ده بـ 'Pertain' ليك يعني يخصك."
+ }
+}

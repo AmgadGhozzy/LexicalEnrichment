@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "intervention",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intervention",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The act of becoming involved in a situation to improve it or prevent it from getting worse.",
+  "explanation_ar": "التدخل في موقف معين عشان تحل مشكلة أو تمنعها إنها تكبر.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The act of becoming involved in a situation to improve it or prevent it from getting worse.",
+    "definition_ar": "التدخل في موقف معين لتحسينه أو منع تفاقمه.",
+    "pos": "noun",
+    "examples": [
+     "Early intervention can save lives.",
+     "Military intervention is often a last resort in diplomatic crises.",
+     "They staged an intervention to help him with his addiction."
+    ]
+   }
+  ],
+  "examples": [
+   "Early intervention can save lives.",
+   "Military intervention is often a last resort in diplomatic crises.",
+   "They staged an intervention to help him with his addiction."
+  ],
+  "translations": [
+   "تدخل"
+  ],
+  "relations": {
+   "synonyms": [
+    "involvement",
+    "intercession",
+    "interference"
+   ],
+   "antonyms": [
+    "non-intervention",
+    "passivity"
+   ],
+   "collocations": [
+    "early intervention",
+    "government intervention",
+    "medical intervention",
+    "military intervention"
+   ]
+  },
+  "mnemonic": "جاية من 'Intervene'.. افتكر 'Enter' 'يدخل'.. إنك 'تدخل' عشان تصلح الوضع.",
+  "phonetic_us": "ˌɪntərˈvenʃn",
+  "phonetic_uk": "ˌɪntəˈvenʃn",
+  "syllables": "in•ter•ven•tion",
+  "semantic_tags": [
+   "Help",
+   "Politics",
+   "Medical",
+   "Conflict"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The act of becoming involved in a situation to improve it or prevent it from getting worse.",
+  "explanation_ar": "التدخل في موقف معين عشان تحل مشكلة أو تمنعها إنها تكبر.",
+  "examples": [
+   "Early intervention can save lives.",
+   "Military intervention is often a last resort in diplomatic crises.",
+   "They staged an intervention to help him with his addiction."
+  ],
+  "translations": {
+   "arabic_ar": "تدخل"
+  },
+  "synonyms": [
+   "involvement",
+   "intercession",
+   "interference"
+  ],
+  "antonyms": [
+   "non-intervention",
+   "passivity"
+  ],
+  "collocations": [
+   "early intervention",
+   "government intervention",
+   "medical intervention",
+   "military intervention"
+  ],
+  "mnemonic_ar": "جاية من 'Intervene'.. افتكر 'Enter' 'يدخل'.. إنك 'تدخل' عشان تصلح الوضع."
+ }
+}

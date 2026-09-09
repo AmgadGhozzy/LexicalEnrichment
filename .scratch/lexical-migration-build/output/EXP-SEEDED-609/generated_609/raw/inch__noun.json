@@ -1,0 +1,72 @@
+{
+ "identity": {
+  "lemma": "inch",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "inch",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A unit of linear measure equal to one twelfth of a foot (2.54 cm).",
+  "explanation_ar": "البوصة.. وحدة قياس طول صغيرة (حوالي 2.5 سم).",
+  "senses": [
+   {
+    "definition_en": "A unit of linear measure equal to one twelfth of a foot (2.54 cm).",
+    "definition_ar": "وحدة قياس طول تساوي جزءاً من اثني عشر جزءاً من القدم (حوالي 2.54 سم).",
+    "examples": [
+     "He is six feet one inch tall.",
+     "Move it an inch to the left.",
+     "The car missed me by an inch."
+    ]
+   }
+  ],
+  "examples": [
+   "He is six feet one inch tall.",
+   "Move it an inch to the left.",
+   "The car missed me by an inch."
+  ],
+  "translations": [
+   "بوصة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "every inch",
+    "inch by inch",
+    "square inch"
+   ]
+  },
+  "mnemonic": "قريبة من 'Pinch' 'قرصة'.. المسافة الصغيرة قد القرصة.",
+  "phonetic_us": "ɪntʃ",
+  "phonetic_uk": "ɪntʃ",
+  "syllables": "inch",
+  "semantic_tags": [
+   "#Measurement",
+   "#Distance",
+   "#Size"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A unit of linear measure equal to one twelfth of a foot (2.54 cm).",
+  "explanation_ar": "البوصة.. وحدة قياس طول صغيرة (حوالي 2.5 سم).",
+  "examples": [
+   "He is six feet one inch tall.",
+   "Move it an inch to the left.",
+   "The car missed me by an inch."
+  ],
+  "translations": {
+   "arabic_ar": "بوصة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "every inch",
+   "inch by inch",
+   "square inch"
+  ],
+  "mnemonic_ar": "قريبة من 'Pinch' 'قرصة'.. المسافة الصغيرة قد القرصة."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "incessant",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "incessant",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Continuing without pause or interruption (usually something unpleasant).",
+  "explanation_ar": "حاجة مستمرة مش بتقف ولا بتفصل، وغالباً بتكون حاجة مزعجة زي دوشة أو مطر.",
+  "senses": [
+   {
+    "definition_en": "Continuing without pause or interruption (usually something unpleasant).",
+    "definition_ar": "مستمر دون انقطاع أو توقف (غالباً لشيء مزعج أو غير مرغوب فيه).",
+    "examples": [
+     "The incessant rain spoiled our picnic.",
+     "The incessant noise of the traffic kept me awake.",
+     "They faced incessant demands from the customers."
+    ]
+   }
+  ],
+  "examples": [
+   "The incessant rain spoiled our picnic.",
+   "The incessant noise of the traffic kept me awake.",
+   "They faced incessant demands from the customers."
+  ],
+  "translations": [
+   "متواصل",
+   "مستمر دون انقطاع"
+  ],
+  "relations": {
+   "synonyms": [
+    "constant",
+    "ceaseless",
+    "unending",
+    "perpetual"
+   ],
+   "antonyms": [
+    "intermittent",
+    "occasional",
+    "sporadic"
+   ],
+   "collocations": [
+    "incessant rain",
+    "incessant noise",
+    "incessant chatter",
+    "incessant demands"
+   ]
+  },
+  "mnemonic": "كلمة 'Cease' يعني يتوقف.. 'In-cessant' يعني لا يتوقف.",
+  "phonetic_us": "ɪnˈsesnt",
+  "phonetic_uk": "ɪnˈsesnt",
+  "syllables": "in•ces•sant",
+  "semantic_tags": [
+   "#Time",
+   "#Annoyance",
+   "#Continuity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Continuing without pause or interruption (usually something unpleasant).",
+  "explanation_ar": "حاجة مستمرة مش بتقف ولا بتفصل، وغالباً بتكون حاجة مزعجة زي دوشة أو مطر.",
+  "examples": [
+   "The incessant rain spoiled our picnic.",
+   "The incessant noise of the traffic kept me awake.",
+   "They faced incessant demands from the customers."
+  ],
+  "translations": {
+   "arabic_ar": "متواصل مستمر دون انقطاع"
+  },
+  "synonyms": [
+   "constant",
+   "ceaseless",
+   "unending",
+   "perpetual"
+  ],
+  "antonyms": [
+   "intermittent",
+   "occasional",
+   "sporadic"
+  ],
+  "collocations": [
+   "incessant rain",
+   "incessant noise",
+   "incessant chatter",
+   "incessant demands"
+  ],
+  "mnemonic_ar": "كلمة 'Cease' يعني يتوقف.. 'In-cessant' يعني لا يتوقف."
+ }
+}

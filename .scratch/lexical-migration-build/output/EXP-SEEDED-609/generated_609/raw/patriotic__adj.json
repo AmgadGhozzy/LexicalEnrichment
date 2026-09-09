@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "patriotic",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "patriotic",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Having or expressing devotion to and vigorous support for one's country.",
+  "explanation_ar": "شخص وطني وبيحب بلده جدًا ومستعد يدافع عنها، أو ما يعبّر عن حب الوطن والولاء له.",
+  "senses": [
+   {
+    "definition_en": "Having or expressing devotion to and vigorous support for one's country.",
+    "definition_ar": "محب لوطنه ومخلص له أو معبّر عن حب الوطن والولاء له."
+   }
+  ],
+  "examples": [
+   "People felt very patriotic during the Olympics.",
+   "Wearing the flag is a patriotic gesture.",
+   "The speech stirred patriotic fervor in the crowd."
+  ],
+  "translations": [
+   "وَطَنِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "loyal",
+    "devoted",
+    "nationalistic"
+   ],
+   "antonyms": [
+    "unpatriotic",
+    "traitorous"
+   ],
+   "collocations": [
+    "patriotic duty",
+    "patriotic song",
+    "patriotic fervor"
+   ]
+  },
+  "mnemonic": "جاية من 'Patriot'.. يعني محب لوطنه",
+  "phonetic_us": "ˌpeɪtriˈɑtɪk",
+  "phonetic_uk": "ˌpætriˈɒtɪk",
+  "syllables": "pa•tri•ot•ic",
+  "semantic_tags": [
+   "#Country",
+   "#Loyalty",
+   "#Politics",
+   "#Love"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Having or expressing devotion to and vigorous support for one's country.",
+  "explanation_ar": "شخص وطني وبيحب بلده جدًا ومستعد يدافع عنها، أو ما يعبّر عن حب الوطن والولاء له.",
+  "examples": [
+   "People felt very patriotic during the Olympics.",
+   "Wearing the flag is a patriotic gesture.",
+   "The speech stirred patriotic fervor in the crowd."
+  ],
+  "translations": {
+   "arabic_ar": "وَطَنِيّ"
+  },
+  "synonyms": [
+   "loyal",
+   "devoted",
+   "nationalistic"
+  ],
+  "antonyms": [
+   "unpatriotic",
+   "traitorous"
+  ],
+  "collocations": [
+   "patriotic duty",
+   "patriotic song",
+   "patriotic fervor"
+  ],
+  "mnemonic_ar": "جاية من 'Patriot'.. يعني محب لوطنه"
+ }
+}

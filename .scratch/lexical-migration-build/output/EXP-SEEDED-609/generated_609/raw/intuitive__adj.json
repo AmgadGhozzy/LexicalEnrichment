@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "intuitive",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "intuitive",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Based on feelings rather than facts or proof; easy to understand without instruction.",
+  "explanation_ar": "حاجة بتفهمها بالإحساس أو بالبديهة من غير ما حد يشرحهالك، أو برنامج وتصميم سهل الاستخدام.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Based on feelings and instinct rather than conscious reasoning or facts.",
+    "definition_ar": "مبني على الحدس أو الإحساس الداخلي دون حاجة لتفكير منطقي معقد."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "(Especially of software or equipment) easy to use and understand without special training or instruction.",
+    "definition_ar": "بديهي وسهل الاستخدام والفهم تلقائياً دون تدريب أو شرح."
+   }
+  ],
+  "examples": [
+   "She has an intuitive understanding of animals.",
+   "The software is very intuitive to use.",
+   "He made an intuitive decision that saved the company."
+  ],
+  "translations": [
+   "حدسي",
+   "بديهي"
+  ],
+  "relations": {
+   "synonyms": [
+    "instinctive",
+    "natural",
+    "innate",
+    "spontaneous"
+   ],
+   "antonyms": [
+    "calculated",
+    "reasoned",
+    "counter-intuitive"
+   ],
+   "collocations": [
+    "intuitive sense",
+    "intuitive understanding",
+    "intuitive design",
+    "intuitive interface"
+   ]
+  },
+  "mnemonic": "جاية من 'Intuition' 'الحدس'.. يعني بتعتمد على إحساسك الداخلي.",
+  "phonetic_us": "ɪnˈtuːɪtɪv",
+  "phonetic_uk": "ɪnˈtjuːɪtɪv",
+  "syllables": "in•tu•itive",
+  "semantic_tags": [
+   "feeling",
+   "cognition",
+   "design"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Based on feelings rather than facts or proof; easy to understand without instruction.",
+  "explanation_ar": "حاجة بتفهمها بالإحساس أو بالبديهة من غير ما حد يشرحهالك، أو برنامج وتصميم سهل الاستخدام.",
+  "examples": [
+   "She has an intuitive understanding of animals.",
+   "The software is very intuitive to use.",
+   "He made an intuitive decision that saved the company."
+  ],
+  "translations": {
+   "arabic_ar": "حدسي بديهي"
+  },
+  "synonyms": [
+   "instinctive",
+   "natural",
+   "innate",
+   "spontaneous"
+  ],
+  "antonyms": [
+   "calculated",
+   "reasoned",
+   "counter-intuitive"
+  ],
+  "collocations": [
+   "intuitive sense",
+   "intuitive understanding",
+   "intuitive design",
+   "intuitive interface"
+  ],
+  "mnemonic_ar": "جاية من 'Intuition' 'الحدس'.. يعني بتعتمد على إحساسك الداخلي."
+ }
+}

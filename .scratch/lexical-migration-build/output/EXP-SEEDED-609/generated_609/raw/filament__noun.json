@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "filament",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "filament",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A slender threadlike object or fiber, especially in a lightbulb.",
+  "explanation_ar": "خيط رفيع جداً، زي السلك اللي جوه اللمبة القديمة اللي بينور لما الكهربا تمشي فيه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A slender threadlike object or fiber, especially the wire in an incandescent lightbulb or a strand used in 3D printing.",
+    "explanation_ar": "خيط دقيق أو سلك رفيع، خاصة السلك المتوهج داخل المصباح الكهربائي أو خيط الطباعة ثلاثية الأبعاد.",
+    "examples": [
+     "The lightbulb filament is broken.",
+     "Old bulbs use a tungsten filament.",
+     "The 3D printer needs a new spool of plastic filament."
+    ]
+   }
+  ],
+  "examples": [
+   "The lightbulb filament is broken.",
+   "Old bulbs use a tungsten filament.",
+   "The 3D printer needs a new spool of plastic filament."
+  ],
+  "translations": [
+   "فتيلة",
+   "سلك دقيق",
+   "خيط رفيع"
+  ],
+  "relations": {
+   "synonyms": [
+    "thread",
+    "strand",
+    "fiber"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "tungsten filament",
+    "filament bulb",
+    "thin filament",
+    "plastic filament"
+   ]
+  },
+  "mnemonic": "أولها 'Fill' 'يملأ'.. الـ 'Filament' هو الخيط الرفيع اللي بيملأ اللمبة نور.",
+  "phonetic_us": "ˈfɪləmənt",
+  "phonetic_uk": "ˈfɪləmənt",
+  "syllables": "fil•a•ment",
+  "semantic_tags": [
+   "#Electricity",
+   "#Light",
+   "#Biology",
+   "#Material"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A slender threadlike object or fiber, especially in a lightbulb.",
+  "explanation_ar": "خيط رفيع جداً، زي السلك اللي جوه اللمبة القديمة اللي بينور لما الكهربا تمشي فيه.",
+  "examples": [
+   "The lightbulb filament is broken.",
+   "Old bulbs use a tungsten filament.",
+   "The 3D printer needs a new spool of plastic filament."
+  ],
+  "translations": {
+   "arabic_ar": "فتيلة سلك دقيق خيط رفيع"
+  },
+  "synonyms": [
+   "thread",
+   "strand",
+   "fiber"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "tungsten filament",
+   "filament bulb",
+   "thin filament",
+   "plastic filament"
+  ],
+  "mnemonic_ar": "أولها 'Fill' 'يملأ'.. الـ 'Filament' هو الخيط الرفيع اللي بيملأ اللمبة نور."
+ }
+}

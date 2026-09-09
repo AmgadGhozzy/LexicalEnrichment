@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "grow",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "grow",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To increase in size or amount; to develop physically.",
+  "explanation_ar": "يكبر وينمو، سواء للإنسان أو الزرع، أو حتى الفلوس والمشاريع لما تزيد.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To increase in size, amount, or develop physically over time.",
+    "definition_ar": "ينمو أو يكبر في الحجم أو المقدار",
+    "pos": "verb"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To cultivate or produce plants and crops.",
+    "definition_ar": "يزرع نباتات أو محاصيل",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "Plants need water and sunlight to grow.",
+   "Children grow quickly during their early years.",
+   "They grow fresh vegetables in their garden."
+  ],
+  "translations": [
+   "ينمو",
+   "يكبر",
+   "يزرع"
+  ],
+  "relations": {
+   "synonyms": [
+    "develop",
+    "increase",
+    "expand"
+   ],
+   "antonyms": [
+    "shrink",
+    "decrease",
+    "wither"
+   ],
+   "collocations": [
+    "grow fast",
+    "grow up",
+    "grow old",
+    "grow plants"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Grass' 'عشب'.. الـ 'Grass' بيحب 'Grow' في الجنينة.",
+  "phonetic_us": "ɡroʊ",
+  "phonetic_uk": "ɡrəʊ",
+  "syllables": [
+   "grow"
+  ],
+  "semantic_tags": [
+   "#Nature",
+   "#Business",
+   "#Life"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To increase in size or amount; to develop physically.",
+  "explanation_ar": "يكبر وينمو، سواء للإنسان أو الزرع، أو حتى الفلوس والمشاريع لما تزيد.",
+  "examples": [
+   "Plants need water and sunlight to grow.",
+   "Children grow quickly during their early years.",
+   "They grow fresh vegetables in their garden."
+  ],
+  "translations": {
+   "arabic_ar": "ينمو يكبر يزرع"
+  },
+  "synonyms": [
+   "develop",
+   "increase",
+   "expand"
+  ],
+  "antonyms": [
+   "shrink",
+   "decrease",
+   "wither"
+  ],
+  "collocations": [
+   "grow fast",
+   "grow up",
+   "grow old",
+   "grow plants"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Grass' 'عشب'.. الـ 'Grass' بيحب 'Grow' في الجنينة."
+ }
+}

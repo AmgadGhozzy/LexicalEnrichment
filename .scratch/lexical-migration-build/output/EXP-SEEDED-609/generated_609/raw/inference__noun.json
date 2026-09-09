@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "inference",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "inference",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A conclusion reached on the basis of evidence and reasoning.",
+  "explanation_ar": "الاستنتاج. لما توصل لمعلومة مش مكتوبة بشكل مباشر بس فهمتها من السياق أو الأدلة اللي قدامك.",
+  "senses": [
+   {
+    "definition_en": "A conclusion reached on the basis of evidence and reasoning.",
+    "definition_ar": "استنتاج أو استدلال مبني على الأدلة والتفكير المنطقي.",
+    "examples": [
+     "We can make an inference from the data.",
+     "She drew an inference from his silence that he was guilty.",
+     "Statistical inference allows us to draw conclusions about a population from a sample."
+    ]
+   }
+  ],
+  "examples": [
+   "We can make an inference from the data.",
+   "She drew an inference from his silence that he was guilty.",
+   "Statistical inference allows us to draw conclusions about a population from a sample."
+  ],
+  "translations": [
+   "استنتاج",
+   "استدلال"
+  ],
+  "relations": {
+   "synonyms": [
+    "deduction",
+    "conclusion",
+    "reasoning"
+   ],
+   "antonyms": [
+    "fact",
+    "observation"
+   ],
+   "collocations": [
+    "draw an inference",
+    "logical inference",
+    "make an inference",
+    "statistical inference"
+   ]
+  },
+  "mnemonic": "جاية من 'In' + 'Refer'.. بترجع للمعلومات والأدلة اللي عندك عشان تطلع بـ 'Inference' 'استنتاج'.",
+  "phonetic_us": "ˈɪnfərəns",
+  "phonetic_uk": "ˈɪnfərəns",
+  "syllables": "in•fer•ence",
+  "semantic_tags": [
+   "Logic",
+   "Reasoning",
+   "Science"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A conclusion reached on the basis of evidence and reasoning.",
+  "explanation_ar": "الاستنتاج. لما توصل لمعلومة مش مكتوبة بشكل مباشر بس فهمتها من السياق أو الأدلة اللي قدامك.",
+  "examples": [
+   "We can make an inference from the data.",
+   "She drew an inference from his silence that he was guilty.",
+   "Statistical inference allows us to draw conclusions about a population from a sample."
+  ],
+  "translations": {
+   "arabic_ar": "استنتاج استدلال"
+  },
+  "synonyms": [
+   "deduction",
+   "conclusion",
+   "reasoning"
+  ],
+  "antonyms": [
+   "fact",
+   "observation"
+  ],
+  "collocations": [
+   "draw an inference",
+   "logical inference",
+   "make an inference",
+   "statistical inference"
+  ],
+  "mnemonic_ar": "جاية من 'In' + 'Refer'.. بترجع للمعلومات والأدلة اللي عندك عشان تطلع بـ 'Inference' 'استنتاج'."
+ }
+}

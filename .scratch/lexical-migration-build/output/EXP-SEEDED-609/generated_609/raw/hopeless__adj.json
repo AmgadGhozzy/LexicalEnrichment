@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "hopeless",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "hopeless",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Feeling or causing despair; having no expectation of success.",
+  "explanation_ar": "فاقد الأمل، أو حالة ميئوس منها ومفيش فايدة فيها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Feeling no hope or despairing about a situation.",
+    "explanation_ar": "يائس وفاقد للأمل.",
+    "examples": [
+     "He felt hopeless about the future."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Giving no reason to expect good results or success; impossible to solve.",
+    "explanation_ar": "ميئوس منه ولا أمل في تحسنه أو نجاحه.",
+    "examples": [
+     "It was a hopeless situation.",
+     "She gave a hopeless shrug of her shoulders."
+    ]
+   }
+  ],
+  "examples": [
+   "He felt hopeless about the future.",
+   "It was a hopeless situation.",
+   "She gave a hopeless shrug of her shoulders."
+  ],
+  "translations": [
+   "يَائِس",
+   "مَيْؤُوس مِنْهُ"
+  ],
+  "relations": {
+   "synonyms": [
+    "desperate",
+    "futile",
+    "despairing",
+    "impossible"
+   ],
+   "antonyms": [
+    "hopeful",
+    "optimistic"
+   ],
+   "collocations": [
+    "feel hopeless",
+    "hopeless situation",
+    "hopeless case",
+    "hopeless at"
+   ]
+  },
+  "mnemonic": "'Hope' 'أمل' + 'Less' 'بدون'.. يعني مفيش أمل.",
+  "phonetic_us": "ˈhoʊpləs",
+  "phonetic_uk": "ˈhəʊpləs",
+  "syllables": "hope•less",
+  "semantic_tags": [
+   "#Despair",
+   "#Failure",
+   "#Mood"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Feeling or causing despair; having no expectation of success.",
+  "explanation_ar": "فاقد الأمل، أو حالة ميئوس منها ومفيش فايدة فيها.",
+  "examples": [
+   "He felt hopeless about the future.",
+   "It was a hopeless situation.",
+   "She gave a hopeless shrug of her shoulders."
+  ],
+  "translations": {
+   "arabic_ar": "يَائِس مَيْؤُوس مِنْهُ"
+  },
+  "synonyms": [
+   "desperate",
+   "futile",
+   "despairing",
+   "impossible"
+  ],
+  "antonyms": [
+   "hopeful",
+   "optimistic"
+  ],
+  "collocations": [
+   "feel hopeless",
+   "hopeless situation",
+   "hopeless case",
+   "hopeless at"
+  ],
+  "mnemonic_ar": "'Hope' 'أمل' + 'Less' 'بدون'.. يعني مفيش أمل."
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "hear",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "hear",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To perceive a sound with your ears.",
+  "explanation_ar": "تسمع صوت بودانك. زي لما تسمع موسيقى أو حد بيكلمك.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To perceive a sound with your ears.",
+    "definition_ar": "أن تدرك الصوت بأذنيك؛ يسمع.",
+    "pos": "verb",
+    "examples": [
+     "I can hear a dog barking outside.",
+     "Speak louder please, I cannot hear you.",
+     "Did you hear that strange noise?"
+    ]
+   }
+  ],
+  "examples": [
+   "I can hear a dog barking outside.",
+   "Speak louder please, I cannot hear you.",
+   "Did you hear that strange noise?"
+  ],
+  "translations": [
+   "يسمع"
+  ],
+  "relations": {
+   "synonyms": [
+    "perceive",
+    "catch"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "hear from",
+    "hear about",
+    "hear of",
+    "hard to hear"
+   ]
+  },
+  "mnemonic": "كلمة 'Hear' فيها كلمة 'Ear' 'أذن'.. إنت بتستخدم الـ 'Ear' عشان تعمل 'Hear'.",
+  "phonetic_us": "hɪr",
+  "phonetic_uk": "hɪə",
+  "syllables": [
+   "hear"
+  ],
+  "semantic_tags": [
+   "Sound",
+   "Senses"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To perceive a sound with your ears.",
+  "explanation_ar": "تسمع صوت بودانك. زي لما تسمع موسيقى أو حد بيكلمك.",
+  "examples": [
+   "I can hear a dog barking outside.",
+   "Speak louder please, I cannot hear you.",
+   "Did you hear that strange noise?"
+  ],
+  "translations": {
+   "arabic_ar": "يسمع"
+  },
+  "synonyms": [
+   "perceive",
+   "catch"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "hear from",
+   "hear about",
+   "hear of",
+   "hard to hear"
+  ],
+  "mnemonic_ar": "كلمة 'Hear' فيها كلمة 'Ear' 'أذن'.. إنت بتستخدم الـ 'Ear' عشان تعمل 'Hear'."
+ }
+}

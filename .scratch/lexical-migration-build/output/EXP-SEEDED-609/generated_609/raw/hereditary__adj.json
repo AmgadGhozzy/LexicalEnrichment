@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "hereditary",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "hereditary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Passed from parents to children by genetic transmission, or inherited through family line such as a title or right.",
+  "explanation_ar": "يُطلق على الشيء الذي ينتقل بالوراثة، سواء كان صفة أو مرضًا ينتقل جينيًا من الآباء للأبناء، أو منصبًا ولقبًا يتوارثه أفراد العائلة.",
+  "senses": [
+   {
+    "definition_en": "Passed down genetically from parents to offspring.",
+    "definition_ar": "وِراثي؛ ينتقل جينيًا من الآباء إلى الأبناء.",
+    "pos": "adj"
+   },
+   {
+    "definition_en": "Passed down by legal inheritance, tradition, or birth from ancestor to heir.",
+    "definition_ar": "مُتوارَث؛ ينتقل بحكم القرابة أو النسب كالألقاب والمناصب.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "It is a hereditary condition passed down through generations.",
+   "The monarchy is a hereditary institution.",
+   "Scientists identified the hereditary defect in the gene."
+  ],
+  "translations": [
+   "وِراثِيّ",
+   "مُتوارَث"
+  ],
+  "relations": {
+   "synonyms": [
+    "genetic",
+    "inherited",
+    "ancestral"
+   ],
+   "antonyms": [
+    "acquired"
+   ],
+   "collocations": [
+    "hereditary disease",
+    "hereditary title",
+    "hereditary peer"
+   ]
+  },
+  "mnemonic": "جاية من 'Heir' 'وريث'.. يعني حاجة بتتورث في العيلة",
+  "phonetic_us": "həˈrɛdɪˌtɛri",
+  "phonetic_uk": "həˈredɪtri",
+  "syllables": "hered•i•tary",
+  "semantic_tags": [
+   "#Genetics",
+   "#Family",
+   "#Health",
+   "#Biology"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Passed from parents to children by genetic transmission, or inherited through family line such as a title or right.",
+  "explanation_ar": "يُطلق على الشيء الذي ينتقل بالوراثة، سواء كان صفة أو مرضًا ينتقل جينيًا من الآباء للأبناء، أو منصبًا ولقبًا يتوارثه أفراد العائلة.",
+  "examples": [
+   "It is a hereditary condition passed down through generations.",
+   "The monarchy is a hereditary institution.",
+   "Scientists identified the hereditary defect in the gene."
+  ],
+  "translations": {
+   "arabic_ar": "وِراثِيّ مُتوارَث"
+  },
+  "synonyms": [
+   "genetic",
+   "inherited",
+   "ancestral"
+  ],
+  "antonyms": [
+   "acquired"
+  ],
+  "collocations": [
+   "hereditary disease",
+   "hereditary title",
+   "hereditary peer"
+  ],
+  "mnemonic_ar": "جاية من 'Heir' 'وريث'.. يعني حاجة بتتورث في العيلة"
+ }
+}

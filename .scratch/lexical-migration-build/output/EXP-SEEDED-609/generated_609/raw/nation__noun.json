@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "nation",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "nation",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A large body of people united by common descent, history, culture, or language, inhabiting a particular country.",
+  "explanation_ar": "مجموعة كبيرة من الناس عايشين في بلد واحدة وبيجمعهم تاريخ ولغة مشتركة.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A large body of people united by common descent, history, culture, or language, inhabiting a particular country.",
+    "definition_ar": "أمة، شعب، أو دولة ذات سيادة يجمع مواطنيها تاريخ وثقافة مشتركة.",
+    "examples": [
+     "The whole nation watched the game.",
+     "We are a proud nation.",
+     "The president spoke to the nation."
+    ]
+   }
+  ],
+  "examples": [
+   "The whole nation watched the game.",
+   "We are a proud nation.",
+   "The president spoke to the nation."
+  ],
+  "translations": [
+   "أمة",
+   "شعب",
+   "دولة"
+  ],
+  "relations": {
+   "synonyms": [
+    "country",
+    "state",
+    "land",
+    "people"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "United Nations",
+    "whole nation",
+    "host nation",
+    "developing nation"
+   ]
+  },
+  "mnemonic": "زي 'National' 'قومي'.. الـ 'Nation' هي الناس اللي بيجمعهم تاريخ وأرض واحدة.",
+  "phonetic_us": "ˈneɪʃn",
+  "phonetic_uk": "ˈneɪʃən",
+  "syllables": "na•tion",
+  "semantic_tags": [
+   "Country",
+   "Politics",
+   "Society"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large body of people united by common descent, history, culture, or language, inhabiting a particular country.",
+  "explanation_ar": "مجموعة كبيرة من الناس عايشين في بلد واحدة وبيجمعهم تاريخ ولغة مشتركة.",
+  "examples": [
+   "The whole nation watched the game.",
+   "We are a proud nation.",
+   "The president spoke to the nation."
+  ],
+  "translations": {
+   "arabic_ar": "أمة شعب دولة"
+  },
+  "synonyms": [
+   "country",
+   "state",
+   "land",
+   "people"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "United Nations",
+   "whole nation",
+   "host nation",
+   "developing nation"
+  ],
+  "mnemonic_ar": "زي 'National' 'قومي'.. الـ 'Nation' هي الناس اللي بيجمعهم تاريخ وأرض واحدة."
+ }
+}

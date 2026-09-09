@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "leave",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "leave",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To go away from a place; to let something remain in a particular state.",
+  "explanation_ar": "تمشي وتسيب مكان، أو تسيب حاجة زي ما هي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To go away from a person, place, or thing.",
+    "definition_ar": "يغادر أو يمشي من مكان، أو يبتعد عن شخص.",
+    "cefr": "A1"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To allow or cause something to remain in a particular place or state.",
+    "definition_ar": "يترك، يسيب حاجة في مكان أو في حالة معينة.",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "I leave home at 8 AM.",
+   "Don't leave me alone.",
+   "Did you leave the door unlocked?"
+  ],
+  "translations": [
+   "يُغادِر",
+   "يَتْرُك"
+  ],
+  "relations": {
+   "synonyms": [
+    "depart",
+    "go",
+    "exit"
+   ],
+   "antonyms": [
+    "arrive",
+    "stay",
+    "enter"
+   ],
+   "collocations": [
+    "leave alone",
+    "leave behind",
+    "leave a message",
+    "leave home"
+   ]
+  },
+  "mnemonic": "كلمة 'Leave' شبه 'Live' 'يعيش' بس النطق مختلف.. عشان 'Live' 'تعيش' حياتك لازم أحياناً 'Leave' 'تغادر' أماكن معينة.",
+  "phonetic_us": "liːv",
+  "phonetic_uk": "liːv",
+  "syllables": [
+   "leave"
+  ],
+  "semantic_tags": [
+   "Departure",
+   "Exit",
+   "Movement"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To go away from a place; to let something remain in a particular state.",
+  "explanation_ar": "تمشي وتسيب مكان، أو تسيب حاجة زي ما هي.",
+  "examples": [
+   "I leave home at 8 AM.",
+   "Don't leave me alone.",
+   "Did you leave the door unlocked?"
+  ],
+  "translations": {
+   "arabic_ar": "يُغادِر يَتْرُك"
+  },
+  "synonyms": [
+   "depart",
+   "go",
+   "exit"
+  ],
+  "antonyms": [
+   "arrive",
+   "stay",
+   "enter"
+  ],
+  "collocations": [
+   "leave alone",
+   "leave behind",
+   "leave a message",
+   "leave home"
+  ],
+  "mnemonic_ar": "كلمة 'Leave' شبه 'Live' 'يعيش' بس النطق مختلف.. عشان 'Live' 'تعيش' حياتك لازم أحياناً 'Leave' 'تغادر' أماكن معينة."
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "liable",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "liable",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Legally responsible for something; or likely to do/suffer something.",
+  "explanation_ar": "إنك تكون مسؤول قانوناً عن حاجة لو حصلت غلطة، أو مُعرض إن حاجة وحشة تحصلك.",
+  "senses": [
+   {
+    "definition_en": "Legally responsible by law.",
+    "definition_ar": "مسؤول قانونياً عن تعويض أو ضرر.",
+    "examples": [
+     "The court found him liable for negligence.",
+     "The company is liable for the damage."
+    ]
+   },
+   {
+    "definition_en": "Likely to experience, do, or be affected by something unpleasant.",
+    "definition_ar": "مُعرّض لشيء غير سار أو محتمل أن يفعله.",
+    "examples": [
+     "He is liable to get angry if you ask him that."
+    ]
+   }
+  ],
+  "examples": [
+   "The court found him liable for negligence.",
+   "The company is liable for the damage.",
+   "He is liable to get angry if you ask him that."
+  ],
+  "translations": [
+   "مسؤول قانوناً",
+   "عُرضة لـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "responsible",
+    "accountable",
+    "likely",
+    "prone",
+    "susceptible"
+   ],
+   "antonyms": [
+    "immune",
+    "exempt",
+    "unlikely"
+   ],
+   "collocations": [
+    "liable for damages",
+    "personally liable",
+    "liable to change",
+    "held liable"
+   ]
+  },
+  "mnemonic": "قريبة من 'Lie' 'يكذب'.. لو عملت 'Lie' هتكون 'Liable' للمساءلة القانونية.",
+  "phonetic_us": "ˈlaɪəbəl",
+  "phonetic_uk": "ˈlaɪəbəl",
+  "syllables": "li•able",
+  "semantic_tags": [
+   "Law",
+   "Responsibility",
+   "Risk"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Legally responsible for something; or likely to do/suffer something.",
+  "explanation_ar": "إنك تكون مسؤول قانوناً عن حاجة لو حصلت غلطة، أو مُعرض إن حاجة وحشة تحصلك.",
+  "examples": [
+   "The court found him liable for negligence.",
+   "The company is liable for the damage.",
+   "He is liable to get angry if you ask him that."
+  ],
+  "translations": {
+   "arabic_ar": "مسؤول قانوناً عُرضة لـ"
+  },
+  "synonyms": [
+   "responsible",
+   "accountable",
+   "likely",
+   "prone",
+   "susceptible"
+  ],
+  "antonyms": [
+   "immune",
+   "exempt",
+   "unlikely"
+  ],
+  "collocations": [
+   "liable for damages",
+   "personally liable",
+   "liable to change",
+   "held liable"
+  ],
+  "mnemonic_ar": "قريبة من 'Lie' 'يكذب'.. لو عملت 'Lie' هتكون 'Liable' للمساءلة القانونية."
+ }
+}

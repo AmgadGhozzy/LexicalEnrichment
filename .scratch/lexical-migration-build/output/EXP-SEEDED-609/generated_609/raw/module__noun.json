@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "module",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "module",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "One of a set of parts that can be connected or combined to build or complete something.",
+  "explanation_ar": "وحدة أو جزء مستقل من نظام أكبر، زي وحدة دراسية في كورس أو قطعة في جهاز.",
+  "senses": [
+   {
+    "definition_en": "One of a set of parts that can be connected or combined to build or complete something, such as an educational unit or hardware component.",
+    "explanation_ar": "وحدة دراسية أو جزء تركيبي مستقل من نظام أكبر"
+   }
+  ],
+  "examples": [
+   "We completed the first module of the training.",
+   "The spacecraft consists of a command module and a service module.",
+   "Each software module performs a separate function in the system."
+  ],
+  "translations": [
+   "وحدة"
+  ],
+  "relations": {
+   "synonyms": [
+    "unit",
+    "component",
+    "section",
+    "element",
+    "segment"
+   ],
+   "antonyms": [
+    "whole"
+   ],
+   "collocations": [
+    "training module",
+    "command module",
+    "learning module",
+    "solar module"
+   ],
+   "word_family": {
+    "adj": "modular",
+    "noun": "module"
+   }
+  },
+  "mnemonic": "كلمة 'Model' 'نموذج'.. الـ 'Module' هو جزء صغير أو نموذج مصغر من نظام كبير.",
+  "phonetic_us": "ˈmɑːdʒuːl",
+  "phonetic_uk": "ˈmɒdjuːl",
+  "syllables": "mod•ule",
+  "semantic_tags": [
+   "#Part",
+   "#Education",
+   "#Tech",
+   "#System"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "One of a set of parts that can be connected or combined to build or complete something.",
+  "explanation_ar": "وحدة أو جزء مستقل من نظام أكبر، زي وحدة دراسية في كورس أو قطعة في جهاز.",
+  "examples": [
+   "We completed the first module of the training.",
+   "The spacecraft consists of a command module and a service module.",
+   "Each software module performs a separate function in the system."
+  ],
+  "translations": {
+   "arabic_ar": "وحدة"
+  },
+  "synonyms": [
+   "unit",
+   "component",
+   "section",
+   "element",
+   "segment"
+  ],
+  "antonyms": [
+   "whole"
+  ],
+  "collocations": [
+   "training module",
+   "command module",
+   "learning module",
+   "solar module"
+  ],
+  "mnemonic_ar": "كلمة 'Model' 'نموذج'.. الـ 'Module' هو جزء صغير أو نموذج مصغر من نظام كبير."
+ }
+}

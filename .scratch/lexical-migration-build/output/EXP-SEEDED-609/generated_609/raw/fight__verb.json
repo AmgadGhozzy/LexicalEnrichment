@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "fight",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "fight",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To take part in a violent struggle or make a strong effort to overcome something.",
+  "explanation_ar": "إنك تدخل في خناقة أو شجار، أو تحارب وتكافح عشان تكسب حاجة أو تتغلب على مشكلة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To engage in physical combat or a quarrel against someone or something.",
+    "explanation_ar": "يتقاتل أو يتعارك جسدياً أو يدخل في شجار.",
+    "translation": "يتقاتل / يتعارك"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To make a determined effort to achieve a goal, resist something, or overcome a difficulty.",
+    "explanation_ar": "يكافح أو يناضل دفاعاً عن هدف أو لمواجهة صعوبة.",
+    "translation": "يكافح / يحارب (معنوياً)"
+   }
+  ],
+  "examples": [
+   "Cats and dogs often fight.",
+   "We must fight for our rights.",
+   "Doctors fight to save lives every day."
+  ],
+  "translations": [
+   "يقاتل",
+   "يحارب",
+   "يتعارك",
+   "يكافح"
+  ],
+  "relations": {
+   "synonyms": [
+    "battle",
+    "combat",
+    "clash",
+    "struggle"
+   ],
+   "antonyms": [
+    "surrender",
+    "yield"
+   ],
+   "collocations": [
+    "fight back",
+    "fight off",
+    "fight for"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Fist' 'قبضة'.. عشان الـ 'Fight' بيكون بالـ 'Fist'.",
+  "phonetic_us": "faɪt",
+  "phonetic_uk": "faɪt",
+  "syllables": "fight",
+  "semantic_tags": [
+   "Combat",
+   "Struggle",
+   "Defend"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To take part in a violent struggle or make a strong effort to overcome something.",
+  "explanation_ar": "إنك تدخل في خناقة أو شجار، أو تحارب وتكافح عشان تكسب حاجة أو تتغلب على مشكلة.",
+  "examples": [
+   "Cats and dogs often fight.",
+   "We must fight for our rights.",
+   "Doctors fight to save lives every day."
+  ],
+  "translations": {
+   "arabic_ar": "يقاتل يحارب يتعارك يكافح"
+  },
+  "synonyms": [
+   "battle",
+   "combat",
+   "clash",
+   "struggle"
+  ],
+  "antonyms": [
+   "surrender",
+   "yield"
+  ],
+  "collocations": [
+   "fight back",
+   "fight off",
+   "fight for"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Fist' 'قبضة'.. عشان الـ 'Fight' بيكون بالـ 'Fist'."
+ }
+}

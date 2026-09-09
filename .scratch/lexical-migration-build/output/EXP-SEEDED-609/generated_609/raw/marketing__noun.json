@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "marketing",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "marketing",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The business of promoting and selling products or services.",
+  "explanation_ar": "علم التسويق، يعني إزاي تروج للمنتج بتاعك وتخلي الناس تشتريه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The business of promoting and selling products or services.",
+    "explanation_ar": "الأنشطة والوسائل المستخدمة للترويج للمنتجات أو الخدمات وبيعها.",
+    "examples": [
+     "Good marketing helps sell products.",
+     "She is the new marketing manager.",
+     "They launched a massive marketing campaign."
+    ]
+   }
+  ],
+  "examples": [
+   "Good marketing helps sell products.",
+   "She is the new marketing manager.",
+   "They launched a massive marketing campaign."
+  ],
+  "translations": [
+   "تسويق"
+  ],
+  "relations": {
+   "synonyms": [
+    "promotion",
+    "advertising"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "marketing strategy",
+    "digital marketing",
+    "marketing campaign",
+    "marketing manager"
+   ]
+  },
+  "mnemonic": "جاية من كلمة 'Market' 'سوق'.. الـ 'Marketing' هو إنك تنزل بضاعتك الـ 'Market' وتعرف تبيعها.",
+  "phonetic_us": "ˈmɑːrkɪtɪŋ",
+  "phonetic_uk": "ˈmɑːkɪtɪŋ",
+  "syllables": "mar•ket•ing",
+  "semantic_tags": [
+   "#Business",
+   "#Sales",
+   "#Advertising",
+   "#Job"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The business of promoting and selling products or services.",
+  "explanation_ar": "علم التسويق، يعني إزاي تروج للمنتج بتاعك وتخلي الناس تشتريه.",
+  "examples": [
+   "Good marketing helps sell products.",
+   "She is the new marketing manager.",
+   "They launched a massive marketing campaign."
+  ],
+  "translations": {
+   "arabic_ar": "تسويق"
+  },
+  "synonyms": [
+   "promotion",
+   "advertising"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "marketing strategy",
+   "digital marketing",
+   "marketing campaign",
+   "marketing manager"
+  ],
+  "mnemonic_ar": "جاية من كلمة 'Market' 'سوق'.. الـ 'Marketing' هو إنك تنزل بضاعتك الـ 'Market' وتعرف تبيعها."
+ }
+}

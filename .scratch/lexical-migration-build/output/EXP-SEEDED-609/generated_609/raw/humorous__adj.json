@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "humorous",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "humorous",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Causing laughter and amusement; comic.",
+  "explanation_ar": "حاجة تضحك أو دمها خفيف.",
+  "senses": [
+   {
+    "definition_en": "Causing laughter and amusement; comic.",
+    "explanation_ar": "مضحك أو فكاهي.",
+    "examples": [
+     "He told a humorous story.",
+     "The movie takes a humorous look at family life.",
+     "His speech was both insightful and humorous."
+    ]
+   }
+  ],
+  "examples": [
+   "He told a humorous story.",
+   "The movie takes a humorous look at family life.",
+   "His speech was both insightful and humorous."
+  ],
+  "translations": [
+   "مضحك",
+   "فكاهي"
+  ],
+  "relations": {
+   "synonyms": [
+    "funny",
+    "amusing",
+    "comical",
+    "witty"
+   ],
+   "antonyms": [
+    "serious",
+    "solemn",
+    "tragic",
+    "boring"
+   ],
+   "collocations": [
+    "humorous story",
+    "humorous remark",
+    "humorous side",
+    "highly humorous"
+   ]
+  },
+  "mnemonic": "جاية من 'Humor' 'فكاهة'.. الشخص الـ 'Humorous' هو اللي عنده حس فكاهي.",
+  "phonetic_us": "ˈhjuːmərəs",
+  "phonetic_uk": "ˈhjuːmərəs",
+  "syllables": "hu•mor•ous",
+  "semantic_tags": [
+   "funny",
+   "comedy",
+   "personality"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Causing laughter and amusement; comic.",
+  "explanation_ar": "حاجة تضحك أو دمها خفيف.",
+  "examples": [
+   "He told a humorous story.",
+   "The movie takes a humorous look at family life.",
+   "His speech was both insightful and humorous."
+  ],
+  "translations": {
+   "arabic_ar": "مضحك فكاهي"
+  },
+  "synonyms": [
+   "funny",
+   "amusing",
+   "comical",
+   "witty"
+  ],
+  "antonyms": [
+   "serious",
+   "solemn",
+   "tragic",
+   "boring"
+  ],
+  "collocations": [
+   "humorous story",
+   "humorous remark",
+   "humorous side",
+   "highly humorous"
+  ],
+  "mnemonic_ar": "جاية من 'Humor' 'فكاهة'.. الشخص الـ 'Humorous' هو اللي عنده حس فكاهي."
+ }
+}

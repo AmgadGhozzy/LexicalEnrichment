@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "fourteen",
+  "pos": "num",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fourteen",
+  "pos": "num",
+  "cefr": "A1",
+  "definition_en": "The cardinal number equal to ten plus four; the number 14.",
+  "explanation_ar": "العدد أربعة عشر (14).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The cardinal number equal to ten plus four; the number 14.",
+    "definition_ar": "العدد أربعة عشر (14).",
+    "examples": [
+     "I have fourteen pens.",
+     "There are fourteen days in a fortnight.",
+     "The building has fourteen floors."
+    ]
+   }
+  ],
+  "examples": [
+   "I have fourteen pens.",
+   "There are fourteen days in a fortnight.",
+   "The building has fourteen floors."
+  ],
+  "translations": [
+   "أربعة عشر"
+  ],
+  "relations": {
+   "synonyms": [
+    "14"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fourteen days",
+    "fourteen karat",
+    "fourteen points"
+   ]
+  },
+  "mnemonic": "أربعة 'Four' وعشرة 'teen'.. يبقى أربعتاشر",
+  "phonetic_us": "ˌfɔːrˈtiːn",
+  "phonetic_uk": "ˌfɔːˈtiːn",
+  "syllables": "four•teen",
+  "semantic_tags": [
+   "#Numbers",
+   "#Math"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "The cardinal number equal to ten plus four; the number 14.",
+  "explanation_ar": "العدد أربعة عشر (14).",
+  "examples": [
+   "I have fourteen pens.",
+   "There are fourteen days in a fortnight.",
+   "The building has fourteen floors."
+  ],
+  "translations": {
+   "arabic_ar": "أربعة عشر"
+  },
+  "synonyms": [
+   "14"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fourteen days",
+   "fourteen karat",
+   "fourteen points"
+  ],
+  "mnemonic_ar": "أربعة 'Four' وعشرة 'teen'.. يبقى أربعتاشر"
+ }
+}

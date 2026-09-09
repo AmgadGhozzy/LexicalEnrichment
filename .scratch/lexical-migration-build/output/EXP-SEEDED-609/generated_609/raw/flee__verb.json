@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "flee",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "flee",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To run away quickly from a dangerous or unpleasant situation.",
+  "explanation_ar": "يعني يهرب بسرعة من خطر أو مكان مش آمن، زي الهروب من حريق أو حرب.",
+  "senses": [
+   {
+    "definition_en": "To run away quickly from a dangerous or unpleasant situation.",
+    "definition_ar": "الهروب بسرعة من موقف خطير أو غير آمن.",
+    "examples": [
+     "Many people had to flee the country.",
+     "The robbers tried to flee the scene.",
+     "Refugees were forced to flee their homes."
+    ]
+   }
+  ],
+  "examples": [
+   "Many people had to flee the country.",
+   "The robbers tried to flee the scene.",
+   "Refugees were forced to flee their homes."
+  ],
+  "translations": [
+   "يَفِرّ",
+   "يَهْرُب"
+  ],
+  "relations": {
+   "synonyms": [
+    "escape",
+    "run away",
+    "bolt"
+   ],
+   "antonyms": [
+    "stay",
+    "remain",
+    "confront"
+   ],
+   "collocations": [
+    "flee the country",
+    "flee in terror",
+    "flee the scene"
+   ]
+  },
+  "mnemonic": "كلمة 'Flee' شبه كلمة 'Fly' 'يطير'.. لما تهرب من الخطر كأنك بتطير من السرعة.",
+  "phonetic_us": "fliː",
+  "phonetic_uk": "fliː",
+  "syllables": [
+   "flee"
+  ],
+  "semantic_tags": [
+   "#Escape",
+   "#Danger",
+   "#Speed"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To run away quickly from a dangerous or unpleasant situation.",
+  "explanation_ar": "يعني يهرب بسرعة من خطر أو مكان مش آمن، زي الهروب من حريق أو حرب.",
+  "examples": [
+   "Many people had to flee the country.",
+   "The robbers tried to flee the scene.",
+   "Refugees were forced to flee their homes."
+  ],
+  "translations": {
+   "arabic_ar": "يَفِرّ يَهْرُب"
+  },
+  "synonyms": [
+   "escape",
+   "run away",
+   "bolt"
+  ],
+  "antonyms": [
+   "stay",
+   "remain",
+   "confront"
+  ],
+  "collocations": [
+   "flee the country",
+   "flee in terror",
+   "flee the scene"
+  ],
+  "mnemonic_ar": "كلمة 'Flee' شبه كلمة 'Fly' 'يطير'.. لما تهرب من الخطر كأنك بتطير من السرعة."
+ }
+}

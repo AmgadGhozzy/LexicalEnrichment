@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "fucking",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "fucking",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Used to emphasize an adjective, adverb, or statement, considered vulgar and highly offensive.",
+  "explanation_ar": "تُستخدم كأداة توكيد شديدة بمعنى «جداً» أو «للغاية»، وتُعد كلمة بذيئة ونابية للغاية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Used to emphasize an adjective, adverb, or statement, considered vulgar and highly offensive.",
+    "definition_ar": "تُستخدم للتوكيد الشديد بمعنى «جداً» أو «للغاية»، وتُعد لفظاً بذيئاً ونابياً.",
+    "examples": [
+     "It is fucking freezing out there!",
+     "He was driving fucking fast down the narrow street.",
+     "That movie was fucking awful."
+    ]
+   }
+  ],
+  "examples": [
+   "It is fucking freezing out there!",
+   "He was driving fucking fast down the narrow street.",
+   "That movie was fucking awful."
+  ],
+  "translations": [
+   "جداً (بذيئة)",
+   "للغاية (نابية)"
+  ],
+  "relations": {
+   "synonyms": [
+    "bloody",
+    "damn",
+    "extremely"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fucking freezing",
+    "fucking crazy",
+    "fucking brilliant"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈfʌkɪŋ",
+  "phonetic_uk": "ˈfʌkɪŋ",
+  "syllables": "fuck•ing",
+  "semantic_tags": [
+   "#Slang",
+   "#Vulgar",
+   "#Intensifier"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used to emphasize an adjective, adverb, or statement, considered vulgar and highly offensive.",
+  "explanation_ar": "تُستخدم كأداة توكيد شديدة بمعنى «جداً» أو «للغاية»، وتُعد كلمة بذيئة ونابية للغاية.",
+  "examples": [
+   "It is fucking freezing out there!",
+   "He was driving fucking fast down the narrow street.",
+   "That movie was fucking awful."
+  ],
+  "translations": {
+   "arabic_ar": "جداً (بذيئة) للغاية (نابية)"
+  },
+  "synonyms": [
+   "bloody",
+   "damn",
+   "extremely"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fucking freezing",
+   "fucking crazy",
+   "fucking brilliant"
+  ],
+  "mnemonic_ar": null
+ }
+}

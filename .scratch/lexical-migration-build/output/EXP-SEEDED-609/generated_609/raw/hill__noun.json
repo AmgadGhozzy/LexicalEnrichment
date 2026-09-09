@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "hill",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "hill",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A naturally raised area of land, smaller than a mountain.",
+  "explanation_ar": "مكان عالي عن الأرض بس أصغر من الجبل (تل أو تلة).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A naturally raised area of land, smaller than a mountain.",
+    "definition_ar": "مكان مرتفع من الأرض أصغر من الجبل (تل).",
+    "examples": [
+     "The house is on a hill.",
+     "We climbed up the hill.",
+     "The car rolled down the steep hill."
+    ]
+   }
+  ],
+  "examples": [
+   "The house is on a hill.",
+   "We climbed up the hill.",
+   "The car rolled down the steep hill."
+  ],
+  "translations": [
+   "تل",
+   "تلة"
+  ],
+  "relations": {
+   "synonyms": [
+    "mound",
+    "knoll",
+    "rise"
+   ],
+   "antonyms": [
+    "valley",
+    "plain"
+   ],
+   "collocations": [
+    "steep hill",
+    "top of the hill",
+    "up the hill"
+   ]
+  },
+  "mnemonic": "الـ 'Hill' 'التل' أصغر من الـ 'Mountain'.. زي الـ 'Heel' 'كعب' عالي شوية عن الأرض.",
+  "phonetic_us": "/hɪl/",
+  "phonetic_uk": "/hɪl/",
+  "syllables": [
+   "hill"
+  ],
+  "semantic_tags": [
+   "nature",
+   "geography",
+   "land",
+   "elevation"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A naturally raised area of land, smaller than a mountain.",
+  "explanation_ar": "مكان عالي عن الأرض بس أصغر من الجبل (تل أو تلة).",
+  "examples": [
+   "The house is on a hill.",
+   "We climbed up the hill.",
+   "The car rolled down the steep hill."
+  ],
+  "translations": {
+   "arabic_ar": "تل تلة"
+  },
+  "synonyms": [
+   "mound",
+   "knoll",
+   "rise"
+  ],
+  "antonyms": [
+   "valley",
+   "plain"
+  ],
+  "collocations": [
+   "steep hill",
+   "top of the hill",
+   "up the hill"
+  ],
+  "mnemonic_ar": "الـ 'Hill' 'التل' أصغر من الـ 'Mountain'.. زي الـ 'Heel' 'كعب' عالي شوية عن الأرض."
+ }
+}

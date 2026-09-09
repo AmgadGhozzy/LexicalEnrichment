@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "gift",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "gift",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A thing given willingly to someone without payment; a present.",
+  "explanation_ar": "الهدية التي تُعطى لشخص من غير مقابل، وتُستخدم أيضاً بمعنى موهبة فطرية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A present given to someone without asking for payment.",
+    "definition_ar": "هدية؛ شيء يُمنح دون مقابل",
+    "pos": "noun"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A natural ability or talent.",
+    "definition_ar": "موهبة طبيعية أو هبة فطرية",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "This is a gift for you.",
+   "The watch was a gift from my father.",
+   "He has a gift for languages."
+  ],
+  "translations": [
+   "هدية",
+   "موهبة",
+   "هبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "present",
+    "talent"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "birthday gift",
+    "gift shop",
+    "free gift"
+   ]
+  },
+  "mnemonic": "جاية من 'Give' 'يعطي'.. الـ 'Gift' هي العطية أو الهدية.",
+  "phonetic_us": "/ɡɪft/",
+  "phonetic_uk": "/ɡɪft/",
+  "syllables": "gift",
+  "semantic_tags": [
+   "present",
+   "celebration",
+   "talent"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing given willingly to someone without payment; a present.",
+  "explanation_ar": "الهدية التي تُعطى لشخص من غير مقابل، وتُستخدم أيضاً بمعنى موهبة فطرية.",
+  "examples": [
+   "This is a gift for you.",
+   "The watch was a gift from my father.",
+   "He has a gift for languages."
+  ],
+  "translations": {
+   "arabic_ar": "هدية موهبة هبة"
+  },
+  "synonyms": [
+   "present",
+   "talent"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "birthday gift",
+   "gift shop",
+   "free gift"
+  ],
+  "mnemonic_ar": "جاية من 'Give' 'يعطي'.. الـ 'Gift' هي العطية أو الهدية."
+ }
+}

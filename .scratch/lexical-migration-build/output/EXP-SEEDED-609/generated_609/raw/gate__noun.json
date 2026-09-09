@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "gate",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "gate",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A hinged barrier used to close an opening in a wall or fence.",
+  "explanation_ar": "الباب الكبير اللي بيدخلك سور أو حديقة أو مكان مهم زي المطار.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A hinged barrier used to close an opening in a wall or fence.",
+    "definition_ar": "بوابة أو حاجز يُفتح ويُغلق في سور أو سياج."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A numbered exit at an airport where passengers get on an airplane.",
+    "definition_ar": "بوابة المغادرة أو الصعود إلى الطائرة في المطار."
+   }
+  ],
+  "examples": [
+   "Open the gate.",
+   "Meet me at the gate.",
+   "They installed an electric gate."
+  ],
+  "translations": [
+   "بوابة"
+  ],
+  "relations": {
+   "synonyms": [
+    "barrier",
+    "entrance",
+    "gateway"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "front gate",
+    "departure gate",
+    "open the gate"
+   ]
+  },
+  "mnemonic": "كلمة 'Gate' قريبة من 'Late'.. لو اتأخرت الـ 'Gate' هتتقفل.",
+  "phonetic_us": "geɪt",
+  "phonetic_uk": "ɡeɪt",
+  "syllables": "gate",
+  "semantic_tags": [
+   "#Entrance",
+   "#Airport",
+   "#Home"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A hinged barrier used to close an opening in a wall or fence.",
+  "explanation_ar": "الباب الكبير اللي بيدخلك سور أو حديقة أو مكان مهم زي المطار.",
+  "examples": [
+   "Open the gate.",
+   "Meet me at the gate.",
+   "They installed an electric gate."
+  ],
+  "translations": {
+   "arabic_ar": "بوابة"
+  },
+  "synonyms": [
+   "barrier",
+   "entrance",
+   "gateway"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "front gate",
+   "departure gate",
+   "open the gate"
+  ],
+  "mnemonic_ar": "كلمة 'Gate' قريبة من 'Late'.. لو اتأخرت الـ 'Gate' هتتقفل."
+ }
+}

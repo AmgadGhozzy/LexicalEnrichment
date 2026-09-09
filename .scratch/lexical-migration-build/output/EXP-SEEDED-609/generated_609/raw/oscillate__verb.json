@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "oscillate",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "oscillate",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To move repeatedly back and forth at a regular speed, or to continually vary between two states, opinions, or conditions.",
+  "explanation_ar": "يتأرجح أو يتحرك ذهابًا وإيابًا بانتظام (مثل بندول الساعة)، أو يتذبذب ويتردد بين حالتين أو رأيين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To move repeatedly back and forth at a regular speed.",
+    "definition_ar": "يتحرك ذهابًا وإيابًا بانتظام كالبندول.",
+    "examples": [
+     "The swing started to oscillate slowly."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To continually vary or waver between two states, feelings, or opinions.",
+    "definition_ar": "يتذبذب أو يتردد بين حالتين أو رأيين أو شعورين.",
+    "examples": [
+     "His mood seems to oscillate between happy and sad.",
+     "The stock market tends to oscillate wildly during crises."
+    ]
+   }
+  ],
+  "examples": [
+   "The swing started to oscillate slowly.",
+   "His mood seems to oscillate between happy and sad.",
+   "The stock market tends to oscillate wildly during crises."
+  ],
+  "translations": [
+   "يتأرجح",
+   "يتذبذب",
+   "يتردد"
+  ],
+  "relations": {
+   "synonyms": [
+    "fluctuate",
+    "swing",
+    "waver",
+    "vacillate"
+   ],
+   "antonyms": [
+    "stabilize",
+    "settle"
+   ],
+   "collocations": [
+    "oscillate between",
+    "oscillate wildly",
+    "oscillate rhythmically"
+   ]
+  },
+  "mnemonic": "زي المروحة الـ 'Oscillator' اللي بتلف يمين وشمال.. هي بتعمل 'Oscillate' 'تذبذب'.",
+  "phonetic_us": "ˈɑːsɪleɪt",
+  "phonetic_uk": "ˈɒsɪleɪt",
+  "syllables": "os•cil•late",
+  "semantic_tags": [
+   "#Swing",
+   "#Move",
+   "#Fluctuate",
+   "#Physics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move repeatedly back and forth at a regular speed, or to continually vary between two states, opinions, or conditions.",
+  "explanation_ar": "يتأرجح أو يتحرك ذهابًا وإيابًا بانتظام (مثل بندول الساعة)، أو يتذبذب ويتردد بين حالتين أو رأيين.",
+  "examples": [
+   "The swing started to oscillate slowly.",
+   "His mood seems to oscillate between happy and sad.",
+   "The stock market tends to oscillate wildly during crises."
+  ],
+  "translations": {
+   "arabic_ar": "يتأرجح يتذبذب يتردد"
+  },
+  "synonyms": [
+   "fluctuate",
+   "swing",
+   "waver",
+   "vacillate"
+  ],
+  "antonyms": [
+   "stabilize",
+   "settle"
+  ],
+  "collocations": [
+   "oscillate between",
+   "oscillate wildly",
+   "oscillate rhythmically"
+  ],
+  "mnemonic_ar": "زي المروحة الـ 'Oscillator' اللي بتلف يمين وشمال.. هي بتعمل 'Oscillate' 'تذبذب'."
+ }
+}

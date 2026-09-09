@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "husband",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "husband",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A married man considered in relation to his spouse.",
+  "explanation_ar": "الزوج.. الراجل المتجوز.",
+  "senses": [
+   {
+    "definition_en": "A married man considered in relation to his spouse.",
+    "explanation_ar": "الزوج.. الراجل المتجوز.",
+    "examples": [
+     "This is my husband.",
+     "Her husband is a doctor.",
+     "She and her husband run a small business."
+    ]
+   }
+  ],
+  "examples": [
+   "This is my husband.",
+   "Her husband is a doctor.",
+   "She and her husband run a small business."
+  ],
+  "translations": [
+   "زوج"
+  ],
+  "relations": {
+   "synonyms": [
+    "spouse",
+    "partner",
+    "hubby"
+   ],
+   "antonyms": [
+    "wife",
+    "bachelor"
+   ],
+   "collocations": [
+    "husband and wife",
+    "ex-husband",
+    "late husband",
+    "future husband"
+   ]
+  },
+  "mnemonic": "الـ 'Husband' لازم يكون بينه وبين مراته 'Band' 'رابطة' قوية.",
+  "phonetic_us": "ˈhʌzbənd",
+  "phonetic_uk": "ˈhʌzbənd",
+  "syllables": "hus•band",
+  "semantic_tags": [
+   "#Family",
+   "#Marriage",
+   "#People"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A married man considered in relation to his spouse.",
+  "explanation_ar": "الزوج.. الراجل المتجوز.",
+  "examples": [
+   "This is my husband.",
+   "Her husband is a doctor.",
+   "She and her husband run a small business."
+  ],
+  "translations": {
+   "arabic_ar": "زوج"
+  },
+  "synonyms": [
+   "spouse",
+   "partner",
+   "hubby"
+  ],
+  "antonyms": [
+   "wife",
+   "bachelor"
+  ],
+  "collocations": [
+   "husband and wife",
+   "ex-husband",
+   "late husband",
+   "future husband"
+  ],
+  "mnemonic_ar": "الـ 'Husband' لازم يكون بينه وبين مراته 'Band' 'رابطة' قوية."
+ }
+}

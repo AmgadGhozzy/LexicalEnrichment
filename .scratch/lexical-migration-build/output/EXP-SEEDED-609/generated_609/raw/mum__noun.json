@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "mum",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "mum",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An informal British word for mother.",
+  "explanation_ar": "ماما أو أمي (الكلمة الشائعة غير الرسمية للأم في الإنجليزية البريطانية).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An informal British word for mother.",
+    "definition_ar": "ماما؛ أمي (تُستخدم بشكل غير رسمي في الإنجليزية البريطانية).",
+    "examples": [
+     "I called my mum to tell her the good news.",
+     "I help my mum at home every weekend.",
+     "She lives in London with her mum and dad."
+    ]
+   }
+  ],
+  "examples": [
+   "I called my mum to tell her the good news.",
+   "I help my mum at home every weekend.",
+   "She lives in London with her mum and dad."
+  ],
+  "translations": [
+   "ماما",
+   "أمي"
+  ],
+  "relations": {
+   "synonyms": [
+    "mother",
+    "mom",
+    "mummy"
+   ],
+   "antonyms": [
+    "dad"
+   ],
+   "collocations": [
+    "single mum",
+    "working mum"
+   ]
+  },
+  "mnemonic": "تشبه كلمة 'ماما'، وهي الكلمة اليومية الشائعة للأم في بريطانيا بدلاً من mom الأمريكية.",
+  "phonetic_us": "mʌm",
+  "phonetic_uk": "mʌm",
+  "syllables": [
+   "mum"
+  ],
+  "semantic_tags": [
+   "Family",
+   "People",
+   "Relationships"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An informal British word for mother.",
+  "explanation_ar": "ماما أو أمي (الكلمة الشائعة غير الرسمية للأم في الإنجليزية البريطانية).",
+  "examples": [
+   "I called my mum to tell her the good news.",
+   "I help my mum at home every weekend.",
+   "She lives in London with her mum and dad."
+  ],
+  "translations": {
+   "arabic_ar": "ماما أمي"
+  },
+  "synonyms": [
+   "mother",
+   "mom",
+   "mummy"
+  ],
+  "antonyms": [
+   "dad"
+  ],
+  "collocations": [
+   "single mum",
+   "working mum"
+  ],
+  "mnemonic_ar": "تشبه كلمة 'ماما'، وهي الكلمة اليومية الشائعة للأم في بريطانيا بدلاً من mom الأمريكية."
+ }
+}

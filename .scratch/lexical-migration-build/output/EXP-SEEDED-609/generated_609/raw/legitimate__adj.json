@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "legitimate",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "legitimate",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Allowed by law; reasonable and acceptable.",
+  "explanation_ar": "حاجة قانونية أو شرعية، أو سبب منطقي ومبرر مقبول.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Allowed and accepted by law; lawful or rightful.",
+    "definition_ar": "قانوني أو شرعي معترف به رسميًا.",
+    "examples": [
+     "They are the legitimate owners of the land."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Reasonable, acceptable, or justified by sensible thinking.",
+    "definition_ar": "مبرر أو وجيه أو منطقي ومقبول.",
+    "examples": [
+     "He has a legitimate reason for being late.",
+     "She raised a legitimate concern about the budget."
+    ]
+   }
+  ],
+  "examples": [
+   "He has a legitimate reason for being late.",
+   "She raised a legitimate concern about the budget.",
+   "They are the legitimate owners of the land."
+  ],
+  "translations": [
+   "شرعي",
+   "قانوني",
+   "مبرر",
+   "وجيه"
+  ],
+  "relations": {
+   "synonyms": [
+    "legal",
+    "lawful",
+    "valid",
+    "rightful"
+   ],
+   "antonyms": [
+    "illegitimate",
+    "illegal",
+    "invalid"
+   ],
+   "collocations": [
+    "legitimate business",
+    "legitimate concern",
+    "legitimate reason",
+    "legitimate government"
+   ]
+  },
+  "mnemonic": "قريبة من 'Legal' (قانوني).. الـ 'Legitimate' هو الشيء اللي القانون بيعترف بيه ومقبول.",
+  "phonetic_us": "ləˈdʒɪtəmɪt",
+  "phonetic_uk": "lɪˈdʒɪt.ɪ.mət",
+  "syllables": "le•git•i•mate",
+  "semantic_tags": [
+   "#Law",
+   "#Truth",
+   "#Validity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Allowed by law; reasonable and acceptable.",
+  "explanation_ar": "حاجة قانونية أو شرعية، أو سبب منطقي ومبرر مقبول.",
+  "examples": [
+   "He has a legitimate reason for being late.",
+   "She raised a legitimate concern about the budget.",
+   "They are the legitimate owners of the land."
+  ],
+  "translations": {
+   "arabic_ar": "شرعي قانوني مبرر وجيه"
+  },
+  "synonyms": [
+   "legal",
+   "lawful",
+   "valid",
+   "rightful"
+  ],
+  "antonyms": [
+   "illegitimate",
+   "illegal",
+   "invalid"
+  ],
+  "collocations": [
+   "legitimate business",
+   "legitimate concern",
+   "legitimate reason",
+   "legitimate government"
+  ],
+  "mnemonic_ar": "قريبة من 'Legal' (قانوني).. الـ 'Legitimate' هو الشيء اللي القانون بيعترف بيه ومقبول."
+ }
+}

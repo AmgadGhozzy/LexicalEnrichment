@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "likelihood",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "likelihood",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state or fact of something being likely; probability.",
+  "explanation_ar": "الاحتمالية، أي مدى إمكانية أو فرصة وقوع أمر ما.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "The state or fact of something being likely; probability.",
+    "explanation_ar": "احتمال أو فرصة حدوث أمر معين.",
+    "examples": [
+     "There is a strong likelihood that prices will rise.",
+     "In all likelihood, he will arrive tomorrow.",
+     "The likelihood of winning is small."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a strong likelihood that prices will rise.",
+   "In all likelihood, he will arrive tomorrow.",
+   "The likelihood of winning is small."
+  ],
+  "translations": [
+   "احْتِمَالِيَّة",
+   "إمْكَانِيَّة",
+   "رُجْحَان"
+  ],
+  "relations": {
+   "synonyms": [
+    "probability",
+    "chance",
+    "possibility",
+    "prospect"
+   ],
+   "antonyms": [
+    "impossibility",
+    "unlikelihood"
+   ],
+   "collocations": [
+    "in all likelihood",
+    "high likelihood",
+    "strong likelihood",
+    "likelihood of success"
+   ]
+  },
+  "mnemonic": "جاية من 'Likely' 'مُحتمل'.. الـ 'Likelihood' هي نسبة الاحتمال دي.",
+  "phonetic_us": "ˈlaɪklihʊd",
+  "phonetic_uk": "ˈlaɪklɪhʊd",
+  "syllables": "like•li•hood",
+  "semantic_tags": [
+   "Chance",
+   "Probability",
+   "Future"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state or fact of something being likely; probability.",
+  "explanation_ar": "الاحتمالية، أي مدى إمكانية أو فرصة وقوع أمر ما.",
+  "examples": [
+   "There is a strong likelihood that prices will rise.",
+   "In all likelihood, he will arrive tomorrow.",
+   "The likelihood of winning is small."
+  ],
+  "translations": {
+   "arabic_ar": "احْتِمَالِيَّة إمْكَانِيَّة رُجْحَان"
+  },
+  "synonyms": [
+   "probability",
+   "chance",
+   "possibility",
+   "prospect"
+  ],
+  "antonyms": [
+   "impossibility",
+   "unlikelihood"
+  ],
+  "collocations": [
+   "in all likelihood",
+   "high likelihood",
+   "strong likelihood",
+   "likelihood of success"
+  ],
+  "mnemonic_ar": "جاية من 'Likely' 'مُحتمل'.. الـ 'Likelihood' هي نسبة الاحتمال دي."
+ }
+}

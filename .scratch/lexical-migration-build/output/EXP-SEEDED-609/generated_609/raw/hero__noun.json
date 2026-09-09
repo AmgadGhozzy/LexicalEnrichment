@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "hero",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "hero",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person admired for courage, outstanding achievements, or noble qualities.",
+  "explanation_ar": "البطل، شخص الناس بتحبه وبتحترمه عشان شجاعته أو أعماله العظيمة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A person admired for courage, outstanding achievements, or noble qualities.",
+    "definition_ar": "شخص يحظى بالإعجاب والتقدير لشجاعته أو إنجازاته البارزة.",
+    "examples": [
+     "He is my hero.",
+     "She became a national hero after winning the gold medal.",
+     "The brave police officer was praised as a hero for saving the child."
+    ]
+   }
+  ],
+  "examples": [
+   "He is my hero.",
+   "She became a national hero after winning the gold medal.",
+   "The brave police officer was praised as a hero for saving the child."
+  ],
+  "translations": [
+   "بطل"
+  ],
+  "relations": {
+   "synonyms": [
+    "champion",
+    "idol",
+    "role model"
+   ],
+   "antonyms": [
+    "villain",
+    "coward"
+   ],
+   "collocations": [
+    "national hero",
+    "war hero",
+    "unsung hero",
+    "local hero"
+   ],
+   "word_family": {
+    "adj": "heroic",
+    "adv": "heroically",
+    "noun": "heroism"
+   }
+  },
+  "mnemonic": "زي الـ 'Super-hero'.. البطل اللي عنده قدرات خارقة.",
+  "phonetic_us": "ˈhɪɹoʊ",
+  "phonetic_uk": "ˈhɪəɹəʊ",
+  "syllables": null,
+  "semantic_tags": [
+   "#Character",
+   "#Courage",
+   "#Fame"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person admired for courage, outstanding achievements, or noble qualities.",
+  "explanation_ar": "البطل، شخص الناس بتحبه وبتحترمه عشان شجاعته أو أعماله العظيمة.",
+  "examples": [
+   "He is my hero.",
+   "She became a national hero after winning the gold medal.",
+   "The brave police officer was praised as a hero for saving the child."
+  ],
+  "translations": {
+   "arabic_ar": "بطل"
+  },
+  "synonyms": [
+   "champion",
+   "idol",
+   "role model"
+  ],
+  "antonyms": [
+   "villain",
+   "coward"
+  ],
+  "collocations": [
+   "national hero",
+   "war hero",
+   "unsung hero",
+   "local hero"
+  ],
+  "mnemonic_ar": "زي الـ 'Super-hero'.. البطل اللي عنده قدرات خارقة."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "gaiety",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "gaiety",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "The state or quality of being lighthearted, cheerful, or festive.",
+  "explanation_ar": "حالة من المرح والبهجة والسعادة، زي جو العيد أو الاحتفالات.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The state or quality of being lighthearted, cheerful, or festive.",
+    "definition_ar": "حالة من البهجة والمرح والسرور، لا سيما في الأجواء الاحتفالية.",
+    "examples": [
+     "Her laughter added to the gaiety of the evening.",
+     "The festival was a scene of color and gaiety.",
+     "The gaiety of the carnival masked the underlying social tensions."
+    ]
+   }
+  ],
+  "examples": [
+   "Her laughter added to the gaiety of the evening.",
+   "The festival was a scene of color and gaiety.",
+   "The gaiety of the carnival masked the underlying social tensions."
+  ],
+  "translations": [
+   "ابتهاج",
+   "بهجة",
+   "مرح",
+   "مسرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "cheerfulness",
+    "merriment",
+    "joy",
+    "joviality"
+   ],
+   "antonyms": [
+    "misery",
+    "gloom",
+    "sadness",
+    "depression"
+   ],
+   "collocations": [
+    "forced gaiety",
+    "scene of gaiety",
+    "sounds of gaiety",
+    "mood of gaiety"
+   ]
+  },
+  "mnemonic": "جاية من 'Gay' 'بمعناها القديم: سعيد'.. الـ 'Gaiety' هي السعادة والمرح.",
+  "phonetic_us": "ˈɡeɪəti",
+  "phonetic_uk": "ˈɡeɪəti",
+  "syllables": "gai•e•ty",
+  "semantic_tags": [
+   "#Happiness",
+   "#Party",
+   "#Mood"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state or quality of being lighthearted, cheerful, or festive.",
+  "explanation_ar": "حالة من المرح والبهجة والسعادة، زي جو العيد أو الاحتفالات.",
+  "examples": [
+   "Her laughter added to the gaiety of the evening.",
+   "The festival was a scene of color and gaiety.",
+   "The gaiety of the carnival masked the underlying social tensions."
+  ],
+  "translations": {
+   "arabic_ar": "ابتهاج بهجة مرح مسرة"
+  },
+  "synonyms": [
+   "cheerfulness",
+   "merriment",
+   "joy",
+   "joviality"
+  ],
+  "antonyms": [
+   "misery",
+   "gloom",
+   "sadness",
+   "depression"
+  ],
+  "collocations": [
+   "forced gaiety",
+   "scene of gaiety",
+   "sounds of gaiety",
+   "mood of gaiety"
+  ],
+  "mnemonic_ar": "جاية من 'Gay' 'بمعناها القديم: سعيد'.. الـ 'Gaiety' هي السعادة والمرح."
+ }
+}

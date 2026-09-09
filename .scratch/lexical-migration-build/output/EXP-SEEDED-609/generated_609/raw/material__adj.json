@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "material",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "material",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Relating to physical objects rather than the mind or spirit.",
+  "explanation_ar": "مرتبط بالأشياء المادية الملموسة وليس بالأمور الروحية أو المعنوية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Relating to physical objects rather than the mind or spirit.",
+    "explanation_ar": "مرتبط بالأشياء المادية الملموسة وليس بالأمور الروحية أو المعنوية.",
+    "examples": [
+     "We live in a material world.",
+     "She is not interested in material possessions.",
+     "The storm caused significant material damage."
+    ]
+   }
+  ],
+  "examples": [
+   "We live in a material world.",
+   "She is not interested in material possessions.",
+   "The storm caused significant material damage."
+  ],
+  "translations": [
+   "مادي"
+  ],
+  "relations": {
+   "synonyms": [
+    "physical",
+    "tangible",
+    "corporeal"
+   ],
+   "antonyms": [
+    "spiritual",
+    "abstract",
+    "immaterial"
+   ],
+   "collocations": [
+    "material world",
+    "material goods",
+    "material damage"
+   ]
+  },
+  "mnemonic": "قريبة من 'Matter' (مادة)، فالشيء الـ 'Material' هو الشيء المادي الملموس.",
+  "phonetic_us": "məˈtɪr.i.əl",
+  "phonetic_uk": "məˈtɪə.ri.əl",
+  "syllables": "ma•te•ri•al",
+  "semantic_tags": [
+   "#Physical",
+   "#Tangible"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to physical objects rather than the mind or spirit.",
+  "explanation_ar": "مرتبط بالأشياء المادية الملموسة وليس بالأمور الروحية أو المعنوية.",
+  "examples": [
+   "We live in a material world.",
+   "She is not interested in material possessions.",
+   "The storm caused significant material damage."
+  ],
+  "translations": {
+   "arabic_ar": "مادي"
+  },
+  "synonyms": [
+   "physical",
+   "tangible",
+   "corporeal"
+  ],
+  "antonyms": [
+   "spiritual",
+   "abstract",
+   "immaterial"
+  ],
+  "collocations": [
+   "material world",
+   "material goods",
+   "material damage"
+  ],
+  "mnemonic_ar": "قريبة من 'Matter' (مادة)، فالشيء الـ 'Material' هو الشيء المادي الملموس."
+ }
+}

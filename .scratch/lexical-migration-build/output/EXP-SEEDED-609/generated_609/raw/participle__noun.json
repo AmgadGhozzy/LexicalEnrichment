@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "participle",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "participle",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A word formed from a verb (e.g., 'going', 'gone') used as an adjective or to form verb tenses.",
+  "explanation_ar": "مصطلح في القواعد، زي اسم الفاعل 'playing' أو اسم المفعول 'played' في الإنجليزي.",
+  "senses": [
+   {
+    "definition_en": "A word formed from a verb (e.g., 'going', 'gone') used as an adjective or to form verb tenses.",
+    "explanation_ar": "صيغة مشتقة من الفعل تُستخدم كصفة أو لتكوين بعض الأزمنة المركبة (مثل اسم الفاعل أو اسم المفعول).",
+    "examples": [
+     "The past participle of 'eat' is 'eaten'.",
+     "The perfect participle indicates an action completed before another.",
+     "Use the right participle."
+    ]
+   }
+  ],
+  "examples": [
+   "The past participle of 'eat' is 'eaten'.",
+   "The perfect participle indicates an action completed before another.",
+   "Use the right participle."
+  ],
+  "translations": [
+   "اسم الفاعل أو المفعول",
+   "نعت فعلي"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "past participle",
+    "present participle",
+    "dangling participle"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Participate' 'يشارك'.. لأن الـ 'Participle' بيشارك صفات الفعل والاسم.",
+  "phonetic_us": "/ˈpɑːr.tɪ.sɪ.pəl/",
+  "phonetic_uk": "/ˈpɑː.tɪ.sɪ.pəl/",
+  "syllables": "par•ti•ci•ple",
+  "semantic_tags": [
+   "Grammar",
+   "Language",
+   "Verbs",
+   "Linguistics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A word formed from a verb (e.g., 'going', 'gone') used as an adjective or to form verb tenses.",
+  "explanation_ar": "مصطلح في القواعد، زي اسم الفاعل 'playing' أو اسم المفعول 'played' في الإنجليزي.",
+  "examples": [
+   "The past participle of 'eat' is 'eaten'.",
+   "The perfect participle indicates an action completed before another.",
+   "Use the right participle."
+  ],
+  "translations": {
+   "arabic_ar": "اسم الفاعل أو المفعول نعت فعلي"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "past participle",
+   "present participle",
+   "dangling participle"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Participate' 'يشارك'.. لأن الـ 'Participle' بيشارك صفات الفعل والاسم."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "immense",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "immense",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Extremely large in size or scale.",
+  "explanation_ar": "ضخم جداً أو هائل، سواء في الحجم أو الكمية.",
+  "senses": [
+   {
+    "definition_en": "Extremely large in size or scale.",
+    "explanation_ar": "ضخم جداً أو هائل، سواء في الحجم أو الكمية.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The pressure was immense.",
+   "He felt immense relief when he heard the news.",
+   "The universe is of immense complexity and scale."
+  ],
+  "translations": [
+   "هائل",
+   "ضخم"
+  ],
+  "relations": {
+   "synonyms": [
+    "huge",
+    "enormous",
+    "vast",
+    "massive"
+   ],
+   "antonyms": [
+    "tiny",
+    "minuscule",
+    "insignificant"
+   ],
+   "collocations": [
+    "immense pressure",
+    "immense value",
+    "immense popularity",
+    "immense size"
+   ]
+  },
+  "mnemonic": "كلمة 'Immense' فيها 'Men'.. تخيل 'Men' 'رجال' كتير عددهم 'Immense' 'هائل'.",
+  "phonetic_us": "ɪˈmɛns",
+  "phonetic_uk": "ɪˈmens",
+  "syllables": "im•mense",
+  "semantic_tags": [
+   "#Size",
+   "#Big",
+   "#Huge",
+   "#Scale"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Extremely large in size or scale.",
+  "explanation_ar": "ضخم جداً أو هائل، سواء في الحجم أو الكمية.",
+  "examples": [
+   "The pressure was immense.",
+   "He felt immense relief when he heard the news.",
+   "The universe is of immense complexity and scale."
+  ],
+  "translations": {
+   "arabic_ar": "هائل ضخم"
+  },
+  "synonyms": [
+   "huge",
+   "enormous",
+   "vast",
+   "massive"
+  ],
+  "antonyms": [
+   "tiny",
+   "minuscule",
+   "insignificant"
+  ],
+  "collocations": [
+   "immense pressure",
+   "immense value",
+   "immense popularity",
+   "immense size"
+  ],
+  "mnemonic_ar": "كلمة 'Immense' فيها 'Men'.. تخيل 'Men' 'رجال' كتير عددهم 'Immense' 'هائل'."
+ }
+}

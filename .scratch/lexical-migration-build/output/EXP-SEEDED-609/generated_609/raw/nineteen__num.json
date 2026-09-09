@@ -1,0 +1,70 @@
+{
+ "identity": {
+  "lemma": "nineteen",
+  "pos": "num",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "nineteen",
+  "pos": "num",
+  "cefr": "A1",
+  "definition_en": "The cardinal number 19.",
+  "explanation_ar": "العدد تسعة عشر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The cardinal number 19.",
+    "explanation_ar": "العدد تسعة عشر.",
+    "examples": [
+     "She is nineteen years old.",
+     "There are nineteen students in the classroom.",
+     "He scored nineteen points in the match."
+    ]
+   }
+  ],
+  "examples": [
+   "She is nineteen years old.",
+   "There are nineteen students in the classroom.",
+   "He scored nineteen points in the match."
+  ],
+  "translations": [
+   "تسعة عشر"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "nineteen years old",
+    "nineteen hundred"
+   ]
+  },
+  "mnemonic": "Nine + Teen.",
+  "phonetic_us": "ˌnaɪnˈtiːn",
+  "phonetic_uk": "ˌnaɪnˈtiːn",
+  "syllables": "nine•teen",
+  "semantic_tags": [
+   "numbers",
+   "cardinal numbers"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The cardinal number 19.",
+  "explanation_ar": "العدد تسعة عشر.",
+  "examples": [
+   "She is nineteen years old.",
+   "There are nineteen students in the classroom.",
+   "He scored nineteen points in the match."
+  ],
+  "translations": {
+   "arabic_ar": "تسعة عشر"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "nineteen years old",
+   "nineteen hundred"
+  ],
+  "mnemonic_ar": "Nine + Teen."
+ }
+}

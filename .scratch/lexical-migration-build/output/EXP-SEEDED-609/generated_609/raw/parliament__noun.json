@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "parliament",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "parliament",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A group of people elected to make and change the laws of a country.",
+  "explanation_ar": "المجلس التشريعي المنتخب لوضع وتعديل قوانين الدولة، مثل مجلس النواب أو الشعب.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A group of people elected to make and change the laws of a country.",
+    "explanation_ar": "المجلس التشريعي المنتخب لوضع وتعديل قوانين الدولة، مثل مجلس النواب أو الشعب.",
+    "examples": [
+     "Parliament passed the new bill yesterday.",
+     "The dissolution of parliament triggered an election.",
+     "She wants to work in parliament."
+    ]
+   }
+  ],
+  "examples": [
+   "Parliament passed the new bill yesterday.",
+   "The dissolution of parliament triggered an election.",
+   "She wants to work in parliament."
+  ],
+  "translations": [
+   "برلمان",
+   "مجلس الشعب",
+   "مجلس النواب"
+  ],
+  "relations": {
+   "synonyms": [
+    "legislature",
+    "congress",
+    "assembly"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "member of parliament",
+    "act of parliament",
+    "dissolve parliament",
+    "enter parliament"
+   ]
+  },
+  "mnemonic": "كلمة عالمية 'برلمان'.. المكان اللي بيتكلموا فيه 'Parler بالفرنسي يعني يتكلم'.",
+  "phonetic_us": "ˈpɑːrləmənt",
+  "phonetic_uk": "ˈpɑːləmənt",
+  "syllables": "par•lia•ment",
+  "semantic_tags": [
+   "#Politics",
+   "#Government",
+   "#Law"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A group of people elected to make and change the laws of a country.",
+  "explanation_ar": "المجلس التشريعي المنتخب لوضع وتعديل قوانين الدولة، مثل مجلس النواب أو الشعب.",
+  "examples": [
+   "Parliament passed the new bill yesterday.",
+   "The dissolution of parliament triggered an election.",
+   "She wants to work in parliament."
+  ],
+  "translations": {
+   "arabic_ar": "برلمان مجلس الشعب مجلس النواب"
+  },
+  "synonyms": [
+   "legislature",
+   "congress",
+   "assembly"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "member of parliament",
+   "act of parliament",
+   "dissolve parliament",
+   "enter parliament"
+  ],
+  "mnemonic_ar": "كلمة عالمية 'برلمان'.. المكان اللي بيتكلموا فيه 'Parler بالفرنسي يعني يتكلم'."
+ }
+}

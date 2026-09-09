@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "make",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "make",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To form, construct, or create something.",
+  "explanation_ar": "يصنع أو يعمل حاجة. زي لما تعمل كيكة أو تعمل دوشة.",
+  "senses": [
+   {
+    "definition_en": "To form, construct, or create something.",
+    "definition_ar": "يَصْنَع أو يُنْتِج شيئاً.",
+    "examples": [
+     "They make cars in this factory."
+    ]
+   },
+   {
+    "definition_en": "To perform, carry out, or cause an action, decision, or result.",
+    "definition_ar": "يقوم بفعل شيء معين أو يتخذ قراراً.",
+    "examples": [
+     "You need to make a decision."
+    ]
+   }
+  ],
+  "examples": [
+   "They make cars in this factory.",
+   "You need to make a decision.",
+   "Can you help me make dinner?"
+  ],
+  "translations": [
+   "يَصْنَع",
+   "يَعْمَل"
+  ],
+  "relations": {
+   "synonyms": [
+    "create",
+    "produce",
+    "build"
+   ],
+   "antonyms": [
+    "destroy",
+    "break"
+   ],
+   "collocations": [
+    "make sure",
+    "make friends",
+    "make money",
+    "make sense"
+   ]
+  },
+  "mnemonic": "كلمة 'Make' شبه 'Cake'.. يلا نعمل 'Make' a 'Cake'.",
+  "phonetic_us": "meɪk",
+  "phonetic_uk": "meɪk",
+  "syllables": "make",
+  "semantic_tags": [
+   "#Create",
+   "#Build",
+   "#Produce"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To form, construct, or create something.",
+  "explanation_ar": "يصنع أو يعمل حاجة. زي لما تعمل كيكة أو تعمل دوشة.",
+  "examples": [
+   "They make cars in this factory.",
+   "You need to make a decision.",
+   "Can you help me make dinner?"
+  ],
+  "translations": {
+   "arabic_ar": "يَصْنَع يَعْمَل"
+  },
+  "synonyms": [
+   "create",
+   "produce",
+   "build"
+  ],
+  "antonyms": [
+   "destroy",
+   "break"
+  ],
+  "collocations": [
+   "make sure",
+   "make friends",
+   "make money",
+   "make sense"
+  ],
+  "mnemonic_ar": "كلمة 'Make' شبه 'Cake'.. يلا نعمل 'Make' a 'Cake'."
+ }
+}
