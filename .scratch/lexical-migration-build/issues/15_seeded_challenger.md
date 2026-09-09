@@ -606,4 +606,17 @@ deal/verb·double/pron·spell/verb (G1), staging dry-run+rollback test
   identical logical state (sha256 pre `56a5a095…81f02` == post-rollback).
   Canonical writes remain 0; governance lock unchanged. See ticket 16.
 
+- 2026-09-08: EXECUTED — 1,384 field-level promotions COMMITTED to
+  WordsMaster.db (canonical writes 1). Pre `7a564926…1ffb` → post
+  `9c50a5b9…43caa`; audit 1,384; integrity ok; backup
+  `WordsMaster_backup_20260908T235840Z.db`. Ticket 16 → EXECUTED.
+
+- 2026-09-08: POST-MIGRATION VERIFICATION PASS + BASELINE FROZEN
+  (`Baseline-PostMigration-001`). Confinement proven (0 cells outside manifest);
+  observable change 1,189 cells + 195 documented no-op writes (judge tie-leniency
+  on verbatim-preserved seeds; zero data impact; equality-guard amendment recorded
+  for future waves). Exceptions pack (3 CEFR manual, billion BLOCKED_G2, 8
+  legacy-only) + consumer survey in ticket 16. Lock stays ON; no new wave without
+  a new governance decision.
+
 (append operator notes below this line; newest at the end)

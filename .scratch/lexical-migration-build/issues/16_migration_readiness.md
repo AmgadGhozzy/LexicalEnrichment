@@ -1,6 +1,6 @@
 # 16: Migration Readiness Decision (348 evidence gates G1–G4)
 
-**Status:** CLOSED (READY — ELIGIBLE, NOT WRITTEN; NOT EXECUTED)
+**Status:** CLOSED (READY — EXECUTED 2026-09-08; 1,384 cells committed; rollback point `WordsMaster_backup_20260908T235840Z.db`)
 **Triage:** ready-for-human
 **Decision owner:** human reviewer (user). Execution blocked by
 governance lock (content-QA gate); this ticket asserts READINESS of the
@@ -213,5 +213,113 @@ verification passes. Abort otherwise. Governance lock remains the
 external precondition.
 
 ## Comments
+
+- 2026-09-08 (CLOSING SYNTHESIS — user ratification): final state
+  locked as
+  Decision: CLOSED — READY — ELIGIBLE, NOT WRITTEN ·
+  Execution: NOT EXECUTED · Canonical writes: 0 ·
+  Governance lock: UNCHANGED.
+  Dry-run proven points: isolation (staging sandbox only; production
+  WordsMaster.db untouched), atomicity (1384 field-level updates in one
+  transaction), auditability (1384/1384 with value_before/after +
+  hashes + refs), reversibility (rollback → identical hash
+  `56a5a095…81f02`), integrity (row count + ids fixed,
+  integrity_check=ok), safety guard (--allow-production unused).
+  1384 vs 1387 is INTENTIONAL (billion/num excluded per G2), not data
+  loss.
+  The evidence chain is now complete: legacy → seeded generation →
+  deterministic validation → blind AI adjudication → human
+  reconciliation → promotion policy → migration manifest → staging
+  dry-run → audit → verified rollback. Nothing methodologically
+  warrants reopening (Golden Set, 356 generation, AI rubric, Pilot-60,
+  G1–G4, dry-run) absent new evidence or a governance-policy change.
+  Only production migration has not occurred — by design:
+  "Evidence-complete, migration-ready, production-write locked."
+  NEXT ACTION is now an explicit OPERATIONAL decision for the human
+  owner: (a) raise the governance lock and execute the 1384 field-level
+  promotions per the pre-write checklist, or (b) keep the legacy DB as
+  is. Until decided, the system stays in the safest state: everything
+  proven, nothing canonical touched.
+
+- 2026-09-08 (EXECUTION AUTHORIZED — user Monday-final decision):
+  "ارفع الـgovernance lock ونفّذ الـ1,384 field-level promotions."
+  Explicit protocol ratified: pre-write checklist → backup-first →
+  single transaction → audit (expected=actual=1,384) → post-write
+  verification → abort criteria → final report + ticket EXECUTED only
+  after every verification passes. No re-run of 356, no AI judge, no
+  prompt/rubric change; migration execution, not evaluation phase 2.
+  Governance lock on content-QA LIFTED by this decision for THIS
+  migration wave only; 348/356/rubric/pilot-60 remain frozen.
+  Status below reflects outcome.
+
+## EXECUTION RECORD (2026-09-08, operator) — COMMITTED
+- Tool fix: `pragma table_info` column reads corrected `d[0]`(cid)→`d[1]`(name)
+  in `snapshot_wordsmaster`/`logical_hash` (earlier dry-run hashes used int keys;
+  rollback-equality held both ways, but hash was not canonical). Canonical
+  logical-hash function now keys by real column names.
+- Rewritten-tool dry-run on staging copy: applied=1384, rollback_equal=True.
+  (Hash in this run supersedes the earlier `56a5a095…` non-canonical value.)
+- `python -m evaluation.migrate_field_level --execute --allow-production`:
+  - Pre-write checklist: manifest sha256 file==meta `a053dba7…13fa` (True);
+    rows 7300; promotions 1384 == expected 1384; billion/num excluded (True);
+    only content columns touched (`antonyms,arabicAr,collocations,definitionAr,
+    definitionEn,examples,mnemonicAr,synonyms`); protected cols touched `[]`.
+  - Backup-first: `WordsMaster_backup_20260908T235840Z.db`, and backup logical
+    hash == pre-write logical hash (True).
+  - Single transaction, verify-then-COMMIT: 1,384 cells applied+verified inside
+    txn. Post-commit re-verification (fresh read-only): PASS.
+  - Audit `migration_audit_2026_001`: 1,384 rows (each has value_before,
+    value_after, hashes, provenance refs; 0 nulls).
+  - Canonical hashes (canonical function), full 38-col order by rowid:
+    pre  `7a564926207b6fcf4fef5760b696dfca56dc9c304457a1624b8b82b224ba1ffb`
+    post `9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa`
+    (+audit) `63d9146ff966365f5a62509d72bb7fc41a7f2042bc1b5b1bb7404015cadf8c41`
+  - Production file sha256 `cfabafa8…84f`, mtime was 2026-03-02T17:28:03Z pre-write.
+  - Report: `.scratch/lexical-migration-build/output/migration_readiness/execution/
+    execution_report.json`. Canonical writes: 1 (this wave).
+- Independent post-commit spot verification (read-only): integrity `ok`;
+  7300 rows; audit 1384; spot `abandon/noun` → definition "Complete lack of
+  inhibition or restraint.", CEFR-banded examples JSON, synonyms promoted;
+  protected `id/pos/cefrLevel/rank` intact on promoted rows.
+- Status: EXECUTED. Rollback = restore `WordsMaster_backup_20260908T235840Z.db`
+  + `DROP TABLE migration_audit_2026_001` (manual_rollback path, uncommitted).
+
+## POST-MIGRATION VERIFICATION (2026-09-08, operator) — PASS
+Per user-ordered plan (verify → exceptions → consumers → baseline; no new wave).
+Report: `output/migration_readiness/verification/post_migration_verification.json`.
+- Rows 7300/7300, ID sets equal. Changed cells ⊆ manifest promotions
+  (0 cells outside manifest — confinement PROVEN). Protected/identity cols: 0 changes.
+- Audit cross-check: 1,384/1,384 rows; value_before == backup cell AND
+  value_after == current cell for every row.
+- Hashes recomputed with canonical `evaluation.migrate_field_level.logical_hash`:
+  pre `7a564926…1ffb`, post `9c50a5b9…43caa`, full `63d9146f…f8c41` — all match
+  execution report. Files unchanged since exec (backup + production sha match).
+  NOTE: an independent recompute with default json separators mismatched first;
+  root-caused to hash canonicalization (compact `separators=(",",":")` is canonical),
+  NOT data. Single-source rule: always import `logical_hash` from the module.
+- Observable change: 1,189 cells; 195 promotions are NO-OP writes (candidate bytes
+  == legacy bytes). Mechanism (proven on this/det eval-0245): seeded challenger
+  preserved seed verbatim (correct), judge voted `candidate` on identical strings
+  (tie-leniency); G3 had no equality guard. Zero data impact; audit records
+  before==after faithfully for the 195. Per-column observed vs manifest:
+  examples 162/162, collocations 343/344, synonyms 322/328, antonyms 198/232,
+  arabicAr 118/168, definitionEn 15/50, definitionAr 27/77, mnemonicAr 4/23.
+- Targeted amendment for ANY future wave (no re-litigation): equality guard —
+  promote only if value_after != value_before else KEEP.
+- Exceptions pack: `verification/exceptions_evidence.json` (read-only; decisions are
+  human-owner): CEFR manual (deal/verb A2→B1 cand, double/pron A2→B1, spell/verb
+  A1→C1 — legacy values intact in DB); billion/num BLOCKED_G2 (legacy A2 intact);
+  8 LEGACY_ONLY cards (bare/adj, flame/noun, ice cream/noun, line-up/verb, oral/adj,
+  over/prep, refuse/verb, trace/verb — legacy intact; raw gen files exist but no
+  decision record → no promotion by inference).
+- Consumers: NO explicit indexes on wordsMaster, NO views/exports in repo.
+  Readers: `pipeline/phase0_audit_import.py` (SELECT * from wordsMaster — unaffected
+  by extra audit table; a future re-import would consume post-migration values by
+  design) and `evaluation/build_seeded348_package.py` (future seeded runs seed from
+  post-migration text — by design). `dicPyImp/*` frozen (own hardcoded paths).
+- BASELINE FROZEN: `output/migration_readiness/baseline/Baseline-PostMigration-001.json`
+  (file sha, final logical hash, schema fingerprint, rows 7300, identities 7300,
+  observed-changed 1189, noop 195, audit hash). Canonical writes since baseline: 0.
+  Lock stays ON; any new wave needs a NEW governance decision.
 
 (append operator notes below this line; newest at the end)
