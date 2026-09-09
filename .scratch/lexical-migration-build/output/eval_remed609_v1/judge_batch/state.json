@@ -1,0 +1,14 @@
+{
+ "status": "imported",
+ "job_id": "projects/491799276439/locations/global/batchPredictionJobs/6683942317805535232",
+ "input_gcs": "gs://lexical-enrichment/seeded609/eval-remed609/judge/input/requests.jsonl",
+ "output_gcs": "gs://lexical-enrichment/seeded609/eval-remed609/judge/output",
+ "n_requests": 590,
+ "input_hash": "27e631c422647cb2ed486109a9346d4e8b07a96854a6674e48b2c88b2a0b1a42",
+ "model": "gemini-3.8-flash",
+ "created_at": "2026-09-09T15:07:03.781999+00:00",
+ "imported_at": "2026-09-09T15:13:47.893634+00:00",
+ "n_judged": 589,
+ "n_rejects": 590,
+ "n_malformed": 0
+}
