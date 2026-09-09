@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "possessor",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "possessor",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who owns something or has a particular quality.",
+  "explanation_ar": "الشخص الذي يملك شيئاً (مثل مال أو عقار) أو يتصف بميزة أو موهبة معينة؛ مالك أو صاحب.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A person who owns something or has a particular quality.",
+    "definition_ar": "مالك أو صاحب شيء أو ميزة معينة.",
+    "examples": [
+     "She is the proud possessor of a new home.",
+     "He was the possessor of a rare talent for music.",
+     "By law, the possessor of the land has certain rights."
+    ]
+   }
+  ],
+  "examples": [
+   "She is the proud possessor of a new home.",
+   "He was the possessor of a rare talent for music.",
+   "By law, the possessor of the land has certain rights."
+  ],
+  "translations": [
+   "مالك",
+   "صاحب",
+   "حائز"
+  ],
+  "relations": {
+   "synonyms": [
+    "owner",
+    "holder",
+    "bearer",
+    "proprietor"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "proud possessor",
+    "sole possessor",
+    "lawful possessor",
+    "possessor of knowledge"
+   ],
+   "word_family": {
+    "verb": "possess",
+    "noun": "possession",
+    "adjective": "possessive"
+   }
+  },
+  "mnemonic": "جاية من 'Possess' 'يملك'.. الـ 'Possessor' هو المالك.",
+  "phonetic_us": "pəˈzesər",
+  "phonetic_uk": "pəˈzesə(r)",
+  "syllables": "pos•ses•sor",
+  "semantic_tags": [
+   "#Ownership",
+   "#Law",
+   "#Person"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who owns something or has a particular quality.",
+  "explanation_ar": "الشخص الذي يملك شيئاً (مثل مال أو عقار) أو يتصف بميزة أو موهبة معينة؛ مالك أو صاحب.",
+  "examples": [
+   "She is the proud possessor of a new home.",
+   "He was the possessor of a rare talent for music.",
+   "By law, the possessor of the land has certain rights."
+  ],
+  "translations": {
+   "arabic_ar": "مالك صاحب حائز"
+  },
+  "synonyms": [
+   "owner",
+   "holder",
+   "bearer",
+   "proprietor"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "proud possessor",
+   "sole possessor",
+   "lawful possessor",
+   "possessor of knowledge"
+  ],
+  "mnemonic_ar": "جاية من 'Possess' 'يملك'.. الـ 'Possessor' هو المالك."
+ }
+}

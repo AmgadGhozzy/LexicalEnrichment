@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "trivial",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "trivial",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Of little value or importance.",
+  "explanation_ar": "حاجة تافهة أو بسيطة ومش مستاهلة اهتمام كبير.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Of little value, importance, or seriousness.",
+    "definition_ar": "تافه أو قليل الأهمية",
+    "examples": [
+     "Don't worry about trivial details.",
+     "They argued over a trivial matter.",
+     "The problem seemed trivial at first."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't worry about trivial details.",
+   "They argued over a trivial matter.",
+   "The problem seemed trivial at first."
+  ],
+  "translations": [
+   "تافه",
+   "قليل الأهمية",
+   "بسيط"
+  ],
+  "relations": {
+   "synonyms": [
+    "minor",
+    "insignificant",
+    "unimportant",
+    "petty"
+   ],
+   "antonyms": [
+    "important",
+    "significant",
+    "crucial",
+    "major"
+   ],
+   "collocations": [
+    "trivial matter",
+    "trivial detail",
+    "seem trivial"
+   ]
+  },
+  "mnemonic": "ألعاب الـ 'Trivia' بتسأل أسئلة 'Trivial' 'بسيطة/هامشية' للمتعة بس.",
+  "phonetic_us": "ˈtrɪviəl",
+  "phonetic_uk": "ˈtrɪvɪəl",
+  "syllables": "triv•ial",
+  "semantic_tags": [
+   "#Importance",
+   "#Detail",
+   "#Negative"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Of little value or importance.",
+  "explanation_ar": "حاجة تافهة أو بسيطة ومش مستاهلة اهتمام كبير.",
+  "examples": [
+   "Don't worry about trivial details.",
+   "They argued over a trivial matter.",
+   "The problem seemed trivial at first."
+  ],
+  "translations": {
+   "arabic_ar": "تافه قليل الأهمية بسيط"
+  },
+  "synonyms": [
+   "minor",
+   "insignificant",
+   "unimportant",
+   "petty"
+  ],
+  "antonyms": [
+   "important",
+   "significant",
+   "crucial",
+   "major"
+  ],
+  "collocations": [
+   "trivial matter",
+   "trivial detail",
+   "seem trivial"
+  ],
+  "mnemonic_ar": "ألعاب الـ 'Trivia' بتسأل أسئلة 'Trivial' 'بسيطة/هامشية' للمتعة بس."
+ }
+}

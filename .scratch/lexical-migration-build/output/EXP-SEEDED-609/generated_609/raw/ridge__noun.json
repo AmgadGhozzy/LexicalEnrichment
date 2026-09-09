@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "ridge",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "ridge",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A long, narrow raised part of a surface, especially a high edge of a hill or mountain.",
+  "explanation_ar": "حافة طويلة وضيقة ومرتفعة، غالباً ما تكون قمة سلسلة تلال أو جبال.",
+  "senses": [
+   {
+    "definition_en": "A long, narrow raised part of a surface, especially a high edge of a hill or mountain.",
+    "explanation_ar": "حافة طويلة وضيقة ومرتفعة، غالباً ما تكون قمة سلسلة تلال أو جبال.",
+    "examples": [
+     "The climbers traversed the narrow ridge carefully.",
+     "You can see the ocean from the ridge.",
+     "The geological formation features a prominent limestone ridge running north to south."
+    ]
+   }
+  ],
+  "examples": [
+   "The climbers traversed the narrow ridge carefully.",
+   "You can see the ocean from the ridge.",
+   "The geological formation features a prominent limestone ridge running north to south."
+  ],
+  "translations": [
+   "حافة جبلية",
+   "قمة جبل",
+   "نتوء"
+  ],
+  "relations": {
+   "synonyms": [
+    "crest",
+    "spine",
+    "edge"
+   ],
+   "antonyms": [
+    "valley",
+    "trough",
+    "gorge"
+   ],
+   "collocations": [
+    "mountain ridge",
+    "high ridge",
+    "narrow ridge",
+    "along the ridge"
+   ]
+  },
+  "mnemonic": "كلمة 'Ridge' شبه 'Bridge' (كوبري).. تخيل الـ 'Ridge' كأنه كوبري طبيعي عالي بين الجبال.",
+  "phonetic_us": "/rɪdʒ/",
+  "phonetic_uk": "/rɪdʒ/",
+  "syllables": [
+   "ridge"
+  ],
+  "semantic_tags": [
+   "landscape",
+   "mountain",
+   "nature",
+   "shape"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A long, narrow raised part of a surface, especially a high edge of a hill or mountain.",
+  "explanation_ar": "حافة طويلة وضيقة ومرتفعة، غالباً ما تكون قمة سلسلة تلال أو جبال.",
+  "examples": [
+   "The climbers traversed the narrow ridge carefully.",
+   "You can see the ocean from the ridge.",
+   "The geological formation features a prominent limestone ridge running north to south."
+  ],
+  "translations": {
+   "arabic_ar": "حافة جبلية قمة جبل نتوء"
+  },
+  "synonyms": [
+   "crest",
+   "spine",
+   "edge"
+  ],
+  "antonyms": [
+   "valley",
+   "trough",
+   "gorge"
+  ],
+  "collocations": [
+   "mountain ridge",
+   "high ridge",
+   "narrow ridge",
+   "along the ridge"
+  ],
+  "mnemonic_ar": "كلمة 'Ridge' شبه 'Bridge' (كوبري).. تخيل الـ 'Ridge' كأنه كوبري طبيعي عالي بين الجبال."
+ }
+}

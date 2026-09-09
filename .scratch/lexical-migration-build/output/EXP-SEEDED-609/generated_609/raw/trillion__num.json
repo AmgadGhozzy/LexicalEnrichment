@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "trillion",
+  "pos": "num",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "trillion",
+  "pos": "num",
+  "cefr": "B2",
+  "definition_en": "The number equal to one million million (1,000,000,000,000).",
+  "explanation_ar": "العدد تريليون، وهو يساوي مليون مليون (1,000,000,000,000).",
+  "senses": [
+   {
+    "sense_id": "trillion-num-01",
+    "definition_en": "The number equal to one million million (1,000,000,000,000).",
+    "explanation_ar": "العدد تريليون، وهو يساوي مليون مليون (1,000,000,000,000).",
+    "examples": [
+     "Imagine owning a trillion dollars.",
+     "The distance is several trillion miles.",
+     "The national debt reached one trillion dollars."
+    ]
+   }
+  ],
+  "examples": [
+   "Imagine owning a trillion dollars.",
+   "The distance is several trillion miles.",
+   "The national debt reached one trillion dollars."
+  ],
+  "translations": [
+   "تريليون"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "one trillion",
+    "trillion dollars",
+    "several trillion"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈtɹɪljən",
+  "phonetic_uk": "ˈtrɪljən",
+  "syllables": "tril•lion",
+  "semantic_tags": [
+   "#Number",
+   "#Math",
+   "#Count"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The number equal to one million million (1,000,000,000,000).",
+  "explanation_ar": "العدد تريليون، وهو يساوي مليون مليون (1,000,000,000,000).",
+  "examples": [
+   "Imagine owning a trillion dollars.",
+   "The distance is several trillion miles.",
+   "The national debt reached one trillion dollars."
+  ],
+  "translations": {
+   "arabic_ar": "تريليون"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "one trillion",
+   "trillion dollars",
+   "several trillion"
+  ],
+  "mnemonic_ar": null
+ }
+}

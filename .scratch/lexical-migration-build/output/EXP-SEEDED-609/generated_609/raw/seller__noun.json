@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "seller",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "seller",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who sells something.",
+  "explanation_ar": "الشخص اللي بيبيع حاجة 'البائع'.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "A person who sells something.",
+    "definition_ar": "شخص يبيع شيئاً ما؛ بائع."
+   }
+  ],
+  "examples": [
+   "He is a fruit seller.",
+   "The seller wants a high price.",
+   "The buyer and the seller agreed on a fair price."
+  ],
+  "translations": [
+   "بائع"
+  ],
+  "relations": {
+   "synonyms": [
+    "vendor",
+    "merchant",
+    "dealer",
+    "retailer"
+   ],
+   "antonyms": [
+    "buyer",
+    "purchaser",
+    "customer"
+   ],
+   "collocations": [
+    "fruit seller",
+    "street seller",
+    "best seller",
+    "seller's market"
+   ]
+  },
+  "mnemonic": "من الفعل 'Sell' 'يبيع'.. يبقى 'Seller' البائع.",
+  "phonetic_us": "ˈsɛlər",
+  "phonetic_uk": "ˈsɛlə",
+  "syllables": "sell•er",
+  "semantic_tags": [
+   "#Business",
+   "#Shopping",
+   "#Trade"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who sells something.",
+  "explanation_ar": "الشخص اللي بيبيع حاجة 'البائع'.",
+  "examples": [
+   "He is a fruit seller.",
+   "The seller wants a high price.",
+   "The buyer and the seller agreed on a fair price."
+  ],
+  "translations": {
+   "arabic_ar": "بائع"
+  },
+  "synonyms": [
+   "vendor",
+   "merchant",
+   "dealer",
+   "retailer"
+  ],
+  "antonyms": [
+   "buyer",
+   "purchaser",
+   "customer"
+  ],
+  "collocations": [
+   "fruit seller",
+   "street seller",
+   "best seller",
+   "seller's market"
+  ],
+  "mnemonic_ar": "من الفعل 'Sell' 'يبيع'.. يبقى 'Seller' البائع."
+ }
+}

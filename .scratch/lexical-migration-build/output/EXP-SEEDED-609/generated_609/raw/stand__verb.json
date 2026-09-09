@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "stand",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "stand",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To have or maintain an upright position, supported by one's feet.",
+  "explanation_ar": "تكون واقف على رجلك مش قاعد.",
+  "senses": [
+   {
+    "definition_en": "To have or maintain an upright position, supported by one's feet.",
+    "definition_ar": "أن تكون واقفاً على قدميك في وضع مستقيم.",
+    "examples": [
+     "Please stand up.",
+     "Don't stand in the rain.",
+     "Can you stand here and wait for me?"
+    ]
+   }
+  ],
+  "examples": [
+   "Please stand up.",
+   "Don't stand in the rain.",
+   "Can you stand here and wait for me?"
+  ],
+  "translations": [
+   "يقف"
+  ],
+  "relations": {
+   "synonyms": [
+    "rise"
+   ],
+   "antonyms": [
+    "sit",
+    "lie"
+   ],
+   "collocations": [
+    "stand up",
+    "stand still",
+    "stand in line"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/stænd/",
+  "phonetic_uk": "/stænd/",
+  "syllables": [
+   "stand"
+  ],
+  "semantic_tags": [
+   "#Body",
+   "#Posture"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To have or maintain an upright position, supported by one's feet.",
+  "explanation_ar": "تكون واقف على رجلك مش قاعد.",
+  "examples": [
+   "Please stand up.",
+   "Don't stand in the rain.",
+   "Can you stand here and wait for me?"
+  ],
+  "translations": {
+   "arabic_ar": "يقف"
+  },
+  "synonyms": [
+   "rise"
+  ],
+  "antonyms": [
+   "sit",
+   "lie"
+  ],
+  "collocations": [
+   "stand up",
+   "stand still",
+   "stand in line"
+  ],
+  "mnemonic_ar": null
+ }
+}

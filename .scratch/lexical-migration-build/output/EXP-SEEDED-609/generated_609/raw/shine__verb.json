@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "shine",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "shine",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To give out or reflect a bright light; to be very good at something.",
+  "explanation_ar": "يا إما حاجة بتنور وتلمع، يا إما حد بيتألق وبيبقى شاطر جداً في حاجة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "verb",
+    "definition_en": "To produce or reflect bright light.",
+    "definition_ar": "يسطع أو يُخرج ضوءاً لامعاً."
+   },
+   {
+    "sense_id": 2,
+    "pos": "verb",
+    "definition_en": "To perform exceptionally well; to excel.",
+    "definition_ar": "يتألق أو يُظهر مهارة وتفوقاً كبيراً."
+   }
+  ],
+  "examples": [
+   "The stars shine brightly in the clear night sky.",
+   "This competition is a great chance for you to shine.",
+   "Please shine a light on the path so we do not trip."
+  ],
+  "translations": [
+   "يسطع",
+   "يلمع",
+   "يتألق"
+  ],
+  "relations": {
+   "synonyms": [
+    "glow",
+    "beam",
+    "radiate",
+    "excel",
+    "sparkle"
+   ],
+   "antonyms": [
+    "dim",
+    "fade"
+   ],
+   "collocations": [
+    "sun shines",
+    "shine bright",
+    "rise and shine",
+    "shine a light"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ʃaɪn",
+  "phonetic_uk": "ʃaɪn",
+  "syllables": "shine",
+  "semantic_tags": [
+   "#Light",
+   "#Talent",
+   "#Sun",
+   "#Success"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To give out or reflect a bright light; to be very good at something.",
+  "explanation_ar": "يا إما حاجة بتنور وتلمع، يا إما حد بيتألق وبيبقى شاطر جداً في حاجة.",
+  "examples": [
+   "The stars shine brightly in the clear night sky.",
+   "This competition is a great chance for you to shine.",
+   "Please shine a light on the path so we do not trip."
+  ],
+  "translations": {
+   "arabic_ar": "يسطع يلمع يتألق"
+  },
+  "synonyms": [
+   "glow",
+   "beam",
+   "radiate",
+   "excel",
+   "sparkle"
+  ],
+  "antonyms": [
+   "dim",
+   "fade"
+  ],
+  "collocations": [
+   "sun shines",
+   "shine bright",
+   "rise and shine",
+   "shine a light"
+  ],
+  "mnemonic_ar": null
+ }
+}

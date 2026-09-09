@@ -1,0 +1,107 @@
+{
+ "identity": {
+  "lemma": "withdraw",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "withdraw",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To remove or take away; to leave a place or situation.",
+  "explanation_ar": "تنسحب من مكان أو تسحب فلوسك من البنك، أو تتراجع عن كلامك.",
+  "senses": [
+   {
+    "definition_en": "To take money out of a bank account.",
+    "explanation_ar": "يسحب مالاً من البنك",
+    "examples": [
+     "You can withdraw cash from the ATM."
+    ]
+   },
+   {
+    "definition_en": "To move back or pull away from a place or conflict.",
+    "explanation_ar": "ينسحب أو يتراجع عن موقع أو موقف",
+    "examples": [
+     "The army began to withdraw from the region."
+    ]
+   },
+   {
+    "definition_en": "To officially remove an offer, application, or statement.",
+    "explanation_ar": "يسحب طلباً أو يتراجع عن تصريح",
+    "examples": [
+     "She decided to withdraw her application for the job."
+    ]
+   }
+  ],
+  "examples": [
+   "You can withdraw cash from the ATM.",
+   "The army began to withdraw from the region.",
+   "She decided to withdraw her application for the job."
+  ],
+  "translations": [
+   "يسحب",
+   "ينسحب",
+   "يتراجع"
+  ],
+  "relations": {
+   "synonyms": [
+    "pull out",
+    "retreat",
+    "retract",
+    "remove"
+   ],
+   "antonyms": [
+    "deposit",
+    "advance",
+    "insert"
+   ],
+   "collocations": [
+    "withdraw money",
+    "withdraw troops",
+    "withdraw support",
+    "withdraw a statement"
+   ]
+  },
+  "mnemonic": "'With' 'مع' + 'Draw' 'يسحب'.. لما تعمل 'Withdraw' يعني بتسحب نفسك أو بتسحب فلوسك وتمشي.",
+  "phonetic_us": "wɪðˈdɹɔː",
+  "phonetic_uk": "wɪðˈdrɔː",
+  "syllables": "with•draw",
+  "semantic_tags": [
+   "money",
+   "banking",
+   "movement",
+   "retreat"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To remove or take away; to leave a place or situation.",
+  "explanation_ar": "تنسحب من مكان أو تسحب فلوسك من البنك، أو تتراجع عن كلامك.",
+  "examples": [
+   "You can withdraw cash from the ATM.",
+   "The army began to withdraw from the region.",
+   "She decided to withdraw her application for the job."
+  ],
+  "translations": {
+   "arabic_ar": "يسحب ينسحب يتراجع"
+  },
+  "synonyms": [
+   "pull out",
+   "retreat",
+   "retract",
+   "remove"
+  ],
+  "antonyms": [
+   "deposit",
+   "advance",
+   "insert"
+  ],
+  "collocations": [
+   "withdraw money",
+   "withdraw troops",
+   "withdraw support",
+   "withdraw a statement"
+  ],
+  "mnemonic_ar": "'With' 'مع' + 'Draw' 'يسحب'.. لما تعمل 'Withdraw' يعني بتسحب نفسك أو بتسحب فلوسك وتمشي."
+ }
+}

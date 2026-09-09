@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "sacrifice",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "sacrifice",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To give up something important or valuable for the sake of other considerations.",
+  "explanation_ar": "إنك تقدم حاجة أو تتنازل عنها عشان حد تاني أو عشان هدف أكبر.",
+  "senses": [
+   {
+    "sense_id": "sacrifice-v-1",
+    "definition_en": "To give up something valuable or important in order to help someone or achieve something else.",
+    "definition_ar": "أن تتنازل عن شيء ذي قيمة أو تضحي به من أجل مساعدة شخص آخر أو تحقيق هدف أكبر.",
+    "examples": [
+     "I am not willing to sacrifice my principles.",
+     "Parents often sacrifice their personal comfort for their children.",
+     "The company refused to sacrifice quality for speed."
+    ]
+   }
+  ],
+  "examples": [
+   "I am not willing to sacrifice my principles.",
+   "Parents often sacrifice their personal comfort for their children.",
+   "The company refused to sacrifice quality for speed."
+  ],
+  "translations": [
+   "يُضَحِّي بـ",
+   "يتنازل عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "give up",
+    "forgo",
+    "surrender"
+   ],
+   "antonyms": [
+    "keep",
+    "retain",
+    "hold"
+   ],
+   "collocations": [
+    "sacrifice everything",
+    "sacrifice quality",
+    "sacrifice life",
+    "willing to sacrifice"
+   ]
+  },
+  "mnemonic": "كلمة 'Sacrifice' قريبة من 'Sacred' 'مقدس'.. عشان زمان كانوا بيضحوا بحاجات مقدسة للآلهة.",
+  "phonetic_us": "ˈsækrəfaɪs",
+  "phonetic_uk": "ˈsækrɪfaɪs",
+  "syllables": "sac•ri•fice",
+  "semantic_tags": [
+   "#Giving",
+   "#Love",
+   "#Loss",
+   "#Choice"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To give up something important or valuable for the sake of other considerations.",
+  "explanation_ar": "إنك تقدم حاجة أو تتنازل عنها عشان حد تاني أو عشان هدف أكبر.",
+  "examples": [
+   "I am not willing to sacrifice my principles.",
+   "Parents often sacrifice their personal comfort for their children.",
+   "The company refused to sacrifice quality for speed."
+  ],
+  "translations": {
+   "arabic_ar": "يُضَحِّي بـ يتنازل عن"
+  },
+  "synonyms": [
+   "give up",
+   "forgo",
+   "surrender"
+  ],
+  "antonyms": [
+   "keep",
+   "retain",
+   "hold"
+  ],
+  "collocations": [
+   "sacrifice everything",
+   "sacrifice quality",
+   "sacrifice life",
+   "willing to sacrifice"
+  ],
+  "mnemonic_ar": "كلمة 'Sacrifice' قريبة من 'Sacred' 'مقدس'.. عشان زمان كانوا بيضحوا بحاجات مقدسة للآلهة."
+ }
+}

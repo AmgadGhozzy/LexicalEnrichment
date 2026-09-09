@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "resolve",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "resolve",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To find a solution to a problem or to decide firmly.",
+  "explanation_ar": "إنك تلاقي حل لمشكلة، أو تاخد قرار حاسم بخصوص حاجة.",
+  "senses": [
+   {
+    "definition_en": "To find an acceptable solution to a problem, dispute, or difficulty.",
+    "explanation_ar": "إيجاد حل لمشكلة أو خلاف أو صعوبة."
+   },
+   {
+    "definition_en": "To make a firm decision to do something.",
+    "explanation_ar": "اتخاذ قرار قاطع أو عقد العزم على فعل شيء."
+   }
+  ],
+  "examples": [
+   "They managed to resolve their differences.",
+   "The committee met to resolve the crisis.",
+   "We must resolve this matter immediately."
+  ],
+  "translations": [
+   "يحل",
+   "يحسم",
+   "يعقد العزم"
+  ],
+  "relations": {
+   "synonyms": [
+    "settle",
+    "solve",
+    "conclude",
+    "determine"
+   ],
+   "antonyms": [
+    "complicate",
+    "aggravate"
+   ],
+   "collocations": [
+    "resolve a conflict",
+    "resolve an issue",
+    "resolve a problem",
+    "resolve to do"
+   ]
+  },
+  "mnemonic": "كلمة 'Re-solve' كأنك بتحل المشكلة تاني 'Solve' لحد ما تخلص منها تماماً.",
+  "phonetic_us": "ɹɪˈzɑlv",
+  "phonetic_uk": "ɹɪˈzɒlv",
+  "syllables": "re•solve",
+  "semantic_tags": [
+   "#ProblemSolving",
+   "#Decisions",
+   "#Solutions"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To find a solution to a problem or to decide firmly.",
+  "explanation_ar": "إنك تلاقي حل لمشكلة، أو تاخد قرار حاسم بخصوص حاجة.",
+  "examples": [
+   "They managed to resolve their differences.",
+   "The committee met to resolve the crisis.",
+   "We must resolve this matter immediately."
+  ],
+  "translations": {
+   "arabic_ar": "يحل يحسم يعقد العزم"
+  },
+  "synonyms": [
+   "settle",
+   "solve",
+   "conclude",
+   "determine"
+  ],
+  "antonyms": [
+   "complicate",
+   "aggravate"
+  ],
+  "collocations": [
+   "resolve a conflict",
+   "resolve an issue",
+   "resolve a problem",
+   "resolve to do"
+  ],
+  "mnemonic_ar": "كلمة 'Re-solve' كأنك بتحل المشكلة تاني 'Solve' لحد ما تخلص منها تماماً."
+ }
+}

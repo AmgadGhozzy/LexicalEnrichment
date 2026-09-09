@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "sleep",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sleep",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To rest with your eyes closed and your mind and body inactive.",
+  "explanation_ar": "ينام، يعني يرتاح ويغمض عينه ويفصل عن العالم.",
+  "senses": [
+   {
+    "definition_en": "To rest with your eyes closed and your mind and body inactive.",
+    "explanation_ar": "ينام، يعني يرتاح ويغمض عينه ويفصل عن العالم."
+   }
+  ],
+  "examples": [
+   "I sleep at night.",
+   "I couldn't sleep because of the noise.",
+   "You should sleep for eight hours every night."
+  ],
+  "translations": [
+   "ينام"
+  ],
+  "relations": {
+   "synonyms": [
+    "doze",
+    "nap",
+    "rest"
+   ],
+   "antonyms": [
+    "wake up",
+    "stay awake"
+   ],
+   "collocations": [
+    "sleep well",
+    "sleep late",
+    "sleep on it"
+   ]
+  },
+  "mnemonic": "لما تكون تعبان لازم تـ 'Sleep' عشان ترتاح.",
+  "phonetic_us": "sliːp",
+  "phonetic_uk": "sliːp",
+  "syllables": [
+   "sleep"
+  ],
+  "semantic_tags": [
+   "#Rest",
+   "#DailyRoutine",
+   "#Health"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To rest with your eyes closed and your mind and body inactive.",
+  "explanation_ar": "ينام، يعني يرتاح ويغمض عينه ويفصل عن العالم.",
+  "examples": [
+   "I sleep at night.",
+   "I couldn't sleep because of the noise.",
+   "You should sleep for eight hours every night."
+  ],
+  "translations": {
+   "arabic_ar": "ينام"
+  },
+  "synonyms": [
+   "doze",
+   "nap",
+   "rest"
+  ],
+  "antonyms": [
+   "wake up",
+   "stay awake"
+  ],
+  "collocations": [
+   "sleep well",
+   "sleep late",
+   "sleep on it"
+  ],
+  "mnemonic_ar": "لما تكون تعبان لازم تـ 'Sleep' عشان ترتاح."
+ }
+}

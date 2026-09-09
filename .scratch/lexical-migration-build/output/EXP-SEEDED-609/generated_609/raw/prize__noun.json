@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "prize",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "prize",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A thing given as a reward to the winner of a competition.",
+  "explanation_ar": "المكافأة أو الهدية اللي بتاخدها لما تكسب في مسابقة أو تعمل إنجاز.",
+  "senses": [
+   {
+    "definition_en": "A thing given as a reward to the winner of a competition.",
+    "explanation_ar": "جائزة أو مكافأة تُمنح للفائز في مسابقة أو منافسة.",
+    "examples": [
+     "She won the first prize.",
+     "The prize was a new car.",
+     "He received a cash prize for his essay."
+    ]
+   }
+  ],
+  "examples": [
+   "She won the first prize.",
+   "The prize was a new car.",
+   "He received a cash prize for his essay."
+  ],
+  "translations": [
+   "جائِزَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "award",
+    "reward",
+    "trophy"
+   ],
+   "antonyms": [
+    "penalty",
+    "fine"
+   ],
+   "collocations": [
+    "first prize",
+    "win a prize",
+    "Nobel Prize",
+    "cash prize"
+   ]
+  },
+  "mnemonic": "كلمة 'Prize' 'جائزة' شبه 'Price' 'سعر'.. بس الـ 'Prize' قيمتها المعنوية أغلى من أي 'Price'.",
+  "phonetic_us": "/praɪz/",
+  "phonetic_uk": "/praɪz/",
+  "syllables": [
+   "prize"
+  ],
+  "semantic_tags": [
+   "Award",
+   "Competition",
+   "Winning",
+   "Reward"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A thing given as a reward to the winner of a competition.",
+  "explanation_ar": "المكافأة أو الهدية اللي بتاخدها لما تكسب في مسابقة أو تعمل إنجاز.",
+  "examples": [
+   "She won the first prize.",
+   "The prize was a new car.",
+   "He received a cash prize for his essay."
+  ],
+  "translations": {
+   "arabic_ar": "جائِزَة"
+  },
+  "synonyms": [
+   "award",
+   "reward",
+   "trophy"
+  ],
+  "antonyms": [
+   "penalty",
+   "fine"
+  ],
+  "collocations": [
+   "first prize",
+   "win a prize",
+   "Nobel Prize",
+   "cash prize"
+  ],
+  "mnemonic_ar": "كلمة 'Prize' 'جائزة' شبه 'Price' 'سعر'.. بس الـ 'Prize' قيمتها المعنوية أغلى من أي 'Price'."
+ }
+}

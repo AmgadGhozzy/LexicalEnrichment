@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "rabbit",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "rabbit",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A small animal with long ears and soft fur that lives in a hole in the ground.",
+  "explanation_ar": "الأرنب، الحيوان المعروف بودانه الطويلة والفرو الناعم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A small animal with long ears and soft fur that lives in a hole in the ground.",
+    "definition_ar": "حيوان صغير ذو أذنين طويلتين وفرو ناعم يعيش في جحر تحت الأرض.",
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "examples": [
+   "I have a pet rabbit.",
+   "The magician pulled a rabbit out of the hat.",
+   "The dog chased the rabbit into its burrow."
+  ],
+  "translations": [
+   "أَرْنَب"
+  ],
+  "relations": {
+   "synonyms": [
+    "bunny"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "pet rabbit",
+    "white rabbit",
+    "rabbit hole"
+   ]
+  },
+  "mnemonic": "كلمة 'Rabbit' قريبة من 'Robot'.. تخيل 'Robot' على شكل أرنب.",
+  "phonetic_us": "ˈræb.ɪt",
+  "phonetic_uk": "ˈræb.ɪt",
+  "syllables": "rab•bit",
+  "semantic_tags": [
+   "#Animal",
+   "#Pet",
+   "#Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small animal with long ears and soft fur that lives in a hole in the ground.",
+  "explanation_ar": "الأرنب، الحيوان المعروف بودانه الطويلة والفرو الناعم.",
+  "examples": [
+   "I have a pet rabbit.",
+   "The magician pulled a rabbit out of the hat.",
+   "The dog chased the rabbit into its burrow."
+  ],
+  "translations": {
+   "arabic_ar": "أَرْنَب"
+  },
+  "synonyms": [
+   "bunny"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "pet rabbit",
+   "white rabbit",
+   "rabbit hole"
+  ],
+  "mnemonic_ar": "كلمة 'Rabbit' قريبة من 'Robot'.. تخيل 'Robot' على شكل أرنب."
+ }
+}

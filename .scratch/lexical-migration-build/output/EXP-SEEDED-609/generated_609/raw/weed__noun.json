@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "weed",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "weed",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A wild plant growing where it is not wanted; also slang for cannabis.",
+  "explanation_ar": "ليها معنيين: الأعشاب الضارة اللي بتطلع وسط الزرع، أو في العامية بتتقال على مخدر الحشيش.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A wild plant growing where it is not wanted, especially in a garden or farm field.",
+    "definition_ar": "عشب ضار أو نبات بري ينمو في غير موضعه المرغوب فيه.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Cannabis or marijuana (informal slang).",
+    "definition_ar": "مخدر الحشيش أو القنب (لفظ عامي).",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "He pulled a weed from the ground.",
+   "The invasive weed choked out the native plant species.",
+   "The room smelled strongly of weed after the party."
+  ],
+  "translations": [
+   "عشب ضار",
+   "حشيش"
+  ],
+  "relations": {
+   "synonyms": [
+    "cannabis",
+    "marijuana",
+    "pot"
+   ],
+   "antonyms": [
+    "crop",
+    "flower"
+   ],
+   "collocations": [
+    "pull weeds",
+    "smoke weed"
+   ],
+   "word_family": {
+    "noun": "weed",
+    "verb": "weed",
+    "adj": "weedy"
+   }
+  },
+  "mnemonic": "كلمة 'Weed' 'عشب ضار'.. عاملة زي 'Weird' 'غريب'.. زرع غريب طالع في مكان مش مكانه.",
+  "phonetic_us": "wiːd",
+  "phonetic_uk": "wiːd",
+  "syllables": [
+   "weed"
+  ],
+  "semantic_tags": [
+   "Plants",
+   "Gardening",
+   "Drugs",
+   "Slang"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A wild plant growing where it is not wanted; also slang for cannabis.",
+  "explanation_ar": "ليها معنيين: الأعشاب الضارة اللي بتطلع وسط الزرع، أو في العامية بتتقال على مخدر الحشيش.",
+  "examples": [
+   "He pulled a weed from the ground.",
+   "The invasive weed choked out the native plant species.",
+   "The room smelled strongly of weed after the party."
+  ],
+  "translations": {
+   "arabic_ar": "عشب ضار حشيش"
+  },
+  "synonyms": [
+   "cannabis",
+   "marijuana",
+   "pot"
+  ],
+  "antonyms": [
+   "crop",
+   "flower"
+  ],
+  "collocations": [
+   "pull weeds",
+   "smoke weed"
+  ],
+  "mnemonic_ar": "كلمة 'Weed' 'عشب ضار'.. عاملة زي 'Weird' 'غريب'.. زرع غريب طالع في مكان مش مكانه."
+ }
+}

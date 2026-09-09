@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "whichever",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "whichever",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Used to say that it does not matter which of a set is chosen.",
+  "explanation_ar": "أي واحد تختاره من المجموعة، مش فارقة انهي واحد.",
+  "senses": [
+   {
+    "definition_en": "Used to say that it does not matter which person or thing from a set is chosen.",
+    "definition_ar": "أيّ من مجموعة معينة، بغض النظر عن الاختيار.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "Take whichever book you want to read.",
+   "Whichever way you go, it will take an hour.",
+   "The prize will be awarded to whichever contestant scores highest."
+  ],
+  "translations": [
+   "أيهما",
+   "أيما",
+   "أي"
+  ],
+  "relations": {
+   "synonyms": [
+    "whatever",
+    "any"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "whichever way",
+    "whichever one",
+    "choose whichever"
+   ]
+  },
+  "mnemonic": "'Which' 'أي' + 'Ever' 'مهما'.. يعني 'أي واحد مهما كان'.",
+  "phonetic_us": "wɪtʃˈɛvɚ",
+  "phonetic_uk": "wɪtʃˈevə",
+  "syllables": "which•ever",
+  "semantic_tags": [
+   "#Choice",
+   "#Options",
+   "#Grammar",
+   "#Decision"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used to say that it does not matter which of a set is chosen.",
+  "explanation_ar": "أي واحد تختاره من المجموعة، مش فارقة انهي واحد.",
+  "examples": [
+   "Take whichever book you want to read.",
+   "Whichever way you go, it will take an hour.",
+   "The prize will be awarded to whichever contestant scores highest."
+  ],
+  "translations": {
+   "arabic_ar": "أيهما أيما أي"
+  },
+  "synonyms": [
+   "whatever",
+   "any"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "whichever way",
+   "whichever one",
+   "choose whichever"
+  ],
+  "mnemonic_ar": "'Which' 'أي' + 'Ever' 'مهما'.. يعني 'أي واحد مهما كان'."
+ }
+}

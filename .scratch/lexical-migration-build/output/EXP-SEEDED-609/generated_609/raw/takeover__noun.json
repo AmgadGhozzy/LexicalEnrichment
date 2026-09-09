@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "takeover",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "takeover",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An act of assuming control of something, especially the buying of one company by another.",
+  "explanation_ar": "لما شركة تشتري شركة تانية وتسيطر عليها، أو لما جهة أو جيش يسيطر على الحكم بالقوة.",
+  "senses": [
+   {
+    "definition_en": "The act of gaining control of a company by buying most of its shares.",
+    "definition_ar": "استحواذ شركة على شركة أخرى بشراء غالبية أسهمها.",
+    "pos": "noun"
+   },
+   {
+    "definition_en": "A seizure of power or control over an organization or country.",
+    "definition_ar": "استيلاء على مقاليد السلطة أو إدارة هيئة ما.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The bank financed the takeover of the factory.",
+   "They launched a hostile takeover bid for their rival.",
+   "The military takeover resulted in a suspension of civil rights."
+  ],
+  "translations": [
+   "استحواذ",
+   "استيلاء"
+  ],
+  "relations": {
+   "synonyms": [
+    "acquisition",
+    "buyout",
+    "seizure"
+   ],
+   "antonyms": [
+    "surrender",
+    "handover"
+   ],
+   "collocations": [
+    "hostile takeover",
+    "takeover bid",
+    "military takeover"
+   ],
+   "word_family": {
+    "noun": "takeover",
+    "verb": "take over"
+   }
+  },
+  "mnemonic": "هي كلمتين 'Take' 'يأخذ' و 'Over' 'فوق/على'.. يعني أخد السيطرة عليها بالكامل.",
+  "phonetic_us": "ˈteɪkˌoʊvər",
+  "phonetic_uk": "ˈteɪkˌəʊvə",
+  "syllables": "take·o·ver",
+  "semantic_tags": [
+   "#Business",
+   "#Control",
+   "#Corporate"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An act of assuming control of something, especially the buying of one company by another.",
+  "explanation_ar": "لما شركة تشتري شركة تانية وتسيطر عليها، أو لما جهة أو جيش يسيطر على الحكم بالقوة.",
+  "examples": [
+   "The bank financed the takeover of the factory.",
+   "They launched a hostile takeover bid for their rival.",
+   "The military takeover resulted in a suspension of civil rights."
+  ],
+  "translations": {
+   "arabic_ar": "استحواذ استيلاء"
+  },
+  "synonyms": [
+   "acquisition",
+   "buyout",
+   "seizure"
+  ],
+  "antonyms": [
+   "surrender",
+   "handover"
+  ],
+  "collocations": [
+   "hostile takeover",
+   "takeover bid",
+   "military takeover"
+  ],
+  "mnemonic_ar": "هي كلمتين 'Take' 'يأخذ' و 'Over' 'فوق/على'.. يعني أخد السيطرة عليها بالكامل."
+ }
+}

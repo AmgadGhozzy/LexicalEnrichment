@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "salesman",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "salesman",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A man whose job is to sell goods or services, either in a store or by visiting customers.",
+  "explanation_ar": "رجل وظيفته بيع البضائع أو الخدمات للعملاء ومحاولة إقناعهم بالشراء (بائع أو مندوب مبيعات).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A man whose job is to sell goods or services.",
+    "explanation_ar": "رجل يعمل في بيع السلع أو الخدمات للعملاء.",
+    "examples": [
+     "He is a car salesman.",
+     "A door-to-door salesman visited us.",
+     "The salesman used persuasive techniques to close the deal."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a car salesman.",
+   "A door-to-door salesman visited us.",
+   "The salesman used persuasive techniques to close the deal."
+  ],
+  "translations": [
+   "بائع",
+   "مندوب مبيعات"
+  ],
+  "relations": {
+   "synonyms": [
+    "salesperson",
+    "sales representative",
+    "vendor",
+    "seller"
+   ],
+   "antonyms": [
+    "buyer",
+    "customer",
+    "client"
+   ],
+   "collocations": [
+    "car salesman",
+    "insurance salesman",
+    "traveling salesman",
+    "door-to-door salesman"
+   ]
+  },
+  "mnemonic": "مكوّنة من كلمتين: 'sales' (مبيعات) و 'man' (رجل)، أي الرجل المتخصص في المبيعات وإقناع الزبائن.",
+  "phonetic_us": "ˈseɪlzmən",
+  "phonetic_uk": "ˈseɪlzmən",
+  "syllables": "sales•man",
+  "semantic_tags": [
+   "jobs",
+   "business",
+   "shopping"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A man whose job is to sell goods or services, either in a store or by visiting customers.",
+  "explanation_ar": "رجل وظيفته بيع البضائع أو الخدمات للعملاء ومحاولة إقناعهم بالشراء (بائع أو مندوب مبيعات).",
+  "examples": [
+   "He is a car salesman.",
+   "A door-to-door salesman visited us.",
+   "The salesman used persuasive techniques to close the deal."
+  ],
+  "translations": {
+   "arabic_ar": "بائع مندوب مبيعات"
+  },
+  "synonyms": [
+   "salesperson",
+   "sales representative",
+   "vendor",
+   "seller"
+  ],
+  "antonyms": [
+   "buyer",
+   "customer",
+   "client"
+  ],
+  "collocations": [
+   "car salesman",
+   "insurance salesman",
+   "traveling salesman",
+   "door-to-door salesman"
+  ],
+  "mnemonic_ar": "مكوّنة من كلمتين: 'sales' (مبيعات) و 'man' (رجل)، أي الرجل المتخصص في المبيعات وإقناع الزبائن."
+ }
+}

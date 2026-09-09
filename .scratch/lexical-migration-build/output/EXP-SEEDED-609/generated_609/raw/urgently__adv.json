@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "urgently",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "urgently",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a way that requires immediate action or attention.",
+  "explanation_ar": "بشكل عاجل جداً ومحتاج تصرف فوراً، مفيش وقت للتأخير.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In a way that requires immediate action or attention.",
+    "definition_ar": "على وجه السرعة وبشكل عاجل يتطلب تدخلاً فورياً.",
+    "examples": [
+     "I need help urgently.",
+     "We need to discuss this matter urgently.",
+     "Supplies are urgently needed in the disaster zone."
+    ]
+   }
+  ],
+  "examples": [
+   "I need help urgently.",
+   "We need to discuss this matter urgently.",
+   "Supplies are urgently needed in the disaster zone."
+  ],
+  "translations": [
+   "على وجه السرعة",
+   "بشكل عاجل"
+  ],
+  "relations": {
+   "synonyms": [
+    "immediately",
+    "desperately",
+    "pressingly"
+   ],
+   "antonyms": [
+    "leisurely",
+    "calmly"
+   ],
+   "collocations": [
+    "urgently needed",
+    "urgently require",
+    "speak urgently"
+   ]
+  },
+  "mnemonic": "جاية من 'Urge' 'يُلح'.. الموقف بيُلِح عليك تتصرف 'Urgently'.",
+  "phonetic_us": "ˈɜrdʒəntli",
+  "phonetic_uk": "ˈɜːdʒəntlɪ",
+  "syllables": "ur•gent•ly",
+  "semantic_tags": [
+   "#Time",
+   "#Speed",
+   "#Importance",
+   "#Emergency"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a way that requires immediate action or attention.",
+  "explanation_ar": "بشكل عاجل جداً ومحتاج تصرف فوراً، مفيش وقت للتأخير.",
+  "examples": [
+   "I need help urgently.",
+   "We need to discuss this matter urgently.",
+   "Supplies are urgently needed in the disaster zone."
+  ],
+  "translations": {
+   "arabic_ar": "على وجه السرعة بشكل عاجل"
+  },
+  "synonyms": [
+   "immediately",
+   "desperately",
+   "pressingly"
+  ],
+  "antonyms": [
+   "leisurely",
+   "calmly"
+  ],
+  "collocations": [
+   "urgently needed",
+   "urgently require",
+   "speak urgently"
+  ],
+  "mnemonic_ar": "جاية من 'Urge' 'يُلح'.. الموقف بيُلِح عليك تتصرف 'Urgently'."
+ }
+}

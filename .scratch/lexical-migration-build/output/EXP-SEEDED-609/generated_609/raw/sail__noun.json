@@ -1,0 +1,72 @@
+{
+ "identity": {
+  "lemma": "sail",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "sail",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A large sheet of fabric used to catch the wind and move a boat.",
+  "explanation_ar": "القماش الكبير اللي في المركب اللي الهوا بيزقه عشان المركب تمشي (الشراع).",
+  "senses": [
+   {
+    "definition_en": "A large sheet of fabric used to catch the wind and move a boat.",
+    "definition_ar": "شراع القارب أو السفينة المستخدم لدفعها بواسطة الرياح.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The boat has a white sail.",
+   "They hoisted the sail to catch the wind.",
+   "The ship proceeded under sail."
+  ],
+  "translations": [
+   "شراع"
+  ],
+  "relations": {
+   "synonyms": [
+    "canvas"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "hoist the sail",
+    "set sail",
+    "under sail"
+   ]
+  },
+  "mnemonic": "كلمة 'Sail' نفس نطق 'Sale' 'بيع'.. بس دي 'Sail' شراع في البحر.",
+  "phonetic_us": "seɪl",
+  "phonetic_uk": "seɪl",
+  "syllables": "sail",
+  "semantic_tags": [
+   "#Boat",
+   "#Wind",
+   "#Sea"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A large sheet of fabric used to catch the wind and move a boat.",
+  "explanation_ar": "القماش الكبير اللي في المركب اللي الهوا بيزقه عشان المركب تمشي (الشراع).",
+  "examples": [
+   "The boat has a white sail.",
+   "They hoisted the sail to catch the wind.",
+   "The ship proceeded under sail."
+  ],
+  "translations": {
+   "arabic_ar": "شراع"
+  },
+  "synonyms": [
+   "canvas"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "hoist the sail",
+   "set sail",
+   "under sail"
+  ],
+  "mnemonic_ar": "كلمة 'Sail' نفس نطق 'Sale' 'بيع'.. بس دي 'Sail' شراع في البحر."
+ }
+}

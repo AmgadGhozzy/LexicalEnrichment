@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "tooth",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "tooth",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "One of the hard, white structures in the mouth used for biting and chewing.",
+  "explanation_ar": "السِنّة، الحاجة البيضا الناشفة اللي في بوقنا وبناكل بيها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "One of the hard, white structures in the mouth used for biting and chewing.",
+    "explanation_ar": "السِنّة، الحاجة البيضا الناشفة اللي في بوقنا وبناكل بيها.",
+    "translations": [
+     "سن",
+     "ضرس"
+    ],
+    "examples": [
+     "My tooth hurts.",
+     "He brushes every tooth carefully.",
+     "I need to go to the dentist to pull a tooth."
+    ]
+   }
+  ],
+  "examples": [
+   "My tooth hurts.",
+   "He brushes every tooth carefully.",
+   "I need to go to the dentist to pull a tooth."
+  ],
+  "translations": [
+   "سن",
+   "ضرس"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "brush teeth",
+    "sweet tooth",
+    "tooth decay",
+    "wisdom tooth"
+   ]
+  },
+  "mnemonic": "كلمة 'Tooth' فيها حرفين 'oo' جنب بعض.. شبه شكل السنتين اللي جنب بعض.",
+  "phonetic_us": "tuːθ",
+  "phonetic_uk": "tuːθ",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Body",
+   "#Health",
+   "#Mouth",
+   "#Anatomy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "One of the hard, white structures in the mouth used for biting and chewing.",
+  "explanation_ar": "السِنّة، الحاجة البيضا الناشفة اللي في بوقنا وبناكل بيها.",
+  "examples": [
+   "My tooth hurts.",
+   "He brushes every tooth carefully.",
+   "I need to go to the dentist to pull a tooth."
+  ],
+  "translations": {
+   "arabic_ar": "سن ضرس"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "brush teeth",
+   "sweet tooth",
+   "tooth decay",
+   "wisdom tooth"
+  ],
+  "mnemonic_ar": "كلمة 'Tooth' فيها حرفين 'oo' جنب بعض.. شبه شكل السنتين اللي جنب بعض."
+ }
+}

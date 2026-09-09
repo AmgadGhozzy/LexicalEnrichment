@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "swim",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "swim",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To move through water by moving your body.",
+  "explanation_ar": "إنك تعوم وتتحرك في الميه باستخدام جسمك.",
+  "senses": [
+   {
+    "definition_en": "To move through water by moving your body.",
+    "explanation_ar": "التحرك في الماء باستخدام الجسم (يسبح أو يعوم).",
+    "examples": [
+     "I can swim.",
+     "We swim in the pool.",
+     "Fish swim in the sea."
+    ]
+   }
+  ],
+  "examples": [
+   "I can swim.",
+   "We swim in the pool.",
+   "Fish swim in the sea."
+  ],
+  "translations": [
+   "يسبح",
+   "يعوم"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "sink",
+    "drown"
+   ],
+   "collocations": [
+    "learn to swim",
+    "swim fast",
+    "swim laps"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/swɪm/",
+  "phonetic_uk": "/swɪm/",
+  "syllables": "swim",
+  "semantic_tags": [
+   "sports",
+   "movement",
+   "water",
+   "activity"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "To move through water by moving your body.",
+  "explanation_ar": "إنك تعوم وتتحرك في الميه باستخدام جسمك.",
+  "examples": [
+   "I can swim.",
+   "We swim in the pool.",
+   "Fish swim in the sea."
+  ],
+  "translations": {
+   "arabic_ar": "يسبح يعوم"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "sink",
+   "drown"
+  ],
+  "collocations": [
+   "learn to swim",
+   "swim fast",
+   "swim laps"
+  ],
+  "mnemonic_ar": null
+ }
+}

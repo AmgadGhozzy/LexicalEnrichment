@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "reverberate",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "reverberate",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To echo or resound repeatedly; to have a continuing and widespread effect.",
+  "explanation_ar": "الصوت لما يتردد ويعمل صدى قوي، أو خبر وحدث ينتشر ويترك أثراً واسعاً وعواقب ممتدة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To echo or resound repeatedly in a space.",
+    "definition_ar": "يتردد كصدى قوي أو يدوي في الأرجاء.",
+    "pos": "verb"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To have a prolonged, widespread impact or continuing effect.",
+    "definition_ar": "يُحدث أثراً عميقاً ومستمراً أو يترك عواقب واسعة النطاق.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The loud drumbeats will reverberate through the ancient stone cathedral.",
+   "Her piercing voice can reverberate around the empty auditorium without any amplification.",
+   "The economic crash will reverberate for decades to come."
+  ],
+  "translations": [
+   "يتردد صداه",
+   "يدوي",
+   "يُحدِث صدى واسعاً"
+  ],
+  "relations": {
+   "synonyms": [
+    "echo",
+    "resound",
+    "ring"
+   ],
+   "antonyms": [
+    "dampen",
+    "quiet"
+   ],
+   "collocations": [
+    "reverberate through",
+    "reverberate around",
+    "reverberate across"
+   ]
+  },
+  "mnemonic": "فيها جزء 'Vibrate' 'يهتز'.. الصوت لما يـ 'Reverberate' بيعمل اهتزاز وصدى في المكان.",
+  "phonetic_us": "rɪˈvɜːrbəreɪt",
+  "phonetic_uk": "rɪˈvɜːbəreɪt",
+  "syllables": "re•ver•ber•ate",
+  "semantic_tags": [
+   "#Sound",
+   "#Echo",
+   "#Impact",
+   "#Vibration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To echo or resound repeatedly; to have a continuing and widespread effect.",
+  "explanation_ar": "الصوت لما يتردد ويعمل صدى قوي، أو خبر وحدث ينتشر ويترك أثراً واسعاً وعواقب ممتدة.",
+  "examples": [
+   "The loud drumbeats will reverberate through the ancient stone cathedral.",
+   "Her piercing voice can reverberate around the empty auditorium without any amplification.",
+   "The economic crash will reverberate for decades to come."
+  ],
+  "translations": {
+   "arabic_ar": "يتردد صداه يدوي يُحدِث صدى واسعاً"
+  },
+  "synonyms": [
+   "echo",
+   "resound",
+   "ring"
+  ],
+  "antonyms": [
+   "dampen",
+   "quiet"
+  ],
+  "collocations": [
+   "reverberate through",
+   "reverberate around",
+   "reverberate across"
+  ],
+  "mnemonic_ar": "فيها جزء 'Vibrate' 'يهتز'.. الصوت لما يـ 'Reverberate' بيعمل اهتزاز وصدى في المكان."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "theory",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "theory",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A supposition or a system of ideas intended to explain something.",
+  "explanation_ar": "نظرية، يعني فكرة بتشرح ليه الحاجة دي بتحصل، بس لسه مش حقيقة مثبتة 100%.",
+  "senses": [
+   {
+    "definition_en": "A supposition or a system of ideas intended to explain something.",
+    "definition_ar": "نظرية، فكرة أو مجموعة أفكار تهدف لتفسير شيء ما.",
+    "examples": [
+     "I have a theory about that.",
+     "Darwin's theory of evolution is famous.",
+     "In theory, the plan should work perfectly."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a theory about that.",
+   "Darwin's theory of evolution is famous.",
+   "In theory, the plan should work perfectly."
+  ],
+  "translations": [
+   "نظرية"
+  ],
+  "relations": {
+   "synonyms": [
+    "hypothesis",
+    "thesis",
+    "speculation",
+    "assumption"
+   ],
+   "antonyms": [
+    "fact",
+    "practice",
+    "reality"
+   ],
+   "collocations": [
+    "in theory",
+    "theory of relativity",
+    "conspiracy theory",
+    "develop a theory"
+   ]
+  },
+  "mnemonic": "كلام نظري مش عملي.. دي مجرد 'Theory'.",
+  "phonetic_us": "ˈθɪr.i",
+  "phonetic_uk": "ˈθɪə.ri",
+  "syllables": "the•o•ry",
+  "semantic_tags": [
+   "#Science",
+   "#Idea",
+   "#Explanation",
+   "#Academic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A supposition or a system of ideas intended to explain something.",
+  "explanation_ar": "نظرية، يعني فكرة بتشرح ليه الحاجة دي بتحصل، بس لسه مش حقيقة مثبتة 100%.",
+  "examples": [
+   "I have a theory about that.",
+   "Darwin's theory of evolution is famous.",
+   "In theory, the plan should work perfectly."
+  ],
+  "translations": {
+   "arabic_ar": "نظرية"
+  },
+  "synonyms": [
+   "hypothesis",
+   "thesis",
+   "speculation",
+   "assumption"
+  ],
+  "antonyms": [
+   "fact",
+   "practice",
+   "reality"
+  ],
+  "collocations": [
+   "in theory",
+   "theory of relativity",
+   "conspiracy theory",
+   "develop a theory"
+  ],
+  "mnemonic_ar": "كلام نظري مش عملي.. دي مجرد 'Theory'."
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "precedent",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "precedent",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An earlier event or action that is regarded as an example or guide for similar situations.",
+  "explanation_ar": "حدث سابق بيتاخد كمثال أو قاعدة نمشي عليها بعد كده، خصوصاً في القانون.",
+  "senses": [
+   {
+    "definition_en": "An earlier event or action that is regarded as an example or guide for similar situations.",
+    "explanation_ar": "حدث سابق بيتاخد كمثال أو قاعدة نمشي عليها بعد كده، خصوصاً في القانون.",
+    "pos": "noun",
+    "examples": [
+     "The judge's ruling established a legal precedent.",
+     "There is no historical precedent for this crisis.",
+     "This decision sets a bad precedent for the future."
+    ]
+   }
+  ],
+  "examples": [
+   "The judge's ruling established a legal precedent.",
+   "There is no historical precedent for this crisis.",
+   "This decision sets a bad precedent for the future."
+  ],
+  "translations": [
+   "سابقة"
+  ],
+  "relations": {
+   "synonyms": [
+    "model",
+    "example",
+    "pattern",
+    "standard"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "set a precedent",
+    "legal precedent",
+    "without precedent"
+   ]
+  },
+  "mnemonic": "نفس فكرة 'Pre'.. دي 'السابقة' اللي بنقيس عليها أي حاجة جديدة.",
+  "phonetic_us": "ˈpresɪdənt",
+  "phonetic_uk": "ˈpresɪdənt",
+  "syllables": "prece•dent",
+  "semantic_tags": [
+   "#Law",
+   "#History",
+   "#Example",
+   "#Rule"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An earlier event or action that is regarded as an example or guide for similar situations.",
+  "explanation_ar": "حدث سابق بيتاخد كمثال أو قاعدة نمشي عليها بعد كده، خصوصاً في القانون.",
+  "examples": [
+   "The judge's ruling established a legal precedent.",
+   "There is no historical precedent for this crisis.",
+   "This decision sets a bad precedent for the future."
+  ],
+  "translations": {
+   "arabic_ar": "سابقة"
+  },
+  "synonyms": [
+   "model",
+   "example",
+   "pattern",
+   "standard"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "set a precedent",
+   "legal precedent",
+   "without precedent"
+  ],
+  "mnemonic_ar": "نفس فكرة 'Pre'.. دي 'السابقة' اللي بنقيس عليها أي حاجة جديدة."
+ }
+}

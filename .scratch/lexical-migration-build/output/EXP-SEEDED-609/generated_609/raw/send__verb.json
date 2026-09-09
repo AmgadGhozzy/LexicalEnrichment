@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "send",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "send",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To cause something to go or be taken to a destination.",
+  "explanation_ar": "إنك تبعت حاجة لحد، سواء رسالة أو طرد أو شخص لمكان معين.",
+  "senses": [
+   {
+    "sense_id": "send_1",
+    "definition_en": "To cause something to go or be taken to a destination, especially by mail, email, or messenger.",
+    "explanation_ar": "يرسل أو يبعت شيئاً إلى مكان أو شخص.",
+    "examples": [
+     "Please send the report by email.",
+     "I send a letter to my friend every month.",
+     "Can you send me the address?"
+    ]
+   }
+  ],
+  "examples": [
+   "Please send the report by email.",
+   "I send a letter to my friend every month.",
+   "Can you send me the address?"
+  ],
+  "translations": [
+   "يرسل",
+   "يبعت"
+  ],
+  "relations": {
+   "synonyms": [
+    "mail",
+    "dispatch",
+    "transmit"
+   ],
+   "antonyms": [
+    "receive",
+    "get",
+    "keep"
+   ],
+   "collocations": [
+    "send a message",
+    "send an email",
+    "send a letter",
+    "send regards"
+   ]
+  },
+  "mnemonic": "كلمة 'Send' قريبة من 'السند'.. لما تبعت رسالة لحد كأنك بتبعتله 'سند' أو خبر.",
+  "phonetic_us": "/sɛnd/",
+  "phonetic_uk": "/send/",
+  "syllables": [
+   "send"
+  ],
+  "semantic_tags": [
+   "Communication",
+   "Transfer",
+   "Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To cause something to go or be taken to a destination.",
+  "explanation_ar": "إنك تبعت حاجة لحد، سواء رسالة أو طرد أو شخص لمكان معين.",
+  "examples": [
+   "Please send the report by email.",
+   "I send a letter to my friend every month.",
+   "Can you send me the address?"
+  ],
+  "translations": {
+   "arabic_ar": "يرسل يبعت"
+  },
+  "synonyms": [
+   "mail",
+   "dispatch",
+   "transmit"
+  ],
+  "antonyms": [
+   "receive",
+   "get",
+   "keep"
+  ],
+  "collocations": [
+   "send a message",
+   "send an email",
+   "send a letter",
+   "send regards"
+  ],
+  "mnemonic_ar": "كلمة 'Send' قريبة من 'السند'.. لما تبعت رسالة لحد كأنك بتبعتله 'سند' أو خبر."
+ }
+}

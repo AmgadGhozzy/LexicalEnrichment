@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "signify",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "signify",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To be an indication of; to mean something.",
+  "explanation_ar": "يدل على حاجة أو يكون علامة ليها، أو يعبر عن معنى معين.",
+  "senses": [
+   {
+    "definition_en": "To be an indication of; to mean something.",
+    "definition_ar": "يدل على شيء أو يكون علامة عليه، أو يعبر عن معنى معين.",
+    "examples": [
+     "She nodded to signify her agreement.",
+     "The dark clouds signify a coming storm.",
+     "What does this ancient symbol signify?"
+    ]
+   }
+  ],
+  "examples": [
+   "She nodded to signify her agreement.",
+   "The dark clouds signify a coming storm.",
+   "What does this ancient symbol signify?"
+  ],
+  "translations": [
+   "يَدُلّ عَلى",
+   "يَعْنِي"
+  ],
+  "relations": {
+   "synonyms": [
+    "mean",
+    "indicate",
+    "denote",
+    "represent"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "signify approval",
+    "signify intent",
+    "what does it signify"
+   ]
+  },
+  "mnemonic": "جاية من 'Sign' 'علامة'.. الـ 'Signify' هو إنك تدي 'Sign' أو دلالة.",
+  "phonetic_us": "ˈsɪɡnɪfaɪ",
+  "phonetic_uk": "ˈsɪɡnɪfaɪ",
+  "syllables": "sig•ni•fy",
+  "semantic_tags": [
+   "#Meaning",
+   "#Signs",
+   "#Language"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be an indication of; to mean something.",
+  "explanation_ar": "يدل على حاجة أو يكون علامة ليها، أو يعبر عن معنى معين.",
+  "examples": [
+   "She nodded to signify her agreement.",
+   "The dark clouds signify a coming storm.",
+   "What does this ancient symbol signify?"
+  ],
+  "translations": {
+   "arabic_ar": "يَدُلّ عَلى يَعْنِي"
+  },
+  "synonyms": [
+   "mean",
+   "indicate",
+   "denote",
+   "represent"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "signify approval",
+   "signify intent",
+   "what does it signify"
+  ],
+  "mnemonic_ar": "جاية من 'Sign' 'علامة'.. الـ 'Signify' هو إنك تدي 'Sign' أو دلالة."
+ }
+}

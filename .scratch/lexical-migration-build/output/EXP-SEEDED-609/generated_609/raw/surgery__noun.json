@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "surgery",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "surgery",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The medical treatment of bodily injuries or disorders by cutting open the body.",
+  "explanation_ar": "العملية الجراحية التي يقوم بها الطبيب لعلاج إصابة أو مرض داخل الجسم.",
+  "senses": [
+   {
+    "definition_en": "The medical treatment of bodily injuries or disorders by cutting open the body.",
+    "definition_ar": "عملية جراحية أو علاج جراحي للإصابات والأمراض.",
+    "examples": [
+     "He needs surgery on his leg.",
+     "The surgery took three hours.",
+     "She is recovering from major heart surgery."
+    ]
+   }
+  ],
+  "examples": [
+   "He needs surgery on his leg.",
+   "The surgery took three hours.",
+   "She is recovering from major heart surgery."
+  ],
+  "translations": [
+   "جراحة",
+   "عملية جراحية"
+  ],
+  "relations": {
+   "synonyms": [
+    "operation",
+    "procedure"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "undergo surgery",
+    "major surgery",
+    "heart surgery",
+    "plastic surgery"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Surgeon' (جراح).. فالـ 'Surgery' هي مهنته والعملية التي يجريها.",
+  "phonetic_us": "ˈsɜːrdʒəri",
+  "phonetic_uk": "ˈsɜːdʒəri",
+  "syllables": "sur-ger-y",
+  "semantic_tags": [
+   "Medical",
+   "Hospital",
+   "Health",
+   "Doctor"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The medical treatment of bodily injuries or disorders by cutting open the body.",
+  "explanation_ar": "العملية الجراحية التي يقوم بها الطبيب لعلاج إصابة أو مرض داخل الجسم.",
+  "examples": [
+   "He needs surgery on his leg.",
+   "The surgery took three hours.",
+   "She is recovering from major heart surgery."
+  ],
+  "translations": {
+   "arabic_ar": "جراحة عملية جراحية"
+  },
+  "synonyms": [
+   "operation",
+   "procedure"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "undergo surgery",
+   "major surgery",
+   "heart surgery",
+   "plastic surgery"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Surgeon' (جراح).. فالـ 'Surgery' هي مهنته والعملية التي يجريها."
+ }
+}

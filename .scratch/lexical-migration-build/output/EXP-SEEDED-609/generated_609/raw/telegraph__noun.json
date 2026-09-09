@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "telegraph",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "telegraph",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A system for transmitting messages from a distance along a wire.",
+  "explanation_ar": "جهاز أو نظام قديم كان يُستخدم لإرسال الرسائل عبر مسافات بعيدة باستخدام إشارات كهربائية عبر الأسلاك.",
+  "senses": [
+   {
+    "sense_id": "telegraph-noun-1",
+    "pos": "noun",
+    "definition_en": "A system for transmitting messages from a distance along a wire.",
+    "definition_ar": "نظام أو جهاز قديم لإرسال الرسائل عن بعد عبر الأسلاك باستخدام إشارات كهربائية.",
+    "examples": [
+     "The invention of the telegraph revolutionized global communication.",
+     "News of the treaty arrived by telegraph late that evening.",
+     "Before the telephone, people relied on the telegraph to send urgent messages."
+    ]
+   }
+  ],
+  "examples": [
+   "The invention of the telegraph revolutionized global communication.",
+   "News of the treaty arrived by telegraph late that evening.",
+   "Before the telephone, people relied on the telegraph to send urgent messages."
+  ],
+  "translations": [
+   "تلغراف",
+   "جهاز التلغراف"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "telegraph pole",
+    "telegraph wire",
+    "wireless telegraph"
+   ]
+  },
+  "mnemonic": "'Tele' 'بعيد' + 'Graph' 'كتابة'.. جهاز الكتابة من بعيد.",
+  "phonetic_us": "ˈtɛləˌɡræf",
+  "phonetic_uk": "ˈtelɪɡrɑːf",
+  "syllables": "tele•graph",
+  "semantic_tags": [
+   "History",
+   "Communication",
+   "Technology"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A system for transmitting messages from a distance along a wire.",
+  "explanation_ar": "جهاز أو نظام قديم كان يُستخدم لإرسال الرسائل عبر مسافات بعيدة باستخدام إشارات كهربائية عبر الأسلاك.",
+  "examples": [
+   "The invention of the telegraph revolutionized global communication.",
+   "News of the treaty arrived by telegraph late that evening.",
+   "Before the telephone, people relied on the telegraph to send urgent messages."
+  ],
+  "translations": {
+   "arabic_ar": "تلغراف جهاز التلغراف"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "telegraph pole",
+   "telegraph wire",
+   "wireless telegraph"
+  ],
+  "mnemonic_ar": "'Tele' 'بعيد' + 'Graph' 'كتابة'.. جهاز الكتابة من بعيد."
+ }
+}

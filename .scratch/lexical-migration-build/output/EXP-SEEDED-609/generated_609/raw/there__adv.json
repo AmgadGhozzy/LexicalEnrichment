@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "there",
+  "pos": "adv",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "there",
+  "pos": "adv",
+  "cefr": "A1",
+  "definition_en": "In, at, or to that place or position.",
+  "explanation_ar": "يعني 'هناك'. بنستخدمها لما نشاور على مكان بعيد شوية عننا.",
+  "senses": [
+   {
+    "definition_en": "In, at, or to that place or position.",
+    "explanation_ar": "في أو إلى ذلك المكان (هناك).",
+    "pos": "adv",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "The book is over there.",
+   "We went to Paris and stayed there.",
+   "Put the box down right there."
+  ],
+  "translations": [
+   "هُنَاك"
+  ],
+  "relations": {
+   "synonyms": [
+    "at that place"
+   ],
+   "antonyms": [
+    "here"
+   ],
+   "collocations": [
+    "over there",
+    "right there"
+   ]
+  },
+  "mnemonic": "كلمة 'There' عكس 'Here' 'هنا'.. لو ضفت حرف T لـ 'Here' تبقى 'There' 'هناك'.",
+  "phonetic_us": "ðɛɹ",
+  "phonetic_uk": "ðeə",
+  "syllables": [
+   "there"
+  ],
+  "semantic_tags": [
+   "Location",
+   "Place",
+   "Direction"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In, at, or to that place or position.",
+  "explanation_ar": "يعني 'هناك'. بنستخدمها لما نشاور على مكان بعيد شوية عننا.",
+  "examples": [
+   "The book is over there.",
+   "We went to Paris and stayed there.",
+   "Put the box down right there."
+  ],
+  "translations": {
+   "arabic_ar": "هُنَاك"
+  },
+  "synonyms": [
+   "at that place"
+  ],
+  "antonyms": [
+   "here"
+  ],
+  "collocations": [
+   "over there",
+   "right there"
+  ],
+  "mnemonic_ar": "كلمة 'There' عكس 'Here' 'هنا'.. لو ضفت حرف T لـ 'Here' تبقى 'There' 'هناك'."
+ }
+}

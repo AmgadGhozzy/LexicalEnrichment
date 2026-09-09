@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "variant",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "variant",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Differing in some respect from other forms of the same thing or from what is normal or standard.",
+  "explanation_ar": "صفة تعني مختلفاً أو مغايراً في بعض التفاصيل عن الشكل الأصلي أو القياسي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Differing in some respect from other forms of the same thing or from what is normal or standard.",
+    "definition_ar": "مختلف أو متباين في بعض الجوانب عن الشكل القياسي أو المعتاد.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "They decided to use a variant spelling of the author's name on the cover.",
+   "The editor found a variant reading of the text in an older manuscript.",
+   "The linguist studied several variant forms of the phrase across different regions."
+  ],
+  "translations": [
+   "مُغايِر",
+   "مُختَلِف",
+   "مُتَبايِن"
+  ],
+  "relations": {
+   "synonyms": [
+    "alternative",
+    "differing",
+    "divergent"
+   ],
+   "antonyms": [
+    "standard",
+    "invariant",
+    "uniform"
+   ],
+   "collocations": [
+    "variant spelling",
+    "variant form",
+    "variant reading"
+   ],
+   "word_family": {
+    "verb": "vary",
+    "noun": "variant",
+    "adj": "variant",
+    "adv": "variably"
+   }
+  },
+  "mnemonic": "جاية من 'Vary' يعني يختلف.. الـ 'Variant' هو المتغير أو النسخة المختلفة.",
+  "phonetic_us": "ˈveriənt",
+  "phonetic_uk": "ˈveəriənt",
+  "syllables": "vari•ant",
+  "semantic_tags": [
+   "#Difference",
+   "#Language",
+   "#Type"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Differing in some respect from other forms of the same thing or from what is normal or standard.",
+  "explanation_ar": "صفة تعني مختلفاً أو مغايراً في بعض التفاصيل عن الشكل الأصلي أو القياسي.",
+  "examples": [
+   "They decided to use a variant spelling of the author's name on the cover.",
+   "The editor found a variant reading of the text in an older manuscript.",
+   "The linguist studied several variant forms of the phrase across different regions."
+  ],
+  "translations": {
+   "arabic_ar": "مُغايِر مُختَلِف مُتَبايِن"
+  },
+  "synonyms": [
+   "alternative",
+   "differing",
+   "divergent"
+  ],
+  "antonyms": [
+   "standard",
+   "invariant",
+   "uniform"
+  ],
+  "collocations": [
+   "variant spelling",
+   "variant form",
+   "variant reading"
+  ],
+  "mnemonic_ar": "جاية من 'Vary' يعني يختلف.. الـ 'Variant' هو المتغير أو النسخة المختلفة."
+ }
+}

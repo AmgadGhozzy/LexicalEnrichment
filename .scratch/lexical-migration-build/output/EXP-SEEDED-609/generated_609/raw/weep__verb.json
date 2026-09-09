@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "weep",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "weep",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To shed tears, typically as an expression of distress, pain, or sorrow.",
+  "explanation_ar": "إنك تعيط بحرقة وبصوت، مش مجرد دمعة تنزل، غالباً من كتر الحزن أو الألم.",
+  "senses": [
+   {
+    "definition_en": "To shed tears, typically as an expression of distress, pain, or sorrow.",
+    "definition_ar": "أن تبكي بحرقة أو حزن شديد تعبيراً عن الألم أو التأثر.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "She began to weep.",
+   "Don't weep for me.",
+   "Many in the audience began to weep openly as the memorial service concluded."
+  ],
+  "translations": [
+   "يبكي",
+   "ينتحب",
+   "يدمع"
+  ],
+  "relations": {
+   "synonyms": [
+    "cry",
+    "sob",
+    "wail",
+    "mourn"
+   ],
+   "antonyms": [
+    "laugh",
+    "rejoice",
+    "smile"
+   ],
+   "collocations": [
+    "weep openly",
+    "weep bitterly",
+    "weep for joy",
+    "make someone weep"
+   ]
+  },
+  "mnemonic": "شبه 'Wipe' 'يمسح'.. لما تعمل 'Weep' وتعيط بتحتاج 'Wipe' لدموعك.",
+  "phonetic_us": "wiːp",
+  "phonetic_uk": "wiːp",
+  "syllables": [
+   "weep"
+  ],
+  "semantic_tags": [
+   "#Emotion",
+   "#Sadness",
+   "#Tears",
+   "#Crying"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To shed tears, typically as an expression of distress, pain, or sorrow.",
+  "explanation_ar": "إنك تعيط بحرقة وبصوت، مش مجرد دمعة تنزل، غالباً من كتر الحزن أو الألم.",
+  "examples": [
+   "She began to weep.",
+   "Don't weep for me.",
+   "Many in the audience began to weep openly as the memorial service concluded."
+  ],
+  "translations": {
+   "arabic_ar": "يبكي ينتحب يدمع"
+  },
+  "synonyms": [
+   "cry",
+   "sob",
+   "wail",
+   "mourn"
+  ],
+  "antonyms": [
+   "laugh",
+   "rejoice",
+   "smile"
+  ],
+  "collocations": [
+   "weep openly",
+   "weep bitterly",
+   "weep for joy",
+   "make someone weep"
+  ],
+  "mnemonic_ar": "شبه 'Wipe' 'يمسح'.. لما تعمل 'Weep' وتعيط بتحتاج 'Wipe' لدموعك."
+ }
+}

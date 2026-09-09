@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "spin",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "spin",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To turn or cause to turn or whirl around quickly.",
+  "explanation_ar": "إنك تلف حاجة أو هي تلف حوالين نفسها بسرعة جداً.",
+  "senses": [
+   {
+    "definition_en": "To turn or cause to turn or whirl around quickly.",
+    "explanation_ar": "إنك تلف حاجة أو هي تلف حوالين نفسها بسرعة جداً.",
+    "examples": [
+     "The wheels spin fast when the car accelerates.",
+     "I watched the dancer spin across the stage.",
+     "Children love to spin around until they fall down."
+    ]
+   }
+  ],
+  "examples": [
+   "The wheels spin fast when the car accelerates.",
+   "I watched the dancer spin across the stage.",
+   "Children love to spin around until they fall down."
+  ],
+  "translations": [
+   "يدور بسرعة",
+   "يلف"
+  ],
+  "relations": {
+   "synonyms": [
+    "rotate",
+    "whirl",
+    "twirl",
+    "revolve"
+   ],
+   "antonyms": [
+    "stop",
+    "stabilize"
+   ],
+   "collocations": [
+    "spin around",
+    "spin out of control"
+   ]
+  },
+  "mnemonic": "زي الـ 'Spinner'.. بتخليها تعمل 'Spin' 'تلف'.",
+  "phonetic_us": "spɪn",
+  "phonetic_uk": "spɪn",
+  "syllables": [
+   "spin"
+  ],
+  "semantic_tags": [
+   "#Motion",
+   "#Action",
+   "#Crafts"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To turn or cause to turn or whirl around quickly.",
+  "explanation_ar": "إنك تلف حاجة أو هي تلف حوالين نفسها بسرعة جداً.",
+  "examples": [
+   "The wheels spin fast when the car accelerates.",
+   "I watched the dancer spin across the stage.",
+   "Children love to spin around until they fall down."
+  ],
+  "translations": {
+   "arabic_ar": "يدور بسرعة يلف"
+  },
+  "synonyms": [
+   "rotate",
+   "whirl",
+   "twirl",
+   "revolve"
+  ],
+  "antonyms": [
+   "stop",
+   "stabilize"
+  ],
+  "collocations": [
+   "spin around",
+   "spin out of control"
+  ],
+  "mnemonic_ar": "زي الـ 'Spinner'.. بتخليها تعمل 'Spin' 'تلف'."
+ }
+}

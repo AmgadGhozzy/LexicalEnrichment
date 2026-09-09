@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "suffice",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "suffice",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Be enough or adequate.",
+  "explanation_ar": "إن الحاجة تكون كفاية وتأدي الغرض المطلوب من غير زيادة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To be enough or adequate for a particular purpose or need.",
+    "definition_ar": "يكفي أو يفي بالغرض المطلوب.",
+    "examples": [
+     "One slice of pizza will suffice for me.",
+     "A simple 'yes' will suffice.",
+     "Mere apologies will not suffice to repair the damage done."
+    ]
+   }
+  ],
+  "examples": [
+   "One slice of pizza will suffice for me.",
+   "A simple 'yes' will suffice.",
+   "Mere apologies will not suffice to repair the damage done."
+  ],
+  "translations": [
+   "يكفي",
+   "يفي بالغرض"
+  ],
+  "relations": {
+   "synonyms": [
+    "be enough",
+    "serve",
+    "satisfy",
+    "do"
+   ],
+   "antonyms": [
+    "fall short",
+    "lack",
+    "fail"
+   ],
+   "collocations": [
+    "will suffice",
+    "should suffice",
+    "suffice to say"
+   ]
+  },
+  "mnemonic": "قريبة من 'Sufficient' كافي.. وكلمة 'Safe'.. لما يكون معك اللي 'Suffice' بتبقى 'Safe'.",
+  "phonetic_us": "səˈfaɪs",
+  "phonetic_uk": "səˈfaɪs",
+  "syllables": "suf•fice",
+  "semantic_tags": [
+   "Quantity",
+   "Adequacy",
+   "Limit"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Be enough or adequate.",
+  "explanation_ar": "إن الحاجة تكون كفاية وتأدي الغرض المطلوب من غير زيادة.",
+  "examples": [
+   "One slice of pizza will suffice for me.",
+   "A simple 'yes' will suffice.",
+   "Mere apologies will not suffice to repair the damage done."
+  ],
+  "translations": {
+   "arabic_ar": "يكفي يفي بالغرض"
+  },
+  "synonyms": [
+   "be enough",
+   "serve",
+   "satisfy",
+   "do"
+  ],
+  "antonyms": [
+   "fall short",
+   "lack",
+   "fail"
+  ],
+  "collocations": [
+   "will suffice",
+   "should suffice",
+   "suffice to say"
+  ],
+  "mnemonic_ar": "قريبة من 'Sufficient' كافي.. وكلمة 'Safe'.. لما يكون معك اللي 'Suffice' بتبقى 'Safe'."
+ }
+}

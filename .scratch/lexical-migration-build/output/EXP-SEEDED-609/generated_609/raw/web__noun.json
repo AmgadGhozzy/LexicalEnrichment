@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "web",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "web",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A network of fine threads made by a spider; the Internet.",
+  "explanation_ar": "شبكة خيوط بيعملها العنكبوت، أو شبكة الإنترنت اللي بتربط العالم ببعضه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A network of fine threads spun by a spider to catch insects.",
+    "definition_ar": "شبكة العنكبوت التي ينسجها لصيد الحشرات.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The World Wide Web; the internet system for accessing websites and documents.",
+    "definition_ar": "شبكة الإنترنت العالمية (الويب).",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The spider made a web.",
+   "Flies get caught in the spider's web.",
+   "You can find a lot of useful information on the web."
+  ],
+  "translations": [
+   "شبكة العنكبوت",
+   "الويب",
+   "شبكة الإنترنت"
+  ],
+  "relations": {
+   "synonyms": [
+    "net",
+    "network",
+    "mesh"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spider web",
+    "world wide web",
+    "web page"
+   ]
+  },
+  "mnemonic": "شبكة العنكبوت أو الـ 'Web' سايت.",
+  "phonetic_us": "/wɛb/",
+  "phonetic_uk": "/web/",
+  "syllables": [
+   "web"
+  ],
+  "semantic_tags": [
+   "#Internet",
+   "#Spider",
+   "#Network"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A network of fine threads made by a spider; the Internet.",
+  "explanation_ar": "شبكة خيوط بيعملها العنكبوت، أو شبكة الإنترنت اللي بتربط العالم ببعضه.",
+  "examples": [
+   "The spider made a web.",
+   "Flies get caught in the spider's web.",
+   "You can find a lot of useful information on the web."
+  ],
+  "translations": {
+   "arabic_ar": "شبكة العنكبوت الويب شبكة الإنترنت"
+  },
+  "synonyms": [
+   "net",
+   "network",
+   "mesh"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spider web",
+   "world wide web",
+   "web page"
+  ],
+  "mnemonic_ar": "شبكة العنكبوت أو الـ 'Web' سايت."
+ }
+}

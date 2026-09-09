@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "trigger",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "trigger",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To cause an action or process to begin.",
+  "explanation_ar": "يثير أو يشعل أو يتسبب في بداية حاجة. زي لما حدث صغير يسبب مشكلة كبيرة.",
+  "senses": [
+   {
+    "definition_en": "To cause an action, process, or sudden reaction to happen.",
+    "definition_ar": "يتسبب في بدء حدث أو رد فعل مفاجئ أو مشكلة.",
+    "examples": [
+     "Stress can trigger a headache.",
+     "Certain foods can trigger an allergic reaction.",
+     "A sudden loud noise could trigger an avalanche."
+    ]
+   }
+  ],
+  "examples": [
+   "Stress can trigger a headache.",
+   "Certain foods can trigger an allergic reaction.",
+   "A sudden loud noise could trigger an avalanche."
+  ],
+  "translations": [
+   "يُثِير",
+   "يُشْعِل",
+   "يُسَبِّب"
+  ],
+  "relations": {
+   "synonyms": [
+    "activate",
+    "spark",
+    "initiate",
+    "set off",
+    "prompt"
+   ],
+   "antonyms": [
+    "prevent",
+    "stop",
+    "halt"
+   ],
+   "collocations": [
+    "trigger a response",
+    "trigger a memory",
+    "trigger an alarm",
+    "trigger a crisis"
+   ]
+  },
+  "mnemonic": "نفس فكرة الزناد.. بتضغط عليه عشان 'Trigger' المشكلة وتبدأ",
+  "phonetic_us": "ˈtrɪɡɚ",
+  "phonetic_uk": "ˈtrɪɡ.ə",
+  "syllables": "trig•ger",
+  "semantic_tags": [
+   "#Cause",
+   "#Start",
+   "#Reaction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To cause an action or process to begin.",
+  "explanation_ar": "يثير أو يشعل أو يتسبب في بداية حاجة. زي لما حدث صغير يسبب مشكلة كبيرة.",
+  "examples": [
+   "Stress can trigger a headache.",
+   "Certain foods can trigger an allergic reaction.",
+   "A sudden loud noise could trigger an avalanche."
+  ],
+  "translations": {
+   "arabic_ar": "يُثِير يُشْعِل يُسَبِّب"
+  },
+  "synonyms": [
+   "activate",
+   "spark",
+   "initiate",
+   "set off",
+   "prompt"
+  ],
+  "antonyms": [
+   "prevent",
+   "stop",
+   "halt"
+  ],
+  "collocations": [
+   "trigger a response",
+   "trigger a memory",
+   "trigger an alarm",
+   "trigger a crisis"
+  ],
+  "mnemonic_ar": "نفس فكرة الزناد.. بتضغط عليه عشان 'Trigger' المشكلة وتبدأ"
+ }
+}

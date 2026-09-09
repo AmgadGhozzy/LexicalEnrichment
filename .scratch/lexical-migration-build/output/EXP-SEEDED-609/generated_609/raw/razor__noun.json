@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "razor",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "razor",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "An instrument with a sharp blade or combination of blades, used to remove unwanted hair.",
+  "explanation_ar": "أداة ذات شفرة حادة أو مجموعة شفرات تُستخدم لحلاقة وإزالة الشعر (موس أو ماكينة حلاقة).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An instrument with a sharp blade or set of blades, used for shaving hair from the face or body.",
+    "explanation_ar": "أداة حلاقة بشفرة حادة لإزالة شعر الوجه أو الجسم.",
+    "examples": [
+     "Be careful, the razor is sharp.",
+     "He cut himself with the razor while shaving.",
+     "I bought a new razor."
+    ]
+   }
+  ],
+  "examples": [
+   "Be careful, the razor is sharp.",
+   "He cut himself with the razor while shaving.",
+   "I bought a new razor."
+  ],
+  "translations": [
+   "موس حلاقة",
+   "شفرة حلاقة"
+  ],
+  "relations": {
+   "synonyms": [
+    "shaver"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "electric razor",
+    "disposable razor",
+    "razor blade"
+   ]
+  },
+  "mnemonic": "صوت كلمة razor يشبه كلمة erase (يمسح)؛ تذكر أن الـ razor يمسح الشعر ويزيله تماماً.",
+  "phonetic_us": "/ˈreɪzər/",
+  "phonetic_uk": "/ˈreɪzə/",
+  "syllables": "ra·zor",
+  "semantic_tags": [
+   "#Shaving",
+   "#Grooming",
+   "#Tools"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An instrument with a sharp blade or combination of blades, used to remove unwanted hair.",
+  "explanation_ar": "أداة ذات شفرة حادة أو مجموعة شفرات تُستخدم لحلاقة وإزالة الشعر (موس أو ماكينة حلاقة).",
+  "examples": [
+   "Be careful, the razor is sharp.",
+   "He cut himself with the razor while shaving.",
+   "I bought a new razor."
+  ],
+  "translations": {
+   "arabic_ar": "موس حلاقة شفرة حلاقة"
+  },
+  "synonyms": [
+   "shaver"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "electric razor",
+   "disposable razor",
+   "razor blade"
+  ],
+  "mnemonic_ar": "صوت كلمة razor يشبه كلمة erase (يمسح)؛ تذكر أن الـ razor يمسح الشعر ويزيله تماماً."
+ }
+}

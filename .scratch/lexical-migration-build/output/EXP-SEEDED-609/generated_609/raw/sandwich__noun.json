@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "sandwich",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sandwich",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Two slices of bread with food like cheese or meat between them.",
+  "explanation_ar": "السندوتش، عيش جواه جبنة أو لحمة أو أي أكل.",
+  "senses": [
+   {
+    "definition_en": "Two slices of bread with food like cheese or meat between them.",
+    "explanation_ar": "السندوتش، عيش جواه جبنة أو لحمة أو أي أكل."
+   }
+  ],
+  "examples": [
+   "I ate a sandwich.",
+   "She made a cheese sandwich.",
+   "Can I have a ham sandwich?"
+  ],
+  "translations": [
+   "شطيرة",
+   "سندويتش"
+  ],
+  "relations": {
+   "synonyms": [
+    "sub",
+    "butty"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cheese sandwich",
+    "chicken sandwich",
+    "sandwich shop"
+   ]
+  },
+  "mnemonic": "هي هي بالعربي 'سندوتش'.",
+  "phonetic_us": "ˈsændwɪtʃ",
+  "phonetic_uk": "ˈsænwɪdʒ",
+  "syllables": "sand•wich",
+  "semantic_tags": [
+   "#Food",
+   "#Lunch",
+   "#Bread"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Two slices of bread with food like cheese or meat between them.",
+  "explanation_ar": "السندوتش، عيش جواه جبنة أو لحمة أو أي أكل.",
+  "examples": [
+   "I ate a sandwich.",
+   "She made a cheese sandwich.",
+   "Can I have a ham sandwich?"
+  ],
+  "translations": {
+   "arabic_ar": "شطيرة سندويتش"
+  },
+  "synonyms": [
+   "sub",
+   "butty"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cheese sandwich",
+   "chicken sandwich",
+   "sandwich shop"
+  ],
+  "mnemonic_ar": "هي هي بالعربي 'سندوتش'."
+ }
+}

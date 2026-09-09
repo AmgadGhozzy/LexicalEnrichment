@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "urgency",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "urgency",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Importance requiring swift action.",
+  "explanation_ar": "الاستعجال أو الضرورة القصوى.. لما يكون فيه حاجة لازم تتعمل حالاً وماتستناش.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Importance requiring swift action.",
+    "definition_ar": "الاستعجال أو الضرورة القصوى التي تتطلب عملاً سريعاً وغير قابل للتأجيل.",
+    "examples": [
+     "There is no urgency, take your time.",
+     "We need to act with a sense of urgency.",
+     "The urgency of the climate crisis cannot be overstated."
+    ]
+   }
+  ],
+  "examples": [
+   "There is no urgency, take your time.",
+   "We need to act with a sense of urgency.",
+   "The urgency of the climate crisis cannot be overstated."
+  ],
+  "translations": [
+   "إلحاح",
+   "استعجال",
+   "ضرورة قصوى",
+   "ضرورة ملحة"
+  ],
+  "relations": {
+   "synonyms": [
+    "imperativeness",
+    "pressure",
+    "haste",
+    "importance"
+   ],
+   "antonyms": [
+    "unimportance"
+   ],
+   "collocations": [
+    "sense of urgency",
+    "matter of urgency",
+    "utmost urgency"
+   ]
+  },
+  "mnemonic": "جاية من 'Urgent' 'عاجل'.. جاية من 'Urge' 'يُلِح'.. الـ 'Urgency' هو الإلحاح والسرعة.",
+  "phonetic_us": "ˈɝː.dʒən.si",
+  "phonetic_uk": "ˈɜː.dʒən.si",
+  "syllables": "ur•gen•cy",
+  "semantic_tags": [
+   "Time",
+   "Importance",
+   "Pressure",
+   "Emergency"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Importance requiring swift action.",
+  "explanation_ar": "الاستعجال أو الضرورة القصوى.. لما يكون فيه حاجة لازم تتعمل حالاً وماتستناش.",
+  "examples": [
+   "There is no urgency, take your time.",
+   "We need to act with a sense of urgency.",
+   "The urgency of the climate crisis cannot be overstated."
+  ],
+  "translations": {
+   "arabic_ar": "إلحاح استعجال ضرورة قصوى ضرورة ملحة"
+  },
+  "synonyms": [
+   "imperativeness",
+   "pressure",
+   "haste",
+   "importance"
+  ],
+  "antonyms": [
+   "unimportance"
+  ],
+  "collocations": [
+   "sense of urgency",
+   "matter of urgency",
+   "utmost urgency"
+  ],
+  "mnemonic_ar": "جاية من 'Urgent' 'عاجل'.. جاية من 'Urge' 'يُلِح'.. الـ 'Urgency' هو الإلحاح والسرعة."
+ }
+}

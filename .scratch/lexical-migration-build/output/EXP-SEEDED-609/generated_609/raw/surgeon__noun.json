@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "surgeon",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "surgeon",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A doctor who is qualified to perform surgery (operations).",
+  "explanation_ar": "الدكتور المتخصص اللي بيعمل عمليات جراحية للمرضى.",
+  "senses": [
+   {
+    "sense_id": "surgeon_1",
+    "definition_en": "A doctor who is qualified to perform surgery (operations).",
+    "explanation_ar": "الدكتور المتخصص اللي بيعمل عمليات جراحية للمرضى.",
+    "translations": [
+     "جراح"
+    ]
+   }
+  ],
+  "examples": [
+   "The surgeon washed his hands before the operation.",
+   "The heart surgeon performed a complex transplant.",
+   "I want to be a surgeon when I grow up."
+  ],
+  "translations": [
+   "جراح"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "plastic surgeon",
+    "brain surgeon",
+    "heart surgeon",
+    "veterinary surgeon"
+   ]
+  },
+  "mnemonic": "'Surgeon' قريبة من 'Sir'.. هو 'Sir' في أوضة العمليات.. أو 'Surgeon' بيعمل 'Surgery'.",
+  "phonetic_us": "ˈsɜrdʒən",
+  "phonetic_uk": "ˈsɜːdʒən",
+  "syllables": "sur•geon",
+  "semantic_tags": [
+   "#Medical",
+   "#Jobs",
+   "#Hospital"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A doctor who is qualified to perform surgery (operations).",
+  "explanation_ar": "الدكتور المتخصص اللي بيعمل عمليات جراحية للمرضى.",
+  "examples": [
+   "The surgeon washed his hands before the operation.",
+   "The heart surgeon performed a complex transplant.",
+   "I want to be a surgeon when I grow up."
+  ],
+  "translations": {
+   "arabic_ar": "جراح"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "plastic surgeon",
+   "brain surgeon",
+   "heart surgeon",
+   "veterinary surgeon"
+  ],
+  "mnemonic_ar": "'Surgeon' قريبة من 'Sir'.. هو 'Sir' في أوضة العمليات.. أو 'Surgeon' بيعمل 'Surgery'."
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "politician",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "politician",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who is professionally involved in politics, especially as a holder of an elected office.",
+  "explanation_ar": "الشخص اللي بيشتغل في السياسة زي الوزير أو عضو البرلمان.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person who is professionally involved in politics, especially as a holder of an elected office.",
+    "definition_ar": "شخص يعمل في مجال السياسة، وخاصة من يشغل منصباً منتخباً.",
+    "examples": [
+     "The politician gave a speech.",
+     "She wants to be a politician.",
+     "He is a very popular local politician."
+    ]
+   }
+  ],
+  "examples": [
+   "The politician gave a speech.",
+   "She wants to be a politician.",
+   "He is a very popular local politician."
+  ],
+  "translations": [
+   "سياسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "legislator",
+    "statesman",
+    "official"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "local politician",
+    "corrupt politician",
+    "career politician"
+   ]
+  },
+  "mnemonic": "جاية من 'Politics' 'سياسة'.. والـ 'Politician' هو رجل السياسة.",
+  "phonetic_us": "ˌpɑːləˈtɪʃn",
+  "phonetic_uk": "ˌpɒləˈtɪʃn",
+  "syllables": "politi•cian",
+  "semantic_tags": [
+   "#Government",
+   "#Elections",
+   "#Jobs"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who is professionally involved in politics, especially as a holder of an elected office.",
+  "explanation_ar": "الشخص اللي بيشتغل في السياسة زي الوزير أو عضو البرلمان.",
+  "examples": [
+   "The politician gave a speech.",
+   "She wants to be a politician.",
+   "He is a very popular local politician."
+  ],
+  "translations": {
+   "arabic_ar": "سياسي"
+  },
+  "synonyms": [
+   "legislator",
+   "statesman",
+   "official"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "local politician",
+   "corrupt politician",
+   "career politician"
+  ],
+  "mnemonic_ar": "جاية من 'Politics' 'سياسة'.. والـ 'Politician' هو رجل السياسة."
+ }
+}

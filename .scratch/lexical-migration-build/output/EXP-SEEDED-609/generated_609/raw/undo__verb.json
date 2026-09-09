@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "undo",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "undo",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To cancel the effect of a previous action or to unfasten something.",
+  "explanation_ar": "يعني ترجع في كلامك أو تلغي حاجة عملتها، أو تفك حاجة مربوطة زي زرار القميص أو عقدة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To cancel or reverse the effect of a previous action",
+    "definition_ar": "يلغي أو يبطل أثر فعل سابق",
+    "examples": [
+     "You can press the button to undo the last change.",
+     "It is difficult to undo the damage caused by the storm."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To unfasten, untie, or open something that is tied or fastened",
+    "definition_ar": "يفك أو يحل شيئاً مربوطاً أو مغلقاً",
+    "examples": [
+     "I can't undo this knot."
+    ]
+   }
+  ],
+  "examples": [
+   "You can press the button to undo the last change.",
+   "It is difficult to undo the damage caused by the storm.",
+   "I can't undo this knot."
+  ],
+  "translations": [
+   "يلغي",
+   "يبطل",
+   "يفك",
+   "يتراجع عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "reverse",
+    "cancel",
+    "unfasten",
+    "untie"
+   ],
+   "antonyms": [
+    "do",
+    "fasten",
+    "tie"
+   ],
+   "collocations": [
+    "undo a button",
+    "undo the damage",
+    "undo changes"
+   ]
+  },
+  "mnemonic": "عكس 'Do' 'يفعل'.. لما تعمل حاجة وعايز ترجع فيها بتعمل 'Undo'.",
+  "phonetic_us": "/ʌnˈduː/",
+  "phonetic_uk": "/ʌnˈduː/",
+  "syllables": "un•do",
+  "semantic_tags": [
+   "Actions & Processes",
+   "Correction",
+   "Clothing",
+   "Computing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To cancel the effect of a previous action or to unfasten something.",
+  "explanation_ar": "يعني ترجع في كلامك أو تلغي حاجة عملتها، أو تفك حاجة مربوطة زي زرار القميص أو عقدة.",
+  "examples": [
+   "You can press the button to undo the last change.",
+   "It is difficult to undo the damage caused by the storm.",
+   "I can't undo this knot."
+  ],
+  "translations": {
+   "arabic_ar": "يلغي يبطل يفك يتراجع عن"
+  },
+  "synonyms": [
+   "reverse",
+   "cancel",
+   "unfasten",
+   "untie"
+  ],
+  "antonyms": [
+   "do",
+   "fasten",
+   "tie"
+  ],
+  "collocations": [
+   "undo a button",
+   "undo the damage",
+   "undo changes"
+  ],
+  "mnemonic_ar": "عكس 'Do' 'يفعل'.. لما تعمل حاجة وعايز ترجع فيها بتعمل 'Undo'."
+ }
+}

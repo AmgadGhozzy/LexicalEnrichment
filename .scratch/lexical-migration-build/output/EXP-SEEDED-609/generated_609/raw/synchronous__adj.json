@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "synchronous",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "synchronous",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Happening at the same time or rate.",
+  "explanation_ar": "متزامن، يعني بيحصل في نفس الوقت وبنفس السرعة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "adj",
+    "definition_en": "Happening at the same time or rate.",
+    "explanation_ar": "متزامن، يعني بيحصل في نفس الوقت وبنفس السرعة.",
+    "translations": [
+     "متزامن"
+    ],
+    "examples": [
+     "The sound and video must be synchronous.",
+     "The two satellites maintain a synchronous orbit.",
+     "Synchronous communication requires all participants to interact in real time."
+    ]
+   }
+  ],
+  "examples": [
+   "The sound and video must be synchronous.",
+   "The two satellites maintain a synchronous orbit.",
+   "Synchronous communication requires all participants to interact in real time."
+  ],
+  "translations": [
+   "متزامن"
+  ],
+  "relations": {
+   "synonyms": [
+    "simultaneous",
+    "concurrent",
+    "synchronized"
+   ],
+   "antonyms": [
+    "asynchronous"
+   ],
+   "collocations": [
+    "synchronous orbit",
+    "synchronous motor",
+    "synchronous speed",
+    "synchronous learning"
+   ]
+  },
+  "mnemonic": "'Syn' يعني مع بعض، و 'Chrono' يعني زمن.. يبقى 'Synchronous' يعني في نفس الزمن.",
+  "phonetic_us": "ˈsɪŋkrənəs",
+  "phonetic_uk": "ˈsɪŋkrənəs",
+  "syllables": "syn•chro•nous",
+  "semantic_tags": [
+   "#Time",
+   "#Tech",
+   "#Physics",
+   "#Simultaneous"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Happening at the same time or rate.",
+  "explanation_ar": "متزامن، يعني بيحصل في نفس الوقت وبنفس السرعة.",
+  "examples": [
+   "The sound and video must be synchronous.",
+   "The two satellites maintain a synchronous orbit.",
+   "Synchronous communication requires all participants to interact in real time."
+  ],
+  "translations": {
+   "arabic_ar": "متزامن"
+  },
+  "synonyms": [
+   "simultaneous",
+   "concurrent",
+   "synchronized"
+  ],
+  "antonyms": [
+   "asynchronous"
+  ],
+  "collocations": [
+   "synchronous orbit",
+   "synchronous motor",
+   "synchronous speed",
+   "synchronous learning"
+  ],
+  "mnemonic_ar": "'Syn' يعني مع بعض، و 'Chrono' يعني زمن.. يبقى 'Synchronous' يعني في نفس الزمن."
+ }
+}

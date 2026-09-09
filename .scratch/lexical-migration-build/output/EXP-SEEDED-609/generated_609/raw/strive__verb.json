@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "strive",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "strive",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Make great efforts to achieve or obtain something.",
+  "explanation_ar": "تبذل مجهود كبير جداً وتسعى بكل قوتك عشان تحقق هدف.",
+  "senses": [
+   {
+    "definition_en": "Make great efforts to achieve or obtain something.",
+    "definition_ar": "يبذل جهداً كبيراً ويسعى بجد لتحقيق هدف أو غاية.",
+    "examples": [
+     "We must continually strive for perfection.",
+     "Companies strive to attract the best employees.",
+     "They strive to improve the quality of life."
+    ]
+   }
+  ],
+  "examples": [
+   "We must continually strive for perfection.",
+   "Companies strive to attract the best employees.",
+   "They strive to improve the quality of life."
+  ],
+  "translations": [
+   "يجتهد",
+   "يسعى",
+   "يكافح"
+  ],
+  "relations": {
+   "synonyms": [
+    "endeavor",
+    "struggle",
+    "attempt",
+    "try"
+   ],
+   "antonyms": [
+    "give up",
+    "surrender"
+   ],
+   "collocations": [
+    "strive for perfection",
+    "strive to improve",
+    "strive hard",
+    "strive against"
+   ]
+  },
+  "mnemonic": "كلمة 'Strive' قريبة من 'Strife' 'كفاح/صراع'.. إنت بتكافح عشان توصل.",
+  "phonetic_us": "/straɪv/",
+  "phonetic_uk": "/straɪv/",
+  "syllables": [
+   "strive"
+  ],
+  "semantic_tags": [
+   "#Effort",
+   "#Goals",
+   "#Ambition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Make great efforts to achieve or obtain something.",
+  "explanation_ar": "تبذل مجهود كبير جداً وتسعى بكل قوتك عشان تحقق هدف.",
+  "examples": [
+   "We must continually strive for perfection.",
+   "Companies strive to attract the best employees.",
+   "They strive to improve the quality of life."
+  ],
+  "translations": {
+   "arabic_ar": "يجتهد يسعى يكافح"
+  },
+  "synonyms": [
+   "endeavor",
+   "struggle",
+   "attempt",
+   "try"
+  ],
+  "antonyms": [
+   "give up",
+   "surrender"
+  ],
+  "collocations": [
+   "strive for perfection",
+   "strive to improve",
+   "strive hard",
+   "strive against"
+  ],
+  "mnemonic_ar": "كلمة 'Strive' قريبة من 'Strife' 'كفاح/صراع'.. إنت بتكافح عشان توصل."
+ }
+}

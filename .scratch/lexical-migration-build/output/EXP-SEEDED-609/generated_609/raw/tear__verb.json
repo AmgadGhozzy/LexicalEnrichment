@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "tear",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "tear",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To pull something apart or into pieces with force.",
+  "explanation_ar": "يقطع أو يمزق حاجة 'زي الورق أو القماش' بعنف.",
+  "senses": [
+   {
+    "definition_en": "To pull something apart or into pieces with force.",
+    "explanation_ar": "يقطع أو يمزق شيئًا بالقوة أو العنف",
+    "pos": "verb",
+    "cefr": "B2",
+    "examples": [
+     "Don't tear the paper.",
+     "The wind threatened to tear the roof off.",
+     "Be careful not to tear the delicate fabric."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't tear the paper.",
+   "The wind threatened to tear the roof off.",
+   "Be careful not to tear the delicate fabric."
+  ],
+  "translations": [
+   "يمزق",
+   "يقطع"
+  ],
+  "relations": {
+   "synonyms": [
+    "rip",
+    "shred",
+    "split",
+    "rupture"
+   ],
+   "antonyms": [
+    "mend",
+    "repair",
+    "sew"
+   ],
+   "collocations": [
+    "tear apart",
+    "tear up",
+    "tear down",
+    "wear and tear",
+    "tear open"
+   ]
+  },
+  "mnemonic": "الـ 'Tear' 'يمزق' بيخلي الحاجة تطير في الهواء 'Air'.. النطق نفس القافية: 'Tear' rhymes with 'Air'.",
+  "phonetic_us": "tɛr",
+  "phonetic_uk": "teə",
+  "syllables": [
+   "tear"
+  ],
+  "semantic_tags": [
+   "#Damage",
+   "#Paper",
+   "#Force"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To pull something apart or into pieces with force.",
+  "explanation_ar": "يقطع أو يمزق حاجة 'زي الورق أو القماش' بعنف.",
+  "examples": [
+   "Don't tear the paper.",
+   "The wind threatened to tear the roof off.",
+   "Be careful not to tear the delicate fabric."
+  ],
+  "translations": {
+   "arabic_ar": "يمزق يقطع"
+  },
+  "synonyms": [
+   "rip",
+   "shred",
+   "split",
+   "rupture"
+  ],
+  "antonyms": [
+   "mend",
+   "repair",
+   "sew"
+  ],
+  "collocations": [
+   "tear apart",
+   "tear up",
+   "tear down",
+   "wear and tear",
+   "tear open"
+  ],
+  "mnemonic_ar": "الـ 'Tear' 'يمزق' بيخلي الحاجة تطير في الهواء 'Air'.. النطق نفس القافية: 'Tear' rhymes with 'Air'."
+ }
+}

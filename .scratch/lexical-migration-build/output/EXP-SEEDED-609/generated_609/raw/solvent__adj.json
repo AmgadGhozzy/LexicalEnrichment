@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "solvent",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "solvent",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Having assets in excess of liabilities; able to pay all one's debts. In chemistry, also describes a substance able to dissolve other substances.",
+  "explanation_ar": "يصف الشخص أو الشركة القادرة على سداد ديونها والتزاماتها المالية (موسر). وفي الكيمياء، يصف ما له القدرة على إذابة مواد أخرى.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Having enough money to pay all debts; financially sound.",
+    "definition_ar": "موسر، قادر على سداد الديون والالتزامات المالية.",
+    "pos": "adj"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Able to dissolve other substances.",
+    "definition_ar": "مُذيب، قادر على إذابة مواد أخرى.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The company remained solvent despite the crisis.",
+   "Banks must ensure they remain solvent to protect depositors.",
+   "He struggled to stay solvent after losing his main contract."
+  ],
+  "translations": [
+   "موسر",
+   "قادر على السداد",
+   "مُذيب"
+  ],
+  "relations": {
+   "synonyms": [
+    "financially sound",
+    "creditworthy",
+    "solid"
+   ],
+   "antonyms": [
+    "insolvent",
+    "bankrupt"
+   ],
+   "collocations": [
+    "remained solvent",
+    "stay solvent",
+    "financially solvent"
+   ]
+  },
+  "mnemonic": "جاية من 'Solve'. لو إنت 'Solvent' مادياً، تقدر تحل 'Solve' مشاكل ديونك.",
+  "phonetic_us": "ˈsɑːlvənt",
+  "phonetic_uk": "ˈsɒlvənt",
+  "syllables": "sol•vent",
+  "semantic_tags": [
+   "#Money",
+   "#Business",
+   "#Chemistry"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Having assets in excess of liabilities; able to pay all one's debts. In chemistry, also describes a substance able to dissolve other substances.",
+  "explanation_ar": "يصف الشخص أو الشركة القادرة على سداد ديونها والتزاماتها المالية (موسر). وفي الكيمياء، يصف ما له القدرة على إذابة مواد أخرى.",
+  "examples": [
+   "The company remained solvent despite the crisis.",
+   "Banks must ensure they remain solvent to protect depositors.",
+   "He struggled to stay solvent after losing his main contract."
+  ],
+  "translations": {
+   "arabic_ar": "موسر قادر على السداد مُذيب"
+  },
+  "synonyms": [
+   "financially sound",
+   "creditworthy",
+   "solid"
+  ],
+  "antonyms": [
+   "insolvent",
+   "bankrupt"
+  ],
+  "collocations": [
+   "remained solvent",
+   "stay solvent",
+   "financially solvent"
+  ],
+  "mnemonic_ar": "جاية من 'Solve'. لو إنت 'Solvent' مادياً، تقدر تحل 'Solve' مشاكل ديونك."
+ }
+}

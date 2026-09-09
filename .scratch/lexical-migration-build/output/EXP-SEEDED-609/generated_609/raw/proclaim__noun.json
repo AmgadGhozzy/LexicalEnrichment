@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "proclaim",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "proclaim",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An official public announcement or declaration; a proclamation.",
+  "explanation_ar": "إعلان رسمي أو بيان عام يُوجَّه إلى الناس والجمهور.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "An official public announcement or declaration; a proclamation.",
+    "definition_ar": "إعلان رسمي أو بيان عام يُوجَّه إلى الناس والجمهور.",
+    "examples": [
+     "The king issued a royal proclaim granting amnesty to the prisoners.",
+     "The council read a public proclaim before the citizens gathered in the square.",
+     "The governor signed a formal proclaim to establish the annual holiday."
+    ]
+   }
+  ],
+  "examples": [
+   "The king issued a royal proclaim granting amnesty to the prisoners.",
+   "The council read a public proclaim before the citizens gathered in the square.",
+   "The governor signed a formal proclaim to establish the annual holiday."
+  ],
+  "translations": [
+   "إعلان",
+   "بيان رسمي",
+   "مرسوم"
+  ],
+  "relations": {
+   "synonyms": [
+    "proclamation",
+    "declaration",
+    "announcement",
+    "decree"
+   ],
+   "antonyms": [
+    "concealment",
+    "secrecy",
+    "suppression"
+   ],
+   "collocations": [
+    "royal proclaim",
+    "public proclaim",
+    "formal proclaim"
+   ]
+  },
+  "mnemonic": "الـ 'Pro' 'الشخص المحترف' بيعمل 'Claim' 'ادعاء' بصوت عالي.. ده 'Proclaim' 'إعلان'.",
+  "phonetic_us": "proʊˈkleɪm",
+  "phonetic_uk": "prəˈkleɪm",
+  "syllables": "pro•claim",
+  "semantic_tags": [
+   "#Announce",
+   "#Public",
+   "#Speech"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An official public announcement or declaration; a proclamation.",
+  "explanation_ar": "إعلان رسمي أو بيان عام يُوجَّه إلى الناس والجمهور.",
+  "examples": [
+   "The king issued a royal proclaim granting amnesty to the prisoners.",
+   "The council read a public proclaim before the citizens gathered in the square.",
+   "The governor signed a formal proclaim to establish the annual holiday."
+  ],
+  "translations": {
+   "arabic_ar": "إعلان بيان رسمي مرسوم"
+  },
+  "synonyms": [
+   "proclamation",
+   "declaration",
+   "announcement",
+   "decree"
+  ],
+  "antonyms": [
+   "concealment",
+   "secrecy",
+   "suppression"
+  ],
+  "collocations": [
+   "royal proclaim",
+   "public proclaim",
+   "formal proclaim"
+  ],
+  "mnemonic_ar": "الـ 'Pro' 'الشخص المحترف' بيعمل 'Claim' 'ادعاء' بصوت عالي.. ده 'Proclaim' 'إعلان'."
+ }
+}

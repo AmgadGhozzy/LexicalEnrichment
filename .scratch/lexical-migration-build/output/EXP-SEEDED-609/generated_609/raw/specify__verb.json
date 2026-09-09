@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "specify",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "specify",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To explain or describe something clearly and exactly.",
+  "explanation_ar": "تحدد حاجة بدقة ووضوح، وتقول تفاصيلها بالظبط.",
+  "senses": [
+   {
+    "definition_en": "To explain or describe something clearly and exactly.",
+    "definition_ar": "أن تحدد أو توضح شيئاً بدقة وتفصيل.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "Can you specify the cause of the problem?",
+   "The regulations specify that safety gear must be worn.",
+   "Please specify which color you would like to order."
+  ],
+  "translations": [
+   "يحدد",
+   "يعين"
+  ],
+  "relations": {
+   "synonyms": [
+    "state",
+    "define",
+    "identify",
+    "detail"
+   ],
+   "antonyms": [
+    "generalize"
+   ],
+   "collocations": [
+    "specify details",
+    "clearly specify",
+    "specify requirements",
+    "fail to specify"
+   ]
+  },
+  "mnemonic": "جاية من 'Specific' 'محدد'.. الفعل 'Specify' يعني يحدد.",
+  "phonetic_us": "ˈspɛsəˌfaɪ",
+  "phonetic_uk": "ˈspɛsɪfaɪ",
+  "syllables": "spec•i•fy",
+  "semantic_tags": [
+   "#Detail",
+   "#Plan",
+   "#Exact"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To explain or describe something clearly and exactly.",
+  "explanation_ar": "تحدد حاجة بدقة ووضوح، وتقول تفاصيلها بالظبط.",
+  "examples": [
+   "Can you specify the cause of the problem?",
+   "The regulations specify that safety gear must be worn.",
+   "Please specify which color you would like to order."
+  ],
+  "translations": {
+   "arabic_ar": "يحدد يعين"
+  },
+  "synonyms": [
+   "state",
+   "define",
+   "identify",
+   "detail"
+  ],
+  "antonyms": [
+   "generalize"
+  ],
+  "collocations": [
+   "specify details",
+   "clearly specify",
+   "specify requirements",
+   "fail to specify"
+  ],
+  "mnemonic_ar": "جاية من 'Specific' 'محدد'.. الفعل 'Specify' يعني يحدد."
+ }
+}

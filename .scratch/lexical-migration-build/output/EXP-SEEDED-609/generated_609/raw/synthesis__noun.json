@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "synthesis",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "synthesis",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The combination of separate ideas, beliefs, or styles to form a complex whole, or the production of chemical compounds from simpler materials.",
+  "explanation_ar": "التركيب أو الدمج: أن تجمع أفكاراً أو عناصر مختلفة لإنشاء نظرية أو كلٍّ متكامل، أو تخليق وتركيب مواد كيميائية وحيوية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The combination of separate ideas, beliefs, or elements to form a coherent whole or theory.",
+    "definition_ar": "الجمع والدمج بين أفكار أو عناصر منفصلة لتكوين كلٍّ متكامل أو نظرية.",
+    "examples": [
+     "His philosophy is a synthesis of Eastern and Western thought.",
+     "The report is a synthesis of all our ideas."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The production of chemical compounds by combining simpler elements, or a biological process that produces complex substances.",
+    "definition_ar": "إنتاج مركبات كيميائية أو حيوية عبر تفاعل أو اتحاد عناصر ومواد أبسط.",
+    "examples": [
+     "Protein synthesis is vital for the body."
+    ]
+   }
+  ],
+  "examples": [
+   "His philosophy is a synthesis of Eastern and Western thought.",
+   "The report is a synthesis of all our ideas.",
+   "Protein synthesis is vital for the body."
+  ],
+  "translations": [
+   "تَرْكِيب",
+   "دَمْج",
+   "تَوْلِيف",
+   "تَخْلِيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "combination",
+    "blend",
+    "fusion",
+    "union",
+    "amalgamation"
+   ],
+   "antonyms": [
+    "analysis",
+    "separation"
+   ],
+   "collocations": [
+    "chemical synthesis",
+    "protein synthesis",
+    "synthesis of ideas",
+    "speech synthesis"
+   ]
+  },
+  "mnemonic": "كلمة 'Synthetic' 'صناعي/مركب'.. الـ 'Synthesis' هو عملية الـ 'تركيب' دي",
+  "phonetic_us": "ˈsɪnθəsɪs",
+  "phonetic_uk": "ˈsɪnθəsɪs",
+  "syllables": "syn•the•sis",
+  "semantic_tags": [
+   "#Science",
+   "#Logic",
+   "#Chemistry"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The combination of separate ideas, beliefs, or styles to form a complex whole, or the production of chemical compounds from simpler materials.",
+  "explanation_ar": "التركيب أو الدمج: أن تجمع أفكاراً أو عناصر مختلفة لإنشاء نظرية أو كلٍّ متكامل، أو تخليق وتركيب مواد كيميائية وحيوية.",
+  "examples": [
+   "His philosophy is a synthesis of Eastern and Western thought.",
+   "The report is a synthesis of all our ideas.",
+   "Protein synthesis is vital for the body."
+  ],
+  "translations": {
+   "arabic_ar": "تَرْكِيب دَمْج تَوْلِيف تَخْلِيق"
+  },
+  "synonyms": [
+   "combination",
+   "blend",
+   "fusion",
+   "union",
+   "amalgamation"
+  ],
+  "antonyms": [
+   "analysis",
+   "separation"
+  ],
+  "collocations": [
+   "chemical synthesis",
+   "protein synthesis",
+   "synthesis of ideas",
+   "speech synthesis"
+  ],
+  "mnemonic_ar": "كلمة 'Synthetic' 'صناعي/مركب'.. الـ 'Synthesis' هو عملية الـ 'تركيب' دي"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "underdeveloped",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "underdeveloped",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Not fully grown or industrialized.",
+  "explanation_ar": "غير متطور كفاية، سواء بلد 'نامية' أو عضلة أو فكرة لسه ما كملتش.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Having relatively low economic, industrial, or technological development.",
+    "definition_ar": "غير متطور أو نامٍ اقتصاديًا وصناعيًا.",
+    "examples": [
+     "Aid was sent to underdeveloped countries to help rebuild infrastructure."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Not normally or fully grown, formed, or developed.",
+    "definition_ar": "غير مكتمل النمو جسديًا أو فكريًا.",
+    "examples": [
+     "Chronic malnutrition led to an underdeveloped immune system.",
+     "The main plot of the movie felt underdeveloped and rushed."
+    ]
+   }
+  ],
+  "examples": [
+   "Aid was sent to underdeveloped countries to help rebuild infrastructure.",
+   "Chronic malnutrition led to an underdeveloped immune system.",
+   "The main plot of the movie felt underdeveloped and rushed."
+  ],
+  "translations": [
+   "غير متطور",
+   "نامٍ",
+   "غير مكتمل النمو"
+  ],
+  "relations": {
+   "synonyms": [
+    "immature",
+    "stunted",
+    "backward"
+   ],
+   "antonyms": [
+    "developed",
+    "advanced"
+   ],
+   "collocations": [
+    "underdeveloped country",
+    "underdeveloped area",
+    "underdeveloped muscles",
+    "economically underdeveloped"
+   ]
+  },
+  "mnemonic": "'Under' 'تحت' + 'Developed' 'متطور'.. يعني لسه تحت مستوى التطور المطلوب.",
+  "phonetic_us": "ˌʌndərdɪˈvɛləpt",
+  "phonetic_uk": "ʌndədɪˈveləpt",
+  "syllables": "un•der•de•vel•oped",
+  "semantic_tags": [
+   "Growth",
+   "Economy",
+   "Health",
+   "State"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Not fully grown or industrialized.",
+  "explanation_ar": "غير متطور كفاية، سواء بلد 'نامية' أو عضلة أو فكرة لسه ما كملتش.",
+  "examples": [
+   "Aid was sent to underdeveloped countries to help rebuild infrastructure.",
+   "Chronic malnutrition led to an underdeveloped immune system.",
+   "The main plot of the movie felt underdeveloped and rushed."
+  ],
+  "translations": {
+   "arabic_ar": "غير متطور نامٍ غير مكتمل النمو"
+  },
+  "synonyms": [
+   "immature",
+   "stunted",
+   "backward"
+  ],
+  "antonyms": [
+   "developed",
+   "advanced"
+  ],
+  "collocations": [
+   "underdeveloped country",
+   "underdeveloped area",
+   "underdeveloped muscles",
+   "economically underdeveloped"
+  ],
+  "mnemonic_ar": "'Under' 'تحت' + 'Developed' 'متطور'.. يعني لسه تحت مستوى التطور المطلوب."
+ }
+}

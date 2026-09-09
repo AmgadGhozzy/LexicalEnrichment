@@ -1,0 +1,107 @@
+{
+ "identity": {
+  "lemma": "speed",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "speed",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To move quickly; to make something happen faster.",
+  "explanation_ar": "يسرع أو يتحرك بسرعة، أو يخلي حاجة تحصل أسرع.",
+  "senses": [
+   {
+    "pos": "verb",
+    "definition_en": "To move very quickly, especially to drive faster than the legal speed limit.",
+    "explanation_ar": "يتحرك بسرعة كبيرة، أو يقود أسرع من السرعة القانونية المسموح بها.",
+    "translations": [
+     "يسرع",
+     "يقود بسرعة زائدة"
+    ],
+    "examples": [
+     "Don't speed in the city.",
+     "Cars speed on this road."
+    ]
+   },
+   {
+    "pos": "verb",
+    "definition_en": "To cause something to move or happen more quickly (usually with 'up').",
+    "explanation_ar": "يجعل شيئًا يحدث أو يتحرك بشكل أسرع (غالبًا مع up).",
+    "translations": [
+     "يعجل",
+     "يسرع وتيرة"
+    ],
+    "examples": [
+     "We need to speed up the process."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't speed in the city.",
+   "Cars speed on this road.",
+   "We need to speed up the process."
+  ],
+  "translations": [
+   "يسرع",
+   "يقود بسرعة زائدة"
+  ],
+  "relations": {
+   "synonyms": [
+    "accelerate",
+    "hurry",
+    "race",
+    "rush"
+   ],
+   "antonyms": [
+    "decelerate",
+    "slow down"
+   ],
+   "collocations": [
+    "speed away",
+    "speed off",
+    "speed up"
+   ]
+  },
+  "mnemonic": "نفس الاسم 'Speed' 'سرعة'، بس هنا الفعل.",
+  "phonetic_us": "spiːd",
+  "phonetic_uk": "spiːd",
+  "syllables": [
+   "speed"
+  ],
+  "semantic_tags": [
+   "accelerate",
+   "drive",
+   "move"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move quickly; to make something happen faster.",
+  "explanation_ar": "يسرع أو يتحرك بسرعة، أو يخلي حاجة تحصل أسرع.",
+  "examples": [
+   "Don't speed in the city.",
+   "Cars speed on this road.",
+   "We need to speed up the process."
+  ],
+  "translations": {
+   "arabic_ar": "يسرع يقود بسرعة زائدة"
+  },
+  "synonyms": [
+   "accelerate",
+   "hurry",
+   "race",
+   "rush"
+  ],
+  "antonyms": [
+   "decelerate",
+   "slow down"
+  ],
+  "collocations": [
+   "speed away",
+   "speed off",
+   "speed up"
+  ],
+  "mnemonic_ar": "نفس الاسم 'Speed' 'سرعة'، بس هنا الفعل."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "trench",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "trench",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A long, narrow ditch dug into the ground, used especially in warfare for shelter or in construction for laying pipes.",
+  "explanation_ar": "خندق؛ حفرة طويلة وضيقة تُحفر في الأرض، تُستخدم عادةً في أعمال البناء وتمديد الأنابيب أو لحماية الجنود أثناء الحروب.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A long, narrow ditch dug into the ground, especially used by soldiers for defense or by workers for laying pipes.",
+    "definition_ar": "خندق؛ حفرة طويلة وضيقة في الأرض لأغراض دفاعية عسكرية أو لأعمال البناء.",
+    "examples": [
+     "Soldiers hid in the trench to protect themselves from gunfire.",
+     "Workers dug a trench for the new pipes."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A very deep, elongated depression on the ocean floor.",
+    "definition_ar": "أخدود بحري عميق في قاع المحيط.",
+    "examples": [
+     "The ocean trench is thousands of meters deep."
+    ]
+   }
+  ],
+  "examples": [
+   "Soldiers hid in the trench to protect themselves from gunfire.",
+   "Workers dug a trench for the new pipes.",
+   "The ocean trench is thousands of meters deep."
+  ],
+  "translations": [
+   "خندق",
+   "أخدود بحري"
+  ],
+  "relations": {
+   "synonyms": [
+    "ditch",
+    "channel",
+    "trough"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "dig a trench",
+    "trench warfare",
+    "trench coat",
+    "ocean trench"
+   ]
+  },
+  "mnemonic": "اربطها بالقافية مع drench (يبلل): الخندق (trench) غالباً ما يمتلئ بالماء والوحل وقت المطر فيتبلل الجنود.",
+  "phonetic_us": "/trentʃ/",
+  "phonetic_uk": "/trentʃ/",
+  "syllables": "trench",
+  "semantic_tags": [
+   "warfare",
+   "construction",
+   "geography"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A long, narrow ditch dug into the ground, used especially in warfare for shelter or in construction for laying pipes.",
+  "explanation_ar": "خندق؛ حفرة طويلة وضيقة تُحفر في الأرض، تُستخدم عادةً في أعمال البناء وتمديد الأنابيب أو لحماية الجنود أثناء الحروب.",
+  "examples": [
+   "Soldiers hid in the trench to protect themselves from gunfire.",
+   "Workers dug a trench for the new pipes.",
+   "The ocean trench is thousands of meters deep."
+  ],
+  "translations": {
+   "arabic_ar": "خندق أخدود بحري"
+  },
+  "synonyms": [
+   "ditch",
+   "channel",
+   "trough"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "dig a trench",
+   "trench warfare",
+   "trench coat",
+   "ocean trench"
+  ],
+  "mnemonic_ar": "اربطها بالقافية مع drench (يبلل): الخندق (trench) غالباً ما يمتلئ بالماء والوحل وقت المطر فيتبلل الجنود."
+ }
+}

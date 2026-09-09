@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "yacht",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "yacht",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A large boat with sails or a motor, used for racing or pleasure trips.",
+  "explanation_ar": "مركب كبير وفخم بيستخدم للفسح في البحر أو السباقات، وغالباً بيكون للأغنياء.",
+  "senses": [
+   {
+    "sense_id": "yacht-noun-1",
+    "pos": "noun",
+    "definition_en": "A large boat with sails or a motor, used for racing or pleasure trips.",
+    "definition_ar": "مركب كبير ومجهز يُستخدم في النزهات الترفيهية أو السباقات البحرية.",
+    "examples": [
+     "They went sailing on a yacht.",
+     "He bought a luxury yacht for his holiday.",
+     "They chartered a private yacht to cruise the Mediterranean."
+    ]
+   }
+  ],
+  "examples": [
+   "They went sailing on a yacht.",
+   "He bought a luxury yacht for his holiday.",
+   "They chartered a private yacht to cruise the Mediterranean."
+  ],
+  "translations": [
+   "يخت"
+  ],
+  "relations": {
+   "synonyms": [
+    "cruiser",
+    "pleasure boat"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "luxury yacht",
+    "yacht club",
+    "sailing yacht",
+    "super yacht"
+   ]
+  },
+  "mnemonic": "كلمة 'Yacht' قريبة من 'Hot'.. الجو 'Hot' وعايزين نركب الـ 'Yacht'.",
+  "phonetic_us": "jɑːt",
+  "phonetic_uk": "jɒt",
+  "syllables": "yacht",
+  "semantic_tags": [
+   "#Boat",
+   "#Luxury",
+   "#Sea",
+   "#Travel"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A large boat with sails or a motor, used for racing or pleasure trips.",
+  "explanation_ar": "مركب كبير وفخم بيستخدم للفسح في البحر أو السباقات، وغالباً بيكون للأغنياء.",
+  "examples": [
+   "They went sailing on a yacht.",
+   "He bought a luxury yacht for his holiday.",
+   "They chartered a private yacht to cruise the Mediterranean."
+  ],
+  "translations": {
+   "arabic_ar": "يخت"
+  },
+  "synonyms": [
+   "cruiser",
+   "pleasure boat"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "luxury yacht",
+   "yacht club",
+   "sailing yacht",
+   "super yacht"
+  ],
+  "mnemonic_ar": "كلمة 'Yacht' قريبة من 'Hot'.. الجو 'Hot' وعايزين نركب الـ 'Yacht'."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "superimpose",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "superimpose",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To place or lay one thing over another, typically so that both are still evident.",
+  "explanation_ar": "تحط حاجة فوق حاجة تانية بحيث الاتنين يبقوا باينين، زي لما تحط لوجو على صورة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To place or lay one thing over another, typically so that both are still evident.",
+    "definition_ar": "وضع شيء أو صورة فوق شيء آخر بحيث يظل كلاهما واضحين.",
+    "examples": [
+     "The software allows you to superimpose multiple layers of data for analysis.",
+     "The artist tried to superimpose a drawing onto the photo."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To force or apply an idea, model, or value onto an existing situation or culture.",
+    "definition_ar": "فرض أو إسقاط أفكار أو قيم على واقع أو ثقافة قائمة.",
+    "examples": [
+     "He attempted to superimpose his own values onto the local culture."
+    ]
+   }
+  ],
+  "examples": [
+   "The software allows you to superimpose multiple layers of data for analysis.",
+   "The artist tried to superimpose a drawing onto the photo.",
+   "He attempted to superimpose his own values onto the local culture."
+  ],
+  "translations": [
+   "وضع فوق",
+   "ركّب فوق",
+   "طابق"
+  ],
+  "relations": {
+   "synonyms": [
+    "overlay",
+    "overlap",
+    "layer"
+   ],
+   "antonyms": [
+    "remove",
+    "separate"
+   ],
+   "collocations": [
+    "superimpose an image",
+    "superimpose text",
+    "superimpose on",
+    "superimpose over"
+   ]
+  },
+  "mnemonic": "متقسمة كلمتين: 'Super' 'فوق' و 'Impose' 'يفرض/يضع'.. يعني بتضع حاجة فوق حاجة.",
+  "phonetic_us": "ˌsuːpərɪmˈpoʊz",
+  "phonetic_uk": "ˌsuːpərɪmˈpəʊz",
+  "syllables": "su•per•im•pose",
+  "semantic_tags": [
+   "Graphics",
+   "Layers",
+   "Position"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To place or lay one thing over another, typically so that both are still evident.",
+  "explanation_ar": "تحط حاجة فوق حاجة تانية بحيث الاتنين يبقوا باينين، زي لما تحط لوجو على صورة.",
+  "examples": [
+   "The software allows you to superimpose multiple layers of data for analysis.",
+   "The artist tried to superimpose a drawing onto the photo.",
+   "He attempted to superimpose his own values onto the local culture."
+  ],
+  "translations": {
+   "arabic_ar": "وضع فوق ركّب فوق طابق"
+  },
+  "synonyms": [
+   "overlay",
+   "overlap",
+   "layer"
+  ],
+  "antonyms": [
+   "remove",
+   "separate"
+  ],
+  "collocations": [
+   "superimpose an image",
+   "superimpose text",
+   "superimpose on",
+   "superimpose over"
+  ],
+  "mnemonic_ar": "متقسمة كلمتين: 'Super' 'فوق' و 'Impose' 'يفرض/يضع'.. يعني بتضع حاجة فوق حاجة."
+ }
+}

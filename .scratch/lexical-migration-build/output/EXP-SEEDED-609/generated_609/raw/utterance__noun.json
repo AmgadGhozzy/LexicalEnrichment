@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "utterance",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "utterance",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A spoken word, statement, or vocal sound.",
+  "explanation_ar": "أي كلام بيتقال أو صوت بيطلع من الفم، سواء كان جملة مفيدة أو مجرد كلمة.",
+  "senses": [
+   {
+    "sense_id": "utterance_1",
+    "definition_en": "A spoken word, statement, or vocal sound.",
+    "explanation_ar": "أي كلام بيتقال أو صوت بيطلع من الفم، سواء كان جملة مفيدة أو مجرد كلمة.",
+    "examples": [
+     "Every utterance he made was recorded.",
+     "The politician weighed every public utterance carefully.",
+     "Linguists analyze the structure of every utterance in the dialect."
+    ]
+   }
+  ],
+  "examples": [
+   "Every utterance he made was recorded.",
+   "The politician weighed every public utterance carefully.",
+   "Linguists analyze the structure of every utterance in the dialect."
+  ],
+  "translations": [
+   "كلام",
+   "نطق",
+   "قول"
+  ],
+  "relations": {
+   "synonyms": [
+    "remark",
+    "statement",
+    "comment",
+    "word"
+   ],
+   "antonyms": [
+    "silence"
+   ],
+   "collocations": [
+    "public utterance",
+    "make an utterance",
+    "vocal utterance",
+    "prophetic utterance"
+   ],
+   "word_family": {
+    "verb": "utter",
+    "noun": "utterance",
+    "adjective": "utterable"
+   }
+  },
+  "mnemonic": "جاية من الفعل 'Utter' 'ينطق'.. الـ 'Utterance' هو النطق نفسه أو الكلام اللي خرج.",
+  "phonetic_us": "ˈʌtərəns",
+  "phonetic_uk": "ˈʌt.ər.əns",
+  "syllables": "ut•ter•ance",
+  "semantic_tags": [
+   "#Speech",
+   "#Language",
+   "#Voice",
+   "#Linguistics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A spoken word, statement, or vocal sound.",
+  "explanation_ar": "أي كلام بيتقال أو صوت بيطلع من الفم، سواء كان جملة مفيدة أو مجرد كلمة.",
+  "examples": [
+   "Every utterance he made was recorded.",
+   "The politician weighed every public utterance carefully.",
+   "Linguists analyze the structure of every utterance in the dialect."
+  ],
+  "translations": {
+   "arabic_ar": "كلام نطق قول"
+  },
+  "synonyms": [
+   "remark",
+   "statement",
+   "comment",
+   "word"
+  ],
+  "antonyms": [
+   "silence"
+  ],
+  "collocations": [
+   "public utterance",
+   "make an utterance",
+   "vocal utterance",
+   "prophetic utterance"
+  ],
+  "mnemonic_ar": "جاية من الفعل 'Utter' 'ينطق'.. الـ 'Utterance' هو النطق نفسه أو الكلام اللي خرج."
+ }
+}

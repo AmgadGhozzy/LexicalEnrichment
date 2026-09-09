@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "rage",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "rage",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Violent, uncontrollable anger.",
+  "explanation_ar": "الغضب الشديد جداً الذي يفقد فيه الشخص السيطرة على أعصابه وتصرفاته.",
+  "senses": [
+   {
+    "sense_id": "rage_noun_1",
+    "definition_en": "Violent, uncontrollable anger.",
+    "definition_ar": "غضب عارم وشديد للغاية لا يمكن كبحه.",
+    "pos": "noun",
+    "cefr": "C1"
+   }
+  ],
+  "examples": [
+   "Her face turned red with rage.",
+   "He flew into a rage when he saw the damage.",
+   "His speech was fueled by a righteous rage against injustice."
+  ],
+  "translations": [
+   "غَضَب شَدِيد",
+   "ثَوْرَة غَضَب"
+  ],
+  "relations": {
+   "synonyms": [
+    "fury",
+    "wrath",
+    "outrage"
+   ],
+   "antonyms": [
+    "calm",
+    "peace",
+    "serenity"
+   ],
+   "collocations": [
+    "road rage",
+    "fly into a rage",
+    "blind rage"
+   ]
+  },
+  "mnemonic": "قريبة في النطق من كلمة 'Red' (أحمر)؛ تذكر أن وجه الشخص في حالة 'rage' يصبح أحمر من شدة الغضب.",
+  "phonetic_us": "/reɪdʒ/",
+  "phonetic_uk": "/reɪdʒ/",
+  "syllables": [
+   "rage"
+  ],
+  "semantic_tags": [
+   "#Anger",
+   "#Emotion",
+   "#Conflict"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Violent, uncontrollable anger.",
+  "explanation_ar": "الغضب الشديد جداً الذي يفقد فيه الشخص السيطرة على أعصابه وتصرفاته.",
+  "examples": [
+   "Her face turned red with rage.",
+   "He flew into a rage when he saw the damage.",
+   "His speech was fueled by a righteous rage against injustice."
+  ],
+  "translations": {
+   "arabic_ar": "غَضَب شَدِيد ثَوْرَة غَضَب"
+  },
+  "synonyms": [
+   "fury",
+   "wrath",
+   "outrage"
+  ],
+  "antonyms": [
+   "calm",
+   "peace",
+   "serenity"
+  ],
+  "collocations": [
+   "road rage",
+   "fly into a rage",
+   "blind rage"
+  ],
+  "mnemonic_ar": "قريبة في النطق من كلمة 'Red' (أحمر)؛ تذكر أن وجه الشخص في حالة 'rage' يصبح أحمر من شدة الغضب."
+ }
+}

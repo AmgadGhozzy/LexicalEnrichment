@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "undertake",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "undertake",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To commit oneself to and begin a task; to take on a responsibility.",
+  "explanation_ar": "تتولى مسؤولية مهمة أو تبدأ في تنفيذ مشروع.",
+  "senses": [
+   {
+    "definition_en": "To commit oneself to and begin a task, project, or responsibility.",
+    "explanation_ar": "يتولى مهمة أو يبدأ في تنفيذ مشروع أو يتحمل مسؤولية.",
+    "examples": [
+     "Students undertake simple experiments in the science laboratory.",
+     "Only qualified engineers should undertake such complex construction projects."
+    ]
+   },
+   {
+    "definition_en": "To formally agree or promise to do something.",
+    "explanation_ar": "يتعهد أو يلتزم رسمياً بفعل شيء ما.",
+    "examples": [
+     "The university agreed to undertake a comprehensive review of its curriculum."
+    ]
+   }
+  ],
+  "examples": [
+   "Students undertake simple experiments in the science laboratory.",
+   "The university agreed to undertake a comprehensive review of its curriculum.",
+   "Only qualified engineers should undertake such complex construction projects."
+  ],
+  "translations": [
+   "يتولى",
+   "يتعهد",
+   "يقوم بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "take on",
+    "tackle",
+    "commence",
+    "assume"
+   ],
+   "antonyms": [
+    "abandon",
+    "neglect"
+   ],
+   "collocations": [
+    "undertake a task",
+    "undertake research",
+    "undertake responsibility",
+    "undertake a study"
+   ]
+  },
+  "mnemonic": "أنت بتـ 'Take' 'تأخذ' المسؤولية 'Under' 'تحت' سيطرتك.",
+  "phonetic_us": "ˌʌn.dɚˈteɪk",
+  "phonetic_uk": "ˌʌn.dəˈteɪk",
+  "syllables": "un•der•take",
+  "semantic_tags": [
+   "work",
+   "responsibility",
+   "promise",
+   "task"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To commit oneself to and begin a task; to take on a responsibility.",
+  "explanation_ar": "تتولى مسؤولية مهمة أو تبدأ في تنفيذ مشروع.",
+  "examples": [
+   "Students undertake simple experiments in the science laboratory.",
+   "The university agreed to undertake a comprehensive review of its curriculum.",
+   "Only qualified engineers should undertake such complex construction projects."
+  ],
+  "translations": {
+   "arabic_ar": "يتولى يتعهد يقوم بـ"
+  },
+  "synonyms": [
+   "take on",
+   "tackle",
+   "commence",
+   "assume"
+  ],
+  "antonyms": [
+   "abandon",
+   "neglect"
+  ],
+  "collocations": [
+   "undertake a task",
+   "undertake research",
+   "undertake responsibility",
+   "undertake a study"
+  ],
+  "mnemonic_ar": "أنت بتـ 'Take' 'تأخذ' المسؤولية 'Under' 'تحت' سيطرتك."
+ }
+}

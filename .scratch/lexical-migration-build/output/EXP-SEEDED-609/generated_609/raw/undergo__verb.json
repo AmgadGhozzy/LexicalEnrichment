@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "undergo",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "undergo",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To experience something, especially a change or something unpleasant.",
+  "explanation_ar": "لما تمر بتجربة صعبة أو عملية تغيير، زي عملية جراحية أو تدريب شاق.",
+  "senses": [
+   {
+    "sense_id": "undergo_1",
+    "definition_en": "To experience something, especially a change or something unpleasant.",
+    "definition_ar": "يخضع لـ أو يمر بـ (تجربة صعبة، فحص، أو تغيير)",
+    "examples": [
+     "She must undergo surgery.",
+     "Athletes undergo intensive training.",
+     "He will undergo tests."
+    ]
+   }
+  ],
+  "examples": [
+   "She must undergo surgery.",
+   "Athletes undergo intensive training.",
+   "He will undergo tests."
+  ],
+  "translations": [
+   "يخضع لـ",
+   "يمر بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "experience",
+    "endure",
+    "go through"
+   ],
+   "antonyms": [
+    "avoid"
+   ],
+   "collocations": [
+    "undergo surgery",
+    "undergo treatment",
+    "undergo changes"
+   ]
+  },
+  "mnemonic": "'Under' 'تحت' + 'Go' 'يذهب'.. كأنك دخلت تحت التجربة ولازم تعديها وتخرج منها.",
+  "phonetic_us": "ˌʌndərˈɡoʊ",
+  "phonetic_uk": "ˌʌndəˈɡəʊ",
+  "syllables": "un•der•go",
+  "semantic_tags": [
+   "Medical",
+   "Change",
+   "Experience"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To experience something, especially a change or something unpleasant.",
+  "explanation_ar": "لما تمر بتجربة صعبة أو عملية تغيير، زي عملية جراحية أو تدريب شاق.",
+  "examples": [
+   "She must undergo surgery.",
+   "Athletes undergo intensive training.",
+   "He will undergo tests."
+  ],
+  "translations": {
+   "arabic_ar": "يخضع لـ يمر بـ"
+  },
+  "synonyms": [
+   "experience",
+   "endure",
+   "go through"
+  ],
+  "antonyms": [
+   "avoid"
+  ],
+  "collocations": [
+   "undergo surgery",
+   "undergo treatment",
+   "undergo changes"
+  ],
+  "mnemonic_ar": "'Under' 'تحت' + 'Go' 'يذهب'.. كأنك دخلت تحت التجربة ولازم تعديها وتخرج منها."
+ }
+}

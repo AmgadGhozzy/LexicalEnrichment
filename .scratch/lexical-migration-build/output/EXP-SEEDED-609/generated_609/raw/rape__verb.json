@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "rape",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "rape",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To force someone to have sex against their will.",
+  "explanation_ar": "يغتصب؛ أي يعتدي على شخص جنسياً بالإكراه ودون موافقته.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To force someone to have sex against their will, especially using violence or threats.",
+    "definition_ar": "إجبار شخص على ممارسة الجنس رغماً عنه، خاصةً باستخدام العنف أو التهديد.",
+    "examples": [
+     "He was convicted of attempting to rape a student.",
+     "Under the law, it is a severe crime to rape someone.",
+     "The commander warned the soldiers not to rape or loot in captured territory."
+    ]
+   }
+  ],
+  "examples": [
+   "He was convicted of attempting to rape a student.",
+   "Under the law, it is a severe crime to rape someone.",
+   "The commander warned the soldiers not to rape or loot in captured territory."
+  ],
+  "translations": [
+   "يغتصب"
+  ],
+  "relations": {
+   "synonyms": [
+    "sexually assault",
+    "violate"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "attempt to rape",
+    "threaten to rape"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "reɪp",
+  "phonetic_uk": "reɪp",
+  "syllables": "rape",
+  "semantic_tags": [
+   "#Crime",
+   "#Violence",
+   "#Law"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To force someone to have sex against their will.",
+  "explanation_ar": "يغتصب؛ أي يعتدي على شخص جنسياً بالإكراه ودون موافقته.",
+  "examples": [
+   "He was convicted of attempting to rape a student.",
+   "Under the law, it is a severe crime to rape someone.",
+   "The commander warned the soldiers not to rape or loot in captured territory."
+  ],
+  "translations": {
+   "arabic_ar": "يغتصب"
+  },
+  "synonyms": [
+   "sexually assault",
+   "violate"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "attempt to rape",
+   "threaten to rape"
+  ],
+  "mnemonic_ar": null
+ }
+}

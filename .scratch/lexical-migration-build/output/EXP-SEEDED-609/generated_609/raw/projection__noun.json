@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "projection",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "projection",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An estimate or forecast of a future situation based on current trends, or the act of casting an image onto a surface.",
+  "explanation_ar": "تَقْدِير أو تَوَقُّع لموقف مستقبلي بناءً على المعطيات الحالية، أو عَرْض صورة على شاشة (إسقاط ضوئي).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An estimate or forecast of a future situation based on a study of present trends.",
+    "explanation_ar": "تقدير أو تنبؤ بموقف مستقبلي بناءً على دراسة الاتجاهات الحالية.",
+    "examples": [
+     "The company's financial projection indicates steady revenue growth over the next five years."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The act or process of projecting an image, video, or light onto a surface or screen.",
+    "explanation_ar": "عملية عرض صورة أو ضوء على سطح أو شاشة (إسقاط ضوئي).",
+    "examples": [
+     "The movie projection started late due to a technical glitch in the booth."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "In psychology, the unconscious defense mechanism of attributing one's own undesirable feelings or thoughts to someone else.",
+    "explanation_ar": "في علم النفس: حيلة دفاعية ينسب فيها الشخص مشاعره أو عيوبه غير المقبولة للآخرين (الإسقاط النفسي).",
+    "examples": [
+     "Psychological projection is a defense mechanism where people blame others for their own insecurities."
+    ]
+   }
+  ],
+  "examples": [
+   "The company's financial projection indicates steady revenue growth over the next five years.",
+   "The movie projection started late due to a technical glitch in the booth.",
+   "Psychological projection is a defense mechanism where people blame others for their own insecurities."
+  ],
+  "translations": [
+   "تَوَقُّع",
+   "تَقْدِير",
+   "إِسْقَاط"
+  ],
+  "relations": {
+   "synonyms": [
+    "forecast",
+    "prediction",
+    "estimate"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sales projection",
+    "growth projection",
+    "projection screen"
+   ]
+  },
+  "mnemonic": "جاية من 'Project' 'مشروع' أو 'يعرض'.. الـ 'Projection' هو عرض الصورة أو عرض توقعاتك للمستقبل.",
+  "phonetic_us": "/prəˈdʒekʃn/",
+  "phonetic_uk": "/prəˈdʒekʃn/",
+  "syllables": "pro•jec•tion",
+  "semantic_tags": [
+   "Forecast",
+   "Cinema",
+   "Psychology"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An estimate or forecast of a future situation based on current trends, or the act of casting an image onto a surface.",
+  "explanation_ar": "تَقْدِير أو تَوَقُّع لموقف مستقبلي بناءً على المعطيات الحالية، أو عَرْض صورة على شاشة (إسقاط ضوئي).",
+  "examples": [
+   "The company's financial projection indicates steady revenue growth over the next five years.",
+   "The movie projection started late due to a technical glitch in the booth.",
+   "Psychological projection is a defense mechanism where people blame others for their own insecurities."
+  ],
+  "translations": {
+   "arabic_ar": "تَوَقُّع تَقْدِير إِسْقَاط"
+  },
+  "synonyms": [
+   "forecast",
+   "prediction",
+   "estimate"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sales projection",
+   "growth projection",
+   "projection screen"
+  ],
+  "mnemonic_ar": "جاية من 'Project' 'مشروع' أو 'يعرض'.. الـ 'Projection' هو عرض الصورة أو عرض توقعاتك للمستقبل."
+ }
+}

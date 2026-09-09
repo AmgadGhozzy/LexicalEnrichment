@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "wolf",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "wolf",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A wild carnivorous mammal of the dog family, living and hunting in packs.",
+  "explanation_ar": "الذئب. حيوان مفترس بيعيش في مجموعات وبيشبه الكلب بس أكبر وأشرس.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A wild carnivorous mammal of the dog family, living and hunting in packs.",
+    "explanation_ar": "الذئب: حيوان مفترس من فصيلة الكلبيات، يعيش ويصطاد في مجموعات.",
+    "examples": [
+     "We heard a wolf howling at the moon.",
+     "He was as hungry as a wolf after the hike.",
+     "Reintroducing the grey wolf to the ecosystem has restored ecological balance."
+    ]
+   }
+  ],
+  "examples": [
+   "We heard a wolf howling at the moon.",
+   "He was as hungry as a wolf after the hike.",
+   "Reintroducing the grey wolf to the ecosystem has restored ecological balance."
+  ],
+  "translations": [
+   "ذئب"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "lone wolf",
+    "pack of wolves",
+    "cry wolf",
+    "wolf pack"
+   ]
+  },
+  "mnemonic": "الـ 'Wolf' 'الذئب' لابس 'Wool' 'صوف' خروف عشان يستخبى ويصطاد الفريسة",
+  "phonetic_us": "wʊlf",
+  "phonetic_uk": "wʊlf",
+  "syllables": [
+   "wolf"
+  ],
+  "semantic_tags": [
+   "#Animal",
+   "#Wild",
+   "#Predator",
+   "#Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A wild carnivorous mammal of the dog family, living and hunting in packs.",
+  "explanation_ar": "الذئب. حيوان مفترس بيعيش في مجموعات وبيشبه الكلب بس أكبر وأشرس.",
+  "examples": [
+   "We heard a wolf howling at the moon.",
+   "He was as hungry as a wolf after the hike.",
+   "Reintroducing the grey wolf to the ecosystem has restored ecological balance."
+  ],
+  "translations": {
+   "arabic_ar": "ذئب"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "lone wolf",
+   "pack of wolves",
+   "cry wolf",
+   "wolf pack"
+  ],
+  "mnemonic_ar": "الـ 'Wolf' 'الذئب' لابس 'Wool' 'صوف' خروف عشان يستخبى ويصطاد الفريسة"
+ }
+}

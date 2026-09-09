@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "spring",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "spring",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To move or jump suddenly upwards or forwards.",
+  "explanation_ar": "ينط أو يقفز فجأة وبسرعة، زي السوستة لما تفلت.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To move or jump suddenly upwards or forwards.",
+    "definition_ar": "يقفز أو يثب فجأة وبسرعة.",
+    "examples": [
+     "He can spring over the fence.",
+     "Cats spring on mice when hunting.",
+     "The guards will spring into action if anyone approaches."
+    ]
+   }
+  ],
+  "examples": [
+   "He can spring over the fence.",
+   "Cats spring on mice when hunting.",
+   "The guards will spring into action if anyone approaches."
+  ],
+  "translations": [
+   "يقفز",
+   "يثب"
+  ],
+  "relations": {
+   "synonyms": [
+    "jump",
+    "leap",
+    "bound",
+    "hop"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spring up",
+    "spring into action",
+    "spring to mind",
+    "spring back"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "sprɪŋ",
+  "phonetic_uk": "sprɪŋ",
+  "syllables": [
+   "spring"
+  ],
+  "semantic_tags": [
+   "#Jump",
+   "#Action",
+   "#Sudden",
+   "#Move"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To move or jump suddenly upwards or forwards.",
+  "explanation_ar": "ينط أو يقفز فجأة وبسرعة، زي السوستة لما تفلت.",
+  "examples": [
+   "He can spring over the fence.",
+   "Cats spring on mice when hunting.",
+   "The guards will spring into action if anyone approaches."
+  ],
+  "translations": {
+   "arabic_ar": "يقفز يثب"
+  },
+  "synonyms": [
+   "jump",
+   "leap",
+   "bound",
+   "hop"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spring up",
+   "spring into action",
+   "spring to mind",
+   "spring back"
+  ],
+  "mnemonic_ar": null
+ }
+}

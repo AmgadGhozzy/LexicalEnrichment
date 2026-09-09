@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "ulcer",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "ulcer",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An open sore on the body, especially in the stomach.",
+  "explanation_ar": "قرحة أو جرح مفتوح ومؤلم، غالباً بيجي في المعدة وبيوجع جداً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An open sore on the body, especially in the stomach.",
+    "definition_ar": "قرحة أو جرح مفتوح مؤلم في نسيج داخلي أو خارجي من الجسم.",
+    "examples": [
+     "Spicy food can irritate an ulcer.",
+     "The doctor said he has a stomach ulcer.",
+     "The chronic ulcer required surgical intervention to heal."
+    ]
+   }
+  ],
+  "examples": [
+   "Spicy food can irritate an ulcer.",
+   "The doctor said he has a stomach ulcer.",
+   "The chronic ulcer required surgical intervention to heal."
+  ],
+  "translations": [
+   "قرحة"
+  ],
+  "relations": {
+   "synonyms": [
+    "sore",
+    "lesion"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "stomach ulcer",
+    "mouth ulcer",
+    "peptic ulcer",
+    "ulcer treatment"
+   ],
+   "word_family": {
+    "noun": "ulceration",
+    "verb": "ulcerate",
+    "adjective": "ulcerous"
+   }
+  },
+  "mnemonic": "Remember 'ulcer' sounds like 'all sore', which perfectly describes a painful open wound or stomach sore.",
+  "phonetic_us": "ˈʌlsɚ",
+  "phonetic_uk": "ˈʌlsə",
+  "syllables": "ul•cer",
+  "semantic_tags": [
+   "#Health",
+   "#Medical",
+   "#Pain",
+   "#Body"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An open sore on the body, especially in the stomach.",
+  "explanation_ar": "قرحة أو جرح مفتوح ومؤلم، غالباً بيجي في المعدة وبيوجع جداً.",
+  "examples": [
+   "Spicy food can irritate an ulcer.",
+   "The doctor said he has a stomach ulcer.",
+   "The chronic ulcer required surgical intervention to heal."
+  ],
+  "translations": {
+   "arabic_ar": "قرحة"
+  },
+  "synonyms": [
+   "sore",
+   "lesion"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "stomach ulcer",
+   "mouth ulcer",
+   "peptic ulcer",
+   "ulcer treatment"
+  ],
+  "mnemonic_ar": "Remember 'ulcer' sounds like 'all sore', which perfectly describes a painful open wound or stomach sore."
+ }
+}

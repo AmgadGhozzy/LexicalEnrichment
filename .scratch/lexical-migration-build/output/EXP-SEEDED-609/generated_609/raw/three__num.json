@@ -1,0 +1,69 @@
+{
+ "identity": {
+  "lemma": "three",
+  "pos": "num",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "three",
+  "pos": "num",
+  "cefr": "A1",
+  "definition_en": "The number 3.",
+  "explanation_ar": "العدد أو الرقم ثلاثة (3).",
+  "senses": [
+   {
+    "definition_en": "The number 3, equal to 2 plus 1.",
+    "explanation_ar": "العدد أو الرقم ثلاثة (3).",
+    "pos": "num"
+   }
+  ],
+  "examples": [
+   "One, two, three, go!",
+   "She has three brothers.",
+   "The meeting lasts three hours."
+  ],
+  "translations": [
+   "ثلاثة"
+  ],
+  "relations": {
+   "synonyms": [
+    "3"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "three times",
+    "three cheers"
+   ]
+  },
+  "mnemonic": "زي 'Tree' 'شجرة'.. تخيل شجرة فيها 'Three' تفاحات.",
+  "phonetic_us": "θriː",
+  "phonetic_uk": "θriː",
+  "syllables": "three",
+  "semantic_tags": [
+   "#Number",
+   "#Count"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The number 3.",
+  "explanation_ar": "العدد أو الرقم ثلاثة (3).",
+  "examples": [
+   "One, two, three, go!",
+   "She has three brothers.",
+   "The meeting lasts three hours."
+  ],
+  "translations": {
+   "arabic_ar": "ثلاثة"
+  },
+  "synonyms": [
+   "3"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "three times",
+   "three cheers"
+  ],
+  "mnemonic_ar": "زي 'Tree' 'شجرة'.. تخيل شجرة فيها 'Three' تفاحات."
+ }
+}

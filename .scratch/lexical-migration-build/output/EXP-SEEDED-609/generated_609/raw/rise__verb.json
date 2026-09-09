@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "rise",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "rise",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To move upwards; to increase in amount or level.",
+  "explanation_ar": "يتحرك لفوق أو يزيد، زي الشمس لما تشرق أو الأسعار لما تغلى.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To move upwards or stand up.",
+    "explanation_ar": "يتحرك إلى أعلى أو يرتفع أو يقف.",
+    "examples": [
+     "Smoke started to rise from the fire.",
+     "Everyone should rise when the judge enters."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To increase in amount, number, or level.",
+    "explanation_ar": "يزداد في المقدار أو القيمة أو المستوى.",
+    "examples": [
+     "Prices rise every year."
+    ]
+   }
+  ],
+  "examples": [
+   "Prices rise every year.",
+   "Smoke started to rise from the fire.",
+   "Everyone should rise when the judge enters."
+  ],
+  "translations": [
+   "يرتفع",
+   "يزداد",
+   "يشرق",
+   "ينهض"
+  ],
+  "relations": {
+   "synonyms": [
+    "ascend",
+    "go up",
+    "climb",
+    "increase"
+   ],
+   "antonyms": [
+    "fall",
+    "set",
+    "drop"
+   ],
+   "collocations": [
+    "prices rise",
+    "rise early",
+    "rise up"
+   ]
+  },
+  "mnemonic": "زي 'Rice' الرز.. الرز لما بيستوي حجمه بيزيد و 'Rise' في الحلة.",
+  "phonetic_us": "/raɪz/",
+  "phonetic_uk": "/raɪz/",
+  "syllables": [
+   "rise"
+  ],
+  "semantic_tags": [
+   "#Motion",
+   "#Increase",
+   "#Nature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move upwards; to increase in amount or level.",
+  "explanation_ar": "يتحرك لفوق أو يزيد، زي الشمس لما تشرق أو الأسعار لما تغلى.",
+  "examples": [
+   "Prices rise every year.",
+   "Smoke started to rise from the fire.",
+   "Everyone should rise when the judge enters."
+  ],
+  "translations": {
+   "arabic_ar": "يرتفع يزداد يشرق ينهض"
+  },
+  "synonyms": [
+   "ascend",
+   "go up",
+   "climb",
+   "increase"
+  ],
+  "antonyms": [
+   "fall",
+   "set",
+   "drop"
+  ],
+  "collocations": [
+   "prices rise",
+   "rise early",
+   "rise up"
+  ],
+  "mnemonic_ar": "زي 'Rice' الرز.. الرز لما بيستوي حجمه بيزيد و 'Rise' في الحلة."
+ }
+}

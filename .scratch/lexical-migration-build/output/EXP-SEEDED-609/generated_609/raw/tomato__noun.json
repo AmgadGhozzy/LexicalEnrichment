@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "tomato",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "tomato",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A glossy red fruit eaten as a vegetable in salads or cooked.",
+  "explanation_ar": "الطماطم الحمراء اللي بنحطها في السلطة أو الطبيخ.",
+  "senses": [
+   {
+    "sense_id": "tomato_noun_1",
+    "definition_en": "A glossy red fruit eaten as a vegetable in salads or cooked.",
+    "definition_ar": "طماطم (بندورة)",
+    "examples": [
+     "She put a tomato in the salad.",
+     "I like tomato soup.",
+     "He sliced a red tomato for his sandwich."
+    ]
+   }
+  ],
+  "examples": [
+   "She put a tomato in the salad.",
+   "I like tomato soup.",
+   "He sliced a red tomato for his sandwich."
+  ],
+  "translations": [
+   "طماطم",
+   "بندورة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "tomato sauce",
+    "cherry tomato",
+    "rotten tomato"
+   ]
+  },
+  "mnemonic": "نفس الاسم بالعربي 'طماطم'.. سهلة.",
+  "phonetic_us": "təˈmeɪtoʊ",
+  "phonetic_uk": "təˈmɑːtəʊ",
+  "syllables": "to-ma-to",
+  "semantic_tags": [
+   "Food",
+   "Vegetable"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A glossy red fruit eaten as a vegetable in salads or cooked.",
+  "explanation_ar": "الطماطم الحمراء اللي بنحطها في السلطة أو الطبيخ.",
+  "examples": [
+   "She put a tomato in the salad.",
+   "I like tomato soup.",
+   "He sliced a red tomato for his sandwich."
+  ],
+  "translations": {
+   "arabic_ar": "طماطم بندورة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "tomato sauce",
+   "cherry tomato",
+   "rotten tomato"
+  ],
+  "mnemonic_ar": "نفس الاسم بالعربي 'طماطم'.. سهلة."
+ }
+}

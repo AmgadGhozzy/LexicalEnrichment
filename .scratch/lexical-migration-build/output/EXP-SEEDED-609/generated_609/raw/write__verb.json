@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "write",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "write",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To mark letters, words, or other symbols on a surface.",
+  "explanation_ar": "يكتب.. تسجل الكلام بالقلم على الورق أو بالكيبورد على الكمبيوتر.",
+  "senses": [
+   {
+    "definition_en": "To mark letters, words, or other symbols on a surface.",
+    "explanation_ar": "يكتب.. تدوين وتسجيل الحروف والكلمات على الورق أو إلكترونياً.",
+    "examples": [
+     "I write my name.",
+     "He wants to write a book.",
+     "Please write down your address."
+    ]
+   }
+  ],
+  "examples": [
+   "I write my name.",
+   "He wants to write a book.",
+   "Please write down your address."
+  ],
+  "translations": [
+   "يكتب"
+  ],
+  "relations": {
+   "synonyms": [
+    "record",
+    "compose",
+    "pen"
+   ],
+   "antonyms": [
+    "read",
+    "erase"
+   ],
+   "collocations": [
+    "write down",
+    "write back",
+    "write a letter"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "raɪt",
+  "phonetic_uk": "raɪt",
+  "syllables": null,
+  "semantic_tags": [
+   "#Text",
+   "#Pen",
+   "#Compose"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To mark letters, words, or other symbols on a surface.",
+  "explanation_ar": "يكتب.. تسجل الكلام بالقلم على الورق أو بالكيبورد على الكمبيوتر.",
+  "examples": [
+   "I write my name.",
+   "He wants to write a book.",
+   "Please write down your address."
+  ],
+  "translations": {
+   "arabic_ar": "يكتب"
+  },
+  "synonyms": [
+   "record",
+   "compose",
+   "pen"
+  ],
+  "antonyms": [
+   "read",
+   "erase"
+  ],
+  "collocations": [
+   "write down",
+   "write back",
+   "write a letter"
+  ],
+  "mnemonic_ar": null
+ }
+}

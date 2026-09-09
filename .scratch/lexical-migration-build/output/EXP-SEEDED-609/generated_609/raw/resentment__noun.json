@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "resentment",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "resentment",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "Bitter indignation at having been treated unfairly.",
+  "explanation_ar": "استياء أو مرارة.. شعور بالزعل المكتوم عشان حاسس إنك اتظلمت.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A feeling of deep, persistent bitterness or indignation at having been treated unfairly.",
+    "definition_ar": "شعور عميق ومستمر بالاستياء أو المرارة ناتج عن الإحساس بالظلم أو سوء المعاملة.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Her resentment towards her boss grew every day.",
+   "The decision caused deep resentment among the staff.",
+   "He harbored a lingering resentment over the way he was dismissed."
+  ],
+  "translations": [
+   "استياء",
+   "امتعاض",
+   "مرارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "bitterness",
+    "indignation",
+    "grudge",
+    "animosity"
+   ],
+   "antonyms": [
+    "contentment",
+    "gratitude"
+   ],
+   "collocations": [
+    "deep resentment",
+    "feel resentment",
+    "cause resentment",
+    "harbor resentment"
+   ]
+  },
+  "mnemonic": "'Re' 'تاني' + 'Sent' 'أرسل'.. كأن المشاعر السلبية بتتبعتلك تاني وتاني فبتحس بـ 'Resentment'.",
+  "phonetic_us": "ɹɪˈzɛntmənt",
+  "phonetic_uk": "rɪˈzentmənt",
+  "syllables": "re•sent•ment",
+  "semantic_tags": [
+   "#Anger",
+   "#Unfairness",
+   "#Grudge"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Bitter indignation at having been treated unfairly.",
+  "explanation_ar": "استياء أو مرارة.. شعور بالزعل المكتوم عشان حاسس إنك اتظلمت.",
+  "examples": [
+   "Her resentment towards her boss grew every day.",
+   "The decision caused deep resentment among the staff.",
+   "He harbored a lingering resentment over the way he was dismissed."
+  ],
+  "translations": {
+   "arabic_ar": "استياء امتعاض مرارة"
+  },
+  "synonyms": [
+   "bitterness",
+   "indignation",
+   "grudge",
+   "animosity"
+  ],
+  "antonyms": [
+   "contentment",
+   "gratitude"
+  ],
+  "collocations": [
+   "deep resentment",
+   "feel resentment",
+   "cause resentment",
+   "harbor resentment"
+  ],
+  "mnemonic_ar": "'Re' 'تاني' + 'Sent' 'أرسل'.. كأن المشاعر السلبية بتتبعتلك تاني وتاني فبتحس بـ 'Resentment'."
+ }
+}

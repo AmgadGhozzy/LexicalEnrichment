@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "thank",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "thank",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An expression of gratitude.",
+  "explanation_ar": "كلمة شكر وامتنان، وعادة بتيجي جمع 'Thanks'.",
+  "senses": [
+   {
+    "definition_en": "An expression of gratitude.",
+    "explanation_ar": "تعبير عن الشكر والامتنان.",
+    "examples": [
+     "A simple thank you is always appreciated.",
+     "She sent a warm thank you to everyone who helped.",
+     "He said a polite thank you before leaving the room."
+    ]
+   }
+  ],
+  "examples": [
+   "A simple thank you is always appreciated.",
+   "She sent a warm thank you to everyone who helped.",
+   "He said a polite thank you before leaving the room."
+  ],
+  "translations": [
+   "شكر",
+   "امتنان"
+  ],
+  "relations": {
+   "synonyms": [
+    "gratitude",
+    "appreciation",
+    "acknowledgment"
+   ],
+   "antonyms": [
+    "ingratitude"
+   ],
+   "collocations": [
+    "give thanks",
+    "vote of thanks",
+    "many thanks"
+   ],
+   "word_family": {
+    "adj": "thankful",
+    "adv": "thankfully",
+    "noun": "thanks",
+    "verb": "thank"
+   }
+  },
+  "mnemonic": "كلمة 'Thank' يعني شكر.. زي ما بتقول 'Thank you'.",
+  "phonetic_us": "θæŋk",
+  "phonetic_uk": "θæŋk",
+  "syllables": [
+   "thank"
+  ],
+  "semantic_tags": [
+   "#Politeness",
+   "#Gratitude",
+   "#Social"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An expression of gratitude.",
+  "explanation_ar": "كلمة شكر وامتنان، وعادة بتيجي جمع 'Thanks'.",
+  "examples": [
+   "A simple thank you is always appreciated.",
+   "She sent a warm thank you to everyone who helped.",
+   "He said a polite thank you before leaving the room."
+  ],
+  "translations": {
+   "arabic_ar": "شكر امتنان"
+  },
+  "synonyms": [
+   "gratitude",
+   "appreciation",
+   "acknowledgment"
+  ],
+  "antonyms": [
+   "ingratitude"
+  ],
+  "collocations": [
+   "give thanks",
+   "vote of thanks",
+   "many thanks"
+  ],
+  "mnemonic_ar": "كلمة 'Thank' يعني شكر.. زي ما بتقول 'Thank you'."
+ }
+}

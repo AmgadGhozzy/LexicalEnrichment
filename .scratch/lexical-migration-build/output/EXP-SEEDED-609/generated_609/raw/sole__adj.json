@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "sole",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "sole",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Being the only one; single and not shared with others.",
+  "explanation_ar": "الوحيد أو المنفرد، لا يشاركه غيره؛ مثل قولك «المالك الوحيد» أو «المسؤول الوحيد».",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "adj",
+    "definition_en": "Being the only one; single.",
+    "explanation_ar": "الوحيد أو المنفرد، الذي ليس له شريك أو نظير."
+   }
+  ],
+  "examples": [
+   "He was the sole survivor of the plane crash.",
+   "She has sole responsibility for managing the project.",
+   "The company is the sole supplier of this medical equipment."
+  ],
+  "translations": [
+   "وحيد",
+   "منفرد",
+   "حصري"
+  ],
+  "relations": {
+   "synonyms": [
+    "only",
+    "single",
+    "lone",
+    "solitary",
+    "exclusive"
+   ],
+   "antonyms": [
+    "joint",
+    "shared",
+    "multiple"
+   ],
+   "collocations": [
+    "sole survivor",
+    "sole purpose",
+    "sole responsibility",
+    "sole owner",
+    "sole supplier"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة Solo (منفرد)؛ تذكر أن الشخص الـ sole هو شخص بمفرده solo.",
+  "phonetic_us": "soʊl",
+  "phonetic_uk": "səʊl",
+  "syllables": "sole",
+  "semantic_tags": [
+   "quantity",
+   "uniqueness",
+   "law",
+   "ownership"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Being the only one; single and not shared with others.",
+  "explanation_ar": "الوحيد أو المنفرد، لا يشاركه غيره؛ مثل قولك «المالك الوحيد» أو «المسؤول الوحيد».",
+  "examples": [
+   "He was the sole survivor of the plane crash.",
+   "She has sole responsibility for managing the project.",
+   "The company is the sole supplier of this medical equipment."
+  ],
+  "translations": {
+   "arabic_ar": "وحيد منفرد حصري"
+  },
+  "synonyms": [
+   "only",
+   "single",
+   "lone",
+   "solitary",
+   "exclusive"
+  ],
+  "antonyms": [
+   "joint",
+   "shared",
+   "multiple"
+  ],
+  "collocations": [
+   "sole survivor",
+   "sole purpose",
+   "sole responsibility",
+   "sole owner",
+   "sole supplier"
+  ],
+  "mnemonic_ar": "قريبة من كلمة Solo (منفرد)؛ تذكر أن الشخص الـ sole هو شخص بمفرده solo."
+ }
+}

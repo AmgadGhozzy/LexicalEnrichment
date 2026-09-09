@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "shrink",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "shrink",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To become smaller in size or amount.",
+  "explanation_ar": "إن الحاجة تصغر في الحجم أو تقل في المقدار، زي الهدوم لما تتغسل بمية سخنة وتكش، أو الأرباح لما تنقص.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To become or make smaller in size, amount, or value.",
+    "definition_ar": "ينكمش أو يتقلص في الحجم أو المقدار.",
+    "examples": [
+     "The company's profits began to shrink.",
+     "Don't wash it in hot water or it will shrink."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To move back or hesitate from doing something because of fear or reluctance.",
+    "definition_ar": "يتراجع أو يتهرب من شيء بدافع الخوف أو التردد.",
+    "examples": [
+     "She did not shrink from her responsibilities."
+    ]
+   }
+  ],
+  "examples": [
+   "The company's profits began to shrink.",
+   "She did not shrink from her responsibilities.",
+   "Don't wash it in hot water or it will shrink."
+  ],
+  "translations": [
+   "ينكمش",
+   "يتقلص",
+   "يكش",
+   "يتراجع"
+  ],
+  "relations": {
+   "synonyms": [
+    "contract",
+    "dwindle",
+    "reduce"
+   ],
+   "antonyms": [
+    "expand",
+    "grow",
+    "stretch"
+   ],
+   "collocations": [
+    "shrink from",
+    "shrink away",
+    "shrink wrap"
+   ]
+  },
+  "mnemonic": "اربطها بصوت 'Sh' 'ش' في كلمة 'يكش'.. الـ 'Shrink' يعني يكش ويصغر.",
+  "phonetic_us": "ʃrɪŋk",
+  "phonetic_uk": "ʃrɪŋk",
+  "syllables": "shrink",
+  "semantic_tags": [
+   "#Size",
+   "#Decrease",
+   "#Change"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To become smaller in size or amount.",
+  "explanation_ar": "إن الحاجة تصغر في الحجم أو تقل في المقدار، زي الهدوم لما تتغسل بمية سخنة وتكش، أو الأرباح لما تنقص.",
+  "examples": [
+   "The company's profits began to shrink.",
+   "She did not shrink from her responsibilities.",
+   "Don't wash it in hot water or it will shrink."
+  ],
+  "translations": {
+   "arabic_ar": "ينكمش يتقلص يكش يتراجع"
+  },
+  "synonyms": [
+   "contract",
+   "dwindle",
+   "reduce"
+  ],
+  "antonyms": [
+   "expand",
+   "grow",
+   "stretch"
+  ],
+  "collocations": [
+   "shrink from",
+   "shrink away",
+   "shrink wrap"
+  ],
+  "mnemonic_ar": "اربطها بصوت 'Sh' 'ش' في كلمة 'يكش'.. الـ 'Shrink' يعني يكش ويصغر."
+ }
+}

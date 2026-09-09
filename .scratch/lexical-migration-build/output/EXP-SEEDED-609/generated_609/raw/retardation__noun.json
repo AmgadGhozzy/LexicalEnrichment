@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "retardation",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "retardation",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "The action of delaying or slowing the progress or development of something.",
+  "explanation_ar": "عملية تأخير أو إبطاء نمو شيء ما أو تقدمه.",
+  "senses": [
+   {
+    "definition_en": "The action of delaying or slowing the progress or development of something.",
+    "definition_ar": "عملية تأخير أو إبطاء نمو شيء ما أو تقدمه.",
+    "pos": "noun",
+    "cefr": "C2"
+   },
+   {
+    "definition_en": "A decrease in speed or velocity; deceleration.",
+    "definition_ar": "تناقص في السرعة أو تباطؤ الحركة.",
+    "pos": "noun",
+    "cefr": "C2"
+   }
+  ],
+  "examples": [
+   "Extreme cold causes a significant retardation of plant growth.",
+   "Lack of funds led to the retardation of the project.",
+   "Engineers calculated the rate of retardation during the train's emergency stop."
+  ],
+  "translations": [
+   "إبطاء",
+   "تأخير",
+   "تباطؤ",
+   "إعاقة النمو"
+  ],
+  "relations": {
+   "synonyms": [
+    "delay",
+    "slowing",
+    "deceleration",
+    "hindrance"
+   ],
+   "antonyms": [
+    "acceleration",
+    "advancement",
+    "promotion"
+   ],
+   "collocations": [
+    "growth retardation",
+    "retardation of progress",
+    "rate of retardation"
+   ]
+  },
+  "mnemonic": "جاية من 'Retard' يعني يبطأ.. عكس 'Accelerate' يسرع.. فالكلمة معناها التباطؤ.",
+  "phonetic_us": "ˌriːtɑːrˈdeɪʃn",
+  "phonetic_uk": "ˌriːtɑːˈdeɪʃn",
+  "syllables": "re•tar•da•tion",
+  "semantic_tags": [
+   "#Delay",
+   "#Physics",
+   "#Growth"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The action of delaying or slowing the progress or development of something.",
+  "explanation_ar": "عملية تأخير أو إبطاء نمو شيء ما أو تقدمه.",
+  "examples": [
+   "Extreme cold causes a significant retardation of plant growth.",
+   "Lack of funds led to the retardation of the project.",
+   "Engineers calculated the rate of retardation during the train's emergency stop."
+  ],
+  "translations": {
+   "arabic_ar": "إبطاء تأخير تباطؤ إعاقة النمو"
+  },
+  "synonyms": [
+   "delay",
+   "slowing",
+   "deceleration",
+   "hindrance"
+  ],
+  "antonyms": [
+   "acceleration",
+   "advancement",
+   "promotion"
+  ],
+  "collocations": [
+   "growth retardation",
+   "retardation of progress",
+   "rate of retardation"
+  ],
+  "mnemonic_ar": "جاية من 'Retard' يعني يبطأ.. عكس 'Accelerate' يسرع.. فالكلمة معناها التباطؤ."
+ }
+}

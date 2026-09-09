@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "sell",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sell",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To give something in exchange for money.",
+  "explanation_ar": "يبيع. تدي حد حاجة وتاخد مكانها فلوس.",
+  "senses": [
+   {
+    "definition_en": "To give something in exchange for money.",
+    "explanation_ar": "يبيع: إعطاء شيء لشخص مقابل الحصول على مال.",
+    "examples": [
+     "I want to sell my car.",
+     "Do you sell milk?",
+     "They sell clothes online."
+    ]
+   }
+  ],
+  "examples": [
+   "I want to sell my car.",
+   "Do you sell milk?",
+   "They sell clothes online."
+  ],
+  "translations": [
+   "يبيع"
+  ],
+  "relations": {
+   "synonyms": [
+    "vend",
+    "trade",
+    "retail"
+   ],
+   "antonyms": [
+    "buy",
+    "purchase",
+    "acquire"
+   ],
+   "collocations": [
+    "sell out",
+    "sell off",
+    "buy and sell"
+   ]
+  },
+  "mnemonic": "عكس 'Buy'.. البياع بيعمل 'Sell' عشان ياخد فلوس.",
+  "phonetic_us": "sɛl",
+  "phonetic_uk": "sel",
+  "syllables": [
+   "sell"
+  ],
+  "semantic_tags": [
+   "Business",
+   "Money",
+   "Trade"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To give something in exchange for money.",
+  "explanation_ar": "يبيع. تدي حد حاجة وتاخد مكانها فلوس.",
+  "examples": [
+   "I want to sell my car.",
+   "Do you sell milk?",
+   "They sell clothes online."
+  ],
+  "translations": {
+   "arabic_ar": "يبيع"
+  },
+  "synonyms": [
+   "vend",
+   "trade",
+   "retail"
+  ],
+  "antonyms": [
+   "buy",
+   "purchase",
+   "acquire"
+  ],
+  "collocations": [
+   "sell out",
+   "sell off",
+   "buy and sell"
+  ],
+  "mnemonic_ar": "عكس 'Buy'.. البياع بيعمل 'Sell' عشان ياخد فلوس."
+ }
+}

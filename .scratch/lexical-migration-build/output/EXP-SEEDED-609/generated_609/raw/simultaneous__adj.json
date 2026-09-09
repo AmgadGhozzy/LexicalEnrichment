@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "simultaneous",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "simultaneous",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Occurring, operating, or done at the same time.",
+  "explanation_ar": "متزامن. يعني حاجتين بيحصلوا مع بعض في نفس اللحظة بالظبط.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Occurring, operating, or done at the same time.",
+    "definition_ar": "متزامن أو حاصل في نفس الوقت",
+    "examples": [
+     "The software allows simultaneous access for multiple users.",
+     "Simultaneous interpretation is a very difficult skill.",
+     "The two events were simultaneous."
+    ]
+   }
+  ],
+  "examples": [
+   "The software allows simultaneous access for multiple users.",
+   "Simultaneous interpretation is a very difficult skill.",
+   "The two events were simultaneous."
+  ],
+  "translations": [
+   "متزامن",
+   "في وقت واحد"
+  ],
+  "relations": {
+   "synonyms": [
+    "concurrent",
+    "coincident",
+    "synchronous"
+   ],
+   "antonyms": [
+    "consecutive",
+    "separate"
+   ],
+   "collocations": [
+    "simultaneous translation",
+    "simultaneous attacks",
+    "simultaneous release",
+    "simultaneous equations"
+   ]
+  },
+  "mnemonic": "'Simul' في الأول زي 'Simulation' أو 'Similar'.. حاجات ماشية مع بعض في نفس الوقت.",
+  "phonetic_us": "ˌsaɪməlˈteɪniəs",
+  "phonetic_uk": "ˌsɪməlˈteɪniəs",
+  "syllables": "si•mul•ta•ne•ous",
+  "semantic_tags": [
+   "time",
+   "synchronization",
+   "together"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Occurring, operating, or done at the same time.",
+  "explanation_ar": "متزامن. يعني حاجتين بيحصلوا مع بعض في نفس اللحظة بالظبط.",
+  "examples": [
+   "The software allows simultaneous access for multiple users.",
+   "Simultaneous interpretation is a very difficult skill.",
+   "The two events were simultaneous."
+  ],
+  "translations": {
+   "arabic_ar": "متزامن في وقت واحد"
+  },
+  "synonyms": [
+   "concurrent",
+   "coincident",
+   "synchronous"
+  ],
+  "antonyms": [
+   "consecutive",
+   "separate"
+  ],
+  "collocations": [
+   "simultaneous translation",
+   "simultaneous attacks",
+   "simultaneous release",
+   "simultaneous equations"
+  ],
+  "mnemonic_ar": "'Simul' في الأول زي 'Simulation' أو 'Similar'.. حاجات ماشية مع بعض في نفس الوقت."
+ }
+}

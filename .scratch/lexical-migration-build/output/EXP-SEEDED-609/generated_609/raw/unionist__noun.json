@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "unionist",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "unionist",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A member of a labor union or a supporter of political union.",
+  "explanation_ar": "شخص عضو في نقابة عمالية أو بيأيد الاتحاد السياسي بين الدول أو المناطق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A member or representative of a trade union (labor union).",
+    "explanation_ar": "عضو نقابي أو ممثل لنقابة عمالية."
+   },
+   {
+    "sense_id": "2",
+    "pos": "noun",
+    "definition_en": "A person who advocates political union, especially maintaining a union between countries or regions.",
+    "explanation_ar": "اتحادي؛ شخص يؤيد الوحدة أو الاندماج السياسي بين دول أو أقاليم."
+   }
+  ],
+  "examples": [
+   "As an active unionist, she organized weekly meetings to defend worker rights.",
+   "The veteran unionist strongly supported keeping the two regions united under one central government.",
+   "Every unionist at the meeting voted in favor of the new collective agreement."
+  ],
+  "translations": [
+   "نقابي",
+   "اتحادي"
+  ],
+  "relations": {
+   "synonyms": [
+    "labor organizer",
+    "federalist",
+    "loyalist"
+   ],
+   "antonyms": [
+    "separatist"
+   ],
+   "collocations": [
+    "trade unionist",
+    "unionist party",
+    "active unionist"
+   ]
+  },
+  "mnemonic": "من كلمة 'Union' 'اتحاد'.. الـ 'Unionist' هو الشخص اللي بيشجع الـ 'Union'.",
+  "phonetic_us": "ˈjunjənɪst",
+  "phonetic_uk": "ˈju:nɪənɪst",
+  "syllables": "union•ist",
+  "semantic_tags": [
+   "#Politics",
+   "#Work",
+   "#Society"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A member of a labor union or a supporter of political union.",
+  "explanation_ar": "شخص عضو في نقابة عمالية أو بيأيد الاتحاد السياسي بين الدول أو المناطق.",
+  "examples": [
+   "As an active unionist, she organized weekly meetings to defend worker rights.",
+   "The veteran unionist strongly supported keeping the two regions united under one central government.",
+   "Every unionist at the meeting voted in favor of the new collective agreement."
+  ],
+  "translations": {
+   "arabic_ar": "نقابي اتحادي"
+  },
+  "synonyms": [
+   "labor organizer",
+   "federalist",
+   "loyalist"
+  ],
+  "antonyms": [
+   "separatist"
+  ],
+  "collocations": [
+   "trade unionist",
+   "unionist party",
+   "active unionist"
+  ],
+  "mnemonic_ar": "من كلمة 'Union' 'اتحاد'.. الـ 'Unionist' هو الشخص اللي بيشجع الـ 'Union'."
+ }
+}

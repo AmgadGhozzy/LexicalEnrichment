@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "super",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "super",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Very good or pleasant; excellent.",
+  "explanation_ar": "كلمة بنستخدمها عشان نوصف حاجة إنها ممتازة أو حلوة جداً.",
+  "senses": [
+   {
+    "definition_en": "Very good or pleasant; excellent.",
+    "explanation_ar": "ممتاز أو رائع للغاية.",
+    "examples": [
+     "We had a super time at the party.",
+     "She is doing a super job with the new project.",
+     "It was super of you to help me out like that."
+    ]
+   }
+  ],
+  "examples": [
+   "We had a super time at the party.",
+   "She is doing a super job with the new project.",
+   "It was super of you to help me out like that."
+  ],
+  "translations": [
+   "ممتاز",
+   "رائع"
+  ],
+  "relations": {
+   "synonyms": [
+    "excellent",
+    "wonderful",
+    "fantastic",
+    "great"
+   ],
+   "antonyms": [
+    "terrible",
+    "awful"
+   ],
+   "collocations": [
+    "super time",
+    "super job",
+    "super idea"
+   ]
+  },
+  "mnemonic": "زي ما بنقول بالعربي 'سوبر'.. حاجة 'Super' يعني فوق العادة وممتازة.",
+  "phonetic_us": "ˈsupər",
+  "phonetic_uk": "ˈsuːpə",
+  "syllables": "su•per",
+  "semantic_tags": [
+   "#Positive",
+   "#Opinion",
+   "#Informal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Very good or pleasant; excellent.",
+  "explanation_ar": "كلمة بنستخدمها عشان نوصف حاجة إنها ممتازة أو حلوة جداً.",
+  "examples": [
+   "We had a super time at the party.",
+   "She is doing a super job with the new project.",
+   "It was super of you to help me out like that."
+  ],
+  "translations": {
+   "arabic_ar": "ممتاز رائع"
+  },
+  "synonyms": [
+   "excellent",
+   "wonderful",
+   "fantastic",
+   "great"
+  ],
+  "antonyms": [
+   "terrible",
+   "awful"
+  ],
+  "collocations": [
+   "super time",
+   "super job",
+   "super idea"
+  ],
+  "mnemonic_ar": "زي ما بنقول بالعربي 'سوبر'.. حاجة 'Super' يعني فوق العادة وممتازة."
+ }
+}

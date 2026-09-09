@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "regulation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "regulation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A rule or directive made and maintained by an authority.",
+  "explanation_ar": "القاعدة أو القانون اللي بتحطه الحكومة أو الإدارة عشان تنظم الأمور.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A rule or directive made and maintained by an authority.",
+    "definition_ar": "قاعدة أو لائحة رسمية تضعها سلطة أو إدارة لتنظيم عمل أو نشاط معين."
+   }
+  ],
+  "examples": [
+   "The new safety regulation requires all factory workers to wear protective gear.",
+   "Under current banking regulation, institutions must report large international transfers.",
+   "The airline was fined for violating a federal aviation regulation."
+  ],
+  "translations": [
+   "لائحة",
+   "قاعدة تنظيمية",
+   "تنظيم"
+  ],
+  "relations": {
+   "synonyms": [
+    "rule",
+    "directive",
+    "statute",
+    "ordinance"
+   ],
+   "antonyms": [
+    "deregulation"
+   ],
+   "collocations": [
+    "safety regulation",
+    "strict regulation",
+    "government regulation"
+   ]
+  },
+  "mnemonic": "جاية من 'Regular'.. الـ 'Regulation' هي القوانين اللي بتخلي الأمور تمشي بشكل 'Regular' 'منتظم'",
+  "phonetic_us": "ˌɹɛɡjəˈleɪʃən",
+  "phonetic_uk": "ˌreɡ.jʊˈleɪ.ʃən",
+  "syllables": "reg•u•la•tion",
+  "semantic_tags": [
+   "#Law",
+   "#Rules",
+   "#Control"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A rule or directive made and maintained by an authority.",
+  "explanation_ar": "القاعدة أو القانون اللي بتحطه الحكومة أو الإدارة عشان تنظم الأمور.",
+  "examples": [
+   "The new safety regulation requires all factory workers to wear protective gear.",
+   "Under current banking regulation, institutions must report large international transfers.",
+   "The airline was fined for violating a federal aviation regulation."
+  ],
+  "translations": {
+   "arabic_ar": "لائحة قاعدة تنظيمية تنظيم"
+  },
+  "synonyms": [
+   "rule",
+   "directive",
+   "statute",
+   "ordinance"
+  ],
+  "antonyms": [
+   "deregulation"
+  ],
+  "collocations": [
+   "safety regulation",
+   "strict regulation",
+   "government regulation"
+  ],
+  "mnemonic_ar": "جاية من 'Regular'.. الـ 'Regulation' هي القوانين اللي بتخلي الأمور تمشي بشكل 'Regular' 'منتظم'"
+ }
+}

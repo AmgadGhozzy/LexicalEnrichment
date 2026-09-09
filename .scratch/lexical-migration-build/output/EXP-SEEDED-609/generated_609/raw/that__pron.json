@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "that",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "that",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "Refers to a specific thing, person, or idea previously mentioned, known, or at a distance.",
+  "explanation_ar": "ضمير إشارة بنستخدمه عشان نتكلم عن حاجة ذكرناها قبل كده أو بنشاور عليها من بعيد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "pron",
+    "definition_en": "Used to identify or refer to a specific person, thing, or idea mentioned before or situated at a distance.",
+    "definition_ar": "يُستخدم للإشارة إلى شخص أو شيء أو أمر ذُكر سابقاً أو بعيد عن المتحدث.",
+    "examples": [
+     "That is my house.",
+     "Who said that?",
+     "What is that over there?"
+    ]
+   }
+  ],
+  "examples": [
+   "That is my house.",
+   "Who said that?",
+   "What is that over there?"
+  ],
+  "translations": [
+   "ذلك",
+   "ذاك",
+   "تلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "it"
+   ],
+   "antonyms": [
+    "this"
+   ],
+   "collocations": [
+    "after that",
+    "like that",
+    "that is"
+   ]
+  },
+  "mnemonic": "زي ما قلنا 'That' يعني 'ذاك'.. شاور على حاجة بعيدة وقول 'That is mine'.",
+  "phonetic_us": "ðæt",
+  "phonetic_uk": "ðæt",
+  "syllables": [
+   "that"
+  ],
+  "semantic_tags": [
+   "#Pronouns",
+   "#Reference",
+   "#Context"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Refers to a specific thing, person, or idea previously mentioned, known, or at a distance.",
+  "explanation_ar": "ضمير إشارة بنستخدمه عشان نتكلم عن حاجة ذكرناها قبل كده أو بنشاور عليها من بعيد.",
+  "examples": [
+   "That is my house.",
+   "Who said that?",
+   "What is that over there?"
+  ],
+  "translations": {
+   "arabic_ar": "ذلك ذاك تلك"
+  },
+  "synonyms": [
+   "it"
+  ],
+  "antonyms": [
+   "this"
+  ],
+  "collocations": [
+   "after that",
+   "like that",
+   "that is"
+  ],
+  "mnemonic_ar": "زي ما قلنا 'That' يعني 'ذاك'.. شاور على حاجة بعيدة وقول 'That is mine'."
+ }
+}

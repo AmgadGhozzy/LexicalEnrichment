@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "sit",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sit",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To be in a position where your bottom is resting on a chair or the ground.",
+  "explanation_ar": "يجلس. يعني تقعد على كرسي أو على الأرض، بحيث جسمك يكون مرتاح ومش واقف",
+  "senses": [
+   {
+    "definition_en": "To rest your body on a seat or the ground with your weight supported by your buttocks or thighs.",
+    "explanation_ar": "يجلس على كرسي أو على الأرض",
+    "examples": [
+     "Please sit on the chair.",
+     "I sit next to my friend in class.",
+     "You can sit here while you wait."
+    ]
+   }
+  ],
+  "examples": [
+   "Please sit on the chair.",
+   "I sit next to my friend in class.",
+   "You can sit here while you wait."
+  ],
+  "translations": [
+   "يجلس",
+   "يقعد"
+  ],
+  "relations": {
+   "synonyms": [
+    "rest",
+    "perch",
+    "settle"
+   ],
+   "antonyms": [
+    "stand",
+    "rise"
+   ],
+   "collocations": [
+    "sit down",
+    "sit up",
+    "sit still",
+    "sit tight"
+   ]
+  },
+  "mnemonic": "كلمة 'Sit' شبه كلمة 'Set'.. لما تعمل 'Set' لحاجة يعني بتثبتها، وإنت لما تقعد بتثبت مكانك",
+  "phonetic_us": "sɪt",
+  "phonetic_uk": "sɪt",
+  "syllables": "sit",
+  "semantic_tags": [
+   "#Posture",
+   "#Rest",
+   "#Body"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be in a position where your bottom is resting on a chair or the ground.",
+  "explanation_ar": "يجلس. يعني تقعد على كرسي أو على الأرض، بحيث جسمك يكون مرتاح ومش واقف",
+  "examples": [
+   "Please sit on the chair.",
+   "I sit next to my friend in class.",
+   "You can sit here while you wait."
+  ],
+  "translations": {
+   "arabic_ar": "يجلس يقعد"
+  },
+  "synonyms": [
+   "rest",
+   "perch",
+   "settle"
+  ],
+  "antonyms": [
+   "stand",
+   "rise"
+  ],
+  "collocations": [
+   "sit down",
+   "sit up",
+   "sit still",
+   "sit tight"
+  ],
+  "mnemonic_ar": "كلمة 'Sit' شبه كلمة 'Set'.. لما تعمل 'Set' لحاجة يعني بتثبتها، وإنت لما تقعد بتثبت مكانك"
+ }
+}

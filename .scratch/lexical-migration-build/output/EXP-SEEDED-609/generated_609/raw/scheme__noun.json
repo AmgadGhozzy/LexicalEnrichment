@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "scheme",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "scheme",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A large-scale systematic plan or arrangement for attaining some particular object, or a clever and often secret or dishonest plot.",
+  "explanation_ar": "خطة أو نظام، وغالباً بتكون خطة سرية أو مكيدة، أو مشروع منظم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An officially organized plan, system, or arrangement.",
+    "definition_ar": "مشروع أو نظام أو خطة رسمية منظمة",
+    "examples": [
+     "The government introduced a new pension scheme."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A clever, secret, or deceitful plot to achieve something.",
+    "definition_ar": "مكيدة أو مؤامرة أو خطة ملتوية",
+    "examples": [
+     "He devised a clever scheme to make money.",
+     "The whole scheme collapsed when the investors pulled out."
+    ]
+   }
+  ],
+  "examples": [
+   "The government introduced a new pension scheme.",
+   "He devised a clever scheme to make money.",
+   "The whole scheme collapsed when the investors pulled out."
+  ],
+  "translations": [
+   "مخطط",
+   "مشروع",
+   "مكيدة",
+   "مؤامرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "plan",
+    "plot",
+    "project",
+    "strategy"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "color scheme",
+    "housing scheme",
+    "pension scheme",
+    "pyramid scheme",
+    "scheme of things"
+   ]
+  },
+  "mnemonic": "الـ 'Scheme' هو 'Schema' أو خطة.. بس ساعات بتكون خطة شريرة.",
+  "phonetic_us": "skiːm",
+  "phonetic_uk": "skiːm",
+  "syllables": [
+   "scheme"
+  ],
+  "semantic_tags": [
+   "#Plan",
+   "#Plot",
+   "#System",
+   "#Strategy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A large-scale systematic plan or arrangement for attaining some particular object, or a clever and often secret or dishonest plot.",
+  "explanation_ar": "خطة أو نظام، وغالباً بتكون خطة سرية أو مكيدة، أو مشروع منظم.",
+  "examples": [
+   "The government introduced a new pension scheme.",
+   "He devised a clever scheme to make money.",
+   "The whole scheme collapsed when the investors pulled out."
+  ],
+  "translations": {
+   "arabic_ar": "مخطط مشروع مكيدة مؤامرة"
+  },
+  "synonyms": [
+   "plan",
+   "plot",
+   "project",
+   "strategy"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "color scheme",
+   "housing scheme",
+   "pension scheme",
+   "pyramid scheme",
+   "scheme of things"
+  ],
+  "mnemonic_ar": "الـ 'Scheme' هو 'Schema' أو خطة.. بس ساعات بتكون خطة شريرة."
+ }
+}

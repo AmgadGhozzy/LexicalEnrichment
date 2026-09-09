@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "swear",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "swear",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To make a serious or formal promise, or to use rude and offensive language.",
+  "explanation_ar": "أن تحلف أو تقسم بيمين جاد، أو أن تتلفظ بشتائم وألفاظ بذيئة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "To make a solemn, formal promise or state firmly that something is true.",
+    "explanation_ar": "أن يُقسِم أو يحلف يميناً رسمياً أو صادقاً."
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "To use angry, offensive, or profane words.",
+    "explanation_ar": "أن يسب أو يشتم بألفاظ نابية."
+   }
+  ],
+  "examples": [
+   "I swear to tell the truth about what happened.",
+   "Please do not swear in front of young children.",
+   "Witnesses are required to swear under oath in court."
+  ],
+  "translations": [
+   "يُقْسِم",
+   "يَحْلِف",
+   "يَسُبّ",
+   "يَشْتِم"
+  ],
+  "relations": {
+   "synonyms": [
+    "vow",
+    "promise",
+    "curse",
+    "pledge"
+   ],
+   "antonyms": [
+    "bless",
+    "compliment"
+   ],
+   "collocations": [
+    "swear allegiance",
+    "swear at",
+    "swear by",
+    "swear to God",
+    "swear under oath"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/swɛr/",
+  "phonetic_uk": "/sweə/",
+  "syllables": "swear",
+  "semantic_tags": [
+   "#Promise",
+   "#Insult",
+   "#Court",
+   "#Communication"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "To make a serious or formal promise, or to use rude and offensive language.",
+  "explanation_ar": "أن تحلف أو تقسم بيمين جاد، أو أن تتلفظ بشتائم وألفاظ بذيئة.",
+  "examples": [
+   "I swear to tell the truth about what happened.",
+   "Please do not swear in front of young children.",
+   "Witnesses are required to swear under oath in court."
+  ],
+  "translations": {
+   "arabic_ar": "يُقْسِم يَحْلِف يَسُبّ يَشْتِم"
+  },
+  "synonyms": [
+   "vow",
+   "promise",
+   "curse",
+   "pledge"
+  ],
+  "antonyms": [
+   "bless",
+   "compliment"
+  ],
+  "collocations": [
+   "swear allegiance",
+   "swear at",
+   "swear by",
+   "swear to God",
+   "swear under oath"
+  ],
+  "mnemonic_ar": null
+ }
+}

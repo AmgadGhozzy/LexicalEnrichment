@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "principal",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "principal",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The person with the highest authority in an organization or school; or an original sum of money invested or lent, distinguished from interest.",
+  "explanation_ar": "مدير المدرسة أو الشخص المسؤول؛ وتأتي أيضاً في السياق المالي بمعنى رأس المال الأصلي المقترض أو المستثمر (دون الفوائد).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The person with the highest authority in an organization, institution, or school.",
+    "definition_ar": "مدير المدرسة أو المسؤول الرئيسي في هيئة أو مؤسسة.",
+    "examples": [
+     "The principal announced the new rules."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A capital sum of money lent or invested, on which interest is paid.",
+    "definition_ar": "رأس المال الأصلي المقترض أو المستثمر، بمعزل عن الفائدة.",
+    "examples": [
+     "You must pay back the principal plus interest.",
+     "The bond guarantees the return of the principal upon maturity."
+    ]
+   }
+  ],
+  "examples": [
+   "The principal announced the new rules.",
+   "You must pay back the principal plus interest.",
+   "The bond guarantees the return of the principal upon maturity."
+  ],
+  "translations": [
+   "مدير مدرسة",
+   "شخص مسؤول",
+   "رأس المال"
+  ],
+  "relations": {
+   "synonyms": [
+    "headmaster",
+    "director",
+    "capital"
+   ],
+   "antonyms": [
+    "subordinate",
+    "interest"
+   ],
+   "collocations": [
+    "school principal",
+    "pay principal",
+    "principal and interest"
+   ]
+  },
+  "mnemonic": "الـ 'Prince' الأمير هو الـ 'Principal' يعني الريس أو المدير.",
+  "phonetic_us": "ˈprɪnsəpəl",
+  "phonetic_uk": "ˈprɪnsəpl",
+  "syllables": "prin•ci•pal",
+  "semantic_tags": [
+   "Education",
+   "Finance",
+   "Leadership"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The person with the highest authority in an organization or school; or an original sum of money invested or lent, distinguished from interest.",
+  "explanation_ar": "مدير المدرسة أو الشخص المسؤول؛ وتأتي أيضاً في السياق المالي بمعنى رأس المال الأصلي المقترض أو المستثمر (دون الفوائد).",
+  "examples": [
+   "The principal announced the new rules.",
+   "You must pay back the principal plus interest.",
+   "The bond guarantees the return of the principal upon maturity."
+  ],
+  "translations": {
+   "arabic_ar": "مدير مدرسة شخص مسؤول رأس المال"
+  },
+  "synonyms": [
+   "headmaster",
+   "director",
+   "capital"
+  ],
+  "antonyms": [
+   "subordinate",
+   "interest"
+  ],
+  "collocations": [
+   "school principal",
+   "pay principal",
+   "principal and interest"
+  ],
+  "mnemonic_ar": "الـ 'Prince' الأمير هو الـ 'Principal' يعني الريس أو المدير."
+ }
+}

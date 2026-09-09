@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "rejoice",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "rejoice",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To feel or show great joy or delight.",
+  "explanation_ar": "إنك تفرح جداً وتبتهج بحاجة حلوة حصلت.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To feel or show great joy or delight.",
+    "definition_ar": "أن تشعر بفرح عظيم أو تبتهج بشيء سار.",
+    "register": "formal"
+   }
+  ],
+  "examples": [
+   "I rejoice to see you looking so well.",
+   "We rejoice in the triumph of truth over falsehood.",
+   "They rejoice at every small victory achieved by the team."
+  ],
+  "translations": [
+   "يبتهج",
+   "يفرح"
+  ],
+  "relations": {
+   "synonyms": [
+    "exult",
+    "delight",
+    "jubilate",
+    "celebrate"
+   ],
+   "antonyms": [
+    "mourn",
+    "grieve",
+    "lament"
+   ],
+   "collocations": [
+    "rejoice in",
+    "rejoice at",
+    "rejoice over",
+    "greatly rejoice"
+   ]
+  },
+  "mnemonic": "'Re' + 'Joy' (فرحة) — تذكّر أن كلمة rejoice تعني أن تشعر بالفرح والبهجة (joy).",
+  "phonetic_us": "rɪˈdʒɔɪs",
+  "phonetic_uk": "rɪˈdʒɔɪs",
+  "syllables": "re•joice",
+  "semantic_tags": [
+   "feelings",
+   "emotions",
+   "celebration",
+   "happiness"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To feel or show great joy or delight.",
+  "explanation_ar": "إنك تفرح جداً وتبتهج بحاجة حلوة حصلت.",
+  "examples": [
+   "I rejoice to see you looking so well.",
+   "We rejoice in the triumph of truth over falsehood.",
+   "They rejoice at every small victory achieved by the team."
+  ],
+  "translations": {
+   "arabic_ar": "يبتهج يفرح"
+  },
+  "synonyms": [
+   "exult",
+   "delight",
+   "jubilate",
+   "celebrate"
+  ],
+  "antonyms": [
+   "mourn",
+   "grieve",
+   "lament"
+  ],
+  "collocations": [
+   "rejoice in",
+   "rejoice at",
+   "rejoice over",
+   "greatly rejoice"
+  ],
+  "mnemonic_ar": "'Re' + 'Joy' (فرحة) — تذكّر أن كلمة rejoice تعني أن تشعر بالفرح والبهجة (joy)."
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "identity": {
+  "lemma": "worm",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "worm",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A creeping or burrowing invertebrate animal with a long, slender soft body and no limbs.",
+  "explanation_ar": "كائن صغير وطويل ومالوش رجلين، بيعيش في الطين أو الأرض، وممكن نستخدمه طُعم للصيد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A creeping or burrowing invertebrate animal with a long, slender soft body and no limbs.",
+    "definition_ar": "حيوان لافقاري زاحف ذو جسم رخو طويل وبلا أطراف يعيش في التربة أو الطين.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The bird ate a worm.",
+   "We used a worm as bait for fishing.",
+   "The gardener placed the worm back into the rich soil."
+  ],
+  "translations": [
+   "دودة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "can of worms",
+    "parasitic worm"
+   ]
+  },
+  "mnemonic": "كلمة 'Worm' قريبة من 'Warm' 'دافي'.. الدودة بتعيش في الأرض الـ 'Warm'.",
+  "phonetic_us": "wɜːrm",
+  "phonetic_uk": "wɜːm",
+  "syllables": "worm",
+  "semantic_tags": [
+   "#Animal",
+   "#Nature",
+   "#Soil"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A creeping or burrowing invertebrate animal with a long, slender soft body and no limbs.",
+  "explanation_ar": "كائن صغير وطويل ومالوش رجلين، بيعيش في الطين أو الأرض، وممكن نستخدمه طُعم للصيد.",
+  "examples": [
+   "The bird ate a worm.",
+   "We used a worm as bait for fishing.",
+   "The gardener placed the worm back into the rich soil."
+  ],
+  "translations": {
+   "arabic_ar": "دودة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "can of worms",
+   "parasitic worm"
+  ],
+  "mnemonic_ar": "كلمة 'Worm' قريبة من 'Warm' 'دافي'.. الدودة بتعيش في الأرض الـ 'Warm'."
+ }
+}

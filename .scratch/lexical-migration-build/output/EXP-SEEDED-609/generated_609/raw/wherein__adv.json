@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "wherein",
+  "pos": "adv",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "wherein",
+  "pos": "adv",
+  "cefr": "C2",
+  "definition_en": "In which place, situation, or respect; in what way.",
+  "explanation_ar": "كلمة رسمية معناها 'حيث' أو 'اللي فيه'. بتستخدم لما تشير لمكان أو وثيقة أو موقف وتقول إن جواه حصل كذا.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In which place, situation, or document.",
+    "explanation_ar": "حيث، أو الذي فيه؛ للإشارة إلى ظرف أو وثيقة أو مكان يقع فيه شيء ما.",
+    "examples": [
+     "They signed a contract wherein they agreed to the terms.",
+     "We must create a society wherein all citizens are treated equally."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "In what way or in what respect.",
+    "explanation_ar": "في أي وجه أو بأي طريقة.",
+    "examples": [
+     "It remains unclear wherein lies the difference between the two theories."
+    ]
+   }
+  ],
+  "examples": [
+   "They signed a contract wherein they agreed to the terms.",
+   "We must create a society wherein all citizens are treated equally.",
+   "It remains unclear wherein lies the difference between the two theories."
+  ],
+  "translations": [
+   "حيث",
+   "فيه",
+   "الذي فيه"
+  ],
+  "relations": {
+   "synonyms": [
+    "in which",
+    "where",
+    "whereby"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "wherein lies",
+    "case wherein",
+    "society wherein"
+   ]
+  },
+  "mnemonic": "اقسمها لـ 'Where' و 'In'.. يعني 'In where' 'في أين/في ماذا'.. بتسأل أو بتشير للي جوه الشيء.",
+  "phonetic_us": "werˈɪn",
+  "phonetic_uk": "weərˈɪn",
+  "syllables": "where•in",
+  "semantic_tags": [
+   "#Legal",
+   "#Formal",
+   "#Reference"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In which place, situation, or respect; in what way.",
+  "explanation_ar": "كلمة رسمية معناها 'حيث' أو 'اللي فيه'. بتستخدم لما تشير لمكان أو وثيقة أو موقف وتقول إن جواه حصل كذا.",
+  "examples": [
+   "They signed a contract wherein they agreed to the terms.",
+   "We must create a society wherein all citizens are treated equally.",
+   "It remains unclear wherein lies the difference between the two theories."
+  ],
+  "translations": {
+   "arabic_ar": "حيث فيه الذي فيه"
+  },
+  "synonyms": [
+   "in which",
+   "where",
+   "whereby"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "wherein lies",
+   "case wherein",
+   "society wherein"
+  ],
+  "mnemonic_ar": "اقسمها لـ 'Where' و 'In'.. يعني 'In where' 'في أين/في ماذا'.. بتسأل أو بتشير للي جوه الشيء."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "superficial",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "superficial",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Existing or occurring at or on the surface; not deep, thorough, or serious.",
+  "explanation_ar": "سطحي، يعني يا دوب من بره بس وما بيدخلش في العمق أو التفاصيل، سواء جرح سطحي أو شخص سطحي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Located on or affecting only the surface of something.",
+    "explanation_ar": "كائن أو واقع على السطح فقط (مثل جرح سطحي أو ضرر خارجي).",
+    "examples": [
+     "The doctor assured him that it was only a superficial injury."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Not thorough, profound, or complete; concerned only with obvious or outward appearances.",
+    "explanation_ar": "غير عميق أو غير مدروس بعناية؛ مقتصر على المظاهر والقشور الخارجية.",
+    "examples": [
+     "He has a superficial knowledge of the topic.",
+     "The changes were purely superficial and didn't solve the problem."
+    ]
+   }
+  ],
+  "examples": [
+   "He has a superficial knowledge of the topic.",
+   "The changes were purely superficial and didn't solve the problem.",
+   "His analysis was criticized for being superficial and lacking insight."
+  ],
+  "translations": [
+   "سَطْحِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "shallow",
+    "surface",
+    "external",
+    "cosmetic"
+   ],
+   "antonyms": [
+    "deep",
+    "profound",
+    "thorough"
+   ],
+   "collocations": [
+    "superficial wound",
+    "superficial resemblance",
+    "superficial damage"
+   ]
+  },
+  "mnemonic": "'Super' + 'Face'.. يعني حاجة على الـ 'Face' 'الوش' بس، مش جوه.",
+  "phonetic_us": "ˌsuːpərˈfɪʃəl",
+  "phonetic_uk": "ˌsuːpəˈfɪʃəl",
+  "syllables": "su•per•fi•cial",
+  "semantic_tags": [
+   "Surface",
+   "Depth",
+   "Personality"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Existing or occurring at or on the surface; not deep, thorough, or serious.",
+  "explanation_ar": "سطحي، يعني يا دوب من بره بس وما بيدخلش في العمق أو التفاصيل، سواء جرح سطحي أو شخص سطحي.",
+  "examples": [
+   "He has a superficial knowledge of the topic.",
+   "The changes were purely superficial and didn't solve the problem.",
+   "His analysis was criticized for being superficial and lacking insight."
+  ],
+  "translations": {
+   "arabic_ar": "سَطْحِيّ"
+  },
+  "synonyms": [
+   "shallow",
+   "surface",
+   "external",
+   "cosmetic"
+  ],
+  "antonyms": [
+   "deep",
+   "profound",
+   "thorough"
+  ],
+  "collocations": [
+   "superficial wound",
+   "superficial resemblance",
+   "superficial damage"
+  ],
+  "mnemonic_ar": "'Super' + 'Face'.. يعني حاجة على الـ 'Face' 'الوش' بس، مش جوه."
+ }
+}

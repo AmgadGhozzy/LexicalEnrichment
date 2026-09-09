@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "village",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "village",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+  "explanation_ar": "قرية، مكان صغير الناس بتعيش فيه في الريف، أصغر من المدينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+    "explanation_ar": "قرية، تجمع سكني صغير في الريف أصغر من المدينة.",
+    "examples": [
+     "I live in a small village.",
+     "The village is near the mountains.",
+     "Everyone in the village knows each other."
+    ]
+   }
+  ],
+  "examples": [
+   "I live in a small village.",
+   "The village is near the mountains.",
+   "Everyone in the village knows each other."
+  ],
+  "translations": [
+   "قرية"
+  ],
+  "relations": {
+   "synonyms": [
+    "hamlet",
+    "settlement",
+    "small town"
+   ],
+   "antonyms": [
+    "city",
+    "metropolis"
+   ],
+   "collocations": [
+    "small village",
+    "fishing village",
+    "remote village",
+    "Olympic village"
+   ]
+  },
+  "mnemonic": "كلمة 'Village' شبه 'Villa'.. الـ 'Village' 'القرية' هي مكان فيه بيوت صغيرة.",
+  "phonetic_us": "ˈvɪl.ɪdʒ",
+  "phonetic_uk": "ˈvɪl.ɪdʒ",
+  "syllables": "vil•lage",
+  "semantic_tags": [
+   "Place",
+   "Home",
+   "Rural",
+   "Community"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+  "explanation_ar": "قرية، مكان صغير الناس بتعيش فيه في الريف، أصغر من المدينة.",
+  "examples": [
+   "I live in a small village.",
+   "The village is near the mountains.",
+   "Everyone in the village knows each other."
+  ],
+  "translations": {
+   "arabic_ar": "قرية"
+  },
+  "synonyms": [
+   "hamlet",
+   "settlement",
+   "small town"
+  ],
+  "antonyms": [
+   "city",
+   "metropolis"
+  ],
+  "collocations": [
+   "small village",
+   "fishing village",
+   "remote village",
+   "Olympic village"
+  ],
+  "mnemonic_ar": "كلمة 'Village' شبه 'Villa'.. الـ 'Village' 'القرية' هي مكان فيه بيوت صغيرة."
+ }
+}

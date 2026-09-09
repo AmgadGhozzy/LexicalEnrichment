@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "successive",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "successive",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Following one another or following others.",
+  "explanation_ar": "متتابع، يعني حاجات جاية ورا بعضها بالترتيب من غير انقطاع.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Following one another or following others.",
+    "explanation_ar": "متتابع، يعني حاجات جاية ورا بعضها بالترتيب من غير انقطاع.",
+    "examples": [
+     "It rained for three successive days.",
+     "He won the title for the third successive year.",
+     "The team suffered five successive defeats."
+    ]
+   }
+  ],
+  "examples": [
+   "It rained for three successive days.",
+   "He won the title for the third successive year.",
+   "The team suffered five successive defeats."
+  ],
+  "translations": [
+   "متتابع",
+   "متعاقب",
+   "متتالٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "consecutive",
+    "sequential",
+    "following",
+    "continuous"
+   ],
+   "antonyms": [
+    "interrupted",
+    "separate"
+   ],
+   "collocations": [
+    "successive days",
+    "successive governments",
+    "successive generations",
+    "successive wins"
+   ]
+  },
+  "mnemonic": "شبه 'Successful' بس المعنى مختلف.. اربطها بـ 'Successor' 'الخليفة' اللي بييجي بعد الملك.",
+  "phonetic_us": "səkˈsɛs.ɪv",
+  "phonetic_uk": "səkˈses.ɪv",
+  "syllables": "suc•ces•sive",
+  "semantic_tags": [
+   "Order",
+   "Sequence",
+   "Time"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Following one another or following others.",
+  "explanation_ar": "متتابع، يعني حاجات جاية ورا بعضها بالترتيب من غير انقطاع.",
+  "examples": [
+   "It rained for three successive days.",
+   "He won the title for the third successive year.",
+   "The team suffered five successive defeats."
+  ],
+  "translations": {
+   "arabic_ar": "متتابع متعاقب متتالٍ"
+  },
+  "synonyms": [
+   "consecutive",
+   "sequential",
+   "following",
+   "continuous"
+  ],
+  "antonyms": [
+   "interrupted",
+   "separate"
+  ],
+  "collocations": [
+   "successive days",
+   "successive governments",
+   "successive generations",
+   "successive wins"
+  ],
+  "mnemonic_ar": "شبه 'Successful' بس المعنى مختلف.. اربطها بـ 'Successor' 'الخليفة' اللي بييجي بعد الملك."
+ }
+}

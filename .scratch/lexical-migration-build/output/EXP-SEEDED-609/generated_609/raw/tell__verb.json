@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "tell",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "tell",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To communicate information to someone.",
+  "explanation_ar": "يقول أو يخبر حد بحاجة. يعني تحكي قصة أو تدي معلومة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To communicate information, facts, or a story to someone.",
+    "explanation_ar": "يخبر أو يقول لشخص ما معلومة أو قصة.",
+    "examples": [
+     "Can you tell me the time?",
+     "Please tell me your name.",
+     "I want to tell you a story."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you tell me the time?",
+   "Please tell me your name.",
+   "I want to tell you a story."
+  ],
+  "translations": [
+   "يخبر"
+  ],
+  "relations": {
+   "synonyms": [
+    "inform",
+    "say",
+    "narrate"
+   ],
+   "antonyms": [
+    "hide",
+    "conceal"
+   ],
+   "collocations": [
+    "tell a story",
+    "tell the truth",
+    "tell a lie"
+   ]
+  },
+  "mnemonic": "كلمة 'Tell' شبه 'Tel' 'تليفون'.. بستخدم التليفون عشان 'Tell' 'أخبر' حد بحاجة.",
+  "phonetic_us": "tel",
+  "phonetic_uk": null,
+  "syllables": null,
+  "semantic_tags": [
+   "#Speech",
+   "#Story",
+   "#Inform"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To communicate information to someone.",
+  "explanation_ar": "يقول أو يخبر حد بحاجة. يعني تحكي قصة أو تدي معلومة.",
+  "examples": [
+   "Can you tell me the time?",
+   "Please tell me your name.",
+   "I want to tell you a story."
+  ],
+  "translations": {
+   "arabic_ar": "يخبر"
+  },
+  "synonyms": [
+   "inform",
+   "say",
+   "narrate"
+  ],
+  "antonyms": [
+   "hide",
+   "conceal"
+  ],
+  "collocations": [
+   "tell a story",
+   "tell the truth",
+   "tell a lie"
+  ],
+  "mnemonic_ar": "كلمة 'Tell' شبه 'Tel' 'تليفون'.. بستخدم التليفون عشان 'Tell' 'أخبر' حد بحاجة."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "tangible",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "tangible",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Perceptible by touch; clear, definite, and real.",
+  "explanation_ar": "حاجة ملموسة وحقيقية تقدر تمسكها بإيدك أو تشوف نتايجها بعينك.",
+  "senses": [
+   {
+    "definition_en": "Perceptible by touch; capable of being touched or physically felt.",
+    "definition_ar": "ملموس أو قابل للمس باليد مادياً."
+   },
+   {
+    "definition_en": "Clear, definite, and real enough to be clearly seen, measured, or proven.",
+    "definition_ar": "واضح وحقيقي بدرجة تكفي لملاحظته أو قياسه أو إثباته."
+   }
+  ],
+  "examples": [
+   "The police found tangible evidence at the scene.",
+   "We need to see tangible improvements in the economy.",
+   "There are no tangible benefits to this plan."
+  ],
+  "translations": [
+   "ملموس",
+   "حقيقي",
+   "محسوس"
+  ],
+  "relations": {
+   "synonyms": [
+    "concrete",
+    "palpable",
+    "real",
+    "touchable"
+   ],
+   "antonyms": [
+    "intangible",
+    "abstract",
+    "theoretical"
+   ],
+   "collocations": [
+    "tangible evidence",
+    "tangible results",
+    "tangible assets",
+    "tangible benefits"
+   ]
+  },
+  "mnemonic": "كلمة 'Touch' تلمس.. الـ 'Tangible' هو اللي قابل للـ 'Touch'.",
+  "phonetic_us": "ˈtændʒəbəl",
+  "phonetic_uk": "ˈtændʒəbl",
+  "syllables": "tan•gi•ble",
+  "semantic_tags": [
+   "Reality",
+   "Touch",
+   "Evidence"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Perceptible by touch; clear, definite, and real.",
+  "explanation_ar": "حاجة ملموسة وحقيقية تقدر تمسكها بإيدك أو تشوف نتايجها بعينك.",
+  "examples": [
+   "The police found tangible evidence at the scene.",
+   "We need to see tangible improvements in the economy.",
+   "There are no tangible benefits to this plan."
+  ],
+  "translations": {
+   "arabic_ar": "ملموس حقيقي محسوس"
+  },
+  "synonyms": [
+   "concrete",
+   "palpable",
+   "real",
+   "touchable"
+  ],
+  "antonyms": [
+   "intangible",
+   "abstract",
+   "theoretical"
+  ],
+  "collocations": [
+   "tangible evidence",
+   "tangible results",
+   "tangible assets",
+   "tangible benefits"
+  ],
+  "mnemonic_ar": "كلمة 'Touch' تلمس.. الـ 'Tangible' هو اللي قابل للـ 'Touch'."
+ }
+}

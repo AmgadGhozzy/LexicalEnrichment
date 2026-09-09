@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "woman",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "woman",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An adult female human being.",
+  "explanation_ar": "الست أو السيدة البالغة.",
+  "senses": [
+   {
+    "sense_id": "woman_n_1",
+    "definition_en": "An adult female human being.",
+    "explanation_ar": "الست أو السيدة البالغة.",
+    "examples": [
+     "She is a nice woman.",
+     "A woman was waiting for the bus.",
+     "She is a woman of her word."
+    ]
+   }
+  ],
+  "examples": [
+   "She is a nice woman.",
+   "A woman was waiting for the bus.",
+   "She is a woman of her word."
+  ],
+  "translations": [
+   "اِمْرَأَة",
+   "سَيِّدَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "lady",
+    "female"
+   ],
+   "antonyms": [
+    "man"
+   ],
+   "collocations": [
+    "young woman",
+    "business woman",
+    "pregnant woman",
+    "old woman"
+   ]
+  },
+  "mnemonic": "كلمة 'Woman' فيها 'Man'.. بس الـ 'Wo' في الأول بتميزها إنها ست.",
+  "phonetic_us": "ˈwʊmən",
+  "phonetic_uk": "ˈwʊmən",
+  "syllables": "wom•an",
+  "semantic_tags": [
+   "#Female",
+   "#Person",
+   "#Gender"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "An adult female human being.",
+  "explanation_ar": "الست أو السيدة البالغة.",
+  "examples": [
+   "She is a nice woman.",
+   "A woman was waiting for the bus.",
+   "She is a woman of her word."
+  ],
+  "translations": {
+   "arabic_ar": "اِمْرَأَة سَيِّدَة"
+  },
+  "synonyms": [
+   "lady",
+   "female"
+  ],
+  "antonyms": [
+   "man"
+  ],
+  "collocations": [
+   "young woman",
+   "business woman",
+   "pregnant woman",
+   "old woman"
+  ],
+  "mnemonic_ar": "كلمة 'Woman' فيها 'Man'.. بس الـ 'Wo' في الأول بتميزها إنها ست."
+ }
+}

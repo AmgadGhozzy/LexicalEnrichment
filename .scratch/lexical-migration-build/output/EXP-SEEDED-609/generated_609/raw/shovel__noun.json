@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "shovel",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "shovel",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A tool with a broad blade used for moving loose material like earth or snow.",
+  "explanation_ar": "أداة ذات نصل عريض ومقبض طويل تُستخدم لرفع ونقل المواد السائبة مثل الرمل، التراب، أو الثلج (الكوريك أو الجاروف).",
+  "senses": [
+   {
+    "definition_en": "A tool with a broad blade used for moving loose material like earth or snow.",
+    "definition_ar": "أداة لرفع ونقل المواد السائبة كالتراب أو الثلج (مجرفة / جاروف).",
+    "examples": [
+     "He used a shovel to dig a hole.",
+     "He grabbed a shovel to clear the dirt from the driveway.",
+     "Archaeologists used a small shovel to carefully remove the sediment."
+    ]
+   }
+  ],
+  "examples": [
+   "He used a shovel to dig a hole.",
+   "He grabbed a shovel to clear the dirt from the driveway.",
+   "Archaeologists used a small shovel to carefully remove the sediment."
+  ],
+  "translations": [
+   "مجرفة",
+   "جاروف",
+   "كوريك"
+  ],
+  "relations": {
+   "synonyms": [
+    "spade",
+    "scoop"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "snow shovel",
+    "steam shovel",
+    "pick and shovel"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة 'shove' (يدفع/يزق)، لأنك تستخدم الـ shovel لدفع التراب أو الثلج ورفعه.",
+  "phonetic_us": "ˈʃʌvəl",
+  "phonetic_uk": "ˈʃʌvl",
+  "syllables": "shov•el",
+  "semantic_tags": [
+   "#Construction",
+   "#Gardening",
+   "#Snow",
+   "#ManualWork"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A tool with a broad blade used for moving loose material like earth or snow.",
+  "explanation_ar": "أداة ذات نصل عريض ومقبض طويل تُستخدم لرفع ونقل المواد السائبة مثل الرمل، التراب، أو الثلج (الكوريك أو الجاروف).",
+  "examples": [
+   "He used a shovel to dig a hole.",
+   "He grabbed a shovel to clear the dirt from the driveway.",
+   "Archaeologists used a small shovel to carefully remove the sediment."
+  ],
+  "translations": {
+   "arabic_ar": "مجرفة جاروف كوريك"
+  },
+  "synonyms": [
+   "spade",
+   "scoop"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "snow shovel",
+   "steam shovel",
+   "pick and shovel"
+  ],
+  "mnemonic_ar": "قريبة من كلمة 'shove' (يدفع/يزق)، لأنك تستخدم الـ shovel لدفع التراب أو الثلج ورفعه."
+ }
+}

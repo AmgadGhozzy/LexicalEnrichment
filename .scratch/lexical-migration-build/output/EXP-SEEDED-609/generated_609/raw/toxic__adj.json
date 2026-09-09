@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "toxic",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "toxic",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Poisonous; very harmful or unpleasant in a pervasive or insidious way.",
+  "explanation_ar": "سام. سواء مادة بتموت، أو علاقة أو شخص مؤذي نفسياً بنقول عليه 'توكسيك'.",
+  "senses": [
+   {
+    "sense_id": "literal_poisonous",
+    "definition_en": "Containing or being poisonous substances.",
+    "definition_ar": "سام، يحتوي على سموم أو مواد تسبب التسمم والضرر الجسدي.",
+    "examples": [
+     "The factory released toxic waste into the river."
+    ]
+   },
+   {
+    "sense_id": "figurative_harmful",
+    "definition_en": "Extremely harmful, malicious, or damaging to mental health or well-being.",
+    "definition_ar": "مؤذٍ أو هدام نفسياً (مثل بيئة عمل غير صحية أو علاقة غير سوية).",
+    "examples": [
+     "She ended a toxic relationship.",
+     "The work environment became toxic due to the new manager."
+    ]
+   }
+  ],
+  "examples": [
+   "The factory released toxic waste into the river.",
+   "She ended a toxic relationship.",
+   "The work environment became toxic due to the new manager."
+  ],
+  "translations": [
+   "سَامّ",
+   "مؤذٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "poisonous",
+    "noxious",
+    "harmful",
+    "destructive"
+   ],
+   "antonyms": [
+    "harmless",
+    "safe",
+    "nontoxic"
+   ],
+   "collocations": [
+    "toxic waste",
+    "toxic relationship",
+    "toxic chemicals",
+    "toxic environment"
+   ],
+   "word_family": {
+    "noun": "toxicity",
+    "adjective": "toxic",
+    "adverb": "toxically"
+   }
+  },
+  "mnemonic": "علامة الـ 'X' في 'Toxic' بتفكرك بالخطر والمواد السامة اللي عليها علامة إكس",
+  "phonetic_us": "ˈtɑksɪk",
+  "phonetic_uk": "ˈtɒksɪk",
+  "syllables": "tox•ic",
+  "semantic_tags": [
+   "Poison",
+   "Danger",
+   "Relationship"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Poisonous; very harmful or unpleasant in a pervasive or insidious way.",
+  "explanation_ar": "سام. سواء مادة بتموت، أو علاقة أو شخص مؤذي نفسياً بنقول عليه 'توكسيك'.",
+  "examples": [
+   "The factory released toxic waste into the river.",
+   "She ended a toxic relationship.",
+   "The work environment became toxic due to the new manager."
+  ],
+  "translations": {
+   "arabic_ar": "سَامّ مؤذٍ"
+  },
+  "synonyms": [
+   "poisonous",
+   "noxious",
+   "harmful",
+   "destructive"
+  ],
+  "antonyms": [
+   "harmless",
+   "safe",
+   "nontoxic"
+  ],
+  "collocations": [
+   "toxic waste",
+   "toxic relationship",
+   "toxic chemicals",
+   "toxic environment"
+  ],
+  "mnemonic_ar": "علامة الـ 'X' في 'Toxic' بتفكرك بالخطر والمواد السامة اللي عليها علامة إكس"
+ }
+}

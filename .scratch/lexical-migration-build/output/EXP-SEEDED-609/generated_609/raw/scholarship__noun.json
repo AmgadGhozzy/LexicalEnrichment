@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "scholarship",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "scholarship",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A grant or payment made to support a student's education.",
+  "explanation_ar": "منحة دراسية.. فلوس بتدفع للطالب المتفوق عشان يكمل تعليمه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A grant or payment made to support a student's education.",
+    "explanation_ar": "منحة دراسية تُمنح للطالب لدعمه ماديًا أثناء دراسته.",
+    "examples": [
+     "She won a scholarship to study at the university.",
+     "The scholarship covers his tuition fees."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Serious, high-level academic study or knowledge of a subject.",
+    "explanation_ar": "دراسة أكاديمية عميقة ومستوى متقدم من المعرفة والبحث العلمي.",
+    "examples": [
+     "The professor was renowned for his impeccable scholarship."
+    ]
+   }
+  ],
+  "examples": [
+   "She won a scholarship to study at the university.",
+   "The scholarship covers his tuition fees.",
+   "She applied for a sports scholarship at the university."
+  ],
+  "translations": [
+   "منحة دراسية"
+  ],
+  "relations": {
+   "synonyms": [
+    "grant",
+    "bursary",
+    "fellowship"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "win a scholarship",
+    "full scholarship",
+    "scholarship fund"
+   ],
+   "word_family": {
+    "noun": "scholar",
+    "adjective": "scholarly"
+   }
+  },
+  "mnemonic": "جاية من 'Scholar' 'طالب علم'.. الـ 'Scholarship' هي الفلوس اللي بياخدها الـ 'Scholar' عشان يدرس.",
+  "phonetic_us": "ˈskɑləɹʃɪp",
+  "phonetic_uk": "ˈskɒləʃɪp",
+  "syllables": "schol•ar•ship",
+  "semantic_tags": [
+   "University",
+   "Grant",
+   "Study"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A grant or payment made to support a student's education.",
+  "explanation_ar": "منحة دراسية.. فلوس بتدفع للطالب المتفوق عشان يكمل تعليمه.",
+  "examples": [
+   "She won a scholarship to study at the university.",
+   "The scholarship covers his tuition fees.",
+   "She applied for a sports scholarship at the university."
+  ],
+  "translations": {
+   "arabic_ar": "منحة دراسية"
+  },
+  "synonyms": [
+   "grant",
+   "bursary",
+   "fellowship"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "win a scholarship",
+   "full scholarship",
+   "scholarship fund"
+  ],
+  "mnemonic_ar": "جاية من 'Scholar' 'طالب علم'.. الـ 'Scholarship' هي الفلوس اللي بياخدها الـ 'Scholar' عشان يدرس."
+ }
+}

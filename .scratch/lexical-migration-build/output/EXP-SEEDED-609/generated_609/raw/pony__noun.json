@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "pony",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "pony",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A small type of horse, often used for children to ride.",
+  "explanation_ar": "حصان حجمه صغير، مش مُهر 'ابن الحصان' لكن هو نوع سلالته كده قصيرة، ولطيف جداً مع الأطفال.",
+  "senses": [
+   {
+    "sense_id": "pony_1",
+    "definition_en": "A small type of horse, often used for children to ride.",
+    "explanation_ar": "حصان صغير الحجم من سلالة قصيرة القامة.",
+    "examples": [
+     "She learned to ride on a small pony.",
+     "I want to ride a pony.",
+     "The pony is eating an apple."
+    ]
+   }
+  ],
+  "examples": [
+   "She learned to ride on a small pony.",
+   "I want to ride a pony.",
+   "The pony is eating an apple."
+  ],
+  "translations": [
+   "حصان صغير",
+   "سيسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "small horse"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ride a pony",
+    "Shetland pony"
+   ]
+  },
+  "mnemonic": "كلمة 'Pony' قريبة من 'Bonny'.. يعني جميل وصغير، أو افتكر تسريحة شعر 'Ponytail' 'ذيل الحصان'.",
+  "phonetic_us": "ˈpoʊni",
+  "phonetic_uk": "ˈpəʊni",
+  "syllables": [
+   "po",
+   "ny"
+  ],
+  "semantic_tags": [
+   "Animals",
+   "Pets",
+   "Riding"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A small type of horse, often used for children to ride.",
+  "explanation_ar": "حصان حجمه صغير، مش مُهر 'ابن الحصان' لكن هو نوع سلالته كده قصيرة، ولطيف جداً مع الأطفال.",
+  "examples": [
+   "She learned to ride on a small pony.",
+   "I want to ride a pony.",
+   "The pony is eating an apple."
+  ],
+  "translations": {
+   "arabic_ar": "حصان صغير سيسي"
+  },
+  "synonyms": [
+   "small horse"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ride a pony",
+   "Shetland pony"
+  ],
+  "mnemonic_ar": "كلمة 'Pony' قريبة من 'Bonny'.. يعني جميل وصغير، أو افتكر تسريحة شعر 'Ponytail' 'ذيل الحصان'."
+ }
+}

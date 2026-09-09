@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "sexuality",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "sexuality",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Capacity for sexual feelings, or a person's sexual orientation and expression.",
+  "explanation_ar": "الميول الجنسية للشخص أو قدرته وطبيعته في التعبير عن المشاعر الجنسية.",
+  "senses": [
+   {
+    "definition_en": "Capacity for sexual feelings, or a person's sexual orientation and expression.",
+    "definition_ar": "الميول الجنسية للشخص أو قدرته وطبيعته في التعبير عن المشاعر الجنسية.",
+    "examples": [
+     "They discussed human sexuality in biology class.",
+     "Art often explores themes of sexuality.",
+     "The book examines the repression of female sexuality."
+    ]
+   }
+  ],
+  "examples": [
+   "They discussed human sexuality in biology class.",
+   "Art often explores themes of sexuality.",
+   "The book examines the repression of female sexuality."
+  ],
+  "translations": [
+   "جنسانية",
+   "ميول جنسية",
+   "حياة جنسية"
+  ],
+  "relations": {
+   "synonyms": [
+    "sexual orientation",
+    "sensuality"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "human sexuality",
+    "female sexuality",
+    "express sexuality"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˌsekʃuˈæləti",
+  "phonetic_uk": "ˌsekʃuˈæləti",
+  "syllables": "sex•u•al•i•ty",
+  "semantic_tags": [
+   "Identity",
+   "Biology",
+   "Gender",
+   "Psychology"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Capacity for sexual feelings, or a person's sexual orientation and expression.",
+  "explanation_ar": "الميول الجنسية للشخص أو قدرته وطبيعته في التعبير عن المشاعر الجنسية.",
+  "examples": [
+   "They discussed human sexuality in biology class.",
+   "Art often explores themes of sexuality.",
+   "The book examines the repression of female sexuality."
+  ],
+  "translations": {
+   "arabic_ar": "جنسانية ميول جنسية حياة جنسية"
+  },
+  "synonyms": [
+   "sexual orientation",
+   "sensuality"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "human sexuality",
+   "female sexuality",
+   "express sexuality"
+  ],
+  "mnemonic_ar": null
+ }
+}

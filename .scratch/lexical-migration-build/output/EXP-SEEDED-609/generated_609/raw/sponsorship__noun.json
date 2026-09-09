@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "sponsorship",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "sponsorship",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Financial support given by a sponsor to a person, organization, or activity.",
+  "explanation_ar": "الرعاية أو التمويل؛ عندما تدفع شركة أو جهة أموالاً لدعم شخص أو حدث رياضي أو ثقافي مقابل الإعلان أو الترويج.",
+  "senses": [
+   {
+    "definition_en": "Financial support given by a sponsor to a person, organization, or activity.",
+    "definition_ar": "الدعم المالي المقدم من راعٍ لشخص أو منظمة أو نشاط.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The company offered sponsorship for the event.",
+   "They signed a lucrative sponsorship deal.",
+   "Corporate sponsorship is essential for the arts."
+  ],
+  "translations": [
+   "رِعَايَة",
+   "تَمْوِيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "funding",
+    "backing",
+    "patronage",
+    "support"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sponsorship deal",
+    "corporate sponsorship",
+    "seek sponsorship",
+    "sponsorship agreement"
+   ]
+  },
+  "mnemonic": "الـ 'Sponsor' الراعي.. الـ 'Sponsorship' هي الرعاية نفسها",
+  "phonetic_us": "ˈspɑːnsərʃɪp",
+  "phonetic_uk": "ˈspɒnsəʃɪp",
+  "syllables": "spon•sor•ship",
+  "semantic_tags": [
+   "Business",
+   "Money",
+   "Marketing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Financial support given by a sponsor to a person, organization, or activity.",
+  "explanation_ar": "الرعاية أو التمويل؛ عندما تدفع شركة أو جهة أموالاً لدعم شخص أو حدث رياضي أو ثقافي مقابل الإعلان أو الترويج.",
+  "examples": [
+   "The company offered sponsorship for the event.",
+   "They signed a lucrative sponsorship deal.",
+   "Corporate sponsorship is essential for the arts."
+  ],
+  "translations": {
+   "arabic_ar": "رِعَايَة تَمْوِيل"
+  },
+  "synonyms": [
+   "funding",
+   "backing",
+   "patronage",
+   "support"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sponsorship deal",
+   "corporate sponsorship",
+   "seek sponsorship",
+   "sponsorship agreement"
+  ],
+  "mnemonic_ar": "الـ 'Sponsor' الراعي.. الـ 'Sponsorship' هي الرعاية نفسها"
+ }
+}

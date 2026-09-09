@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "wrongdoing",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "wrongdoing",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Illegal or dishonest behavior.",
+  "explanation_ar": "عمل غلط أو مخالف للقانون أو الأخلاق.",
+  "senses": [
+   {
+    "definition_en": "Illegal or dishonest behavior.",
+    "explanation_ar": "عمل غلط أو مخالف للقانون أو الأخلاق."
+   }
+  ],
+  "examples": [
+   "She denied any wrongdoing.",
+   "The company was accused of financial wrongdoing.",
+   "The official resigned amidst allegations of serious wrongdoing."
+  ],
+  "translations": [
+   "مخالفة",
+   "إثم",
+   "عمل غير قانوني"
+  ],
+  "relations": {
+   "synonyms": [
+    "misconduct",
+    "offense",
+    "crime",
+    "sin"
+   ],
+   "antonyms": [
+    "virtue",
+    "goodness",
+    "righteousness"
+   ],
+   "collocations": [
+    "deny wrongdoing",
+    "alleged wrongdoing",
+    "evidence of wrongdoing",
+    "admit wrongdoing"
+   ]
+  },
+  "mnemonic": "'Wrong' 'غلط' + 'Doing' 'فعل'.. يعني فعل الغلط.",
+  "phonetic_us": "ˈrɔːŋˌduːɪŋ",
+  "phonetic_uk": "ˈrɒŋduːɪŋ",
+  "syllables": "wrong•do•ing",
+  "semantic_tags": [
+   "crime",
+   "law",
+   "morality",
+   "misconduct"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Illegal or dishonest behavior.",
+  "explanation_ar": "عمل غلط أو مخالف للقانون أو الأخلاق.",
+  "examples": [
+   "She denied any wrongdoing.",
+   "The company was accused of financial wrongdoing.",
+   "The official resigned amidst allegations of serious wrongdoing."
+  ],
+  "translations": {
+   "arabic_ar": "مخالفة إثم عمل غير قانوني"
+  },
+  "synonyms": [
+   "misconduct",
+   "offense",
+   "crime",
+   "sin"
+  ],
+  "antonyms": [
+   "virtue",
+   "goodness",
+   "righteousness"
+  ],
+  "collocations": [
+   "deny wrongdoing",
+   "alleged wrongdoing",
+   "evidence of wrongdoing",
+   "admit wrongdoing"
+  ],
+  "mnemonic_ar": "'Wrong' 'غلط' + 'Doing' 'فعل'.. يعني فعل الغلط."
+ }
+}

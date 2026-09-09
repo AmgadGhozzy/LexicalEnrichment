@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "strike",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "strike",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To hit forcibly and deliberately; to stop work as a protest.",
+  "explanation_ar": "إنك تضرب حاجة بقوة، أو العمال يوقفوا شغلهم كنوع من الاحتجاج.",
+  "senses": [
+   {
+    "definition_en": "To hit forcibly and deliberately.",
+    "definition_ar": "يضرب بقوة وعن قصد."
+   },
+   {
+    "definition_en": "To stop work as a protest.",
+    "definition_ar": "يُضرب عن العمل احتجاجاً."
+   }
+  ],
+  "examples": [
+   "Workers voted to strike for better pay.",
+   "They hope to strike a balance between cost and quality.",
+   "Lightning can strike trees."
+  ],
+  "translations": [
+   "يضرب",
+   "يُضرِب عن العمل"
+  ],
+  "relations": {
+   "synonyms": [
+    "hit",
+    "beat",
+    "walk out"
+   ],
+   "antonyms": [
+    "miss",
+    "defend"
+   ],
+   "collocations": [
+    "strike a balance",
+    "strike a deal",
+    "strike gold"
+   ]
+  },
+  "mnemonic": "هو قرر 'Strike' الكورة بقوة عشان يجيب جول.",
+  "phonetic_us": "stɹaɪk",
+  "phonetic_uk": null,
+  "syllables": null,
+  "semantic_tags": [
+   "#Hit",
+   "#Protest",
+   "#Impact"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To hit forcibly and deliberately; to stop work as a protest.",
+  "explanation_ar": "إنك تضرب حاجة بقوة، أو العمال يوقفوا شغلهم كنوع من الاحتجاج.",
+  "examples": [
+   "Workers voted to strike for better pay.",
+   "They hope to strike a balance between cost and quality.",
+   "Lightning can strike trees."
+  ],
+  "translations": {
+   "arabic_ar": "يضرب يُضرِب عن العمل"
+  },
+  "synonyms": [
+   "hit",
+   "beat",
+   "walk out"
+  ],
+  "antonyms": [
+   "miss",
+   "defend"
+  ],
+  "collocations": [
+   "strike a balance",
+   "strike a deal",
+   "strike gold"
+  ],
+  "mnemonic_ar": "هو قرر 'Strike' الكورة بقوة عشان يجيب جول."
+ }
+}

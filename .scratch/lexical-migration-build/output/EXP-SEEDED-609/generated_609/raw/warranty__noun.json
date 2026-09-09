@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "warranty",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "warranty",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A written guarantee promising to repair or replace an article if necessary.",
+  "explanation_ar": "وعد مكتوب من الشركة إنها تصلحلك الجهاز أو تبدله لو باظ في فترة معينة 'الضمان'.",
+  "senses": [
+   {
+    "definition_en": "A written guarantee promising to repair or replace an article if necessary.",
+    "explanation_ar": "تعهد كتابي رسمي من الشركة أو البائع بإصلاح أو استبدال سلعة معينة إذا ظهر بها عيب خلال فترة محددة (الضمان)."
+   }
+  ],
+  "examples": [
+   "The warranty covers repairs for one year.",
+   "The warranty is void if you open the device yourself.",
+   "I bought an extended warranty for my laptop."
+  ],
+  "translations": [
+   "ضمان",
+   "كفالة"
+  ],
+  "relations": {
+   "synonyms": [
+    "guarantee",
+    "assurance",
+    "pledge"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "under warranty",
+    "void the warranty",
+    "extended warranty"
+   ]
+  },
+  "mnemonic": "جاية من 'Warrant' يضمن.. دي ورقة الضمان اللي بتحفظ حقك.",
+  "phonetic_us": "ˈwɔːrənti",
+  "phonetic_uk": "ˈwɒrənti",
+  "syllables": "war•ran•ty",
+  "semantic_tags": [
+   "#Shopping",
+   "#Guarantee",
+   "#Contract",
+   "#Repair"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A written guarantee promising to repair or replace an article if necessary.",
+  "explanation_ar": "وعد مكتوب من الشركة إنها تصلحلك الجهاز أو تبدله لو باظ في فترة معينة 'الضمان'.",
+  "examples": [
+   "The warranty covers repairs for one year.",
+   "The warranty is void if you open the device yourself.",
+   "I bought an extended warranty for my laptop."
+  ],
+  "translations": {
+   "arabic_ar": "ضمان كفالة"
+  },
+  "synonyms": [
+   "guarantee",
+   "assurance",
+   "pledge"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "under warranty",
+   "void the warranty",
+   "extended warranty"
+  ],
+  "mnemonic_ar": "جاية من 'Warrant' يضمن.. دي ورقة الضمان اللي بتحفظ حقك."
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "radius",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "radius",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The distance from the center of a circle to its edge, or a circular area of a specified distance around a central point.",
+  "explanation_ar": "المسافة من نص الدايرة لحد الحرف بتاعها (نصف القطر)، أو المنطقة الدائرية اللي حوالين مكان معين في حدود مسافة محددة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The straight-line distance from the center of a circle or sphere to its outer edge.",
+    "definition_ar": "نصف القطر؛ المسافة المستقيمة من مركز دائرة أو كرة إلى محيطها.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A circular area measured by a specified distance from a central point.",
+    "definition_ar": "نطاق أو منطقة دائرية محددة بمسافة معينة حول نقطة مركزية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The radius of the wheel is 10 inches.",
+   "The police searched within a five-mile radius.",
+   "They deliver within a ten-mile radius of the store."
+  ],
+  "translations": [
+   "نصف القطر",
+   "نطاق"
+  ],
+  "relations": {
+   "synonyms": [
+    "range",
+    "reach",
+    "span"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "within a radius",
+    "outer radius",
+    "turning radius"
+   ]
+  },
+  "mnemonic": "قريبة من 'Radio' 'راديو'.. إشارة الـ 'Radio' بتغطي 'Radius' مسافة معينة حوالين المحطة.",
+  "phonetic_us": "ˈreɪdiəs",
+  "phonetic_uk": "ˈreɪdiəs",
+  "syllables": "ra•dius",
+  "semantic_tags": [
+   "#Math",
+   "#Geometry",
+   "#Distance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The distance from the center of a circle to its edge, or a circular area of a specified distance around a central point.",
+  "explanation_ar": "المسافة من نص الدايرة لحد الحرف بتاعها (نصف القطر)، أو المنطقة الدائرية اللي حوالين مكان معين في حدود مسافة محددة.",
+  "examples": [
+   "The radius of the wheel is 10 inches.",
+   "The police searched within a five-mile radius.",
+   "They deliver within a ten-mile radius of the store."
+  ],
+  "translations": {
+   "arabic_ar": "نصف القطر نطاق"
+  },
+  "synonyms": [
+   "range",
+   "reach",
+   "span"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "within a radius",
+   "outer radius",
+   "turning radius"
+  ],
+  "mnemonic_ar": "قريبة من 'Radio' 'راديو'.. إشارة الـ 'Radio' بتغطي 'Radius' مسافة معينة حوالين المحطة."
+ }
+}

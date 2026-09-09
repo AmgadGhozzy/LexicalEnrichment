@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "precaution",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "precaution",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A measure taken in advance to prevent something dangerous or unpleasant.",
+  "explanation_ar": "إجراء بتاخده بدري عشان تمنع أي مشكلة أو خطر ممكن يحصل.",
+  "senses": [
+   {
+    "definition_en": "A measure taken in advance to prevent something dangerous or unpleasant.",
+    "explanation_ar": "إجراء احترازي أو وقائي يتم اتخاذه مسبقًا لتفادي ضرر أو خطر محتمل.",
+    "examples": [
+     "As a precaution, I locked the door before leaving the house.",
+     "The team took every precaution to ensure the laboratory was safe.",
+     "Wearing a seatbelt is a simple precaution that can save your life."
+    ]
+   }
+  ],
+  "examples": [
+   "As a precaution, I locked the door before leaving the house.",
+   "The team took every precaution to ensure the laboratory was safe.",
+   "Wearing a seatbelt is a simple precaution that can save your life."
+  ],
+  "translations": [
+   "احتياط",
+   "وقاية",
+   "تدبير احترازي",
+   "حيطة"
+  ],
+  "relations": {
+   "synonyms": [
+    "safeguard",
+    "preventative measure",
+    "safety measure"
+   ],
+   "antonyms": [
+    "negligence",
+    "carelessness"
+   ],
+   "collocations": [
+    "take precautions",
+    "safety precaution",
+    "necessary precaution",
+    "as a precaution"
+   ]
+  },
+  "mnemonic": "جاية من 'Caution' 'حذر'.. و 'Pre' 'قبل'.. يعني بتاخد حذرك من قبل ما المشكلة تحصل.",
+  "phonetic_us": "prɪˈkɔː.ʃən",
+  "phonetic_uk": "prɪˈkɔː.ʃən",
+  "syllables": "pre•cau•tion",
+  "semantic_tags": [
+   "#Safety",
+   "#Danger",
+   "#Plan",
+   "#Care"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A measure taken in advance to prevent something dangerous or unpleasant.",
+  "explanation_ar": "إجراء بتاخده بدري عشان تمنع أي مشكلة أو خطر ممكن يحصل.",
+  "examples": [
+   "As a precaution, I locked the door before leaving the house.",
+   "The team took every precaution to ensure the laboratory was safe.",
+   "Wearing a seatbelt is a simple precaution that can save your life."
+  ],
+  "translations": {
+   "arabic_ar": "احتياط وقاية تدبير احترازي حيطة"
+  },
+  "synonyms": [
+   "safeguard",
+   "preventative measure",
+   "safety measure"
+  ],
+  "antonyms": [
+   "negligence",
+   "carelessness"
+  ],
+  "collocations": [
+   "take precautions",
+   "safety precaution",
+   "necessary precaution",
+   "as a precaution"
+  ],
+  "mnemonic_ar": "جاية من 'Caution' 'حذر'.. و 'Pre' 'قبل'.. يعني بتاخد حذرك من قبل ما المشكلة تحصل."
+ }
+}

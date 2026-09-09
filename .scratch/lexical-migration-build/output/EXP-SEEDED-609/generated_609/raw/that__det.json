@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "that",
+  "pos": "det",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "that",
+  "pos": "det",
+  "cefr": "A1",
+  "definition_en": "Used before a noun to indicate a specific person, thing, or idea that is further away in space or time.",
+  "explanation_ar": "أداة تحديد تُستخدم قبل الاسم للإشارة إلى شخص أو شيء أو وقت بعيد (بمعنى ذاك أو تلك).",
+  "senses": [
+   {
+    "definition_en": "Used before a noun to indicate a specific person, thing, or idea that is further away in space or time.",
+    "definition_ar": "تُستخدم قبل الاسم للإشارة إلى شخص أو شيء أو وقت بعيد.",
+    "examples": [
+     "I like that book.",
+     "Do you know that man?",
+     "At that moment, I knew I was wrong."
+    ]
+   }
+  ],
+  "examples": [
+   "I like that book.",
+   "Do you know that man?",
+   "At that moment, I knew I was wrong."
+  ],
+  "translations": [
+   "ذاك",
+   "تلك",
+   "ذلك"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "this"
+   ],
+   "collocations": [
+    "that day",
+    "that moment",
+    "that way"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ðæt",
+  "phonetic_uk": "ðæt",
+  "syllables": "that",
+  "semantic_tags": [
+   "#Determiners",
+   "#Grammar",
+   "#Basics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Used before a noun to indicate a specific person, thing, or idea that is further away in space or time.",
+  "explanation_ar": "أداة تحديد تُستخدم قبل الاسم للإشارة إلى شخص أو شيء أو وقت بعيد (بمعنى ذاك أو تلك).",
+  "examples": [
+   "I like that book.",
+   "Do you know that man?",
+   "At that moment, I knew I was wrong."
+  ],
+  "translations": {
+   "arabic_ar": "ذاك تلك ذلك"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "this"
+  ],
+  "collocations": [
+   "that day",
+   "that moment",
+   "that way"
+  ],
+  "mnemonic_ar": null
+ }
+}

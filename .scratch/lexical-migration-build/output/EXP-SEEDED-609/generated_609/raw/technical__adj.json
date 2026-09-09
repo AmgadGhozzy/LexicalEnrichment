@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "technical",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "technical",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Relating to a particular subject, art, or craft, or its techniques.",
+  "explanation_ar": "أي حاجة ليها علاقة بالتفاصيل الفنية الدقيقة أو التكنولوجيا وطريقة عمل الأشياء.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Relating to a particular subject, art, craft, or its practical techniques.",
+    "definition_ar": "خاص بمجال معين أو فني أو مرتبط بالتقنيات والآلات."
+   }
+  ],
+  "examples": [
+   "We had some technical problems with the TV.",
+   "The report is a bit too technical for me to understand.",
+   "She provides technical support for computer users."
+  ],
+  "translations": [
+   "تقني",
+   "فني"
+  ],
+  "relations": {
+   "synonyms": [
+    "specialized",
+    "scientific",
+    "mechanical",
+    "technological"
+   ],
+   "antonyms": [
+    "general",
+    "nontechnical"
+   ],
+   "collocations": [
+    "technical support",
+    "technical skills",
+    "technical issue",
+    "technical term"
+   ]
+  },
+  "mnemonic": "أي حاجة محتاجة 'Technique' 'تكنيك' وفنيات وخبرة بنقول عليها 'Technical'.",
+  "phonetic_us": "ˈtɛknɪkəl",
+  "phonetic_uk": "ˈteknɪkl",
+  "syllables": "tech•ni•cal",
+  "semantic_tags": [
+   "Technology",
+   "Skills",
+   "Specialized"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to a particular subject, art, or craft, or its techniques.",
+  "explanation_ar": "أي حاجة ليها علاقة بالتفاصيل الفنية الدقيقة أو التكنولوجيا وطريقة عمل الأشياء.",
+  "examples": [
+   "We had some technical problems with the TV.",
+   "The report is a bit too technical for me to understand.",
+   "She provides technical support for computer users."
+  ],
+  "translations": {
+   "arabic_ar": "تقني فني"
+  },
+  "synonyms": [
+   "specialized",
+   "scientific",
+   "mechanical",
+   "technological"
+  ],
+  "antonyms": [
+   "general",
+   "nontechnical"
+  ],
+  "collocations": [
+   "technical support",
+   "technical skills",
+   "technical issue",
+   "technical term"
+  ],
+  "mnemonic_ar": "أي حاجة محتاجة 'Technique' 'تكنيك' وفنيات وخبرة بنقول عليها 'Technical'."
+ }
+}

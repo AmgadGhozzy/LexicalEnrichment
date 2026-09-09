@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "poet",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "poet",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who writes poems.",
+  "explanation_ar": "الشخص الموهوب اللي بيكتب شعر وقصائد، وبيعرف يعبر عن مشاعره بكلام موزون وجميل.",
+  "senses": [
+   {
+    "definition_en": "A person who writes poems.",
+    "definition_ar": "شخص يكتب الشعر والقصائد.",
+    "pos": "noun",
+    "examples": [
+     "He is a famous poet.",
+     "Shakespeare is a well-known poet and playwright.",
+     "She dreams of becoming a published poet."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a famous poet.",
+   "Shakespeare is a well-known poet and playwright.",
+   "She dreams of becoming a published poet."
+  ],
+  "translations": [
+   "شاعر"
+  ],
+  "relations": {
+   "synonyms": [
+    "bard",
+    "lyricist",
+    "author",
+    "writer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "famous poet",
+    "romantic poet",
+    "poet laureate",
+    "war poet"
+   ]
+  },
+  "mnemonic": "الـ 'Poet' بيكتب 'Poetry'.. زي أحمد شوقي كده، فنان في الكلام والشعر.",
+  "phonetic_us": "ˈpoʊət",
+  "phonetic_uk": "ˈpəʊɪt",
+  "syllables": "po•et",
+  "semantic_tags": [
+   "#Art",
+   "#Writing",
+   "#Literature",
+   "#Rhyme"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who writes poems.",
+  "explanation_ar": "الشخص الموهوب اللي بيكتب شعر وقصائد، وبيعرف يعبر عن مشاعره بكلام موزون وجميل.",
+  "examples": [
+   "He is a famous poet.",
+   "Shakespeare is a well-known poet and playwright.",
+   "She dreams of becoming a published poet."
+  ],
+  "translations": {
+   "arabic_ar": "شاعر"
+  },
+  "synonyms": [
+   "bard",
+   "lyricist",
+   "author",
+   "writer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "famous poet",
+   "romantic poet",
+   "poet laureate",
+   "war poet"
+  ],
+  "mnemonic_ar": "الـ 'Poet' بيكتب 'Poetry'.. زي أحمد شوقي كده، فنان في الكلام والشعر."
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "university",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "university",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An educational institution for advanced learning and degrees.",
+  "explanation_ar": "المكان الكبير اللي بتكمل فيه تعليمك بعد المدرسة وتتخرج منه بشهادة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An educational institution for advanced learning and degrees.",
+    "explanation_ar": "المكان الكبير اللي بتكمل فيه تعليمك بعد المدرسة وتتخرج منه بشهادة.",
+    "pos": "noun",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "He goes to university.",
+   "My sister is a university student.",
+   "The university campus is very large."
+  ],
+  "translations": [
+   "جامعة"
+  ],
+  "relations": {
+   "synonyms": [
+    "college"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "go to university",
+    "university degree",
+    "university student"
+   ]
+  },
+  "mnemonic": "جاية من 'Universe' 'الكون'.. الجامعة مكان بتدرس فيه كل علوم الـ 'Universe'.",
+  "phonetic_us": "junɨˈvɝsəti",
+  "phonetic_uk": "juːnɪˈvɜːsətiː",
+  "syllables": "uni•ver•si•ty",
+  "semantic_tags": [
+   "#Education",
+   "#School",
+   "#Degree"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An educational institution for advanced learning and degrees.",
+  "explanation_ar": "المكان الكبير اللي بتكمل فيه تعليمك بعد المدرسة وتتخرج منه بشهادة.",
+  "examples": [
+   "He goes to university.",
+   "My sister is a university student.",
+   "The university campus is very large."
+  ],
+  "translations": {
+   "arabic_ar": "جامعة"
+  },
+  "synonyms": [
+   "college"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "go to university",
+   "university degree",
+   "university student"
+  ],
+  "mnemonic_ar": "جاية من 'Universe' 'الكون'.. الجامعة مكان بتدرس فيه كل علوم الـ 'Universe'."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "stick",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "stick",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To attach something to a surface using glue, tape, or a sharp point, or to become joined to something.",
+  "explanation_ar": "تلزق حاجة في حاجة، أو تثبت ورقة على الحيطة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To attach something to a surface using glue or a sharp point.",
+    "explanation_ar": "يلصق أو يثبت شيئاً على سطح.",
+    "cefr": "B1"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To become joined or fixed to something.",
+    "explanation_ar": "يلتصق أو يثبت في مكانه.",
+    "cefr": "B1"
+   }
+  ],
+  "examples": [
+   "Stick the stamp on the letter.",
+   "The glue didn't stick.",
+   "Use tape to stick the notice on the wall."
+  ],
+  "translations": [
+   "يلصق",
+   "يثبت"
+  ],
+  "relations": {
+   "synonyms": [
+    "adhere",
+    "attach",
+    "glue",
+    "fix"
+   ],
+   "antonyms": [
+    "remove",
+    "detach"
+   ],
+   "collocations": [
+    "stick together",
+    "stick to a plan",
+    "stick out"
+   ]
+  },
+  "mnemonic": "زي الـ 'Sticker' 'ستيكر'.. وظيفته إنه 'Stick' يلزق على الحاجة.",
+  "phonetic_us": "stɪk",
+  "phonetic_uk": "stɪk",
+  "syllables": [
+   "stick"
+  ],
+  "semantic_tags": [
+   "#Adhesion",
+   "#Placement",
+   "#Attachment"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To attach something to a surface using glue, tape, or a sharp point, or to become joined to something.",
+  "explanation_ar": "تلزق حاجة في حاجة، أو تثبت ورقة على الحيطة.",
+  "examples": [
+   "Stick the stamp on the letter.",
+   "The glue didn't stick.",
+   "Use tape to stick the notice on the wall."
+  ],
+  "translations": {
+   "arabic_ar": "يلصق يثبت"
+  },
+  "synonyms": [
+   "adhere",
+   "attach",
+   "glue",
+   "fix"
+  ],
+  "antonyms": [
+   "remove",
+   "detach"
+  ],
+  "collocations": [
+   "stick together",
+   "stick to a plan",
+   "stick out"
+  ],
+  "mnemonic_ar": "زي الـ 'Sticker' 'ستيكر'.. وظيفته إنه 'Stick' يلزق على الحاجة."
+ }
+}

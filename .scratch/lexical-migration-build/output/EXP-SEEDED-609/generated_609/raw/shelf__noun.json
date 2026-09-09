@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "shelf",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "shelf",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A flat board attached to a wall or in a cupboard for holding things.",
+  "explanation_ar": "الرف اللي بنحط عليه الكتب أو الحاجات عشان ننظمها.",
+  "senses": [
+   {
+    "definition_en": "A flat board attached to a wall or in a cupboard for holding things.",
+    "definition_ar": "لوح مسطح يثبت على جدار أو داخل خزانة لوضع الأشياء عليه وحفظها.",
+    "examples": [
+     "The book is on the shelf.",
+     "Please put the cup on the top shelf.",
+     "We need to buy a new shelf for the kitchen."
+    ]
+   }
+  ],
+  "examples": [
+   "The book is on the shelf.",
+   "Please put the cup on the top shelf.",
+   "We need to buy a new shelf for the kitchen."
+  ],
+  "translations": [
+   "رف"
+  ],
+  "relations": {
+   "synonyms": [
+    "ledge",
+    "rack"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "top shelf",
+    "bookshelf",
+    "shelf life",
+    "on the shelf"
+   ]
+  },
+  "mnemonic": "'Shelf' شبه 'Self'.. حط كتبك اللي بتعبر عن الـ 'Self' 'نفسك' على الـ 'Shelf'.",
+  "phonetic_us": "ʃɛlf",
+  "phonetic_uk": "ʃelf",
+  "syllables": [
+   "shelf"
+  ],
+  "semantic_tags": [
+   "Furniture",
+   "Home",
+   "Storage"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A flat board attached to a wall or in a cupboard for holding things.",
+  "explanation_ar": "الرف اللي بنحط عليه الكتب أو الحاجات عشان ننظمها.",
+  "examples": [
+   "The book is on the shelf.",
+   "Please put the cup on the top shelf.",
+   "We need to buy a new shelf for the kitchen."
+  ],
+  "translations": {
+   "arabic_ar": "رف"
+  },
+  "synonyms": [
+   "ledge",
+   "rack"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "top shelf",
+   "bookshelf",
+   "shelf life",
+   "on the shelf"
+  ],
+  "mnemonic_ar": "'Shelf' شبه 'Self'.. حط كتبك اللي بتعبر عن الـ 'Self' 'نفسك' على الـ 'Shelf'."
+ }
+}

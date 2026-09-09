@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "wake",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "wake",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To stop sleeping; to become aware.",
+  "explanation_ar": "يصحى من النوم، أو يفوق لنفسه.",
+  "senses": [
+   {
+    "definition_en": "To stop sleeping; to become aware.",
+    "explanation_ar": "يصحى من النوم، أو يفوق لنفسه.",
+    "examples": [
+     "I wake up at seven every morning.",
+     "Please wake me up early tomorrow.",
+     "Sudden loud noises can wake the baby."
+    ]
+   }
+  ],
+  "examples": [
+   "I wake up at seven every morning.",
+   "Please wake me up early tomorrow.",
+   "Sudden loud noises can wake the baby."
+  ],
+  "translations": [
+   "يستيقظ",
+   "يوقظ"
+  ],
+  "relations": {
+   "synonyms": [
+    "awaken",
+    "rouse",
+    "stir"
+   ],
+   "antonyms": [
+    "sleep",
+    "snooze"
+   ],
+   "collocations": [
+    "wake up",
+    "wake up call",
+    "wide awake"
+   ]
+  },
+  "mnemonic": "'وايك'.. اصحى وفوق 'Wake up'.",
+  "phonetic_us": "weɪk",
+  "phonetic_uk": "weɪk",
+  "syllables": [
+   "wake"
+  ],
+  "semantic_tags": [
+   "#Sleep",
+   "#Morning",
+   "#Routine"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To stop sleeping; to become aware.",
+  "explanation_ar": "يصحى من النوم، أو يفوق لنفسه.",
+  "examples": [
+   "I wake up at seven every morning.",
+   "Please wake me up early tomorrow.",
+   "Sudden loud noises can wake the baby."
+  ],
+  "translations": {
+   "arabic_ar": "يستيقظ يوقظ"
+  },
+  "synonyms": [
+   "awaken",
+   "rouse",
+   "stir"
+  ],
+  "antonyms": [
+   "sleep",
+   "snooze"
+  ],
+  "collocations": [
+   "wake up",
+   "wake up call",
+   "wide awake"
+  ],
+  "mnemonic_ar": "'وايك'.. اصحى وفوق 'Wake up'."
+ }
+}

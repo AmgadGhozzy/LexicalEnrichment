@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "scar",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "scar",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A mark left on the skin after a wound, burn, or sore has healed.",
+  "explanation_ar": "العلامة أو الأثر الذي يتبقى على الجلد بعد التئام الجرح أو الحرق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition": "A permanent mark left on the skin after an injury, burn, or wound has healed.",
+    "arabic_definition": "ندبة؛ علامة دائمة متبقية على الجلد بعد شفاء الجرح أو الإصابة."
+   },
+   {
+    "sense_id": "2",
+    "definition": "A lasting emotional or psychological wound caused by a painful experience.",
+    "arabic_definition": "ندبة نفسية؛ أثر معنوي أو جرح نفسي عميق تتركه تجربة مؤلمة."
+   }
+  ],
+  "examples": [
+   "The cut left a small scar on his chin.",
+   "The surgery will leave a permanent scar.",
+   "The traumatic experience left a deep emotional scar."
+  ],
+  "translations": [
+   "ندبة",
+   "أثر جرح"
+  ],
+  "relations": {
+   "synonyms": [
+    "mark",
+    "blemish"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "deep scar",
+    "emotional scar",
+    "permanent scar",
+    "scar tissue",
+    "leave a scar"
+   ]
+  },
+  "mnemonic": "زي 'Scary' (مخيف).. افتكر إن الجرح ساب علامة 'Scar' شكلها بيخوف.",
+  "phonetic_us": "/skɑːr/",
+  "phonetic_uk": "/skɑː/",
+  "syllables": [
+   "scar"
+  ],
+  "semantic_tags": [
+   "#Skin",
+   "#Wound",
+   "#Mark",
+   "#Body",
+   "#Health"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A mark left on the skin after a wound, burn, or sore has healed.",
+  "explanation_ar": "العلامة أو الأثر الذي يتبقى على الجلد بعد التئام الجرح أو الحرق.",
+  "examples": [
+   "The cut left a small scar on his chin.",
+   "The surgery will leave a permanent scar.",
+   "The traumatic experience left a deep emotional scar."
+  ],
+  "translations": {
+   "arabic_ar": "ندبة أثر جرح"
+  },
+  "synonyms": [
+   "mark",
+   "blemish"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "deep scar",
+   "emotional scar",
+   "permanent scar",
+   "scar tissue",
+   "leave a scar"
+  ],
+  "mnemonic_ar": "زي 'Scary' (مخيف).. افتكر إن الجرح ساب علامة 'Scar' شكلها بيخوف."
+ }
+}

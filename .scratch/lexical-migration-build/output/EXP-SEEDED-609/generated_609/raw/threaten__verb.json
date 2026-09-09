@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "threaten",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "threaten",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To state an intention to harm or punish someone, or to be likely to cause damage or danger to something.",
+  "explanation_ar": "يُهدد بإلحاق الأذى أو العقاب بشخص ما، أو يشكّل خطراً يهدد بحدوث مشكلة أو ضرر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To tell someone that you will harm, kill, or punish them if they do not do what you want.",
+    "definition_ar": "يهدد شخصاً بإيذائه أو معاقبته.",
+    "examples": [
+     "Don't threaten me with legal action."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To be likely to damage, destroy, or endanger something.",
+    "definition_ar": "يعرّض شيئاً للخطر أو ينذر بوقوع ضرر.",
+    "examples": [
+     "Rising sea levels threaten coastal communities around the world.",
+     "These budget cuts threaten to disrupt public services."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't threaten me with legal action.",
+   "Rising sea levels threaten coastal communities around the world.",
+   "These budget cuts threaten to disrupt public services."
+  ],
+  "translations": [
+   "يهدد",
+   "يعرّض للخطر",
+   "يُنذر بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "intimidate",
+    "menace",
+    "endanger",
+    "jeopardize"
+   ],
+   "antonyms": [
+    "protect",
+    "defend",
+    "reassure",
+    "safeguard"
+   ],
+   "collocations": [
+    "threaten to boycott",
+    "threaten with",
+    "threaten stability"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/ˈθret.n/",
+  "phonetic_uk": "/ˈθret.n/",
+  "syllables": "threat•en",
+  "semantic_tags": [
+   "#Danger",
+   "#Conflict",
+   "#Warning"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To state an intention to harm or punish someone, or to be likely to cause damage or danger to something.",
+  "explanation_ar": "يُهدد بإلحاق الأذى أو العقاب بشخص ما، أو يشكّل خطراً يهدد بحدوث مشكلة أو ضرر.",
+  "examples": [
+   "Don't threaten me with legal action.",
+   "Rising sea levels threaten coastal communities around the world.",
+   "These budget cuts threaten to disrupt public services."
+  ],
+  "translations": {
+   "arabic_ar": "يهدد يعرّض للخطر يُنذر بـ"
+  },
+  "synonyms": [
+   "intimidate",
+   "menace",
+   "endanger",
+   "jeopardize"
+  ],
+  "antonyms": [
+   "protect",
+   "defend",
+   "reassure",
+   "safeguard"
+  ],
+  "collocations": [
+   "threaten to boycott",
+   "threaten with",
+   "threaten stability"
+  ],
+  "mnemonic_ar": null
+ }
+}

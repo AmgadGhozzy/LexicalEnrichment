@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "possession",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "possession",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "The state of having or owning something, or an item that is owned.",
+  "explanation_ar": "امتلاك الشيء أو حيازته، أو الشيء نفسه الذي يمتلكه الشخص (مقتنى أو ممتلكات).",
+  "senses": [
+   {
+    "definition_en": "The condition of having, owning, or controlling something.",
+    "explanation_ar": "حالة امتلاك الشيء أو حيازته والسيطرة عليه.",
+    "examples": [
+     "The house is in his possession.",
+     "The team kept possession of the ball for most of the game."
+    ]
+   },
+   {
+    "definition_en": "An object or item of property that belongs to someone.",
+    "explanation_ar": "شيء يملكه الشخص (مقتنى أو ملكية خاصة).",
+    "examples": [
+     "The manuscript is the library's most prized possession."
+    ]
+   }
+  ],
+  "examples": [
+   "The house is in his possession.",
+   "The team kept possession of the ball for most of the game.",
+   "The manuscript is the library's most prized possession."
+  ],
+  "translations": [
+   "حيازة",
+   "امتلاك",
+   "مقتنى"
+  ],
+  "relations": {
+   "synonyms": [
+    "ownership",
+    "custody",
+    "property",
+    "belongings"
+   ],
+   "antonyms": [
+    "loss"
+   ],
+   "collocations": [
+    "in possession of",
+    "take possession",
+    "illegal possession",
+    "gain possession"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Boss'.. الـ 'Boss' هو اللي عنده الـ 'Possession' والسيطرة على الشركة.",
+  "phonetic_us": "pəˈzeʃən",
+  "phonetic_uk": "pəˈzeʃn",
+  "syllables": "pos•ses•sion",
+  "semantic_tags": [
+   "Ownership",
+   "Property",
+   "Law",
+   "Belongings"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The state of having or owning something, or an item that is owned.",
+  "explanation_ar": "امتلاك الشيء أو حيازته، أو الشيء نفسه الذي يمتلكه الشخص (مقتنى أو ممتلكات).",
+  "examples": [
+   "The house is in his possession.",
+   "The team kept possession of the ball for most of the game.",
+   "The manuscript is the library's most prized possession."
+  ],
+  "translations": {
+   "arabic_ar": "حيازة امتلاك مقتنى"
+  },
+  "synonyms": [
+   "ownership",
+   "custody",
+   "property",
+   "belongings"
+  ],
+  "antonyms": [
+   "loss"
+  ],
+  "collocations": [
+   "in possession of",
+   "take possession",
+   "illegal possession",
+   "gain possession"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Boss'.. الـ 'Boss' هو اللي عنده الـ 'Possession' والسيطرة على الشركة."
+ }
+}

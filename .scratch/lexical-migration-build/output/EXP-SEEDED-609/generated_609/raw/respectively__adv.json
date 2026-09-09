@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "respectively",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "respectively",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Separately or individually and in the order already mentioned.",
+  "explanation_ar": "تعني 'على التوالي'. تُستخدم عند ذكر قائمتين لربط كل عنصر في القائمة الأولى بالعنصر المقابل له في القائمة الثانية بالترتيب نفسه.",
+  "senses": [
+   {
+    "definition_en": "Separately or individually and in the order already mentioned.",
+    "definition_ar": "على التوالي / بالترتيب المذكور سابقاً لكل منهما.",
+    "pos": "adv"
+   }
+  ],
+  "examples": [
+   "They won first and second prize respectively.",
+   "The cups are red and blue, for tea and coffee respectively.",
+   "The growth rates for the three sectors were 2%, 5%, and 1% respectively."
+  ],
+  "translations": [
+   "على التوالي",
+   "بالترتيب المذكور"
+  ],
+  "relations": {
+   "synonyms": [
+    "in that order",
+    "correspondingly",
+    "consecutively"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "mentioned respectively",
+    "numbered respectively"
+   ],
+   "word_family": {
+    "noun": "respect",
+    "verb": "respect",
+    "adj": "respective",
+    "adv": "respectively"
+   }
+  },
+  "mnemonic": "جاية من 'Respect' بمعنى مراعاة الترتيب؛ كل عنصر يحترم دوره في الترتيب 'على التوالي'.",
+  "phonetic_us": "ɹɪˈspɛk.tɪv.li",
+  "phonetic_uk": "ɹɪˈspɛk.tɪv.li",
+  "syllables": "re•spec•tive•ly",
+  "semantic_tags": [
+   "Order",
+   "Sequence",
+   "Logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Separately or individually and in the order already mentioned.",
+  "explanation_ar": "تعني 'على التوالي'. تُستخدم عند ذكر قائمتين لربط كل عنصر في القائمة الأولى بالعنصر المقابل له في القائمة الثانية بالترتيب نفسه.",
+  "examples": [
+   "They won first and second prize respectively.",
+   "The cups are red and blue, for tea and coffee respectively.",
+   "The growth rates for the three sectors were 2%, 5%, and 1% respectively."
+  ],
+  "translations": {
+   "arabic_ar": "على التوالي بالترتيب المذكور"
+  },
+  "synonyms": [
+   "in that order",
+   "correspondingly",
+   "consecutively"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "mentioned respectively",
+   "numbered respectively"
+  ],
+  "mnemonic_ar": "جاية من 'Respect' بمعنى مراعاة الترتيب؛ كل عنصر يحترم دوره في الترتيب 'على التوالي'."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "subordinate",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "subordinate",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Lower in rank, status, or importance.",
+  "explanation_ar": "أقل في الرتبة أو الأهمية، أو تابع لشخص أو جهة أعلى سلطة.",
+  "senses": [
+   {
+    "definition_en": "Lower in rank, status, or importance.",
+    "definition_ar": "أقل في الرتبة أو الأهمية؛ تابع.",
+    "pos": "adj",
+    "examples": [
+     "A soldier is subordinate to an officer.",
+     "He felt comfortable in a subordinate role.",
+     "All other considerations were subordinate to the main goal."
+    ]
+   }
+  ],
+  "examples": [
+   "A soldier is subordinate to an officer.",
+   "He felt comfortable in a subordinate role.",
+   "All other considerations were subordinate to the main goal."
+  ],
+  "translations": [
+   "تابِع",
+   "مَرْؤُوس",
+   "أَدْنَى رُتْبَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "inferior",
+    "junior",
+    "lower",
+    "secondary"
+   ],
+   "antonyms": [
+    "superior",
+    "senior",
+    "dominant"
+   ],
+   "collocations": [
+    "subordinate role",
+    "subordinate to",
+    "subordinate clause"
+   ]
+  },
+  "mnemonic": "'Sub' يعني تحت (زي Submarine).. فيبقى في رتبة أو مكانة أقل.",
+  "phonetic_us": "səˈbɔrdənət",
+  "phonetic_uk": "səˈbɔːdɪnət",
+  "syllables": "sub•or•di•nate",
+  "semantic_tags": [
+   "#Hierarchy",
+   "#Work",
+   "#Rank",
+   "#Authority"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Lower in rank, status, or importance.",
+  "explanation_ar": "أقل في الرتبة أو الأهمية، أو تابع لشخص أو جهة أعلى سلطة.",
+  "examples": [
+   "A soldier is subordinate to an officer.",
+   "He felt comfortable in a subordinate role.",
+   "All other considerations were subordinate to the main goal."
+  ],
+  "translations": {
+   "arabic_ar": "تابِع مَرْؤُوس أَدْنَى رُتْبَة"
+  },
+  "synonyms": [
+   "inferior",
+   "junior",
+   "lower",
+   "secondary"
+  ],
+  "antonyms": [
+   "superior",
+   "senior",
+   "dominant"
+  ],
+  "collocations": [
+   "subordinate role",
+   "subordinate to",
+   "subordinate clause"
+  ],
+  "mnemonic_ar": "'Sub' يعني تحت (زي Submarine).. فيبقى في رتبة أو مكانة أقل."
+ }
+}

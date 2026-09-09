@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "slide",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "slide",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To move smoothly along a surface, or to make something move smoothly across a surface.",
+  "explanation_ar": "يتحرك بسلاسة وخفة على سطح أملس، مثل التزحلق على الجليد أو تمرير شيء بنعومة على طاولة.",
+  "senses": [
+   {
+    "definition_en": "To move smoothly along a surface, or to push something smoothly over a surface.",
+    "definition_ar": "يتحرك بسلاسة على سطح، أو يمرر شيئاً بخفة فوق سطح.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "Children love to slide across the frozen pond in winter.",
+   "You can slide the glass door open to let in fresh air.",
+   "Please slide the folder across the desk so I can review it."
+  ],
+  "translations": [
+   "ينزلق",
+   "يتزحلق",
+   "يمرر بخفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "glide",
+    "slip",
+    "skid",
+    "coast"
+   ],
+   "antonyms": [
+    "stick",
+    "stop"
+   ],
+   "collocations": [
+    "slide open",
+    "slide down",
+    "slide into"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "slaɪd",
+  "phonetic_uk": "slaɪd",
+  "syllables": "slide",
+  "semantic_tags": [
+   "#Move",
+   "#Smooth",
+   "#Slip",
+   "#Ice"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To move smoothly along a surface, or to make something move smoothly across a surface.",
+  "explanation_ar": "يتحرك بسلاسة وخفة على سطح أملس، مثل التزحلق على الجليد أو تمرير شيء بنعومة على طاولة.",
+  "examples": [
+   "Children love to slide across the frozen pond in winter.",
+   "You can slide the glass door open to let in fresh air.",
+   "Please slide the folder across the desk so I can review it."
+  ],
+  "translations": {
+   "arabic_ar": "ينزلق يتزحلق يمرر بخفة"
+  },
+  "synonyms": [
+   "glide",
+   "slip",
+   "skid",
+   "coast"
+  ],
+  "antonyms": [
+   "stick",
+   "stop"
+  ],
+  "collocations": [
+   "slide open",
+   "slide down",
+   "slide into"
+  ],
+  "mnemonic_ar": null
+ }
+}

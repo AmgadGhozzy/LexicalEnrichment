@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "victim",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "victim",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
+  "explanation_ar": "الضحية.. الشخص اللي اتأذى بسبب جريمة أو حادثة أو ظلم.",
+  "senses": [
+   {
+    "definition_en": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
+    "explanation_ar": "الضحية.. الشخص اللي اتأذى بسبب جريمة أو حادثة أو ظلم.",
+    "examples": [
+     "The victim called the police immediately.",
+     "She was a victim of theft.",
+     "He portrayed himself as a victim of circumstance."
+    ]
+   }
+  ],
+  "examples": [
+   "The victim called the police immediately.",
+   "She was a victim of theft.",
+   "He portrayed himself as a victim of circumstance."
+  ],
+  "translations": [
+   "ضحية",
+   "مجني عليه"
+  ],
+  "relations": {
+   "synonyms": [
+    "casualty",
+    "sufferer",
+    "target",
+    "prey"
+   ],
+   "antonyms": [
+    "culprit",
+    "attacker",
+    "perpetrator"
+   ],
+   "collocations": [
+    "fall victim to",
+    "innocent victim",
+    "victim of crime",
+    "play the victim"
+   ]
+  },
+  "mnemonic": "ممكن تفتكرها بـ 'في كتم'.. الـ 'Victim' مات 'في كتم' النفس",
+  "phonetic_us": "ˈvɪktəm",
+  "phonetic_uk": "ˈvɪktɪm",
+  "syllables": "vic•tim",
+  "semantic_tags": [
+   "#Crime",
+   "#Suffering",
+   "#Accident"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
+  "explanation_ar": "الضحية.. الشخص اللي اتأذى بسبب جريمة أو حادثة أو ظلم.",
+  "examples": [
+   "The victim called the police immediately.",
+   "She was a victim of theft.",
+   "He portrayed himself as a victim of circumstance."
+  ],
+  "translations": {
+   "arabic_ar": "ضحية مجني عليه"
+  },
+  "synonyms": [
+   "casualty",
+   "sufferer",
+   "target",
+   "prey"
+  ],
+  "antonyms": [
+   "culprit",
+   "attacker",
+   "perpetrator"
+  ],
+  "collocations": [
+   "fall victim to",
+   "innocent victim",
+   "victim of crime",
+   "play the victim"
+  ],
+  "mnemonic_ar": "ممكن تفتكرها بـ 'في كتم'.. الـ 'Victim' مات 'في كتم' النفس"
+ }
+}

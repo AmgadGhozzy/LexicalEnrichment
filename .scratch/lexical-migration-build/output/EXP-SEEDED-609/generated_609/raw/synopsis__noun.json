@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "synopsis",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "synopsis",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A brief summary of a book, movie, play, or other work.",
+  "explanation_ar": "ملخص سريع لأحداث فيلم أو كتاب، يعطيك فكرة عامة وشاملة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A brief summary of a book, movie, play, or other work.",
+    "explanation_ar": "ملخص سريع لأحداث فيلم أو كتاب، يعطيك فكرة عامة وشاملة."
+   }
+  ],
+  "examples": [
+   "Write a short synopsis of the film.",
+   "She gave a clear synopsis of the complex report.",
+   "The professor provided a synopsis of the lecture series."
+  ],
+  "translations": [
+   "ملخص",
+   "موجز"
+  ],
+  "relations": {
+   "synonyms": [
+    "summary",
+    "outline",
+    "abstract",
+    "overview"
+   ],
+   "antonyms": [
+    "expansion",
+    "elaboration"
+   ],
+   "collocations": [
+    "brief synopsis",
+    "plot synopsis",
+    "synopsis of"
+   ]
+  },
+  "mnemonic": "'Syn' (مع بعض) + 'opsis' (رؤية/نظرة).. يعني نظرة شاملة ومجمعة للموضوع.",
+  "phonetic_us": "sɪˈnɑːpsɪs",
+  "phonetic_uk": "sɪˈnɒpsɪs",
+  "syllables": "syn•op•sis",
+  "semantic_tags": [
+   "summary",
+   "literature",
+   "communication",
+   "writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A brief summary of a book, movie, play, or other work.",
+  "explanation_ar": "ملخص سريع لأحداث فيلم أو كتاب، يعطيك فكرة عامة وشاملة.",
+  "examples": [
+   "Write a short synopsis of the film.",
+   "She gave a clear synopsis of the complex report.",
+   "The professor provided a synopsis of the lecture series."
+  ],
+  "translations": {
+   "arabic_ar": "ملخص موجز"
+  },
+  "synonyms": [
+   "summary",
+   "outline",
+   "abstract",
+   "overview"
+  ],
+  "antonyms": [
+   "expansion",
+   "elaboration"
+  ],
+  "collocations": [
+   "brief synopsis",
+   "plot synopsis",
+   "synopsis of"
+  ],
+  "mnemonic_ar": "'Syn' (مع بعض) + 'opsis' (رؤية/نظرة).. يعني نظرة شاملة ومجمعة للموضوع."
+ }
+}

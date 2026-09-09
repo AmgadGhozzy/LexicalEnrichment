@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "silver",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "silver",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "Having the color of silver; shiny gray-white.",
+  "explanation_ar": "لونه فضي، زي لون معدن الفضة.",
+  "senses": [
+   {
+    "definition_en": "Having the color of silver; shiny gray-white.",
+    "explanation_ar": "لونه فضي، زي لون معدن الفضة.",
+    "examples": [
+     "I have a silver car.",
+     "She wore a silver dress.",
+     "He won a silver medal in the competition."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a silver car.",
+   "She wore a silver dress.",
+   "He won a silver medal in the competition."
+  ],
+  "translations": [
+   "فضي"
+  ],
+  "relations": {
+   "synonyms": [
+    "gray",
+    "metallic"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "silver medal",
+    "silver screen",
+    "silver lining"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈsɪlvər",
+  "phonetic_uk": null,
+  "syllables": "sil•ver",
+  "semantic_tags": [
+   "#Color",
+   "#Metal",
+   "#Precious"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Having the color of silver; shiny gray-white.",
+  "explanation_ar": "لونه فضي، زي لون معدن الفضة.",
+  "examples": [
+   "I have a silver car.",
+   "She wore a silver dress.",
+   "He won a silver medal in the competition."
+  ],
+  "translations": {
+   "arabic_ar": "فضي"
+  },
+  "synonyms": [
+   "gray",
+   "metallic"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "silver medal",
+   "silver screen",
+   "silver lining"
+  ],
+  "mnemonic_ar": null
+ }
+}

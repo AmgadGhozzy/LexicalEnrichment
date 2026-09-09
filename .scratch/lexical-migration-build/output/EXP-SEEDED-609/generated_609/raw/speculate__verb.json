@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "speculate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "speculate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To form a theory without firm evidence; or to invest in high-risk ventures.",
+  "explanation_ar": "يخمن أو يتوقع أسباب حاجة من غير دليل قاطع، أو يغامر بفلوسه في البورصة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "To form opinions or theories about something without having all the facts.",
+    "definition_ar": "يخمن أو يتكهن بدون أدلة قاطعة.",
+    "translations": [
+     "يَتَكَهَّن",
+     "يُخَمِّن"
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "To buy assets, shares, or property in the hope of making a profit, but with the risk of loss.",
+    "definition_ar": "يضارب بالمال في البورصة أو الأسواق المالية.",
+    "translations": [
+     "يُضَارِب"
+    ]
+   }
+  ],
+  "examples": [
+   "We can speculate about why he left.",
+   "Analysts speculate that prices will rise.",
+   "He likes to speculate on the stock market."
+  ],
+  "translations": [
+   "يَتَكَهَّن",
+   "يُخَمِّن",
+   "يُضَارِب"
+  ],
+  "relations": {
+   "synonyms": [
+    "theorize",
+    "guess",
+    "conjecture",
+    "gamble"
+   ],
+   "antonyms": [
+    "know",
+    "verify"
+   ],
+   "collocations": [
+    "speculate on",
+    "speculate about",
+    "wildly speculate"
+   ]
+  },
+  "mnemonic": "'Spec' زي 'Spectacles' 'نظارة'.. كأنك بتبص وتحاول تشوف وتخمن المستقبل.",
+  "phonetic_us": "ˈspɛkjəleɪt",
+  "phonetic_uk": "ˈspekjʊleɪt",
+  "syllables": "spec•u•late",
+  "semantic_tags": [
+   "Mind & Thinking",
+   "Finance",
+   "Guessing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To form a theory without firm evidence; or to invest in high-risk ventures.",
+  "explanation_ar": "يخمن أو يتوقع أسباب حاجة من غير دليل قاطع، أو يغامر بفلوسه في البورصة.",
+  "examples": [
+   "We can speculate about why he left.",
+   "Analysts speculate that prices will rise.",
+   "He likes to speculate on the stock market."
+  ],
+  "translations": {
+   "arabic_ar": "يَتَكَهَّن يُخَمِّن يُضَارِب"
+  },
+  "synonyms": [
+   "theorize",
+   "guess",
+   "conjecture",
+   "gamble"
+  ],
+  "antonyms": [
+   "know",
+   "verify"
+  ],
+  "collocations": [
+   "speculate on",
+   "speculate about",
+   "wildly speculate"
+  ],
+  "mnemonic_ar": "'Spec' زي 'Spectacles' 'نظارة'.. كأنك بتبص وتحاول تشوف وتخمن المستقبل."
+ }
+}

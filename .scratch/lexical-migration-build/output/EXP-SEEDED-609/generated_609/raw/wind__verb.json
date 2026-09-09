@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "wind",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "wind",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To turn or twist something; to move in a curving path.",
+  "explanation_ar": "إنك تلف حاجة أو تدورها، زي ما بتملى 'تزنبَر' الساعة القديمة، أو الطريق لما يكون متعرج.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To twist or wrap something around itself or another object.",
+    "definition_ar": "يلف أو يطوي شيئاً حول نفسه أو حول جسم آخر"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To follow a curving, twisting course.",
+    "definition_ar": "يسير في مسار متعرج أو ملتف"
+   }
+  ],
+  "examples": [
+   "Do not forget to wind the old clock before going to sleep.",
+   "You should wind the wire carefully around the spool.",
+   "These mountain roads wind through the hills for miles."
+  ],
+  "translations": [
+   "يلف",
+   "يدور",
+   "يتعرج"
+  ],
+  "relations": {
+   "synonyms": [
+    "coil",
+    "twist",
+    "wrap"
+   ],
+   "antonyms": [
+    "unwind",
+    "straighten"
+   ],
+   "collocations": [
+    "wind up",
+    "wind down",
+    "wind around"
+   ]
+  },
+  "mnemonic": "زي 'Rewind' 'إرجاع الشريط'.. بتلف الشريط.",
+  "phonetic_us": "waɪnd",
+  "phonetic_uk": "waɪnd",
+  "syllables": [
+   "wind"
+  ],
+  "semantic_tags": [
+   "#Motion",
+   "#Turning",
+   "#Paths"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To turn or twist something; to move in a curving path.",
+  "explanation_ar": "إنك تلف حاجة أو تدورها، زي ما بتملى 'تزنبَر' الساعة القديمة، أو الطريق لما يكون متعرج.",
+  "examples": [
+   "Do not forget to wind the old clock before going to sleep.",
+   "You should wind the wire carefully around the spool.",
+   "These mountain roads wind through the hills for miles."
+  ],
+  "translations": {
+   "arabic_ar": "يلف يدور يتعرج"
+  },
+  "synonyms": [
+   "coil",
+   "twist",
+   "wrap"
+  ],
+  "antonyms": [
+   "unwind",
+   "straighten"
+  ],
+  "collocations": [
+   "wind up",
+   "wind down",
+   "wind around"
+  ],
+  "mnemonic_ar": "زي 'Rewind' 'إرجاع الشريط'.. بتلف الشريط."
+ }
+}

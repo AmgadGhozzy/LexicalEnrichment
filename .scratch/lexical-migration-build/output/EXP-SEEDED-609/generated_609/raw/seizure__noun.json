@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "seizure",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "seizure",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A sudden attack of illness, or the action of capturing something by force.",
+  "explanation_ar": "ليها معنيين: نوبة مرضية 'زي الصرع'، أو مصادرة شيء بالقوة 'زي الشرطة لما تصادر مخدرات'",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A sudden attack of an illness, especially of epilepsy, causing loss of consciousness or violent body movements.",
+    "definition_ar": "نوبة مرضية فجائية خاصة نوبة الصرع أو التشنج"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The action of capturing someone or something using legal authority or force.",
+    "definition_ar": "مصادرة أو استيلاء بالقوة أو بموجب القانون"
+   }
+  ],
+  "examples": [
+   "The patient suffered a seizure.",
+   "The seizure of the ship caused tension.",
+   "The Fourth Amendment protects against unreasonable search and seizure."
+  ],
+  "translations": [
+   "نَوْبَة",
+   "مُصَادَرَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "convulsion",
+    "fit",
+    "capture",
+    "confiscation"
+   ],
+   "antonyms": [
+    "release",
+    "restitution"
+   ],
+   "collocations": [
+    "epileptic seizure",
+    "drug seizure",
+    "search and seizure"
+   ]
+  },
+  "mnemonic": "جاية من 'Seize' يعني يمسك بقوة.. المرض 'Seizes' الجسم فجأة",
+  "phonetic_us": "ˈsiːʒər",
+  "phonetic_uk": "ˈsiːʒə",
+  "syllables": "sei-zure",
+  "semantic_tags": [
+   "#Medical",
+   "#Law",
+   "#Capture",
+   "#Epilepsy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sudden attack of illness, or the action of capturing something by force.",
+  "explanation_ar": "ليها معنيين: نوبة مرضية 'زي الصرع'، أو مصادرة شيء بالقوة 'زي الشرطة لما تصادر مخدرات'",
+  "examples": [
+   "The patient suffered a seizure.",
+   "The seizure of the ship caused tension.",
+   "The Fourth Amendment protects against unreasonable search and seizure."
+  ],
+  "translations": {
+   "arabic_ar": "نَوْبَة مُصَادَرَة"
+  },
+  "synonyms": [
+   "convulsion",
+   "fit",
+   "capture",
+   "confiscation"
+  ],
+  "antonyms": [
+   "release",
+   "restitution"
+  ],
+  "collocations": [
+   "epileptic seizure",
+   "drug seizure",
+   "search and seizure"
+  ],
+  "mnemonic_ar": "جاية من 'Seize' يعني يمسك بقوة.. المرض 'Seizes' الجسم فجأة"
+ }
+}

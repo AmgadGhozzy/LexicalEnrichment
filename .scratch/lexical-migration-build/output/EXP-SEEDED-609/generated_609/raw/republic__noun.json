@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "republic",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "republic",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A state in which supreme power is held by the people and their elected representatives, rather than by a monarch.",
+  "explanation_ar": "دولة نظام الحكم فيها جمهوري، يعني الشعب بيختار الرئيس والممثلين بتوعه، مش ملكية.",
+  "senses": [
+   {
+    "definition_en": "A state in which supreme power is held by the people and their elected representatives, rather than by a monarch.",
+    "definition_ar": "دولة نظام الحكم فيها جمهوري، وتكون السلطة فيها للشعب وممثليه المنتخبين لا لملك.",
+    "examples": [
+     "The president of the republic gave a speech.",
+     "They fought to establish a republic.",
+     "The transition from monarchy to republic was bloody."
+    ]
+   }
+  ],
+  "examples": [
+   "The president of the republic gave a speech.",
+   "They fought to establish a republic.",
+   "The transition from monarchy to republic was bloody."
+  ],
+  "translations": [
+   "جمهورية"
+  ],
+  "relations": {
+   "synonyms": [
+    "democracy",
+    "commonwealth",
+    "state"
+   ],
+   "antonyms": [
+    "monarchy",
+    "dictatorship"
+   ],
+   "collocations": [
+    "banana republic",
+    "Islamic republic",
+    "federal republic"
+   ]
+  },
+  "mnemonic": "زي 'Republic'.. 'جمهورية'.. 'Public' يعني عامة الشعب، فالـ 'Republic' حكم الشعب.",
+  "phonetic_us": "rɪˈpʌblɪk",
+  "phonetic_uk": "rɪˈpʌblɪk",
+  "syllables": "re•pub•lic",
+  "semantic_tags": [
+   "Politics",
+   "Government",
+   "Country"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A state in which supreme power is held by the people and their elected representatives, rather than by a monarch.",
+  "explanation_ar": "دولة نظام الحكم فيها جمهوري، يعني الشعب بيختار الرئيس والممثلين بتوعه، مش ملكية.",
+  "examples": [
+   "The president of the republic gave a speech.",
+   "They fought to establish a republic.",
+   "The transition from monarchy to republic was bloody."
+  ],
+  "translations": {
+   "arabic_ar": "جمهورية"
+  },
+  "synonyms": [
+   "democracy",
+   "commonwealth",
+   "state"
+  ],
+  "antonyms": [
+   "monarchy",
+   "dictatorship"
+  ],
+  "collocations": [
+   "banana republic",
+   "Islamic republic",
+   "federal republic"
+  ],
+  "mnemonic_ar": "زي 'Republic'.. 'جمهورية'.. 'Public' يعني عامة الشعب، فالـ 'Republic' حكم الشعب."
+ }
+}

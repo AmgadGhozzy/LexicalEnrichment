@@ -1,0 +1,115 @@
+{
+ "identity": {
+  "lemma": "remote",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "remote",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Situated far from the main centers of population; distant.",
+  "explanation_ar": "مكان بعيد ومنعزل، أو التحكم عن بعد 'زي الريموت'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Far away from towns, cities, or people; isolated.",
+    "definition_ar": "بعيد ومنعزل عن الناس أو المدن.",
+    "examples": [
+     "They live in a remote village."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Having very little chance of happening; slight.",
+    "definition_ar": "ضئيل أو مستبعد (احتمال أو فرصة).",
+    "examples": [
+     "There is a remote chance of winning."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "Operated from or connecting across a distance.",
+    "definition_ar": "عن بُعد (مثل التحكم أو العمل).",
+    "examples": [
+     "Where is the remote control?"
+    ]
+   }
+  ],
+  "examples": [
+   "They live in a remote village.",
+   "There is a remote chance of winning.",
+   "Where is the remote control?"
+  ],
+  "translations": [
+   "بعيد",
+   "منعزل",
+   "عن بُعد",
+   "ضئيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "distant",
+    "faraway",
+    "isolated",
+    "secluded"
+   ],
+   "antonyms": [
+    "close",
+    "nearby",
+    "adjacent"
+   ],
+   "collocations": [
+    "remote area",
+    "remote chance",
+    "remote control",
+    "remote working"
+   ],
+   "word_family": {
+    "adj": "remote",
+    "adv": "remotely",
+    "noun": "remoteness"
+   }
+  },
+  "mnemonic": "الـ 'Remote' كنترول بيخليك تتحكم في التلفزيون وإنت 'Remote' 'بعيد' عنه.",
+  "phonetic_us": "rɪˈmoʊt",
+  "phonetic_uk": "rɪˈməʊt",
+  "syllables": "re•mote",
+  "semantic_tags": [
+   "#Distance",
+   "#Technology",
+   "#Isolation"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Situated far from the main centers of population; distant.",
+  "explanation_ar": "مكان بعيد ومنعزل، أو التحكم عن بعد 'زي الريموت'.",
+  "examples": [
+   "They live in a remote village.",
+   "There is a remote chance of winning.",
+   "Where is the remote control?"
+  ],
+  "translations": {
+   "arabic_ar": "بعيد منعزل عن بُعد ضئيل"
+  },
+  "synonyms": [
+   "distant",
+   "faraway",
+   "isolated",
+   "secluded"
+  ],
+  "antonyms": [
+   "close",
+   "nearby",
+   "adjacent"
+  ],
+  "collocations": [
+   "remote area",
+   "remote chance",
+   "remote control",
+   "remote working"
+  ],
+  "mnemonic_ar": "الـ 'Remote' كنترول بيخليك تتحكم في التلفزيون وإنت 'Remote' 'بعيد' عنه."
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "slab",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "slab",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A large, thick, flat piece of stone, concrete, or wood.",
+  "explanation_ar": "حتة كبيرة وتخينة ومسطحة من الحجر أو الخرسانة، زي بلاطة الرصيف بس ضخمة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A large, thick, flat piece of stone, concrete, or other hard material.",
+    "definition_ar": "لوح أو بلاطة ضخمة ومسطحة من مادة صلبة كالحجر أو الخرسانة.",
+    "examples": [
+     "They poured a concrete slab for the patio.",
+     "He sat on a slab of rock."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A thick, broad slice or piece of food.",
+    "definition_ar": "شريحة أو قطعة سميكة من الطعام.",
+    "examples": [
+     "She cut a thick slab of cake for him."
+    ]
+   }
+  ],
+  "examples": [
+   "They poured a concrete slab for the patio.",
+   "He sat on a slab of rock.",
+   "She cut a thick slab of cake for him."
+  ],
+  "translations": [
+   "بلاطة",
+   "لوح",
+   "شريحة سميكة"
+  ],
+  "relations": {
+   "synonyms": [
+    "block",
+    "chunk",
+    "piece",
+    "hunk"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "concrete slab",
+    "stone slab",
+    "marble slab",
+    "slab of meat"
+   ]
+  },
+  "mnemonic": "كلمة 'Slab' صوتها تقيل زي الحجر.. 'سْلاب' هبدة حجر على الأرض.",
+  "phonetic_us": "/slæb/",
+  "phonetic_uk": "/slæb/",
+  "syllables": [
+   "slab"
+  ],
+  "semantic_tags": [
+   "Construction",
+   "Material",
+   "Shape",
+   "Heavy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large, thick, flat piece of stone, concrete, or wood.",
+  "explanation_ar": "حتة كبيرة وتخينة ومسطحة من الحجر أو الخرسانة، زي بلاطة الرصيف بس ضخمة.",
+  "examples": [
+   "They poured a concrete slab for the patio.",
+   "He sat on a slab of rock.",
+   "She cut a thick slab of cake for him."
+  ],
+  "translations": {
+   "arabic_ar": "بلاطة لوح شريحة سميكة"
+  },
+  "synonyms": [
+   "block",
+   "chunk",
+   "piece",
+   "hunk"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "concrete slab",
+   "stone slab",
+   "marble slab",
+   "slab of meat"
+  ],
+  "mnemonic_ar": "كلمة 'Slab' صوتها تقيل زي الحجر.. 'سْلاب' هبدة حجر على الأرض."
+ }
+}

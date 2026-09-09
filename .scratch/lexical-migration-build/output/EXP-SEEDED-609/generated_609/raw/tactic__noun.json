@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "tactic",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "tactic",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An action or strategy carefully planned to achieve a specific end.",
+  "explanation_ar": "تكتيك أو خطة ذكية بتتعمل عشان توصل لهدف معين، زي في الكورة أو الحرب.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An action or strategy carefully planned to achieve a specific end.",
+    "definition_ar": "تكتيك أو خطة مدروسة لتحقيق هدف محدد."
+   }
+  ],
+  "examples": [
+   "Using humor is a good tactic to reduce tension.",
+   "The manager changed his tactic halfway through the game.",
+   "Delaying the vote was a political tactic."
+  ],
+  "translations": [
+   "تكتيك",
+   "خطة",
+   "مناورة"
+  ],
+  "relations": {
+   "synonyms": [
+    "ploy",
+    "maneuver",
+    "scheme",
+    "stratagem"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "delaying tactic",
+    "political tactic",
+    "effective tactic",
+    "common tactic"
+   ]
+  },
+  "mnemonic": "نفس الكلمة بالعربي 'تكتيك'.. يعني خطة ملعوبة.",
+  "phonetic_us": "ˈtæktɪk",
+  "phonetic_uk": "ˈtæktɪk",
+  "syllables": "tac•tic",
+  "semantic_tags": [
+   "#Strategy",
+   "#Planning",
+   "#Military",
+   "#Sports"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An action or strategy carefully planned to achieve a specific end.",
+  "explanation_ar": "تكتيك أو خطة ذكية بتتعمل عشان توصل لهدف معين، زي في الكورة أو الحرب.",
+  "examples": [
+   "Using humor is a good tactic to reduce tension.",
+   "The manager changed his tactic halfway through the game.",
+   "Delaying the vote was a political tactic."
+  ],
+  "translations": {
+   "arabic_ar": "تكتيك خطة مناورة"
+  },
+  "synonyms": [
+   "ploy",
+   "maneuver",
+   "scheme",
+   "stratagem"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "delaying tactic",
+   "political tactic",
+   "effective tactic",
+   "common tactic"
+  ],
+  "mnemonic_ar": "نفس الكلمة بالعربي 'تكتيك'.. يعني خطة ملعوبة."
+ }
+}

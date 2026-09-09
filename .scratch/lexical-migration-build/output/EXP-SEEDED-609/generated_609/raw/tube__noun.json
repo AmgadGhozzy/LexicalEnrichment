@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "tube",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "tube",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A long, hollow cylinder used for conveying liquids or gases.",
+  "explanation_ar": "ماسورة أو أسطوانة مفرغة من جوه بيمشي فيها السوائل أو الغازات.",
+  "senses": [
+   {
+    "definition_en": "A long, hollow cylinder used for conveying or holding liquids or gases.",
+    "explanation_ar": "ماسورة أو أسطوانة مفرغة لنقل أو احتواء السوائل والغازات.",
+    "examples": [
+     "Water flows through the tube.",
+     "The doctor inserted a feeding tube."
+    ]
+   },
+   {
+    "definition_en": "A soft container with a cap, used for holding substances such as paste, cream, or paint.",
+    "explanation_ar": "أنبوبة مرنة بغطاء لحفظ المعجون أو الكريم أو الدهان.",
+    "examples": [
+     "The artist squeezed paint from the tube."
+    ]
+   }
+  ],
+  "examples": [
+   "Water flows through the tube.",
+   "The doctor inserted a feeding tube.",
+   "The artist squeezed paint from the tube."
+  ],
+  "translations": [
+   "أنبوب",
+   "ماسورة",
+   "أنبوبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "pipe",
+    "cylinder",
+    "hose",
+    "duct"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "test tube",
+    "inner tube",
+    "tube station",
+    "feeding tube"
+   ]
+  },
+  "mnemonic": "زي 'YouTube'.. زمان التلفزيونات كانت بتشتغل بـ 'Tube' 'صمام' عشان تعرض الصورة",
+  "phonetic_us": "tuːb",
+  "phonetic_uk": "tjuːb",
+  "syllables": [
+   "tube"
+  ],
+  "semantic_tags": [
+   "#Shape",
+   "#Container",
+   "#Transport"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A long, hollow cylinder used for conveying liquids or gases.",
+  "explanation_ar": "ماسورة أو أسطوانة مفرغة من جوه بيمشي فيها السوائل أو الغازات.",
+  "examples": [
+   "Water flows through the tube.",
+   "The doctor inserted a feeding tube.",
+   "The artist squeezed paint from the tube."
+  ],
+  "translations": {
+   "arabic_ar": "أنبوب ماسورة أنبوبة"
+  },
+  "synonyms": [
+   "pipe",
+   "cylinder",
+   "hose",
+   "duct"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "test tube",
+   "inner tube",
+   "tube station",
+   "feeding tube"
+  ],
+  "mnemonic_ar": "زي 'YouTube'.. زمان التلفزيونات كانت بتشتغل بـ 'Tube' 'صمام' عشان تعرض الصورة"
+ }
+}

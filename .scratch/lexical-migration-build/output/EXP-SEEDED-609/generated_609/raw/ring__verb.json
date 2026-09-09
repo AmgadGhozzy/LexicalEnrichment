@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "ring",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "ring",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To make a clear resonant sound; to call by telephone.",
+  "explanation_ar": "إنك تتصل بحد بالتليفون، أو صوت الجرس لما يرن.",
+  "senses": [
+   {
+    "definition_en": "To make a clear resonant sound, especially of a bell or phone.",
+    "definition_ar": "يَرِنّ أو يُصدِر رنينًا (كالجرس أو الهاتف)"
+   },
+   {
+    "definition_en": "To call someone by telephone.",
+    "definition_ar": "يتصل بشخص هاتفياً"
+   }
+  ],
+  "examples": [
+   "Please ring the bell if you need assistance.",
+   "I will ring you as soon as I get home.",
+   "Did you hear the telephone ring?"
+  ],
+  "translations": [
+   "يرن",
+   "يتصل"
+  ],
+  "relations": {
+   "synonyms": [
+    "call",
+    "phone",
+    "chime"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ring a bell",
+    "ring back",
+    "ring true"
+   ]
+  },
+  "mnemonic": "التليفون بيعمل 'Ring'.. يعني بيرن.",
+  "phonetic_us": "/rɪŋ/",
+  "phonetic_uk": "/rɪŋ/",
+  "syllables": "ring",
+  "semantic_tags": [
+   "Sound",
+   "Phone",
+   "Call"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To make a clear resonant sound; to call by telephone.",
+  "explanation_ar": "إنك تتصل بحد بالتليفون، أو صوت الجرس لما يرن.",
+  "examples": [
+   "Please ring the bell if you need assistance.",
+   "I will ring you as soon as I get home.",
+   "Did you hear the telephone ring?"
+  ],
+  "translations": {
+   "arabic_ar": "يرن يتصل"
+  },
+  "synonyms": [
+   "call",
+   "phone",
+   "chime"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ring a bell",
+   "ring back",
+   "ring true"
+  ],
+  "mnemonic_ar": "التليفون بيعمل 'Ring'.. يعني بيرن."
+ }
+}

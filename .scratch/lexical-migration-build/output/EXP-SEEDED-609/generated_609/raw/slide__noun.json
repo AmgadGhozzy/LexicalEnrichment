@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "slide",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "slide",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A structure for sliding down; or a single page in a presentation.",
+  "explanation_ar": "الزحليقة اللي بيلعب عليها الأطفال، أو الشريحة اللي بنعرض عليها صور ومعلومات في البرزنتيشن.",
+  "senses": [
+   {
+    "definition_en": "A single screen or page of text and graphics in a presentation.",
+    "definition_ar": "شريحة في عرض تقديمي (برزنتيشن).",
+    "examples": [
+     "I made a slide for my presentation."
+    ]
+   },
+   {
+    "definition_en": "A structure with a smooth, sloping surface for children to slide down.",
+    "definition_ar": "زحليقة في حديقة الألعاب.",
+    "examples": [
+     "The children played on the slide."
+    ]
+   },
+   {
+    "definition_en": "A gradual change to a worse or lower condition; a decline.",
+    "definition_ar": "هبوط أو تراجع تدريجي نحو الأسوأ.",
+    "examples": [
+     "The economy went into a downward slide."
+    ]
+   }
+  ],
+  "examples": [
+   "The children played on the slide.",
+   "I made a slide for my presentation.",
+   "The economy went into a downward slide."
+  ],
+  "translations": [
+   "شريحة",
+   "زحليقة",
+   "انخفاض",
+   "تراجع"
+  ],
+  "relations": {
+   "synonyms": [
+    "chute",
+    "transparency",
+    "decline"
+   ],
+   "antonyms": [
+    "climb",
+    "ascent"
+   ],
+   "collocations": [
+    "water slide",
+    "slide show",
+    "microscope slide",
+    "downward slide"
+   ]
+  },
+  "mnemonic": "الـ 'Slider' في الأكل صغير وبيزحلق في البطن.. الـ 'Slide' هي الزحليقة أو الحركة الناعمة دي.",
+  "phonetic_us": "slaɪd",
+  "phonetic_uk": "slaɪd",
+  "syllables": "slide",
+  "semantic_tags": [
+   "#Play",
+   "#Presentation",
+   "#Move",
+   "#Image"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A structure for sliding down; or a single page in a presentation.",
+  "explanation_ar": "الزحليقة اللي بيلعب عليها الأطفال، أو الشريحة اللي بنعرض عليها صور ومعلومات في البرزنتيشن.",
+  "examples": [
+   "The children played on the slide.",
+   "I made a slide for my presentation.",
+   "The economy went into a downward slide."
+  ],
+  "translations": {
+   "arabic_ar": "شريحة زحليقة انخفاض تراجع"
+  },
+  "synonyms": [
+   "chute",
+   "transparency",
+   "decline"
+  ],
+  "antonyms": [
+   "climb",
+   "ascent"
+  ],
+  "collocations": [
+   "water slide",
+   "slide show",
+   "microscope slide",
+   "downward slide"
+  ],
+  "mnemonic_ar": "الـ 'Slider' في الأكل صغير وبيزحلق في البطن.. الـ 'Slide' هي الزحليقة أو الحركة الناعمة دي."
+ }
+}

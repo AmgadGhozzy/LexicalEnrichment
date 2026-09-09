@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "presidency",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "presidency",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The office, function, or term of a president.",
+  "explanation_ar": "الفترة اللي بيحكم فيها الرئيس، أو المنصب نفسه بتاع رئيس الجمهورية أو الشركة.",
+  "senses": [
+   {
+    "definition_en": "The office, position, or role of a president.",
+    "definition_ar": "منصب الرئاسة أو وظيفة الرئيس.",
+    "examples": [
+     "She is a candidate for the presidency."
+    ]
+   },
+   {
+    "definition_en": "The period of time during which a president holds office.",
+    "definition_ar": "فترة الرئاسة أو مدة حكم الرئيس.",
+    "examples": [
+     "During his presidency, many laws were changed."
+    ]
+   }
+  ],
+  "examples": [
+   "During his presidency, many laws were changed.",
+   "She is a candidate for the presidency.",
+   "Historians are re-evaluating the impact of his presidency."
+  ],
+  "translations": [
+   "رئاسة",
+   "فترة الرئاسة"
+  ],
+  "relations": {
+   "synonyms": [
+    "administration",
+    "leadership",
+    "term"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "run for presidency",
+    "during his presidency",
+    "assume the presidency",
+    "imperial presidency"
+   ]
+  },
+  "mnemonic": "من 'President' 'رئيس'.. الفترة أو المنصب اللي بياخده الرئيس.",
+  "phonetic_us": "ˈprezɪdənsi",
+  "phonetic_uk": "ˈprezɪdənsi",
+  "syllables": "pres•i•den•cy",
+  "semantic_tags": [
+   "#Politics",
+   "#Leadership",
+   "#Government",
+   "#Time"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The office, function, or term of a president.",
+  "explanation_ar": "الفترة اللي بيحكم فيها الرئيس، أو المنصب نفسه بتاع رئيس الجمهورية أو الشركة.",
+  "examples": [
+   "During his presidency, many laws were changed.",
+   "She is a candidate for the presidency.",
+   "Historians are re-evaluating the impact of his presidency."
+  ],
+  "translations": {
+   "arabic_ar": "رئاسة فترة الرئاسة"
+  },
+  "synonyms": [
+   "administration",
+   "leadership",
+   "term"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "run for presidency",
+   "during his presidency",
+   "assume the presidency",
+   "imperial presidency"
+  ],
+  "mnemonic_ar": "من 'President' 'رئيس'.. الفترة أو المنصب اللي بياخده الرئيس."
+ }
+}

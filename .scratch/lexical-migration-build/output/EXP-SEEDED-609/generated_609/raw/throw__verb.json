@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "throw",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "throw",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To propel something with force through the air.",
+  "explanation_ar": "تحدف حاجة بإيدك في الهوا.",
+  "senses": [
+   {
+    "definition_en": "To propel something with force through the air.",
+    "explanation_ar": "تحدف حاجة بإيدك في الهوا.",
+    "examples": [
+     "Please throw the ball to me.",
+     "Don't throw stones at the window.",
+     "Can you throw the keys to me?"
+    ]
+   }
+  ],
+  "examples": [
+   "Please throw the ball to me.",
+   "Don't throw stones at the window.",
+   "Can you throw the keys to me?"
+  ],
+  "translations": [
+   "يرمي",
+   "يقذف"
+  ],
+  "relations": {
+   "synonyms": [
+    "toss",
+    "hurl",
+    "pitch"
+   ],
+   "antonyms": [
+    "catch",
+    "hold"
+   ],
+   "collocations": [
+    "throw away",
+    "throw a party",
+    "throw a ball"
+   ]
+  },
+  "mnemonic": "'Throw' قريبة من 'Through'.. لما ترمي الكورة بتعدي 'Through' الهوا.",
+  "phonetic_us": "θroʊ",
+  "phonetic_uk": "θrəʊ",
+  "syllables": [
+   "throw"
+  ],
+  "semantic_tags": [
+   "#Action",
+   "#Sport",
+   "#Force"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To propel something with force through the air.",
+  "explanation_ar": "تحدف حاجة بإيدك في الهوا.",
+  "examples": [
+   "Please throw the ball to me.",
+   "Don't throw stones at the window.",
+   "Can you throw the keys to me?"
+  ],
+  "translations": {
+   "arabic_ar": "يرمي يقذف"
+  },
+  "synonyms": [
+   "toss",
+   "hurl",
+   "pitch"
+  ],
+  "antonyms": [
+   "catch",
+   "hold"
+  ],
+  "collocations": [
+   "throw away",
+   "throw a party",
+   "throw a ball"
+  ],
+  "mnemonic_ar": "'Throw' قريبة من 'Through'.. لما ترمي الكورة بتعدي 'Through' الهوا."
+ }
+}

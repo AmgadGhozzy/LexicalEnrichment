@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "trustee",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "trustee",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person responsible for managing money or property for others.",
+  "explanation_ar": "الشخص الأمين أو الوصي اللي بيدير أموال أو ممتلكات نيابة عن حد تاني أو مؤسسة.",
+  "senses": [
+   {
+    "definition_en": "A person responsible for managing money or property for others.",
+    "explanation_ar": "الشخص الأمين أو الوصي اللي بيدير أموال أو ممتلكات نيابة عن حد تاني أو مؤسسة.",
+    "examples": [
+     "The bank acts as a trustee.",
+     "She was appointed as a trustee of the charity.",
+     "The trustee has a fiduciary duty to the beneficiaries."
+    ]
+   }
+  ],
+  "examples": [
+   "The bank acts as a trustee.",
+   "She was appointed as a trustee of the charity.",
+   "The trustee has a fiduciary duty to the beneficiaries."
+  ],
+  "translations": [
+   "وصي",
+   "أمين"
+  ],
+  "relations": {
+   "synonyms": [
+    "custodian",
+    "guardian",
+    "steward",
+    "administrator"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "board of trustees",
+    "appoint a trustee",
+    "trustee savings bank"
+   ]
+  },
+  "mnemonic": "جاية من 'Trust' 'ثقة'.. الـ 'Trustee' هو الشخص اللي بنثق فيه يدير أموالنا.",
+  "phonetic_us": "trʌˈstiː",
+  "phonetic_uk": "trʌsˈtiː",
+  "syllables": [
+   "trus",
+   "tee"
+  ],
+  "semantic_tags": [
+   "Law",
+   "Finance",
+   "Management",
+   "Responsibility"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person responsible for managing money or property for others.",
+  "explanation_ar": "الشخص الأمين أو الوصي اللي بيدير أموال أو ممتلكات نيابة عن حد تاني أو مؤسسة.",
+  "examples": [
+   "The bank acts as a trustee.",
+   "She was appointed as a trustee of the charity.",
+   "The trustee has a fiduciary duty to the beneficiaries."
+  ],
+  "translations": {
+   "arabic_ar": "وصي أمين"
+  },
+  "synonyms": [
+   "custodian",
+   "guardian",
+   "steward",
+   "administrator"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "board of trustees",
+   "appoint a trustee",
+   "trustee savings bank"
+  ],
+  "mnemonic_ar": "جاية من 'Trust' 'ثقة'.. الـ 'Trustee' هو الشخص اللي بنثق فيه يدير أموالنا."
+ }
+}

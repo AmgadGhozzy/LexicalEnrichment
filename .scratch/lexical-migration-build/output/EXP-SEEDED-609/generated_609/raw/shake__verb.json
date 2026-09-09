@@ -1,0 +1,108 @@
+{
+ "identity": {
+  "lemma": "shake",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "shake",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To move quickly back and forth or up and down, or to cause something to do this.",
+  "explanation_ar": "يهز حاجة جامد، زي لما تهز إزازة الدوا قبل ما تاخده، أو تهز إيد حد للسلام.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To move quickly back and forth or up and down, or to make something do this.",
+    "definition_ar": "يهز أو يرج شيئاً بحركات سريعة.",
+    "examples": [
+     "You must shake the bottle well before use."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To hold someone's hand and move it up and down as a greeting.",
+    "definition_ar": "يصافح شخصاً باليد.",
+    "examples": [
+     "We shake hands whenever we greet each other."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "To tremble or shiver because of cold, fear, or illness.",
+    "definition_ar": "يرتجف أو يرتعد من البرد أو الخوف.",
+    "examples": [
+     "Cold weather can make you shake all over."
+    ]
+   }
+  ],
+  "examples": [
+   "You must shake the bottle well before use.",
+   "We shake hands whenever we greet each other.",
+   "Cold weather can make you shake all over."
+  ],
+  "translations": [
+   "يهز",
+   "يرج",
+   "يصافح",
+   "يرتجف"
+  ],
+  "relations": {
+   "synonyms": [
+    "tremble",
+    "shiver",
+    "vibrate",
+    "rock"
+   ],
+   "antonyms": [
+    "steady",
+    "stabilize"
+   ],
+   "collocations": [
+    "shake hands",
+    "shake head",
+    "shake with fear",
+    "shake off"
+   ]
+  },
+  "mnemonic": "افتكر مشروب المشروب الشهير 'ميلك شيك' (Milkshake)؛ اسمه جاي من إنهم بيهزوا (shake) الحليب والمكونات جامد مع بعض علشان يمتزجوا.",
+  "phonetic_us": "ʃeɪk",
+  "phonetic_uk": "ʃeɪk",
+  "syllables": "shake",
+  "semantic_tags": [
+   "#Action",
+   "#Physical",
+   "#Emotion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To move quickly back and forth or up and down, or to cause something to do this.",
+  "explanation_ar": "يهز حاجة جامد، زي لما تهز إزازة الدوا قبل ما تاخده، أو تهز إيد حد للسلام.",
+  "examples": [
+   "You must shake the bottle well before use.",
+   "We shake hands whenever we greet each other.",
+   "Cold weather can make you shake all over."
+  ],
+  "translations": {
+   "arabic_ar": "يهز يرج يصافح يرتجف"
+  },
+  "synonyms": [
+   "tremble",
+   "shiver",
+   "vibrate",
+   "rock"
+  ],
+  "antonyms": [
+   "steady",
+   "stabilize"
+  ],
+  "collocations": [
+   "shake hands",
+   "shake head",
+   "shake with fear",
+   "shake off"
+  ],
+  "mnemonic_ar": "افتكر مشروب المشروب الشهير 'ميلك شيك' (Milkshake)؛ اسمه جاي من إنهم بيهزوا (shake) الحليب والمكونات جامد مع بعض علشان يمتزجوا."
+ }
+}

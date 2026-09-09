@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "sir",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "sir",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A polite and formal way of speaking to or addressing a man.",
+  "explanation_ar": "لقب احترام يُستخدم لمخاطبة الرجل بأدب، بمعنى «يا فندم» أو «سيدي».",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Used as a polite or respectful form of address to a man.",
+    "definition_ar": "صيغة مخاطبة مهذبة تُقال للرجل (سيدي / يا فندم).",
+    "examples": [
+     "Excuse me, sir, you dropped this.",
+     "May I help you, sir?",
+     "Yes, sir, right away."
+    ]
+   }
+  ],
+  "examples": [
+   "Excuse me, sir, you dropped this.",
+   "May I help you, sir?",
+   "Yes, sir, right away."
+  ],
+  "translations": [
+   "سيدي",
+   "يا فندم"
+  ],
+  "relations": {
+   "synonyms": [
+    "mister"
+   ],
+   "antonyms": [
+    "madam",
+    "ma'am"
+   ],
+   "collocations": [
+    "yes sir",
+    "dear sir",
+    "no sir"
+   ]
+  },
+  "mnemonic": "كلمة 'Sir' قريبة في النطق من 'سِر'.. تخيل أنك تخاطب شخصاً مهماً وصاحب 'سر' ومكانة باحترام.",
+  "phonetic_us": "sɝ",
+  "phonetic_uk": "sɜː",
+  "syllables": "sir",
+  "semantic_tags": [
+   "politeness",
+   "respect",
+   "titles"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A polite and formal way of speaking to or addressing a man.",
+  "explanation_ar": "لقب احترام يُستخدم لمخاطبة الرجل بأدب، بمعنى «يا فندم» أو «سيدي».",
+  "examples": [
+   "Excuse me, sir, you dropped this.",
+   "May I help you, sir?",
+   "Yes, sir, right away."
+  ],
+  "translations": {
+   "arabic_ar": "سيدي يا فندم"
+  },
+  "synonyms": [
+   "mister"
+  ],
+  "antonyms": [
+   "madam",
+   "ma'am"
+  ],
+  "collocations": [
+   "yes sir",
+   "dear sir",
+   "no sir"
+  ],
+  "mnemonic_ar": "كلمة 'Sir' قريبة في النطق من 'سِر'.. تخيل أنك تخاطب شخصاً مهماً وصاحب 'سر' ومكانة باحترام."
+ }
+}

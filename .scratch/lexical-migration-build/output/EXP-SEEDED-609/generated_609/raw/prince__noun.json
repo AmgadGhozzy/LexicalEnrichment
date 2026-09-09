@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "prince",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "prince",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The son of a king or queen, or a male member of a royal family.",
+  "explanation_ar": "أمير؛ ابن الملك أو الملكة، أو عضو ذكر من العائلة المالكة.",
+  "senses": [
+   {
+    "sense_id": "prince_n_1",
+    "definition_en": "The son of a king or queen, or a male member of a royal family.",
+    "explanation_ar": "أمير؛ ابن الملك أو الملكة أو فرد من العائلة الحاكمة.",
+    "cefr": "B1"
+   }
+  ],
+  "examples": [
+   "The prince lives in a castle.",
+   "The crown prince is next in line to the throne.",
+   "He acted like a charming prince."
+  ],
+  "translations": [
+   "أمير"
+  ],
+  "relations": {
+   "synonyms": [
+    "heir",
+    "crown prince"
+   ],
+   "antonyms": [
+    "princess"
+   ],
+   "collocations": [
+    "crown prince",
+    "prince charming",
+    "royal prince"
+   ]
+  },
+  "mnemonic": "كلمة 'Prince' سهلة.. افتكر 'Princess' 'أميرة' والـ 'Prince' 'أمير'.",
+  "phonetic_us": "/prɪns/",
+  "phonetic_uk": "/prɪns/",
+  "syllables": [
+   "prince"
+  ],
+  "semantic_tags": [
+   "#Royal",
+   "#King",
+   "#FairyTale"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The son of a king or queen, or a male member of a royal family.",
+  "explanation_ar": "أمير؛ ابن الملك أو الملكة، أو عضو ذكر من العائلة المالكة.",
+  "examples": [
+   "The prince lives in a castle.",
+   "The crown prince is next in line to the throne.",
+   "He acted like a charming prince."
+  ],
+  "translations": {
+   "arabic_ar": "أمير"
+  },
+  "synonyms": [
+   "heir",
+   "crown prince"
+  ],
+  "antonyms": [
+   "princess"
+  ],
+  "collocations": [
+   "crown prince",
+   "prince charming",
+   "royal prince"
+  ],
+  "mnemonic_ar": "كلمة 'Prince' سهلة.. افتكر 'Princess' 'أميرة' والـ 'Prince' 'أمير'."
+ }
+}

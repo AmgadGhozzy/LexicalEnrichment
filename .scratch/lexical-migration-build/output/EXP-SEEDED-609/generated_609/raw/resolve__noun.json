@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "resolve",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "resolve",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Strong determination to do something.",
+  "explanation_ar": "العزيمة والإصرار القوي إنك تعمل حاجة وماتتراجعش عنها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Strong determination to do something.",
+    "definition_ar": "العزيمة والإصرار القوي على فعل شيء ما.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The difficulty of the task tested his resolve.",
+   "Her resolve weakened after the bad news.",
+   "They defended their position with unwavering resolve."
+  ],
+  "translations": [
+   "عزيمة",
+   "تصميم",
+   "إصرار"
+  ],
+  "relations": {
+   "synonyms": [
+    "determination",
+    "resolution",
+    "persistence",
+    "tenacity"
+   ],
+   "antonyms": [
+    "indecision",
+    "hesitation"
+   ],
+   "collocations": [
+    "strengthen resolve",
+    "weaken resolve",
+    "unwavering resolve",
+    "firm resolve"
+   ]
+  },
+  "mnemonic": "زي 'Solve' 'يحل'.. الـ 'Resolve' هو الإصرار اللي بيخليك تلاقي حل لأي مشكلة.",
+  "phonetic_us": "ɹɪˈzɑlv",
+  "phonetic_uk": "ɹɪˈzɒlv",
+  "syllables": "re•solve",
+  "semantic_tags": [
+   "#Determination",
+   "#Willpower",
+   "#Character"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Strong determination to do something.",
+  "explanation_ar": "العزيمة والإصرار القوي إنك تعمل حاجة وماتتراجعش عنها.",
+  "examples": [
+   "The difficulty of the task tested his resolve.",
+   "Her resolve weakened after the bad news.",
+   "They defended their position with unwavering resolve."
+  ],
+  "translations": {
+   "arabic_ar": "عزيمة تصميم إصرار"
+  },
+  "synonyms": [
+   "determination",
+   "resolution",
+   "persistence",
+   "tenacity"
+  ],
+  "antonyms": [
+   "indecision",
+   "hesitation"
+  ],
+  "collocations": [
+   "strengthen resolve",
+   "weaken resolve",
+   "unwavering resolve",
+   "firm resolve"
+  ],
+  "mnemonic_ar": "زي 'Solve' 'يحل'.. الـ 'Resolve' هو الإصرار اللي بيخليك تلاقي حل لأي مشكلة."
+ }
+}

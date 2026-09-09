@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "sponsor",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "sponsor",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person or organization that pays for or contributes to the costs of an event or broadcast.",
+  "explanation_ar": "الراعي أو الممول اللي بيدفع فلوس لحدث رياضي أو فني مقابل دعاية لاسمه.",
+  "senses": [
+   {
+    "definition_en": "A person or organization that pays for or contributes to the costs of an event or broadcast.",
+    "explanation_ar": "الراعي أو الممول الذي يدفع تكاليف حدث أو نشاط مقابل الإعلان لاسمه.",
+    "examples": [
+     "They have a new sponsor.",
+     "We are looking for a sponsor for the team.",
+     "The main sponsor withdrew their support."
+    ]
+   }
+  ],
+  "examples": [
+   "They have a new sponsor.",
+   "We are looking for a sponsor for the team.",
+   "The main sponsor withdrew their support."
+  ],
+  "translations": [
+   "راعي",
+   "ممول",
+   "كفيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "patron",
+    "backer",
+    "promoter",
+    "financier"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "official sponsor",
+    "corporate sponsor",
+    "title sponsor"
+   ]
+  },
+  "mnemonic": "المسؤول اللي بيدفع الفلوس 'Spons' عشان الإعلان.",
+  "phonetic_us": "ˈspɑːnsər",
+  "phonetic_uk": "ˈspɒnsər",
+  "syllables": "spon•sor",
+  "semantic_tags": [
+   "Business",
+   "Money",
+   "Advertising"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person or organization that pays for or contributes to the costs of an event or broadcast.",
+  "explanation_ar": "الراعي أو الممول اللي بيدفع فلوس لحدث رياضي أو فني مقابل دعاية لاسمه.",
+  "examples": [
+   "They have a new sponsor.",
+   "We are looking for a sponsor for the team.",
+   "The main sponsor withdrew their support."
+  ],
+  "translations": {
+   "arabic_ar": "راعي ممول كفيل"
+  },
+  "synonyms": [
+   "patron",
+   "backer",
+   "promoter",
+   "financier"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "official sponsor",
+   "corporate sponsor",
+   "title sponsor"
+  ],
+  "mnemonic_ar": "المسؤول اللي بيدفع الفلوس 'Spons' عشان الإعلان."
+ }
+}

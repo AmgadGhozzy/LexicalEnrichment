@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "stranger",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "stranger",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person whom one does not know.",
+  "explanation_ar": "شخص غريب متعرفوش وأول مرة تشوفه.",
+  "senses": [
+   {
+    "definition_en": "A person whom one does not know.",
+    "explanation_ar": "شخص غريب لا تعرفه ولم يسبق لك مقابلته.",
+    "examples": [
+     "She felt uneasy talking to a stranger on the train.",
+     "I felt like a stranger in my own town.",
+     "A complete stranger offered to help her with the heavy luggage."
+    ]
+   }
+  ],
+  "examples": [
+   "She felt uneasy talking to a stranger on the train.",
+   "I felt like a stranger in my own town.",
+   "A complete stranger offered to help her with the heavy luggage."
+  ],
+  "translations": [
+   "شخص غريب",
+   "غريب"
+  ],
+  "relations": {
+   "synonyms": [
+    "outsider",
+    "newcomer"
+   ],
+   "antonyms": [
+    "friend",
+    "acquaintance"
+   ],
+   "collocations": [
+    "complete stranger",
+    "total stranger",
+    "perfect stranger",
+    "stranger danger"
+   ]
+  },
+  "mnemonic": "جاية من 'Strange' (غريب)؛ فالشخص اللي تصرفاته أو شكله غريب عليك وغير مألوف بيبقى 'Stranger'.",
+  "phonetic_us": "ˈstreɪndʒər",
+  "phonetic_uk": "ˈstreɪndʒə",
+  "syllables": [
+   "stran",
+   "ger"
+  ],
+  "semantic_tags": [
+   "people",
+   "society",
+   "unknown",
+   "safety"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person whom one does not know.",
+  "explanation_ar": "شخص غريب متعرفوش وأول مرة تشوفه.",
+  "examples": [
+   "She felt uneasy talking to a stranger on the train.",
+   "I felt like a stranger in my own town.",
+   "A complete stranger offered to help her with the heavy luggage."
+  ],
+  "translations": {
+   "arabic_ar": "شخص غريب غريب"
+  },
+  "synonyms": [
+   "outsider",
+   "newcomer"
+  ],
+  "antonyms": [
+   "friend",
+   "acquaintance"
+  ],
+  "collocations": [
+   "complete stranger",
+   "total stranger",
+   "perfect stranger",
+   "stranger danger"
+  ],
+  "mnemonic_ar": "جاية من 'Strange' (غريب)؛ فالشخص اللي تصرفاته أو شكله غريب عليك وغير مألوف بيبقى 'Stranger'."
+ }
+}

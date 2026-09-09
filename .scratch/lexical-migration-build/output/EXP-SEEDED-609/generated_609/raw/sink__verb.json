@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "sink",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "sink",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To go down below the surface of a liquid; to submerge.",
+  "explanation_ar": "يعني يغرق أو ينزل تحت سطح الميه. وممكن تيجي بمعنى ينخفض أو يهبط.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To go down below the surface of water or another liquid.",
+    "definition_ar": "يغرق أو يغوص تحت سطح الماء",
+    "examples": [
+     "Stones sink in water.",
+     "The ship began to sink."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To move downward or fall to a lower level slowly.",
+    "definition_ar": "يهبط أو ينزل تدريجيًا",
+    "examples": [
+     "The sun started to sink below the horizon."
+    ]
+   }
+  ],
+  "examples": [
+   "Stones sink in water.",
+   "The ship began to sink.",
+   "The sun started to sink below the horizon."
+  ],
+  "translations": [
+   "يغرق",
+   "يغوص",
+   "يهبط"
+  ],
+  "relations": {
+   "synonyms": [
+    "submerge",
+    "descend",
+    "drop",
+    "go down"
+   ],
+   "antonyms": [
+    "float",
+    "rise",
+    "surface"
+   ],
+   "collocations": [
+    "sink into",
+    "sink or swim",
+    "begin to sink"
+   ]
+  },
+  "mnemonic": "السفينة لما بتغرق بنقول عليها 'Sink'.. افتكر التايتنيك وهي بتعمل 'Sinking'.",
+  "phonetic_us": "/sɪŋk/",
+  "phonetic_uk": "/sɪŋk/",
+  "syllables": "sink",
+  "semantic_tags": [
+   "#Water",
+   "#Down",
+   "#Failure"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To go down below the surface of a liquid; to submerge.",
+  "explanation_ar": "يعني يغرق أو ينزل تحت سطح الميه. وممكن تيجي بمعنى ينخفض أو يهبط.",
+  "examples": [
+   "Stones sink in water.",
+   "The ship began to sink.",
+   "The sun started to sink below the horizon."
+  ],
+  "translations": {
+   "arabic_ar": "يغرق يغوص يهبط"
+  },
+  "synonyms": [
+   "submerge",
+   "descend",
+   "drop",
+   "go down"
+  ],
+  "antonyms": [
+   "float",
+   "rise",
+   "surface"
+  ],
+  "collocations": [
+   "sink into",
+   "sink or swim",
+   "begin to sink"
+  ],
+  "mnemonic_ar": "السفينة لما بتغرق بنقول عليها 'Sink'.. افتكر التايتنيك وهي بتعمل 'Sinking'."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "sing",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sing",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To make musical sounds with the voice.",
+  "explanation_ar": "يغني.. يطلع صوت موسيقي بكلام ولحن.",
+  "senses": [
+   {
+    "sense_id": "sing-verb-1",
+    "definition_en": "To make musical sounds with the voice.",
+    "definition_ar": "يغني بصوته بلحن وكلمات.",
+    "examples": [
+     "I like to sing.",
+     "Can you sing this song?",
+     "They often sing together in the car."
+    ]
+   }
+  ],
+  "examples": [
+   "I like to sing.",
+   "Can you sing this song?",
+   "They often sing together in the car."
+  ],
+  "translations": [
+   "يغني"
+  ],
+  "relations": {
+   "synonyms": [
+    "chant",
+    "croon",
+    "hum",
+    "vocalize"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sing a song",
+    "sing along",
+    "sing out",
+    "sing loudly"
+   ]
+  },
+  "mnemonic": "الـ 'Singer' بيعمل إيه؟ بيعمل 'Sing'.",
+  "phonetic_us": "sɪŋ",
+  "phonetic_uk": "sɪŋ",
+  "syllables": "sing",
+  "semantic_tags": [
+   "#Music",
+   "#Voice",
+   "#Performance",
+   "#Art"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To make musical sounds with the voice.",
+  "explanation_ar": "يغني.. يطلع صوت موسيقي بكلام ولحن.",
+  "examples": [
+   "I like to sing.",
+   "Can you sing this song?",
+   "They often sing together in the car."
+  ],
+  "translations": {
+   "arabic_ar": "يغني"
+  },
+  "synonyms": [
+   "chant",
+   "croon",
+   "hum",
+   "vocalize"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sing a song",
+   "sing along",
+   "sing out",
+   "sing loudly"
+  ],
+  "mnemonic_ar": "الـ 'Singer' بيعمل إيه؟ بيعمل 'Sing'."
+ }
+}

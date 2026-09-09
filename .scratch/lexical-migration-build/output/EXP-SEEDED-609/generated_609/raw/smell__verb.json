@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "smell",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "smell",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To perceive the odor or scent of something.",
+  "explanation_ar": "تستخدم مناخيرك عشان تميز الروايح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To perceive the odor or scent of something with your nose.",
+    "definition_ar": "أن تدرك الرائحة بحاسة الشم (يشم).",
+    "pos": "verb",
+    "examples": [
+     "Can you smell that?",
+     "I smell pizza."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To have or produce a particular odor.",
+    "definition_ar": "أن تكون له رائحة معينة (تفوح منه رائحة).",
+    "pos": "verb",
+    "examples": [
+     "You smell like smoke."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you smell that?",
+   "I smell pizza.",
+   "You smell like smoke."
+  ],
+  "translations": [
+   "يشم"
+  ],
+  "relations": {
+   "synonyms": [
+    "sniff",
+    "scent",
+    "detect"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "smell good",
+    "smell bad",
+    "smell like",
+    "smell a rat"
+   ],
+   "word_family": {
+    "adj": "smelly",
+    "noun": "smell",
+    "verb": "smell"
+   }
+  },
+  "mnemonic": null,
+  "phonetic_us": "smɛl",
+  "phonetic_uk": null,
+  "syllables": null,
+  "semantic_tags": [
+   "#Action",
+   "#Senses",
+   "#Nose"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To perceive the odor or scent of something.",
+  "explanation_ar": "تستخدم مناخيرك عشان تميز الروايح.",
+  "examples": [
+   "Can you smell that?",
+   "I smell pizza.",
+   "You smell like smoke."
+  ],
+  "translations": {
+   "arabic_ar": "يشم"
+  },
+  "synonyms": [
+   "sniff",
+   "scent",
+   "detect"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "smell good",
+   "smell bad",
+   "smell like",
+   "smell a rat"
+  ],
+  "mnemonic_ar": null
+ }
+}

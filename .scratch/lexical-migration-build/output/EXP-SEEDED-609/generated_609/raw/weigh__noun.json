@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "weigh",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "weigh",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Motion or headway, especially of a ship or boat through water (used almost exclusively in the phrase 'under weigh').",
+  "explanation_ar": "حركة السفينة أو إبحارها في الماء، وتُستخدم بشكل أساسي في التعبير 'under weigh' بمعنى في حالة حركة أو مبحرة.",
+  "senses": [
+   {
+    "definition_en": "Motion or headway, especially of a ship or boat through water (used almost exclusively in the phrase 'under weigh').",
+    "explanation_ar": "حركة السفينة أو إبحارها في الماء، وتُستخدم بشكل أساسي في التعبير 'under weigh' بمعنى في حالة حركة أو مبحرة.",
+    "examples": [
+     "The ship was finally under weigh after the anchor was raised.",
+     "The crew prepared the sails so the boat could get under weigh.",
+     "With the engine running, the vessel was safely under weigh."
+    ]
+   }
+  ],
+  "examples": [
+   "The ship was finally under weigh after the anchor was raised.",
+   "The crew prepared the sails so the boat could get under weigh.",
+   "With the engine running, the vessel was safely under weigh."
+  ],
+  "translations": [
+   "إبحار",
+   "حركة سفينة"
+  ],
+  "relations": {
+   "synonyms": [
+    "headway",
+    "motion"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "under weigh",
+    "get under weigh"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "weɪ",
+  "phonetic_uk": null,
+  "syllables": null,
+  "semantic_tags": [
+   "#Nautical",
+   "#Motion"
+  ],
+  "ai_confidence": 0.85
+ },
+ "arm": {
+  "definition_en": "Motion or headway, especially of a ship or boat through water (used almost exclusively in the phrase 'under weigh').",
+  "explanation_ar": "حركة السفينة أو إبحارها في الماء، وتُستخدم بشكل أساسي في التعبير 'under weigh' بمعنى في حالة حركة أو مبحرة.",
+  "examples": [
+   "The ship was finally under weigh after the anchor was raised.",
+   "The crew prepared the sails so the boat could get under weigh.",
+   "With the engine running, the vessel was safely under weigh."
+  ],
+  "translations": {
+   "arabic_ar": "إبحار حركة سفينة"
+  },
+  "synonyms": [
+   "headway",
+   "motion"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "under weigh",
+   "get under weigh"
+  ],
+  "mnemonic_ar": null
+ }
+}

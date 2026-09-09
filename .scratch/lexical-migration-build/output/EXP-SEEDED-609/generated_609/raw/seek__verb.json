@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "seek",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "seek",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To attempt to find something or someone, or to ask for something.",
+  "explanation_ar": "إنك تدور على حاجة أو تسعى عشان توصل لهدف معين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To try to find or obtain something, especially assistance, information, or safety.",
+    "definition_ar": "أن تبحث عن شيء أو تطلبه (مثل مساعدة أو نصيحة أو حماية).",
+    "examples": [
+     "You should seek medical advice if pain persists.",
+     "Many people seek asylum in safer countries."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To attempt or try to do something.",
+    "definition_ar": "أن تحاول أو تسعى لفعل شيء ما.",
+    "examples": [
+     "We seek to improve our services."
+    ]
+   }
+  ],
+  "examples": [
+   "You should seek medical advice if pain persists.",
+   "Many people seek asylum in safer countries.",
+   "We seek to improve our services."
+  ],
+  "translations": [
+   "يسعى",
+   "يطلب",
+   "يبحث عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "search for",
+    "look for",
+    "pursue",
+    "request",
+    "solicit"
+   ],
+   "antonyms": [
+    "ignore",
+    "avoid"
+   ],
+   "collocations": [
+    "seek advice",
+    "seek help",
+    "seek refuge",
+    "seek employment"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Sick' 'مريض'.. لما تكون 'Sick' لازم 'Seek' 'تطلب/تبحث عن' مساعدة الدكتور.",
+  "phonetic_us": "siːk",
+  "phonetic_uk": "siːk",
+  "syllables": [
+   "seek"
+  ],
+  "semantic_tags": [
+   "Search",
+   "Goal",
+   "Formal",
+   "Attempt"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To attempt to find something or someone, or to ask for something.",
+  "explanation_ar": "إنك تدور على حاجة أو تسعى عشان توصل لهدف معين.",
+  "examples": [
+   "You should seek medical advice if pain persists.",
+   "Many people seek asylum in safer countries.",
+   "We seek to improve our services."
+  ],
+  "translations": {
+   "arabic_ar": "يسعى يطلب يبحث عن"
+  },
+  "synonyms": [
+   "search for",
+   "look for",
+   "pursue",
+   "request",
+   "solicit"
+  ],
+  "antonyms": [
+   "ignore",
+   "avoid"
+  ],
+  "collocations": [
+   "seek advice",
+   "seek help",
+   "seek refuge",
+   "seek employment"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Sick' 'مريض'.. لما تكون 'Sick' لازم 'Seek' 'تطلب/تبحث عن' مساعدة الدكتور."
+ }
+}

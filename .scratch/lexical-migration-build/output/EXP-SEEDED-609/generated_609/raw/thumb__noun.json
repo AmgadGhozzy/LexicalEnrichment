@@ -1,0 +1,74 @@
+{
+ "identity": {
+  "lemma": "thumb",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "thumb",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The short, thick first digit of the human hand.",
+  "explanation_ar": "صباع الإبهام، التخين والقصير اللي في إيدك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "pos": "noun",
+    "definition_en": "The short, thick first digit of the human hand.",
+    "explanation_ar": "صباع الإبهام، التخين والقصير اللي في إيدك.",
+    "translations": [
+     "إبهام"
+    ]
+   }
+  ],
+  "examples": [
+   "Show me your thumb.",
+   "The baby is sucking his thumb.",
+   "She hit her thumb with the hammer."
+  ],
+  "translations": [
+   "إبهام"
+  ],
+  "relations": {
+   "synonyms": [
+    "pollex"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "rule of thumb",
+    "thumb drive"
+   ]
+  },
+  "mnemonic": "لما تعمل 'Thumbs up' بترفع صباع الـ 'Thumb' لفوق.",
+  "phonetic_us": "θʌm",
+  "phonetic_uk": "θʌm",
+  "syllables": "thumb",
+  "semantic_tags": [
+   "#Body",
+   "#Hand",
+   "#Finger"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The short, thick first digit of the human hand.",
+  "explanation_ar": "صباع الإبهام، التخين والقصير اللي في إيدك.",
+  "examples": [
+   "Show me your thumb.",
+   "The baby is sucking his thumb.",
+   "She hit her thumb with the hammer."
+  ],
+  "translations": {
+   "arabic_ar": "إبهام"
+  },
+  "synonyms": [
+   "pollex"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "rule of thumb",
+   "thumb drive"
+  ],
+  "mnemonic_ar": "لما تعمل 'Thumbs up' بترفع صباع الـ 'Thumb' لفوق."
+ }
+}

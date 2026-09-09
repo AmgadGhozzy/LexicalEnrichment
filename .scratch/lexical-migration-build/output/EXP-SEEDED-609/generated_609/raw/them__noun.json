@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "them",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "them",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The objective case of 'they'; refers to a group of people or things.",
+  "explanation_ar": "ضمير مفعول للجمع الغائب، بنستخدمه لما نتكلم عن مجموعة ناس أو حاجات مش معانا.",
+  "senses": [
+   {
+    "definition_en": "The objective case of 'they'; refers to a group of people or things.",
+    "explanation_ar": "ضمير مفعول للجمع الغائب، بنستخدمه لما نتكلم عن مجموعة ناس أو حاجات مش معانا.",
+    "examples": [
+     "I see them.",
+     "I don't like them.",
+     "Give the books to them."
+    ]
+   }
+  ],
+  "examples": [
+   "I see them.",
+   "I don't like them.",
+   "Give the books to them."
+  ],
+  "translations": [
+   "هم",
+   "إياهم"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "us"
+   ],
+   "collocations": [
+    "us and them",
+    "one of them",
+    "all of them",
+    "tell them"
+   ]
+  },
+  "mnemonic": "كلمة 'Them' يعني هُم.. بتشاور بيهم على الناس التانية.",
+  "phonetic_us": "ðɛm",
+  "phonetic_uk": null,
+  "syllables": null,
+  "semantic_tags": [
+   "#Pronoun",
+   "#People",
+   "#Group"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The objective case of 'they'; refers to a group of people or things.",
+  "explanation_ar": "ضمير مفعول للجمع الغائب، بنستخدمه لما نتكلم عن مجموعة ناس أو حاجات مش معانا.",
+  "examples": [
+   "I see them.",
+   "I don't like them.",
+   "Give the books to them."
+  ],
+  "translations": {
+   "arabic_ar": "هم إياهم"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "us"
+  ],
+  "collocations": [
+   "us and them",
+   "one of them",
+   "all of them",
+   "tell them"
+  ],
+  "mnemonic_ar": "كلمة 'Them' يعني هُم.. بتشاور بيهم على الناس التانية."
+ }
+}

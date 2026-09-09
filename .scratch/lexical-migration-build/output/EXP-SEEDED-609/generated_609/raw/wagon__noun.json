@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "wagon",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "wagon",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A vehicle used for transporting goods or another specified purpose, often pulled by a horse.",
+  "explanation_ar": "عربية نقل بضائع، زمان كانت بتتجر بالحصنة، ودلوقتي ممكن تتقال على عربيات الأطفال أو عربيات القطار.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A four-wheeled vehicle used for transporting heavy loads or goods, traditionally pulled by horses or oxen.",
+    "explanation_ar": "عربة ذات أربع عجلات تُستخدم لنقل البضائع أو الأحمال الثقيلة، تُجر عادةً بالخيول",
+    "examples": [
+     "They loaded the hay onto the wagon.",
+     "The horse pulls the wagon."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A child's small four-wheeled toy cart with a long handle for pulling.",
+    "explanation_ar": "عربة أطفال صغيرة ذات أربع عجلات تُجر بمقبض يدوي",
+    "examples": [
+     "The child pulled his toys in a red wagon."
+    ]
+   }
+  ],
+  "examples": [
+   "The horse pulls the wagon.",
+   "The child pulled his toys in a red wagon.",
+   "They loaded the hay onto the wagon."
+  ],
+  "translations": [
+   "عربة",
+   "عربة نقل",
+   "مقطورة"
+  ],
+  "relations": {
+   "synonyms": [
+    "cart",
+    "carriage"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "covered wagon",
+    "station wagon",
+    "fall off the wagon"
+   ]
+  },
+  "mnemonic": "كلمة 'Wagon' شبه 'Volkswagen' 'ماركة العربيات'.. والاتنين عربيات.",
+  "phonetic_us": "ˈwæɡ.ən",
+  "phonetic_uk": "ˈwæɡ.ən",
+  "syllables": "wag•on",
+  "semantic_tags": [
+   "#Vehicle",
+   "#Transport",
+   "#History",
+   "#Toys"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A vehicle used for transporting goods or another specified purpose, often pulled by a horse.",
+  "explanation_ar": "عربية نقل بضائع، زمان كانت بتتجر بالحصنة، ودلوقتي ممكن تتقال على عربيات الأطفال أو عربيات القطار.",
+  "examples": [
+   "The horse pulls the wagon.",
+   "The child pulled his toys in a red wagon.",
+   "They loaded the hay onto the wagon."
+  ],
+  "translations": {
+   "arabic_ar": "عربة عربة نقل مقطورة"
+  },
+  "synonyms": [
+   "cart",
+   "carriage"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "covered wagon",
+   "station wagon",
+   "fall off the wagon"
+  ],
+  "mnemonic_ar": "كلمة 'Wagon' شبه 'Volkswagen' 'ماركة العربيات'.. والاتنين عربيات."
+ }
+}

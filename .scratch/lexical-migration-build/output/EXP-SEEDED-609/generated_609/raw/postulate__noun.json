@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "postulate",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "postulate",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A thing suggested or assumed as true as the basis for reasoning.",
+  "explanation_ar": "افتراض أو مُسلَّمة بنعتبرها صح عشان نبني عليها نظرية أو نقاش.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A thing suggested or assumed as true as the basis for reasoning.",
+    "explanation_ar": "افتراض أو مُسلَّمة بنعتبرها صح عشان نبني عليها نظرية أو نقاش.",
+    "examples": [
+     "The theory is based on a simple postulate.",
+     "We must accept this postulate to continue the argument.",
+     "The entire economic model rests on a flawed postulate."
+    ]
+   }
+  ],
+  "examples": [
+   "The theory is based on a simple postulate.",
+   "We must accept this postulate to continue the argument.",
+   "The entire economic model rests on a flawed postulate."
+  ],
+  "translations": [
+   "مُسَلَّمة",
+   "فَرْضِيّة"
+  ],
+  "relations": {
+   "synonyms": [
+    "premise",
+    "assumption",
+    "axiom",
+    "hypothesis"
+   ],
+   "antonyms": [
+    "fact",
+    "proof"
+   ],
+   "collocations": [
+    "basic postulate",
+    "theoretical postulate",
+    "accept a postulate"
+   ]
+  },
+  "mnemonic": "حاجة إنت بـ 'Post' 'بتحطها' كأساس للنقاش.",
+  "phonetic_us": "ˈpɑːstʃəleɪt",
+  "phonetic_uk": "ˈpɒstjuleɪt",
+  "syllables": "pos•tu•late",
+  "semantic_tags": [
+   "Logic",
+   "Science",
+   "Theory",
+   "Assumption"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A thing suggested or assumed as true as the basis for reasoning.",
+  "explanation_ar": "افتراض أو مُسلَّمة بنعتبرها صح عشان نبني عليها نظرية أو نقاش.",
+  "examples": [
+   "The theory is based on a simple postulate.",
+   "We must accept this postulate to continue the argument.",
+   "The entire economic model rests on a flawed postulate."
+  ],
+  "translations": {
+   "arabic_ar": "مُسَلَّمة فَرْضِيّة"
+  },
+  "synonyms": [
+   "premise",
+   "assumption",
+   "axiom",
+   "hypothesis"
+  ],
+  "antonyms": [
+   "fact",
+   "proof"
+  ],
+  "collocations": [
+   "basic postulate",
+   "theoretical postulate",
+   "accept a postulate"
+  ],
+  "mnemonic_ar": "حاجة إنت بـ 'Post' 'بتحطها' كأساس للنقاش."
+ }
+}

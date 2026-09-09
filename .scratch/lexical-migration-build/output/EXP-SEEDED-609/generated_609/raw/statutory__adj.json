@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "statutory",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "statutory",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Decided or controlled by law.",
+  "explanation_ar": "قانوني أو تشريعي، يعني حاجة مفروضة بحكم القانون.",
+  "senses": [
+   {
+    "sense_id": "statutory_1",
+    "definition_en": "Decided or controlled by law.",
+    "definition_ar": "قانوني أو تشريعي؛ مفروض أو محدد بنص القانون.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The company met its statutory obligations.",
+   "There is a statutory requirement to report this.",
+   "Full-time employees are entitled to statutory sick pay."
+  ],
+  "translations": [
+   "تشريعي",
+   "قانوني"
+  ],
+  "relations": {
+   "synonyms": [
+    "mandatory",
+    "legislated",
+    "legal",
+    "lawful"
+   ],
+   "antonyms": [
+    "discretionary",
+    "voluntary"
+   ],
+   "collocations": [
+    "statutory rights",
+    "statutory duty",
+    "statutory body",
+    "statutory requirement"
+   ],
+   "word_family": {
+    "noun": "statute",
+    "adj": "statutory",
+    "adv": "statutorily"
+   }
+  },
+  "mnemonic": "جاية من 'Statute' 'قانون تشريعي'.. 'Statutory' يعني حاجة تبع القانون ده.",
+  "phonetic_us": "ˈstætʃəˌtɔɹi",
+  "phonetic_uk": "ˈstætʃʊtɹi",
+  "syllables": "statu•to•ry",
+  "semantic_tags": [
+   "#Law",
+   "#Rights",
+   "#Rules"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Decided or controlled by law.",
+  "explanation_ar": "قانوني أو تشريعي، يعني حاجة مفروضة بحكم القانون.",
+  "examples": [
+   "The company met its statutory obligations.",
+   "There is a statutory requirement to report this.",
+   "Full-time employees are entitled to statutory sick pay."
+  ],
+  "translations": {
+   "arabic_ar": "تشريعي قانوني"
+  },
+  "synonyms": [
+   "mandatory",
+   "legislated",
+   "legal",
+   "lawful"
+  ],
+  "antonyms": [
+   "discretionary",
+   "voluntary"
+  ],
+  "collocations": [
+   "statutory rights",
+   "statutory duty",
+   "statutory body",
+   "statutory requirement"
+  ],
+  "mnemonic_ar": "جاية من 'Statute' 'قانون تشريعي'.. 'Statutory' يعني حاجة تبع القانون ده."
+ }
+}

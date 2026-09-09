@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "pound",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "pound",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A unit of weight (16 oz) or the currency of the UK.",
+  "explanation_ar": "وحدة ميزان 'الرطل'، أو عملة بريطانيا 'الجنيه الإسترليني'.",
+  "senses": [
+   {
+    "definition_en": "The standard unit of money in the United Kingdom and certain other countries.",
+    "explanation_ar": "الجنيه الإسترليني، العملة الرسمية للمملكة المتحدة.",
+    "examples": [
+     "It costs one pound.",
+     "The pound is strong against the dollar."
+    ]
+   },
+   {
+    "definition_en": "A unit of weight equal to 16 ounces (approximately 454 grams).",
+    "explanation_ar": "الرطل، وحدة لقياس الوزن تعادل 16 أوقية.",
+    "examples": [
+     "I bought a pound of apples."
+    ]
+   }
+  ],
+  "examples": [
+   "It costs one pound.",
+   "I bought a pound of apples.",
+   "The pound is strong against the dollar."
+  ],
+  "translations": [
+   "جنيه",
+   "رطل"
+  ],
+  "relations": {
+   "synonyms": [
+    "quid",
+    "sterling"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "pound sterling",
+    "per pound",
+    "million pounds"
+   ]
+  },
+  "mnemonic": "شبه 'Sound'.. صوت الـ 'Sound' بتاع العملة المعدنية وهي بتقع، ده صوت الـ 'Pound'.",
+  "phonetic_us": "/paʊnd/",
+  "phonetic_uk": "/paʊnd/",
+  "syllables": "pound",
+  "semantic_tags": [
+   "Money",
+   "Weight",
+   "UK",
+   "Measurement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A unit of weight (16 oz) or the currency of the UK.",
+  "explanation_ar": "وحدة ميزان 'الرطل'، أو عملة بريطانيا 'الجنيه الإسترليني'.",
+  "examples": [
+   "It costs one pound.",
+   "I bought a pound of apples.",
+   "The pound is strong against the dollar."
+  ],
+  "translations": {
+   "arabic_ar": "جنيه رطل"
+  },
+  "synonyms": [
+   "quid",
+   "sterling"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "pound sterling",
+   "per pound",
+   "million pounds"
+  ],
+  "mnemonic_ar": "شبه 'Sound'.. صوت الـ 'Sound' بتاع العملة المعدنية وهي بتقع، ده صوت الـ 'Pound'."
+ }
+}

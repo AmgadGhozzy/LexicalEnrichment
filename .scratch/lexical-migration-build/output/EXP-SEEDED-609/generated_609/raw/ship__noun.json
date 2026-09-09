@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "ship",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "ship",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A large boat for transporting people or goods by sea.",
+  "explanation_ar": "مركب كبير بيمشي في البحر وبينقل بضائع أو ناس.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A large boat for transporting people or goods by sea.",
+    "explanation_ar": "مركب كبير بيمشي في البحر وبينقل بضائع أو ناس.",
+    "translations": [
+     "سفينة"
+    ]
+   }
+  ],
+  "examples": [
+   "We traveled by ship to the island.",
+   "The cargo ship arrived at the port yesterday.",
+   "The captain steered the ship through the storm."
+  ],
+  "translations": [
+   "سفينة"
+  ],
+  "relations": {
+   "synonyms": [
+    "vessel",
+    "boat",
+    "craft",
+    "liner"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cruise ship",
+    "cargo ship",
+    "board a ship",
+    "sinking ship"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Sheep' 'خروف'.. تخيل خروف سايق 'Ship' سفينة.",
+  "phonetic_us": "ʃɪp",
+  "phonetic_uk": "ʃɪp",
+  "syllables": [
+   "ship"
+  ],
+  "semantic_tags": [
+   "#Transport",
+   "#Sea",
+   "#Travel"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A large boat for transporting people or goods by sea.",
+  "explanation_ar": "مركب كبير بيمشي في البحر وبينقل بضائع أو ناس.",
+  "examples": [
+   "We traveled by ship to the island.",
+   "The cargo ship arrived at the port yesterday.",
+   "The captain steered the ship through the storm."
+  ],
+  "translations": {
+   "arabic_ar": "سفينة"
+  },
+  "synonyms": [
+   "vessel",
+   "boat",
+   "craft",
+   "liner"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cruise ship",
+   "cargo ship",
+   "board a ship",
+   "sinking ship"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Sheep' 'خروف'.. تخيل خروف سايق 'Ship' سفينة."
+ }
+}

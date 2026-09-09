@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "pragmatic",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "pragmatic",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Dealing with things sensibly and realistically based on practical considerations.",
+  "explanation_ar": "عملي وواقعي، بيفكر في الحلول اللي تنفع تتنفذ وتجيب نتيجة مش بس نظريات وأحلام.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Dealing with things sensibly and realistically based on practical considerations rather than theoretical or idealistic ones.",
+    "definition_ar": "عملي وواقعي؛ يركز على التطبيق الفعلي والنتائج بدلاً من النظريات أو الأفكار المثالية.",
+    "examples": [
+     "We need to take a pragmatic approach to this issue.",
+     "The party adopted a more pragmatic stance on taxation.",
+     "He is a pragmatic man who solves problems quickly."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to take a pragmatic approach to this issue.",
+   "The party adopted a more pragmatic stance on taxation.",
+   "He is a pragmatic man who solves problems quickly."
+  ],
+  "translations": [
+   "عَمَلِيّ",
+   "وَاقِعِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "practical",
+    "realistic",
+    "sensible",
+    "down-to-earth"
+   ],
+   "antonyms": [
+    "idealistic",
+    "theoretical"
+   ],
+   "collocations": [
+    "pragmatic approach",
+    "pragmatic solution",
+    "pragmatic attitude"
+   ]
+  },
+  "mnemonic": "شبه 'Program'.. الشخص الـ 'Pragmatic' ماشي بنظام وخطوات عملية زي الـ 'Program'.",
+  "phonetic_us": "præɡˈmætɪk",
+  "phonetic_uk": "præɡˈmætɪk",
+  "syllables": "prag•mat•ic",
+  "semantic_tags": [
+   "#Logic",
+   "#Business",
+   "#ProblemSolving"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Dealing with things sensibly and realistically based on practical considerations.",
+  "explanation_ar": "عملي وواقعي، بيفكر في الحلول اللي تنفع تتنفذ وتجيب نتيجة مش بس نظريات وأحلام.",
+  "examples": [
+   "We need to take a pragmatic approach to this issue.",
+   "The party adopted a more pragmatic stance on taxation.",
+   "He is a pragmatic man who solves problems quickly."
+  ],
+  "translations": {
+   "arabic_ar": "عَمَلِيّ وَاقِعِيّ"
+  },
+  "synonyms": [
+   "practical",
+   "realistic",
+   "sensible",
+   "down-to-earth"
+  ],
+  "antonyms": [
+   "idealistic",
+   "theoretical"
+  ],
+  "collocations": [
+   "pragmatic approach",
+   "pragmatic solution",
+   "pragmatic attitude"
+  ],
+  "mnemonic_ar": "شبه 'Program'.. الشخص الـ 'Pragmatic' ماشي بنظام وخطوات عملية زي الـ 'Program'."
+ }
+}

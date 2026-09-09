@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "up-to-date",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "up-to-date",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Incorporating the latest developments and trends.",
+  "explanation_ar": "حديث أو مواكب للعصر. حاجة فيها آخر التطورات والأخبار وماتكونش قديمة.",
+  "senses": [
+   {
+    "definition_en": "Incorporating the latest developments, information, or trends.",
+    "definition_ar": "حديث أو مواكب لآخر التطورات والمعلومات.",
+    "examples": [
+     "Keep your records up-to-date.",
+     "I need an up-to-date schedule.",
+     "This software is fully up-to-date."
+    ]
+   }
+  ],
+  "examples": [
+   "Keep your records up-to-date.",
+   "I need an up-to-date schedule.",
+   "This software is fully up-to-date."
+  ],
+  "translations": [
+   "حَدِيث",
+   "مُوَاكِب للعَصْر"
+  ],
+  "relations": {
+   "synonyms": [
+    "current",
+    "modern",
+    "latest",
+    "contemporary"
+   ],
+   "antonyms": [
+    "outdated",
+    "old-fashioned",
+    "obsolete"
+   ],
+   "collocations": [
+    "keep up-to-date",
+    "bring up-to-date",
+    "up-to-date information",
+    "stay up-to-date"
+   ]
+  },
+  "mnemonic": "ماشي مع الـ 'Date' بتاع النهاردة.. يعني مش قديم",
+  "phonetic_us": "ˌʌp tə ˈdeɪt",
+  "phonetic_uk": "ˌʌptəˈdeɪt",
+  "syllables": "up-to-date",
+  "semantic_tags": [
+   "modern",
+   "time",
+   "news"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Incorporating the latest developments and trends.",
+  "explanation_ar": "حديث أو مواكب للعصر. حاجة فيها آخر التطورات والأخبار وماتكونش قديمة.",
+  "examples": [
+   "Keep your records up-to-date.",
+   "I need an up-to-date schedule.",
+   "This software is fully up-to-date."
+  ],
+  "translations": {
+   "arabic_ar": "حَدِيث مُوَاكِب للعَصْر"
+  },
+  "synonyms": [
+   "current",
+   "modern",
+   "latest",
+   "contemporary"
+  ],
+  "antonyms": [
+   "outdated",
+   "old-fashioned",
+   "obsolete"
+  ],
+  "collocations": [
+   "keep up-to-date",
+   "bring up-to-date",
+   "up-to-date information",
+   "stay up-to-date"
+  ],
+  "mnemonic_ar": "ماشي مع الـ 'Date' بتاع النهاردة.. يعني مش قديم"
+ }
+}

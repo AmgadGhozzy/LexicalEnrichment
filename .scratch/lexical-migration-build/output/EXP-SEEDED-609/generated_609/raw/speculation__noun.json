@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "speculation",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "speculation",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The forming of a theory or conjecture without firm evidence; also financial investment with risk.",
+  "explanation_ar": "لما تخمن حاجة من غير دليل قاطع، أو لما تتاجر في البورصة بمخاطرة عشان تكسب بسرعة.",
+  "senses": [
+   {
+    "definition_en": "The forming of a theory or conjecture without firm evidence.",
+    "definition_ar": "تخمين أو وضع نظريات وافتراضات من غير أدلة قاطعة."
+   },
+   {
+    "definition_en": "Engagement in risky business transactions on the chance of large profit.",
+    "definition_ar": "المضاربة المالية في البورصة أو التجارة بهدف الربح السريع مع مخاطرة عالية."
+   }
+  ],
+  "examples": [
+   "The rumors caused wild speculation in the media.",
+   "His theory remains pure speculation without empirical data.",
+   "Financial speculation can destabilize the economy."
+  ],
+  "translations": [
+   "تخمين",
+   "مضاربة",
+   "افتراض"
+  ],
+  "relations": {
+   "synonyms": [
+    "conjecture",
+    "guesswork",
+    "theory",
+    "gambling"
+   ],
+   "antonyms": [
+    "fact",
+    "proof",
+    "certainty"
+   ],
+   "collocations": [
+    "pure speculation",
+    "widespread speculation",
+    "fuel speculation"
+   ]
+  },
+  "mnemonic": "جاية من 'Specs' 'نظارة'.. كأنك لابس نظارة وبتحاول تشوف المستقبل وتعمل 'Speculation' 'تخمين'.",
+  "phonetic_us": "ˌspɛkjəˈleɪʃən",
+  "phonetic_uk": "ˌspekjuˈleɪʃən",
+  "syllables": "spec•u•la•tion",
+  "semantic_tags": [
+   "#Finance",
+   "#Thinking",
+   "#Risk"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The forming of a theory or conjecture without firm evidence; also financial investment with risk.",
+  "explanation_ar": "لما تخمن حاجة من غير دليل قاطع، أو لما تتاجر في البورصة بمخاطرة عشان تكسب بسرعة.",
+  "examples": [
+   "The rumors caused wild speculation in the media.",
+   "His theory remains pure speculation without empirical data.",
+   "Financial speculation can destabilize the economy."
+  ],
+  "translations": {
+   "arabic_ar": "تخمين مضاربة افتراض"
+  },
+  "synonyms": [
+   "conjecture",
+   "guesswork",
+   "theory",
+   "gambling"
+  ],
+  "antonyms": [
+   "fact",
+   "proof",
+   "certainty"
+  ],
+  "collocations": [
+   "pure speculation",
+   "widespread speculation",
+   "fuel speculation"
+  ],
+  "mnemonic_ar": "جاية من 'Specs' 'نظارة'.. كأنك لابس نظارة وبتحاول تشوف المستقبل وتعمل 'Speculation' 'تخمين'."
+ }
+}

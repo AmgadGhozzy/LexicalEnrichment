@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "premise",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "premise",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An idea or theory on which a statement or action is based.",
+  "explanation_ar": "فكرة أساسية أو فرضية بتبني عليها كلامك أو خطتك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An idea or theory on which a statement or action is based.",
+    "definition_ar": "فكرة أساسية أو فرضية يُبنى عليها استنتاج أو عمل.",
+    "examples": [
+     "The whole movie is based on a strange premise.",
+     "The premise of the debate was that all people are equal.",
+     "If we accept the major premise, the conclusion follows inevitably."
+    ]
+   }
+  ],
+  "examples": [
+   "The whole movie is based on a strange premise.",
+   "The premise of the debate was that all people are equal.",
+   "If we accept the major premise, the conclusion follows inevitably."
+  ],
+  "translations": [
+   "فرضية",
+   "أساس منطقي",
+   "مقدمة منطقية"
+  ],
+  "relations": {
+   "synonyms": [
+    "assumption",
+    "proposition",
+    "hypothesis",
+    "basis"
+   ],
+   "antonyms": [
+    "conclusion"
+   ],
+   "collocations": [
+    "basic premise",
+    "false premise",
+    "underlying premise",
+    "based on the premise"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة 'Promise' في النطق، بس المعنى مختلف.. الـ 'Premise' هو الوعد المنطقي اللي بتبني عليه النتيجة.",
+  "phonetic_us": "ˈprɛmɪs",
+  "phonetic_uk": "ˈpremɪs",
+  "syllables": [
+   "prem",
+   "ise"
+  ],
+  "semantic_tags": [
+   "Logic",
+   "Argument",
+   "Theory"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An idea or theory on which a statement or action is based.",
+  "explanation_ar": "فكرة أساسية أو فرضية بتبني عليها كلامك أو خطتك.",
+  "examples": [
+   "The whole movie is based on a strange premise.",
+   "The premise of the debate was that all people are equal.",
+   "If we accept the major premise, the conclusion follows inevitably."
+  ],
+  "translations": {
+   "arabic_ar": "فرضية أساس منطقي مقدمة منطقية"
+  },
+  "synonyms": [
+   "assumption",
+   "proposition",
+   "hypothesis",
+   "basis"
+  ],
+  "antonyms": [
+   "conclusion"
+  ],
+  "collocations": [
+   "basic premise",
+   "false premise",
+   "underlying premise",
+   "based on the premise"
+  ],
+  "mnemonic_ar": "قريبة من كلمة 'Promise' في النطق، بس المعنى مختلف.. الـ 'Premise' هو الوعد المنطقي اللي بتبني عليه النتيجة."
+ }
+}

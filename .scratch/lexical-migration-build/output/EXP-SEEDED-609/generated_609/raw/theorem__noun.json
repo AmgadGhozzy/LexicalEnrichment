@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "theorem",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "theorem",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A general proposition proved by reasoning, especially in mathematics.",
+  "explanation_ar": "قاعدة رياضية أو علمية تم إثبات صحتها بالبرهان، مثل نظرية فيثاغورس (مبرهنة).",
+  "senses": [
+   {
+    "definition_en": "A general proposition proved by reasoning, especially in mathematics.",
+    "explanation_ar": "مبرهنة أو قاعدة رياضية مثبتة بالبرهان المنطقي.",
+    "examples": [
+     "She proved the theorem using logic.",
+     "Pythagoras' theorem is famous in geometry.",
+     "The fundamental theorem of calculus connects differentiation and integration."
+    ]
+   }
+  ],
+  "examples": [
+   "She proved the theorem using logic.",
+   "Pythagoras' theorem is famous in geometry.",
+   "The fundamental theorem of calculus connects differentiation and integration."
+  ],
+  "translations": [
+   "مبرهنة",
+   "نظرية رياضية"
+  ],
+  "relations": {
+   "synonyms": [
+    "proposition",
+    "principle"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "prove a theorem",
+    "mathematical theorem",
+    "fundamental theorem",
+    "Pythagorean theorem"
+   ]
+  },
+  "mnemonic": "قريبة من 'Theory' (نظرية).. الـ 'Theorem' هي النظرية اللي أثبتناها بالرياضيات والمنطق.",
+  "phonetic_us": "ˈθiərəm",
+  "phonetic_uk": "ˈθɪərəm",
+  "syllables": "the•o•rem",
+  "semantic_tags": [
+   "Math",
+   "Logic",
+   "Science"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A general proposition proved by reasoning, especially in mathematics.",
+  "explanation_ar": "قاعدة رياضية أو علمية تم إثبات صحتها بالبرهان، مثل نظرية فيثاغورس (مبرهنة).",
+  "examples": [
+   "She proved the theorem using logic.",
+   "Pythagoras' theorem is famous in geometry.",
+   "The fundamental theorem of calculus connects differentiation and integration."
+  ],
+  "translations": {
+   "arabic_ar": "مبرهنة نظرية رياضية"
+  },
+  "synonyms": [
+   "proposition",
+   "principle"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "prove a theorem",
+   "mathematical theorem",
+   "fundamental theorem",
+   "Pythagorean theorem"
+  ],
+  "mnemonic_ar": "قريبة من 'Theory' (نظرية).. الـ 'Theorem' هي النظرية اللي أثبتناها بالرياضيات والمنطق."
+ }
+}

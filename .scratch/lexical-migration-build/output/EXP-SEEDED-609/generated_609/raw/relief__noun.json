@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "relief",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "relief",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A feeling of reassurance and relaxation following release from anxiety or distress.",
+  "explanation_ar": "الشعور بالراحة والاطمئنان بعد ما كان فيه قلق أو وجع وراح.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A feeling of reassurance, relaxation, or ease following anxiety, pain, or distress.",
+    "definition_ar": "شعور بالراحة والاطمئنان أو تخفيف الألم بعد زوال القلق والضيق.",
+    "pos": "noun"
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "Food, money, medical care, or services provided to help people in urgent need, such as in disasters.",
+    "definition_ar": "المساعدات الإغاثية والإنسانية المقدمة للمتضررين في حالات الكوارث والأزمات.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "It was a huge relief to hear that they were safe.",
+   "The medicine gave him some relief from the pain.",
+   "The organization provides famine relief in war zones."
+  ],
+  "translations": [
+   "ارتياح",
+   "راحة",
+   "إغاثة"
+  ],
+  "relations": {
+   "synonyms": [
+    "comfort",
+    "alleviation",
+    "ease",
+    "assistance"
+   ],
+   "antonyms": [
+    "distress",
+    "anxiety",
+    "worry"
+   ],
+   "collocations": [
+    "sigh of relief",
+    "pain relief",
+    "disaster relief",
+    "huge relief"
+   ],
+   "word_family": {
+    "verb": "relieve",
+    "adjective": "relieved",
+    "noun": "relief"
+   }
+  },
+  "mnemonic": "شبه 'Leaf' 'ورقة شجر'.. تخيل إنك في الصحراء ولقيت شجرة، ضلها هيديك 'Relief' 'راحة' من الشمس",
+  "phonetic_us": "rɪˈliːf",
+  "phonetic_uk": "rɪˈliːf",
+  "syllables": "re•lief",
+  "semantic_tags": [
+   "Feelings & Emotions",
+   "Aid",
+   "Comfort"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A feeling of reassurance and relaxation following release from anxiety or distress.",
+  "explanation_ar": "الشعور بالراحة والاطمئنان بعد ما كان فيه قلق أو وجع وراح.",
+  "examples": [
+   "It was a huge relief to hear that they were safe.",
+   "The medicine gave him some relief from the pain.",
+   "The organization provides famine relief in war zones."
+  ],
+  "translations": {
+   "arabic_ar": "ارتياح راحة إغاثة"
+  },
+  "synonyms": [
+   "comfort",
+   "alleviation",
+   "ease",
+   "assistance"
+  ],
+  "antonyms": [
+   "distress",
+   "anxiety",
+   "worry"
+  ],
+  "collocations": [
+   "sigh of relief",
+   "pain relief",
+   "disaster relief",
+   "huge relief"
+  ],
+  "mnemonic_ar": "شبه 'Leaf' 'ورقة شجر'.. تخيل إنك في الصحراء ولقيت شجرة، ضلها هيديك 'Relief' 'راحة' من الشمس"
+ }
+}

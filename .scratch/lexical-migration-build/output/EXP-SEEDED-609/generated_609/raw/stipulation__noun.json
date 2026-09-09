@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "stipulation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "stipulation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A condition or requirement that is specified in an agreement.",
+  "explanation_ar": "شرط أساسي محطوط في عقد أو اتفاق لازم يتنفذ.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A condition or requirement that is specified or demanded as part of an agreement.",
+    "definition_ar": "شرط أو بند ملزم محدد في اتفاق أو عقد.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "One stipulation was that we pay in cash.",
+   "The contract contains a stipulation about working hours.",
+   "They agreed to the deal with the stipulation that no staff be fired."
+  ],
+  "translations": [
+   "شرط",
+   "اشتراط",
+   "بند مشروط"
+  ],
+  "relations": {
+   "synonyms": [
+    "condition",
+    "proviso",
+    "requirement",
+    "clause"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "make a stipulation",
+    "contract stipulation",
+    "main stipulation",
+    "with the stipulation"
+   ]
+  },
+  "mnemonic": "من الفعل 'Stipulate'.. 'Stipulation' هو الشرط اللي بتتمسك بيه في الاتفاق.",
+  "phonetic_us": "ˌstɪpjəˈleɪʃən",
+  "phonetic_uk": "ˌstɪpjuˈleɪʃn",
+  "syllables": "stip•u•la•tion",
+  "semantic_tags": [
+   "#Law",
+   "#Contract",
+   "#Condition",
+   "#Agreement"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A condition or requirement that is specified in an agreement.",
+  "explanation_ar": "شرط أساسي محطوط في عقد أو اتفاق لازم يتنفذ.",
+  "examples": [
+   "One stipulation was that we pay in cash.",
+   "The contract contains a stipulation about working hours.",
+   "They agreed to the deal with the stipulation that no staff be fired."
+  ],
+  "translations": {
+   "arabic_ar": "شرط اشتراط بند مشروط"
+  },
+  "synonyms": [
+   "condition",
+   "proviso",
+   "requirement",
+   "clause"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "make a stipulation",
+   "contract stipulation",
+   "main stipulation",
+   "with the stipulation"
+  ],
+  "mnemonic_ar": "من الفعل 'Stipulate'.. 'Stipulation' هو الشرط اللي بتتمسك بيه في الاتفاق."
+ }
+}

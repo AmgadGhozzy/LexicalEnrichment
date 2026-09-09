@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "unlawful",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "unlawful",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Not conforming to, permitted by, or recognized by law or rules.",
+  "explanation_ar": "أي تصرف ضد القانون ومخالف للقواعد المسموح بها.",
+  "senses": [
+   {
+    "sense_id": "unlawful-1",
+    "definition_en": "Not conforming to, permitted by, or recognized by law or rules.",
+    "definition_ar": "غير قانوني أو مخالف للأحكام والقواعد المعمول بها.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The court declared the dismissal unlawful.",
+   "He was accused of unlawful conduct.",
+   "The police stopped the unlawful gathering."
+  ],
+  "translations": [
+   "غير قانوني",
+   "غير مشروع",
+   "مخالف للقانون"
+  ],
+  "relations": {
+   "synonyms": [
+    "illegal",
+    "illicit",
+    "prohibited",
+    "criminal"
+   ],
+   "antonyms": [
+    "lawful",
+    "legal",
+    "legitimate"
+   ],
+   "collocations": [
+    "unlawful killing",
+    "unlawful act",
+    "unlawful assembly"
+   ]
+  },
+  "mnemonic": "'Un' نفي + 'Law' قانون.. يعني تصرف عكس القانون.",
+  "phonetic_us": "ʌnˈlɔːfl",
+  "phonetic_uk": "ʌnˈlɔːfəl",
+  "syllables": "un•law•ful",
+  "semantic_tags": [
+   "Law",
+   "Crime",
+   "Rules",
+   "Forbidden"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Not conforming to, permitted by, or recognized by law or rules.",
+  "explanation_ar": "أي تصرف ضد القانون ومخالف للقواعد المسموح بها.",
+  "examples": [
+   "The court declared the dismissal unlawful.",
+   "He was accused of unlawful conduct.",
+   "The police stopped the unlawful gathering."
+  ],
+  "translations": {
+   "arabic_ar": "غير قانوني غير مشروع مخالف للقانون"
+  },
+  "synonyms": [
+   "illegal",
+   "illicit",
+   "prohibited",
+   "criminal"
+  ],
+  "antonyms": [
+   "lawful",
+   "legal",
+   "legitimate"
+  ],
+  "collocations": [
+   "unlawful killing",
+   "unlawful act",
+   "unlawful assembly"
+  ],
+  "mnemonic_ar": "'Un' نفي + 'Law' قانون.. يعني تصرف عكس القانون."
+ }
+}

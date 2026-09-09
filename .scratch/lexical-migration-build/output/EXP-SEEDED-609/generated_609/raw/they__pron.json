@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "they",
+  "pos": "pron",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "they",
+  "pos": "pron",
+  "cefr": "A1",
+  "definition_en": "Used to refer to two or more people or things previously mentioned.",
+  "explanation_ar": "ضمير الجمع الغائب (هم / هن)، يُستخدم للإشارة إلى شخصين أو أكثر أو أشياء ذُكرت سابقاً.",
+  "senses": [
+   {
+    "sense_id": "they-01",
+    "definition_en": "Used to refer to two or more people or things previously mentioned.",
+    "definition_ar": "يُستخدم للإشارة إلى شخصين أو أكثر أو أشياء ذُكرت من قبل (هم / هن).",
+    "examples": [
+     "My friends are here, and they want to meet you.",
+     "Where are the keys? I think they are on the table.",
+     "The children were tired, so they went to bed."
+    ]
+   }
+  ],
+  "examples": [
+   "My friends are here, and they want to meet you.",
+   "Where are the keys? I think they are on the table.",
+   "The children were tired, so they went to bed."
+  ],
+  "translations": [
+   "هم",
+   "هن"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "they are",
+    "they have",
+    "they will"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ðeɪ",
+  "phonetic_uk": "ðeɪ",
+  "syllables": "they",
+  "semantic_tags": [
+   "pronoun",
+   "grammar",
+   "plural",
+   "people"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to refer to two or more people or things previously mentioned.",
+  "explanation_ar": "ضمير الجمع الغائب (هم / هن)، يُستخدم للإشارة إلى شخصين أو أكثر أو أشياء ذُكرت سابقاً.",
+  "examples": [
+   "My friends are here, and they want to meet you.",
+   "Where are the keys? I think they are on the table.",
+   "The children were tired, so they went to bed."
+  ],
+  "translations": {
+   "arabic_ar": "هم هن"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "they are",
+   "they have",
+   "they will"
+  ],
+  "mnemonic_ar": null
+ }
+}

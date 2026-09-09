@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "specifically",
+  "pos": "adv",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "specifically",
+  "pos": "adv",
+  "cefr": "B1",
+  "definition_en": "In a detailed and exact way; especially.",
+  "explanation_ar": "بشكل محدد، أو مخصوص عشان حاجة معينة.",
+  "senses": [
+   {
+    "definition_en": "In a detailed and exact way; especially.",
+    "explanation_ar": "بشكل محدد، أو خصيصاً لشخص أو لغرض معين.",
+    "examples": [
+     "I bought this specifically for you.",
+     "The law specifically forbids this action.",
+     "The software was designed specifically to handle large datasets."
+    ]
+   }
+  ],
+  "examples": [
+   "I bought this specifically for you.",
+   "The law specifically forbids this action.",
+   "The software was designed specifically to handle large datasets."
+  ],
+  "translations": [
+   "على وجه التحديد",
+   "خصيصاً",
+   "تحديداً"
+  ],
+  "relations": {
+   "synonyms": [
+    "particularly",
+    "especially",
+    "precisely",
+    "expressly"
+   ],
+   "antonyms": [
+    "generally",
+    "vaguely"
+   ],
+   "collocations": [
+    "designed specifically",
+    "mentioned specifically",
+    "specifically for",
+    "more specifically"
+   ]
+  },
+  "mnemonic": "جاية من 'Specific' 'محدد'.. 'Specifically' يعني بالتحديد.",
+  "phonetic_us": "spəˈsɪfɪkli",
+  "phonetic_uk": "spəˈsɪfɪkli",
+  "syllables": "specif•i•cal•ly",
+  "semantic_tags": [
+   "Detail",
+   "Exact",
+   "Special"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a detailed and exact way; especially.",
+  "explanation_ar": "بشكل محدد، أو مخصوص عشان حاجة معينة.",
+  "examples": [
+   "I bought this specifically for you.",
+   "The law specifically forbids this action.",
+   "The software was designed specifically to handle large datasets."
+  ],
+  "translations": {
+   "arabic_ar": "على وجه التحديد خصيصاً تحديداً"
+  },
+  "synonyms": [
+   "particularly",
+   "especially",
+   "precisely",
+   "expressly"
+  ],
+  "antonyms": [
+   "generally",
+   "vaguely"
+  ],
+  "collocations": [
+   "designed specifically",
+   "mentioned specifically",
+   "specifically for",
+   "more specifically"
+  ],
+  "mnemonic_ar": "جاية من 'Specific' 'محدد'.. 'Specifically' يعني بالتحديد."
+ }
+}

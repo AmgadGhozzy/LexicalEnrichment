@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "precipitate",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "precipitate",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Done, made, or acting suddenly or without careful consideration.",
+  "explanation_ar": "لما تاخد قرار أو تصرف بسرعة من غير تفكير، بيبقى تصرف متهور أو متسرع.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Done, made, or acting suddenly or without careful consideration.",
+    "definition_ar": "متسرع أو متهور؛ تم القيام به بسرعة ودون تروٍّ أو تفكير كافٍ.",
+    "pos": "adj",
+    "examples": [
+     "His precipitate action caused a lot of trouble.",
+     "We must avoid any precipitate decisions.",
+     "The precipitate withdrawal of troops led to chaos."
+    ]
+   }
+  ],
+  "examples": [
+   "His precipitate action caused a lot of trouble.",
+   "We must avoid any precipitate decisions.",
+   "The precipitate withdrawal of troops led to chaos."
+  ],
+  "translations": [
+   "متهور",
+   "متسرع"
+  ],
+  "relations": {
+   "synonyms": [
+    "hasty",
+    "rash",
+    "impulsive",
+    "abrupt"
+   ],
+   "antonyms": [
+    "deliberate",
+    "careful",
+    "gradual"
+   ],
+   "collocations": [
+    "precipitate action",
+    "precipitate decision",
+    "precipitate departure",
+    "precipitate withdrawal"
+   ]
+  },
+  "mnemonic": "قريبة من 'Precipitation' 'هطول المطر'.. زي المطر لما ينزل فجأة، القرار الـ 'Precipitate' بيجي بسرعة ومن غير تفكير.",
+  "phonetic_us": "/prəˈsɪp.ə.tət/",
+  "phonetic_uk": "/prɪˈsɪp.ɪ.tət/",
+  "syllables": "pre•cip•i•tate",
+  "semantic_tags": [
+   "#Haste",
+   "#Action",
+   "#Decision"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Done, made, or acting suddenly or without careful consideration.",
+  "explanation_ar": "لما تاخد قرار أو تصرف بسرعة من غير تفكير، بيبقى تصرف متهور أو متسرع.",
+  "examples": [
+   "His precipitate action caused a lot of trouble.",
+   "We must avoid any precipitate decisions.",
+   "The precipitate withdrawal of troops led to chaos."
+  ],
+  "translations": {
+   "arabic_ar": "متهور متسرع"
+  },
+  "synonyms": [
+   "hasty",
+   "rash",
+   "impulsive",
+   "abrupt"
+  ],
+  "antonyms": [
+   "deliberate",
+   "careful",
+   "gradual"
+  ],
+  "collocations": [
+   "precipitate action",
+   "precipitate decision",
+   "precipitate departure",
+   "precipitate withdrawal"
+  ],
+  "mnemonic_ar": "قريبة من 'Precipitation' 'هطول المطر'.. زي المطر لما ينزل فجأة، القرار الـ 'Precipitate' بيجي بسرعة ومن غير تفكير."
+ }
+}

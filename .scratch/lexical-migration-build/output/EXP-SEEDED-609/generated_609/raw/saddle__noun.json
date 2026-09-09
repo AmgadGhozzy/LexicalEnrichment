@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "saddle",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "saddle",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A seat fastened on the back of a horse or other animal for riding.",
+  "explanation_ar": "السرج. المقعد الجلد اللي بيتحط على ضهر الحصان عشان تركب عليه.",
+  "senses": [
+   {
+    "definition_en": "A seat fastened on the back of a horse or other animal for riding.",
+    "explanation_ar": "السرج: مقعد يُثبت على ظهر الحصان أو الدابة للركوب عليه.",
+    "examples": [
+     "She adjusted the saddle before riding.",
+     "He bought a new leather saddle for his horse.",
+     "The cowboy spent long hours in the saddle."
+    ]
+   }
+  ],
+  "examples": [
+   "She adjusted the saddle before riding.",
+   "He bought a new leather saddle for his horse.",
+   "The cowboy spent long hours in the saddle."
+  ],
+  "translations": [
+   "سرج"
+  ],
+  "relations": {
+   "synonyms": [
+    "seat"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "in the saddle",
+    "leather saddle",
+    "bicycle saddle"
+   ]
+  },
+  "mnemonic": "'Saddle' قريبة من 'Sit'.. هو المكان اللي بتعمل فيه 'Sit' على الحصان.",
+  "phonetic_us": "ˈsædəl",
+  "phonetic_uk": "ˈsæd.əl",
+  "syllables": "sad•dle",
+  "semantic_tags": [
+   "Horse",
+   "Riding",
+   "Seat"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A seat fastened on the back of a horse or other animal for riding.",
+  "explanation_ar": "السرج. المقعد الجلد اللي بيتحط على ضهر الحصان عشان تركب عليه.",
+  "examples": [
+   "She adjusted the saddle before riding.",
+   "He bought a new leather saddle for his horse.",
+   "The cowboy spent long hours in the saddle."
+  ],
+  "translations": {
+   "arabic_ar": "سرج"
+  },
+  "synonyms": [
+   "seat"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "in the saddle",
+   "leather saddle",
+   "bicycle saddle"
+  ],
+  "mnemonic_ar": "'Saddle' قريبة من 'Sit'.. هو المكان اللي بتعمل فيه 'Sit' على الحصان."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "staircase",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "staircase",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A set of stairs and its surrounding structure.",
+  "explanation_ar": "السلم بالدرابزين والهيكل بتاعه اللي بيوصل بين الأدوار.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A set of stairs and its surrounding structure.",
+    "explanation_ar": "السلم بالدرابزين والهيكل بتاعه اللي بيوصل بين الأدوار.",
+    "examples": [
+     "The house has a wooden staircase.",
+     "A spiral staircase leads to the tower.",
+     "The grand staircase was the centerpiece of the mansion."
+    ]
+   }
+  ],
+  "examples": [
+   "The house has a wooden staircase.",
+   "A spiral staircase leads to the tower.",
+   "The grand staircase was the centerpiece of the mansion."
+  ],
+  "translations": [
+   "سلم",
+   "درج"
+  ],
+  "relations": {
+   "synonyms": [
+    "stairway",
+    "stairs",
+    "flight of stairs"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spiral staircase",
+    "wooden staircase",
+    "climb the staircase"
+   ]
+  },
+  "mnemonic": "'Stair' 'سلم' + 'Case' 'إطار'.. السلم بالهيكل المحيط بيه.",
+  "phonetic_us": "ˈstɛɹˌkeɪs",
+  "phonetic_uk": "ˈsteəkeɪs",
+  "syllables": "stair•case",
+  "semantic_tags": [
+   "#House",
+   "#Architecture",
+   "#Climb"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A set of stairs and its surrounding structure.",
+  "explanation_ar": "السلم بالدرابزين والهيكل بتاعه اللي بيوصل بين الأدوار.",
+  "examples": [
+   "The house has a wooden staircase.",
+   "A spiral staircase leads to the tower.",
+   "The grand staircase was the centerpiece of the mansion."
+  ],
+  "translations": {
+   "arabic_ar": "سلم درج"
+  },
+  "synonyms": [
+   "stairway",
+   "stairs",
+   "flight of stairs"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spiral staircase",
+   "wooden staircase",
+   "climb the staircase"
+  ],
+  "mnemonic_ar": "'Stair' 'سلم' + 'Case' 'إطار'.. السلم بالهيكل المحيط بيه."
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "under",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "under",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Located below or beneath something else.",
+  "explanation_ar": "حاجة موجودة تحت حاجة تانية أو في مستوى أقل.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Located below or beneath something else; lower.",
+    "definition_ar": "سفلي، واقع تحت أو في مستوى أدنى.",
+    "examples": [
+     "The under layer of soil is clay.",
+     "The under surface of the leaf is smooth.",
+     "The under part of the car was damaged."
+    ]
+   }
+  ],
+  "examples": [
+   "The under layer of soil is clay.",
+   "The under surface of the leaf is smooth.",
+   "The under part of the car was damaged."
+  ],
+  "translations": [
+   "سفلي",
+   "تحت"
+  ],
+  "relations": {
+   "synonyms": [
+    "lower",
+    "bottom"
+   ],
+   "antonyms": [
+    "upper"
+   ],
+   "collocations": [
+    "under layer",
+    "under surface",
+    "under side"
+   ]
+  },
+  "mnemonic": "كلمة 'Under' يعني تحت.. زي الـ 'Underwear' الملابس الداخلية اللي بتتلبس تحت الهدوم.",
+  "phonetic_us": "ˈʌndər",
+  "phonetic_uk": "ˈʌndə",
+  "syllables": "un•der",
+  "semantic_tags": [
+   "#Position",
+   "#Below",
+   "#Location"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Located below or beneath something else.",
+  "explanation_ar": "حاجة موجودة تحت حاجة تانية أو في مستوى أقل.",
+  "examples": [
+   "The under layer of soil is clay.",
+   "The under surface of the leaf is smooth.",
+   "The under part of the car was damaged."
+  ],
+  "translations": {
+   "arabic_ar": "سفلي تحت"
+  },
+  "synonyms": [
+   "lower",
+   "bottom"
+  ],
+  "antonyms": [
+   "upper"
+  ],
+  "collocations": [
+   "under layer",
+   "under surface",
+   "under side"
+  ],
+  "mnemonic_ar": "كلمة 'Under' يعني تحت.. زي الـ 'Underwear' الملابس الداخلية اللي بتتلبس تحت الهدوم."
+ }
+}

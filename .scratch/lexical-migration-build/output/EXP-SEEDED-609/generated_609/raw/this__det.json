@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "this",
+  "pos": "det",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "this",
+  "pos": "det",
+  "cefr": "A1",
+  "definition_en": "Used to identify a specific person or thing close at hand.",
+  "explanation_ar": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+  "senses": [
+   {
+    "definition_en": "Used to identify a specific person or thing close at hand.",
+    "explanation_ar": "تُستخدم للإشارة إلى شخص أو شيء مفرد قريب مكانياً أو زمانياً (هذا / هذه).",
+    "examples": [
+     "I like this car.",
+     "We need to solve this problem.",
+     "In this country, people drive on the left."
+    ]
+   }
+  ],
+  "examples": [
+   "I like this car.",
+   "We need to solve this problem.",
+   "In this country, people drive on the left."
+  ],
+  "translations": [
+   "هذا",
+   "هذه"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "that"
+   ],
+   "collocations": [
+    "this morning",
+    "this year",
+    "this way",
+    "this time"
+   ],
+   "related_words": [
+    "that",
+    "these",
+    "those"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ðɪs",
+  "phonetic_uk": "ðɪs",
+  "syllables": "this",
+  "semantic_tags": [
+   "#Determiner",
+   "#Specific",
+   "#Near"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to identify a specific person or thing close at hand.",
+  "explanation_ar": "أداة تحديد بتيجي قبل الاسم عشان توضح إننا بنتكلم عن 'هذا' الشيء القريب.",
+  "examples": [
+   "I like this car.",
+   "We need to solve this problem.",
+   "In this country, people drive on the left."
+  ],
+  "translations": {
+   "arabic_ar": "هذا هذه"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "that"
+  ],
+  "collocations": [
+   "this morning",
+   "this year",
+   "this way",
+   "this time"
+  ],
+  "mnemonic_ar": null
+ }
+}

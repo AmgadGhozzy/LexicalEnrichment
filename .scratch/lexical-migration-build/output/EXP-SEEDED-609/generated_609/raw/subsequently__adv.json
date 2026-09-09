@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "subsequently",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "subsequently",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "After a particular event or time; afterwards.",
+  "explanation_ar": "بعد ذلك، أو لاحقاً. كلمة بنستخدمها عشان نقول إن في حاجة حصلت بعد حاجة تانية.",
+  "senses": [
+   {
+    "sense_id": "subsequently_adv_1",
+    "definition_en": "After a particular event or time; afterwards.",
+    "definition_ar": "بعد ذلك، لاحقاً",
+    "examples": [
+     "He was arrested and subsequently released.",
+     "The book was subsequently translated into 15 languages.",
+     "She subsequently became the company's CEO."
+    ]
+   }
+  ],
+  "examples": [
+   "He was arrested and subsequently released.",
+   "The book was subsequently translated into 15 languages.",
+   "She subsequently became the company's CEO."
+  ],
+  "translations": [
+   "لاحقاً",
+   "بعد ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "afterwards",
+    "later",
+    "thereafter"
+   ],
+   "antonyms": [
+    "previously",
+    "earlier",
+    "before"
+   ],
+   "collocations": [
+    "subsequently became",
+    "subsequently discovered",
+    "and subsequently"
+   ]
+  },
+  "mnemonic": "فيها جزء 'Sequence' 'تسلسل'.. يعني حاجة جاية في الـ 'Sequence' اللي بعد كده.",
+  "phonetic_us": "ˈsʌbsɪkwəntli",
+  "phonetic_uk": "ˈsʌbsɪkwəntli",
+  "syllables": "sub•se•quent•ly",
+  "semantic_tags": [
+   "#Time",
+   "#Sequence",
+   "#Formal",
+   "#Order"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "After a particular event or time; afterwards.",
+  "explanation_ar": "بعد ذلك، أو لاحقاً. كلمة بنستخدمها عشان نقول إن في حاجة حصلت بعد حاجة تانية.",
+  "examples": [
+   "He was arrested and subsequently released.",
+   "The book was subsequently translated into 15 languages.",
+   "She subsequently became the company's CEO."
+  ],
+  "translations": {
+   "arabic_ar": "لاحقاً بعد ذلك"
+  },
+  "synonyms": [
+   "afterwards",
+   "later",
+   "thereafter"
+  ],
+  "antonyms": [
+   "previously",
+   "earlier",
+   "before"
+  ],
+  "collocations": [
+   "subsequently became",
+   "subsequently discovered",
+   "and subsequently"
+  ],
+  "mnemonic_ar": "فيها جزء 'Sequence' 'تسلسل'.. يعني حاجة جاية في الـ 'Sequence' اللي بعد كده."
+ }
+}

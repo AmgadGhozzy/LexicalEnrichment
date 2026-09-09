@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "thick",
+  "pos": "adj",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "thick",
+  "pos": "adj",
+  "cefr": "A2",
+  "definition_en": "With opposite sides or surfaces that are a great distance apart; not thin.",
+  "explanation_ar": "تخين أو سميك.. عكس رفيع. ممكن توصف كتاب، حيطة، أو حتى سائل تقيل.",
+  "senses": [
+   {
+    "definition_en": "Having a large distance between opposite surfaces; not thin.",
+    "definition_ar": "سميك، ذو سُمك كبير (عكس رفيع)",
+    "examples": [
+     "This book is very thick.",
+     "The walls are thick to keep the house warm."
+    ]
+   },
+   {
+    "definition_en": "Growing or existing closely together; dense.",
+    "definition_ar": "كثيف (مثل الضباب أو الشعر)",
+    "examples": [
+     "The fog was so thick we couldn't see."
+    ]
+   }
+  ],
+  "examples": [
+   "This book is very thick.",
+   "The walls are thick to keep the house warm.",
+   "The fog was so thick we couldn't see."
+  ],
+  "translations": [
+   "سميك",
+   "كثيف"
+  ],
+  "relations": {
+   "synonyms": [
+    "dense",
+    "heavy",
+    "chunky"
+   ],
+   "antonyms": [
+    "thin",
+    "fine"
+   ],
+   "collocations": [
+    "thick hair",
+    "thick fog"
+   ]
+  },
+  "mnemonic": "كلمة 'Thick' قريبة من 'Stick' 'عصاية'.. العصاية ممكن تكون 'Thick'.",
+  "phonetic_us": "θɪk",
+  "phonetic_uk": "θɪk",
+  "syllables": [
+   "thick"
+  ],
+  "semantic_tags": [
+   "#Size",
+   "#Dimension",
+   "#Texture"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "With opposite sides or surfaces that are a great distance apart; not thin.",
+  "explanation_ar": "تخين أو سميك.. عكس رفيع. ممكن توصف كتاب، حيطة، أو حتى سائل تقيل.",
+  "examples": [
+   "This book is very thick.",
+   "The walls are thick to keep the house warm.",
+   "The fog was so thick we couldn't see."
+  ],
+  "translations": {
+   "arabic_ar": "سميك كثيف"
+  },
+  "synonyms": [
+   "dense",
+   "heavy",
+   "chunky"
+  ],
+  "antonyms": [
+   "thin",
+   "fine"
+  ],
+  "collocations": [
+   "thick hair",
+   "thick fog"
+  ],
+  "mnemonic_ar": "كلمة 'Thick' قريبة من 'Stick' 'عصاية'.. العصاية ممكن تكون 'Thick'."
+ }
+}

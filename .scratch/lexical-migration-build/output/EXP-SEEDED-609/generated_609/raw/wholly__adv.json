@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "wholly",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "wholly",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "Entirely; fully.",
+  "explanation_ar": "بالكامل، يعني مية في المية من غير أي نقص.",
+  "senses": [
+   {
+    "definition_en": "Entirely; fully.",
+    "explanation_ar": "بالكامل، تماماً دون أي استثناء.",
+    "examples": [
+     "I am wholly responsible for the mistake.",
+     "The two theories are wholly different.",
+     "It was a wholly inappropriate remark for the occasion."
+    ]
+   }
+  ],
+  "examples": [
+   "I am wholly responsible for the mistake.",
+   "The two theories are wholly different.",
+   "It was a wholly inappropriate remark for the occasion."
+  ],
+  "translations": [
+   "كلياً",
+   "تماماً",
+   "بالكامل"
+  ],
+  "relations": {
+   "synonyms": [
+    "completely",
+    "entirely",
+    "totally",
+    "fully",
+    "altogether"
+   ],
+   "antonyms": [
+    "partly",
+    "partially"
+   ],
+   "collocations": [
+    "wholly owned",
+    "wholly inappropriate",
+    "wholly different",
+    "wholly unacceptable"
+   ]
+  },
+  "mnemonic": "جاية من 'Whole' 'كل'.. 'Wholly' يعني 'كلياً'.",
+  "phonetic_us": "ˈhoʊli",
+  "phonetic_uk": "ˈhəʊli",
+  "syllables": "whol•ly",
+  "semantic_tags": [
+   "degree",
+   "completeness",
+   "adverbs"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Entirely; fully.",
+  "explanation_ar": "بالكامل، يعني مية في المية من غير أي نقص.",
+  "examples": [
+   "I am wholly responsible for the mistake.",
+   "The two theories are wholly different.",
+   "It was a wholly inappropriate remark for the occasion."
+  ],
+  "translations": {
+   "arabic_ar": "كلياً تماماً بالكامل"
+  },
+  "synonyms": [
+   "completely",
+   "entirely",
+   "totally",
+   "fully",
+   "altogether"
+  ],
+  "antonyms": [
+   "partly",
+   "partially"
+  ],
+  "collocations": [
+   "wholly owned",
+   "wholly inappropriate",
+   "wholly different",
+   "wholly unacceptable"
+  ],
+  "mnemonic_ar": "جاية من 'Whole' 'كل'.. 'Wholly' يعني 'كلياً'."
+ }
+}

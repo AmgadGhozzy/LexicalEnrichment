@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "submarine",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "submarine",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Existing, occurring, or used under the surface of the sea.",
+  "explanation_ar": "حاجة موجودة أو بتحصل تحت سطح البحر.",
+  "senses": [
+   {
+    "definition_en": "Existing, occurring, or used under the surface of the sea.",
+    "explanation_ar": "حاجة موجودة أو بتحصل تحت سطح البحر.",
+    "examples": [
+     "A vast network of submarine cables connects continents across the ocean.",
+     "Scientists discovered an active submarine volcano near the island.",
+     "They studied the submarine geology of the deep ocean trench."
+    ]
+   }
+  ],
+  "examples": [
+   "A vast network of submarine cables connects continents across the ocean.",
+   "Scientists discovered an active submarine volcano near the island.",
+   "They studied the submarine geology of the deep ocean trench."
+  ],
+  "translations": [
+   "تَحْت بَحْرِيّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "underwater",
+    "undersea",
+    "submerged"
+   ],
+   "antonyms": [
+    "surface",
+    "aerial"
+   ],
+   "collocations": [
+    "submarine cable",
+    "submarine volcano",
+    "submarine warfare"
+   ]
+  },
+  "mnemonic": "'Sub' 'تحت' + 'Marine' 'بحري'.. يعني تحت البحر.",
+  "phonetic_us": "ˌsʌbməˈriːn",
+  "phonetic_uk": "ˌsʌbməˈriːn",
+  "syllables": "sub•ma•rine",
+  "semantic_tags": [
+   "#Ocean",
+   "#Underwater",
+   "#Navy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Existing, occurring, or used under the surface of the sea.",
+  "explanation_ar": "حاجة موجودة أو بتحصل تحت سطح البحر.",
+  "examples": [
+   "A vast network of submarine cables connects continents across the ocean.",
+   "Scientists discovered an active submarine volcano near the island.",
+   "They studied the submarine geology of the deep ocean trench."
+  ],
+  "translations": {
+   "arabic_ar": "تَحْت بَحْرِيّ"
+  },
+  "synonyms": [
+   "underwater",
+   "undersea",
+   "submerged"
+  ],
+  "antonyms": [
+   "surface",
+   "aerial"
+  ],
+  "collocations": [
+   "submarine cable",
+   "submarine volcano",
+   "submarine warfare"
+  ],
+  "mnemonic_ar": "'Sub' 'تحت' + 'Marine' 'بحري'.. يعني تحت البحر."
+ }
+}

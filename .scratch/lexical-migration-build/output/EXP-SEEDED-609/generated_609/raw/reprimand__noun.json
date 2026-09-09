@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "reprimand",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "reprimand",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "A severe or formal rebuke or disapproval.",
+  "explanation_ar": "توبيخ شديد ورسمي، زي لما مدير يهزأ موظف عشان غلطة كبيرة.",
+  "senses": [
+   {
+    "definition_en": "A severe or formal rebuke or disapproval.",
+    "explanation_ar": "توبيخ أو تأنيب رسمي أو شديد يصدر عن جهة مسؤولة أو سلطة أعلى.",
+    "examples": [
+     "She received a written reprimand from her boss.",
+     "The committee issued a formal reprimand to the member.",
+     "He faced a severe reprimand for his bad behavior."
+    ]
+   }
+  ],
+  "examples": [
+   "She received a written reprimand from her boss.",
+   "The committee issued a formal reprimand to the member.",
+   "He faced a severe reprimand for his bad behavior."
+  ],
+  "translations": [
+   "توبيخ",
+   "تأنيب"
+  ],
+  "relations": {
+   "synonyms": [
+    "rebuke",
+    "admonition",
+    "scolding",
+    "censure"
+   ],
+   "antonyms": [
+    "praise",
+    "commendation",
+    "compliment"
+   ],
+   "collocations": [
+    "severe reprimand",
+    "formal reprimand",
+    "written reprimand",
+    "issue a reprimand"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈreprɪmænd",
+  "phonetic_uk": "ˈreprɪmɑːnd",
+  "syllables": "rep•ri•mand",
+  "semantic_tags": [
+   "#Discipline",
+   "#Work",
+   "#Punishment"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A severe or formal rebuke or disapproval.",
+  "explanation_ar": "توبيخ شديد ورسمي، زي لما مدير يهزأ موظف عشان غلطة كبيرة.",
+  "examples": [
+   "She received a written reprimand from her boss.",
+   "The committee issued a formal reprimand to the member.",
+   "He faced a severe reprimand for his bad behavior."
+  ],
+  "translations": {
+   "arabic_ar": "توبيخ تأنيب"
+  },
+  "synonyms": [
+   "rebuke",
+   "admonition",
+   "scolding",
+   "censure"
+  ],
+  "antonyms": [
+   "praise",
+   "commendation",
+   "compliment"
+  ],
+  "collocations": [
+   "severe reprimand",
+   "formal reprimand",
+   "written reprimand",
+   "issue a reprimand"
+  ],
+  "mnemonic_ar": null
+ }
+}

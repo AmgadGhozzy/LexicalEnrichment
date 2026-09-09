@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "relinquish",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "relinquish",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To voluntarily give up or let go of something.",
+  "explanation_ar": "يعني تتنازل عن حاجة أو تسيبها بمزاجك.. زي السلطة أو حق ليك",
+  "senses": [
+   {
+    "definition_en": "To voluntarily give up power, control, or a legal claim.",
+    "definition_ar": "التنازل طوعًا عن سلطة أو سيطرة أو حق رسمي",
+    "examples": [
+     "He was forced to relinquish control of the company.",
+     "She refused to relinquish her claim to the property."
+    ]
+   },
+   {
+    "definition_en": "To physically let go of something held.",
+    "definition_ar": "إفلات شيء مقبوض عليه أو تركه ماديًا",
+    "examples": [
+     "He had to relinquish his grip on the railing to jump safely."
+    ]
+   }
+  ],
+  "examples": [
+   "He was forced to relinquish control of the company.",
+   "She refused to relinquish her claim to the property.",
+   "He had to relinquish his grip on the railing to jump safely."
+  ],
+  "translations": [
+   "يَتَنازَل عَن",
+   "يَتَخَلَّى عَن"
+  ],
+  "relations": {
+   "synonyms": [
+    "surrender",
+    "yield",
+    "renounce",
+    "give up"
+   ],
+   "antonyms": [
+    "keep",
+    "retain",
+    "hold"
+   ],
+   "collocations": [
+    "relinquish control",
+    "relinquish power",
+    "relinquish a claim"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Release'.. إنك تسيب الحاجة وتتخلى عنها",
+  "phonetic_us": "rɪˈlɪŋkwɪʃ",
+  "phonetic_uk": "rɪˈlɪŋkwɪʃ",
+  "syllables": "re•lin•quish",
+  "semantic_tags": [
+   "#Surrender",
+   "#GiveUp",
+   "#Control",
+   "#Formal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To voluntarily give up or let go of something.",
+  "explanation_ar": "يعني تتنازل عن حاجة أو تسيبها بمزاجك.. زي السلطة أو حق ليك",
+  "examples": [
+   "He was forced to relinquish control of the company.",
+   "She refused to relinquish her claim to the property.",
+   "He had to relinquish his grip on the railing to jump safely."
+  ],
+  "translations": {
+   "arabic_ar": "يَتَنازَل عَن يَتَخَلَّى عَن"
+  },
+  "synonyms": [
+   "surrender",
+   "yield",
+   "renounce",
+   "give up"
+  ],
+  "antonyms": [
+   "keep",
+   "retain",
+   "hold"
+  ],
+  "collocations": [
+   "relinquish control",
+   "relinquish power",
+   "relinquish a claim"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Release'.. إنك تسيب الحاجة وتتخلى عنها"
+ }
+}

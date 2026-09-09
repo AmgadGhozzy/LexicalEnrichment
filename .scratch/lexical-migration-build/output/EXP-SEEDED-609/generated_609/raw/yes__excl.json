@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "yes",
+  "pos": "excl",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "yes",
+  "pos": "excl",
+  "cefr": "A1",
+  "definition_en": "Used to express great pleasure, excitement, or triumph.",
+  "explanation_ar": "صيحة بنقولها لما نفرح بحاجة أو ننتصر، زي لما فريقك يجيب جول.",
+  "senses": [
+   {
+    "definition_en": "Used to express great pleasure, excitement, or triumph.",
+    "explanation_ar": "صيحة بنقولها لما نفرح بحاجة أو ننتصر، زي لما فريقك يجيب جول.",
+    "examples": [
+     "Yes! We won the game!",
+     "Yes! I found my keys.",
+     "She shouted 'Yes!' when she saw the results."
+    ]
+   }
+  ],
+  "examples": [
+   "Yes! We won the game!",
+   "Yes! I found my keys.",
+   "She shouted 'Yes!' when she saw the results."
+  ],
+  "translations": [
+   "نعم! (للفرحة)"
+  ],
+  "relations": {
+   "synonyms": [
+    "hooray",
+    "yay",
+    "woohoo"
+   ],
+   "antonyms": [
+    "oh no"
+   ],
+   "collocations": [
+    "oh yes"
+   ]
+  },
+  "mnemonic": "لما تكسب في اللعبة بتقول 'Yes!' بصوت عالي عشان تعبر عن الفرحة.",
+  "phonetic_us": "jɛs",
+  "phonetic_uk": "jes",
+  "syllables": [
+   "yes"
+  ],
+  "semantic_tags": [
+   "#Excitement",
+   "#Victory",
+   "#Celebration",
+   "#Interjection"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Used to express great pleasure, excitement, or triumph.",
+  "explanation_ar": "صيحة بنقولها لما نفرح بحاجة أو ننتصر، زي لما فريقك يجيب جول.",
+  "examples": [
+   "Yes! We won the game!",
+   "Yes! I found my keys.",
+   "She shouted 'Yes!' when she saw the results."
+  ],
+  "translations": {
+   "arabic_ar": "نعم! (للفرحة)"
+  },
+  "synonyms": [
+   "hooray",
+   "yay",
+   "woohoo"
+  ],
+  "antonyms": [
+   "oh no"
+  ],
+  "collocations": [
+   "oh yes"
+  ],
+  "mnemonic_ar": "لما تكسب في اللعبة بتقول 'Yes!' بصوت عالي عشان تعبر عن الفرحة."
+ }
+}

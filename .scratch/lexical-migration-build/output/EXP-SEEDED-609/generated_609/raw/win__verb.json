@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "win",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "win",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To be the most successful in a competition or fight.",
+  "explanation_ar": "إنك تكسب في مسابقة أو معركة وتكون الأول.",
+  "senses": [
+   {
+    "sense_id": "win-1",
+    "definition_en": "To be the most successful in a competition or fight.",
+    "explanation_ar": "أن تكسب أو تحقق النصر في مسابقة أو معركة أو لعبة.",
+    "examples": [
+     "I want to win the game.",
+     "He hopes to win the lottery.",
+     "Do you think our team will win?"
+    ]
+   }
+  ],
+  "examples": [
+   "I want to win the game.",
+   "He hopes to win the lottery.",
+   "Do you think our team will win?"
+  ],
+  "translations": [
+   "يفوز",
+   "يكسب",
+   "ينتصر"
+  ],
+  "relations": {
+   "synonyms": [
+    "succeed",
+    "triumph",
+    "prevail"
+   ],
+   "antonyms": [
+    "lose",
+    "fail"
+   ],
+   "collocations": [
+    "win a prize",
+    "win a game",
+    "win support",
+    "win back"
+   ]
+  },
+  "mnemonic": "اربطها برقم 'One'.. عشان تـ 'Win' لازم تطلع الـ 'One'.",
+  "phonetic_us": "wɪn",
+  "phonetic_uk": "wɪn",
+  "syllables": [
+   "win"
+  ],
+  "semantic_tags": [
+   "#Success",
+   "#Game",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be the most successful in a competition or fight.",
+  "explanation_ar": "إنك تكسب في مسابقة أو معركة وتكون الأول.",
+  "examples": [
+   "I want to win the game.",
+   "He hopes to win the lottery.",
+   "Do you think our team will win?"
+  ],
+  "translations": {
+   "arabic_ar": "يفوز يكسب ينتصر"
+  },
+  "synonyms": [
+   "succeed",
+   "triumph",
+   "prevail"
+  ],
+  "antonyms": [
+   "lose",
+   "fail"
+  ],
+  "collocations": [
+   "win a prize",
+   "win a game",
+   "win support",
+   "win back"
+  ],
+  "mnemonic_ar": "اربطها برقم 'One'.. عشان تـ 'Win' لازم تطلع الـ 'One'."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "uphold",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "uphold",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To confirm, support, or maintain a custom, law, or principle.",
+  "explanation_ar": "إنك تدافع عن حاجة زي قانون أو مبدأ وتتأكد إن الناس بتحترمها وبتطبقها.",
+  "senses": [
+   {
+    "definition_en": "To confirm, support, or maintain a custom, law, or principle.",
+    "definition_ar": "أن تدافع عن قانون أو مبدأ أو تقليد وتدعمه وتحافظ عليه."
+   }
+  ],
+  "examples": [
+   "The police officer swore to uphold the law.",
+   "They promised to uphold the traditions of the club.",
+   "It is the duty of the press to uphold freedom of speech."
+  ],
+  "translations": [
+   "يؤيد",
+   "يحافظ على",
+   "يدعم"
+  ],
+  "relations": {
+   "synonyms": [
+    "maintain",
+    "support",
+    "sustain",
+    "endorse"
+   ],
+   "antonyms": [
+    "overturn",
+    "oppose",
+    "violate"
+   ],
+   "collocations": [
+    "uphold the law",
+    "uphold a decision",
+    "uphold standards",
+    "uphold justice"
+   ]
+  },
+  "mnemonic": "'Up' 'فوق' و 'Hold' 'يمسك'.. يعني تمسك الحاجة وترفعها لفوق عشان الكل يشوفها ويحترمها.",
+  "phonetic_us": "ʌpˈhoʊld",
+  "phonetic_uk": "ʌpˈhəʊld",
+  "syllables": "up•hold",
+  "semantic_tags": [
+   "#Law",
+   "#Support",
+   "#Justice",
+   "#Values"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To confirm, support, or maintain a custom, law, or principle.",
+  "explanation_ar": "إنك تدافع عن حاجة زي قانون أو مبدأ وتتأكد إن الناس بتحترمها وبتطبقها.",
+  "examples": [
+   "The police officer swore to uphold the law.",
+   "They promised to uphold the traditions of the club.",
+   "It is the duty of the press to uphold freedom of speech."
+  ],
+  "translations": {
+   "arabic_ar": "يؤيد يحافظ على يدعم"
+  },
+  "synonyms": [
+   "maintain",
+   "support",
+   "sustain",
+   "endorse"
+  ],
+  "antonyms": [
+   "overturn",
+   "oppose",
+   "violate"
+  ],
+  "collocations": [
+   "uphold the law",
+   "uphold a decision",
+   "uphold standards",
+   "uphold justice"
+  ],
+  "mnemonic_ar": "'Up' 'فوق' و 'Hold' 'يمسك'.. يعني تمسك الحاجة وترفعها لفوق عشان الكل يشوفها ويحترمها."
+ }
+}

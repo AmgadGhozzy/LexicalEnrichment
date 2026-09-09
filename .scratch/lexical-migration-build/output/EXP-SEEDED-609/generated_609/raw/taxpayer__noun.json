@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "taxpayer",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "taxpayer",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who pays taxes to the government.",
+  "explanation_ar": "المواطن اللي بيدفع ضرايب للدولة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who pays taxes to the government.",
+    "explanation_ar": "المواطن اللي بيدفع ضرايب للدولة.",
+    "examples": [
+     "The project is funded by the taxpayer.",
+     "It is a burden on the average taxpayer.",
+     "The burden of the fiscal deficit ultimately falls on the taxpayer."
+    ]
+   }
+  ],
+  "examples": [
+   "The project is funded by the taxpayer.",
+   "It is a burden on the average taxpayer.",
+   "The burden of the fiscal deficit ultimately falls on the taxpayer."
+  ],
+  "translations": [
+   "دافع الضرائب"
+  ],
+  "relations": {
+   "synonyms": [
+    "ratepayer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "taxpayer money",
+    "American taxpayer",
+    "taxpayer funded",
+    "burden on the taxpayer"
+   ]
+  },
+  "mnemonic": "واضحة: 'Tax' 'ضريبة' + 'Payer' 'دافع'.. الشخص اللي بيدفع الضريبة.",
+  "phonetic_us": "ˈtæksˌpeɪɚ",
+  "phonetic_uk": "ˈtæksˌpeɪə",
+  "syllables": "tax•pay•er",
+  "semantic_tags": [
+   "#Money",
+   "#Government",
+   "#Economy",
+   "#Society"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who pays taxes to the government.",
+  "explanation_ar": "المواطن اللي بيدفع ضرايب للدولة.",
+  "examples": [
+   "The project is funded by the taxpayer.",
+   "It is a burden on the average taxpayer.",
+   "The burden of the fiscal deficit ultimately falls on the taxpayer."
+  ],
+  "translations": {
+   "arabic_ar": "دافع الضرائب"
+  },
+  "synonyms": [
+   "ratepayer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "taxpayer money",
+   "American taxpayer",
+   "taxpayer funded",
+   "burden on the taxpayer"
+  ],
+  "mnemonic_ar": "واضحة: 'Tax' 'ضريبة' + 'Payer' 'دافع'.. الشخص اللي بيدفع الضريبة."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "text",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "text",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "Written words in a book, magazine, or on a screen; a short digital message.",
+  "explanation_ar": "الكلام المكتوب في أي حتة، سواء في كتاب أو رسالة على الموبايل.",
+  "senses": [
+   {
+    "definition_en": "Written words in a book, magazine, or on a screen.",
+    "definition_ar": "نص؛ الكلمات أو المحتوى المكتوب في كتاب أو على شاشة."
+   },
+   {
+    "definition_en": "A short written message sent to a mobile phone.",
+    "definition_ar": "رسالة نصية قصيرة على الهاتف المحمول."
+   }
+  ],
+  "examples": [
+   "Read the text carefully.",
+   "Send me a text later.",
+   "The text is too small to read."
+  ],
+  "translations": [
+   "نص",
+   "رسالة نصية"
+  ],
+  "relations": {
+   "synonyms": [
+    "passage",
+    "wording",
+    "message"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "send a text",
+    "text message",
+    "original text",
+    "bold text"
+   ]
+  },
+  "mnemonic": "زي 'Textbook' كتاب النصوص.. الـ 'Text' هو الكلام المكتوب نفسه.",
+  "phonetic_us": "/tekst/",
+  "phonetic_uk": "/tekst/",
+  "syllables": "text",
+  "semantic_tags": [
+   "#Writing",
+   "#Message",
+   "#Digital"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Written words in a book, magazine, or on a screen; a short digital message.",
+  "explanation_ar": "الكلام المكتوب في أي حتة، سواء في كتاب أو رسالة على الموبايل.",
+  "examples": [
+   "Read the text carefully.",
+   "Send me a text later.",
+   "The text is too small to read."
+  ],
+  "translations": {
+   "arabic_ar": "نص رسالة نصية"
+  },
+  "synonyms": [
+   "passage",
+   "wording",
+   "message"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "send a text",
+   "text message",
+   "original text",
+   "bold text"
+  ],
+  "mnemonic_ar": "زي 'Textbook' كتاب النصوص.. الـ 'Text' هو الكلام المكتوب نفسه."
+ }
+}

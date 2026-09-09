@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "sincere",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "sincere",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Free from pretense or deceit; proceeding from genuine feelings.",
+  "explanation_ar": "يعني صادق ومخلص.. مبيكدبش ومش بيمثل",
+  "senses": [
+   {
+    "sense_id": "sincere_adj_1",
+    "definition_en": "Free from pretense or deceit; proceeding from genuine feelings.",
+    "definition_ar": "صادق ومخلص، نابع من مشاعر حقيقية دون زيف أو نفاق",
+    "examples": [
+     "Thank you for your sincere help.",
+     "She seems very sincere in her beliefs.",
+     "His apology was heartfelt and sincere."
+    ]
+   }
+  ],
+  "examples": [
+   "Thank you for your sincere help.",
+   "She seems very sincere in her beliefs.",
+   "His apology was heartfelt and sincere."
+  ],
+  "translations": [
+   "صادق",
+   "مخلص"
+  ],
+  "relations": {
+   "synonyms": [
+    "genuine",
+    "honest",
+    "heartfelt",
+    "earnest"
+   ],
+   "antonyms": [
+    "insincere",
+    "fake",
+    "hypocritical"
+   ],
+   "collocations": [
+    "sincere apology",
+    "sincere thanks",
+    "yours sincerely"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "sɪnˈsɪr",
+  "phonetic_uk": "sɪnˈsɪə",
+  "syllables": "sin•cere",
+  "semantic_tags": [
+   "#Honesty",
+   "#Emotion",
+   "#Personality",
+   "#Truth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Free from pretense or deceit; proceeding from genuine feelings.",
+  "explanation_ar": "يعني صادق ومخلص.. مبيكدبش ومش بيمثل",
+  "examples": [
+   "Thank you for your sincere help.",
+   "She seems very sincere in her beliefs.",
+   "His apology was heartfelt and sincere."
+  ],
+  "translations": {
+   "arabic_ar": "صادق مخلص"
+  },
+  "synonyms": [
+   "genuine",
+   "honest",
+   "heartfelt",
+   "earnest"
+  ],
+  "antonyms": [
+   "insincere",
+   "fake",
+   "hypocritical"
+  ],
+  "collocations": [
+   "sincere apology",
+   "sincere thanks",
+   "yours sincerely"
+  ],
+  "mnemonic_ar": null
+ }
+}

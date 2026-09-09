@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "syntactic",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "syntactic",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to the arrangement of words and phrases to create well-formed sentences in a language.",
+  "explanation_ar": "حاجة ليها علاقة بالنحو أو تركيب الجمل.. إزاي الكلمات بتترتب جنب بعض عشان تدي معنى مفيد.",
+  "senses": [
+   {
+    "definition_en": "Relating to the arrangement of words and phrases to create well-formed sentences in a language.",
+    "definition_ar": "متعلق بالنحو أو بقواعد تركيب وبناء الجمل.",
+    "examples": [
+     "Programming languages have strict syntactic rules.",
+     "The error was syntactic, not spelling.",
+     "Chomsky revolutionized our understanding of syntactic analysis in linguistics."
+    ]
+   }
+  ],
+  "examples": [
+   "Programming languages have strict syntactic rules.",
+   "The error was syntactic, not spelling.",
+   "Chomsky revolutionized our understanding of syntactic analysis in linguistics."
+  ],
+  "translations": [
+   "نحوي",
+   "تركيبي"
+  ],
+  "relations": {
+   "synonyms": [
+    "grammatical",
+    "structural"
+   ],
+   "antonyms": [
+    "semantic"
+   ],
+   "collocations": [
+    "syntactic structure",
+    "syntactic analysis",
+    "syntactic rule"
+   ]
+  },
+  "mnemonic": "جاية من 'Syntax' اللي هو 'النحو'.. والكلمة فيها 'Tact' 'تكتيك' ترتيب الكلام.",
+  "phonetic_us": "sɪnˈtæk.tɪk",
+  "phonetic_uk": "sɪnˈtæk.tɪk",
+  "syllables": "syn•tac•tic",
+  "semantic_tags": [
+   "#Linguistics",
+   "#Grammar",
+   "#Language",
+   "#Structure"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to the arrangement of words and phrases to create well-formed sentences in a language.",
+  "explanation_ar": "حاجة ليها علاقة بالنحو أو تركيب الجمل.. إزاي الكلمات بتترتب جنب بعض عشان تدي معنى مفيد.",
+  "examples": [
+   "Programming languages have strict syntactic rules.",
+   "The error was syntactic, not spelling.",
+   "Chomsky revolutionized our understanding of syntactic analysis in linguistics."
+  ],
+  "translations": {
+   "arabic_ar": "نحوي تركيبي"
+  },
+  "synonyms": [
+   "grammatical",
+   "structural"
+  ],
+  "antonyms": [
+   "semantic"
+  ],
+  "collocations": [
+   "syntactic structure",
+   "syntactic analysis",
+   "syntactic rule"
+  ],
+  "mnemonic_ar": "جاية من 'Syntax' اللي هو 'النحو'.. والكلمة فيها 'Tact' 'تكتيك' ترتيب الكلام."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "sediment",
+  "pos": "noun",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "sediment",
+  "pos": "noun",
+  "cefr": "C2",
+  "definition_en": "Matter that settles to the bottom of a liquid.",
+  "explanation_ar": "المادة الصلبة زي الرمل أو التراب اللي بتنزل وتستقر في قاع السائل زي الميه أو القهوة.",
+  "senses": [
+   {
+    "definition_en": "Matter that settles to the bottom of a liquid.",
+    "explanation_ar": "المادة الصلبة التي تترسب وتستقر في قاع السائل أو مجرى المياه.",
+    "examples": [
+     "The wine has some sediment at the bottom of the bottle.",
+     "Rivers carry sediment to the ocean.",
+     "Geologists study layers of sediment to understand Earth's history."
+    ]
+   }
+  ],
+  "examples": [
+   "The wine has some sediment at the bottom of the bottle.",
+   "Rivers carry sediment to the ocean.",
+   "Geologists study layers of sediment to understand Earth's history."
+  ],
+  "translations": [
+   "رواسب",
+   "راسب",
+   "حثالة"
+  ],
+  "relations": {
+   "synonyms": [
+    "deposit",
+    "residue",
+    "silt",
+    "dregs"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "marine sediment",
+    "river sediment",
+    "sediment buildup",
+    "bottom sediment"
+   ]
+  },
+  "mnemonic": "كلمة 'Sediment' بتبدأ بـ 'Sit'.. دي الحاجات اللي بتعمل 'Sit' وبتقعد في قاع الكباية أو النهر.",
+  "phonetic_us": "ˈsedɪmənt",
+  "phonetic_uk": "ˈsedɪmənt",
+  "syllables": "sed•i•ment",
+  "semantic_tags": [
+   "geology",
+   "water",
+   "chemistry",
+   "nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Matter that settles to the bottom of a liquid.",
+  "explanation_ar": "المادة الصلبة زي الرمل أو التراب اللي بتنزل وتستقر في قاع السائل زي الميه أو القهوة.",
+  "examples": [
+   "The wine has some sediment at the bottom of the bottle.",
+   "Rivers carry sediment to the ocean.",
+   "Geologists study layers of sediment to understand Earth's history."
+  ],
+  "translations": {
+   "arabic_ar": "رواسب راسب حثالة"
+  },
+  "synonyms": [
+   "deposit",
+   "residue",
+   "silt",
+   "dregs"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "marine sediment",
+   "river sediment",
+   "sediment buildup",
+   "bottom sediment"
+  ],
+  "mnemonic_ar": "كلمة 'Sediment' بتبدأ بـ 'Sit'.. دي الحاجات اللي بتعمل 'Sit' وبتقعد في قاع الكباية أو النهر."
+ }
+}

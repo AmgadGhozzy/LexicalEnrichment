@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "valuation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "valuation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An estimation of how much something is worth.",
+  "explanation_ar": "تثمين أو تقدير لسعر حاجة، زي لما خبير يقول البيت ده يسوى كام.",
+  "senses": [
+   {
+    "definition_en": "An estimation of how much something is worth.",
+    "explanation_ar": "تثمين أو تقدير مالي لقيمة شيء ما (مثل عقار أو شركة).",
+    "examples": [
+     "The bank asked for a valuation of the house.",
+     "They disagreed with the official valuation of the property.",
+     "Market volatility makes accurate asset valuation extremely difficult."
+    ]
+   }
+  ],
+  "examples": [
+   "The bank asked for a valuation of the house.",
+   "They disagreed with the official valuation of the property.",
+   "Market volatility makes accurate asset valuation extremely difficult."
+  ],
+  "translations": [
+   "تثمين",
+   "تقييم"
+  ],
+  "relations": {
+   "synonyms": [
+    "appraisal",
+    "assessment",
+    "estimation",
+    "evaluation"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "market valuation",
+    "property valuation",
+    "high valuation",
+    "get a valuation"
+   ]
+  },
+  "mnemonic": "جاية من 'Value' (قيمة).. والـ 'Valuation' هي عملية تحديد أو تقدير القيمة دي.",
+  "phonetic_us": "ˌvæljuˈeɪʃən",
+  "phonetic_uk": "ˌvæljuˈeɪʃn",
+  "syllables": "val•u•a•tion",
+  "semantic_tags": [
+   "#Money",
+   "#Price",
+   "#Business",
+   "#RealEstate"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An estimation of how much something is worth.",
+  "explanation_ar": "تثمين أو تقدير لسعر حاجة، زي لما خبير يقول البيت ده يسوى كام.",
+  "examples": [
+   "The bank asked for a valuation of the house.",
+   "They disagreed with the official valuation of the property.",
+   "Market volatility makes accurate asset valuation extremely difficult."
+  ],
+  "translations": {
+   "arabic_ar": "تثمين تقييم"
+  },
+  "synonyms": [
+   "appraisal",
+   "assessment",
+   "estimation",
+   "evaluation"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "market valuation",
+   "property valuation",
+   "high valuation",
+   "get a valuation"
+  ],
+  "mnemonic_ar": "جاية من 'Value' (قيمة).. والـ 'Valuation' هي عملية تحديد أو تقدير القيمة دي."
+ }
+}

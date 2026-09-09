@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "whale",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "whale",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A very large marine mammal that breathes through a blowhole.",
+  "explanation_ar": "حيوان بحري ضخم جداً بيعيش في المحيط وبيتنفس الهوا.",
+  "senses": [
+   {
+    "definition_en": "A very large marine mammal that breathes through a blowhole.",
+    "definition_ar": "حيوان بحري ضخم جداً بيعيش في المحيط وبيتنفس الهوا.",
+    "examples": [
+     "A whale is very big.",
+     "We saw a whale in the sea.",
+     "The blue whale is the largest animal."
+    ]
+   }
+  ],
+  "examples": [
+   "A whale is very big.",
+   "We saw a whale in the sea.",
+   "The blue whale is the largest animal."
+  ],
+  "translations": [
+   "حوت"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "blue whale",
+    "humpback whale",
+    "killer whale",
+    "whale watching"
+   ]
+  },
+  "mnemonic": "كلمة 'Whale' بتفكرنا بـ 'Wail' يعني عويل.. صوت الحوت ساعات بيبقى زي البكاء العالي.",
+  "phonetic_us": "weɪl",
+  "phonetic_uk": "weɪl",
+  "syllables": "whale",
+  "semantic_tags": [
+   "Ocean",
+   "Animal",
+   "Sea",
+   "Mammal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A very large marine mammal that breathes through a blowhole.",
+  "explanation_ar": "حيوان بحري ضخم جداً بيعيش في المحيط وبيتنفس الهوا.",
+  "examples": [
+   "A whale is very big.",
+   "We saw a whale in the sea.",
+   "The blue whale is the largest animal."
+  ],
+  "translations": {
+   "arabic_ar": "حوت"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "blue whale",
+   "humpback whale",
+   "killer whale",
+   "whale watching"
+  ],
+  "mnemonic_ar": "كلمة 'Whale' بتفكرنا بـ 'Wail' يعني عويل.. صوت الحوت ساعات بيبقى زي البكاء العالي."
+ }
+}

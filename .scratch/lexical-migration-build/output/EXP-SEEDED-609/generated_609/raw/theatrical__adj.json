@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "theatrical",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "theatrical",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to acting, actors, or the theater; or exaggerated and excessively dramatic.",
+  "explanation_ar": "متعلق بالمسرح أو التمثيل؛ وتُطلق أيضاً لوصف تصرفات مبالغ فيها أو درامية زيادة عن اللزوم كأنها تمثيل.",
+  "senses": [
+   {
+    "definition_en": "Relating to the theater, acting, or stage performance.",
+    "definition_ar": "متعلق بالمسرح أو فن التمثيل."
+   },
+   {
+    "definition_en": "Exaggerated, dramatic, or designed to attract attention.",
+    "definition_ar": "مبالغ فيه، استعراضي، أو درامي بصورة متكلفة."
+   }
+  ],
+  "examples": [
+   "The movie had a theatrical release before streaming.",
+   "Her reaction was a bit theatrical and unnecessary.",
+   "His speech was marked by theatrical gestures and pauses."
+  ],
+  "translations": [
+   "مسرحي",
+   "استعراضي",
+   "مبالغ فيه"
+  ],
+  "relations": {
+   "synonyms": [
+    "dramatic",
+    "histrionic",
+    "exaggerated",
+    "staged"
+   ],
+   "antonyms": [
+    "natural",
+    "understated",
+    "realistic"
+   ],
+   "collocations": [
+    "theatrical performance",
+    "theatrical release",
+    "theatrical makeup"
+   ]
+  },
+  "mnemonic": "جاية من 'Theater' مسرح.. أي تصرف 'Theatrical' يعني تمثيل وأفورة.",
+  "phonetic_us": "θiˈætrɪkəl",
+  "phonetic_uk": "θɪˈætrɪkəl",
+  "syllables": "the•at•ri•cal",
+  "semantic_tags": [
+   "Art",
+   "Drama",
+   "Performance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Relating to acting, actors, or the theater; or exaggerated and excessively dramatic.",
+  "explanation_ar": "متعلق بالمسرح أو التمثيل؛ وتُطلق أيضاً لوصف تصرفات مبالغ فيها أو درامية زيادة عن اللزوم كأنها تمثيل.",
+  "examples": [
+   "The movie had a theatrical release before streaming.",
+   "Her reaction was a bit theatrical and unnecessary.",
+   "His speech was marked by theatrical gestures and pauses."
+  ],
+  "translations": {
+   "arabic_ar": "مسرحي استعراضي مبالغ فيه"
+  },
+  "synonyms": [
+   "dramatic",
+   "histrionic",
+   "exaggerated",
+   "staged"
+  ],
+  "antonyms": [
+   "natural",
+   "understated",
+   "realistic"
+  ],
+  "collocations": [
+   "theatrical performance",
+   "theatrical release",
+   "theatrical makeup"
+  ],
+  "mnemonic_ar": "جاية من 'Theater' مسرح.. أي تصرف 'Theatrical' يعني تمثيل وأفورة."
+ }
+}

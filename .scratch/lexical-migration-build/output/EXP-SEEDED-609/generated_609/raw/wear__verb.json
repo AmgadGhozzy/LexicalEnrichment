@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "wear",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "wear",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To have clothing, jewelry, or other accessories on your body.",
+  "explanation_ar": "يلبس أو يرتدي هدوم أو إكسسوارات.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To have clothing, jewelry, or other accessories on your body.",
+    "explanation_ar": "يلبس أو يرتدي هدوم أو إكسسوارات على الجسم.",
+    "examples": [
+     "I wear glasses.",
+     "You should wear sunscreen on the beach.",
+     "Do you wear a uniform to school?"
+    ]
+   }
+  ],
+  "examples": [
+   "I wear glasses.",
+   "You should wear sunscreen on the beach.",
+   "Do you wear a uniform to school?"
+  ],
+  "translations": [
+   "يرتدي",
+   "يلبس"
+  ],
+  "relations": {
+   "synonyms": [
+    "dress in",
+    "have on",
+    "sport"
+   ],
+   "antonyms": [
+    "take off",
+    "undress"
+   ],
+   "collocations": [
+    "wear clothes",
+    "wear makeup",
+    "wear sunscreen",
+    "wear a uniform"
+   ]
+  },
+  "mnemonic": "نفس الرابط: الـ 'Wear' 'اللبس' اللي هـ 'Wear' 'ألبسه' 'Where' 'فين'؟",
+  "phonetic_us": "wɛɹ",
+  "phonetic_uk": "weə(r)",
+  "syllables": "wear",
+  "semantic_tags": [
+   "#Clothes",
+   "#Fashion",
+   "#Style",
+   "#Body"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To have clothing, jewelry, or other accessories on your body.",
+  "explanation_ar": "يلبس أو يرتدي هدوم أو إكسسوارات.",
+  "examples": [
+   "I wear glasses.",
+   "You should wear sunscreen on the beach.",
+   "Do you wear a uniform to school?"
+  ],
+  "translations": {
+   "arabic_ar": "يرتدي يلبس"
+  },
+  "synonyms": [
+   "dress in",
+   "have on",
+   "sport"
+  ],
+  "antonyms": [
+   "take off",
+   "undress"
+  ],
+  "collocations": [
+   "wear clothes",
+   "wear makeup",
+   "wear sunscreen",
+   "wear a uniform"
+  ],
+  "mnemonic_ar": "نفس الرابط: الـ 'Wear' 'اللبس' اللي هـ 'Wear' 'ألبسه' 'Where' 'فين'؟"
+ }
+}

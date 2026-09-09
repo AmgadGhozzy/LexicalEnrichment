@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "subsidize",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "subsidize",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To support financially; to pay part of the cost of something.",
+  "explanation_ar": "يدعم مادياً.. زي لما الحكومة تدفع جزء من تمن العيش عشان يوصل للناس رخيص.",
+  "senses": [
+   {
+    "definition_en": "To support financially; to pay part of the cost of something.",
+    "explanation_ar": "يدعم مالياً أو يتحمل جزءاً من التكلفة لتخفيف العبء المالي.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The government agreed to subsidize public transport to encourage greener travel.",
+   "Does the university subsidize housing for international students?",
+   "Critics argue that the state should not subsidize failing private companies."
+  ],
+  "translations": [
+   "يدعم مالياً",
+   "يقدم إعانة مالية لـ",
+   "يتحمل جزءاً من تكلفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "fund",
+    "finance",
+    "sponsor",
+    "underwrite"
+   ],
+   "antonyms": [
+    "defund",
+    "tax"
+   ],
+   "collocations": [
+    "subsidize the cost",
+    "heavily subsidize",
+    "subsidize agriculture",
+    "subsidize public transport"
+   ]
+  },
+  "mnemonic": "كلمة 'Sub' يعني تحت.. الحكومة بتحط فلوس 'تحت' السعر عشان تقلله وتعمل 'Subsidize'.",
+  "phonetic_us": "ˈsʌbsɪdaɪz",
+  "phonetic_uk": "ˈsʌbsɪdaɪz",
+  "syllables": "sub•si•dize",
+  "semantic_tags": [
+   "money",
+   "government",
+   "economy",
+   "support"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To support financially; to pay part of the cost of something.",
+  "explanation_ar": "يدعم مادياً.. زي لما الحكومة تدفع جزء من تمن العيش عشان يوصل للناس رخيص.",
+  "examples": [
+   "The government agreed to subsidize public transport to encourage greener travel.",
+   "Does the university subsidize housing for international students?",
+   "Critics argue that the state should not subsidize failing private companies."
+  ],
+  "translations": {
+   "arabic_ar": "يدعم مالياً يقدم إعانة مالية لـ يتحمل جزءاً من تكلفة"
+  },
+  "synonyms": [
+   "fund",
+   "finance",
+   "sponsor",
+   "underwrite"
+  ],
+  "antonyms": [
+   "defund",
+   "tax"
+  ],
+  "collocations": [
+   "subsidize the cost",
+   "heavily subsidize",
+   "subsidize agriculture",
+   "subsidize public transport"
+  ],
+  "mnemonic_ar": "كلمة 'Sub' يعني تحت.. الحكومة بتحط فلوس 'تحت' السعر عشان تقلله وتعمل 'Subsidize'."
+ }
+}

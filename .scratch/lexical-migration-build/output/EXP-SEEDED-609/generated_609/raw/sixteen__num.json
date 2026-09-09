@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "sixteen",
+  "pos": "num",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "sixteen",
+  "pos": "num",
+  "cefr": "A1",
+  "definition_en": "The number 16; one more than fifteen.",
+  "explanation_ar": "العدد 16 (ستة عشر)، وهو الرقم الذي يلي خمسة عشر وقبل سبعة عشر.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The number 16; one more than fifteen.",
+    "explanation_ar": "العدد 16 (ستة عشر).",
+    "examples": [
+     "She is sixteen years old.",
+     "I have sixteen books.",
+     "The building has sixteen floors."
+    ]
+   }
+  ],
+  "examples": [
+   "She is sixteen years old.",
+   "I have sixteen books.",
+   "The building has sixteen floors."
+  ],
+  "translations": [
+   "ستة عشر"
+  ],
+  "relations": {
+   "synonyms": [
+    "16"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sweet sixteen",
+    "sixteen years old",
+    "chapter sixteen"
+   ]
+  },
+  "mnemonic": "'Six' يعني ستة، و 'Teen' يعني طعش.. يبقى 'Sixteen' ستطاعش أو ستة عشر",
+  "phonetic_us": "sɪkˈstiːn",
+  "phonetic_uk": "sɪkˈstiːn",
+  "syllables": "six•teen",
+  "semantic_tags": [
+   "Numbers",
+   "Math",
+   "Counting",
+   "Age"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The number 16; one more than fifteen.",
+  "explanation_ar": "العدد 16 (ستة عشر)، وهو الرقم الذي يلي خمسة عشر وقبل سبعة عشر.",
+  "examples": [
+   "She is sixteen years old.",
+   "I have sixteen books.",
+   "The building has sixteen floors."
+  ],
+  "translations": {
+   "arabic_ar": "ستة عشر"
+  },
+  "synonyms": [
+   "16"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sweet sixteen",
+   "sixteen years old",
+   "chapter sixteen"
+  ],
+  "mnemonic_ar": "'Six' يعني ستة، و 'Teen' يعني طعش.. يبقى 'Sixteen' ستطاعش أو ستة عشر"
+ }
+}

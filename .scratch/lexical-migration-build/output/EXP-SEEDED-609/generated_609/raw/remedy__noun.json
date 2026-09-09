@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "remedy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "remedy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A successful way of curing an illness or dealing with a problem.",
+  "explanation_ar": "علاج لمرض أو حل لمشكلة بتواجهك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A medicine or treatment for an illness or injury.",
+    "explanation_ar": "دواء أو وسيلة علاجية لمرض أو إصابة.",
+    "cefr": "B2"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A way of solving a problem or dealing with a difficult situation.",
+    "explanation_ar": "طريقة لحل مشكلة أو معالجة موقف صعب.",
+    "cefr": "C1"
+   }
+  ],
+  "examples": [
+   "Tea with honey is a home remedy.",
+   "There is no simple remedy for unemployment.",
+   "The contract provides a legal remedy for breach of terms."
+  ],
+  "translations": [
+   "علاج",
+   "حل"
+  ],
+  "relations": {
+   "synonyms": [
+    "cure",
+    "treatment",
+    "solution",
+    "fix",
+    "antidote"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "home remedy",
+    "legal remedy",
+    "herbal remedy",
+    "seek a remedy"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Ramada'.. تخيل إنك رايح فندق رمادا كـ 'Remedy' 'علاج' للاستجمام.",
+  "phonetic_us": "ˈɹɛmədi",
+  "phonetic_uk": "ˈremədɪ",
+  "syllables": "rem•e•dy",
+  "semantic_tags": [
+   "#Health",
+   "#Solution",
+   "#Law",
+   "#Fix"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A successful way of curing an illness or dealing with a problem.",
+  "explanation_ar": "علاج لمرض أو حل لمشكلة بتواجهك.",
+  "examples": [
+   "Tea with honey is a home remedy.",
+   "There is no simple remedy for unemployment.",
+   "The contract provides a legal remedy for breach of terms."
+  ],
+  "translations": {
+   "arabic_ar": "علاج حل"
+  },
+  "synonyms": [
+   "cure",
+   "treatment",
+   "solution",
+   "fix",
+   "antidote"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "home remedy",
+   "legal remedy",
+   "herbal remedy",
+   "seek a remedy"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Ramada'.. تخيل إنك رايح فندق رمادا كـ 'Remedy' 'علاج' للاستجمام."
+ }
+}

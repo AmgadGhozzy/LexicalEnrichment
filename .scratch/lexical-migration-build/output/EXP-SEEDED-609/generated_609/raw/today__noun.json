@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "today",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "today",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "This present day.",
+  "explanation_ar": "اليوم الحالي اللي إحنا عايشينه.",
+  "senses": [
+   {
+    "definition_en": "This present day.",
+    "explanation_ar": "اليوم الحالي اللي إحنا عايشينه.",
+    "examples": [
+     "Today is Monday.",
+     "Today is a holiday.",
+     "Today is my birthday."
+    ]
+   }
+  ],
+  "examples": [
+   "Today is Monday.",
+   "Today is a holiday.",
+   "Today is my birthday."
+  ],
+  "translations": [
+   "اليَوْم"
+  ],
+  "relations": {
+   "synonyms": [
+    "present",
+    "current time"
+   ],
+   "antonyms": [
+    "past",
+    "future"
+   ],
+   "collocations": [
+    "by today",
+    "until today",
+    "today's world"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "təˈdeɪ",
+  "phonetic_uk": "təˈdeɪ",
+  "syllables": "to•day",
+  "semantic_tags": [
+   "#Calendar",
+   "#Present",
+   "#Day"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "This present day.",
+  "explanation_ar": "اليوم الحالي اللي إحنا عايشينه.",
+  "examples": [
+   "Today is Monday.",
+   "Today is a holiday.",
+   "Today is my birthday."
+  ],
+  "translations": {
+   "arabic_ar": "اليَوْم"
+  },
+  "synonyms": [
+   "present",
+   "current time"
+  ],
+  "antonyms": [
+   "past",
+   "future"
+  ],
+  "collocations": [
+   "by today",
+   "until today",
+   "today's world"
+  ],
+  "mnemonic_ar": null
+ }
+}

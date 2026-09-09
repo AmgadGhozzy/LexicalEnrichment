@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "sweep",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "sweep",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To clean a floor or surface using a brush or broom; to move quickly, smoothly, or forcefully over or through an area.",
+  "explanation_ar": "ينظف الأرضية بالمكنسة، أو يتحرك بسرعة وقوة ويجتاح ما في طريقه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To clean an area using a brush or broom.",
+    "definition_ar": "يكنس أو ينظف بالمكنسة"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To move quickly, forcefully, or smoothly across an area.",
+    "definition_ar": "يكتسح أو يجتاح بسرعة وقوة"
+   }
+  ],
+  "examples": [
+   "I sweep the floor every day.",
+   "Heavy floodwaters could sweep away everything in their path.",
+   "The team hopes to sweep to victory in the championship finals."
+  ],
+  "translations": [
+   "يكنس",
+   "يكتسح",
+   "يجتاح"
+  ],
+  "relations": {
+   "synonyms": [
+    "brush",
+    "clean",
+    "rush",
+    "surge"
+   ],
+   "antonyms": [
+    "dirty",
+    "litter"
+   ],
+   "collocations": [
+    "sweep the floor",
+    "sweep away",
+    "sweep under the rug",
+    "sweep to victory"
+   ]
+  },
+  "mnemonic": "تخيل 'Sweet'.. عشان تخلي البيت 'Sweet' ونضيف لازم تعمل له 'Sweep' وتكنسه.",
+  "phonetic_us": "swiːp",
+  "phonetic_uk": "swiːp",
+  "syllables": "sweep",
+  "semantic_tags": [
+   "Clean",
+   "Move",
+   "Action"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To clean a floor or surface using a brush or broom; to move quickly, smoothly, or forcefully over or through an area.",
+  "explanation_ar": "ينظف الأرضية بالمكنسة، أو يتحرك بسرعة وقوة ويجتاح ما في طريقه.",
+  "examples": [
+   "I sweep the floor every day.",
+   "Heavy floodwaters could sweep away everything in their path.",
+   "The team hopes to sweep to victory in the championship finals."
+  ],
+  "translations": {
+   "arabic_ar": "يكنس يكتسح يجتاح"
+  },
+  "synonyms": [
+   "brush",
+   "clean",
+   "rush",
+   "surge"
+  ],
+  "antonyms": [
+   "dirty",
+   "litter"
+  ],
+  "collocations": [
+   "sweep the floor",
+   "sweep away",
+   "sweep under the rug",
+   "sweep to victory"
+  ],
+  "mnemonic_ar": "تخيل 'Sweet'.. عشان تخلي البيت 'Sweet' ونضيف لازم تعمل له 'Sweep' وتكنسه."
+ }
+}

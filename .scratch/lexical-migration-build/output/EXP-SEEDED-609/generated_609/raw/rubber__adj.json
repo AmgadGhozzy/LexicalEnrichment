@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "rubber",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "rubber",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Made of or resembling rubber.",
+  "explanation_ar": "مصنوع من المطاط أو شبيه به في المرونة.",
+  "senses": [
+   {
+    "definition_en": "Made of or resembling rubber.",
+    "explanation_ar": "مصنوع من المطاط أو شبيه به في المرونة.",
+    "examples": [
+     "He wears rubber boots.",
+     "Use rubber gloves to protect your hands.",
+     "This device utilizes a rubber seal to prevent leakage."
+    ]
+   }
+  ],
+  "examples": [
+   "He wears rubber boots.",
+   "Use rubber gloves to protect your hands.",
+   "This device utilizes a rubber seal to prevent leakage."
+  ],
+  "translations": [
+   "مطاطي",
+   "مصنوع من المطاط"
+  ],
+  "relations": {
+   "synonyms": [
+    "elastic",
+    "rubbery",
+    "resilient"
+   ],
+   "antonyms": [
+    "rigid",
+    "hard",
+    "metallic"
+   ],
+   "collocations": [
+    "rubber gloves",
+    "rubber boots",
+    "rubber band",
+    "rubber seal"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈrʌbər",
+  "phonetic_uk": "ˈrʌbə",
+  "syllables": "rub•ber",
+  "semantic_tags": [
+   "Material",
+   "Elastic",
+   "Waterproof"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Made of or resembling rubber.",
+  "explanation_ar": "مصنوع من المطاط أو شبيه به في المرونة.",
+  "examples": [
+   "He wears rubber boots.",
+   "Use rubber gloves to protect your hands.",
+   "This device utilizes a rubber seal to prevent leakage."
+  ],
+  "translations": {
+   "arabic_ar": "مطاطي مصنوع من المطاط"
+  },
+  "synonyms": [
+   "elastic",
+   "rubbery",
+   "resilient"
+  ],
+  "antonyms": [
+   "rigid",
+   "hard",
+   "metallic"
+  ],
+  "collocations": [
+   "rubber gloves",
+   "rubber boots",
+   "rubber band",
+   "rubber seal"
+  ],
+  "mnemonic_ar": null
+ }
+}

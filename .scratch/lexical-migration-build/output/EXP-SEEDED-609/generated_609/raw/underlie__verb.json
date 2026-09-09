@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "underlie",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "underlie",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Be a significant cause or basis of something, even if not obvious.",
+  "explanation_ar": "يكون السبب الأساسي أو القاعدة اللي مبني عليها حاجة تانية، حتى لو مش باين.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Be a significant cause or basis of something, even if not obvious.",
+    "explanation_ar": "يكون السبب الأساسي أو القاعدة التي يستند إليها شيء ما.",
+    "examples": [
+     "Fear seemed to underlie his anger.",
+     "Several key principles underlie this new law.",
+     "We must examine the assumptions that underlie this economic theory."
+    ]
+   }
+  ],
+  "examples": [
+   "Fear seemed to underlie his anger.",
+   "Several key principles underlie this new law.",
+   "We must examine the assumptions that underlie this economic theory."
+  ],
+  "translations": [
+   "يَكْمُن وراء",
+   "يشكّل أساساً لـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "underpin",
+    "support"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "underlie the theory",
+    "underlie the problem",
+    "principles that underlie"
+   ]
+  },
+  "mnemonic": "'Under' تحت + 'Lie' يرقد.. يعني الحاجة اللي نايمة تحت الأساس وشايلاه.",
+  "phonetic_us": "ˌʌndərˈlaɪ",
+  "phonetic_uk": "ˌʌndəˈlaɪ",
+  "syllables": "un•der•lie",
+  "semantic_tags": [
+   "#Cause",
+   "#Foundation",
+   "#Theory"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Be a significant cause or basis of something, even if not obvious.",
+  "explanation_ar": "يكون السبب الأساسي أو القاعدة اللي مبني عليها حاجة تانية، حتى لو مش باين.",
+  "examples": [
+   "Fear seemed to underlie his anger.",
+   "Several key principles underlie this new law.",
+   "We must examine the assumptions that underlie this economic theory."
+  ],
+  "translations": {
+   "arabic_ar": "يَكْمُن وراء يشكّل أساساً لـ"
+  },
+  "synonyms": [
+   "underpin",
+   "support"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "underlie the theory",
+   "underlie the problem",
+   "principles that underlie"
+  ],
+  "mnemonic_ar": "'Under' تحت + 'Lie' يرقد.. يعني الحاجة اللي نايمة تحت الأساس وشايلاه."
+ }
+}

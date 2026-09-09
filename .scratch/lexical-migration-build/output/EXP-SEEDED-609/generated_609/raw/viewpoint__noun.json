@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "viewpoint",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "viewpoint",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A position from which something is observed or considered; a point of view.",
+  "explanation_ar": "وجهة نظر.. الطريقة اللي بتشوف بيها الأمور أو المكان اللي بتبص منه.",
+  "senses": [
+   {
+    "definition_en": "A position from which something is observed or considered; a point of view.",
+    "definition_ar": "وجهة نظر أو زاوية رؤية للأمور",
+    "examples": [
+     "From my viewpoint, it was a mistake.",
+     "We need to consider the customer's viewpoint.",
+     "The novel is written from the viewpoint of a child."
+    ]
+   }
+  ],
+  "examples": [
+   "From my viewpoint, it was a mistake.",
+   "We need to consider the customer's viewpoint.",
+   "The novel is written from the viewpoint of a child."
+  ],
+  "translations": [
+   "وجهة نظر"
+  ],
+  "relations": {
+   "synonyms": [
+    "perspective",
+    "standpoint",
+    "opinion"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "from a viewpoint",
+    "different viewpoint",
+    "opposing viewpoint"
+   ]
+  },
+  "mnemonic": "'View' 'منظر' + 'Point' 'نقطة'.. النقطة اللي بتشوف منها الموضوع.",
+  "phonetic_us": "ˈvjuːˌpɔɪnt",
+  "phonetic_uk": "ˈvjuːpɔɪnt",
+  "syllables": "view•point",
+  "semantic_tags": [
+   "opinion",
+   "perspective",
+   "thinking"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A position from which something is observed or considered; a point of view.",
+  "explanation_ar": "وجهة نظر.. الطريقة اللي بتشوف بيها الأمور أو المكان اللي بتبص منه.",
+  "examples": [
+   "From my viewpoint, it was a mistake.",
+   "We need to consider the customer's viewpoint.",
+   "The novel is written from the viewpoint of a child."
+  ],
+  "translations": {
+   "arabic_ar": "وجهة نظر"
+  },
+  "synonyms": [
+   "perspective",
+   "standpoint",
+   "opinion"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "from a viewpoint",
+   "different viewpoint",
+   "opposing viewpoint"
+  ],
+  "mnemonic_ar": "'View' 'منظر' + 'Point' 'نقطة'.. النقطة اللي بتشوف منها الموضوع."
+ }
+}

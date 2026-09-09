@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "spit",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "spit",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Liquid produced in the mouth (saliva), or a long pointed rod used for roasting meat over an open fire.",
+  "explanation_ar": "السائل الذي يُفرز في الفم (اللعاب أو البُصاق)، أو سيخ معدني طويل يُستخدم لحمل اللحم وشيّه فوق النار.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Saliva, especially when ejected or produced in the mouth.",
+    "definition_ar": "اللُّعاب أو البُصاق.",
+    "examples": [
+     "He wiped the spit from his chin."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A long, slender metal rod used for holding and rotating meat over a fire.",
+    "definition_ar": "سيخ معدني طويل لشك اللحم وتدويره على النار أثناء الشواء.",
+    "examples": [
+     "They roasted a whole lamb on a turning spit."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "A long, narrow strip of land projecting into a body of water.",
+    "definition_ar": "لسان أرضي أو رملي يمتد داخل البحر أو البحيرة.",
+    "examples": [
+     "The narrow spit of land extended into the sea."
+    ]
+   }
+  ],
+  "examples": [
+   "He wiped the spit from his chin.",
+   "They roasted a whole lamb on a turning spit.",
+   "The narrow spit of land extended into the sea."
+  ],
+  "translations": [
+   "بُصاق",
+   "لُعاب",
+   "سيخ شواء",
+   "لسان أرضي"
+  ],
+  "relations": {
+   "synonyms": [
+    "saliva",
+    "spittle",
+    "skewer",
+    "rotisserie"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "roasting spit",
+    "spit of land"
+   ]
+  },
+  "mnemonic": "كلمة 'Spit' فيها شبه من صوت البصق 'تف'.. أو افتكر إن الـ 'Spit' 'السيخ' بيعمل 'Split' 'بيشق' اللحمة نصين.",
+  "phonetic_us": "/spɪt/",
+  "phonetic_uk": "/spɪt/",
+  "syllables": [
+   "spit"
+  ],
+  "semantic_tags": [
+   "Body Fluid",
+   "Cooking",
+   "Geography"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Liquid produced in the mouth (saliva), or a long pointed rod used for roasting meat over an open fire.",
+  "explanation_ar": "السائل الذي يُفرز في الفم (اللعاب أو البُصاق)، أو سيخ معدني طويل يُستخدم لحمل اللحم وشيّه فوق النار.",
+  "examples": [
+   "He wiped the spit from his chin.",
+   "They roasted a whole lamb on a turning spit.",
+   "The narrow spit of land extended into the sea."
+  ],
+  "translations": {
+   "arabic_ar": "بُصاق لُعاب سيخ شواء لسان أرضي"
+  },
+  "synonyms": [
+   "saliva",
+   "spittle",
+   "skewer",
+   "rotisserie"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "roasting spit",
+   "spit of land"
+  ],
+  "mnemonic_ar": "كلمة 'Spit' فيها شبه من صوت البصق 'تف'.. أو افتكر إن الـ 'Spit' 'السيخ' بيعمل 'Split' 'بيشق' اللحمة نصين."
+ }
+}

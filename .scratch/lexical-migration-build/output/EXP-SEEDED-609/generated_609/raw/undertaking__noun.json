@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "undertaking",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "undertaking",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A formal pledge or promise to do something, or a task, venture, or project, especially one that is large, complex, or difficult.",
+  "explanation_ar": "تعهد رسمي بالقيام بأمر ما، أو مهمة كبيرة ومشروع ضخم يتطلب وقتاً وجهداً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A formal promise or pledge to do something.",
+    "explanation_ar": "تعهد أو التزام رسمي بعمل شيء محدد.",
+    "examples": [
+     "He gave an undertaking to pay the money back.",
+     "The court required a written undertaking from the defendant."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A task, project, or enterprise, especially one that is large or difficult.",
+    "explanation_ar": "مهمة أو مشروع كبير وشاق يتطلب جهداً كبيراً.",
+    "examples": [
+     "Moving house is a big undertaking."
+    ]
+   }
+  ],
+  "examples": [
+   "Moving house is a big undertaking.",
+   "He gave an undertaking to pay the money back.",
+   "The court required a written undertaking from the defendant."
+  ],
+  "translations": [
+   "تعهد",
+   "مشروع",
+   "مهمة"
+  ],
+  "relations": {
+   "synonyms": [
+    "enterprise",
+    "venture",
+    "project",
+    "pledge",
+    "commitment"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "give an undertaking",
+    "massive undertaking",
+    "joint undertaking",
+    "serious undertaking"
+   ]
+  },
+  "mnemonic": "جاية من 'Undertake' بمعنى 'يتولى'.. كأنك بتأخذ شيئاً 'under' (تحت) مسؤوليتك لتلتزم به أو تنفذه.",
+  "phonetic_us": "ˈʌn.dɚˌteɪ.kɪŋ",
+  "phonetic_uk": "ˌʌn.dəˈteɪ.kɪŋ",
+  "syllables": "un•der•tak•ing",
+  "semantic_tags": [
+   "Promise",
+   "Business",
+   "Project",
+   "Law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A formal pledge or promise to do something, or a task, venture, or project, especially one that is large, complex, or difficult.",
+  "explanation_ar": "تعهد رسمي بالقيام بأمر ما، أو مهمة كبيرة ومشروع ضخم يتطلب وقتاً وجهداً.",
+  "examples": [
+   "Moving house is a big undertaking.",
+   "He gave an undertaking to pay the money back.",
+   "The court required a written undertaking from the defendant."
+  ],
+  "translations": {
+   "arabic_ar": "تعهد مشروع مهمة"
+  },
+  "synonyms": [
+   "enterprise",
+   "venture",
+   "project",
+   "pledge",
+   "commitment"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "give an undertaking",
+   "massive undertaking",
+   "joint undertaking",
+   "serious undertaking"
+  ],
+  "mnemonic_ar": "جاية من 'Undertake' بمعنى 'يتولى'.. كأنك بتأخذ شيئاً 'under' (تحت) مسؤوليتك لتلتزم به أو تنفذه."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "ride",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "ride",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To sit on and control the movement of an animal or vehicle.",
+  "explanation_ar": "يركب ويسوق حاجة زي العجلة أو الحصان أو الموتوسيكل.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To sit on and control a bicycle, motorcycle, or animal.",
+    "definition_ar": "يركب ويقود دراجة أو حصاناً أو ما شابه.",
+    "examples": [
+     "I can ride a bike.",
+     "You can ride a horse at the farm."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To travel as a passenger in a vehicle such as a bus or train.",
+    "definition_ar": "يركب وسيلة مواصلات كراكب.",
+    "examples": [
+     "Many students ride the bus to school every day."
+    ]
+   }
+  ],
+  "examples": [
+   "I can ride a bike.",
+   "You can ride a horse at the farm.",
+   "Many students ride the bus to school every day."
+  ],
+  "translations": [
+   "يركب"
+  ],
+  "relations": {
+   "synonyms": [
+    "mount"
+   ],
+   "antonyms": [
+    "walk"
+   ],
+   "collocations": [
+    "ride a bike",
+    "ride a horse",
+    "ride the bus"
+   ]
+  },
+  "mnemonic": "زي الاسم.. 'Ride' يعني يركب على الطريق 'Road'.",
+  "phonetic_us": "raɪd",
+  "phonetic_uk": "raɪd",
+  "syllables": [
+   "ride"
+  ],
+  "semantic_tags": [
+   "#Transport",
+   "#Action",
+   "#Sport"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To sit on and control the movement of an animal or vehicle.",
+  "explanation_ar": "يركب ويسوق حاجة زي العجلة أو الحصان أو الموتوسيكل.",
+  "examples": [
+   "I can ride a bike.",
+   "You can ride a horse at the farm.",
+   "Many students ride the bus to school every day."
+  ],
+  "translations": {
+   "arabic_ar": "يركب"
+  },
+  "synonyms": [
+   "mount"
+  ],
+  "antonyms": [
+   "walk"
+  ],
+  "collocations": [
+   "ride a bike",
+   "ride a horse",
+   "ride the bus"
+  ],
+  "mnemonic_ar": "زي الاسم.. 'Ride' يعني يركب على الطريق 'Road'."
+ }
+}

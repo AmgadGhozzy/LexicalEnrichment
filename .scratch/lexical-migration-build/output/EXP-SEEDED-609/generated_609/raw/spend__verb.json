@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "spend",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "spend",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To give money to pay for goods, services, or to pass time.",
+  "explanation_ar": "تصرف فلوس عشان تشتري حاجة، أو تقضي وقت في مكان معين.",
+  "senses": [
+   {
+    "definition_en": "To give money to pay for goods or services.",
+    "definition_ar": "أن تدفع مالاً لشراء سلع أو خدمات.",
+    "examples": [
+     "I spend money on food.",
+     "The government will spend more on education this year."
+    ]
+   },
+   {
+    "definition_en": "To pass time in a particular way or place.",
+    "definition_ar": "أن تقضي وقتاً بطريقة معينة أو في مكان معين.",
+    "examples": [
+     "They spend their free time reading books."
+    ]
+   }
+  ],
+  "examples": [
+   "I spend money on food.",
+   "They spend their free time reading books.",
+   "The government will spend more on education this year."
+  ],
+  "translations": [
+   "ينفق",
+   "يقضي"
+  ],
+  "relations": {
+   "synonyms": [
+    "pay",
+    "expend",
+    "pass"
+   ],
+   "antonyms": [
+    "save",
+    "earn"
+   ],
+   "collocations": [
+    "spend money",
+    "spend time",
+    "spend a fortune",
+    "spend the night"
+   ]
+  },
+  "mnemonic": "لما تشتري حاجة 'Expensive' غالية.. لازم تعمل 'Spend' وتدفع فلوس.",
+  "phonetic_us": "spɛnd",
+  "phonetic_uk": "spend",
+  "syllables": "spend",
+  "semantic_tags": [
+   "#Money",
+   "#Time",
+   "#Cost"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To give money to pay for goods, services, or to pass time.",
+  "explanation_ar": "تصرف فلوس عشان تشتري حاجة، أو تقضي وقت في مكان معين.",
+  "examples": [
+   "I spend money on food.",
+   "They spend their free time reading books.",
+   "The government will spend more on education this year."
+  ],
+  "translations": {
+   "arabic_ar": "ينفق يقضي"
+  },
+  "synonyms": [
+   "pay",
+   "expend",
+   "pass"
+  ],
+  "antonyms": [
+   "save",
+   "earn"
+  ],
+  "collocations": [
+   "spend money",
+   "spend time",
+   "spend a fortune",
+   "spend the night"
+  ],
+  "mnemonic_ar": "لما تشتري حاجة 'Expensive' غالية.. لازم تعمل 'Spend' وتدفع فلوس."
+ }
+}

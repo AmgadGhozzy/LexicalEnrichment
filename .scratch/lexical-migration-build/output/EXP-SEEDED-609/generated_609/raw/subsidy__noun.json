@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "subsidy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "subsidy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Money given by a government or organization to keep prices low or help a business.",
+  "explanation_ar": "فلوس الحكومة بتدفعها عشان تدعم سلعة معينة 'زي العيش والبنزين' وتخلي سعرها رخيص للناس.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Money given by a government or organization to keep prices low or help a business.",
+    "definition_ar": "دعم مالي أو إعانة تقدمها جهة حكومية أو رسمية لخفض الأسعار أو دعم قطاع معين.",
+    "examples": [
+     "The housing subsidy helps poor families.",
+     "They removed the subsidy on fuel.",
+     "Critics argue that the subsidy distorts market prices."
+    ]
+   }
+  ],
+  "examples": [
+   "The housing subsidy helps poor families.",
+   "They removed the subsidy on fuel.",
+   "Critics argue that the subsidy distorts market prices."
+  ],
+  "translations": [
+   "دعم",
+   "إعانة مالية",
+   "معونة"
+  ],
+  "relations": {
+   "synonyms": [
+    "grant",
+    "allowance",
+    "aid",
+    "funding"
+   ],
+   "antonyms": [
+    "tax"
+   ],
+   "collocations": [
+    "government subsidy",
+    "agricultural subsidy",
+    "subsidy cuts"
+   ]
+  },
+  "mnemonic": "كلمة 'Sub' يعني 'فرعي' أو 'تحت'.. الـ 'Subsidy' دي مساعدة مالية بتسند السعر من 'تحت' عشان ميعلاش.",
+  "phonetic_us": "ˈsʌbsədi",
+  "phonetic_uk": "ˈsʌbsɪdi",
+  "syllables": "sub•si•dy",
+  "semantic_tags": [
+   "Money",
+   "Government",
+   "Economy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Money given by a government or organization to keep prices low or help a business.",
+  "explanation_ar": "فلوس الحكومة بتدفعها عشان تدعم سلعة معينة 'زي العيش والبنزين' وتخلي سعرها رخيص للناس.",
+  "examples": [
+   "The housing subsidy helps poor families.",
+   "They removed the subsidy on fuel.",
+   "Critics argue that the subsidy distorts market prices."
+  ],
+  "translations": {
+   "arabic_ar": "دعم إعانة مالية معونة"
+  },
+  "synonyms": [
+   "grant",
+   "allowance",
+   "aid",
+   "funding"
+  ],
+  "antonyms": [
+   "tax"
+  ],
+  "collocations": [
+   "government subsidy",
+   "agricultural subsidy",
+   "subsidy cuts"
+  ],
+  "mnemonic_ar": "كلمة 'Sub' يعني 'فرعي' أو 'تحت'.. الـ 'Subsidy' دي مساعدة مالية بتسند السعر من 'تحت' عشان ميعلاش."
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "spool",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "spool",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound.",
+  "explanation_ar": "البكرة أو الأسطوانة الصغيرة اللي بنلف عليها الخيط أو السلك أو شريط الفيلم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound.",
+    "definition_ar": "بكرة يُلف حولها الخيط أو السلك أو الشريط.",
+    "examples": [
+     "I need a spool of thread.",
+     "He wound the wire onto a plastic spool.",
+     "The mechanism relies on a motorized spool to retract the cable."
+    ]
+   }
+  ],
+  "examples": [
+   "I need a spool of thread.",
+   "He wound the wire onto a plastic spool.",
+   "The mechanism relies on a motorized spool to retract the cable."
+  ],
+  "translations": [
+   "بكرة",
+   "ملف خيوط"
+  ],
+  "relations": {
+   "synonyms": [
+    "reel",
+    "bobbin"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "spool of thread",
+    "film spool",
+    "wire spool"
+   ]
+  },
+  "mnemonic": "ممكن نربطها بكلمة 'Spin' 'يلف' و 'Wool' 'صوف'.. بنلف الصوف على الـ 'Spool'.",
+  "phonetic_us": "spuːl",
+  "phonetic_uk": "spuːl",
+  "syllables": [
+   "spool"
+  ],
+  "semantic_tags": [
+   "Sewing",
+   "Tools",
+   "Objects",
+   "Storage"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound.",
+  "explanation_ar": "البكرة أو الأسطوانة الصغيرة اللي بنلف عليها الخيط أو السلك أو شريط الفيلم.",
+  "examples": [
+   "I need a spool of thread.",
+   "He wound the wire onto a plastic spool.",
+   "The mechanism relies on a motorized spool to retract the cable."
+  ],
+  "translations": {
+   "arabic_ar": "بكرة ملف خيوط"
+  },
+  "synonyms": [
+   "reel",
+   "bobbin"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "spool of thread",
+   "film spool",
+   "wire spool"
+  ],
+  "mnemonic_ar": "ممكن نربطها بكلمة 'Spin' 'يلف' و 'Wool' 'صوف'.. بنلف الصوف على الـ 'Spool'."
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "steel",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "steel",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Made of or resembling the strong metal alloy; metaphorically, showing great strength or determination.",
+  "explanation_ar": "صفة بتوصف أي حاجة معمولة من الفولاذ، أو أي شخص قوي وصلب زي الحديد وما بينكسرش.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Made of steel.",
+    "definition_ar": "مصنوع من الفولاذ أو متعلق به",
+    "pos": "adj"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Showing great strength, firmness, or unyielding resolve.",
+    "definition_ar": "شديد الصلابة أو العزيمة",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "The bridge is supported by steel beams.",
+   "We need a steel knife to cut this.",
+   "The building was reinforced with a massive steel frame."
+  ],
+  "translations": [
+   "فولاذي",
+   "صلب"
+  ],
+  "relations": {
+   "synonyms": [
+    "hard",
+    "strong",
+    "tough",
+    "iron"
+   ],
+   "antonyms": [
+    "weak",
+    "soft",
+    "flexible"
+   ],
+   "collocations": [
+    "steel frame",
+    "steel beams",
+    "steel industry",
+    "steel door"
+   ]
+  },
+  "mnemonic": "كلمة 'Steel' قريبة في النطق من 'Still' يعني لسه أو ثابت.. خليك 'Steel' قوي وثابت مهما حصل.",
+  "phonetic_us": "stiːl",
+  "phonetic_uk": "stiːl",
+  "syllables": [
+   "steel"
+  ],
+  "semantic_tags": [
+   "Metal",
+   "Material",
+   "Strength",
+   "Construction"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Made of or resembling the strong metal alloy; metaphorically, showing great strength or determination.",
+  "explanation_ar": "صفة بتوصف أي حاجة معمولة من الفولاذ، أو أي شخص قوي وصلب زي الحديد وما بينكسرش.",
+  "examples": [
+   "The bridge is supported by steel beams.",
+   "We need a steel knife to cut this.",
+   "The building was reinforced with a massive steel frame."
+  ],
+  "translations": {
+   "arabic_ar": "فولاذي صلب"
+  },
+  "synonyms": [
+   "hard",
+   "strong",
+   "tough",
+   "iron"
+  ],
+  "antonyms": [
+   "weak",
+   "soft",
+   "flexible"
+  ],
+  "collocations": [
+   "steel frame",
+   "steel beams",
+   "steel industry",
+   "steel door"
+  ],
+  "mnemonic_ar": "كلمة 'Steel' قريبة في النطق من 'Still' يعني لسه أو ثابت.. خليك 'Steel' قوي وثابت مهما حصل."
+ }
+}

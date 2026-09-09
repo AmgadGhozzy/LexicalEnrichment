@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "shoot",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "shoot",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To kill or wound with a bullet; to film or photograph; to move suddenly.",
+  "explanation_ar": "تضرب نار بمسدس، أو تصور فيديو أو صور بكاميرا.",
+  "senses": [
+   {
+    "definition_en": "To fire a bullet or weapon at someone or something.",
+    "definition_ar": "يطلق النار أو الرصاص من سلاح على شخص أو شيء.",
+    "pos": "verb"
+   },
+   {
+    "definition_en": "To make a film or take photographs.",
+    "definition_ar": "يصور فيلماً أو مقطع فيديو أو يلتقط صوراً بكاميرا.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The soldier learned to shoot accurately.",
+   "They will shoot the movie in Paris.",
+   "Don't shoot!"
+  ],
+  "translations": [
+   "يطلق النار",
+   "يصور"
+  ],
+  "relations": {
+   "synonyms": [
+    "fire",
+    "film",
+    "snap"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "shoot a film",
+    "shoot a gun",
+    "shoot down"
+   ]
+  },
+  "mnemonic": "المخرج قال 'Shoot' عشان يبدأ التصوير.",
+  "phonetic_us": "ʃuːt",
+  "phonetic_uk": "ʃuːt",
+  "syllables": "shoot",
+  "semantic_tags": [
+   "#Gun",
+   "#Camera",
+   "#Sport"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To kill or wound with a bullet; to film or photograph; to move suddenly.",
+  "explanation_ar": "تضرب نار بمسدس، أو تصور فيديو أو صور بكاميرا.",
+  "examples": [
+   "The soldier learned to shoot accurately.",
+   "They will shoot the movie in Paris.",
+   "Don't shoot!"
+  ],
+  "translations": {
+   "arabic_ar": "يطلق النار يصور"
+  },
+  "synonyms": [
+   "fire",
+   "film",
+   "snap"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "shoot a film",
+   "shoot a gun",
+   "shoot down"
+  ],
+  "mnemonic_ar": "المخرج قال 'Shoot' عشان يبدأ التصوير."
+ }
+}

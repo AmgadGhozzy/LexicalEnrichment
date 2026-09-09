@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "voucher",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "voucher",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A printed piece of paper or electronic code that entitles the holder to a discount, goods, or services.",
+  "explanation_ar": "قسيمة أو إيصال (ورقي أو إلكتروني) يمنح حامله الحق في خصم أو شراء بضائع وخدمات مجانية أو مخفضة.",
+  "senses": [
+   {
+    "definition_en": "A printed piece of paper or electronic code that entitles the holder to a discount, goods, or services.",
+    "definition_ar": "قسيمة تمنح حاملها الحق في خصم أو بضائع أو خدمات.",
+    "examples": [
+     "I received a gift voucher for my birthday.",
+     "This voucher is valid for three months.",
+     "You can redeem the voucher at any participating store."
+    ]
+   }
+  ],
+  "examples": [
+   "I received a gift voucher for my birthday.",
+   "This voucher is valid for three months.",
+   "You can redeem the voucher at any participating store."
+  ],
+  "translations": [
+   "قسيمة",
+   "كوبون"
+  ],
+  "relations": {
+   "synonyms": [
+    "coupon",
+    "token"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "gift voucher",
+    "discount voucher",
+    "travel voucher",
+    "redeem a voucher"
+   ]
+  },
+  "mnemonic": "كلمة 'Voucher' مشتقة من 'vouch' أي يضمن؛ فالقسيمة تضمن لك حق الحصول على البضاعة أو الخصم.",
+  "phonetic_us": "ˈvaʊtʃɚ",
+  "phonetic_uk": "ˈvaʊtʃə",
+  "syllables": "vouch•er",
+  "semantic_tags": [
+   "Shopping",
+   "Money",
+   "Commerce"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A printed piece of paper or electronic code that entitles the holder to a discount, goods, or services.",
+  "explanation_ar": "قسيمة أو إيصال (ورقي أو إلكتروني) يمنح حامله الحق في خصم أو شراء بضائع وخدمات مجانية أو مخفضة.",
+  "examples": [
+   "I received a gift voucher for my birthday.",
+   "This voucher is valid for three months.",
+   "You can redeem the voucher at any participating store."
+  ],
+  "translations": {
+   "arabic_ar": "قسيمة كوبون"
+  },
+  "synonyms": [
+   "coupon",
+   "token"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "gift voucher",
+   "discount voucher",
+   "travel voucher",
+   "redeem a voucher"
+  ],
+  "mnemonic_ar": "كلمة 'Voucher' مشتقة من 'vouch' أي يضمن؛ فالقسيمة تضمن لك حق الحصول على البضاعة أو الخصم."
+ }
+}

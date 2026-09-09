@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "understand",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "understand",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To know the meaning of something or how it works.",
+  "explanation_ar": "إنك تفهم الكلام أو تفهم الموضوع ماشي ازاي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To know the meaning of something or how it works.",
+    "explanation_ar": "أن تعرف معنى الشيء أو تستوعب كيف يعمل."
+   }
+  ],
+  "examples": [
+   "Do you understand English?",
+   "I did not understand the question.",
+   "I fully understand your concerns."
+  ],
+  "translations": [
+   "يفهم",
+   "يستوعب"
+  ],
+  "relations": {
+   "synonyms": [
+    "comprehend",
+    "grasp"
+   ],
+   "antonyms": [
+    "misunderstand"
+   ],
+   "collocations": [
+    "fully understand",
+    "understand correctly",
+    "hard to understand"
+   ]
+  },
+  "mnemonic": "كلمة 'Stand' يعني يقف.. و 'Under' يعني تحت.. لما 'Understand' الموضوع كأنك واقف تحته وشايف أساسه كويس.",
+  "phonetic_us": "ˌʌndərˈstænd",
+  "phonetic_uk": "ˌʌndəˈstænd",
+  "syllables": "un•der•stand",
+  "semantic_tags": [
+   "#Knowledge",
+   "#Mental",
+   "#Think"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To know the meaning of something or how it works.",
+  "explanation_ar": "إنك تفهم الكلام أو تفهم الموضوع ماشي ازاي.",
+  "examples": [
+   "Do you understand English?",
+   "I did not understand the question.",
+   "I fully understand your concerns."
+  ],
+  "translations": {
+   "arabic_ar": "يفهم يستوعب"
+  },
+  "synonyms": [
+   "comprehend",
+   "grasp"
+  ],
+  "antonyms": [
+   "misunderstand"
+  ],
+  "collocations": [
+   "fully understand",
+   "understand correctly",
+   "hard to understand"
+  ],
+  "mnemonic_ar": "كلمة 'Stand' يعني يقف.. و 'Under' يعني تحت.. لما 'Understand' الموضوع كأنك واقف تحته وشايف أساسه كويس."
+ }
+}
