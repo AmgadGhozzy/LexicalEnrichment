@@ -1,0 +1,1364 @@
+{
+ "units": [
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 0,
+   "levelId": "A1",
+   "oxfordCount": 77,
+   "rowCount": 77,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 0,
+   "levelId": "A1",
+   "oxfordCount": 66,
+   "rowCount": 67,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 0,
+   "levelId": "A1",
+   "oxfordCount": 65,
+   "rowCount": 66,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 3,
+   "levelId": "A1",
+   "oxfordCount": 63,
+   "rowCount": 63,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_04",
+   "unitOrder": 4
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 2,
+   "levelId": "A1",
+   "oxfordCount": 60,
+   "rowCount": 60,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_05",
+   "unitOrder": 5
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 3,
+   "levelId": "A1",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_06",
+   "unitOrder": 6
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 3,
+   "levelId": "A1",
+   "oxfordCount": 57,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_07",
+   "unitOrder": 7
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 7,
+   "levelId": "A1",
+   "oxfordCount": 53,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_08",
+   "unitOrder": 8
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 4,
+   "levelId": "A1",
+   "oxfordCount": 58,
+   "rowCount": 58,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_09",
+   "unitOrder": 9
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 5,
+   "levelId": "A1",
+   "oxfordCount": 56,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_10",
+   "unitOrder": 10
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 3,
+   "levelId": "A1",
+   "oxfordCount": 51,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_11",
+   "unitOrder": 11
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 5,
+   "levelId": "A1",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_12",
+   "unitOrder": 12
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 6,
+   "levelId": "A1",
+   "oxfordCount": 55,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_13",
+   "unitOrder": 13
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 4,
+   "levelId": "A1",
+   "oxfordCount": 55,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_14",
+   "unitOrder": 14
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 4,
+   "levelId": "A1",
+   "oxfordCount": 52,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_15",
+   "unitOrder": 15
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 2,
+   "levelId": "A1",
+   "oxfordCount": 49,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_16",
+   "unitOrder": 16
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 4,
+   "levelId": "A1",
+   "oxfordCount": 50,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_17",
+   "unitOrder": 17
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 1,
+   "levelId": "A1",
+   "oxfordCount": 45,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A1_18",
+   "unitOrder": 18
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 1,
+   "levelId": "A2",
+   "oxfordCount": 61,
+   "rowCount": 62,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "A2",
+   "oxfordCount": 61,
+   "rowCount": 61,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 4,
+   "levelId": "A2",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "A2",
+   "oxfordCount": 57,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_04",
+   "unitOrder": 4
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 9,
+   "levelId": "A2",
+   "oxfordCount": 51,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_05",
+   "unitOrder": 5
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 7,
+   "levelId": "A2",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_06",
+   "unitOrder": 6
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 7,
+   "levelId": "A2",
+   "oxfordCount": 51,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_07",
+   "unitOrder": 7
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 5,
+   "levelId": "A2",
+   "oxfordCount": 56,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_08",
+   "unitOrder": 8
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 9,
+   "levelId": "A2",
+   "oxfordCount": 52,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_09",
+   "unitOrder": 9
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 10,
+   "levelId": "A2",
+   "oxfordCount": 56,
+   "rowCount": 56,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_10",
+   "unitOrder": 10
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 8,
+   "levelId": "A2",
+   "oxfordCount": 50,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_11",
+   "unitOrder": 11
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 5,
+   "levelId": "A2",
+   "oxfordCount": 50,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_12",
+   "unitOrder": 12
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 5,
+   "levelId": "A2",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_13",
+   "unitOrder": 13
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 4,
+   "levelId": "A2",
+   "oxfordCount": 46,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_14",
+   "unitOrder": 14
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 6,
+   "levelId": "A2",
+   "oxfordCount": 49,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_15",
+   "unitOrder": 15
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 2,
+   "levelId": "A2",
+   "oxfordCount": 48,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_16",
+   "unitOrder": 16
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 2,
+   "levelId": "A2",
+   "oxfordCount": 43,
+   "rowCount": 48,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_17",
+   "unitOrder": 17
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 5,
+   "levelId": "A2",
+   "oxfordCount": 33,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_18",
+   "unitOrder": 18
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 4,
+   "levelId": "A2",
+   "oxfordCount": 20,
+   "rowCount": 48,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "A2_19",
+   "unitOrder": 19
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 6,
+   "levelId": "B1",
+   "oxfordCount": 53,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "B1",
+   "oxfordCount": 55,
+   "rowCount": 56,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 7,
+   "levelId": "B1",
+   "oxfordCount": 59,
+   "rowCount": 59,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 7,
+   "levelId": "B1",
+   "oxfordCount": 53,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_04",
+   "unitOrder": 4
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 13,
+   "levelId": "B1",
+   "oxfordCount": 54,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_05",
+   "unitOrder": 5
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 4,
+   "levelId": "B1",
+   "oxfordCount": 55,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_06",
+   "unitOrder": 6
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 11,
+   "levelId": "B1",
+   "oxfordCount": 51,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_07",
+   "unitOrder": 7
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 8,
+   "levelId": "B1",
+   "oxfordCount": 54,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_08",
+   "unitOrder": 8
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "B1",
+   "oxfordCount": 50,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_09",
+   "unitOrder": 9
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "B1",
+   "oxfordCount": 49,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_10",
+   "unitOrder": 10
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 5,
+   "levelId": "B1",
+   "oxfordCount": 52,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_11",
+   "unitOrder": 11
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 9,
+   "levelId": "B1",
+   "oxfordCount": 46,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_12",
+   "unitOrder": 12
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 6,
+   "levelId": "B1",
+   "oxfordCount": 47,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_13",
+   "unitOrder": 13
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 5,
+   "levelId": "B1",
+   "oxfordCount": 41,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_14",
+   "unitOrder": 14
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 4,
+   "levelId": "B1",
+   "oxfordCount": 37,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_15",
+   "unitOrder": 15
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 4,
+   "levelId": "B1",
+   "oxfordCount": 33,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_16",
+   "unitOrder": 16
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 10,
+   "levelId": "B1",
+   "oxfordCount": 35,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_17",
+   "unitOrder": 17
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 4,
+   "levelId": "B1",
+   "oxfordCount": 18,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_18",
+   "unitOrder": 18
+  },
+  {
+   "distinctLemmaCount": 48,
+   "ieltsCount": 2,
+   "levelId": "B1",
+   "oxfordCount": 12,
+   "rowCount": 48,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_19",
+   "unitOrder": 19
+  },
+  {
+   "distinctLemmaCount": 47,
+   "ieltsCount": 4,
+   "levelId": "B1",
+   "oxfordCount": 12,
+   "rowCount": 47,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B1_20",
+   "unitOrder": 20
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 45,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 49,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "B2",
+   "oxfordCount": 58,
+   "rowCount": 59,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 10,
+   "levelId": "B2",
+   "oxfordCount": 56,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_04",
+   "unitOrder": 4
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 58,
+   "rowCount": 59,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_05",
+   "unitOrder": 5
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 11,
+   "levelId": "B2",
+   "oxfordCount": 58,
+   "rowCount": 61,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_06",
+   "unitOrder": 6
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 8,
+   "levelId": "B2",
+   "oxfordCount": 54,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_07",
+   "unitOrder": 7
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 54,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_08",
+   "unitOrder": 8
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "B2",
+   "oxfordCount": 54,
+   "rowCount": 56,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_09",
+   "unitOrder": 9
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 51,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_10",
+   "unitOrder": 10
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 59,
+   "rowCount": 60,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_11",
+   "unitOrder": 11
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 8,
+   "levelId": "B2",
+   "oxfordCount": 60,
+   "rowCount": 61,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_12",
+   "unitOrder": 12
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 11,
+   "levelId": "B2",
+   "oxfordCount": 57,
+   "rowCount": 58,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_13",
+   "unitOrder": 13
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 50,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_14",
+   "unitOrder": 14
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 49,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_15",
+   "unitOrder": 15
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 47,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_16",
+   "unitOrder": 16
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 10,
+   "levelId": "B2",
+   "oxfordCount": 47,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_17",
+   "unitOrder": 17
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 9,
+   "levelId": "B2",
+   "oxfordCount": 45,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_18",
+   "unitOrder": 18
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 10,
+   "levelId": "B2",
+   "oxfordCount": 47,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_19",
+   "unitOrder": 19
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 12,
+   "levelId": "B2",
+   "oxfordCount": 53,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_20",
+   "unitOrder": 20
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 11,
+   "levelId": "B2",
+   "oxfordCount": 52,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_21",
+   "unitOrder": 21
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 39,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_22",
+   "unitOrder": 22
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 3,
+   "levelId": "B2",
+   "oxfordCount": 42,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_23",
+   "unitOrder": 23
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 8,
+   "levelId": "B2",
+   "oxfordCount": 49,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_24",
+   "unitOrder": 24
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 39,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_25",
+   "unitOrder": 25
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 38,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_26",
+   "unitOrder": 26
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 41,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_27",
+   "unitOrder": 27
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 25,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_28",
+   "unitOrder": 28
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "B2",
+   "oxfordCount": 32,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_29",
+   "unitOrder": 29
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 25,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_30",
+   "unitOrder": 30
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 3,
+   "levelId": "B2",
+   "oxfordCount": 27,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_31",
+   "unitOrder": 31
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 17,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_32",
+   "unitOrder": 32
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 20,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_33",
+   "unitOrder": 33
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "B2",
+   "oxfordCount": 20,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_34",
+   "unitOrder": 34
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "B2",
+   "oxfordCount": 15,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_35",
+   "unitOrder": 35
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "B2",
+   "oxfordCount": 16,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_36",
+   "unitOrder": 36
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "B2",
+   "oxfordCount": 8,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_37",
+   "unitOrder": 37
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 2,
+   "levelId": "B2",
+   "oxfordCount": 7,
+   "rowCount": 49,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "B2_38",
+   "unitOrder": 38
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 52,
+   "rowCount": 58,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "C1",
+   "oxfordCount": 53,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 55,
+   "rowCount": 60,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 57,
+   "rowCount": 58,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_04",
+   "unitOrder": 4
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "C1",
+   "oxfordCount": 53,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_05",
+   "unitOrder": 5
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "C1",
+   "oxfordCount": 53,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_06",
+   "unitOrder": 6
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "C1",
+   "oxfordCount": 56,
+   "rowCount": 59,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_07",
+   "unitOrder": 7
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_08",
+   "unitOrder": 8
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 49,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_09",
+   "unitOrder": 9
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 51,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_10",
+   "unitOrder": 10
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 0,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_11",
+   "unitOrder": 11
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 54,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_12",
+   "unitOrder": 12
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 44,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_13",
+   "unitOrder": 13
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_14",
+   "unitOrder": 14
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_15",
+   "unitOrder": 15
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "C1",
+   "oxfordCount": 45,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_16",
+   "unitOrder": 16
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 50,
+   "rowCount": 57,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_17",
+   "unitOrder": 17
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 40,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_18",
+   "unitOrder": 18
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "C1",
+   "oxfordCount": 39,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_19",
+   "unitOrder": 19
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "C1",
+   "oxfordCount": 42,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_20",
+   "unitOrder": 20
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "C1",
+   "oxfordCount": 37,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_21",
+   "unitOrder": 21
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 5,
+   "levelId": "C1",
+   "oxfordCount": 33,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_22",
+   "unitOrder": 22
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 38,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_23",
+   "unitOrder": 23
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "C1",
+   "oxfordCount": 35,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_24",
+   "unitOrder": 24
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 32,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_25",
+   "unitOrder": 25
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 35,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_26",
+   "unitOrder": 26
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 26,
+   "rowCount": 52,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_27",
+   "unitOrder": 27
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 24,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_28",
+   "unitOrder": 28
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 7,
+   "levelId": "C1",
+   "oxfordCount": 27,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_29",
+   "unitOrder": 29
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 32,
+   "rowCount": 55,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_30",
+   "unitOrder": 30
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 6,
+   "levelId": "C1",
+   "oxfordCount": 23,
+   "rowCount": 51,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_31",
+   "unitOrder": 31
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 3,
+   "levelId": "C1",
+   "oxfordCount": 22,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_32",
+   "unitOrder": 32
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 20,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_33",
+   "unitOrder": 33
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 24,
+   "rowCount": 53,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_34",
+   "unitOrder": 34
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 1,
+   "levelId": "C1",
+   "oxfordCount": 20,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_35",
+   "unitOrder": 35
+  },
+  {
+   "distinctLemmaCount": 50,
+   "ieltsCount": 4,
+   "levelId": "C1",
+   "oxfordCount": 12,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_36",
+   "unitOrder": 36
+  },
+  {
+   "distinctLemmaCount": 49,
+   "ieltsCount": 2,
+   "levelId": "C1",
+   "oxfordCount": 12,
+   "rowCount": 50,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C1_37",
+   "unitOrder": 37
+  },
+  {
+   "distinctLemmaCount": 46,
+   "ieltsCount": 1,
+   "levelId": "C2",
+   "oxfordCount": 0,
+   "rowCount": 46,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C2_01",
+   "unitOrder": 1
+  },
+  {
+   "distinctLemmaCount": 45,
+   "ieltsCount": 1,
+   "levelId": "C2",
+   "oxfordCount": 0,
+   "rowCount": 45,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C2_02",
+   "unitOrder": 2
+  },
+  {
+   "distinctLemmaCount": 46,
+   "ieltsCount": 2,
+   "levelId": "C2",
+   "oxfordCount": 0,
+   "rowCount": 46,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C2_03",
+   "unitOrder": 3
+  },
+  {
+   "distinctLemmaCount": 45,
+   "ieltsCount": 1,
+   "levelId": "C2",
+   "oxfordCount": 0,
+   "rowCount": 45,
+   "totalWords_semantics": "canonical units.totalWords counts DISTINCT LEMMAS per unit (legacy name retained in canonical; use distinctLemmaCount here)",
+   "unitId": "C2_04",
+   "unitOrder": 4
+  }
+ ]
+}
