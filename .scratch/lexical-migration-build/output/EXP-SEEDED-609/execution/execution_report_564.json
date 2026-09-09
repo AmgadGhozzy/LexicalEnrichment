@@ -1,0 +1,30 @@
+{
+ "outcome": "COMMITTED",
+ "cells": 564,
+ "audit_rows": 564,
+ "pre_hash": "9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa",
+ "post_hash": "29850877a0e238d1d2959574d6f4ea95f2607f7110804c752eff739951328c9e",
+ "backup": "/home/aamgadghozzy/projects/LexicalEnrichment/WordsMaster_backup_20260909T164125Z.db",
+ "manifest_sha": "63cfac0ae6315c0c8cdb87e91f242893df43c8d6b6bd6b573717ad8110a94e6e",
+ "checks": {
+  "promotions": 564,
+  "expected": 564,
+  "count_ok": true,
+  "columns": [
+   "antonyms",
+   "examples",
+   "synonyms"
+  ],
+  "columns_allowed": true,
+  "exception_ids_in_scope": [],
+  "exceptions_excluded": true,
+  "rows": 7300,
+  "pre_logical": "9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa",
+  "value_before_drift": 0,
+  "candidate_hash_mismatch": 0,
+  "noop_leak": 0,
+  "governance_note": "Ticket 20 governance decision 2026-09-09 (corrected 564): AUTHORIZED — 564 VERIFIED PROMOTIONS ONLY. This wave only.",
+  "checklist_pass": true
+ },
+ "governance": "Ticket 20 governance decision 2026-09-09 (corrected 564): AUTHORIZED — 564 VERIFIED PROMOTIONS ONLY. This wave only."
+}

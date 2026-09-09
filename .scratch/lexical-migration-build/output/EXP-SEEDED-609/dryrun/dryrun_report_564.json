@@ -1,0 +1,10 @@
+{
+ "mode": "dry-run",
+ "applied": 564,
+ "changed_cells": 564,
+ "expected": 564,
+ "diff_exact": true,
+ "pre_hash": "9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa",
+ "rollback_equal": true,
+ "sandbox": "/home/aamgadghozzy/projects/LexicalEnrichment/.scratch/lexical-migration-build/output/EXP-SEEDED-609/dryrun/wordsMaster_dryrun_20260909T164120Z.db"
+}
