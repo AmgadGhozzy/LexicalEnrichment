@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "acceptable",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "acceptable",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Able to be agreed on; suitable; satisfactory.",
+  "explanation_ar": "مقبول أو مُرضي. حاجة مش لازم تكون ممتازة بس كويسة وتمشي الحال.",
+  "senses": [
+   {
+    "definition_en": "Able to be agreed on; suitable; satisfactory.",
+    "definition_ar": "مقبول أو مُرضٍ ومناسب للاعتماد أو الموافقة عليه.",
+    "examples": [
+     "We need to find a solution that is acceptable to everyone.",
+     "Her work is acceptable but not great.",
+     "The noise levels were barely acceptable."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to find a solution that is acceptable to everyone.",
+   "Her work is acceptable but not great.",
+   "The noise levels were barely acceptable."
+  ],
+  "translations": [
+   "مقبول"
+  ],
+  "relations": {
+   "synonyms": [
+    "satisfactory",
+    "suitable",
+    "adequate",
+    "tolerable",
+    "reasonable"
+   ],
+   "antonyms": [
+    "unacceptable",
+    "intolerable",
+    "unsatisfactory"
+   ],
+   "collocations": [
+    "acceptable behavior",
+    "acceptable level",
+    "socially acceptable",
+    "acceptable standard"
+   ]
+  },
+  "mnemonic": "جاية من 'Accept' 'يقبل'.. لو قبلت الحاجة، تبقى 'Acceptable' 'مقبولة'.",
+  "phonetic_us": "əkˈseptəbəl",
+  "phonetic_uk": "əkˈseptəbl",
+  "syllables": "ac•cept•able",
+  "semantic_tags": [
+   "#Quality",
+   "#Opinion",
+   "#Standard",
+   "#Agreement"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Able to be agreed on; suitable; satisfactory.",
+  "explanation_ar": "مقبول أو مُرضي. حاجة مش لازم تكون ممتازة بس كويسة وتمشي الحال.",
+  "examples": [
+   "We need to find a solution that is acceptable to everyone.",
+   "Her work is acceptable but not great.",
+   "The noise levels were barely acceptable."
+  ],
+  "translations": {
+   "arabic_ar": "مقبول"
+  },
+  "synonyms": [
+   "satisfactory",
+   "suitable",
+   "adequate",
+   "tolerable",
+   "reasonable"
+  ],
+  "antonyms": [
+   "unacceptable",
+   "intolerable",
+   "unsatisfactory"
+  ],
+  "collocations": [
+   "acceptable behavior",
+   "acceptable level",
+   "socially acceptable",
+   "acceptable standard"
+  ],
+  "mnemonic_ar": "جاية من 'Accept' 'يقبل'.. لو قبلت الحاجة، تبقى 'Acceptable' 'مقبولة'."
+ }
+}

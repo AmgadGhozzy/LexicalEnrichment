@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "empirical",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "empirical",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Based on observation or experience rather than theory or logic.",
+  "explanation_ar": "تجريبي، يعني معتمد على التجربة والملاحظة الواقعية مش مجرد نظريات على الورق.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Based on observation or experience rather than theory or logic.",
+    "explanation_ar": "معتمد على الملاحظة والتجربة العملية وليس على النظريات أو الافتراضات."
+   }
+  ],
+  "examples": [
+   "There is no empirical evidence to support this claim.",
+   "His theory is supported by empirical research.",
+   "The researchers gathered empirical data from several clinical trials."
+  ],
+  "translations": [
+   "تجريبي"
+  ],
+  "relations": {
+   "synonyms": [
+    "experimental",
+    "observed",
+    "factual"
+   ],
+   "antonyms": [
+    "theoretical",
+    "hypothetical"
+   ],
+   "collocations": [
+    "empirical evidence",
+    "empirical study",
+    "empirical data",
+    "empirical research"
+   ]
+  },
+  "mnemonic": "شبه 'Empire'.. الإمبراطورية بتتبني على واقع وقوة 'Empirical' مش مجرد كلام نظري.",
+  "phonetic_us": "ɪmˈpɪrɪkl",
+  "phonetic_uk": "ɪmˈpɪrɪkl",
+  "syllables": "em•pir•i•cal",
+  "semantic_tags": [
+   "#Science",
+   "#Evidence",
+   "#Research",
+   "#Facts"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Based on observation or experience rather than theory or logic.",
+  "explanation_ar": "تجريبي، يعني معتمد على التجربة والملاحظة الواقعية مش مجرد نظريات على الورق.",
+  "examples": [
+   "There is no empirical evidence to support this claim.",
+   "His theory is supported by empirical research.",
+   "The researchers gathered empirical data from several clinical trials."
+  ],
+  "translations": {
+   "arabic_ar": "تجريبي"
+  },
+  "synonyms": [
+   "experimental",
+   "observed",
+   "factual"
+  ],
+  "antonyms": [
+   "theoretical",
+   "hypothetical"
+  ],
+  "collocations": [
+   "empirical evidence",
+   "empirical study",
+   "empirical data",
+   "empirical research"
+  ],
+  "mnemonic_ar": "شبه 'Empire'.. الإمبراطورية بتتبني على واقع وقوة 'Empirical' مش مجرد كلام نظري."
+ }
+}

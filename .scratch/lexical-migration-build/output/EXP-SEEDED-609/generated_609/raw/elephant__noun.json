@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "elephant",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "elephant",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A very large grey mammal with a long trunk, large ears, and two tusks.",
+  "explanation_ar": "أضخم حيوان يعيش على الأرض، لونه رمادي وله خرطوم طويل وأذنان كبيرتان ونابان عاجيان.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A very large grey mammal with a long trunk, large ears, and two tusks.",
+    "definition_ar": "حيوان ثديي ضخم جداً رمادي اللون، يتميز بخرطومه الطويل وأذنيه الكبيرتين ونابين من العاج.",
+    "examples": [
+     "The elephant is big.",
+     "We saw a baby elephant at the zoo.",
+     "The African elephant is larger than the Asian one."
+    ]
+   }
+  ],
+  "examples": [
+   "The elephant is big.",
+   "We saw a baby elephant at the zoo.",
+   "The African elephant is larger than the Asian one."
+  ],
+  "translations": [
+   "فيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "pachyderm"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "African elephant",
+    "elephant trunk",
+    "white elephant"
+   ]
+  },
+  "mnemonic": "كلمة 'Elephant' أولها 'Ele'.. شبه 'عالي'.. هو حيوان عالي وضخم.",
+  "phonetic_us": "ˈelɪfənt",
+  "phonetic_uk": "ˈelɪfənt",
+  "syllables": "el•e•phant",
+  "semantic_tags": [
+   "#animals",
+   "#mammals",
+   "#nature",
+   "#zoo"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A very large grey mammal with a long trunk, large ears, and two tusks.",
+  "explanation_ar": "أضخم حيوان يعيش على الأرض، لونه رمادي وله خرطوم طويل وأذنان كبيرتان ونابان عاجيان.",
+  "examples": [
+   "The elephant is big.",
+   "We saw a baby elephant at the zoo.",
+   "The African elephant is larger than the Asian one."
+  ],
+  "translations": {
+   "arabic_ar": "فيل"
+  },
+  "synonyms": [
+   "pachyderm"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "African elephant",
+   "elephant trunk",
+   "white elephant"
+  ],
+  "mnemonic_ar": "كلمة 'Elephant' أولها 'Ele'.. شبه 'عالي'.. هو حيوان عالي وضخم."
+ }
+}

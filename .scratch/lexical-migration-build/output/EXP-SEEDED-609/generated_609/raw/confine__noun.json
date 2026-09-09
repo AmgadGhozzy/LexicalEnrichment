@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "confine",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "confine",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The borders or boundaries of a place (usually plural 'confines').",
+  "explanation_ar": "حدود أو نطاق مكان معين (غالباً بتيجي جمع Confines).",
+  "senses": [
+   {
+    "definition_en": "The borders or boundaries of a place (usually plural 'confines').",
+    "explanation_ar": "حدود أو نطاق مكان معين (غالباً بتيجي جمع Confines).",
+    "examples": [
+     "The prisoner paced within the narrow confine of his cell.",
+     "He struggled against the rigid confine of social expectations.",
+     "The author felt restricted by the strict confine of the genre."
+    ]
+   }
+  ],
+  "examples": [
+   "The prisoner paced within the narrow confine of his cell.",
+   "He struggled against the rigid confine of social expectations.",
+   "The author felt restricted by the strict confine of the genre."
+  ],
+  "translations": [
+   "حدود",
+   "نطاق"
+  ],
+  "relations": {
+   "synonyms": [
+    "boundary",
+    "limit",
+    "border"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "within the confines",
+    "narrow confines",
+    "confines of the law"
+   ]
+  },
+  "mnemonic": "جاية من 'Fine' 'نهاية' 'زي في الإيطالي'.. الـ 'Confines' هي النهايات أو الحدود بتاعة المكان.",
+  "phonetic_us": "ˈkɑnfaɪn",
+  "phonetic_uk": "ˈkɒnfaɪn",
+  "syllables": "con•fine",
+  "semantic_tags": [
+   "#Boundary",
+   "#Limit",
+   "#Space"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The borders or boundaries of a place (usually plural 'confines').",
+  "explanation_ar": "حدود أو نطاق مكان معين (غالباً بتيجي جمع Confines).",
+  "examples": [
+   "The prisoner paced within the narrow confine of his cell.",
+   "He struggled against the rigid confine of social expectations.",
+   "The author felt restricted by the strict confine of the genre."
+  ],
+  "translations": {
+   "arabic_ar": "حدود نطاق"
+  },
+  "synonyms": [
+   "boundary",
+   "limit",
+   "border"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "within the confines",
+   "narrow confines",
+   "confines of the law"
+  ],
+  "mnemonic_ar": "جاية من 'Fine' 'نهاية' 'زي في الإيطالي'.. الـ 'Confines' هي النهايات أو الحدود بتاعة المكان."
+ }
+}

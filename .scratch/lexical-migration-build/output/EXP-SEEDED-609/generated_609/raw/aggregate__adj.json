@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "aggregate",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "aggregate",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Formed by the combination of many separate units; total.",
+  "explanation_ar": "إجمالي أو كلي.. الناتج عن تجميع حاجات كتير مع بعض.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Formed by the combination of many separate units; total.",
+    "definition_ar": "إجمالي أو كلي ناتج عن جمع عدة عناصر منفصلة.",
+    "examples": [
+     "We analyzed the aggregate data from all branches.",
+     "The aggregate demand in the economy is rising.",
+     "The study examines the aggregate effect of these policies on the environment."
+    ]
+   }
+  ],
+  "examples": [
+   "We analyzed the aggregate data from all branches.",
+   "The aggregate demand in the economy is rising.",
+   "The study examines the aggregate effect of these policies on the environment."
+  ],
+  "translations": [
+   "إجمالي",
+   "كلي"
+  ],
+  "relations": {
+   "synonyms": [
+    "total",
+    "combined",
+    "cumulative",
+    "collective"
+   ],
+   "antonyms": [
+    "individual",
+    "separate",
+    "particular"
+   ],
+   "collocations": [
+    "aggregate demand",
+    "aggregate supply",
+    "aggregate data",
+    "aggregate amount"
+   ]
+  },
+  "mnemonic": "قريبة من 'Agree' 'يوافق'.. لما الأرقام تتفق وتتجمع مع بعض بتعمل 'Aggregate'.",
+  "phonetic_us": "ˈæɡrɪɡət",
+  "phonetic_uk": "ˈæɡrɪɡət",
+  "syllables": "ag-gre-gate",
+  "semantic_tags": [
+   "#Total",
+   "#Sum",
+   "#Economics"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Formed by the combination of many separate units; total.",
+  "explanation_ar": "إجمالي أو كلي.. الناتج عن تجميع حاجات كتير مع بعض.",
+  "examples": [
+   "We analyzed the aggregate data from all branches.",
+   "The aggregate demand in the economy is rising.",
+   "The study examines the aggregate effect of these policies on the environment."
+  ],
+  "translations": {
+   "arabic_ar": "إجمالي كلي"
+  },
+  "synonyms": [
+   "total",
+   "combined",
+   "cumulative",
+   "collective"
+  ],
+  "antonyms": [
+   "individual",
+   "separate",
+   "particular"
+  ],
+  "collocations": [
+   "aggregate demand",
+   "aggregate supply",
+   "aggregate data",
+   "aggregate amount"
+  ],
+  "mnemonic_ar": "قريبة من 'Agree' 'يوافق'.. لما الأرقام تتفق وتتجمع مع بعض بتعمل 'Aggregate'."
+ }
+}

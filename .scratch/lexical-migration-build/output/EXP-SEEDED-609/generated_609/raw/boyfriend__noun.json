@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "boyfriend",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "boyfriend",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A regular male companion with whom one has a romantic or sexual relationship.",
+  "explanation_ar": "الصديق أو الحبيب اللي البنت مرتبطة بيه عاطفياً.",
+  "senses": [
+   {
+    "sense_id": "boyfriend-noun-1",
+    "definition_en": "A regular male companion with whom one has a romantic or sexual relationship.",
+    "definition_ar": "الصديق أو الحبيب في علاقة عاطفية.",
+    "examples": [
+     "He is my boyfriend.",
+     "I introduced my boyfriend to my parents.",
+     "She broke up with her boyfriend yesterday."
+    ]
+   }
+  ],
+  "examples": [
+   "He is my boyfriend.",
+   "I introduced my boyfriend to my parents.",
+   "She broke up with her boyfriend yesterday."
+  ],
+  "translations": [
+   "حبيب",
+   "صديق (في علاقة عاطفية)"
+  ],
+  "relations": {
+   "synonyms": [
+    "partner"
+   ],
+   "antonyms": [
+    "girlfriend"
+   ],
+   "collocations": [
+    "new boyfriend",
+    "ex-boyfriend",
+    "steady boyfriend"
+   ]
+  },
+  "mnemonic": "'Boy' 'ولد' + 'Friend' 'صديق'.. يعني صديق ولد 'حبيب'.",
+  "phonetic_us": "ˈbɔɪ.frend",
+  "phonetic_uk": "ˈbɔɪ.frend",
+  "syllables": "boy-friend",
+  "semantic_tags": [
+   "#Love",
+   "#Relationship",
+   "#Partner",
+   "#Romance"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A regular male companion with whom one has a romantic or sexual relationship.",
+  "explanation_ar": "الصديق أو الحبيب اللي البنت مرتبطة بيه عاطفياً.",
+  "examples": [
+   "He is my boyfriend.",
+   "I introduced my boyfriend to my parents.",
+   "She broke up with her boyfriend yesterday."
+  ],
+  "translations": {
+   "arabic_ar": "حبيب صديق (في علاقة عاطفية)"
+  },
+  "synonyms": [
+   "partner"
+  ],
+  "antonyms": [
+   "girlfriend"
+  ],
+  "collocations": [
+   "new boyfriend",
+   "ex-boyfriend",
+   "steady boyfriend"
+  ],
+  "mnemonic_ar": "'Boy' 'ولد' + 'Friend' 'صديق'.. يعني صديق ولد 'حبيب'."
+ }
+}

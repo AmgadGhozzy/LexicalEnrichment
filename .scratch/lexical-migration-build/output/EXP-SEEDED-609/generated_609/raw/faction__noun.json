@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "faction",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "faction",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A small organized dissenting group within a larger one, especially in politics.",
+  "explanation_ar": "مجموعة صغيرة أو 'فصيل' جوه حزب أو مجموعة أكبر، وغالباً بيكون ليهم رأي مختلف عن الباقيين.",
+  "senses": [
+   {
+    "definition_en": "A small organized dissenting group within a larger one, especially in politics.",
+    "definition_ar": "فصيل أو جماعة منشقة ذات توجه خاص داخل هيئة أو حزب سياسي أكبر.",
+    "examples": [
+     "A radical faction within the party voted against the proposed tax reform.",
+     "The committee was dominated by an influential faction that opposed any leadership changes.",
+     "A rival faction inside the organization attempted to block the merger."
+    ]
+   }
+  ],
+  "examples": [
+   "A radical faction within the party voted against the proposed tax reform.",
+   "The committee was dominated by an influential faction that opposed any leadership changes.",
+   "A rival faction inside the organization attempted to block the merger."
+  ],
+  "translations": [
+   "فصيل",
+   "جناح",
+   "كتلة"
+  ],
+  "relations": {
+   "synonyms": [
+    "clique",
+    "sect",
+    "camp",
+    "bloc",
+    "wing"
+   ],
+   "antonyms": [
+    "unity"
+   ],
+   "collocations": [
+    "political faction",
+    "rival faction",
+    "breakaway faction",
+    "warring factions"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Fraction' (جزء).. فالـ 'Faction' هو جزء أو فصيل منشق عن مجموعة أكبر.",
+  "phonetic_us": "ˈfækʃən",
+  "phonetic_uk": "ˈfækʃn",
+  "syllables": "fac•tion",
+  "semantic_tags": [
+   "Politics",
+   "Conflict",
+   "Social Groups"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A small organized dissenting group within a larger one, especially in politics.",
+  "explanation_ar": "مجموعة صغيرة أو 'فصيل' جوه حزب أو مجموعة أكبر، وغالباً بيكون ليهم رأي مختلف عن الباقيين.",
+  "examples": [
+   "A radical faction within the party voted against the proposed tax reform.",
+   "The committee was dominated by an influential faction that opposed any leadership changes.",
+   "A rival faction inside the organization attempted to block the merger."
+  ],
+  "translations": {
+   "arabic_ar": "فصيل جناح كتلة"
+  },
+  "synonyms": [
+   "clique",
+   "sect",
+   "camp",
+   "bloc",
+   "wing"
+  ],
+  "antonyms": [
+   "unity"
+  ],
+  "collocations": [
+   "political faction",
+   "rival faction",
+   "breakaway faction",
+   "warring factions"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Fraction' (جزء).. فالـ 'Faction' هو جزء أو فصيل منشق عن مجموعة أكبر."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "append",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "append",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To add something as an attachment or supplement.",
+  "explanation_ar": "تضيف حاجة في آخر حاجة تانية، زي لما ترفق ملف مع إيميل أو تضيف ملاحظة في آخر الكتاب.",
+  "senses": [
+   {
+    "definition_en": "To add something as an attachment or supplement, especially to the end of a document or data set.",
+    "definition_ar": "يُلحق أو يُضيف شيئاً في النهاية (مثل توقيع أو حاشية أو بيانات)",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "Please append your signature here.",
+   "The lawyer asked to append a new clause to the contract.",
+   "The software allows you to append new records to the database."
+  ],
+  "translations": [
+   "يُلحق",
+   "يُرفق",
+   "يُضيف إلى النهاية"
+  ],
+  "relations": {
+   "synonyms": [
+    "add",
+    "attach",
+    "affix",
+    "supplement"
+   ],
+   "antonyms": [
+    "remove",
+    "subtract",
+    "detach",
+    "delete"
+   ],
+   "collocations": [
+    "append a signature",
+    "append a file",
+    "append to the end",
+    "append a note"
+   ]
+  },
+  "mnemonic": "قريبة من 'Appendix' 'الزائدة الدودية أو الملحق'.. الـ 'Append' هو فعل الإضافة أو الإلحاق.",
+  "phonetic_us": "əˈpend",
+  "phonetic_uk": "əˈpend",
+  "syllables": "ap•pend",
+  "semantic_tags": [
+   "Writing",
+   "Computing",
+   "Addition"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To add something as an attachment or supplement.",
+  "explanation_ar": "تضيف حاجة في آخر حاجة تانية، زي لما ترفق ملف مع إيميل أو تضيف ملاحظة في آخر الكتاب.",
+  "examples": [
+   "Please append your signature here.",
+   "The lawyer asked to append a new clause to the contract.",
+   "The software allows you to append new records to the database."
+  ],
+  "translations": {
+   "arabic_ar": "يُلحق يُرفق يُضيف إلى النهاية"
+  },
+  "synonyms": [
+   "add",
+   "attach",
+   "affix",
+   "supplement"
+  ],
+  "antonyms": [
+   "remove",
+   "subtract",
+   "detach",
+   "delete"
+  ],
+  "collocations": [
+   "append a signature",
+   "append a file",
+   "append to the end",
+   "append a note"
+  ],
+  "mnemonic_ar": "قريبة من 'Appendix' 'الزائدة الدودية أو الملحق'.. الـ 'Append' هو فعل الإضافة أو الإلحاق."
+ }
+}

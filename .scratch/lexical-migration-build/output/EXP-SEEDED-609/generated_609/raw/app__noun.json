@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "app",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "app",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A software application, especially for a mobile device.",
+  "explanation_ar": "برنامج صغير بتنزله على موبايلك أو الكمبيوتر عشان تعمل بيه حاجة معينة، زي 'Whatsapp' أو 'Uber'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A software application, especially for a mobile device.",
+    "explanation_ar": "برنامج تطبيقي صُمم ليعمل على الهواتف الذكية أو الحواسيب لأداء وظيفة محددة.",
+    "examples": [
+     "Download the app to your phone.",
+     "This app helps you learn languages.",
+     "The app crashed and I lost my data."
+    ]
+   }
+  ],
+  "examples": [
+   "Download the app to your phone.",
+   "This app helps you learn languages.",
+   "The app crashed and I lost my data."
+  ],
+  "translations": [
+   "تطبيق",
+   "برنامج"
+  ],
+  "relations": {
+   "synonyms": [
+    "application",
+    "program"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "download an app",
+    "mobile app",
+    "app store"
+   ]
+  },
+  "mnemonic": "هي اختصار لكلمة 'Application'.. وأول حروفها 'App' زي 'Apple'.. تخيل إنك بتنزل 'App' من على 'Apple' ستور.",
+  "phonetic_us": "/æp/",
+  "phonetic_uk": "/æp/",
+  "syllables": "app",
+  "semantic_tags": [
+   "software",
+   "mobile",
+   "technology",
+   "phone"
+  ],
+  "ai_confidence": 0.99
+ },
+ "arm": {
+  "definition_en": "A software application, especially for a mobile device.",
+  "explanation_ar": "برنامج صغير بتنزله على موبايلك أو الكمبيوتر عشان تعمل بيه حاجة معينة، زي 'Whatsapp' أو 'Uber'.",
+  "examples": [
+   "Download the app to your phone.",
+   "This app helps you learn languages.",
+   "The app crashed and I lost my data."
+  ],
+  "translations": {
+   "arabic_ar": "تطبيق برنامج"
+  },
+  "synonyms": [
+   "application",
+   "program"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "download an app",
+   "mobile app",
+   "app store"
+  ],
+  "mnemonic_ar": "هي اختصار لكلمة 'Application'.. وأول حروفها 'App' زي 'Apple'.. تخيل إنك بتنزل 'App' من على 'Apple' ستور."
+ }
+}

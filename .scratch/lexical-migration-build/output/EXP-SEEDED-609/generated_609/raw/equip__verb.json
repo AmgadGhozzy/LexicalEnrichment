@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "equip",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "equip",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To provide someone or something with the tools, equipment, or skills needed for a particular purpose.",
+  "explanation_ar": "يجهز أو يزود: أن تمنح شخصاً أو مكاناً الأدوات أو المعدات أو المهارات الضرورية للقيام بمهمة معينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To provide a person or place with the physical tools and supplies needed.",
+    "explanation_ar": "يزود أو يجهز بالمعدات والأدوات المادية اللازمة."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To prepare someone with the skills, knowledge, or abilities needed for a task.",
+    "explanation_ar": "يؤهل أو يزود بالمهارات والمعرفة الضرورية."
+   }
+  ],
+  "examples": [
+   "We need to equip the kitchen with modern appliances before opening.",
+   "The course aims to equip students with essential skills for their future careers.",
+   "The organization raised funds to equip the local clinic with vital medical supplies."
+  ],
+  "translations": [
+   "يُجَهِّز",
+   "يُزَوِّد",
+   "يُعِدّ"
+  ],
+  "relations": {
+   "synonyms": [
+    "supply",
+    "provide",
+    "furnish",
+    "outfit"
+   ],
+   "antonyms": [
+    "strip",
+    "deprive"
+   ],
+   "collocations": [
+    "equip with",
+    "fully equip",
+    "properly equip",
+    "better equip"
+   ],
+   "word_family": {
+    "verb": "equip",
+    "noun": "equipment",
+    "adjective": "equipped"
+   }
+  },
+  "mnemonic": "جاية من 'Equipment' 'معدات'.. الفعل 'Equip' يعني تدي حد الـ 'Equipment'.",
+  "phonetic_us": "ɪˈkwɪp",
+  "phonetic_uk": "ɪˈkwɪp",
+  "syllables": "e-quip",
+  "semantic_tags": [
+   "#Tools",
+   "#Preparation",
+   "#Gear"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To provide someone or something with the tools, equipment, or skills needed for a particular purpose.",
+  "explanation_ar": "يجهز أو يزود: أن تمنح شخصاً أو مكاناً الأدوات أو المعدات أو المهارات الضرورية للقيام بمهمة معينة.",
+  "examples": [
+   "We need to equip the kitchen with modern appliances before opening.",
+   "The course aims to equip students with essential skills for their future careers.",
+   "The organization raised funds to equip the local clinic with vital medical supplies."
+  ],
+  "translations": {
+   "arabic_ar": "يُجَهِّز يُزَوِّد يُعِدّ"
+  },
+  "synonyms": [
+   "supply",
+   "provide",
+   "furnish",
+   "outfit"
+  ],
+  "antonyms": [
+   "strip",
+   "deprive"
+  ],
+  "collocations": [
+   "equip with",
+   "fully equip",
+   "properly equip",
+   "better equip"
+  ],
+  "mnemonic_ar": "جاية من 'Equipment' 'معدات'.. الفعل 'Equip' يعني تدي حد الـ 'Equipment'."
+ }
+}

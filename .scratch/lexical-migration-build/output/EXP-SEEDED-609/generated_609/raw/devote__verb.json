@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "devote",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "devote",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To give all or a large part of one's time or resources to a person, activity, or cause.",
+  "explanation_ar": "إنك تدي كل وقتك ومجهودك لحاجة معينة أو لشخص بتحبه، يعني تكرس حياتك ليه.",
+  "senses": [
+   {
+    "sense_id": "devote_verb_1",
+    "definition_en": "To give all or a large part of one's time or resources to a person, activity, or cause.",
+    "definition_ar": "يُكرّس وقته أو موارده لشخص أو نشاط أو قضية.",
+    "examples": [
+     "You should devote more time to your studies if you want to pass.",
+     "The committee decided to devote the entire budget to community healthcare.",
+     "Many scientists devote their lives to finding a cure for the disease."
+    ]
+   }
+  ],
+  "examples": [
+   "You should devote more time to your studies if you want to pass.",
+   "The committee decided to devote the entire budget to community healthcare.",
+   "Many scientists devote their lives to finding a cure for the disease."
+  ],
+  "translations": [
+   "يُكرّس",
+   "يُخصّص"
+  ],
+  "relations": {
+   "synonyms": [
+    "dedicate",
+    "commit",
+    "allot"
+   ],
+   "antonyms": [
+    "neglect",
+    "ignore"
+   ],
+   "collocations": [
+    "devote time",
+    "devote attention",
+    "devote resources",
+    "devote oneself to"
+   ]
+  },
+  "mnemonic": "قريبة من 'Vote' (تصويت).. كأنك بتدي صوتك وولائك كله للقضية دي.",
+  "phonetic_us": "dɪˈvoʊt",
+  "phonetic_uk": "dɪˈvəʊt",
+  "syllables": "de•vote",
+  "semantic_tags": [
+   "#Dedication",
+   "#Commitment",
+   "#Work",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To give all or a large part of one's time or resources to a person, activity, or cause.",
+  "explanation_ar": "إنك تدي كل وقتك ومجهودك لحاجة معينة أو لشخص بتحبه، يعني تكرس حياتك ليه.",
+  "examples": [
+   "You should devote more time to your studies if you want to pass.",
+   "The committee decided to devote the entire budget to community healthcare.",
+   "Many scientists devote their lives to finding a cure for the disease."
+  ],
+  "translations": {
+   "arabic_ar": "يُكرّس يُخصّص"
+  },
+  "synonyms": [
+   "dedicate",
+   "commit",
+   "allot"
+  ],
+  "antonyms": [
+   "neglect",
+   "ignore"
+  ],
+  "collocations": [
+   "devote time",
+   "devote attention",
+   "devote resources",
+   "devote oneself to"
+  ],
+  "mnemonic_ar": "قريبة من 'Vote' (تصويت).. كأنك بتدي صوتك وولائك كله للقضية دي."
+ }
+}

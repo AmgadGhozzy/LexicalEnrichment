@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "coin",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "coin",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A flat, round piece of metal used as money.",
+  "explanation_ar": "الفلوس الفكة المعدن، زي الجنيه المعدن.",
+  "senses": [
+   {
+    "definition_en": "A flat, round piece of metal used as money.",
+    "definition_ar": "عملة معدنية",
+    "examples": [
+     "He put a coin in the machine.",
+     "The flip of a coin decided the winner.",
+     "She tossed a coin into the fountain."
+    ]
+   }
+  ],
+  "examples": [
+   "He put a coin in the machine.",
+   "The flip of a coin decided the winner.",
+   "She tossed a coin into the fountain."
+  ],
+  "translations": [
+   "عملة معدنية"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [
+    "bill",
+    "banknote"
+   ],
+   "collocations": [
+    "flip a coin",
+    "toss a coin",
+    "gold coin",
+    "two sides of the same coin"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Corn'.. زمان كانوا بيشتروا الـ 'Corn' بـ 'Coin' واحدة",
+  "phonetic_us": "kɔɪn",
+  "phonetic_uk": "kɔɪn",
+  "syllables": "coin",
+  "semantic_tags": [
+   "money",
+   "currency",
+   "metal"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A flat, round piece of metal used as money.",
+  "explanation_ar": "الفلوس الفكة المعدن، زي الجنيه المعدن.",
+  "examples": [
+   "He put a coin in the machine.",
+   "The flip of a coin decided the winner.",
+   "She tossed a coin into the fountain."
+  ],
+  "translations": {
+   "arabic_ar": "عملة معدنية"
+  },
+  "synonyms": [],
+  "antonyms": [
+   "bill",
+   "banknote"
+  ],
+  "collocations": [
+   "flip a coin",
+   "toss a coin",
+   "gold coin",
+   "two sides of the same coin"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Corn'.. زمان كانوا بيشتروا الـ 'Corn' بـ 'Coin' واحدة"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "directive",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "directive",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An official instruction or order given by someone in authority.",
+  "explanation_ar": "أمر رسمي أو تعليمات بتيجي من جهة مسؤولة عشان تقول للناس يعملوا إيه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An official instruction or order given by someone in authority.",
+    "definition_ar": "أمر رسمي أو تعليمات صادرة عن جهة مسؤولة.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The manager sent a directive to all staff regarding the new policy.",
+   "The European Union issued a directive on environmental protection.",
+   "Failure to comply with the presidential directive resulted in severe sanctions."
+  ],
+  "translations": [
+   "توجيه",
+   "أمر إداري"
+  ],
+  "relations": {
+   "synonyms": [
+    "instruction",
+    "order",
+    "command",
+    "decree",
+    "mandate"
+   ],
+   "antonyms": [
+    "request",
+    "suggestion"
+   ],
+   "collocations": [
+    "issue a directive",
+    "comply with a directive",
+    "policy directive",
+    "EU directive"
+   ],
+   "word_family": {
+    "verb": "direct",
+    "noun": "directive",
+    "adjective": "direct",
+    "adverb": "directly"
+   }
+  },
+  "mnemonic": "جاية من 'Direct' يعني يوجه.. الـ 'Directive' هو التوجيه الرسمي اللي بيوصلك.",
+  "phonetic_us": "daɪˈɹɛktɪv",
+  "phonetic_uk": "dəˈɹɛktɪv",
+  "syllables": "di•rec•tive",
+  "semantic_tags": [
+   "#Management",
+   "#Law",
+   "#Government",
+   "#Rules"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An official instruction or order given by someone in authority.",
+  "explanation_ar": "أمر رسمي أو تعليمات بتيجي من جهة مسؤولة عشان تقول للناس يعملوا إيه.",
+  "examples": [
+   "The manager sent a directive to all staff regarding the new policy.",
+   "The European Union issued a directive on environmental protection.",
+   "Failure to comply with the presidential directive resulted in severe sanctions."
+  ],
+  "translations": {
+   "arabic_ar": "توجيه أمر إداري"
+  },
+  "synonyms": [
+   "instruction",
+   "order",
+   "command",
+   "decree",
+   "mandate"
+  ],
+  "antonyms": [
+   "request",
+   "suggestion"
+  ],
+  "collocations": [
+   "issue a directive",
+   "comply with a directive",
+   "policy directive",
+   "EU directive"
+  ],
+  "mnemonic_ar": "جاية من 'Direct' يعني يوجه.. الـ 'Directive' هو التوجيه الرسمي اللي بيوصلك."
+ }
+}

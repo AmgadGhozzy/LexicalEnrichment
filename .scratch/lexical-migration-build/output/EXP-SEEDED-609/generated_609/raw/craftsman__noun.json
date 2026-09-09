@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "craftsman",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "craftsman",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A worker skilled in a particular craft, especially one requiring manual dexterity.",
+  "explanation_ar": "الحرفي الماهر اللي بيشتغل بيده وعنده صنعة وموهبة خاصة، زي النجار أو الصايغ.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A worker skilled in a particular craft, especially one requiring manual dexterity.",
+    "explanation_ar": "الحرفي الماهر الذي يتقن عملاً أو صنعة يدوية خاصة.",
+    "examples": [
+     "The table was made by a skilled craftsman.",
+     "We need a craftsman to fix this antique chair.",
+     "A true craftsman takes great pride in the quality of each handmade piece."
+    ]
+   }
+  ],
+  "examples": [
+   "The table was made by a skilled craftsman.",
+   "We need a craftsman to fix this antique chair.",
+   "A true craftsman takes great pride in the quality of each handmade piece."
+  ],
+  "translations": [
+   "حرفي"
+  ],
+  "relations": {
+   "synonyms": [
+    "artisan",
+    "maker"
+   ],
+   "antonyms": [
+    "amateur",
+    "novice"
+   ],
+   "collocations": [
+    "skilled craftsman",
+    "master craftsman",
+    "local craftsman"
+   ]
+  },
+  "mnemonic": "كلمة 'Craft' يعني 'حرفة' و 'Man' يعني 'رجل'.. هو رجل الحرفة الشاطر.",
+  "phonetic_us": "ˈkræftsmən",
+  "phonetic_uk": "ˈkrɑːftsmən",
+  "syllables": "crafts•man",
+  "semantic_tags": [
+   "#Skill",
+   "#Art",
+   "#Work",
+   "#Handmade"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A worker skilled in a particular craft, especially one requiring manual dexterity.",
+  "explanation_ar": "الحرفي الماهر اللي بيشتغل بيده وعنده صنعة وموهبة خاصة، زي النجار أو الصايغ.",
+  "examples": [
+   "The table was made by a skilled craftsman.",
+   "We need a craftsman to fix this antique chair.",
+   "A true craftsman takes great pride in the quality of each handmade piece."
+  ],
+  "translations": {
+   "arabic_ar": "حرفي"
+  },
+  "synonyms": [
+   "artisan",
+   "maker"
+  ],
+  "antonyms": [
+   "amateur",
+   "novice"
+  ],
+  "collocations": [
+   "skilled craftsman",
+   "master craftsman",
+   "local craftsman"
+  ],
+  "mnemonic_ar": "كلمة 'Craft' يعني 'حرفة' و 'Man' يعني 'رجل'.. هو رجل الحرفة الشاطر."
+ }
+}

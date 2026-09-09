@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "board",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "board",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A flat piece of wood or other hard material used for a specific purpose, or a flat surface used for writing on or displaying information; also, a group of people who control an organization.",
+  "explanation_ar": "لوح خشب أو سبورة بنكتب عليها، وممكن تيجي بمعنى مجلس الإدارة اللي بياخد القرارات في الشركة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A flat piece of hard material (such as wood) used in building, or a surface used for writing or pinning notices.",
+    "definition_ar": "لوح من الخشب أو سطح مسطح للكتابة أو عرض الإعلانات (مثل السبورة).",
+    "examples": [
+     "The teacher wrote the answer on the board.",
+     "We need a long wooden board to fix the fence."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "An organized group of people who make decisions or govern a company, school, or organization.",
+    "definition_ar": "مجلس إدارة أو هيئة مسؤولة عن إدارة منظمة أو شركة.",
+    "examples": [
+     "The board of directors met to discuss the budget."
+    ]
+   }
+  ],
+  "examples": [
+   "The teacher wrote the answer on the board.",
+   "We need a long wooden board to fix the fence.",
+   "The board of directors met to discuss the budget."
+  ],
+  "translations": [
+   "لوح",
+   "سبورة",
+   "مجلس إدارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "plank",
+    "panel",
+    "council",
+    "committee"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "board of directors",
+    "notice board",
+    "cutting board",
+    "on board"
+   ]
+  },
+  "mnemonic": "كلمة 'Board' قريبة من 'Bored' 'زهقان'.. الطلاب بيبصوا على الـ 'Board' 'السبورة' وهم 'Bored'.",
+  "phonetic_us": "bɔːrd",
+  "phonetic_uk": "bɔːd",
+  "syllables": [
+   "board"
+  ],
+  "semantic_tags": [
+   "#Education",
+   "#Construction",
+   "#Business",
+   "#Material"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A flat piece of wood or other hard material used for a specific purpose, or a flat surface used for writing on or displaying information; also, a group of people who control an organization.",
+  "explanation_ar": "لوح خشب أو سبورة بنكتب عليها، وممكن تيجي بمعنى مجلس الإدارة اللي بياخد القرارات في الشركة.",
+  "examples": [
+   "The teacher wrote the answer on the board.",
+   "We need a long wooden board to fix the fence.",
+   "The board of directors met to discuss the budget."
+  ],
+  "translations": {
+   "arabic_ar": "لوح سبورة مجلس إدارة"
+  },
+  "synonyms": [
+   "plank",
+   "panel",
+   "council",
+   "committee"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "board of directors",
+   "notice board",
+   "cutting board",
+   "on board"
+  ],
+  "mnemonic_ar": "كلمة 'Board' قريبة من 'Bored' 'زهقان'.. الطلاب بيبصوا على الـ 'Board' 'السبورة' وهم 'Bored'."
+ }
+}

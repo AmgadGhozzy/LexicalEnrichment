@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "degradation",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "degradation",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The process of degrading or being degraded; deterioration.",
+  "explanation_ar": "التدهور أو الانحطاط، لما قيمة حاجة تقل أو حالتها تسوء جداً.",
+  "senses": [
+   {
+    "definition_en": "The process by which something becomes worse in quality, condition, or state (e.g., environmental or material decay).",
+    "explanation_ar": "تدهور حالة الشيء وتلفه، مثل تدهور البيئة أو التربة."
+   },
+   {
+    "definition_en": "The condition or process of being humiliated, treated with disrespect, or reduced to a lower status.",
+    "explanation_ar": "الانحطاط الأخلاقي أو الإهانة الشديدة وفقدان الكرامة والمكانة."
+   }
+  ],
+  "examples": [
+   "Environmental degradation is a global crisis.",
+   "We must stop the degradation of our forests.",
+   "He felt a sense of degradation after losing his job."
+  ],
+  "translations": [
+   "تدهور",
+   "انحطاط"
+  ],
+  "relations": {
+   "synonyms": [
+    "deterioration",
+    "decline",
+    "debasement",
+    "humiliation"
+   ],
+   "antonyms": [
+    "improvement",
+    "enhancement",
+    "upgrade"
+   ],
+   "collocations": [
+    "environmental degradation",
+    "soil degradation",
+    "moral degradation",
+    "land degradation"
+   ]
+  },
+  "mnemonic": "'Grade' 'درجة'.. الـ 'De-gradation' هو إنك تنزل الـ 'Grade' 'الدرجة/المستوى' بتاع الحاجة.",
+  "phonetic_us": "ˌdɛɡrəˈdeʃən",
+  "phonetic_uk": "ˌdɛɡɹəˈdeɪʃən",
+  "syllables": "degra•da•tion",
+  "semantic_tags": [
+   "#Environment",
+   "#Quality",
+   "#Decline"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The process of degrading or being degraded; deterioration.",
+  "explanation_ar": "التدهور أو الانحطاط، لما قيمة حاجة تقل أو حالتها تسوء جداً.",
+  "examples": [
+   "Environmental degradation is a global crisis.",
+   "We must stop the degradation of our forests.",
+   "He felt a sense of degradation after losing his job."
+  ],
+  "translations": {
+   "arabic_ar": "تدهور انحطاط"
+  },
+  "synonyms": [
+   "deterioration",
+   "decline",
+   "debasement",
+   "humiliation"
+  ],
+  "antonyms": [
+   "improvement",
+   "enhancement",
+   "upgrade"
+  ],
+  "collocations": [
+   "environmental degradation",
+   "soil degradation",
+   "moral degradation",
+   "land degradation"
+  ],
+  "mnemonic_ar": "'Grade' 'درجة'.. الـ 'De-gradation' هو إنك تنزل الـ 'Grade' 'الدرجة/المستوى' بتاع الحاجة."
+ }
+}

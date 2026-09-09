@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "abundant",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "abundant",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Existing or available in large quantities; plentiful.",
+  "explanation_ar": "موجود بكميات كبيرة جداً وكفاية وزيادة، زي الميه في المحيط.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Existing or available in large quantities; plentiful.",
+    "definition_ar": "وفير، موجود بكثرة وبكميات كبيرة.",
+    "examples": [
+     "Fish are abundant in this lake.",
+     "We have an abundant supply of clean water.",
+     "There is abundant evidence to support the theory."
+    ]
+   }
+  ],
+  "examples": [
+   "Fish are abundant in this lake.",
+   "We have an abundant supply of clean water.",
+   "There is abundant evidence to support the theory."
+  ],
+  "translations": [
+   "وفير",
+   "غزير",
+   "موفور"
+  ],
+  "relations": {
+   "synonyms": [
+    "plentiful",
+    "copious",
+    "ample",
+    "profuse"
+   ],
+   "antonyms": [
+    "scarce",
+    "sparse",
+    "rare"
+   ],
+   "collocations": [
+    "abundant supply",
+    "abundant wildlife",
+    "abundant resources",
+    "abundant evidence"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "əˈbʌndənt",
+  "phonetic_uk": "əˈbʌndənt",
+  "syllables": "abun•dant",
+  "semantic_tags": [
+   "#Quantity",
+   "#Nature",
+   "#Wealth"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Existing or available in large quantities; plentiful.",
+  "explanation_ar": "موجود بكميات كبيرة جداً وكفاية وزيادة، زي الميه في المحيط.",
+  "examples": [
+   "Fish are abundant in this lake.",
+   "We have an abundant supply of clean water.",
+   "There is abundant evidence to support the theory."
+  ],
+  "translations": {
+   "arabic_ar": "وفير غزير موفور"
+  },
+  "synonyms": [
+   "plentiful",
+   "copious",
+   "ample",
+   "profuse"
+  ],
+  "antonyms": [
+   "scarce",
+   "sparse",
+   "rare"
+  ],
+  "collocations": [
+   "abundant supply",
+   "abundant wildlife",
+   "abundant resources",
+   "abundant evidence"
+  ],
+  "mnemonic_ar": null
+ }
+}

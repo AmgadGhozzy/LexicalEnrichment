@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "drink",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "drink",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To take a liquid into the mouth and swallow it.",
+  "explanation_ar": "إنك تبلع أي سائل زي الماية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To take a liquid into the mouth and swallow it.",
+    "definition_ar": "إنك تبلع أي سائل زي الماية.",
+    "examples": [
+     "I drink water every day.",
+     "He doesn't drink alcohol.",
+     "You should drink plenty of fluids when sick."
+    ]
+   }
+  ],
+  "examples": [
+   "I drink water every day.",
+   "He doesn't drink alcohol.",
+   "You should drink plenty of fluids when sick."
+  ],
+  "translations": [
+   "يشرب"
+  ],
+  "relations": {
+   "synonyms": [
+    "consume",
+    "gulp",
+    "sip",
+    "swallow"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "drink water",
+    "drink alcohol",
+    "drink coffee",
+    "drink heavily",
+    "drink up"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "dɹɪŋk",
+  "phonetic_uk": "drɪŋk",
+  "syllables": [
+   "drink"
+  ],
+  "semantic_tags": [
+   "Food & Drink",
+   "Consume",
+   "Thirst",
+   "Swallow",
+   "Alcohol",
+   "Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To take a liquid into the mouth and swallow it.",
+  "explanation_ar": "إنك تبلع أي سائل زي الماية.",
+  "examples": [
+   "I drink water every day.",
+   "He doesn't drink alcohol.",
+   "You should drink plenty of fluids when sick."
+  ],
+  "translations": {
+   "arabic_ar": "يشرب"
+  },
+  "synonyms": [
+   "consume",
+   "gulp",
+   "sip",
+   "swallow"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "drink water",
+   "drink alcohol",
+   "drink coffee",
+   "drink heavily",
+   "drink up"
+  ],
+  "mnemonic_ar": null
+ }
+}

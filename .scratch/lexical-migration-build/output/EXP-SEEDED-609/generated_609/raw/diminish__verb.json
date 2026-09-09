@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "diminish",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "diminish",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To become smaller, weaker, or less important.",
+  "explanation_ar": "يقلل أو يتضاءل، يعني الحاجة تصغر أو تضعف تدريجياً.",
+  "senses": [
+   {
+    "definition_en": "To become or make smaller, weaker, or less in size, degree, or intensity.",
+    "definition_ar": "يتضاءل أو ينقص تدريجياً في الحجم أو القوة",
+    "examples": [
+     "His influence in the company began to diminish.",
+     "The medication helped to diminish the pain after surgery."
+    ]
+   },
+   {
+    "definition_en": "To make someone or something seem less impressive, valuable, or important.",
+    "definition_ar": "يقلل من قدر أو أهمية شخص أو شيء",
+    "examples": [
+     "Don't let anyone diminish your achievements."
+    ]
+   }
+  ],
+  "examples": [
+   "His influence in the company began to diminish.",
+   "Don't let anyone diminish your achievements.",
+   "The medication helped to diminish the pain after surgery."
+  ],
+  "translations": [
+   "يتضاءل",
+   "يقلل من",
+   "ينتقص من"
+  ],
+  "relations": {
+   "synonyms": [
+    "decrease",
+    "lessen",
+    "reduce",
+    "decline"
+   ],
+   "antonyms": [
+    "increase",
+    "grow",
+    "enhance"
+   ],
+   "collocations": [
+    "rapidly diminish",
+    "gradually diminish",
+    "diminish returns",
+    "diminish importance"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Mini' يعني صغير.. 'Diminish' يعني تخلي الحاجة 'Mini' 'تصغر'.",
+  "phonetic_us": "dɪˈmɪnɪʃ",
+  "phonetic_uk": "dɪˈmɪnɪʃ",
+  "syllables": "di•min•ish",
+  "semantic_tags": [
+   "#Decrease",
+   "#Change",
+   "#Size",
+   "#Less"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To become smaller, weaker, or less important.",
+  "explanation_ar": "يقلل أو يتضاءل، يعني الحاجة تصغر أو تضعف تدريجياً.",
+  "examples": [
+   "His influence in the company began to diminish.",
+   "Don't let anyone diminish your achievements.",
+   "The medication helped to diminish the pain after surgery."
+  ],
+  "translations": {
+   "arabic_ar": "يتضاءل يقلل من ينتقص من"
+  },
+  "synonyms": [
+   "decrease",
+   "lessen",
+   "reduce",
+   "decline"
+  ],
+  "antonyms": [
+   "increase",
+   "grow",
+   "enhance"
+  ],
+  "collocations": [
+   "rapidly diminish",
+   "gradually diminish",
+   "diminish returns",
+   "diminish importance"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Mini' يعني صغير.. 'Diminish' يعني تخلي الحاجة 'Mini' 'تصغر'."
+ }
+}

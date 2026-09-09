@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "claw",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "claw",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A sharp, curved nail on the foot of an animal or bird, or the pincer of a shellfish such as a crab.",
+  "explanation_ar": "مخلب الحيوان أو الطير، الضفر الحاد القوي اللي بيصطاد بيه، أو كلابة القشريات مثل الكابوريا.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A sharp, curved nail on the toe of an animal or bird.",
+    "explanation_ar": "مخلب حاد ومعقوف في قدم حيوان أو طائر."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A pincer-like gripping limb of a crustacean such as a crab or lobster.",
+    "explanation_ar": "كلابة أو مخلب حيوان قشري مثل الكابوريا أو الإستاكوزا."
+   }
+  ],
+  "examples": [
+   "The eagle grabbed the fish with its claw.",
+   "Be careful, the kitten might scratch you with a claw.",
+   "Crabs have a large claw for crushing food."
+  ],
+  "translations": [
+   "مخلب",
+   "كلابة"
+  ],
+  "relations": {
+   "synonyms": [
+    "talon",
+    "pincer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sharp claw",
+    "retractable claw",
+    "lobster claw"
+   ]
+  },
+  "mnemonic": "شكل الكلمة 'Claw' فيه حرف C و w زي شكل المخلب المعووج.",
+  "phonetic_us": "klɔː",
+  "phonetic_uk": "klɔː",
+  "syllables": [
+   "claw"
+  ],
+  "semantic_tags": [
+   "Animals",
+   "Body Parts",
+   "Nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A sharp, curved nail on the foot of an animal or bird, or the pincer of a shellfish such as a crab.",
+  "explanation_ar": "مخلب الحيوان أو الطير، الضفر الحاد القوي اللي بيصطاد بيه، أو كلابة القشريات مثل الكابوريا.",
+  "examples": [
+   "The eagle grabbed the fish with its claw.",
+   "Be careful, the kitten might scratch you with a claw.",
+   "Crabs have a large claw for crushing food."
+  ],
+  "translations": {
+   "arabic_ar": "مخلب كلابة"
+  },
+  "synonyms": [
+   "talon",
+   "pincer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sharp claw",
+   "retractable claw",
+   "lobster claw"
+  ],
+  "mnemonic_ar": "شكل الكلمة 'Claw' فيه حرف C و w زي شكل المخلب المعووج."
+ }
+}

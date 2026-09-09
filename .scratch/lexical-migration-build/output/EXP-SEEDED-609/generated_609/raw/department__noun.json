@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "department",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "department",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A division of a large organization such as a government, university, or business, or a section of a large store.",
+  "explanation_ar": "قسم أو إدارة داخل شركة أو جامعة أو هيئة حكومية، أو قسم متخصص داخل متجر كبير.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A division of a large organization such as a business, government, or university.",
+    "explanation_ar": "قسم أو إدارة داخل منظمة كبيرة مثل شركة أو جامعة أو حكومة.",
+    "examples": [
+     "He works in the sales department.",
+     "The English department is hosting a conference."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A section in a large shop selling a particular type of goods.",
+    "explanation_ar": "قسم مخصص لنوع معين من السلع داخل متجر كبير.",
+    "examples": [
+     "The toy department is upstairs."
+    ]
+   }
+  ],
+  "examples": [
+   "He works in the sales department.",
+   "The English department is hosting a conference.",
+   "The toy department is upstairs."
+  ],
+  "translations": [
+   "قسم",
+   "إدارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "division",
+    "section",
+    "unit",
+    "branch"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sales department",
+    "police department",
+    "fire department",
+    "department store",
+    "head of department"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'part' (جزء)؛ فالـ department هو جزء متخصص من مؤسسة أو متجر كبير.",
+  "phonetic_us": "dɪˈpɑːrt.mənt",
+  "phonetic_uk": "dɪˈpɑːt.mənt",
+  "syllables": "de•part•ment",
+  "semantic_tags": [
+   "#Office",
+   "#Organization",
+   "#Work"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A division of a large organization such as a government, university, or business, or a section of a large store.",
+  "explanation_ar": "قسم أو إدارة داخل شركة أو جامعة أو هيئة حكومية، أو قسم متخصص داخل متجر كبير.",
+  "examples": [
+   "He works in the sales department.",
+   "The English department is hosting a conference.",
+   "The toy department is upstairs."
+  ],
+  "translations": {
+   "arabic_ar": "قسم إدارة"
+  },
+  "synonyms": [
+   "division",
+   "section",
+   "unit",
+   "branch"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sales department",
+   "police department",
+   "fire department",
+   "department store",
+   "head of department"
+  ],
+  "mnemonic_ar": "فيها كلمة 'part' (جزء)؛ فالـ department هو جزء متخصص من مؤسسة أو متجر كبير."
+ }
+}

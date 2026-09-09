@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "dash",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "dash",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A sudden, quick run or rush, or a small amount of a substance added to something.",
+  "explanation_ar": "اندفاع أو جري سريع ومفاجئ، أو كمية قليلة جدًا (رَشّة أو قطرة) تُضاف إلى طعام أو شراب.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An act of running somewhere suddenly and quickly.",
+    "explanation_ar": "انطلاق أو جري سريع ومفاجئ نحو مكان ما.",
+    "examples": [
+     "We made a mad dash for the train.",
+     "He made a dash for the door when the rain started."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A small amount of a quality, liquid, or substance added to something.",
+    "explanation_ar": "كمية قليلة جدًا أو رَشّة من مادة سائلة أو توابل.",
+    "examples": [
+     "Add a dash of salt to the soup."
+    ]
+   }
+  ],
+  "examples": [
+   "We made a mad dash for the train.",
+   "Add a dash of salt to the soup.",
+   "He made a dash for the door when the rain started."
+  ],
+  "translations": [
+   "انْدِفَاع",
+   "جَرْي سَرِيع",
+   "رَشَّة"
+  ],
+  "relations": {
+   "synonyms": [
+    "sprint",
+    "rush",
+    "pinch",
+    "drop"
+   ],
+   "antonyms": [
+    "stroll",
+    "crawl",
+    "dawdle"
+   ],
+   "collocations": [
+    "make a dash",
+    "mad dash",
+    "dash of salt"
+   ]
+  },
+  "mnemonic": "افتكر ألعاب الجري الشهيرة زي Geometry Dash؛ كلمة dash بتعبر عن اندفاع أو جري سريع ومفاجئ.",
+  "phonetic_us": "/dæʃ/",
+  "phonetic_uk": "/dæʃ/",
+  "syllables": [
+   "dash"
+  ],
+  "semantic_tags": [
+   "#Speed",
+   "#Movement",
+   "#Cooking"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A sudden, quick run or rush, or a small amount of a substance added to something.",
+  "explanation_ar": "اندفاع أو جري سريع ومفاجئ، أو كمية قليلة جدًا (رَشّة أو قطرة) تُضاف إلى طعام أو شراب.",
+  "examples": [
+   "We made a mad dash for the train.",
+   "Add a dash of salt to the soup.",
+   "He made a dash for the door when the rain started."
+  ],
+  "translations": {
+   "arabic_ar": "انْدِفَاع جَرْي سَرِيع رَشَّة"
+  },
+  "synonyms": [
+   "sprint",
+   "rush",
+   "pinch",
+   "drop"
+  ],
+  "antonyms": [
+   "stroll",
+   "crawl",
+   "dawdle"
+  ],
+  "collocations": [
+   "make a dash",
+   "mad dash",
+   "dash of salt"
+  ],
+  "mnemonic_ar": "افتكر ألعاب الجري الشهيرة زي Geometry Dash؛ كلمة dash بتعبر عن اندفاع أو جري سريع ومفاجئ."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "differ",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "differ",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To be unlike or dissimilar; to disagree.",
+  "explanation_ar": "يختلف عن حاجة تانية، أو يختلف مع حد في الرأي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To be unlike, dissimilar, or distinct in nature or quality.",
+    "definition_ar": "أن يكون مختلفًا أو غير متماثل مع شيء آخر.",
+    "examples": [
+     "Their tastes differ significantly.",
+     "How does this differ from the old model?"
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To hold a different opinion or disagree with someone.",
+    "definition_ar": "أن يخالف شخصًا آخر في الرأي أو وجهة النظر.",
+    "examples": [
+     "I beg to differ with your opinion."
+    ]
+   }
+  ],
+  "examples": [
+   "Their tastes differ significantly.",
+   "How does this differ from the old model?",
+   "I beg to differ with your opinion."
+  ],
+  "translations": [
+   "يختلف",
+   "يتفاوت",
+   "يتباين"
+  ],
+  "relations": {
+   "synonyms": [
+    "vary",
+    "disagree",
+    "contrast"
+   ],
+   "antonyms": [
+    "agree",
+    "resemble",
+    "match"
+   ],
+   "collocations": [
+    "beg to differ",
+    "differ from",
+    "opinions differ"
+   ]
+  },
+  "mnemonic": "الفعل من 'Different' 'مختلف'.. 'Differ' يعني يختلف.",
+  "phonetic_us": "ˈdɪf.ɚ",
+  "phonetic_uk": "ˈdɪf.ər",
+  "syllables": "dif•fer",
+  "semantic_tags": [
+   "Difference",
+   "Comparison",
+   "Opinion"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To be unlike or dissimilar; to disagree.",
+  "explanation_ar": "يختلف عن حاجة تانية، أو يختلف مع حد في الرأي.",
+  "examples": [
+   "Their tastes differ significantly.",
+   "How does this differ from the old model?",
+   "I beg to differ with your opinion."
+  ],
+  "translations": {
+   "arabic_ar": "يختلف يتفاوت يتباين"
+  },
+  "synonyms": [
+   "vary",
+   "disagree",
+   "contrast"
+  ],
+  "antonyms": [
+   "agree",
+   "resemble",
+   "match"
+  ],
+  "collocations": [
+   "beg to differ",
+   "differ from",
+   "opinions differ"
+  ],
+  "mnemonic_ar": "الفعل من 'Different' 'مختلف'.. 'Differ' يعني يختلف."
+ }
+}

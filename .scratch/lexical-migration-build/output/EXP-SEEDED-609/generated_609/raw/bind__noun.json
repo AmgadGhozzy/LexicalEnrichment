@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "bind",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bind",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A difficult, awkward, or problematic situation from which it is hard to escape; a predicament.",
+  "explanation_ar": "ورطة أو مأزق؛ موقف صعب أو معقد يجد الشخص صعوبة في الخروج منه، ويُستخدم كثيراً في التعبير 'in a bind'.",
+  "senses": [
+   {
+    "definition_en": "A difficult or annoying situation; a predicament.",
+    "definition_ar": "ورطة أو مأزق يصعب التخلص منه.",
+    "examples": [
+     "His sudden departure put the team in a real bind.",
+     "We are in a bind because the funding was cut.",
+     "The unexpected train strike left hundreds of commuters in a tight bind."
+    ]
+   }
+  ],
+  "examples": [
+   "His sudden departure put the team in a real bind.",
+   "We are in a bind because the funding was cut.",
+   "The unexpected train strike left hundreds of commuters in a tight bind."
+  ],
+  "translations": [
+   "مأزق",
+   "ورطة"
+  ],
+  "relations": {
+   "synonyms": [
+    "predicament",
+    "dilemma",
+    "fix",
+    "jam",
+    "quandary"
+   ],
+   "antonyms": [
+    "solution",
+    "resolution"
+   ],
+   "collocations": [
+    "in a bind",
+    "tight bind",
+    "double bind"
+   ]
+  },
+  "mnemonic": "كلمة 'Bind' شبه 'بند'.. البند ده في العقد حطني في 'Bind' 'ورطة' كبيرة",
+  "phonetic_us": "baɪnd",
+  "phonetic_uk": "baɪnd",
+  "syllables": "bind",
+  "semantic_tags": [
+   "difficulty",
+   "problem",
+   "idiom"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A difficult, awkward, or problematic situation from which it is hard to escape; a predicament.",
+  "explanation_ar": "ورطة أو مأزق؛ موقف صعب أو معقد يجد الشخص صعوبة في الخروج منه، ويُستخدم كثيراً في التعبير 'in a bind'.",
+  "examples": [
+   "His sudden departure put the team in a real bind.",
+   "We are in a bind because the funding was cut.",
+   "The unexpected train strike left hundreds of commuters in a tight bind."
+  ],
+  "translations": {
+   "arabic_ar": "مأزق ورطة"
+  },
+  "synonyms": [
+   "predicament",
+   "dilemma",
+   "fix",
+   "jam",
+   "quandary"
+  ],
+  "antonyms": [
+   "solution",
+   "resolution"
+  ],
+  "collocations": [
+   "in a bind",
+   "tight bind",
+   "double bind"
+  ],
+  "mnemonic_ar": "كلمة 'Bind' شبه 'بند'.. البند ده في العقد حطني في 'Bind' 'ورطة' كبيرة"
+ }
+}

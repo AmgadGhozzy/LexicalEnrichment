@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "actor",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "actor",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A person whose profession is acting on the stage, in movies, or on television.",
+  "explanation_ar": "الشخص اللي بيمثل أدوار وشخصيات في الأفلام والمسلسلات.",
+  "senses": [
+   {
+    "definition_en": "A person whose profession is acting on the stage, in movies, or on television.",
+    "explanation_ar": "الشخص اللي بيمثل أدوار وشخصيات في الأفلام والمسلسلات.",
+    "examples": [
+     "He is a famous actor.",
+     "I want to be an actor.",
+     "The actor played a funny role."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a famous actor.",
+   "I want to be an actor.",
+   "The actor played a funny role."
+  ],
+  "translations": [
+   "ممثل"
+  ],
+  "relations": {
+   "synonyms": [
+    "performer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "famous actor",
+    "lead actor",
+    "best actor",
+    "movie actor"
+   ]
+  },
+  "mnemonic": "هو الشخص اللي بيعمل 'Act' أو 'Action' 'فعل' التمثيل.",
+  "phonetic_us": "ˈæk.tɚ",
+  "phonetic_uk": "ˈæk.tə",
+  "syllables": "ac•tor",
+  "semantic_tags": [
+   "#Movie",
+   "#Theatre",
+   "#Job",
+   "#Fame"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person whose profession is acting on the stage, in movies, or on television.",
+  "explanation_ar": "الشخص اللي بيمثل أدوار وشخصيات في الأفلام والمسلسلات.",
+  "examples": [
+   "He is a famous actor.",
+   "I want to be an actor.",
+   "The actor played a funny role."
+  ],
+  "translations": {
+   "arabic_ar": "ممثل"
+  },
+  "synonyms": [
+   "performer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "famous actor",
+   "lead actor",
+   "best actor",
+   "movie actor"
+  ],
+  "mnemonic_ar": "هو الشخص اللي بيعمل 'Act' أو 'Action' 'فعل' التمثيل."
+ }
+}

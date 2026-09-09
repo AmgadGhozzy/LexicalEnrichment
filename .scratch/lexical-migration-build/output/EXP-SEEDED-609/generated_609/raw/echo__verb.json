@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "echo",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "echo",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To repeat or reverberate; to express agreement with an opinion.",
+  "explanation_ar": "يردد الصوت، أو يكرر كلام حد تاني كنوع من الموافقة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To send back or reverberate a sound.",
+    "definition_ar": "يردد صدى الصوت أو ينعكس داخل مكان مغلق أو مفتوح.",
+    "examples": [
+     "Their footsteps echo through the empty corridor.",
+     "You can hear your voice echo across the canyon."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To repeat, mirror, or express agreement with someone else's views or sentiments.",
+    "definition_ar": "يكرر أو يعكس وجهة نظر شخص آخر كنوع من التأييد والموافقة.",
+    "examples": [
+     "The findings echo concerns raised by several independent experts."
+    ]
+   }
+  ],
+  "examples": [
+   "Their footsteps echo through the empty corridor.",
+   "The findings echo concerns raised by several independent experts.",
+   "You can hear your voice echo across the canyon."
+  ],
+  "translations": [
+   "يردد",
+   "يعكس الصدى",
+   "يكرر موافقاً"
+  ],
+  "relations": {
+   "synonyms": [
+    "reverberate",
+    "resound",
+    "repeat",
+    "mirror"
+   ],
+   "antonyms": [
+    "silence",
+    "dampen"
+   ],
+   "collocations": [
+    "echo the sentiments",
+    "echo concerns",
+    "echo through"
+   ]
+  },
+  "mnemonic": "زي كلمة 'Ego'.. اللي عنده 'Ego' بيحب الناس تعمل 'Echo' 'ترديد' لكلامه",
+  "phonetic_us": "ˈɛkoʊ",
+  "phonetic_uk": "ˈekəʊ",
+  "syllables": "ech·o",
+  "semantic_tags": [
+   "#Sound",
+   "#Speech",
+   "#Agreement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To repeat or reverberate; to express agreement with an opinion.",
+  "explanation_ar": "يردد الصوت، أو يكرر كلام حد تاني كنوع من الموافقة.",
+  "examples": [
+   "Their footsteps echo through the empty corridor.",
+   "The findings echo concerns raised by several independent experts.",
+   "You can hear your voice echo across the canyon."
+  ],
+  "translations": {
+   "arabic_ar": "يردد يعكس الصدى يكرر موافقاً"
+  },
+  "synonyms": [
+   "reverberate",
+   "resound",
+   "repeat",
+   "mirror"
+  ],
+  "antonyms": [
+   "silence",
+   "dampen"
+  ],
+  "collocations": [
+   "echo the sentiments",
+   "echo concerns",
+   "echo through"
+  ],
+  "mnemonic_ar": "زي كلمة 'Ego'.. اللي عنده 'Ego' بيحب الناس تعمل 'Echo' 'ترديد' لكلامه"
+ }
+}

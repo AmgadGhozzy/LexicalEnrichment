@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "disk",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "disk",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A flat, thin, round object, or a device used for storing computer data.",
+  "explanation_ar": "أي شيء مسطح ومستدير كالقرص، أو أداة تُستخدم لتخزين البيانات في أجهزة الكمبيوتر (ديسك).",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A flat, thin, circular object.",
+    "definition_ar": "شيء مسطح ومستدير على شكل قرص."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A magnetic or electronic device used to store data.",
+    "definition_ar": "وسيط أو وحدة لتخزين البيانات في الحاسوب."
+   }
+  ],
+  "examples": [
+   "The sun looked like a golden disk.",
+   "Save the file to the disk.",
+   "He suffered from a slipped disk in his back."
+  ],
+  "translations": [
+   "قرص",
+   "ديسك"
+  ],
+  "relations": {
+   "synonyms": [
+    "disc",
+    "platter"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "hard disk",
+    "floppy disk",
+    "slipped disk"
+   ]
+  },
+  "mnemonic": "نفس الكلمة بالعربي 'ديسك'.. سواء ديسك الكمبيوتر أو 'Slipped disk' 'انزلاق غضروفي' عشان الغضروف شكله قرص.",
+  "phonetic_us": "dɪsk",
+  "phonetic_uk": "dɪsk",
+  "syllables": "disk",
+  "semantic_tags": [
+   "#Technology",
+   "#Shape",
+   "#Storage"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A flat, thin, round object, or a device used for storing computer data.",
+  "explanation_ar": "أي شيء مسطح ومستدير كالقرص، أو أداة تُستخدم لتخزين البيانات في أجهزة الكمبيوتر (ديسك).",
+  "examples": [
+   "The sun looked like a golden disk.",
+   "Save the file to the disk.",
+   "He suffered from a slipped disk in his back."
+  ],
+  "translations": {
+   "arabic_ar": "قرص ديسك"
+  },
+  "synonyms": [
+   "disc",
+   "platter"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "hard disk",
+   "floppy disk",
+   "slipped disk"
+  ],
+  "mnemonic_ar": "نفس الكلمة بالعربي 'ديسك'.. سواء ديسك الكمبيوتر أو 'Slipped disk' 'انزلاق غضروفي' عشان الغضروف شكله قرص."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "articulate",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "articulate",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Able to express thoughts and feelings clearly and effectively.",
+  "explanation_ar": "شخص فصيح، بيعرف يعبر عن أفكاره بوضوح ولباقة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Able to express thoughts and feelings clearly and effectively.",
+    "explanation_ar": "شخص فصيح، بيعرف يعبر عن أفكاره بوضوح ولباقة.",
+    "examples": [
+     "She is very articulate for her age.",
+     "The teacher gave an articulate explanation.",
+     "The lawyer presented a highly articulate defense of his client."
+    ]
+   }
+  ],
+  "examples": [
+   "She is very articulate for her age.",
+   "The teacher gave an articulate explanation.",
+   "The lawyer presented a highly articulate defense of his client."
+  ],
+  "translations": [
+   "فصيح",
+   "بليغ",
+   "مُعبِّر بوضوح"
+  ],
+  "relations": {
+   "synonyms": [
+    "eloquent",
+    "fluent",
+    "coherent",
+    "expressive"
+   ],
+   "antonyms": [
+    "inarticulate",
+    "hesitant",
+    "unclear"
+   ],
+   "collocations": [
+    "highly articulate",
+    "articulate speaker",
+    "articulate speech"
+   ]
+  },
+  "mnemonic": "زي 'Article' 'مقال'.. الشخص الـ 'Articulate' بيتكلم بوضوح وترتيب كأنه بيقرا 'Article' مكتوب ببراعة.",
+  "phonetic_us": "ɑrˈtɪkjələt",
+  "phonetic_uk": "ɑːˈtɪkjʊlət",
+  "syllables": "ar•tic•u•late",
+  "semantic_tags": [
+   "#Speech",
+   "#Clear",
+   "#Smart",
+   "#Language"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Able to express thoughts and feelings clearly and effectively.",
+  "explanation_ar": "شخص فصيح، بيعرف يعبر عن أفكاره بوضوح ولباقة.",
+  "examples": [
+   "She is very articulate for her age.",
+   "The teacher gave an articulate explanation.",
+   "The lawyer presented a highly articulate defense of his client."
+  ],
+  "translations": {
+   "arabic_ar": "فصيح بليغ مُعبِّر بوضوح"
+  },
+  "synonyms": [
+   "eloquent",
+   "fluent",
+   "coherent",
+   "expressive"
+  ],
+  "antonyms": [
+   "inarticulate",
+   "hesitant",
+   "unclear"
+  ],
+  "collocations": [
+   "highly articulate",
+   "articulate speaker",
+   "articulate speech"
+  ],
+  "mnemonic_ar": "زي 'Article' 'مقال'.. الشخص الـ 'Articulate' بيتكلم بوضوح وترتيب كأنه بيقرا 'Article' مكتوب ببراعة."
+ }
+}

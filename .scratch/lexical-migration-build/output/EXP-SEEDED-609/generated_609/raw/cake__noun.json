@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "cake",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "cake",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A sweet baked food made from flour, sugar, and eggs.",
+  "explanation_ar": "الكيكة، الحلوى المخبوزة اللي بنعملها من الدقيق والسكر والبيض.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A sweet baked food made from flour, sugar, and eggs.",
+    "definition_ar": "كعكة؛ حلوى مخبوزة تُصنع من الدقيق والسكر والبيض.",
+    "pos": "noun",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "She baked a cake for me.",
+   "We ate a slice of cake.",
+   "I like chocolate cake."
+  ],
+  "translations": [
+   "كعكة",
+   "كيكة"
+  ],
+  "relations": {
+   "synonyms": [
+    "gateau"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "birthday cake",
+    "chocolate cake",
+    "bake a cake",
+    "piece of cake"
+   ]
+  },
+  "mnemonic": "كلمة 'Cake' هي نفسها 'كيك' بالعربي.",
+  "phonetic_us": "keɪk",
+  "phonetic_uk": "keɪk",
+  "syllables": [
+   "cake"
+  ],
+  "semantic_tags": [
+   "#Dessert",
+   "#Birthday",
+   "#Sweet"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sweet baked food made from flour, sugar, and eggs.",
+  "explanation_ar": "الكيكة، الحلوى المخبوزة اللي بنعملها من الدقيق والسكر والبيض.",
+  "examples": [
+   "She baked a cake for me.",
+   "We ate a slice of cake.",
+   "I like chocolate cake."
+  ],
+  "translations": {
+   "arabic_ar": "كعكة كيكة"
+  },
+  "synonyms": [
+   "gateau"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "birthday cake",
+   "chocolate cake",
+   "bake a cake",
+   "piece of cake"
+  ],
+  "mnemonic_ar": "كلمة 'Cake' هي نفسها 'كيك' بالعربي."
+ }
+}

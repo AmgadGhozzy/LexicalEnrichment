@@ -1,0 +1,78 @@
+{
+ "identity": {
+  "lemma": "cathedral",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "cathedral",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A very large and important church, usually the main one in an area.",
+  "explanation_ar": "كنيسة كبيرة ومهمة جداً، وغالباً بتكون الكنيسة الرئيسية في المدينة.",
+  "senses": [
+   {
+    "definition_en": "A very large and important church, usually the main one in an area.",
+    "explanation_ar": "كنيسة كبيرة ومهمة جداً، وغالباً بتكون الكنيسة الرئيسية في المدينة.",
+    "examples": [
+     "We visited a big cathedral.",
+     "The cathedral is in the city center.",
+     "Tourists love to see the old cathedral."
+    ]
+   }
+  ],
+  "examples": [
+   "We visited a big cathedral.",
+   "The cathedral is in the city center.",
+   "Tourists love to see the old cathedral."
+  ],
+  "translations": [
+   "كاتدرائية"
+  ],
+  "relations": {
+   "synonyms": [
+    "basilica",
+    "minster"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Gothic cathedral",
+    "visit the cathedral",
+    "cathedral city"
+   ]
+  },
+  "mnemonic": "كلمة طويلة وفخمة زي المبنى نفسه.. 'Cathedral' كاتدرائية.",
+  "phonetic_us": "kəˈθidrəl",
+  "phonetic_uk": "kəˈθiːdrəl",
+  "syllables": "cathe•dral",
+  "semantic_tags": [
+   "#Religion",
+   "#Building",
+   "#Church"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A very large and important church, usually the main one in an area.",
+  "explanation_ar": "كنيسة كبيرة ومهمة جداً، وغالباً بتكون الكنيسة الرئيسية في المدينة.",
+  "examples": [
+   "We visited a big cathedral.",
+   "The cathedral is in the city center.",
+   "Tourists love to see the old cathedral."
+  ],
+  "translations": {
+   "arabic_ar": "كاتدرائية"
+  },
+  "synonyms": [
+   "basilica",
+   "minster"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Gothic cathedral",
+   "visit the cathedral",
+   "cathedral city"
+  ],
+  "mnemonic_ar": "كلمة طويلة وفخمة زي المبنى نفسه.. 'Cathedral' كاتدرائية."
+ }
+}

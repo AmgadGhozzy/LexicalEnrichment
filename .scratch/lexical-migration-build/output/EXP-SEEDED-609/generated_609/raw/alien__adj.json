@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "alien",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "alien",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Belonging to a foreign country or nation; unfamiliar, strange, or opposed in nature.",
+  "explanation_ar": "غريب جداً وغير مألوف، أو منافٍ لطبيعة الشخص ومبادئه، أو وافد من بلد أو عالم آخر.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "Unfamiliar, strange, or completely contrary and opposed to someone's nature or principles.",
+    "definition_ar": "غريب أو منافٍ لطبيعة الشخص ومبادئه.",
+    "examples": [
+     "The idea of cheating is alien to his nature.",
+     "Their customs are alien to us."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "Belonging to a foreign country, species, or another world.",
+    "definition_ar": "أجنبي، وافد، أو آتٍ من كوكب آخر.",
+    "examples": [
+     "The landscape was stark and alien, devoid of familiar vegetation."
+    ]
+   }
+  ],
+  "examples": [
+   "The idea of cheating is alien to his nature.",
+   "Their customs are alien to us.",
+   "The landscape was stark and alien, devoid of familiar vegetation."
+  ],
+  "translations": [
+   "غريب",
+   "أجنبي",
+   "منافٍ لـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "foreign",
+    "strange",
+    "unfamiliar",
+    "exotic"
+   ],
+   "antonyms": [
+    "native",
+    "familiar",
+    "indigenous"
+   ],
+   "collocations": [
+    "alien concept",
+    "alien to",
+    "alien species"
+   ]
+  },
+  "mnemonic": "فيلم 'Alien' المشهور بتاع الفضاء.. الكائن كان 'Alien' غريب.",
+  "phonetic_us": "ˈeɪliən",
+  "phonetic_uk": "ˈeɪliən",
+  "syllables": "a·li·en",
+  "semantic_tags": [
+   "Foreign",
+   "Strange",
+   "Space"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Belonging to a foreign country or nation; unfamiliar, strange, or opposed in nature.",
+  "explanation_ar": "غريب جداً وغير مألوف، أو منافٍ لطبيعة الشخص ومبادئه، أو وافد من بلد أو عالم آخر.",
+  "examples": [
+   "The idea of cheating is alien to his nature.",
+   "Their customs are alien to us.",
+   "The landscape was stark and alien, devoid of familiar vegetation."
+  ],
+  "translations": {
+   "arabic_ar": "غريب أجنبي منافٍ لـ"
+  },
+  "synonyms": [
+   "foreign",
+   "strange",
+   "unfamiliar",
+   "exotic"
+  ],
+  "antonyms": [
+   "native",
+   "familiar",
+   "indigenous"
+  ],
+  "collocations": [
+   "alien concept",
+   "alien to",
+   "alien species"
+  ],
+  "mnemonic_ar": "فيلم 'Alien' المشهور بتاع الفضاء.. الكائن كان 'Alien' غريب."
+ }
+}

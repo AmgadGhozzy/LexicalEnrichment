@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "buffer",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "buffer",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Something that absorbs shock or protects against impact; or temporary computer memory.",
+  "explanation_ar": "حاجة بتفصل بين شيئين عشان تقلل الصدمة أو التأثير، أو مساحة تخزين مؤقتة في الكمبيوتر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Something that cushions or protects against shock, impact, or hostile forces.",
+    "definition_ar": "عازل أو وسيلة حماية تقلل من أثر الصدمة أو الضرر.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A temporary storage area in computer memory that holds data during transfer.",
+    "definition_ar": "مساحة تخزين مؤقتة في ذاكرة الحاسوب أثناء نقل البيانات.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Trees act as a buffer against the wind.",
+   "Savings can be a buffer against financial trouble.",
+   "The UN established a buffer zone between the two countries."
+  ],
+  "translations": [
+   "عَازِل",
+   "حَاجِز"
+  ],
+  "relations": {
+   "synonyms": [
+    "cushion",
+    "shield",
+    "safeguard",
+    "barrier"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "buffer zone",
+    "buffer state",
+    "act as a buffer",
+    "buffer solution"
+   ]
+  },
+  "mnemonic": "كلمة 'Buffer' بتفكرك بـ 'Bumper' اكصدام العربية.. الاتنين بيحمو من الصدمات.",
+  "phonetic_us": "ˈbʌfər",
+  "phonetic_uk": "ˈbʌfə(ɹ)",
+  "syllables": "buf•fer",
+  "semantic_tags": [
+   "#Protection",
+   "#Computing",
+   "#Space"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Something that absorbs shock or protects against impact; or temporary computer memory.",
+  "explanation_ar": "حاجة بتفصل بين شيئين عشان تقلل الصدمة أو التأثير، أو مساحة تخزين مؤقتة في الكمبيوتر.",
+  "examples": [
+   "Trees act as a buffer against the wind.",
+   "Savings can be a buffer against financial trouble.",
+   "The UN established a buffer zone between the two countries."
+  ],
+  "translations": {
+   "arabic_ar": "عَازِل حَاجِز"
+  },
+  "synonyms": [
+   "cushion",
+   "shield",
+   "safeguard",
+   "barrier"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "buffer zone",
+   "buffer state",
+   "act as a buffer",
+   "buffer solution"
+  ],
+  "mnemonic_ar": "كلمة 'Buffer' بتفكرك بـ 'Bumper' اكصدام العربية.. الاتنين بيحمو من الصدمات."
+ }
+}

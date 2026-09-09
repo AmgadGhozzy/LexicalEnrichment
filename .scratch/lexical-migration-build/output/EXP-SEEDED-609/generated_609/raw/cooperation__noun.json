@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "cooperation",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "cooperation",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The process of working together to the same end.",
+  "explanation_ar": "التعاون، إننا نشتغل مع بعض عشان نحقق هدف واحد مشترك.",
+  "senses": [
+   {
+    "definition_en": "The process of working together to the same end.",
+    "explanation_ar": "التعاون، إننا نشتغل مع بعض عشان نحقق هدف واحد مشترك.",
+    "examples": [
+     "We need your cooperation to finish the project.",
+     "The success of the plan depends on the cooperation of everyone.",
+     "International cooperation is essential to solve climate change."
+    ]
+   }
+  ],
+  "examples": [
+   "We need your cooperation to finish the project.",
+   "The success of the plan depends on the cooperation of everyone.",
+   "International cooperation is essential to solve climate change."
+  ],
+  "translations": [
+   "تعاون"
+  ],
+  "relations": {
+   "synonyms": [
+    "collaboration",
+    "teamwork",
+    "partnership",
+    "assistance"
+   ],
+   "antonyms": [
+    "opposition",
+    "resistance",
+    "hindrance"
+   ],
+   "collocations": [
+    "international cooperation",
+    "close cooperation",
+    "in cooperation with",
+    "full cooperation"
+   ]
+  },
+  "mnemonic": "مكونة من 'Co-' 'مع بعض' + 'Operation' 'عملية/شغل'.. يعني بنعمل العملية دي سوا.",
+  "phonetic_us": "koʊˌɑːpəˈreɪʃən",
+  "phonetic_uk": "kəʊˌɒpəˈreɪʃn",
+  "syllables": "co•op•er•a•tion",
+  "semantic_tags": [
+   "Teamwork",
+   "Work",
+   "Social",
+   "Help"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The process of working together to the same end.",
+  "explanation_ar": "التعاون، إننا نشتغل مع بعض عشان نحقق هدف واحد مشترك.",
+  "examples": [
+   "We need your cooperation to finish the project.",
+   "The success of the plan depends on the cooperation of everyone.",
+   "International cooperation is essential to solve climate change."
+  ],
+  "translations": {
+   "arabic_ar": "تعاون"
+  },
+  "synonyms": [
+   "collaboration",
+   "teamwork",
+   "partnership",
+   "assistance"
+  ],
+  "antonyms": [
+   "opposition",
+   "resistance",
+   "hindrance"
+  ],
+  "collocations": [
+   "international cooperation",
+   "close cooperation",
+   "in cooperation with",
+   "full cooperation"
+  ],
+  "mnemonic_ar": "مكونة من 'Co-' 'مع بعض' + 'Operation' 'عملية/شغل'.. يعني بنعمل العملية دي سوا."
+ }
+}

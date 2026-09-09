@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "congress",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "congress",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A formal meeting or a legislative body, especially in the US.",
+  "explanation_ar": "اجتماع رسمي كبير أو المجلس التشريعي 'زي البرلمان' خصوصاً في أمريكا.",
+  "senses": [
+   {
+    "definition_en": "A large formal meeting or series of meetings where delegates discuss a particular subject.",
+    "definition_ar": "مؤتمر أو اجتماع رسمي كبير",
+    "pos": "noun"
+   },
+   {
+    "definition_en": "A national legislative assembly, especially that of the United States.",
+    "definition_ar": "المجلس التشريعي الوطني (خاصة الكونغرس الأمريكي)",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The party held its annual congress to elect a leader.",
+   "A medical congress was held in Paris to discuss recent advances.",
+   "Both houses of congress must approve the proposed budget."
+  ],
+  "translations": [
+   "مؤتمر",
+   "الكونغرس",
+   "مجلس تشريعي"
+  ],
+  "relations": {
+   "synonyms": [
+    "assembly",
+    "convention",
+    "conference",
+    "parliament"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "annual congress",
+    "hold a congress",
+    "international congress",
+    "member of congress"
+   ]
+  },
+  "mnemonic": "كينغ كونغ 'Kong' عمل اجتماع كبير في الـ 'Congress'.",
+  "phonetic_us": "ˈkɑŋɡrəs",
+  "phonetic_uk": "ˈkɒŋɡres",
+  "syllables": "con•gress",
+  "semantic_tags": [
+   "#Politics",
+   "#Law",
+   "#Government"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A formal meeting or a legislative body, especially in the US.",
+  "explanation_ar": "اجتماع رسمي كبير أو المجلس التشريعي 'زي البرلمان' خصوصاً في أمريكا.",
+  "examples": [
+   "The party held its annual congress to elect a leader.",
+   "A medical congress was held in Paris to discuss recent advances.",
+   "Both houses of congress must approve the proposed budget."
+  ],
+  "translations": {
+   "arabic_ar": "مؤتمر الكونغرس مجلس تشريعي"
+  },
+  "synonyms": [
+   "assembly",
+   "convention",
+   "conference",
+   "parliament"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "annual congress",
+   "hold a congress",
+   "international congress",
+   "member of congress"
+  ],
+  "mnemonic_ar": "كينغ كونغ 'Kong' عمل اجتماع كبير في الـ 'Congress'."
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "accurately",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "accurately",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a way that is correct and true in every detail.",
+  "explanation_ar": "بشكل دقيق وصحيح، من غير أي غلطات.",
+  "senses": [
+   {
+    "definition_en": "In a way that is correct and true in every detail.",
+    "explanation_ar": "بشكل دقيق وصحيح وبدون أخطاء.",
+    "examples": [
+     "It is difficult to predict the weather accurately.",
+     "The report accurately reflects the current situation.",
+     "The map depicts the area accurately."
+    ]
+   }
+  ],
+  "examples": [
+   "It is difficult to predict the weather accurately.",
+   "The report accurately reflects the current situation.",
+   "The map depicts the area accurately."
+  ],
+  "translations": [
+   "بدقة",
+   "بشكل دقيق"
+  ],
+  "relations": {
+   "synonyms": [
+    "precisely",
+    "correctly",
+    "exactly"
+   ],
+   "antonyms": [
+    "inaccurately",
+    "imprecisely",
+    "wrongly"
+   ],
+   "collocations": [
+    "predict accurately",
+    "measure accurately",
+    "reflect accurately",
+    "describe accurately"
+   ]
+  },
+  "mnemonic": "جاية من 'Accurate'.. زي الـ 'Cure' 'علاج' لازم يكون 'Accurate' 'دقيق' عشان يجيب نتيجة.",
+  "phonetic_us": "ˈækjəɹətli",
+  "phonetic_uk": "ˈækjərətli",
+  "syllables": "ac•cu•rate•ly",
+  "semantic_tags": [
+   "#Precision",
+   "#Truth",
+   "#Correctness",
+   "#Science"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a way that is correct and true in every detail.",
+  "explanation_ar": "بشكل دقيق وصحيح، من غير أي غلطات.",
+  "examples": [
+   "It is difficult to predict the weather accurately.",
+   "The report accurately reflects the current situation.",
+   "The map depicts the area accurately."
+  ],
+  "translations": {
+   "arabic_ar": "بدقة بشكل دقيق"
+  },
+  "synonyms": [
+   "precisely",
+   "correctly",
+   "exactly"
+  ],
+  "antonyms": [
+   "inaccurately",
+   "imprecisely",
+   "wrongly"
+  ],
+  "collocations": [
+   "predict accurately",
+   "measure accurately",
+   "reflect accurately",
+   "describe accurately"
+  ],
+  "mnemonic_ar": "جاية من 'Accurate'.. زي الـ 'Cure' 'علاج' لازم يكون 'Accurate' 'دقيق' عشان يجيب نتيجة."
+ }
+}

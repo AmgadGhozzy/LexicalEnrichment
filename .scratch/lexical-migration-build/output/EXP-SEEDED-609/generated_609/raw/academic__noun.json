@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "academic",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "academic",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A teacher or scholar in a college or institute of higher education.",
+  "explanation_ar": "شخص بيشتغل في الجامعة زي الدكتور أو الباحث.",
+  "senses": [
+   {
+    "definition_en": "A teacher or scholar in a college or institute of higher education.",
+    "explanation_ar": "شخص بيشتغل في الجامعة زي الدكتور أو الباحث.",
+    "examples": [
+     "He wants to become an academic.",
+     "As an academic, he values research above all else.",
+     "The university invited a leading academic to deliver the keynote speech."
+    ]
+   }
+  ],
+  "examples": [
+   "He wants to become an academic.",
+   "As an academic, he values research above all else.",
+   "The university invited a leading academic to deliver the keynote speech."
+  ],
+  "translations": [
+   "أكاديمي"
+  ],
+  "relations": {
+   "synonyms": [
+    "scholar",
+    "lecturer",
+    "professor",
+    "intellectual"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "leading academic",
+    "visiting academic"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˌæk.əˈdem.ɪk",
+  "phonetic_uk": "ˌækəˈdemɪk",
+  "syllables": "aca•dem•ic",
+  "semantic_tags": [
+   "#Job",
+   "#University",
+   "#People"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A teacher or scholar in a college or institute of higher education.",
+  "explanation_ar": "شخص بيشتغل في الجامعة زي الدكتور أو الباحث.",
+  "examples": [
+   "He wants to become an academic.",
+   "As an academic, he values research above all else.",
+   "The university invited a leading academic to deliver the keynote speech."
+  ],
+  "translations": {
+   "arabic_ar": "أكاديمي"
+  },
+  "synonyms": [
+   "scholar",
+   "lecturer",
+   "professor",
+   "intellectual"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "leading academic",
+   "visiting academic"
+  ],
+  "mnemonic_ar": null
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "eat",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "eat",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To put food into the mouth and chew and swallow it.",
+  "explanation_ar": "يأكل: يضع الطعام في فمه ويمضغه ويبتلعه.",
+  "senses": [
+   {
+    "definition_en": "To put food into the mouth and chew and swallow it.",
+    "explanation_ar": "أن يضع الإنسان أو الحيوان الطعام في فمه ويمضغه ويبتلعه.",
+    "pos": "verb",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "I eat an apple every day.",
+   "Do you eat meat or are you vegetarian?",
+   "We usually eat dinner together as a family."
+  ],
+  "translations": [
+   "يأكل",
+   "يتناول الطعام"
+  ],
+  "relations": {
+   "synonyms": [
+    "consume",
+    "dine",
+    "devour"
+   ],
+   "antonyms": [
+    "fast",
+    "starve"
+   ],
+   "collocations": [
+    "eat out",
+    "eat healthy",
+    "eat well",
+    "ready to eat"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "iːt",
+  "phonetic_uk": "iːt",
+  "syllables": [
+   "eat"
+  ],
+  "semantic_tags": [
+   "food",
+   "daily life",
+   "actions"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To put food into the mouth and chew and swallow it.",
+  "explanation_ar": "يأكل: يضع الطعام في فمه ويمضغه ويبتلعه.",
+  "examples": [
+   "I eat an apple every day.",
+   "Do you eat meat or are you vegetarian?",
+   "We usually eat dinner together as a family."
+  ],
+  "translations": {
+   "arabic_ar": "يأكل يتناول الطعام"
+  },
+  "synonyms": [
+   "consume",
+   "dine",
+   "devour"
+  ],
+  "antonyms": [
+   "fast",
+   "starve"
+  ],
+  "collocations": [
+   "eat out",
+   "eat healthy",
+   "eat well",
+   "ready to eat"
+  ],
+  "mnemonic_ar": null
+ }
+}

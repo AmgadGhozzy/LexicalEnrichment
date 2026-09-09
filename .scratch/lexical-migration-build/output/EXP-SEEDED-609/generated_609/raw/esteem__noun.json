@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "esteem",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "esteem",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Respect and admiration, typically for a person.",
+  "explanation_ar": "الاحترام والتقدير الكبير لشخص ما. زي لما نقول 'Self-esteem' 'تقدير الذات'.",
+  "senses": [
+   {
+    "pos": "noun",
+    "definition_en": "Respect and admiration, typically for a person.",
+    "definition_ar": "الاحترام والتقدير الكبير لشخص ما.",
+    "examples": [
+     "We hold him in high esteem.",
+     "It is a token of my esteem for you.",
+     "His scientific achievements earned him the esteem of his peers worldwide."
+    ],
+    "translations": [
+     "احترام",
+     "تقدير"
+    ]
+   }
+  ],
+  "examples": [
+   "We hold him in high esteem.",
+   "It is a token of my esteem for you.",
+   "His scientific achievements earned him the esteem of his peers worldwide."
+  ],
+  "translations": [
+   "احترام",
+   "تقدير"
+  ],
+  "relations": {
+   "synonyms": [
+    "respect",
+    "admiration",
+    "regard",
+    "honor"
+   ],
+   "antonyms": [
+    "disrespect",
+    "contempt",
+    "scorn"
+   ],
+   "collocations": [
+    "self-esteem",
+    "high esteem",
+    "token of esteem",
+    "hold in esteem"
+   ]
+  },
+  "mnemonic": "أشهر جملة 'Self-esteem' 'تقدير الذات'.. 'Esteem' لوحدها يعني تقدير واحترام.",
+  "phonetic_us": "ɛˈstiːm",
+  "phonetic_uk": "ɪˈstiːm",
+  "syllables": "es•teem",
+  "semantic_tags": [
+   "#Respect",
+   "#Value",
+   "#Honor",
+   "#Feeling"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Respect and admiration, typically for a person.",
+  "explanation_ar": "الاحترام والتقدير الكبير لشخص ما. زي لما نقول 'Self-esteem' 'تقدير الذات'.",
+  "examples": [
+   "We hold him in high esteem.",
+   "It is a token of my esteem for you.",
+   "His scientific achievements earned him the esteem of his peers worldwide."
+  ],
+  "translations": {
+   "arabic_ar": "احترام تقدير"
+  },
+  "synonyms": [
+   "respect",
+   "admiration",
+   "regard",
+   "honor"
+  ],
+  "antonyms": [
+   "disrespect",
+   "contempt",
+   "scorn"
+  ],
+  "collocations": [
+   "self-esteem",
+   "high esteem",
+   "token of esteem",
+   "hold in esteem"
+  ],
+  "mnemonic_ar": "أشهر جملة 'Self-esteem' 'تقدير الذات'.. 'Esteem' لوحدها يعني تقدير واحترام."
+ }
+}

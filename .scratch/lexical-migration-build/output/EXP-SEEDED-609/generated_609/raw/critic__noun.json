@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "critic",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "critic",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who judges the merits of literary, artistic, or musical works, or someone who expresses disapproval.",
+  "explanation_ar": "الشخص الذي يقيم وينقد الأعمال الفنية والأدبية، أو الشخص الذي ينتقد ويعارض أمراً ما.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person whose job is to review and judge the quality of books, films, art, or food.",
+    "explanation_ar": "ناقد متخصص وظيفته تقييم الكتب، الأفلام، الفنون، أو المطاعم.",
+    "examples": [
+     "She is a food critic for the newspaper.",
+     "The literary critic deconstructed the novel's themes."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A person who expresses disapproval of someone or something.",
+    "explanation_ar": "شخص يوجه اللوم أو الانتقاد لشيء أو شخص معين.",
+    "examples": [
+     "He is a harsh critic of the government's policy."
+    ]
+   }
+  ],
+  "examples": [
+   "She is a food critic for the newspaper.",
+   "He is a harsh critic of the government's policy.",
+   "The literary critic deconstructed the novel's themes."
+  ],
+  "translations": [
+   "ناقد",
+   "مُنتَقِد"
+  ],
+  "relations": {
+   "synonyms": [
+    "reviewer",
+    "commentator",
+    "analyst",
+    "judge"
+   ],
+   "antonyms": [
+    "supporter",
+    "fan"
+   ],
+   "collocations": [
+    "film critic",
+    "food critic",
+    "harsh critic",
+    "art critic"
+   ]
+  },
+  "mnemonic": "من 'Critical' 'نقدي'.. الـ 'Critic' هو الشخص اللي بيكتب الـ 'Critique'.",
+  "phonetic_us": "ˈkrɪt.ɪk",
+  "phonetic_uk": "ˈkrɪt.ɪk",
+  "syllables": "crit•ic",
+  "semantic_tags": [
+   "Review",
+   "Opinion",
+   "Judgment"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who judges the merits of literary, artistic, or musical works, or someone who expresses disapproval.",
+  "explanation_ar": "الشخص الذي يقيم وينقد الأعمال الفنية والأدبية، أو الشخص الذي ينتقد ويعارض أمراً ما.",
+  "examples": [
+   "She is a food critic for the newspaper.",
+   "He is a harsh critic of the government's policy.",
+   "The literary critic deconstructed the novel's themes."
+  ],
+  "translations": {
+   "arabic_ar": "ناقد مُنتَقِد"
+  },
+  "synonyms": [
+   "reviewer",
+   "commentator",
+   "analyst",
+   "judge"
+  ],
+  "antonyms": [
+   "supporter",
+   "fan"
+  ],
+  "collocations": [
+   "film critic",
+   "food critic",
+   "harsh critic",
+   "art critic"
+  ],
+  "mnemonic_ar": "من 'Critical' 'نقدي'.. الـ 'Critic' هو الشخص اللي بيكتب الـ 'Critique'."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "exile",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "exile",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state of being barred from one's native country, usually for political reasons.",
+  "explanation_ar": "المنفى. إن حد ينطرد من بلده ومايقدرش يرجع لها تاني، غالباً لأسباب سياسية.",
+  "senses": [
+   {
+    "definition_en": "The state of being barred from one's native country, usually for political reasons.",
+    "explanation_ar": "المنفى؛ إبعاد الشخص قسراً عن وطنه ومنعه من العودة لأسباب سياسية أو عقابية.",
+    "examples": [
+     "He was sent into exile for ten years.",
+     "Many writers lived in exile during the war.",
+     "The government in exile continued to operate from abroad."
+    ]
+   }
+  ],
+  "examples": [
+   "He was sent into exile for ten years.",
+   "Many writers lived in exile during the war.",
+   "The government in exile continued to operate from abroad."
+  ],
+  "translations": [
+   "مَنْفَى"
+  ],
+  "relations": {
+   "synonyms": [
+    "banishment",
+    "expulsion",
+    "deportation",
+    "displacement"
+   ],
+   "antonyms": [
+    "repatriation",
+    "return"
+   ],
+   "collocations": [
+    "in exile",
+    "forced exile",
+    "political exile",
+    "go into exile"
+   ]
+  },
+  "mnemonic": "شبه 'Exit' 'خروج'.. الـ 'Exile' هو خروج إجباري من البلد بلا عودة",
+  "phonetic_us": "ˈɛɡzaɪl",
+  "phonetic_uk": "ˈeksaɪl",
+  "syllables": "ex•ile",
+  "semantic_tags": [
+   "politics",
+   "punishment",
+   "country"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of being barred from one's native country, usually for political reasons.",
+  "explanation_ar": "المنفى. إن حد ينطرد من بلده ومايقدرش يرجع لها تاني، غالباً لأسباب سياسية.",
+  "examples": [
+   "He was sent into exile for ten years.",
+   "Many writers lived in exile during the war.",
+   "The government in exile continued to operate from abroad."
+  ],
+  "translations": {
+   "arabic_ar": "مَنْفَى"
+  },
+  "synonyms": [
+   "banishment",
+   "expulsion",
+   "deportation",
+   "displacement"
+  ],
+  "antonyms": [
+   "repatriation",
+   "return"
+  ],
+  "collocations": [
+   "in exile",
+   "forced exile",
+   "political exile",
+   "go into exile"
+  ],
+  "mnemonic_ar": "شبه 'Exit' 'خروج'.. الـ 'Exile' هو خروج إجباري من البلد بلا عودة"
+ }
+}

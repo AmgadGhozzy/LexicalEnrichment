@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "clumsy",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "clumsy",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Awkward in movement or in handling things.",
+  "explanation_ar": "يعني حركته تقيلة وبيوقع الحاجات.. مش رشيق",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Awkward in movement or in handling things.",
+    "definition_ar": "أخرق أو ثقيل الحركة ويتعامل مع الأشياء بقلة براعة.",
+    "examples": [
+     "The waiter was clumsy and spilled the wine.",
+     "The bulky equipment made the divers feel clumsy underwater."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Done or said without skill, tact, or grace.",
+    "definition_ar": "غير متقن أو يفتقر إلى اللباقة والبراعة.",
+    "examples": [
+     "He made a clumsy attempt to catch the ball."
+    ]
+   }
+  ],
+  "examples": [
+   "The waiter was clumsy and spilled the wine.",
+   "He made a clumsy attempt to catch the ball.",
+   "The bulky equipment made the divers feel clumsy underwater."
+  ],
+  "translations": [
+   "أَخْرَق",
+   "قَلِيلُ البَرَاعَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "awkward",
+    "ungainly",
+    "uncoordinated"
+   ],
+   "antonyms": [
+    "graceful",
+    "agile",
+    "skillful"
+   ],
+   "collocations": [
+    "clumsy mistake",
+    "clumsy attempt",
+    "feel clumsy"
+   ],
+   "word_family": {
+    "adjective": "clumsy",
+    "adverb": "clumsily",
+    "noun": "clumsiness"
+   }
+  },
+  "mnemonic": "اربط الكلمة بعبارة 'كل ما يمسك' (Clum-sy) حاجة يوقعها ويكسرها لأنه شخص أخرق.",
+  "phonetic_us": "ˈklʌmzi",
+  "phonetic_uk": "ˈklʌmzi",
+  "syllables": "clum•sy",
+  "semantic_tags": [
+   "Movement",
+   "Awkward",
+   "Mistake",
+   "Personality"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Awkward in movement or in handling things.",
+  "explanation_ar": "يعني حركته تقيلة وبيوقع الحاجات.. مش رشيق",
+  "examples": [
+   "The waiter was clumsy and spilled the wine.",
+   "He made a clumsy attempt to catch the ball.",
+   "The bulky equipment made the divers feel clumsy underwater."
+  ],
+  "translations": {
+   "arabic_ar": "أَخْرَق قَلِيلُ البَرَاعَة"
+  },
+  "synonyms": [
+   "awkward",
+   "ungainly",
+   "uncoordinated"
+  ],
+  "antonyms": [
+   "graceful",
+   "agile",
+   "skillful"
+  ],
+  "collocations": [
+   "clumsy mistake",
+   "clumsy attempt",
+   "feel clumsy"
+  ],
+  "mnemonic_ar": "اربط الكلمة بعبارة 'كل ما يمسك' (Clum-sy) حاجة يوقعها ويكسرها لأنه شخص أخرق."
+ }
+}

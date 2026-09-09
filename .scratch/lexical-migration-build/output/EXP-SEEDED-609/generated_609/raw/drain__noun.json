@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "drain",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "drain",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A channel or pipe for carrying off liquid; or something that uses up resources.",
+  "explanation_ar": "البالوعة أو المصرف اللي المية بتمشي فيه. وممكن تيجي بمعنى استنزاف 'زي استنزاف الطاقة أو الفلوس'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Something that continuously uses up a lot of time, money, or resources.",
+    "definition_ar": "استنزاف أو عبء مستمر يستهلك الموارد أو المال أو الطاقة.",
+    "examples": [
+     "The war was a huge drain on the country's resources.",
+     "Buying that car was a drain on my savings."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A pipe or hole that carries away dirty water or other liquids.",
+    "definition_ar": "بالوعة أو مصرف مياه لصرف السوائل.",
+    "examples": [
+     "The water goes down the drain."
+    ]
+   }
+  ],
+  "examples": [
+   "The war was a huge drain on the country's resources.",
+   "Buying that car was a drain on my savings.",
+   "The water goes down the drain."
+  ],
+  "translations": [
+   "استنزاف",
+   "بالوعة",
+   "مصرف"
+  ],
+  "relations": {
+   "synonyms": [
+    "burden",
+    "outlet",
+    "pipe"
+   ],
+   "antonyms": [
+    "source",
+    "supply"
+   ],
+   "collocations": [
+    "brain drain",
+    "down the drain",
+    "drain pipe"
+   ]
+  },
+  "mnemonic": "الدنيا 'Rain' 'مطر' والمية بتنزل في الـ 'Drain'.",
+  "phonetic_us": "dreɪn",
+  "phonetic_uk": "dreɪn",
+  "syllables": "drain",
+  "semantic_tags": [
+   "#Plumbing",
+   "#Waste",
+   "#Loss"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A channel or pipe for carrying off liquid; or something that uses up resources.",
+  "explanation_ar": "البالوعة أو المصرف اللي المية بتمشي فيه. وممكن تيجي بمعنى استنزاف 'زي استنزاف الطاقة أو الفلوس'.",
+  "examples": [
+   "The war was a huge drain on the country's resources.",
+   "Buying that car was a drain on my savings.",
+   "The water goes down the drain."
+  ],
+  "translations": {
+   "arabic_ar": "استنزاف بالوعة مصرف"
+  },
+  "synonyms": [
+   "burden",
+   "outlet",
+   "pipe"
+  ],
+  "antonyms": [
+   "source",
+   "supply"
+  ],
+  "collocations": [
+   "brain drain",
+   "down the drain",
+   "drain pipe"
+  ],
+  "mnemonic_ar": "الدنيا 'Rain' 'مطر' والمية بتنزل في الـ 'Drain'."
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "discern",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "discern",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To perceive or recognize something clearly.",
+  "explanation_ar": "يعني تميز حاجة أو تلمحها بوضوح.. بتفهم الفرق بين الحاجات",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To perceive or recognize something clearly, especially with effort or careful observation.",
+    "definition_ar": "أن تدرك أو تميّز شيئاً بوضوح، خاصة بعد تدقيق أو بصعوبة.",
+    "examples": [
+     "It is hard to discern the truth.",
+     "I could just discern a figure in the darkness.",
+     "It is difficult to discern any pattern in these figures."
+    ]
+   }
+  ],
+  "examples": [
+   "It is hard to discern the truth.",
+   "I could just discern a figure in the darkness.",
+   "It is difficult to discern any pattern in these figures."
+  ],
+  "translations": [
+   "يُمَيِّز",
+   "يَتَبَيَّن"
+  ],
+  "relations": {
+   "synonyms": [
+    "perceive",
+    "detect",
+    "recognize",
+    "distinguish"
+   ],
+   "antonyms": [
+    "overlook",
+    "miss",
+    "confuse"
+   ],
+   "collocations": [
+    "discern a difference",
+    "discern the truth",
+    "hard to discern"
+   ]
+  },
+  "mnemonic": "كلمة 'Discern' فيها 'Concern'.. لما تهتم بـ 'Concern' معين هتقدر تميزه 'Discern' بوضوح",
+  "phonetic_us": "dɪˈsɜrn",
+  "phonetic_uk": "dɪˈsɜːn",
+  "syllables": "dis•cern",
+  "semantic_tags": [
+   "#Perception",
+   "#Vision",
+   "#Understanding",
+   "#Clarity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To perceive or recognize something clearly.",
+  "explanation_ar": "يعني تميز حاجة أو تلمحها بوضوح.. بتفهم الفرق بين الحاجات",
+  "examples": [
+   "It is hard to discern the truth.",
+   "I could just discern a figure in the darkness.",
+   "It is difficult to discern any pattern in these figures."
+  ],
+  "translations": {
+   "arabic_ar": "يُمَيِّز يَتَبَيَّن"
+  },
+  "synonyms": [
+   "perceive",
+   "detect",
+   "recognize",
+   "distinguish"
+  ],
+  "antonyms": [
+   "overlook",
+   "miss",
+   "confuse"
+  ],
+  "collocations": [
+   "discern a difference",
+   "discern the truth",
+   "hard to discern"
+  ],
+  "mnemonic_ar": "كلمة 'Discern' فيها 'Concern'.. لما تهتم بـ 'Concern' معين هتقدر تميزه 'Discern' بوضوح"
+ }
+}

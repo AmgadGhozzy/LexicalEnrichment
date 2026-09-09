@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "articulate",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "articulate",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To express an idea or feeling fluently and coherently.",
+  "explanation_ar": "إنك تعرف تعبر عن أفكارك وتتكلم بوضوح وطلاقة.",
+  "senses": [
+   {
+    "definition_en": "To express an idea or feeling fluently and coherently.",
+    "explanation_ar": "أن تعبر عن أفكارك أو مشاعرك بوضوح وطلاقة."
+   }
+  ],
+  "examples": [
+   "She struggled to articulate her feelings.",
+   "The teacher helped him articulate his thoughts.",
+   "He was able to articulate the complex theory simply."
+  ],
+  "translations": [
+   "يعبّر بوضوح",
+   "يفصح عن"
+  ],
+  "relations": {
+   "synonyms": [
+    "express",
+    "voice",
+    "enunciate",
+    "pronounce"
+   ],
+   "antonyms": [
+    "mumble",
+    "bottle up"
+   ],
+   "collocations": [
+    "articulate clearly",
+    "articulate a vision",
+    "struggle to articulate"
+   ]
+  },
+  "mnemonic": "كلمة 'Art' 'فن'.. الـ 'Articulate' عنده فن الكلام.",
+  "phonetic_us": "ɑrˈtɪkjəˌleɪt",
+  "phonetic_uk": "ɑːˈtɪkjʊleɪt",
+  "syllables": "ar•tic•u•late",
+  "semantic_tags": [
+   "#Speech",
+   "#Expression",
+   "#Clear"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To express an idea or feeling fluently and coherently.",
+  "explanation_ar": "إنك تعرف تعبر عن أفكارك وتتكلم بوضوح وطلاقة.",
+  "examples": [
+   "She struggled to articulate her feelings.",
+   "The teacher helped him articulate his thoughts.",
+   "He was able to articulate the complex theory simply."
+  ],
+  "translations": {
+   "arabic_ar": "يعبّر بوضوح يفصح عن"
+  },
+  "synonyms": [
+   "express",
+   "voice",
+   "enunciate",
+   "pronounce"
+  ],
+  "antonyms": [
+   "mumble",
+   "bottle up"
+  ],
+  "collocations": [
+   "articulate clearly",
+   "articulate a vision",
+   "struggle to articulate"
+  ],
+  "mnemonic_ar": "كلمة 'Art' 'فن'.. الـ 'Articulate' عنده فن الكلام."
+ }
+}

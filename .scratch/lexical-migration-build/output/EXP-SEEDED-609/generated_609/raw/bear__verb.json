@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "bear",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "bear",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To carry the weight of; to support or endure.",
+  "explanation_ar": "يتحمل أو يطيق حاجة صعبة، أو يشيل مسؤولية، وساعات بتيجي بمعنى يحمل 'زي يحمل اسم'.",
+  "senses": [
+   {
+    "definition_en": "To tolerate or endure an unpleasant or painful situation.",
+    "definition_ar": "يتحمل أو يطيق أمراً صعباً أو مؤلماً",
+    "examples": [
+     "He could not bear the pain any longer."
+    ]
+   },
+   {
+    "definition_en": "To hold up or support a weight or burden.",
+    "definition_ar": "يحمل أو يتحمل وزناً أو عبئاً",
+    "examples": [
+     "The bridge was designed to bear the weight of heavy trucks."
+    ]
+   }
+  ],
+  "examples": [
+   "The bridge was designed to bear the weight of heavy trucks.",
+   "He could not bear the pain any longer.",
+   "Please bear in mind that the rules have changed."
+  ],
+  "translations": [
+   "يتحمل",
+   "يطيق",
+   "يحمل"
+  ],
+  "relations": {
+   "synonyms": [
+    "endure",
+    "tolerate",
+    "carry",
+    "support"
+   ],
+   "antonyms": [
+    "collapse",
+    "yield",
+    "avoid"
+   ],
+   "collocations": [
+    "bear in mind",
+    "can't bear",
+    "bear responsibility",
+    "bear fruit"
+   ]
+  },
+  "mnemonic": "تخيل إنك شايل 'Bear' 'دب' تقيل على ضهرك.. لازم 'Bear' 'تتحمل' الوزن ده.",
+  "phonetic_us": "ber",
+  "phonetic_uk": "beər",
+  "syllables": "bear",
+  "semantic_tags": [
+   "#Endurance",
+   "#Support",
+   "#Carrying",
+   "#Tolerance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To carry the weight of; to support or endure.",
+  "explanation_ar": "يتحمل أو يطيق حاجة صعبة، أو يشيل مسؤولية، وساعات بتيجي بمعنى يحمل 'زي يحمل اسم'.",
+  "examples": [
+   "The bridge was designed to bear the weight of heavy trucks.",
+   "He could not bear the pain any longer.",
+   "Please bear in mind that the rules have changed."
+  ],
+  "translations": {
+   "arabic_ar": "يتحمل يطيق يحمل"
+  },
+  "synonyms": [
+   "endure",
+   "tolerate",
+   "carry",
+   "support"
+  ],
+  "antonyms": [
+   "collapse",
+   "yield",
+   "avoid"
+  ],
+  "collocations": [
+   "bear in mind",
+   "can't bear",
+   "bear responsibility",
+   "bear fruit"
+  ],
+  "mnemonic_ar": "تخيل إنك شايل 'Bear' 'دب' تقيل على ضهرك.. لازم 'Bear' 'تتحمل' الوزن ده."
+ }
+}

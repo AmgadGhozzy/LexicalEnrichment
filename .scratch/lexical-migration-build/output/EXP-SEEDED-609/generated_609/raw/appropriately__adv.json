@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "appropriately",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "appropriately",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a manner that is suitable or proper in the circumstances.",
+  "explanation_ar": "إنك تعمل الحاجة بالشكل الصح والمناسب للموقف اللي إنت فيه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In a manner that is suitable or proper in the circumstances.",
+    "explanation_ar": "إنك تعمل الحاجة بالشكل الصح والمناسب للموقف اللي إنت فيه.",
+    "examples": [
+     "You should dress appropriately for the interview.",
+     "She responded appropriately to the question.",
+     "The funds were not used appropriately."
+    ]
+   }
+  ],
+  "examples": [
+   "You should dress appropriately for the interview.",
+   "She responded appropriately to the question.",
+   "The funds were not used appropriately."
+  ],
+  "translations": [
+   "بشكل مناسب",
+   "على نحو ملائم",
+   "بما يناسب الموقف"
+  ],
+  "relations": {
+   "synonyms": [
+    "suitably",
+    "properly",
+    "fittingly"
+   ],
+   "antonyms": [
+    "inappropriately",
+    "improperly"
+   ],
+   "collocations": [
+    "act appropriately",
+    "dress appropriately",
+    "respond appropriately"
+   ]
+  },
+  "mnemonic": "من 'Proper' مناسب.. اتصرف 'Appropriately' يعني خليك 'Proper' ومحترم.",
+  "phonetic_us": "əˈproʊpriətli",
+  "phonetic_uk": "əˈprəʊpriətli",
+  "syllables": "ap•pro•pri•ate•ly",
+  "semantic_tags": [
+   "#Proper",
+   "#Correct",
+   "#Manner",
+   "#Behavior"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In a manner that is suitable or proper in the circumstances.",
+  "explanation_ar": "إنك تعمل الحاجة بالشكل الصح والمناسب للموقف اللي إنت فيه.",
+  "examples": [
+   "You should dress appropriately for the interview.",
+   "She responded appropriately to the question.",
+   "The funds were not used appropriately."
+  ],
+  "translations": {
+   "arabic_ar": "بشكل مناسب على نحو ملائم بما يناسب الموقف"
+  },
+  "synonyms": [
+   "suitably",
+   "properly",
+   "fittingly"
+  ],
+  "antonyms": [
+   "inappropriately",
+   "improperly"
+  ],
+  "collocations": [
+   "act appropriately",
+   "dress appropriately",
+   "respond appropriately"
+  ],
+  "mnemonic_ar": "من 'Proper' مناسب.. اتصرف 'Appropriately' يعني خليك 'Proper' ومحترم."
+ }
+}

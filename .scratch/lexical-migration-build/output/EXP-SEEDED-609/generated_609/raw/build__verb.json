@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "build",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "build",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To make something by putting bricks or other materials together.",
+  "explanation_ar": "يبني حاجة زي بيت أو عمارة، أو حتى يبني مهارة ويطورها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To make something by putting bricks or other materials together.",
+    "explanation_ar": "يبني أو يشيد مبنى أو شيئاً مادياً بوضع المواد مع بعضها."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To create or develop something gradually over time.",
+    "explanation_ar": "يبني أو يطور شيئاً معنوياً بشكل تدريجي (مثل الثقة، السمعة، أو المستقبل المهني)."
+   }
+  ],
+  "examples": [
+   "We want to build a sandcastle on the beach.",
+   "The company plans to build a factory in the city.",
+   "It takes time to build a successful career."
+  ],
+  "translations": [
+   "يبني",
+   "يشيد"
+  ],
+  "relations": {
+   "synonyms": [
+    "construct",
+    "assemble",
+    "erect"
+   ],
+   "antonyms": [
+    "destroy",
+    "demolish",
+    "tear down"
+   ],
+   "collocations": [
+    "build a house",
+    "build trust",
+    "build confidence",
+    "build up"
+   ]
+  },
+  "mnemonic": "كلمة 'Build' شبه كلمة 'Billed' يعني مدفوع.. عشان تبني 'Build' بيت محتاج تدفع فواتير كتير.",
+  "phonetic_us": "/bɪld/",
+  "phonetic_uk": "/bɪld/",
+  "syllables": [
+   "build"
+  ],
+  "semantic_tags": [
+   "construction",
+   "creation",
+   "growth"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To make something by putting bricks or other materials together.",
+  "explanation_ar": "يبني حاجة زي بيت أو عمارة، أو حتى يبني مهارة ويطورها.",
+  "examples": [
+   "We want to build a sandcastle on the beach.",
+   "The company plans to build a factory in the city.",
+   "It takes time to build a successful career."
+  ],
+  "translations": {
+   "arabic_ar": "يبني يشيد"
+  },
+  "synonyms": [
+   "construct",
+   "assemble",
+   "erect"
+  ],
+  "antonyms": [
+   "destroy",
+   "demolish",
+   "tear down"
+  ],
+  "collocations": [
+   "build a house",
+   "build trust",
+   "build confidence",
+   "build up"
+  ],
+  "mnemonic_ar": "كلمة 'Build' شبه كلمة 'Billed' يعني مدفوع.. عشان تبني 'Build' بيت محتاج تدفع فواتير كتير."
+ }
+}

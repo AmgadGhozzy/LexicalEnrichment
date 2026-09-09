@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "duck",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "duck",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A water bird with short legs, webbed feet, and a broad bill.",
+  "explanation_ar": "البطة، الطائر اللي بيعوم في المية ورجليه قصيرة.",
+  "senses": [
+   {
+    "definition_en": "A water bird with short legs, webbed feet, and a broad bill.",
+    "explanation_ar": "البطة: طائر مائي يتميز بأرجله القصيرة ومنقاره العريض وريشه المقاوم للماء.",
+    "examples": [
+     "Look at the duck on the water.",
+     "The mother duck is followed by her babies.",
+     "A small duck was swimming in the pond."
+    ]
+   }
+  ],
+  "examples": [
+   "Look at the duck on the water.",
+   "The mother duck is followed by her babies.",
+   "A small duck was swimming in the pond."
+  ],
+  "translations": [
+   "بطة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "rubber duck",
+    "lame duck",
+    "sitting duck"
+   ]
+  },
+  "mnemonic": "شخصية 'Donald Duck' مشهورة جداً.. 'Duck' يعني بطة.",
+  "phonetic_us": "dʌk",
+  "phonetic_uk": "dʌk",
+  "syllables": "duck",
+  "semantic_tags": [
+   "#Bird",
+   "#Animal",
+   "#Water",
+   "#Farm"
+  ],
+  "ai_confidence": 1.0
+ },
+ "arm": {
+  "definition_en": "A water bird with short legs, webbed feet, and a broad bill.",
+  "explanation_ar": "البطة، الطائر اللي بيعوم في المية ورجليه قصيرة.",
+  "examples": [
+   "Look at the duck on the water.",
+   "The mother duck is followed by her babies.",
+   "A small duck was swimming in the pond."
+  ],
+  "translations": {
+   "arabic_ar": "بطة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "rubber duck",
+   "lame duck",
+   "sitting duck"
+  ],
+  "mnemonic_ar": "شخصية 'Donald Duck' مشهورة جداً.. 'Duck' يعني بطة."
+ }
+}

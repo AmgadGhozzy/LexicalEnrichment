@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "apology",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "apology",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A regretful acknowledgment of an offense or failure.",
+  "explanation_ar": "الاعتذار، وهو إظهار الندم والاعتراف بالخطأ لطلب العفو أو تصحيح الموقف.",
+  "senses": [
+   {
+    "sense_id": "apology_1",
+    "definition_en": "A regretful acknowledgment of an offense or failure.",
+    "definition_ar": "اعتذار؛ إبداء الأسف والاعتراف بالخطأ أو التقصير.",
+    "examples": [
+     "She wrote a letter of apology.",
+     "He owes you a sincere apology.",
+     "The company issued a public apology for the error."
+    ]
+   }
+  ],
+  "examples": [
+   "She wrote a letter of apology.",
+   "He owes you a sincere apology.",
+   "The company issued a public apology for the error."
+  ],
+  "translations": [
+   "اعتذار"
+  ],
+  "relations": {
+   "synonyms": [
+    "amends",
+    "expression of regret",
+    "excuse"
+   ],
+   "antonyms": [
+    "defiance",
+    "refusal"
+   ],
+   "collocations": [
+    "accept an apology",
+    "sincere apology",
+    "owe an apology",
+    "make an apology"
+   ]
+  },
+  "mnemonic": "تخيل أن رائد فضاء من رحلة 'أبولو جِه' (Apollo-gy) علشان يقدّم اعتذار رسمي.",
+  "phonetic_us": "əˈpɑːlədʒi",
+  "phonetic_uk": "əˈpɒlədʒi",
+  "syllables": "a-pol-o-gy",
+  "semantic_tags": [
+   "#Manners",
+   "#Regret",
+   "#Forgiveness",
+   "#Communication"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A regretful acknowledgment of an offense or failure.",
+  "explanation_ar": "الاعتذار، وهو إظهار الندم والاعتراف بالخطأ لطلب العفو أو تصحيح الموقف.",
+  "examples": [
+   "She wrote a letter of apology.",
+   "He owes you a sincere apology.",
+   "The company issued a public apology for the error."
+  ],
+  "translations": {
+   "arabic_ar": "اعتذار"
+  },
+  "synonyms": [
+   "amends",
+   "expression of regret",
+   "excuse"
+  ],
+  "antonyms": [
+   "defiance",
+   "refusal"
+  ],
+  "collocations": [
+   "accept an apology",
+   "sincere apology",
+   "owe an apology",
+   "make an apology"
+  ],
+  "mnemonic_ar": "تخيل أن رائد فضاء من رحلة 'أبولو جِه' (Apollo-gy) علشان يقدّم اعتذار رسمي."
+ }
+}

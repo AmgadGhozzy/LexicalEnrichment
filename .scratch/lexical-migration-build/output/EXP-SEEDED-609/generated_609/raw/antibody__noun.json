@@ -1,0 +1,73 @@
+{
+ "identity": {
+  "lemma": "antibody",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "antibody",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A protein produced in the blood to fight diseases and foreign substances.",
+  "explanation_ar": "مادة 'بروتين' جسمك بيفرزها عشان تحارب الأمراض والبكتيريا اللي بتهاجمك.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A protein produced in the blood to fight diseases and foreign substances.",
+    "definition_ar": "بروتين ينتجه الجهاز المناعي في الدم لمحاربة العدوى والمواد الغريبة."
+   }
+  ],
+  "examples": [
+   "The lab test checks whether a protective antibody is present in the bloodstream.",
+   "The virus mutates to escape antibody detection.",
+   "Monoclonal antibody therapy has become an effective treatment for certain cancers."
+  ],
+  "translations": [
+   "جسم مضاد"
+  ],
+  "relations": {
+   "synonyms": [
+    "immunoglobulin"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "antibody test",
+    "antibody response",
+    "monoclonal antibody"
+   ]
+  },
+  "mnemonic": "'Anti' يعني ضد.. و 'Body' يعني جسم.. هو جسم صغير 'Anti' 'ضد' الأمراض.",
+  "phonetic_us": "ˈæntibɑːdi",
+  "phonetic_uk": "ˈæntibɒdi",
+  "syllables": "an•ti•body",
+  "semantic_tags": [
+   "Health",
+   "Biology",
+   "Medicine",
+   "Immunity"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A protein produced in the blood to fight diseases and foreign substances.",
+  "explanation_ar": "مادة 'بروتين' جسمك بيفرزها عشان تحارب الأمراض والبكتيريا اللي بتهاجمك.",
+  "examples": [
+   "The lab test checks whether a protective antibody is present in the bloodstream.",
+   "The virus mutates to escape antibody detection.",
+   "Monoclonal antibody therapy has become an effective treatment for certain cancers."
+  ],
+  "translations": {
+   "arabic_ar": "جسم مضاد"
+  },
+  "synonyms": [
+   "immunoglobulin"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "antibody test",
+   "antibody response",
+   "monoclonal antibody"
+  ],
+  "mnemonic_ar": "'Anti' يعني ضد.. و 'Body' يعني جسم.. هو جسم صغير 'Anti' 'ضد' الأمراض."
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "consequent",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "consequent",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Following as a result or effect of something.",
+  "explanation_ar": "اللي بيحصل كنتيجة لحاجة قبله، يعني التابع أو الناتج.",
+  "senses": [
+   {
+    "definition_en": "Following as a result or effect of something.",
+    "explanation_ar": "ناتج عن أو تابع لشيء كأثر أو نتيجة له.",
+    "examples": [
+     "The heavy rains and consequent flooding devastated the region.",
+     "The rise in prices and consequent fall in demand was expected.",
+     "He made a mistake and suffered the consequent loss of money."
+    ]
+   }
+  ],
+  "examples": [
+   "The heavy rains and consequent flooding devastated the region.",
+   "The rise in prices and consequent fall in demand was expected.",
+   "He made a mistake and suffered the consequent loss of money."
+  ],
+  "translations": [
+   "نَاتِج",
+   "تَالٍ",
+   "مُتَرَتِّب عَلَى"
+  ],
+  "relations": {
+   "synonyms": [
+    "resulting",
+    "ensuing",
+    "following",
+    "subsequent"
+   ],
+   "antonyms": [
+    "prior",
+    "antecedent"
+   ],
+   "collocations": [
+    "consequent upon",
+    "consequent loss",
+    "consequent damage"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'sequence' (تسلسل)؛ الـ 'consequent' هو الشيء اللي بيجي تالي في التسلسل كنتيجة لما قبله.",
+  "phonetic_us": "ˈkɑːnsɪkwənt",
+  "phonetic_uk": "ˈkɒnsɪkwənt",
+  "syllables": "con•se•quent",
+  "semantic_tags": [
+   "Result",
+   "Logic",
+   "Sequence"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Following as a result or effect of something.",
+  "explanation_ar": "اللي بيحصل كنتيجة لحاجة قبله، يعني التابع أو الناتج.",
+  "examples": [
+   "The heavy rains and consequent flooding devastated the region.",
+   "The rise in prices and consequent fall in demand was expected.",
+   "He made a mistake and suffered the consequent loss of money."
+  ],
+  "translations": {
+   "arabic_ar": "نَاتِج تَالٍ مُتَرَتِّب عَلَى"
+  },
+  "synonyms": [
+   "resulting",
+   "ensuing",
+   "following",
+   "subsequent"
+  ],
+  "antonyms": [
+   "prior",
+   "antecedent"
+  ],
+  "collocations": [
+   "consequent upon",
+   "consequent loss",
+   "consequent damage"
+  ],
+  "mnemonic_ar": "شبه كلمة 'sequence' (تسلسل)؛ الـ 'consequent' هو الشيء اللي بيجي تالي في التسلسل كنتيجة لما قبله."
+ }
+}

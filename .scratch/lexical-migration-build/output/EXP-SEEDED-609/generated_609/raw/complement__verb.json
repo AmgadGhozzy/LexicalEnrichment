@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "complement",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "complement",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To add to something in a way that enhances or improves it.",
+  "explanation_ar": "إنك تضيف لحاجة عشان تحسنها أو تكملها، زي لما تحط صوص على الأكل يكمل طعمه.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To add to something in a way that enhances or improves it.",
+    "definition_ar": "يُكمِّل أو يُعزِّز شيئاً ليجعله أفضل أو أكثر اكتمالاً.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "The colors complement each other.",
+   "Her skills complement his experience perfectly.",
+   "A good wine will complement the meal."
+  ],
+  "translations": [
+   "يُكَمِّل",
+   "يُتَمِّم",
+   "يُعَزِّز"
+  ],
+  "relations": {
+   "synonyms": [
+    "enhance",
+    "complete",
+    "round off"
+   ],
+   "antonyms": [
+    "clash with",
+    "detract from"
+   ],
+   "collocations": [
+    "complement each other",
+    "perfectly complement",
+    "complement the flavor"
+   ],
+   "word_family": {
+    "noun": "complement",
+    "verb": "complement",
+    "adjective": "complementary"
+   }
+  },
+  "mnemonic": "نفس فكرة 'Complete'.. الفعل 'Complement' يعني 'بيعمل Complete'.",
+  "phonetic_us": "ˈkɑmpləmənt",
+  "phonetic_uk": "ˈkɒmpləmənt",
+  "syllables": "com•ple•ment",
+  "semantic_tags": [
+   "Improve",
+   "Match",
+   "Enhance",
+   "Combine"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To add to something in a way that enhances or improves it.",
+  "explanation_ar": "إنك تضيف لحاجة عشان تحسنها أو تكملها، زي لما تحط صوص على الأكل يكمل طعمه.",
+  "examples": [
+   "The colors complement each other.",
+   "Her skills complement his experience perfectly.",
+   "A good wine will complement the meal."
+  ],
+  "translations": {
+   "arabic_ar": "يُكَمِّل يُتَمِّم يُعَزِّز"
+  },
+  "synonyms": [
+   "enhance",
+   "complete",
+   "round off"
+  ],
+  "antonyms": [
+   "clash with",
+   "detract from"
+  ],
+  "collocations": [
+   "complement each other",
+   "perfectly complement",
+   "complement the flavor"
+  ],
+  "mnemonic_ar": "نفس فكرة 'Complete'.. الفعل 'Complement' يعني 'بيعمل Complete'."
+ }
+}

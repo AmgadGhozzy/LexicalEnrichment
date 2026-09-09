@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "begin",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "begin",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To start doing something; to undergo the first part of an action.",
+  "explanation_ar": "يبدأ.. يعني تبتدي وتعمل أول خطوة في الموضوع.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To start doing something; to undergo the first part of an action.",
+    "explanation_ar": "يبدأ.. يعني تبتدي وتعمل أول خطوة في الموضوع.",
+    "examples": [
+     "We can begin the meeting now.",
+     "What time does the concert begin?",
+     "They will begin to work tomorrow."
+    ]
+   }
+  ],
+  "examples": [
+   "We can begin the meeting now.",
+   "What time does the concert begin?",
+   "They will begin to work tomorrow."
+  ],
+  "translations": [
+   "يبدأ"
+  ],
+  "relations": {
+   "synonyms": [
+    "start",
+    "commence",
+    "initiate"
+   ],
+   "antonyms": [
+    "end",
+    "stop",
+    "finish"
+   ],
+   "collocations": [
+    "begin with",
+    "begin to",
+    "begin by"
+   ]
+  },
+  "mnemonic": "عكس 'End'.. 'Begin' يعني يبدأ.",
+  "phonetic_us": "bɪˈɡɪn",
+  "phonetic_uk": "bɪˈɡɪn",
+  "syllables": "be•gin",
+  "semantic_tags": [
+   "#Start",
+   "#Launch",
+   "#Commence"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To start doing something; to undergo the first part of an action.",
+  "explanation_ar": "يبدأ.. يعني تبتدي وتعمل أول خطوة في الموضوع.",
+  "examples": [
+   "We can begin the meeting now.",
+   "What time does the concert begin?",
+   "They will begin to work tomorrow."
+  ],
+  "translations": {
+   "arabic_ar": "يبدأ"
+  },
+  "synonyms": [
+   "start",
+   "commence",
+   "initiate"
+  ],
+  "antonyms": [
+   "end",
+   "stop",
+   "finish"
+  ],
+  "collocations": [
+   "begin with",
+   "begin to",
+   "begin by"
+  ],
+  "mnemonic_ar": "عكس 'End'.. 'Begin' يعني يبدأ."
+ }
+}

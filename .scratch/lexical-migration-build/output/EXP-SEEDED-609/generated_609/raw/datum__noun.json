@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "datum",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "datum",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A single piece of information, such as a fact, statistic, or measurement; or a fixed starting point or reference line used for calculation or measurement.",
+  "explanation_ar": "معلومة واحدة أو حقيقة مفردة (وهي المفرد النحوي لكلمة data)، وتُستخدم أيضًا في الهندسة والجغرافيا بمعنى نقطة أو خط مرجعي يُبنى عليه القياس.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A single piece of information, such as a fact or statistic.",
+    "explanation_ar": "معلومة فردية أو حقيقة واحدة (مفرد data).",
+    "examples": [
+     "A single datum is not enough to prove the theory.",
+     "This specific datum is crucial for our research."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A fixed reference point, line, or surface used as a basis for measurement or calculation.",
+    "explanation_ar": "نقطة أو خط إسناد مرجعي يُستخدم كأساس للقياس.",
+    "examples": [
+     "The geographical datum used for the map was established in 1984."
+    ]
+   }
+  ],
+  "examples": [
+   "A single datum is not enough to prove the theory.",
+   "This specific datum is crucial for our research.",
+   "The geographical datum used for the map was established in 1984."
+  ],
+  "translations": [
+   "مُعْطَى",
+   "بيان فردي",
+   "نقطة إسناد",
+   "مرجع قياس"
+  ],
+  "relations": {
+   "synonyms": [
+    "fact",
+    "statistic",
+    "figure",
+    "detail"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "single datum",
+    "datum point",
+    "datum line",
+    "reference datum"
+   ],
+   "related_words": [
+    "data",
+    "database",
+    "dataset",
+    "statistics"
+   ]
+  },
+  "mnemonic": "مفرد كلمة 'Data'.. الـ 'Datum' هي معلومة واحدة بس.",
+  "phonetic_us": "ˈdeɪ.təm",
+  "phonetic_uk": "ˈdeɪ.təm",
+  "syllables": "da•tum",
+  "semantic_tags": [
+   "#Information",
+   "#Statistics",
+   "#Science",
+   "#Singular"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A single piece of information, such as a fact, statistic, or measurement; or a fixed starting point or reference line used for calculation or measurement.",
+  "explanation_ar": "معلومة واحدة أو حقيقة مفردة (وهي المفرد النحوي لكلمة data)، وتُستخدم أيضًا في الهندسة والجغرافيا بمعنى نقطة أو خط مرجعي يُبنى عليه القياس.",
+  "examples": [
+   "A single datum is not enough to prove the theory.",
+   "This specific datum is crucial for our research.",
+   "The geographical datum used for the map was established in 1984."
+  ],
+  "translations": {
+   "arabic_ar": "مُعْطَى بيان فردي نقطة إسناد مرجع قياس"
+  },
+  "synonyms": [
+   "fact",
+   "statistic",
+   "figure",
+   "detail"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "single datum",
+   "datum point",
+   "datum line",
+   "reference datum"
+  ],
+  "mnemonic_ar": "مفرد كلمة 'Data'.. الـ 'Datum' هي معلومة واحدة بس."
+ }
+}

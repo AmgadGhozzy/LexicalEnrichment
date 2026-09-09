@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "expenditure",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "expenditure",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action of spending funds or the amount of money spent.",
+  "explanation_ar": "كلمة رسمية شوية معناها الإنفاق أو المصاريف اللي بتطلع، خصوصاً للحكومات أو الشركات الكبيرة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "The action of spending funds or the amount of money spent.",
+    "definition_ar": "الإنفاق أو إجمالي المبالغ المصروفة، لا سيما في السياقات المالية أو الحكومية.",
+    "examples": [
+     "The company is trying to limit its expenditure.",
+     "Public expenditure on education has increased this year.",
+     "Cuts in government expenditure were necessary to balance the national budget."
+    ]
+   }
+  ],
+  "examples": [
+   "The company is trying to limit its expenditure.",
+   "Public expenditure on education has increased this year.",
+   "Cuts in government expenditure were necessary to balance the national budget."
+  ],
+  "translations": [
+   "الإنفاق",
+   "المصروفات"
+  ],
+  "relations": {
+   "synonyms": [
+    "spending",
+    "outlay",
+    "expenses",
+    "disbursement",
+    "cost"
+   ],
+   "antonyms": [
+    "income",
+    "revenue",
+    "savings"
+   ],
+   "collocations": [
+    "public expenditure",
+    "government expenditure",
+    "capital expenditure",
+    "reduce expenditure",
+    "annual expenditure"
+   ],
+   "word_family": {
+    "verb": "expend",
+    "noun": "expenditure",
+    "adjective": "expendable"
+   }
+  },
+  "mnemonic": "جاية من 'Spend' 'يصرف' و 'Expensive' 'غالي'.. الـ 'Expenditure' هي المصاريف الضخمة.",
+  "phonetic_us": "ɪkˈspɛndɪtʃər",
+  "phonetic_uk": "ɪkˈspendɪtʃə(r)",
+  "syllables": "ex•pen•di•ture",
+  "semantic_tags": [
+   "#Money",
+   "#Budget",
+   "#Finance",
+   "#Cost",
+   "#Economics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of spending funds or the amount of money spent.",
+  "explanation_ar": "كلمة رسمية شوية معناها الإنفاق أو المصاريف اللي بتطلع، خصوصاً للحكومات أو الشركات الكبيرة.",
+  "examples": [
+   "The company is trying to limit its expenditure.",
+   "Public expenditure on education has increased this year.",
+   "Cuts in government expenditure were necessary to balance the national budget."
+  ],
+  "translations": {
+   "arabic_ar": "الإنفاق المصروفات"
+  },
+  "synonyms": [
+   "spending",
+   "outlay",
+   "expenses",
+   "disbursement",
+   "cost"
+  ],
+  "antonyms": [
+   "income",
+   "revenue",
+   "savings"
+  ],
+  "collocations": [
+   "public expenditure",
+   "government expenditure",
+   "capital expenditure",
+   "reduce expenditure",
+   "annual expenditure"
+  ],
+  "mnemonic_ar": "جاية من 'Spend' 'يصرف' و 'Expensive' 'غالي'.. الـ 'Expenditure' هي المصاريف الضخمة."
+ }
+}

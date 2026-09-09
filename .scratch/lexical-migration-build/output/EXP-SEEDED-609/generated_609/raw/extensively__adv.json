@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "extensively",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "extensively",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "In a way that covers or affects a large area, degree, or scope.",
+  "explanation_ar": "لما تعمل حاجة بشكل كبير جداً ومفصل وبيغطي جوانب كتير أو مساحة واسعة.",
+  "senses": [
+   {
+    "definition_en": "In a way that covers or affects a large area, degree, or scope.",
+    "explanation_ar": "على نطاق واسع أو بدرجة كبيرة تشمل جوانب وتفاصيل كثيرة.",
+    "examples": [
+     "They traveled extensively in Europe.",
+     "The house was extensively damaged by fire.",
+     "She has written extensively on the subject."
+    ]
+   }
+  ],
+  "examples": [
+   "They traveled extensively in Europe.",
+   "The house was extensively damaged by fire.",
+   "She has written extensively on the subject."
+  ],
+  "translations": [
+   "على نطاق واسع",
+   "بشكل مكثف"
+  ],
+  "relations": {
+   "synonyms": [
+    "widely",
+    "broadly",
+    "thoroughly"
+   ],
+   "antonyms": [
+    "slightly",
+    "minimally"
+   ],
+   "collocations": [
+    "travel extensively",
+    "extensively damaged",
+    "researched extensively"
+   ]
+  },
+  "mnemonic": "من 'Extend' يمد.. 'Extensively' يعني بمدى واسع وكبير.",
+  "phonetic_us": "ɪkˈstensɪvli",
+  "phonetic_uk": "ɪkˈstensɪvli",
+  "syllables": "ex•ten•sive•ly",
+  "semantic_tags": [
+   "degree",
+   "scope",
+   "wide",
+   "detail"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "In a way that covers or affects a large area, degree, or scope.",
+  "explanation_ar": "لما تعمل حاجة بشكل كبير جداً ومفصل وبيغطي جوانب كتير أو مساحة واسعة.",
+  "examples": [
+   "They traveled extensively in Europe.",
+   "The house was extensively damaged by fire.",
+   "She has written extensively on the subject."
+  ],
+  "translations": {
+   "arabic_ar": "على نطاق واسع بشكل مكثف"
+  },
+  "synonyms": [
+   "widely",
+   "broadly",
+   "thoroughly"
+  ],
+  "antonyms": [
+   "slightly",
+   "minimally"
+  ],
+  "collocations": [
+   "travel extensively",
+   "extensively damaged",
+   "researched extensively"
+  ],
+  "mnemonic_ar": "من 'Extend' يمد.. 'Extensively' يعني بمدى واسع وكبير."
+ }
+}

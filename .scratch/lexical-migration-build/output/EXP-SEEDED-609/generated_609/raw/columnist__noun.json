@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "columnist",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "columnist",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A journalist who writes a regular article for a newspaper or magazine.",
+  "explanation_ar": "صحفي بيكتب مقال ثابت بشكل دوري في جريدة أو مجلة.",
+  "senses": [
+   {
+    "definition_en": "A journalist who writes a regular article for a newspaper or magazine.",
+    "definition_ar": "صحفي يكتب مقالاً منتظماً في صحيفة أو مجلة.",
+    "examples": [
+     "She works as a political columnist for a major daily newspaper.",
+     "The columnist writes about sports every week.",
+     "As a seasoned columnist, his insights influence public opinion significantly."
+    ]
+   }
+  ],
+  "examples": [
+   "She works as a political columnist for a major daily newspaper.",
+   "The columnist writes about sports every week.",
+   "As a seasoned columnist, his insights influence public opinion significantly."
+  ],
+  "translations": [
+   "كاتب عمود",
+   "كاتب مقالات صحفية"
+  ],
+  "relations": {
+   "synonyms": [
+    "commentator",
+    "contributor",
+    "journalist",
+    "writer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "newspaper columnist",
+    "political columnist",
+    "syndicated columnist",
+    "gossip columnist",
+    "guest columnist"
+   ]
+  },
+  "mnemonic": "هو الشخص اللي بيكتب في 'Column' 'عمود' في الجريدة.. فبنسميه 'Columnist'.",
+  "phonetic_us": "ˈkɑləmnɪst",
+  "phonetic_uk": "ˈkɒləmnɪst",
+  "syllables": "col•um•nist",
+  "semantic_tags": [
+   "#Journalism",
+   "#Newspaper",
+   "#Writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A journalist who writes a regular article for a newspaper or magazine.",
+  "explanation_ar": "صحفي بيكتب مقال ثابت بشكل دوري في جريدة أو مجلة.",
+  "examples": [
+   "She works as a political columnist for a major daily newspaper.",
+   "The columnist writes about sports every week.",
+   "As a seasoned columnist, his insights influence public opinion significantly."
+  ],
+  "translations": {
+   "arabic_ar": "كاتب عمود كاتب مقالات صحفية"
+  },
+  "synonyms": [
+   "commentator",
+   "contributor",
+   "journalist",
+   "writer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "newspaper columnist",
+   "political columnist",
+   "syndicated columnist",
+   "gossip columnist",
+   "guest columnist"
+  ],
+  "mnemonic_ar": "هو الشخص اللي بيكتب في 'Column' 'عمود' في الجريدة.. فبنسميه 'Columnist'."
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "complexity",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "complexity",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The state of having many parts and being difficult to understand or deal with.",
+  "explanation_ar": "إن الحاجة تكون معقدة وفيها تفاصيل كتير ومش سهلة.",
+  "senses": [
+   {
+    "definition_en": "The state of having many parts and being difficult to understand or deal with.",
+    "explanation_ar": "حالة كون الشيء معقدًا ومتشابك التفاصيل وصعب الفهم أو التعامل.",
+    "translations": [
+     "تعقيد"
+    ]
+   }
+  ],
+  "examples": [
+   "The complexity of the law makes it hard to follow.",
+   "We need to reduce the complexity of the process.",
+   "The novel is admired for the psychological complexity of its characters."
+  ],
+  "translations": [
+   "تعقيد"
+  ],
+  "relations": {
+   "synonyms": [
+    "complication",
+    "intricacy",
+    "difficulty",
+    "sophistication"
+   ],
+   "antonyms": [
+    "simplicity",
+    "ease"
+   ],
+   "collocations": [
+    "increasing complexity",
+    "add complexity",
+    "level of complexity",
+    "sheer complexity"
+   ]
+  },
+  "mnemonic": "جاية من 'Complex' 'مجمع/معقد'.. الـ 'Complexity' هي درجة التعقيد دي.",
+  "phonetic_us": "kəmˈplɛksɪti",
+  "phonetic_uk": "kəmˈpleksɪtɪ",
+  "syllables": "com•plex•i•ty",
+  "semantic_tags": [
+   "#Difficult",
+   "#System",
+   "#Details",
+   "#Abstract"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The state of having many parts and being difficult to understand or deal with.",
+  "explanation_ar": "إن الحاجة تكون معقدة وفيها تفاصيل كتير ومش سهلة.",
+  "examples": [
+   "The complexity of the law makes it hard to follow.",
+   "We need to reduce the complexity of the process.",
+   "The novel is admired for the psychological complexity of its characters."
+  ],
+  "translations": {
+   "arabic_ar": "تعقيد"
+  },
+  "synonyms": [
+   "complication",
+   "intricacy",
+   "difficulty",
+   "sophistication"
+  ],
+  "antonyms": [
+   "simplicity",
+   "ease"
+  ],
+  "collocations": [
+   "increasing complexity",
+   "add complexity",
+   "level of complexity",
+   "sheer complexity"
+  ],
+  "mnemonic_ar": "جاية من 'Complex' 'مجمع/معقد'.. الـ 'Complexity' هي درجة التعقيد دي."
+ }
+}

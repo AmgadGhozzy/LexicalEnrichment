@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "decent",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "decent",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Conforming to accepted standards; satisfactory or good enough.",
+  "explanation_ar": "حاجة مقبولة، محترمة، أو جودتها كويسة (مرضية وليست بالضرورة ممتازة).",
+  "senses": [
+   {
+    "definition_en": "Of an acceptable standard or quality; satisfactory.",
+    "explanation_ar": "مقبول أو مرضٍ من حيث المستوى والجودة.",
+    "examples": [
+     "It is hard to find a decent job these days.",
+     "I just need a decent meal and a good night's sleep."
+    ]
+   },
+   {
+    "definition_en": "Honest, respectable, and treating others fairly.",
+    "explanation_ar": "شخص خلوق، محترم، وابن ناس.",
+    "examples": [
+     "He is a decent man who always treats people with respect."
+    ]
+   }
+  ],
+  "examples": [
+   "It is hard to find a decent job these days.",
+   "He is a decent man who always treats people with respect.",
+   "I just need a decent meal and a good night's sleep."
+  ],
+  "translations": [
+   "لائق",
+   "مقبول",
+   "محترم"
+  ],
+  "relations": {
+   "synonyms": [
+    "respectable",
+    "satisfactory",
+    "acceptable",
+    "proper"
+   ],
+   "antonyms": [
+    "indecent",
+    "poor",
+    "unsatisfactory"
+   ],
+   "collocations": [
+    "decent job",
+    "decent people",
+    "pretty decent"
+   ]
+  },
+  "mnemonic": "كلمة 'Cent' (سنت/عملة).. الـ 'Decent' salary يعني بتقبض 'Cents' وفلوس كويسة ومحترمة.",
+  "phonetic_us": "ˈdiːsənt",
+  "phonetic_uk": "ˈdiːsənt",
+  "syllables": "de•cent",
+  "semantic_tags": [
+   "#Good",
+   "#Moral",
+   "#Quality"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Conforming to accepted standards; satisfactory or good enough.",
+  "explanation_ar": "حاجة مقبولة، محترمة، أو جودتها كويسة (مرضية وليست بالضرورة ممتازة).",
+  "examples": [
+   "It is hard to find a decent job these days.",
+   "He is a decent man who always treats people with respect.",
+   "I just need a decent meal and a good night's sleep."
+  ],
+  "translations": {
+   "arabic_ar": "لائق مقبول محترم"
+  },
+  "synonyms": [
+   "respectable",
+   "satisfactory",
+   "acceptable",
+   "proper"
+  ],
+  "antonyms": [
+   "indecent",
+   "poor",
+   "unsatisfactory"
+  ],
+  "collocations": [
+   "decent job",
+   "decent people",
+   "pretty decent"
+  ],
+  "mnemonic_ar": "كلمة 'Cent' (سنت/عملة).. الـ 'Decent' salary يعني بتقبض 'Cents' وفلوس كويسة ومحترمة."
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "detection",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "detection",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action or process of identifying the presence of something concealed.",
+  "explanation_ar": "عملية اكتشاف حاجة كانت مستخبية أو مش واضحة، زي كشف الجريمة أو كشف المرض.",
+  "senses": [
+   {
+    "sense_id": "detection_1",
+    "definition_en": "The action or process of identifying the presence of something concealed or not easily seen.",
+    "explanation_ar": "عملية اكتشاف وجود شيء مستتر أو صعب الرؤية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Early detection of cancer saves lives.",
+   "The thief avoided detection by wearing a disguise.",
+   "Advanced algorithms allow for the detection of minute anomalies."
+  ],
+  "translations": [
+   "كشف",
+   "اكتشاف"
+  ],
+  "relations": {
+   "synonyms": [
+    "discovery",
+    "identification",
+    "spotting",
+    "revelation"
+   ],
+   "antonyms": [
+    "concealment",
+    "hiding"
+   ],
+   "collocations": [
+    "early detection",
+    "avoid detection",
+    "detection rate",
+    "metal detection"
+   ]
+  },
+  "mnemonic": "جاية من 'Detective' 'مخبر'.. شغلته الـ 'Detection'.",
+  "phonetic_us": "dɪˈtɛkʃən",
+  "phonetic_uk": "dɪˈtekʃn",
+  "syllables": "de•tec•tion",
+  "semantic_tags": [
+   "Investigation",
+   "Finding",
+   "Security",
+   "Science"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The action or process of identifying the presence of something concealed.",
+  "explanation_ar": "عملية اكتشاف حاجة كانت مستخبية أو مش واضحة، زي كشف الجريمة أو كشف المرض.",
+  "examples": [
+   "Early detection of cancer saves lives.",
+   "The thief avoided detection by wearing a disguise.",
+   "Advanced algorithms allow for the detection of minute anomalies."
+  ],
+  "translations": {
+   "arabic_ar": "كشف اكتشاف"
+  },
+  "synonyms": [
+   "discovery",
+   "identification",
+   "spotting",
+   "revelation"
+  ],
+  "antonyms": [
+   "concealment",
+   "hiding"
+  ],
+  "collocations": [
+   "early detection",
+   "avoid detection",
+   "detection rate",
+   "metal detection"
+  ],
+  "mnemonic_ar": "جاية من 'Detective' 'مخبر'.. شغلته الـ 'Detection'."
+ }
+}

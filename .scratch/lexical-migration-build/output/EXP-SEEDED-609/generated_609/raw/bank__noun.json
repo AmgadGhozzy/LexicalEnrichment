@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "bank",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "bank",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An institution for keeping money, or the land along a river.",
+  "explanation_ar": "ليها معنيين: البنك اللي بنحط فيه الفلوس، أو ضفة النهر 'الشط'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An organization or place where people and businesses can save, borrow, or manage money.",
+    "definition_ar": "مؤسسة مالية (بنك أو مَصْرِف) لحفظ الأموال وإدارتها.",
+    "examples": [
+     "I need to go to the bank to withdraw some cash.",
+     "She works as a manager at a local bank."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The land along the edge of a river, lake, or canal.",
+    "definition_ar": "ضفة النهر أو شاطئه.",
+    "examples": [
+     "We sat on the river bank and had a picnic."
+    ]
+   }
+  ],
+  "examples": [
+   "I need to go to the bank to withdraw some cash.",
+   "She works as a manager at a local bank.",
+   "We sat on the river bank and had a picnic."
+  ],
+  "translations": [
+   "بنك",
+   "مَصْرِف",
+   "ضفة"
+  ],
+  "relations": {
+   "synonyms": [
+    "financial institution",
+    "depository"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "bank account",
+    "river bank",
+    "blood bank"
+   ]
+  },
+  "mnemonic": "الـ 'Bank' بيحفظ الفلوس زي ما 'Tank' 'الخزان' بيحفظ الماية.",
+  "phonetic_us": "bæŋk",
+  "phonetic_uk": "bæŋk",
+  "syllables": [
+   "bank"
+  ],
+  "semantic_tags": [
+   "#Money",
+   "#Nature",
+   "#Economy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An institution for keeping money, or the land along a river.",
+  "explanation_ar": "ليها معنيين: البنك اللي بنحط فيه الفلوس، أو ضفة النهر 'الشط'.",
+  "examples": [
+   "I need to go to the bank to withdraw some cash.",
+   "She works as a manager at a local bank.",
+   "We sat on the river bank and had a picnic."
+  ],
+  "translations": {
+   "arabic_ar": "بنك مَصْرِف ضفة"
+  },
+  "synonyms": [
+   "financial institution",
+   "depository"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "bank account",
+   "river bank",
+   "blood bank"
+  ],
+  "mnemonic_ar": "الـ 'Bank' بيحفظ الفلوس زي ما 'Tank' 'الخزان' بيحفظ الماية."
+ }
+}

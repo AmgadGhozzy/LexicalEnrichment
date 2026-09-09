@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "conspiracy",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "conspiracy",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A secret plan by a group to do something unlawful or harmful.",
+  "explanation_ar": "خطة سرية بيعملها مجموعة ناس عشان يضروا حد أو يعملوا حاجة مش قانونية، يعني مؤامرة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A secret plan by a group to do something unlawful or harmful.",
+    "explanation_ar": "خطة سرية بيعملها مجموعة ناس عشان يضروا حد أو يعملوا حاجة مش قانونية، يعني مؤامرة.",
+    "examples": [
+     "The police uncovered a conspiracy to rob the bank.",
+     "He believes in a conspiracy against the government.",
+     "She was charged with conspiracy to commit fraud."
+    ]
+   }
+  ],
+  "examples": [
+   "The police uncovered a conspiracy to rob the bank.",
+   "He believes in a conspiracy against the government.",
+   "She was charged with conspiracy to commit fraud."
+  ],
+  "translations": [
+   "مؤامرة"
+  ],
+  "relations": {
+   "synonyms": [
+    "plot",
+    "scheme",
+    "intrigue",
+    "collusion"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "conspiracy theory",
+    "criminal conspiracy",
+    "conspiracy of silence",
+    "uncover a conspiracy"
+   ],
+   "word_family": {
+    "noun": "conspiracy",
+    "verb": "conspire",
+    "adjective": "conspiratorial",
+    "adverb": "conspiratorially"
+   }
+  },
+  "mnemonic": "فيها شبه من كلمة 'Piracy' 'قرصنة'.. القرصنة محتاج خطة سرية و 'Conspiracy' يعني مؤامرة.",
+  "phonetic_us": "kənˈspɪrəsi",
+  "phonetic_uk": "kənˈspɪrəsi",
+  "syllables": "con•spir•a•cy",
+  "semantic_tags": [
+   "#Secret",
+   "#Crime",
+   "#Plot",
+   "#Politics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A secret plan by a group to do something unlawful or harmful.",
+  "explanation_ar": "خطة سرية بيعملها مجموعة ناس عشان يضروا حد أو يعملوا حاجة مش قانونية، يعني مؤامرة.",
+  "examples": [
+   "The police uncovered a conspiracy to rob the bank.",
+   "He believes in a conspiracy against the government.",
+   "She was charged with conspiracy to commit fraud."
+  ],
+  "translations": {
+   "arabic_ar": "مؤامرة"
+  },
+  "synonyms": [
+   "plot",
+   "scheme",
+   "intrigue",
+   "collusion"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "conspiracy theory",
+   "criminal conspiracy",
+   "conspiracy of silence",
+   "uncover a conspiracy"
+  ],
+  "mnemonic_ar": "فيها شبه من كلمة 'Piracy' 'قرصنة'.. القرصنة محتاج خطة سرية و 'Conspiracy' يعني مؤامرة."
+ }
+}

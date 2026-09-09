@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "commentator",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "commentator",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person who comments on events or on a text, especially on television or radio.",
+  "explanation_ar": "المعلق، زي معلق الكورة اللي بيوصف الماتش، أو المحلل السياسي اللي بيشرح الأخبار.",
+  "senses": [
+   {
+    "definition_en": "A person who comments on events or on a text, especially on television or radio.",
+    "explanation_ar": "المعلق، مثل المعلق الرياضي أو المحلل السياسي في وسائل الإعلام.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The commentator described the goal excitedly.",
+   "He works as a financial commentator for a news channel.",
+   "A guest commentator joined the live broadcast to analyze the debate."
+  ],
+  "translations": [
+   "معلق"
+  ],
+  "relations": {
+   "synonyms": [
+    "analyst",
+    "pundit",
+    "announcer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sports commentator",
+    "political commentator",
+    "guest commentator",
+    "radio commentator"
+   ]
+  },
+  "mnemonic": "من 'Comment' 'تعليق'.. فالـ 'Commentator' هو اللي شغلته التعليق.",
+  "phonetic_us": "ˈkɑːmənˌteɪtər",
+  "phonetic_uk": "ˈkɒmənteɪtə",
+  "syllables": "com•men•ta•tor",
+  "semantic_tags": [
+   "#Media",
+   "#Sports",
+   "#Analysis",
+   "#News"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who comments on events or on a text, especially on television or radio.",
+  "explanation_ar": "المعلق، زي معلق الكورة اللي بيوصف الماتش، أو المحلل السياسي اللي بيشرح الأخبار.",
+  "examples": [
+   "The commentator described the goal excitedly.",
+   "He works as a financial commentator for a news channel.",
+   "A guest commentator joined the live broadcast to analyze the debate."
+  ],
+  "translations": {
+   "arabic_ar": "معلق"
+  },
+  "synonyms": [
+   "analyst",
+   "pundit",
+   "announcer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sports commentator",
+   "political commentator",
+   "guest commentator",
+   "radio commentator"
+  ],
+  "mnemonic_ar": "من 'Comment' 'تعليق'.. فالـ 'Commentator' هو اللي شغلته التعليق."
+ }
+}

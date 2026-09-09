@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "bitch",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bitch",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A female dog, wolf, or fox; informally, an offensive term for an unpleasant woman or a slang term for a very difficult situation.",
+  "explanation_ar": "المعنى الحرفي: أنثى الكلب. وفي العامية تُستخدم كلفظ مهين لوصف امرأة سيئة الطباع، أو مجازياً للتعبير عن موقف أو أمر شديد الصعوبة والمشقة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A female dog, fox, or wolf.",
+    "definition_ar": "أنثى الكلب أو الثعلب أو الذئب.",
+    "register": "Technical / Literal"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An offensive term for an unpleasant, mean, or malicious woman.",
+    "definition_ar": "لفظ مهين يُطلق على امرأة خبيثة أو كريهة أو سليطة اللسان.",
+    "register": "Offensive / Slang"
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "Something that is extremely difficult, troublesome, or unpleasant.",
+    "definition_ar": "شيء معقد أو شاق للغاية أو موقف مزعج.",
+    "register": "Informal / Slang"
+   }
+  ],
+  "examples": [
+   "The dog breeder has a champion bitch.",
+   "The exam was a real bitch to pass.",
+   "Life can be a real bitch sometimes."
+  ],
+  "translations": [
+   "أنثى الكلب",
+   "كلبة",
+   "أمر شاق ومزعج"
+  ],
+  "relations": {
+   "synonyms": [
+    "female dog",
+    "nightmare"
+   ],
+   "antonyms": [
+    "dog"
+   ],
+   "collocations": [
+    "life's a bitch",
+    "a real bitch",
+    "son of a bitch"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "bɪtʃ",
+  "phonetic_uk": "bɪtʃ",
+  "syllables": "bitch",
+  "semantic_tags": [
+   "#Animal",
+   "#Slang",
+   "#Insult"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A female dog, wolf, or fox; informally, an offensive term for an unpleasant woman or a slang term for a very difficult situation.",
+  "explanation_ar": "المعنى الحرفي: أنثى الكلب. وفي العامية تُستخدم كلفظ مهين لوصف امرأة سيئة الطباع، أو مجازياً للتعبير عن موقف أو أمر شديد الصعوبة والمشقة.",
+  "examples": [
+   "The dog breeder has a champion bitch.",
+   "The exam was a real bitch to pass.",
+   "Life can be a real bitch sometimes."
+  ],
+  "translations": {
+   "arabic_ar": "أنثى الكلب كلبة أمر شاق ومزعج"
+  },
+  "synonyms": [
+   "female dog",
+   "nightmare"
+  ],
+  "antonyms": [
+   "dog"
+  ],
+  "collocations": [
+   "life's a bitch",
+   "a real bitch",
+   "son of a bitch"
+  ],
+  "mnemonic_ar": null
+ }
+}

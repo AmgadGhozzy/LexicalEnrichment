@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "buy",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "buy",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To obtain something in exchange for payment.",
+  "explanation_ar": "تشتري حاجة وتدفع تمنها فلوس.",
+  "senses": [
+   {
+    "definition_en": "To obtain something in exchange for payment.",
+    "explanation_ar": "تشتري حاجة وتدفع تمنها فلوس.",
+    "examples": [
+     "I buy bread every day.",
+     "We are saving to buy a house.",
+     "Money cannot buy happiness."
+    ]
+   }
+  ],
+  "examples": [
+   "I buy bread every day.",
+   "We are saving to buy a house.",
+   "Money cannot buy happiness."
+  ],
+  "translations": [
+   "يَشْتَرِي"
+  ],
+  "relations": {
+   "synonyms": [
+    "purchase"
+   ],
+   "antonyms": [
+    "sell"
+   ],
+   "collocations": [
+    "buy online",
+    "buy a ticket",
+    "buy time"
+   ]
+  },
+  "mnemonic": "'Buy' (اشتري) نفس نطق 'Bye' (باي) — لما تشتري حاجة بتقول للفلوس باي.",
+  "phonetic_us": "baɪ",
+  "phonetic_uk": "baɪ",
+  "syllables": "buy",
+  "semantic_tags": [
+   "#Shopping",
+   "#Trade",
+   "#Money"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To obtain something in exchange for payment.",
+  "explanation_ar": "تشتري حاجة وتدفع تمنها فلوس.",
+  "examples": [
+   "I buy bread every day.",
+   "We are saving to buy a house.",
+   "Money cannot buy happiness."
+  ],
+  "translations": {
+   "arabic_ar": "يَشْتَرِي"
+  },
+  "synonyms": [
+   "purchase"
+  ],
+  "antonyms": [
+   "sell"
+  ],
+  "collocations": [
+   "buy online",
+   "buy a ticket",
+   "buy time"
+  ],
+  "mnemonic_ar": "'Buy' (اشتري) نفس نطق 'Bye' (باي) — لما تشتري حاجة بتقول للفلوس باي."
+ }
+}

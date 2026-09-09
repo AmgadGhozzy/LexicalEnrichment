@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "electorate",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "electorate",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The body of people allowed to vote in an election.",
+  "explanation_ar": "كل الأشخاص الذين يحق لهم التصويت في الانتخابات في بلد أو دائرة معينة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The body of people allowed to vote in an election.",
+    "explanation_ar": "كل الأشخاص الذين يحق لهم التصويت في الانتخابات في بلد أو دائرة معينة.",
+    "examples": [
+     "Candidates try to appeal to the electorate.",
+     "The electorate is unhappy with the current government.",
+     "A significant portion of the electorate remained undecided."
+    ]
+   }
+  ],
+  "examples": [
+   "Candidates try to appeal to the electorate.",
+   "The electorate is unhappy with the current government.",
+   "A significant portion of the electorate remained undecided."
+  ],
+  "translations": [
+   "جمهور الناخبين",
+   "الهيئة الناخبة",
+   "الناخبون"
+  ],
+  "relations": {
+   "synonyms": [
+    "voters",
+    "constituency"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "appeal to the electorate",
+    "the entire electorate"
+   ]
+  },
+  "mnemonic": "جاية من 'Election' انتخابات.. الـ 'Electorate' هما الناس اللي بيعملوا الانتخابات.",
+  "phonetic_us": "ɪˈlɛktərət",
+  "phonetic_uk": "ɪˈlektərət",
+  "syllables": "elec•torate",
+  "semantic_tags": [
+   "#Politics",
+   "#Voting",
+   "#People",
+   "#Government"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The body of people allowed to vote in an election.",
+  "explanation_ar": "كل الأشخاص الذين يحق لهم التصويت في الانتخابات في بلد أو دائرة معينة.",
+  "examples": [
+   "Candidates try to appeal to the electorate.",
+   "The electorate is unhappy with the current government.",
+   "A significant portion of the electorate remained undecided."
+  ],
+  "translations": {
+   "arabic_ar": "جمهور الناخبين الهيئة الناخبة الناخبون"
+  },
+  "synonyms": [
+   "voters",
+   "constituency"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "appeal to the electorate",
+   "the entire electorate"
+  ],
+  "mnemonic_ar": "جاية من 'Election' انتخابات.. الـ 'Electorate' هما الناس اللي بيعملوا الانتخابات."
+ }
+}

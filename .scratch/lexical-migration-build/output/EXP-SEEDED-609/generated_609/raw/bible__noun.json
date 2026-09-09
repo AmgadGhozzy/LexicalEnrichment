@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "bible",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "bible",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The holy book of Christians; or any book considered the most authoritative on a subject.",
+  "explanation_ar": "الكتاب المقدس عند المسيحيين، وممكن تستخدم مجازاً لأي كتاب مهم جداً وشامل في مجاله.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The sacred book of Christianity, comprising the Old and New Testaments.",
+    "explanation_ar": "الكتاب المقدس عند المسيحيين، ويشمل العهدين القديم والجديد.",
+    "examples": [
+     "He reads the Bible every Sunday.",
+     "There are many stories in the Bible."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A book regarded as authoritative and indispensable in a particular field.",
+    "explanation_ar": "كتاب أو دليل يُعتبر مرجعاً شاملاً وموثوقاً في مجال معين.",
+    "examples": [
+     "This cookbook is the bible of French cooking."
+    ]
+   }
+  ],
+  "examples": [
+   "He reads the Bible every Sunday.",
+   "There are many stories in the Bible.",
+   "This cookbook is the bible of French cooking."
+  ],
+  "translations": [
+   "الكتاب المقدس",
+   "الإنجيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "scripture",
+    "handbook",
+    "guide"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "Holy Bible",
+    "read the Bible",
+    "fashion bible"
+   ],
+   "word_family": {
+    "adjective": "biblical"
+   },
+   "related_words": [
+    "religion",
+    "church",
+    "faith"
+   ]
+  },
+  "mnemonic": "قريبة من كلمة 'By' 'بواسطة'.. الكتاب اللي الناس بتهتدي 'By' بواسطته هو الـ 'Bible'.",
+  "phonetic_us": "ˈbaɪbəl",
+  "phonetic_uk": "ˈbaɪbəl",
+  "syllables": [
+   "bi",
+   "ble"
+  ],
+  "semantic_tags": [
+   "#Religion",
+   "#Book",
+   "#Guide"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The holy book of Christians; or any book considered the most authoritative on a subject.",
+  "explanation_ar": "الكتاب المقدس عند المسيحيين، وممكن تستخدم مجازاً لأي كتاب مهم جداً وشامل في مجاله.",
+  "examples": [
+   "He reads the Bible every Sunday.",
+   "There are many stories in the Bible.",
+   "This cookbook is the bible of French cooking."
+  ],
+  "translations": {
+   "arabic_ar": "الكتاب المقدس الإنجيل"
+  },
+  "synonyms": [
+   "scripture",
+   "handbook",
+   "guide"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "Holy Bible",
+   "read the Bible",
+   "fashion bible"
+  ],
+  "mnemonic_ar": "قريبة من كلمة 'By' 'بواسطة'.. الكتاب اللي الناس بتهتدي 'By' بواسطته هو الـ 'Bible'."
+ }
+}

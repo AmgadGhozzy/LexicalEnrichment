@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "arise",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "arise",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To emerge; to become apparent; to come into being.",
+  "explanation_ar": "حاجة تظهر أو تحصل فجأة، زي مشكلة أو فرصة.",
+  "senses": [
+   {
+    "sense_id": "arise_1",
+    "definition_en": "To happen, emerge, or come into existence (especially of problems, questions, or opportunities).",
+    "definition_ar": "ينشأ أو يطرأ أو يحدث فجأة (خاصة للمشاكل أو التساؤلات).",
+    "examples": [
+     "Questions may arise during the meeting.",
+     "Serious consequences may arise from this decision.",
+     "New difficulties can arise if we do not plan carefully."
+    ]
+   }
+  ],
+  "examples": [
+   "Questions may arise during the meeting.",
+   "Serious consequences may arise from this decision.",
+   "New difficulties can arise if we do not plan carefully."
+  ],
+  "translations": [
+   "ينشأ",
+   "يظهر",
+   "يطرأ"
+  ],
+  "relations": {
+   "synonyms": [
+    "emerge",
+    "appear",
+    "occur",
+    "happen",
+    "surface"
+   ],
+   "antonyms": [
+    "disappear",
+    "vanish",
+    "end"
+   ],
+   "collocations": [
+    "problems arise",
+    "questions arise",
+    "need arises",
+    "situation arises",
+    "conflict arises"
+   ]
+  },
+  "mnemonic": "تشبه 'Rise' 'يشرق/يصعد'.. لما المشكلة 'Arise' يعني بتطلع وتظهر قدامك.",
+  "phonetic_us": "əˈraɪz",
+  "phonetic_uk": "əˈraɪz",
+  "syllables": "a-rise",
+  "semantic_tags": [
+   "happen",
+   "emerge",
+   "problem",
+   "occur"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To emerge; to become apparent; to come into being.",
+  "explanation_ar": "حاجة تظهر أو تحصل فجأة، زي مشكلة أو فرصة.",
+  "examples": [
+   "Questions may arise during the meeting.",
+   "Serious consequences may arise from this decision.",
+   "New difficulties can arise if we do not plan carefully."
+  ],
+  "translations": {
+   "arabic_ar": "ينشأ يظهر يطرأ"
+  },
+  "synonyms": [
+   "emerge",
+   "appear",
+   "occur",
+   "happen",
+   "surface"
+  ],
+  "antonyms": [
+   "disappear",
+   "vanish",
+   "end"
+  ],
+  "collocations": [
+   "problems arise",
+   "questions arise",
+   "need arises",
+   "situation arises",
+   "conflict arises"
+  ],
+  "mnemonic_ar": "تشبه 'Rise' 'يشرق/يصعد'.. لما المشكلة 'Arise' يعني بتطلع وتظهر قدامك."
+ }
+}

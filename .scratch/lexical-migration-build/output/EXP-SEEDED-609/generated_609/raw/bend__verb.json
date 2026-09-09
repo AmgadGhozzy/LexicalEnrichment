@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "bend",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "bend",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To shape or force into a curve; to incline the body downward.",
+  "explanation_ar": "إنك تتني حاجة وتخليها مقوسة، أو إنك تميل جسمك لتحت.",
+  "senses": [
+   {
+    "definition_en": "To force something into a curved shape or become curved.",
+    "definition_ar": "يثني شيئاً أو ينحني ليصبح مقوساً.",
+    "examples": [
+     "Can you bend this wire?"
+    ]
+   },
+   {
+    "definition_en": "To lean or curve your body or a part of it.",
+    "definition_ar": "يحني جسمه أو يثني جزءاً منه كركبتيه أو ظهره.",
+    "examples": [
+     "Make sure to bend your knees when lifting heavy objects."
+    ]
+   },
+   {
+    "definition_en": "To modify or stretch rules or principles without strictly breaking them.",
+    "definition_ar": "يتساهل في القواعد أو يحوّرها لمصلحته.",
+    "examples": [
+     "He refused to bend the rules for anyone."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you bend this wire?",
+   "Make sure to bend your knees when lifting heavy objects.",
+   "He refused to bend the rules for anyone."
+  ],
+  "translations": [
+   "يثني",
+   "ينحني",
+   "يلوي"
+  ],
+  "relations": {
+   "synonyms": [
+    "curve",
+    "flex",
+    "bow"
+   ],
+   "antonyms": [
+    "straighten"
+   ],
+   "collocations": [
+    "bend down",
+    "bend over",
+    "bend the rules",
+    "bend your knees"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Band'.. زي ما الـ 'Band' 'الرباط' ممكن تعمل له 'Bend' 'تثنيه'.",
+  "phonetic_us": "bɛnd",
+  "phonetic_uk": "bend",
+  "syllables": "bend",
+  "semantic_tags": [
+   "Body",
+   "Shape",
+   "Movement"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "To shape or force into a curve; to incline the body downward.",
+  "explanation_ar": "إنك تتني حاجة وتخليها مقوسة، أو إنك تميل جسمك لتحت.",
+  "examples": [
+   "Can you bend this wire?",
+   "Make sure to bend your knees when lifting heavy objects.",
+   "He refused to bend the rules for anyone."
+  ],
+  "translations": {
+   "arabic_ar": "يثني ينحني يلوي"
+  },
+  "synonyms": [
+   "curve",
+   "flex",
+   "bow"
+  ],
+  "antonyms": [
+   "straighten"
+  ],
+  "collocations": [
+   "bend down",
+   "bend over",
+   "bend the rules",
+   "bend your knees"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Band'.. زي ما الـ 'Band' 'الرباط' ممكن تعمل له 'Bend' 'تثنيه'."
+ }
+}

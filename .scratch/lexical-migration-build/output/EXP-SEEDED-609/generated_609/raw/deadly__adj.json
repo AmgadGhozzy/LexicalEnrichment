@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "deadly",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "deadly",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Causing or able to cause death; extremely effective or dangerous.",
+  "explanation_ar": "مميت أو قاتل؛ يصف ما يسبب الموت أو ما هو بالغ الخطورة والدقة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Causing or likely to cause death.",
+    "definition_ar": "مسبب للوفاة؛ قاتل أو مميت.",
+    "examples": [
+     "The poison is deadly to rats.",
+     "The virus proved to be deadly in many cases."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Extremely accurate, effective, or intense.",
+    "definition_ar": "شديد الدقة أو الفعالية أو التأثير.",
+    "examples": [
+     "His accuracy with the bow was deadly."
+    ]
+   }
+  ],
+  "examples": [
+   "The poison is deadly to rats.",
+   "The virus proved to be deadly in many cases.",
+   "His accuracy with the bow was deadly."
+  ],
+  "translations": [
+   "مميت",
+   "قاتل"
+  ],
+  "relations": {
+   "synonyms": [
+    "lethal",
+    "fatal",
+    "mortal"
+   ],
+   "antonyms": [
+    "harmless",
+    "safe"
+   ],
+   "collocations": [
+    "deadly weapon",
+    "deadly poison",
+    "deadly sin",
+    "deadly silence"
+   ]
+  },
+  "mnemonic": "مشتقة مباشرة من كلمة Dead (ميت)؛ أي شيء deadly يجعلك dead.",
+  "phonetic_us": "ˈdɛdli",
+  "phonetic_uk": "ˈdedlɪ",
+  "syllables": "dead•ly",
+  "semantic_tags": [
+   "danger",
+   "death",
+   "weapon",
+   "extreme"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Causing or able to cause death; extremely effective or dangerous.",
+  "explanation_ar": "مميت أو قاتل؛ يصف ما يسبب الموت أو ما هو بالغ الخطورة والدقة.",
+  "examples": [
+   "The poison is deadly to rats.",
+   "The virus proved to be deadly in many cases.",
+   "His accuracy with the bow was deadly."
+  ],
+  "translations": {
+   "arabic_ar": "مميت قاتل"
+  },
+  "synonyms": [
+   "lethal",
+   "fatal",
+   "mortal"
+  ],
+  "antonyms": [
+   "harmless",
+   "safe"
+  ],
+  "collocations": [
+   "deadly weapon",
+   "deadly poison",
+   "deadly sin",
+   "deadly silence"
+  ],
+  "mnemonic_ar": "مشتقة مباشرة من كلمة Dead (ميت)؛ أي شيء deadly يجعلك dead."
+ }
+}

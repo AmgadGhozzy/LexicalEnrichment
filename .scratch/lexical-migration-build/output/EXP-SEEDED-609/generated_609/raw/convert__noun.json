@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "convert",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "convert",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who has changed their religious faith or other beliefs.",
+  "explanation_ar": "شخص غيّر دينه أو معتقده أو حتى رأيه السياسي وبقى مؤمن بحاجة جديدة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who has changed their religious faith or other beliefs.",
+    "definition_ar": "شخص غيّر دينه أو معتقده أو فكره واعتنق شيئاً جديداً.",
+    "examples": [
+     "He is a recent convert to vegetarianism.",
+     "The book details the experiences of a convert to Buddhism.",
+     "As a new convert, he was eager to learn about the traditions of the community."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a recent convert to vegetarianism.",
+   "The book details the experiences of a convert to Buddhism.",
+   "As a new convert, he was eager to learn about the traditions of the community."
+  ],
+  "translations": [
+   "مهتدٍ",
+   "شخص متحوّل"
+  ],
+  "relations": {
+   "synonyms": [
+    "proselyte",
+    "neophyte"
+   ],
+   "antonyms": [
+    "apostate",
+    "renegade"
+   ],
+   "collocations": [
+    "recent convert",
+    "religious convert",
+    "convert to"
+   ]
+  },
+  "mnemonic": "لما تعمل 'Convert' 'تحويل' للملف.. الاسم منها 'Convert' هو الشخص اللي عمل 'تحويل' لدينه.",
+  "phonetic_us": "ˈkɑːnvɜːrt",
+  "phonetic_uk": "ˈkɒnvɜːt",
+  "syllables": "con•vert",
+  "semantic_tags": [
+   "Religion",
+   "Belief",
+   "Change",
+   "Person"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who has changed their religious faith or other beliefs.",
+  "explanation_ar": "شخص غيّر دينه أو معتقده أو حتى رأيه السياسي وبقى مؤمن بحاجة جديدة.",
+  "examples": [
+   "He is a recent convert to vegetarianism.",
+   "The book details the experiences of a convert to Buddhism.",
+   "As a new convert, he was eager to learn about the traditions of the community."
+  ],
+  "translations": {
+   "arabic_ar": "مهتدٍ شخص متحوّل"
+  },
+  "synonyms": [
+   "proselyte",
+   "neophyte"
+  ],
+  "antonyms": [
+   "apostate",
+   "renegade"
+  ],
+  "collocations": [
+   "recent convert",
+   "religious convert",
+   "convert to"
+  ],
+  "mnemonic_ar": "لما تعمل 'Convert' 'تحويل' للملف.. الاسم منها 'Convert' هو الشخص اللي عمل 'تحويل' لدينه."
+ }
+}

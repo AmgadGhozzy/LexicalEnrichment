@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "angle",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "angle",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The space between two intersecting lines, or a way of looking at something.",
+  "explanation_ar": "الزاوية الهندسية، أو وجهة نظر معينة بتشوف منها الموضوع.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The space between two lines or surfaces that intersect, measured in degrees.",
+    "definition_ar": "الزاوية الهندسية المتكونة بين خطين أو سطحين متقاطعين.",
+    "examples": [
+     "Draw a line at an angle."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A particular way of considering, presenting, or looking at a situation; a perspective.",
+    "definition_ar": "وجهة نظر أو زاوية رؤية معينة لتناول موضوع أو التفكير فيه.",
+    "examples": [
+     "The camera angle made him look tall.",
+     "Try to look at the problem from a different angle."
+    ]
+   }
+  ],
+  "examples": [
+   "Draw a line at an angle.",
+   "The camera angle made him look tall.",
+   "Try to look at the problem from a different angle."
+  ],
+  "translations": [
+   "زاوية",
+   "وجهة نظر",
+   "منظور"
+  ],
+  "relations": {
+   "synonyms": [
+    "perspective",
+    "viewpoint",
+    "slant",
+    "aspect"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "right angle",
+    "different angle",
+    "camera angle",
+    "sharp angle"
+   ]
+  },
+  "mnemonic": "كلمة 'Angle' 'زاوية' قريبة من 'Ankle' 'كاحل'.. الـ 'Ankle' بيعمل 'Angle' مع رجلك.",
+  "phonetic_us": "ˈæŋɡəl",
+  "phonetic_uk": "ˈæŋɡl",
+  "syllables": "an•gle",
+  "semantic_tags": [
+   "#Math",
+   "#Geometry",
+   "#Perspective",
+   "#Shape"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The space between two intersecting lines, or a way of looking at something.",
+  "explanation_ar": "الزاوية الهندسية، أو وجهة نظر معينة بتشوف منها الموضوع.",
+  "examples": [
+   "Draw a line at an angle.",
+   "The camera angle made him look tall.",
+   "Try to look at the problem from a different angle."
+  ],
+  "translations": {
+   "arabic_ar": "زاوية وجهة نظر منظور"
+  },
+  "synonyms": [
+   "perspective",
+   "viewpoint",
+   "slant",
+   "aspect"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "right angle",
+   "different angle",
+   "camera angle",
+   "sharp angle"
+  ],
+  "mnemonic_ar": "كلمة 'Angle' 'زاوية' قريبة من 'Ankle' 'كاحل'.. الـ 'Ankle' بيعمل 'Angle' مع رجلك."
+ }
+}

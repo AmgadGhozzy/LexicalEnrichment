@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "darken",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "darken",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To make or become dark or darker.",
+  "explanation_ar": "يعني يغمق أو يضلم.. سواء لون أو نور أو حتى المزاج",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To make or become dark or darker with less light or deeper color.",
+    "definition_ar": "يُظلم أو يُعتم، أو يصبح داكناً بنقص الضوء أو زيادة قتامة اللون.",
+    "examples": [
+     "The sky began to darken.",
+     "You can draw the curtains to darken the room."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To become or make unhappy, angry, or gloomy.",
+    "definition_ar": "يتجهم أو يصبح كئيباً أو مقلقاً (للمزاج أو التعبيرات أو الأوضاع).",
+    "examples": [
+     "The political situation continued to darken."
+    ]
+   }
+  ],
+  "examples": [
+   "The sky began to darken.",
+   "You can draw the curtains to darken the room.",
+   "The political situation continued to darken."
+  ],
+  "translations": [
+   "يُظْلِم",
+   "يُعَتِّم",
+   "يَغْمُق"
+  ],
+  "relations": {
+   "synonyms": [
+    "dim",
+    "blacken",
+    "obscure"
+   ],
+   "antonyms": [
+    "lighten",
+    "brighten",
+    "illuminate"
+   ],
+   "collocations": [
+    "sky darken",
+    "face darken",
+    "darken the room"
+   ]
+  },
+  "mnemonic": "جاية من 'Dark' 'ضلمة'.. يعني بيخلي الدنيا ضلمة",
+  "phonetic_us": "ˈdɑrkən",
+  "phonetic_uk": "ˈdɑːkən",
+  "syllables": "dark•en",
+  "semantic_tags": [
+   "#Light",
+   "#Color",
+   "#Mood",
+   "#Change"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To make or become dark or darker.",
+  "explanation_ar": "يعني يغمق أو يضلم.. سواء لون أو نور أو حتى المزاج",
+  "examples": [
+   "The sky began to darken.",
+   "You can draw the curtains to darken the room.",
+   "The political situation continued to darken."
+  ],
+  "translations": {
+   "arabic_ar": "يُظْلِم يُعَتِّم يَغْمُق"
+  },
+  "synonyms": [
+   "dim",
+   "blacken",
+   "obscure"
+  ],
+  "antonyms": [
+   "lighten",
+   "brighten",
+   "illuminate"
+  ],
+  "collocations": [
+   "sky darken",
+   "face darken",
+   "darken the room"
+  ],
+  "mnemonic_ar": "جاية من 'Dark' 'ضلمة'.. يعني بيخلي الدنيا ضلمة"
+ }
+}

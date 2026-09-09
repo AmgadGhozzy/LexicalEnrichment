@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "conspicuous",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "conspicuous",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Standing out so as to be clearly visible; attracting notice.",
+  "explanation_ar": "واضح جداً وملفت للنظر، أي حد ياخد باله منه بسهولة لأنه مختلف أو ظاهر.",
+  "senses": [
+   {
+    "definition_en": "Standing out so as to be clearly visible; attracting notice.",
+    "definition_ar": "واضح وجلي للعين أو ملفت للانتباه بسهولة.",
+    "examples": [
+     "Her bright clothes made her conspicuous in the crowd.",
+     "He was conspicuous by his absence at the wedding.",
+     "The bird's plumage makes it conspicuous to predators."
+    ]
+   }
+  ],
+  "examples": [
+   "Her bright clothes made her conspicuous in the crowd.",
+   "He was conspicuous by his absence at the wedding.",
+   "The bird's plumage makes it conspicuous to predators."
+  ],
+  "translations": [
+   "واضح",
+   "لافت للنظر"
+  ],
+  "relations": {
+   "synonyms": [
+    "noticeable",
+    "obvious",
+    "prominent",
+    "striking"
+   ],
+   "antonyms": [
+    "inconspicuous",
+    "hidden"
+   ],
+   "collocations": [
+    "conspicuous consumption",
+    "conspicuous by absence",
+    "highly conspicuous"
+   ],
+   "word_family": {
+    "adj": "conspicuous",
+    "adv": "conspicuously",
+    "noun": "conspicuousness"
+   }
+  },
+  "mnemonic": "'Con' + 'Pic'.. كأنها صورة 'Pic' واضحة جداً.. 'Conspicuous'.",
+  "phonetic_us": "kənˈspɪkjuəs",
+  "phonetic_uk": "kənˈspɪkjuəs",
+  "syllables": "con•spic•u•ous",
+  "semantic_tags": [
+   "#Visibility",
+   "#Attention",
+   "#Appearance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Standing out so as to be clearly visible; attracting notice.",
+  "explanation_ar": "واضح جداً وملفت للنظر، أي حد ياخد باله منه بسهولة لأنه مختلف أو ظاهر.",
+  "examples": [
+   "Her bright clothes made her conspicuous in the crowd.",
+   "He was conspicuous by his absence at the wedding.",
+   "The bird's plumage makes it conspicuous to predators."
+  ],
+  "translations": {
+   "arabic_ar": "واضح لافت للنظر"
+  },
+  "synonyms": [
+   "noticeable",
+   "obvious",
+   "prominent",
+   "striking"
+  ],
+  "antonyms": [
+   "inconspicuous",
+   "hidden"
+  ],
+  "collocations": [
+   "conspicuous consumption",
+   "conspicuous by absence",
+   "highly conspicuous"
+  ],
+  "mnemonic_ar": "'Con' + 'Pic'.. كأنها صورة 'Pic' واضحة جداً.. 'Conspicuous'."
+ }
+}

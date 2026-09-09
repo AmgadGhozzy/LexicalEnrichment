@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "blow",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "blow",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To send out a stream of air from the mouth, or of the wind, to move and create a current of air.",
+  "explanation_ar": "تطلع هوا من بؤك عشان تطفي شمعة أو تنفخ بالونة، أو لما الهوا يتحرك بقوة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To send out air from the mouth.",
+    "definition_ar": "ينفخ الهواء من فمه.",
+    "examples": [
+     "Make a wish and blow out the candles on your birthday cake.",
+     "You should blow gently on the soup to cool it down."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To move and create a current of air.",
+    "definition_ar": "يهب أو يعصف (عن الرياح).",
+    "examples": [
+     "A cold wind began to blow across the empty street."
+    ]
+   }
+  ],
+  "examples": [
+   "Make a wish and blow out the candles on your birthday cake.",
+   "A cold wind began to blow across the empty street.",
+   "You should blow gently on the soup to cool it down."
+  ],
+  "translations": [
+   "ينفخ",
+   "يهب",
+   "يعصف"
+  ],
+  "relations": {
+   "synonyms": [
+    "puff",
+    "exhale"
+   ],
+   "antonyms": [
+    "inhale",
+    "suck"
+   ],
+   "collocations": [
+    "blow out",
+    "blow away",
+    "blow up"
+   ]
+  },
+  "mnemonic": "اربطها بكلمة 'Flow' 'تدفق'.. الـ 'Blow' هو تدفق الهوا.",
+  "phonetic_us": "bloʊ",
+  "phonetic_uk": "bləʊ",
+  "syllables": "blow",
+  "semantic_tags": [
+   "#Air",
+   "#Wind",
+   "#Action"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "To send out a stream of air from the mouth, or of the wind, to move and create a current of air.",
+  "explanation_ar": "تطلع هوا من بؤك عشان تطفي شمعة أو تنفخ بالونة، أو لما الهوا يتحرك بقوة.",
+  "examples": [
+   "Make a wish and blow out the candles on your birthday cake.",
+   "A cold wind began to blow across the empty street.",
+   "You should blow gently on the soup to cool it down."
+  ],
+  "translations": {
+   "arabic_ar": "ينفخ يهب يعصف"
+  },
+  "synonyms": [
+   "puff",
+   "exhale"
+  ],
+  "antonyms": [
+   "inhale",
+   "suck"
+  ],
+  "collocations": [
+   "blow out",
+   "blow away",
+   "blow up"
+  ],
+  "mnemonic_ar": "اربطها بكلمة 'Flow' 'تدفق'.. الـ 'Blow' هو تدفق الهوا."
+ }
+}

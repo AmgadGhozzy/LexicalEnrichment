@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "competitive",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "competitive",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Involving competition or wanting to win and be better than others.",
+  "explanation_ar": "تنافسي، يعني بيحب المنافسة وعايز يكسب دايماً، أو بيئة فيها منافسة قوية زي السوق.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Wanting very much to win and be more successful than others.",
+    "explanation_ar": "شخص تنافسي، يحب الفوز والتفوق على الآخرين.",
+    "examples": [
+     "She is a very competitive player who hates losing."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Involving a lot of competition, or offering prices and quality as good as or better than rivals.",
+    "explanation_ar": "يتسم بالمنافسة القوية، أو يقدم أسعاراً وشروطاً جيدة تنافس الآخرين في السوق.",
+    "examples": [
+     "They offer competitive prices to attract new customers.",
+     "The job market is highly competitive right now."
+    ]
+   }
+  ],
+  "examples": [
+   "She is a very competitive player who hates losing.",
+   "They offer competitive prices to attract new customers.",
+   "The job market is highly competitive right now."
+  ],
+  "translations": [
+   "تنافسي",
+   "منافس"
+  ],
+  "relations": {
+   "synonyms": [
+    "ambitious",
+    "aggressive"
+   ],
+   "antonyms": [
+    "cooperative",
+    "unambitious"
+   ],
+   "collocations": [
+    "competitive edge",
+    "competitive market",
+    "competitive price",
+    "highly competitive"
+   ],
+   "word_family": {
+    "noun": "competition",
+    "verb": "compete",
+    "adj": "competitive",
+    "adv": "competitively"
+   }
+  },
+  "mnemonic": "جاية من 'Compete' 'ينافس'.. في الـ 'Competition' 'المسابقة' لازم تكون 'Competitive' عشان تكسب.",
+  "phonetic_us": "kəmˈpetətɪv",
+  "phonetic_uk": "kəmˈpetɪtɪv",
+  "syllables": "com•pet•i•tive",
+  "semantic_tags": [
+   "#Business",
+   "#Sports",
+   "#Personality",
+   "#Winning"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Involving competition or wanting to win and be better than others.",
+  "explanation_ar": "تنافسي، يعني بيحب المنافسة وعايز يكسب دايماً، أو بيئة فيها منافسة قوية زي السوق.",
+  "examples": [
+   "She is a very competitive player who hates losing.",
+   "They offer competitive prices to attract new customers.",
+   "The job market is highly competitive right now."
+  ],
+  "translations": {
+   "arabic_ar": "تنافسي منافس"
+  },
+  "synonyms": [
+   "ambitious",
+   "aggressive"
+  ],
+  "antonyms": [
+   "cooperative",
+   "unambitious"
+  ],
+  "collocations": [
+   "competitive edge",
+   "competitive market",
+   "competitive price",
+   "highly competitive"
+  ],
+  "mnemonic_ar": "جاية من 'Compete' 'ينافس'.. في الـ 'Competition' 'المسابقة' لازم تكون 'Competitive' عشان تكسب."
+ }
+}

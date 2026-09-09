@@ -1,0 +1,66 @@
+{
+ "identity": {
+  "lemma": "chalk",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "chalk",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A soft white limestone used for writing on blackboards.",
+  "explanation_ar": "مادة بيضا طرية 'طباشير' كنا بنكتب بيها على السبورة زمان.",
+  "senses": [
+   {
+    "definition_en": "A soft white limestone used for writing on blackboards.",
+    "explanation_ar": "طباشير يُستخدم للكتابة على السبورة."
+   }
+  ],
+  "examples": [
+   "The teacher uses white chalk.",
+   "The chalk broke when I pressed too hard.",
+   "Gymnasts use chalk to keep their hands dry."
+  ],
+  "translations": [
+   "طباشير"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "piece of chalk",
+    "chalk dust"
+   ]
+  },
+  "mnemonic": "بنكتب بالـ 'Chalk' وإحنا بنتمشى 'Walk'.. المدرس بيكتب ويتمشى في الفصل.",
+  "phonetic_us": "/tʃɔːk/",
+  "phonetic_uk": "/tʃɔːk/",
+  "syllables": "chalk",
+  "semantic_tags": [
+   "School",
+   "Writing",
+   "Material",
+   "Education"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A soft white limestone used for writing on blackboards.",
+  "explanation_ar": "مادة بيضا طرية 'طباشير' كنا بنكتب بيها على السبورة زمان.",
+  "examples": [
+   "The teacher uses white chalk.",
+   "The chalk broke when I pressed too hard.",
+   "Gymnasts use chalk to keep their hands dry."
+  ],
+  "translations": {
+   "arabic_ar": "طباشير"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "piece of chalk",
+   "chalk dust"
+  ],
+  "mnemonic_ar": "بنكتب بالـ 'Chalk' وإحنا بنتمشى 'Walk'.. المدرس بيكتب ويتمشى في الفصل."
+ }
+}

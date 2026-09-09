@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "customary",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "customary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "According to the customs or usual practices of a particular society.",
+  "explanation_ar": "معتاد أو مألوف، حاجة الناس متعودة تعملها بحكم العادة والتقاليد.",
+  "senses": [
+   {
+    "definition_en": "According to the customs or usual practices of a particular society.",
+    "explanation_ar": "معتاد أو مألوف بحكم العادة والتقاليد والأعراف.",
+    "examples": [
+     "It is customary for the bride's father to pay for the wedding.",
+     "She offered the customary greeting.",
+     "The customary laws of the tribe were respected by the new government."
+    ]
+   }
+  ],
+  "examples": [
+   "It is customary for the bride's father to pay for the wedding.",
+   "She offered the customary greeting.",
+   "The customary laws of the tribe were respected by the new government."
+  ],
+  "translations": [
+   "عُرْفِيّ",
+   "مُعْتَاد"
+  ],
+  "relations": {
+   "synonyms": [
+    "usual",
+    "traditional",
+    "conventional",
+    "accustomed"
+   ],
+   "antonyms": [
+    "unusual",
+    "rare"
+   ],
+   "collocations": [
+    "customary to",
+    "customary law",
+    "customary greeting"
+   ]
+  },
+  "mnemonic": "جاية من 'Custom' 'عادة'.. فالـ 'Customary' هو اللي ماشي حسب العادة.",
+  "phonetic_us": "ˈkʌstəmɛri",
+  "phonetic_uk": "ˈkʌstəməri",
+  "syllables": "cus•tom•ary",
+  "semantic_tags": [
+   "#Tradition",
+   "#Habit",
+   "#Culture"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "According to the customs or usual practices of a particular society.",
+  "explanation_ar": "معتاد أو مألوف، حاجة الناس متعودة تعملها بحكم العادة والتقاليد.",
+  "examples": [
+   "It is customary for the bride's father to pay for the wedding.",
+   "She offered the customary greeting.",
+   "The customary laws of the tribe were respected by the new government."
+  ],
+  "translations": {
+   "arabic_ar": "عُرْفِيّ مُعْتَاد"
+  },
+  "synonyms": [
+   "usual",
+   "traditional",
+   "conventional",
+   "accustomed"
+  ],
+  "antonyms": [
+   "unusual",
+   "rare"
+  ],
+  "collocations": [
+   "customary to",
+   "customary law",
+   "customary greeting"
+  ],
+  "mnemonic_ar": "جاية من 'Custom' 'عادة'.. فالـ 'Customary' هو اللي ماشي حسب العادة."
+ }
+}

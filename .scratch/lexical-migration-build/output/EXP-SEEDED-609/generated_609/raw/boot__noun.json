@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "boot",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "boot",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A strong shoe that covers the foot and ankle.",
+  "explanation_ar": "الحذاء اللي برقبته عالية 'البوت'. وفي بريطانيا بيقولوا 'Boot' على شنطة العربية.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A strong shoe that covers the foot and ankle.",
+    "definition_ar": "حذاء ذو رقبة يغطي القدم والكاحل (بوت)"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The covered luggage space at the back of a car (British English).",
+    "definition_ar": "صندوق الأمتعة الخلفي في السيارة"
+   }
+  ],
+  "examples": [
+   "He kicked the ball with his heavy boot.",
+   "Put your bags in the boot of the car.",
+   "A small stone was stuck inside my boot."
+  ],
+  "translations": [
+   "حذاء طويل (بوت)",
+   "صندوق السيارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "shoe",
+    "footwear"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "car boot",
+    "hiking boot",
+    "leather boot"
+   ]
+  },
+  "mnemonic": "'بوت'.. كلنا بنلبس 'Boot' في الشتا.",
+  "phonetic_us": "buːt",
+  "phonetic_uk": "buːt",
+  "syllables": "boot",
+  "semantic_tags": [
+   "#Clothing",
+   "#Car",
+   "#Fashion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A strong shoe that covers the foot and ankle.",
+  "explanation_ar": "الحذاء اللي برقبته عالية 'البوت'. وفي بريطانيا بيقولوا 'Boot' على شنطة العربية.",
+  "examples": [
+   "He kicked the ball with his heavy boot.",
+   "Put your bags in the boot of the car.",
+   "A small stone was stuck inside my boot."
+  ],
+  "translations": {
+   "arabic_ar": "حذاء طويل (بوت) صندوق السيارة"
+  },
+  "synonyms": [
+   "shoe",
+   "footwear"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "car boot",
+   "hiking boot",
+   "leather boot"
+  ],
+  "mnemonic_ar": "'بوت'.. كلنا بنلبس 'Boot' في الشتا."
+ }
+}

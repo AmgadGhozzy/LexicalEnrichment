@@ -1,0 +1,99 @@
+{
+ "identity": {
+  "lemma": "commissioner",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "commissioner",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An official in charge of a government department, public agency, or police force, or an appointed member of a commission.",
+  "explanation_ar": "المفوض أو المسؤول الكبير في الحكومة، زي مأمور الشرطة أو مسؤول لجنة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An official in charge of a government department, public agency, or police force.",
+    "explanation_ar": "مسؤول حكومي رفيع أو رئيس جهاز تنفيذي أو أمني (مثل مأمور الشرطة).",
+    "examples": [
+     "The police commissioner announced new safety measures across the city.",
+     "The budget was approved by the commissioner before the project began."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "An appointed member of a formal commission or regulatory committee.",
+    "explanation_ar": "عضو مفوض ضمن لجنة رسمية أو هيئة رقابية.",
+    "examples": [
+     "She was appointed as a commissioner to oversee the independent inquiry."
+    ]
+   }
+  ],
+  "examples": [
+   "The police commissioner announced new safety measures across the city.",
+   "She was appointed as a commissioner to oversee the independent inquiry.",
+   "The budget was approved by the commissioner before the project began."
+  ],
+  "translations": [
+   "مُفَوَّض",
+   "مَأْمُور"
+  ],
+  "relations": {
+   "synonyms": [
+    "official",
+    "administrator",
+    "director",
+    "chief"
+   ],
+   "antonyms": [
+    "subordinate",
+    "assistant"
+   ],
+   "collocations": [
+    "police commissioner",
+    "high commissioner",
+    "deputy commissioner",
+    "appoint a commissioner"
+   ]
+  },
+  "mnemonic": "جاي من 'Commission' 'لجنة أو مهمة'.. فالـ 'Commissioner' هو رئيس اللجنة.",
+  "phonetic_us": "kəˈmɪʃənər",
+  "phonetic_uk": "kəˈmɪʃənə",
+  "syllables": "com•mis•sion•er",
+  "semantic_tags": [
+   "#Job",
+   "#Authority",
+   "#Government"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "An official in charge of a government department, public agency, or police force, or an appointed member of a commission.",
+  "explanation_ar": "المفوض أو المسؤول الكبير في الحكومة، زي مأمور الشرطة أو مسؤول لجنة.",
+  "examples": [
+   "The police commissioner announced new safety measures across the city.",
+   "She was appointed as a commissioner to oversee the independent inquiry.",
+   "The budget was approved by the commissioner before the project began."
+  ],
+  "translations": {
+   "arabic_ar": "مُفَوَّض مَأْمُور"
+  },
+  "synonyms": [
+   "official",
+   "administrator",
+   "director",
+   "chief"
+  ],
+  "antonyms": [
+   "subordinate",
+   "assistant"
+  ],
+  "collocations": [
+   "police commissioner",
+   "high commissioner",
+   "deputy commissioner",
+   "appoint a commissioner"
+  ],
+  "mnemonic_ar": "جاي من 'Commission' 'لجنة أو مهمة'.. فالـ 'Commissioner' هو رئيس اللجنة."
+ }
+}

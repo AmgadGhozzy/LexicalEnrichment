@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "catch",
+  "pos": "verb",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "catch",
+  "pos": "verb",
+  "cefr": "A2",
+  "definition_en": "To intercept and hold something; to get on a bus or train; to become infected.",
+  "explanation_ar": "تمسك حاجة بتطير في الهوا، أو تلحق الأتوبيس، أو حتى يجيلك دور برد.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To intercept and hold something in motion.",
+    "definition_ar": "يمسك شيئًا متحركًا",
+    "example": "Throw the ball and I will catch it."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To be in time to board a bus, train, or other public vehicle.",
+    "definition_ar": "يلحق بوسيلة مواصلات",
+    "example": "I need to catch the bus."
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "To become infected with an illness.",
+    "definition_ar": "يُصاب بمرض أو عدوى",
+    "example": "Did you catch a cold?"
+   }
+  ],
+  "examples": [
+   "Throw the ball and I will catch it.",
+   "I need to catch the bus.",
+   "Did you catch a cold?"
+  ],
+  "translations": [
+   "يمسك",
+   "يلحق",
+   "يُصاب بـ"
+  ],
+  "relations": {
+   "synonyms": [
+    "grab",
+    "seize",
+    "capture",
+    "contract"
+   ],
+   "antonyms": [
+    "miss",
+    "drop",
+    "release"
+   ],
+   "collocations": [
+    "catch a bus",
+    "catch a cold",
+    "catch fire",
+    "catch up"
+   ]
+  },
+  "mnemonic": "القطة 'Cat' بتعرف تعمل 'Catch' للفار.",
+  "phonetic_us": "kætʃ",
+  "phonetic_uk": "kætʃ",
+  "syllables": "catch",
+  "semantic_tags": [
+   "#Sports",
+   "#Travel",
+   "#Health"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To intercept and hold something; to get on a bus or train; to become infected.",
+  "explanation_ar": "تمسك حاجة بتطير في الهوا، أو تلحق الأتوبيس، أو حتى يجيلك دور برد.",
+  "examples": [
+   "Throw the ball and I will catch it.",
+   "I need to catch the bus.",
+   "Did you catch a cold?"
+  ],
+  "translations": {
+   "arabic_ar": "يمسك يلحق يُصاب بـ"
+  },
+  "synonyms": [
+   "grab",
+   "seize",
+   "capture",
+   "contract"
+  ],
+  "antonyms": [
+   "miss",
+   "drop",
+   "release"
+  ],
+  "collocations": [
+   "catch a bus",
+   "catch a cold",
+   "catch fire",
+   "catch up"
+  ],
+  "mnemonic_ar": "القطة 'Cat' بتعرف تعمل 'Catch' للفار."
+ }
+}

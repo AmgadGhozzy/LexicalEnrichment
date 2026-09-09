@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "contractual",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "contractual",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to or contained within a formal legal agreement.",
+  "explanation_ar": "حاجة ليها علاقة بالعقد المكتوب، يعني ملزمة قانونياً بناءً على الاتفاق اللي وقعتوا عليه.",
+  "senses": [
+   {
+    "definition_en": "Relating to or contained within a formal legal agreement.",
+    "explanation_ar": "خاص بالعقود أو منصوص عليه في عقد رسمي ملزم قانوناً.",
+    "examples": [
+     "I have a contractual duty to finish this.",
+     "The company fulfilled its contractual obligations.",
+     "There was a contractual dispute between the two parties."
+    ]
+   }
+  ],
+  "examples": [
+   "I have a contractual duty to finish this.",
+   "The company fulfilled its contractual obligations.",
+   "There was a contractual dispute between the two parties."
+  ],
+  "translations": [
+   "تعاقدي"
+  ],
+  "relations": {
+   "synonyms": [
+    "binding",
+    "agreed",
+    "legal"
+   ],
+   "antonyms": [
+    "non-contractual",
+    "informal"
+   ],
+   "collocations": [
+    "contractual obligation",
+    "contractual agreement",
+    "contractual terms",
+    "contractual rights"
+   ]
+  },
+  "mnemonic": "جاية من 'Contract' 'عقد'.. أي حاجة 'Contractual' يعني ماشية تبع الـ 'Contract'.",
+  "phonetic_us": "kənˈtræktʃuəl",
+  "phonetic_uk": "kənˈtræktjʊəl",
+  "syllables": "con•trac•tu•al",
+  "semantic_tags": [
+   "#Law",
+   "#Business",
+   "#Agreement",
+   "#Work"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to or contained within a formal legal agreement.",
+  "explanation_ar": "حاجة ليها علاقة بالعقد المكتوب، يعني ملزمة قانونياً بناءً على الاتفاق اللي وقعتوا عليه.",
+  "examples": [
+   "I have a contractual duty to finish this.",
+   "The company fulfilled its contractual obligations.",
+   "There was a contractual dispute between the two parties."
+  ],
+  "translations": {
+   "arabic_ar": "تعاقدي"
+  },
+  "synonyms": [
+   "binding",
+   "agreed",
+   "legal"
+  ],
+  "antonyms": [
+   "non-contractual",
+   "informal"
+  ],
+  "collocations": [
+   "contractual obligation",
+   "contractual agreement",
+   "contractual terms",
+   "contractual rights"
+  ],
+  "mnemonic_ar": "جاية من 'Contract' 'عقد'.. أي حاجة 'Contractual' يعني ماشية تبع الـ 'Contract'."
+ }
+}

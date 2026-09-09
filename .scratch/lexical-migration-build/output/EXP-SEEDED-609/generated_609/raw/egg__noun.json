@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "egg",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "egg",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An oval object laid by a female bird, usually eaten as food.",
+  "explanation_ar": "البيضة.. اللي بناكلها في الفطار أو بنستخدمها في الكيك.",
+  "senses": [
+   {
+    "definition_en": "An oval object laid by a female bird, usually eaten as food.",
+    "definition_ar": "البيضة التي تضعها أنثى الطائر وتُؤكل كطعام.",
+    "examples": [
+     "I eat an egg for breakfast.",
+     "Do you want a fried egg?",
+     "She cracked an egg into the frying pan."
+    ]
+   }
+  ],
+  "examples": [
+   "I eat an egg for breakfast.",
+   "Do you want a fried egg?",
+   "She cracked an egg into the frying pan."
+  ],
+  "translations": [
+   "بيضة"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "boiled egg",
+    "fried egg",
+    "lay an egg",
+    "egg yolk"
+   ]
+  },
+  "mnemonic": "كلمة قصيرة.. شكل البيضة بيفكرنا بحرف الـ 'g' المدور.",
+  "phonetic_us": "eɡ",
+  "phonetic_uk": "eɡ",
+  "syllables": [
+   "egg"
+  ],
+  "semantic_tags": [
+   "Food",
+   "Breakfast",
+   "Cooking",
+   "Bird"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An oval object laid by a female bird, usually eaten as food.",
+  "explanation_ar": "البيضة.. اللي بناكلها في الفطار أو بنستخدمها في الكيك.",
+  "examples": [
+   "I eat an egg for breakfast.",
+   "Do you want a fried egg?",
+   "She cracked an egg into the frying pan."
+  ],
+  "translations": {
+   "arabic_ar": "بيضة"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "boiled egg",
+   "fried egg",
+   "lay an egg",
+   "egg yolk"
+  ],
+  "mnemonic_ar": "كلمة قصيرة.. شكل البيضة بيفكرنا بحرف الـ 'g' المدور."
+ }
+}

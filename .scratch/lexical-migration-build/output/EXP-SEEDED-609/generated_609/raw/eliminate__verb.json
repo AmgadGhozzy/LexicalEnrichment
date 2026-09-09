@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "eliminate",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "eliminate",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To completely remove or get rid of something.",
+  "explanation_ar": "تتخلص من حاجة تماماً، أو تستبعد حد من مسابقة.",
+  "senses": [
+   {
+    "definition_en": "To completely remove or get rid of something.",
+    "definition_ar": "يقضي على شيء أو يتخلص منه تماماً."
+   },
+   {
+    "definition_en": "To defeat someone or a team so that they cannot continue in a competition.",
+    "definition_ar": "يستبعد أو يُقصي من مسابقة أو بطولة."
+   }
+  ],
+  "examples": [
+   "Doctors want to eliminate the disease.",
+   "The company plans to eliminate 200 jobs.",
+   "You can never completely eliminate risk from investment."
+  ],
+  "translations": [
+   "يقضي على",
+   "يتخلص من",
+   "يستبعد"
+  ],
+  "relations": {
+   "synonyms": [
+    "remove",
+    "eradicate",
+    "get rid of",
+    "exclude"
+   ],
+   "antonyms": [
+    "include",
+    "create",
+    "keep"
+   ],
+   "collocations": [
+    "eliminate risk",
+    "eliminate waste",
+    "eliminate poverty",
+    "eliminate a suspect"
+   ],
+   "word_family": {
+    "noun": "elimination",
+    "verb": "eliminate"
+   }
+  },
+  "mnemonic": "شبه 'Limit' 'حد'.. 'Eliminate' يعني تنهي الحدود وتتخلص من المشكلة خالص.",
+  "phonetic_us": "ɪˈlɪməneɪt",
+  "phonetic_uk": "ɪˈlɪmɪneɪt",
+  "syllables": "elim•i•nate",
+  "semantic_tags": [
+   "#Remove",
+   "#Sports",
+   "#ProblemSolving",
+   "#End"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To completely remove or get rid of something.",
+  "explanation_ar": "تتخلص من حاجة تماماً، أو تستبعد حد من مسابقة.",
+  "examples": [
+   "Doctors want to eliminate the disease.",
+   "The company plans to eliminate 200 jobs.",
+   "You can never completely eliminate risk from investment."
+  ],
+  "translations": {
+   "arabic_ar": "يقضي على يتخلص من يستبعد"
+  },
+  "synonyms": [
+   "remove",
+   "eradicate",
+   "get rid of",
+   "exclude"
+  ],
+  "antonyms": [
+   "include",
+   "create",
+   "keep"
+  ],
+  "collocations": [
+   "eliminate risk",
+   "eliminate waste",
+   "eliminate poverty",
+   "eliminate a suspect"
+  ],
+  "mnemonic_ar": "شبه 'Limit' 'حد'.. 'Eliminate' يعني تنهي الحدود وتتخلص من المشكلة خالص."
+ }
+}

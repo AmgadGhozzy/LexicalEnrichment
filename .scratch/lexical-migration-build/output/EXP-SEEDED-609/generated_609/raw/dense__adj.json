@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "dense",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "dense",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Closely compacted in substance; having parts crowded together.",
+  "explanation_ar": "حاجة مليانة ومكبوسة في بعضها، زي غابة شجرها كتير أو ضباب تقيل مش شايف منه حاجة.",
+  "senses": [
+   {
+    "definition_en": "Having parts closely packed together with little space in between; thick.",
+    "definition_ar": "كثيف أو متراص، مثل الغابة المكتظة أو الضباب الكثيف.",
+    "examples": [
+     "We walked through dense fog.",
+     "The population is very dense in the city center."
+    ]
+   },
+   {
+    "definition_en": "Containing a lot of complex ideas or information in a short space, making it difficult to understand.",
+    "definition_ar": "مكثف ومعقد وصعب الفهم لكثرة تفاصيله وأفكاره.",
+    "examples": [
+     "The book is difficult due to its dense prose."
+    ]
+   }
+  ],
+  "examples": [
+   "We walked through dense fog.",
+   "The population is very dense in the city center.",
+   "The book is difficult due to its dense prose."
+  ],
+  "translations": [
+   "كثيف",
+   "مكتظ",
+   "متراص"
+  ],
+  "relations": {
+   "synonyms": [
+    "thick",
+    "compact",
+    "crowded",
+    "compressed"
+   ],
+   "antonyms": [
+    "sparse",
+    "thin",
+    "light"
+   ],
+   "collocations": [
+    "dense fog",
+    "dense forest",
+    "dense population",
+    "dense prose"
+   ],
+   "word_family": {
+    "adj": "dense",
+    "adv": "densely",
+    "noun": "density",
+    "verb": "densify"
+   }
+  },
+  "mnemonic": "كلمة 'Dense' قريبة من 'Dance'.. تخيل صالة رقص زحمة جداً والناس 'Dense' يعني لازقين في بعض.",
+  "phonetic_us": "/dɛns/",
+  "phonetic_uk": "/dens/",
+  "syllables": [
+   "dense"
+  ],
+  "semantic_tags": [
+   "nature",
+   "physics",
+   "texture",
+   "population"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Closely compacted in substance; having parts crowded together.",
+  "explanation_ar": "حاجة مليانة ومكبوسة في بعضها، زي غابة شجرها كتير أو ضباب تقيل مش شايف منه حاجة.",
+  "examples": [
+   "We walked through dense fog.",
+   "The population is very dense in the city center.",
+   "The book is difficult due to its dense prose."
+  ],
+  "translations": {
+   "arabic_ar": "كثيف مكتظ متراص"
+  },
+  "synonyms": [
+   "thick",
+   "compact",
+   "crowded",
+   "compressed"
+  ],
+  "antonyms": [
+   "sparse",
+   "thin",
+   "light"
+  ],
+  "collocations": [
+   "dense fog",
+   "dense forest",
+   "dense population",
+   "dense prose"
+  ],
+  "mnemonic_ar": "كلمة 'Dense' قريبة من 'Dance'.. تخيل صالة رقص زحمة جداً والناس 'Dense' يعني لازقين في بعض."
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "come",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "come",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To move or travel towards the speaker or a specific place.",
+  "explanation_ar": "إنك تتحرك وتقرب من المكان اللي المتكلم موجود فيه، أو توصل لمكان معين.",
+  "senses": [
+   {
+    "sense_id": "come_1",
+    "definition_en": "To move or travel towards the speaker or a specific place.",
+    "definition_ar": "التحرك أو الانتقال باتجاه المتكلم أو نحو مكان محدد.",
+    "pos": "verb",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "Come here, please.",
+   "Can you come to my party?",
+   "Please come in and sit down."
+  ],
+  "translations": [
+   "يأتي"
+  ],
+  "relations": {
+   "synonyms": [
+    "arrive",
+    "approach"
+   ],
+   "antonyms": [
+    "go",
+    "leave"
+   ],
+   "collocations": [
+    "come back",
+    "come in",
+    "come on"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "kʌm",
+  "phonetic_uk": "kʌm",
+  "syllables": [
+   "come"
+  ],
+  "semantic_tags": [
+   "#Movement",
+   "#Travel",
+   "#Arrival"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move or travel towards the speaker or a specific place.",
+  "explanation_ar": "إنك تتحرك وتقرب من المكان اللي المتكلم موجود فيه، أو توصل لمكان معين.",
+  "examples": [
+   "Come here, please.",
+   "Can you come to my party?",
+   "Please come in and sit down."
+  ],
+  "translations": {
+   "arabic_ar": "يأتي"
+  },
+  "synonyms": [
+   "arrive",
+   "approach"
+  ],
+  "antonyms": [
+   "go",
+   "leave"
+  ],
+  "collocations": [
+   "come back",
+   "come in",
+   "come on"
+  ],
+  "mnemonic_ar": null
+ }
+}

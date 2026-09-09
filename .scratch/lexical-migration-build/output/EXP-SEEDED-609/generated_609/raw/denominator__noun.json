@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "denominator",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "denominator",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The number below the line in a fraction that shows how many parts the whole is divided into, or a shared trait or characteristic.",
+  "explanation_ar": "الرقم الموجود أسفل الكسر الحسابي (المقام)، ويُستخدم مجازاً للإشارة إلى قاسم أو صفة مشتركة تجمع بين أطراف مختلفة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The number below the line in a fraction showing how many parts the whole is divided into.",
+    "definition_ar": "المقام؛ الرقم السفلي في الكسر الحسابي.",
+    "examples": [
+     "In the fraction 1/2, 2 is the denominator.",
+     "You need a common denominator to add these fractions."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A common trait, standard, or characteristic shared by different people or things.",
+    "definition_ar": "قاسم مشترك؛ صفة أو رابط يشترك فيه طرفان أو أكثر.",
+    "examples": [
+     "Fear was the common denominator in their reactions."
+    ]
+   }
+  ],
+  "examples": [
+   "In the fraction 1/2, 2 is the denominator.",
+   "You need a common denominator to add these fractions.",
+   "Fear was the common denominator in their reactions."
+  ],
+  "translations": [
+   "مقام",
+   "قاسم مشترك"
+  ],
+  "relations": {
+   "synonyms": [
+    "divisor"
+   ],
+   "antonyms": [
+    "numerator"
+   ],
+   "collocations": [
+    "common denominator",
+    "lowest common denominator",
+    "least common denominator"
+   ]
+  },
+  "mnemonic": "افتكرها بحرف 'D' مع كلمة 'Down'؛ الـ Denominator هو الرقم اللي بيكون 'Down' (تحت) في الكسر.",
+  "phonetic_us": "dɪˈnɑːmɪneɪtər",
+  "phonetic_uk": "dɪˈnɒmɪneɪtə(r)",
+  "syllables": "de•nom•i•na•tor",
+  "semantic_tags": [
+   "Math",
+   "Fractions",
+   "Mathematics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The number below the line in a fraction that shows how many parts the whole is divided into, or a shared trait or characteristic.",
+  "explanation_ar": "الرقم الموجود أسفل الكسر الحسابي (المقام)، ويُستخدم مجازاً للإشارة إلى قاسم أو صفة مشتركة تجمع بين أطراف مختلفة.",
+  "examples": [
+   "In the fraction 1/2, 2 is the denominator.",
+   "You need a common denominator to add these fractions.",
+   "Fear was the common denominator in their reactions."
+  ],
+  "translations": {
+   "arabic_ar": "مقام قاسم مشترك"
+  },
+  "synonyms": [
+   "divisor"
+  ],
+  "antonyms": [
+   "numerator"
+  ],
+  "collocations": [
+   "common denominator",
+   "lowest common denominator",
+   "least common denominator"
+  ],
+  "mnemonic_ar": "افتكرها بحرف 'D' مع كلمة 'Down'؛ الـ Denominator هو الرقم اللي بيكون 'Down' (تحت) في الكسر."
+ }
+}

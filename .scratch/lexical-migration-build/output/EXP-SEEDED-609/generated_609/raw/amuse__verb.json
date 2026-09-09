@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "amuse",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "amuse",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To cause someone to find something funny or entertaining.",
+  "explanation_ar": "يُسَلّي أو يُضْحِك، أو يجعل شخصاً يقضي وقتاً ممتعاً ومسلياً.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To cause someone to find something funny or entertaining.",
+    "definition_ar": "يُسَلّي أو يُضْحِك شخصاً ما.",
+    "examples": [
+     "This game will amuse you.",
+     "I bought a magazine to amuse myself on the train.",
+     "His jokes failed to amuse the audience."
+    ]
+   }
+  ],
+  "examples": [
+   "This game will amuse you.",
+   "I bought a magazine to amuse myself on the train.",
+   "His jokes failed to amuse the audience."
+  ],
+  "translations": [
+   "يُسَلِّي",
+   "يُضْحِك",
+   "يُمَتِّع"
+  ],
+  "relations": {
+   "synonyms": [
+    "entertain",
+    "delight",
+    "divert"
+   ],
+   "antonyms": [
+    "bore"
+   ],
+   "collocations": [
+    "amuse oneself",
+    "fail to amuse",
+    "try to amuse"
+   ]
+  },
+  "mnemonic": "'Muse' 'إلهة الفن'.. لما الـ 'Muse' تحضر، الناس بتنبسط وتـ 'Amuse'.",
+  "phonetic_us": "əˈmjuːz",
+  "phonetic_uk": "əˈmjuːz",
+  "syllables": "a-muse",
+  "semantic_tags": [
+   "fun",
+   "entertainment",
+   "humor",
+   "feelings"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To cause someone to find something funny or entertaining.",
+  "explanation_ar": "يُسَلّي أو يُضْحِك، أو يجعل شخصاً يقضي وقتاً ممتعاً ومسلياً.",
+  "examples": [
+   "This game will amuse you.",
+   "I bought a magazine to amuse myself on the train.",
+   "His jokes failed to amuse the audience."
+  ],
+  "translations": {
+   "arabic_ar": "يُسَلِّي يُضْحِك يُمَتِّع"
+  },
+  "synonyms": [
+   "entertain",
+   "delight",
+   "divert"
+  ],
+  "antonyms": [
+   "bore"
+  ],
+  "collocations": [
+   "amuse oneself",
+   "fail to amuse",
+   "try to amuse"
+  ],
+  "mnemonic_ar": "'Muse' 'إلهة الفن'.. لما الـ 'Muse' تحضر، الناس بتنبسط وتـ 'Amuse'."
+ }
+}

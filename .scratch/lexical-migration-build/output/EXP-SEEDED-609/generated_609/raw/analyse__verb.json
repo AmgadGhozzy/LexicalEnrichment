@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "analyse",
+  "pos": "verb",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "analyse",
+  "pos": "verb",
+  "cefr": "B1",
+  "definition_en": "To examine methodically and in detail the constitution or structure of something.",
+  "explanation_ar": "إنك تحلل حاجة وتفصصها عشان تفهمها كويس، زي تحليل البيانات أو تحليل الدم.",
+  "senses": [
+   {
+    "sense_id": "analyse_v_1",
+    "definition_en": "To examine methodically and in detail the constitution or structure of something.",
+    "explanation_ar": "أن تفحص شيئاً بدقة وتفصّله لتفهمه جيداً، مثل دراسة البيانات أو النتائج.",
+    "examples": [
+     "We need to analyse the survey results before making a decision.",
+     "Scientists will analyse the water samples to test for pollution.",
+     "The committee met to analyse the financial risks of the project."
+    ]
+   }
+  ],
+  "examples": [
+   "We need to analyse the survey results before making a decision.",
+   "Scientists will analyse the water samples to test for pollution.",
+   "The committee met to analyse the financial risks of the project."
+  ],
+  "translations": [
+   "يحلل"
+  ],
+  "relations": {
+   "synonyms": [
+    "examine",
+    "inspect",
+    "study",
+    "evaluate"
+   ],
+   "antonyms": [
+    "synthesize",
+    "ignore"
+   ],
+   "collocations": [
+    "analyse data",
+    "analyse results",
+    "critically analyse"
+   ]
+  },
+  "mnemonic": "جاية من 'Analysis' 'تحليل'.. يعني بتعمل 'Analyse'.",
+  "phonetic_us": "ˈænəlaɪz",
+  "phonetic_uk": "ˈænəlaɪz",
+  "syllables": "an•a•lyse",
+  "semantic_tags": [
+   "#Science",
+   "#Data",
+   "#Study"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To examine methodically and in detail the constitution or structure of something.",
+  "explanation_ar": "إنك تحلل حاجة وتفصصها عشان تفهمها كويس، زي تحليل البيانات أو تحليل الدم.",
+  "examples": [
+   "We need to analyse the survey results before making a decision.",
+   "Scientists will analyse the water samples to test for pollution.",
+   "The committee met to analyse the financial risks of the project."
+  ],
+  "translations": {
+   "arabic_ar": "يحلل"
+  },
+  "synonyms": [
+   "examine",
+   "inspect",
+   "study",
+   "evaluate"
+  ],
+  "antonyms": [
+   "synthesize",
+   "ignore"
+  ],
+  "collocations": [
+   "analyse data",
+   "analyse results",
+   "critically analyse"
+  ],
+  "mnemonic_ar": "جاية من 'Analysis' 'تحليل'.. يعني بتعمل 'Analyse'."
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "craft",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "craft",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "An activity involving skill in making things by hand.",
+  "explanation_ar": "حرفة يدوية محتاجة مهارة وفن، زي النجارة أو الخياطة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An activity involving skill in making things by hand or special expertise.",
+    "definition_ar": "حرفة أو عمل يتطلب مهارة يدوية أو فنية خاصة.",
+    "examples": [
+     "He learned the craft of woodworking from his grandfather.",
+     "Writing is a craft that takes years to master."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A boat, ship, or aircraft.",
+    "definition_ar": "مركبة للتنقل في الماء أو الجو مثل القارب أو الطائرة.",
+    "examples": [
+     "The captain steered the small craft safely into the harbor."
+    ]
+   }
+  ],
+  "examples": [
+   "He learned the craft of woodworking from his grandfather.",
+   "Writing is a craft that takes years to master.",
+   "The captain steered the small craft safely into the harbor."
+  ],
+  "translations": [
+   "حرفة",
+   "صنعة",
+   "مركبة"
+  ],
+  "relations": {
+   "synonyms": [
+    "trade",
+    "handicraft",
+    "art",
+    "vessel"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "traditional craft",
+    "master a craft",
+    "naval craft",
+    "landing craft"
+   ]
+  },
+  "mnemonic": "لعبة 'Minecraft'.. فكرتها إنك تبني وتصنع حاجات بمهارة 'Craft'.",
+  "phonetic_us": "kræft",
+  "phonetic_uk": "krɑːft",
+  "syllables": [
+   "craft"
+  ],
+  "semantic_tags": [
+   "#Skill",
+   "#Art",
+   "#Handmade",
+   "#Work"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An activity involving skill in making things by hand.",
+  "explanation_ar": "حرفة يدوية محتاجة مهارة وفن، زي النجارة أو الخياطة.",
+  "examples": [
+   "He learned the craft of woodworking from his grandfather.",
+   "Writing is a craft that takes years to master.",
+   "The captain steered the small craft safely into the harbor."
+  ],
+  "translations": {
+   "arabic_ar": "حرفة صنعة مركبة"
+  },
+  "synonyms": [
+   "trade",
+   "handicraft",
+   "art",
+   "vessel"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "traditional craft",
+   "master a craft",
+   "naval craft",
+   "landing craft"
+  ],
+  "mnemonic_ar": "لعبة 'Minecraft'.. فكرتها إنك تبني وتصنع حاجات بمهارة 'Craft'."
+ }
+}

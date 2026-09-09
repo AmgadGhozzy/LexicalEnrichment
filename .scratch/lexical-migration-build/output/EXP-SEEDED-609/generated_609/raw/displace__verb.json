@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "displace",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "displace",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To take over the place, position, or role of someone or something, or to force someone or something from their usual place.",
+  "explanation_ar": "يزيح حاجة أو حد من مكانه ويحل محله، أو يهجر ناس من بيوتهم غصب عنهم.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To take over the place, position, or role of someone or something.",
+    "definition_ar": "يحل محل شخص أو شيء أو يزيحه عن موقعه.",
+    "examples": [
+     "New automated systems may soon displace human workers in routine factory jobs."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To force people to leave their home, region, or country.",
+    "definition_ar": "يُهجّر أو يُشرّد أشخاصاً من ديارهم قسراً.",
+    "examples": [
+     "Severe seasonal floods threaten to displace thousands of families from the valley."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "To move something out of its normal physical position.",
+    "definition_ar": "يزيح شيئاً من موضعه الطبيعي (كالماء أو الأجسام).",
+    "examples": [
+     "A solid object submerged in a container will displace its own volume of liquid."
+    ]
+   }
+  ],
+  "examples": [
+   "New automated systems may soon displace human workers in routine factory jobs.",
+   "Severe seasonal floods threaten to displace thousands of families from the valley.",
+   "A solid object submerged in a container will displace its own volume of liquid."
+  ],
+  "translations": [
+   "يُزِيح",
+   "يَحِلّ مَحَلّ",
+   "يُهَجِّر"
+  ],
+  "relations": {
+   "synonyms": [
+    "replace",
+    "supplant",
+    "oust",
+    "remove"
+   ],
+   "antonyms": [
+    "keep",
+    "retain"
+   ],
+   "collocations": [
+    "displace workers",
+    "displace water",
+    "displaced persons"
+   ]
+  },
+  "mnemonic": "'Dis' 'نفي/إزالة' + 'Place' 'مكان'.. يعني تشيل حد من الـ 'Place' بتاعه.",
+  "phonetic_us": "dɪsˈpleɪs",
+  "phonetic_uk": "dɪsˈpleɪs",
+  "syllables": "dis•place",
+  "semantic_tags": [
+   "#Physics",
+   "#Refugees",
+   "#Movement"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To take over the place, position, or role of someone or something, or to force someone or something from their usual place.",
+  "explanation_ar": "يزيح حاجة أو حد من مكانه ويحل محله، أو يهجر ناس من بيوتهم غصب عنهم.",
+  "examples": [
+   "New automated systems may soon displace human workers in routine factory jobs.",
+   "Severe seasonal floods threaten to displace thousands of families from the valley.",
+   "A solid object submerged in a container will displace its own volume of liquid."
+  ],
+  "translations": {
+   "arabic_ar": "يُزِيح يَحِلّ مَحَلّ يُهَجِّر"
+  },
+  "synonyms": [
+   "replace",
+   "supplant",
+   "oust",
+   "remove"
+  ],
+  "antonyms": [
+   "keep",
+   "retain"
+  ],
+  "collocations": [
+   "displace workers",
+   "displace water",
+   "displaced persons"
+  ],
+  "mnemonic_ar": "'Dis' 'نفي/إزالة' + 'Place' 'مكان'.. يعني تشيل حد من الـ 'Place' بتاعه."
+ }
+}

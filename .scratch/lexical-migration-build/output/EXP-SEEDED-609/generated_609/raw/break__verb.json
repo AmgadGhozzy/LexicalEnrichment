@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "break",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "break",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To separate into pieces as a result of a blow, shock, or strain.",
+  "explanation_ar": "يكسر حاجة ويخليها حتت، أو يخالف وعد أو قانون.",
+  "senses": [
+   {
+    "sense_id": "break-v-1",
+    "definition_en": "To separate into pieces as a result of a blow, shock, or strain.",
+    "explanation_ar": "يكسر أو يتحطم إلى قطع",
+    "examples": [
+     "Don't break the glass.",
+     "If you drop that bowl, it will break."
+    ]
+   },
+   {
+    "sense_id": "break-v-2",
+    "definition_en": "To fail to obey a rule, law, or promise.",
+    "explanation_ar": "يخالف قانوناً أو ينقض وعداً",
+    "examples": [
+     "He promised not to break the law."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't break the glass.",
+   "If you drop that bowl, it will break.",
+   "He promised not to break the law."
+  ],
+  "translations": [
+   "يكسر",
+   "يحطم",
+   "يخالف"
+  ],
+  "relations": {
+   "synonyms": [
+    "smash",
+    "shatter",
+    "crack",
+    "fracture"
+   ],
+   "antonyms": [
+    "fix",
+    "repair",
+    "mend"
+   ],
+   "collocations": [
+    "break the law",
+    "break a promise",
+    "break a record"
+   ]
+  },
+  "mnemonic": "زي الـ 'Brake' 'فرامل' العربية.. لو ضغطت فرامل فجأة ممكن حاجة تتكسر 'Break'.",
+  "phonetic_us": "breɪk",
+  "phonetic_uk": "breɪk",
+  "syllables": [
+   "break"
+  ],
+  "semantic_tags": [
+   "#Damage",
+   "#Smash",
+   "#Violate"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To separate into pieces as a result of a blow, shock, or strain.",
+  "explanation_ar": "يكسر حاجة ويخليها حتت، أو يخالف وعد أو قانون.",
+  "examples": [
+   "Don't break the glass.",
+   "If you drop that bowl, it will break.",
+   "He promised not to break the law."
+  ],
+  "translations": {
+   "arabic_ar": "يكسر يحطم يخالف"
+  },
+  "synonyms": [
+   "smash",
+   "shatter",
+   "crack",
+   "fracture"
+  ],
+  "antonyms": [
+   "fix",
+   "repair",
+   "mend"
+  ],
+  "collocations": [
+   "break the law",
+   "break a promise",
+   "break a record"
+  ],
+  "mnemonic_ar": "زي الـ 'Brake' 'فرامل' العربية.. لو ضغطت فرامل فجأة ممكن حاجة تتكسر 'Break'."
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "choose",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "choose",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To pick out or select as being the best or most appropriate.",
+  "explanation_ar": "يختار حاجة من وسط حاجات كتير، أو يقرر ياخد حاجة معينة.",
+  "senses": [
+   {
+    "definition_en": "To pick out or select as being the best or most appropriate.",
+    "explanation_ar": "يختار حاجة من وسط حاجات كتير، أو يقرر ياخد حاجة معينة.",
+    "examples": [
+     "You can choose which movie you want to watch.",
+     "You must choose between the two options.",
+     "Take your time to choose the best answer."
+    ]
+   }
+  ],
+  "examples": [
+   "You can choose which movie you want to watch.",
+   "You must choose between the two options.",
+   "Take your time to choose the best answer."
+  ],
+  "translations": [
+   "يختار",
+   "ينتقي"
+  ],
+  "relations": {
+   "synonyms": [
+    "select",
+    "pick",
+    "opt",
+    "decide"
+   ],
+   "antonyms": [
+    "reject",
+    "refuse",
+    "decline"
+   ],
+   "collocations": [
+    "choose wisely",
+    "choose to do",
+    "pick and choose",
+    "hard to choose"
+   ]
+  },
+  "mnemonic": "عندك 'Choice' 'اختيار'.. لازم 'Choose' 'تختار' واحد منهم.",
+  "phonetic_us": "tʃuːz",
+  "phonetic_uk": "tʃuːz",
+  "syllables": [
+   "choose"
+  ],
+  "semantic_tags": [
+   "#Decision",
+   "#Selection",
+   "#Choice",
+   "#Preference"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To pick out or select as being the best or most appropriate.",
+  "explanation_ar": "يختار حاجة من وسط حاجات كتير، أو يقرر ياخد حاجة معينة.",
+  "examples": [
+   "You can choose which movie you want to watch.",
+   "You must choose between the two options.",
+   "Take your time to choose the best answer."
+  ],
+  "translations": {
+   "arabic_ar": "يختار ينتقي"
+  },
+  "synonyms": [
+   "select",
+   "pick",
+   "opt",
+   "decide"
+  ],
+  "antonyms": [
+   "reject",
+   "refuse",
+   "decline"
+  ],
+  "collocations": [
+   "choose wisely",
+   "choose to do",
+   "pick and choose",
+   "hard to choose"
+  ],
+  "mnemonic_ar": "عندك 'Choice' 'اختيار'.. لازم 'Choose' 'تختار' واحد منهم."
+ }
+}

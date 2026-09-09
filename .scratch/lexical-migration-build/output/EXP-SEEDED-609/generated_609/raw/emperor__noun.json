@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "emperor",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "emperor",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A sovereign ruler of great power and rank, especially one ruling an empire.",
+  "explanation_ar": "الإمبراطور، الحاكم اللي بيحكم إمبراطورية (مجموعة دول أو أراضٍ واسعة)، وتكون رتبته عادةً أعلى من الملك.",
+  "senses": [
+   {
+    "definition_en": "A sovereign ruler of great power and rank, especially one ruling an empire.",
+    "definition_ar": "حاكم ذو نفوذ وسلطة واسعة يحكم إمبراطورية.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Napoleon was a famous emperor.",
+   "The emperor declared war on the rebels.",
+   "The emperor lived in a palace."
+  ],
+  "translations": [
+   "إمبراطور"
+  ],
+  "relations": {
+   "synonyms": [
+    "monarch",
+    "sovereign",
+    "ruler"
+   ],
+   "antonyms": [
+    "subject"
+   ],
+   "collocations": [
+    "Roman emperor",
+    "emperor penguin",
+    "holy roman emperor"
+   ]
+  },
+  "mnemonic": "هو اللي بيحكم الـ 'Empire' (إمبراطورية)، والكلمتان تبدآن بنفس الحروف (emperor / empire).",
+  "phonetic_us": "ˈɛmpəɹɚ",
+  "phonetic_uk": "ˈempərə",
+  "syllables": "em•per•or",
+  "semantic_tags": [
+   "History",
+   "Royalty",
+   "Power"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A sovereign ruler of great power and rank, especially one ruling an empire.",
+  "explanation_ar": "الإمبراطور، الحاكم اللي بيحكم إمبراطورية (مجموعة دول أو أراضٍ واسعة)، وتكون رتبته عادةً أعلى من الملك.",
+  "examples": [
+   "Napoleon was a famous emperor.",
+   "The emperor declared war on the rebels.",
+   "The emperor lived in a palace."
+  ],
+  "translations": {
+   "arabic_ar": "إمبراطور"
+  },
+  "synonyms": [
+   "monarch",
+   "sovereign",
+   "ruler"
+  ],
+  "antonyms": [
+   "subject"
+  ],
+  "collocations": [
+   "Roman emperor",
+   "emperor penguin",
+   "holy roman emperor"
+  ],
+  "mnemonic_ar": "هو اللي بيحكم الـ 'Empire' (إمبراطورية)، والكلمتان تبدآن بنفس الحروف (emperor / empire)."
+ }
+}

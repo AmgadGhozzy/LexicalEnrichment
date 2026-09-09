@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "composer",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "composer",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who writes music, especially as a professional occupation.",
+  "explanation_ar": "الشخص اللي بيألف الموسيقى ويكتب الألحان، زي بيتهوفن أو عمر خيرت.",
+  "senses": [
+   {
+    "definition_en": "A person who writes music, especially as a professional occupation.",
+    "definition_ar": "الشخص الذي يؤلف الموسيقى ويكتب الألحان الموسيقية.",
+    "examples": [
+     "Mozart is a famous composer.",
+     "The composer wrote a new song for the film.",
+     "He is regarded as the greatest composer of his generation."
+    ]
+   }
+  ],
+  "examples": [
+   "Mozart is a famous composer.",
+   "The composer wrote a new song for the film.",
+   "He is regarded as the greatest composer of his generation."
+  ],
+  "translations": [
+   "مؤلف موسيقي",
+   "ملحن"
+  ],
+  "relations": {
+   "synonyms": [
+    "songwriter",
+    "melodist"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "film composer",
+    "classical composer",
+    "famous composer"
+   ]
+  },
+  "mnemonic": "هو اللي بيعمل 'Compose' 'تأليف' للموسيقى على الـ 'Computer' أو البيانو.",
+  "phonetic_us": "kəmˈpoʊzɚ",
+  "phonetic_uk": "kəmˈpəʊzə",
+  "syllables": "com•pos•er",
+  "semantic_tags": [
+   "Music",
+   "Art",
+   "Profession"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who writes music, especially as a professional occupation.",
+  "explanation_ar": "الشخص اللي بيألف الموسيقى ويكتب الألحان، زي بيتهوفن أو عمر خيرت.",
+  "examples": [
+   "Mozart is a famous composer.",
+   "The composer wrote a new song for the film.",
+   "He is regarded as the greatest composer of his generation."
+  ],
+  "translations": {
+   "arabic_ar": "مؤلف موسيقي ملحن"
+  },
+  "synonyms": [
+   "songwriter",
+   "melodist"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "film composer",
+   "classical composer",
+   "famous composer"
+  ],
+  "mnemonic_ar": "هو اللي بيعمل 'Compose' 'تأليف' للموسيقى على الـ 'Computer' أو البيانو."
+ }
+}

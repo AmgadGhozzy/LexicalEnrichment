@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "contingent",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "contingent",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Occurring only if specific circumstances exist; dependent on.",
+  "explanation_ar": "يعني حاجة مش أكيدة.. معتمدة على شرط تاني عشان تحصل",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Occurring only if specific circumstances exist; dependent on.",
+    "definition_ar": "مشروط بـ أو معتمد على حدوث شيء آخر",
+    "examples": [
+     "Our success is contingent on your support.",
+     "The sale of the house is contingent on getting a loan.",
+     "The job offer is contingent upon passing a background check."
+    ]
+   }
+  ],
+  "examples": [
+   "Our success is contingent on your support.",
+   "The sale of the house is contingent on getting a loan.",
+   "The job offer is contingent upon passing a background check."
+  ],
+  "translations": [
+   "مَشْروط بِـ",
+   "مُعْتَمِد عَلى"
+  ],
+  "relations": {
+   "synonyms": [
+    "dependent",
+    "conditional",
+    "subject to"
+   ],
+   "antonyms": [
+    "certain",
+    "independent",
+    "unconditional"
+   ],
+   "collocations": [
+    "contingent on",
+    "contingent upon",
+    "contingent liability"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Contact'.. الحاجة دي 'Contingent' يعني لازم يحصل 'Contact' مع شرط معين عشان تحصل",
+  "phonetic_us": "kənˈtɪndʒənt",
+  "phonetic_uk": "kənˈtɪndʒənt",
+  "syllables": "con•tin•gent",
+  "semantic_tags": [
+   "#Dependency",
+   "#Uncertainty",
+   "#Logic",
+   "#Business"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Occurring only if specific circumstances exist; dependent on.",
+  "explanation_ar": "يعني حاجة مش أكيدة.. معتمدة على شرط تاني عشان تحصل",
+  "examples": [
+   "Our success is contingent on your support.",
+   "The sale of the house is contingent on getting a loan.",
+   "The job offer is contingent upon passing a background check."
+  ],
+  "translations": {
+   "arabic_ar": "مَشْروط بِـ مُعْتَمِد عَلى"
+  },
+  "synonyms": [
+   "dependent",
+   "conditional",
+   "subject to"
+  ],
+  "antonyms": [
+   "certain",
+   "independent",
+   "unconditional"
+  ],
+  "collocations": [
+   "contingent on",
+   "contingent upon",
+   "contingent liability"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Contact'.. الحاجة دي 'Contingent' يعني لازم يحصل 'Contact' مع شرط معين عشان تحصل"
+ }
+}

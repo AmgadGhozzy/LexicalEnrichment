@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "cash",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "cash",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "Money in the form of coins or notes.",
+  "explanation_ar": "الفلوس الكاش، يعني ورق أو فضة مش فيزا.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Money in the form of coins or notes.",
+    "definition_ar": "نقود في شكل عملات ورقية أو معدنية وليست شيكات أو بطاقات بنكية.",
+    "examples": [
+     "I have no cash.",
+     "Can I pay in cash?",
+     "She withdrew cash from the ATM."
+    ]
+   }
+  ],
+  "examples": [
+   "I have no cash.",
+   "Can I pay in cash?",
+   "She withdrew cash from the ATM."
+  ],
+  "translations": [
+   "نقد",
+   "نقود",
+   "كاش"
+  ],
+  "relations": {
+   "synonyms": [
+    "money",
+    "currency",
+    "funds"
+   ],
+   "antonyms": [
+    "credit",
+    "check"
+   ],
+   "collocations": [
+    "cold hard cash",
+    "cash flow",
+    "petty cash",
+    "pay cash"
+   ]
+  },
+  "mnemonic": "الـ 'Cash' لو مش معاك هتعمل 'Crash' 'تتصدم' في حياتك ومش هتعرف تشتري حاجة.",
+  "phonetic_us": "kæʃ",
+  "phonetic_uk": "kæʃ",
+  "syllables": [
+   "cash"
+  ],
+  "semantic_tags": [
+   "#Money",
+   "#Finance",
+   "#Payment",
+   "#Economy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Money in the form of coins or notes.",
+  "explanation_ar": "الفلوس الكاش، يعني ورق أو فضة مش فيزا.",
+  "examples": [
+   "I have no cash.",
+   "Can I pay in cash?",
+   "She withdrew cash from the ATM."
+  ],
+  "translations": {
+   "arabic_ar": "نقد نقود كاش"
+  },
+  "synonyms": [
+   "money",
+   "currency",
+   "funds"
+  ],
+  "antonyms": [
+   "credit",
+   "check"
+  ],
+  "collocations": [
+   "cold hard cash",
+   "cash flow",
+   "petty cash",
+   "pay cash"
+  ],
+  "mnemonic_ar": "الـ 'Cash' لو مش معاك هتعمل 'Crash' 'تتصدم' في حياتك ومش هتعرف تشتري حاجة."
+ }
+}

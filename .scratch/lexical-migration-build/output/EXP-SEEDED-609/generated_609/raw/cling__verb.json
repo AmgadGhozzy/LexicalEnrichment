@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "cling",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "cling",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To hold on tightly to someone or something, or to stick closely to a surface.",
+  "explanation_ar": "يتشبث أو يمسك في شخص أو شيء بقوة، أو يلتصق بسطح ما.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To hold on tightly to someone or something physically or emotionally.",
+    "definition_ar": "يتشبث أو يتمسك بشدة بشخص أو فكرة أو أمل.",
+    "examples": [
+     "Traditionalists cling to the old customs despite modern changes.",
+     "In times of crisis, people often cling to hope."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To stick or adhere closely to a surface or material.",
+    "definition_ar": "يلتصق بإحكام بسطح أو جسم ما.",
+    "examples": [
+     "Wet clothes cling to the body."
+    ]
+   }
+  ],
+  "examples": [
+   "Wet clothes cling to the body.",
+   "Traditionalists cling to the old customs despite modern changes.",
+   "In times of crisis, people often cling to hope."
+  ],
+  "translations": [
+   "يتشبث",
+   "يلتصق",
+   "يتمسك"
+  ],
+  "relations": {
+   "synonyms": [
+    "stick",
+    "adhere",
+    "clutch",
+    "grasp"
+   ],
+   "antonyms": [
+    "release",
+    "let go",
+    "loosen"
+   ],
+   "collocations": [
+    "cling to power",
+    "cling together",
+    "cling to hope"
+   ]
+  },
+  "mnemonic": "نفس الفكرة: 'Cling' يعني يلزق زي 'Link'.",
+  "phonetic_us": "klɪŋ",
+  "phonetic_uk": "klɪŋ",
+  "syllables": "cling",
+  "semantic_tags": [
+   "attachment",
+   "holding",
+   "physical_contact",
+   "psychological_state"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To hold on tightly to someone or something, or to stick closely to a surface.",
+  "explanation_ar": "يتشبث أو يمسك في شخص أو شيء بقوة، أو يلتصق بسطح ما.",
+  "examples": [
+   "Wet clothes cling to the body.",
+   "Traditionalists cling to the old customs despite modern changes.",
+   "In times of crisis, people often cling to hope."
+  ],
+  "translations": {
+   "arabic_ar": "يتشبث يلتصق يتمسك"
+  },
+  "synonyms": [
+   "stick",
+   "adhere",
+   "clutch",
+   "grasp"
+  ],
+  "antonyms": [
+   "release",
+   "let go",
+   "loosen"
+  ],
+  "collocations": [
+   "cling to power",
+   "cling together",
+   "cling to hope"
+  ],
+  "mnemonic_ar": "نفس الفكرة: 'Cling' يعني يلزق زي 'Link'."
+ }
+}

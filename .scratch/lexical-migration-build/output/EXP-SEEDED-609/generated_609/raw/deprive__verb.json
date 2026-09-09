@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "deprive",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "deprive",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Deny the possession or use of something.",
+  "explanation_ar": "تحرم حد من حاجة هو محتاجها أو بيحبها، زي النوم أو الأكل أو الحرية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Deny the possession or use of something.",
+    "explanation_ar": "حرمان شخص من امتلاك أو استخدام شيء ما، لا سيما ما هو ضروري أو مرغوب فيه.",
+    "examples": [
+     "Don't deprive him of food.",
+     "You shouldn't deprive yourself of sleep.",
+     "The new law may deprive citizens of their privacy."
+    ]
+   }
+  ],
+  "examples": [
+   "Don't deprive him of food.",
+   "You shouldn't deprive yourself of sleep.",
+   "The new law may deprive citizens of their privacy."
+  ],
+  "translations": [
+   "يحرم",
+   "يسلب",
+   "يمنع"
+  ],
+  "relations": {
+   "synonyms": [
+    "strip",
+    "dispossess",
+    "rob",
+    "deny"
+   ],
+   "antonyms": [
+    "provide",
+    "supply",
+    "give"
+   ],
+   "collocations": [
+    "deprive of liberty",
+    "deprive of rights",
+    "deprive of sleep"
+   ]
+  },
+  "mnemonic": "'De' 'إزالة' + 'Private' 'خاص'.. يعني بتشيل الحاجة الـ 'Private' بتاعته وتحرمه منها.",
+  "phonetic_us": "dɪˈpraɪv",
+  "phonetic_uk": "dɪˈpraɪv",
+  "syllables": "de•prive",
+  "semantic_tags": [
+   "#Loss",
+   "#Deny",
+   "#Negative"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Deny the possession or use of something.",
+  "explanation_ar": "تحرم حد من حاجة هو محتاجها أو بيحبها، زي النوم أو الأكل أو الحرية.",
+  "examples": [
+   "Don't deprive him of food.",
+   "You shouldn't deprive yourself of sleep.",
+   "The new law may deprive citizens of their privacy."
+  ],
+  "translations": {
+   "arabic_ar": "يحرم يسلب يمنع"
+  },
+  "synonyms": [
+   "strip",
+   "dispossess",
+   "rob",
+   "deny"
+  ],
+  "antonyms": [
+   "provide",
+   "supply",
+   "give"
+  ],
+  "collocations": [
+   "deprive of liberty",
+   "deprive of rights",
+   "deprive of sleep"
+  ],
+  "mnemonic_ar": "'De' 'إزالة' + 'Private' 'خاص'.. يعني بتشيل الحاجة الـ 'Private' بتاعته وتحرمه منها."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "converse",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "converse",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Opposite or contrary in direction, action, or sequence.",
+  "explanation_ar": "حاجة عكس حاجة تانية تمامًا، أو المقابل ليها في الاتجاه أو النتيجة.",
+  "senses": [
+   {
+    "definition_en": "Opposite or contrary in direction, action, or sequence.",
+    "definition_ar": "معاكس أو مناقض في الاتجاه أو النتيجة.",
+    "examples": [
+     "He holds the converse opinion to mine.",
+     "However, the converse argument is equally valid.",
+     "High speed increases risk; the converse effect is safety at low speeds."
+    ]
+   }
+  ],
+  "examples": [
+   "He holds the converse opinion to mine.",
+   "However, the converse argument is equally valid.",
+   "High speed increases risk; the converse effect is safety at low speeds."
+  ],
+  "translations": [
+   "معاكس",
+   "مناقض",
+   "مقلوب"
+  ],
+  "relations": {
+   "synonyms": [
+    "opposite",
+    "contrary",
+    "reverse",
+    "counter"
+   ],
+   "antonyms": [
+    "same",
+    "identical",
+    "similar"
+   ],
+   "collocations": [
+    "converse opinion",
+    "converse effect",
+    "converse argument",
+    "converse statement"
+   ]
+  },
+  "mnemonic": "لاحظ التشابه بين converse وبين reverse (عكسي) وinverse (معكوس)؛ الثلاث كلمات تشترك في جذر يدل على الدوران والعكس.",
+  "phonetic_us": "ˈkɑːnvɜːrs",
+  "phonetic_uk": "ˈkɒnvɜːs",
+  "syllables": "con•verse",
+  "semantic_tags": [
+   "#Logic",
+   "#Opposite",
+   "#Debate"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Opposite or contrary in direction, action, or sequence.",
+  "explanation_ar": "حاجة عكس حاجة تانية تمامًا، أو المقابل ليها في الاتجاه أو النتيجة.",
+  "examples": [
+   "He holds the converse opinion to mine.",
+   "However, the converse argument is equally valid.",
+   "High speed increases risk; the converse effect is safety at low speeds."
+  ],
+  "translations": {
+   "arabic_ar": "معاكس مناقض مقلوب"
+  },
+  "synonyms": [
+   "opposite",
+   "contrary",
+   "reverse",
+   "counter"
+  ],
+  "antonyms": [
+   "same",
+   "identical",
+   "similar"
+  ],
+  "collocations": [
+   "converse opinion",
+   "converse effect",
+   "converse argument",
+   "converse statement"
+  ],
+  "mnemonic_ar": "لاحظ التشابه بين converse وبين reverse (عكسي) وinverse (معكوس)؛ الثلاث كلمات تشترك في جذر يدل على الدوران والعكس."
+ }
+}

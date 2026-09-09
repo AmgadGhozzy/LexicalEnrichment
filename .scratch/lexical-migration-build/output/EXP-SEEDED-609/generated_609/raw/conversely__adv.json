@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "conversely",
+  "pos": "adv",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "conversely",
+  "pos": "adv",
+  "cefr": "C1",
+  "definition_en": "In an opposite way; used to introduce a statement that reverses or contrasts with the previous one.",
+  "explanation_ar": "كلمة بنستخدمها عشان نقول العكس أو بالمقابل، يعني لما تذكر فكرة وتطرح الفكرة المعاكسة ليها تماماً.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "In an opposite way; used to introduce a statement that reverses or contrasts with the previous one.",
+    "definition_ar": "على العكس أو بالمقابل؛ يُستخدم لربط فكرة بما يناقضها أو يعاكسها.",
+    "pos": "adv"
+   }
+  ],
+  "examples": [
+   "Poor health is accepted as a cause of poverty; conversely, poverty causes poor health.",
+   "American consumers prefer white eggs; conversely, British buyers like brown eggs.",
+   "Some people like hot weather; conversely, others prefer cold."
+  ],
+  "translations": [
+   "بالعكس",
+   "بالمقابل",
+   "على العكس من ذلك"
+  ],
+  "relations": {
+   "synonyms": [
+    "contrarily",
+    "on the other hand",
+    "in contrast"
+   ],
+   "antonyms": [
+    "similarly",
+    "likewise"
+   ],
+   "collocations": [
+    "and conversely",
+    "or conversely"
+   ]
+  },
+  "mnemonic": "جاية من 'Converse' يعني عكس. لما تقول حاجة و 'Conversely' تقول عكسها.",
+  "phonetic_us": "kənˈvɝːsli",
+  "phonetic_uk": "kənˈvɜːsli",
+  "syllables": "con•verse•ly",
+  "semantic_tags": [
+   "#Logic",
+   "#Contrast",
+   "#Writing"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "In an opposite way; used to introduce a statement that reverses or contrasts with the previous one.",
+  "explanation_ar": "كلمة بنستخدمها عشان نقول العكس أو بالمقابل، يعني لما تذكر فكرة وتطرح الفكرة المعاكسة ليها تماماً.",
+  "examples": [
+   "Poor health is accepted as a cause of poverty; conversely, poverty causes poor health.",
+   "American consumers prefer white eggs; conversely, British buyers like brown eggs.",
+   "Some people like hot weather; conversely, others prefer cold."
+  ],
+  "translations": {
+   "arabic_ar": "بالعكس بالمقابل على العكس من ذلك"
+  },
+  "synonyms": [
+   "contrarily",
+   "on the other hand",
+   "in contrast"
+  ],
+  "antonyms": [
+   "similarly",
+   "likewise"
+  ],
+  "collocations": [
+   "and conversely",
+   "or conversely"
+  ],
+  "mnemonic_ar": "جاية من 'Converse' يعني عكس. لما تقول حاجة و 'Conversely' تقول عكسها."
+ }
+}

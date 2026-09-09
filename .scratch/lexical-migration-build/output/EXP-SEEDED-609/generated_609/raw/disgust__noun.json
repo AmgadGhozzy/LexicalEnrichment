@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "disgust",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "disgust",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A strong feeling of disapproval, revulsion, or dislike, caused by something unpleasant or offensive.",
+  "explanation_ar": "شعور بالقرف أو الاشمئزاز والنفور من شيء كريه أو تصرف غير مقبول.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A strong feeling of disapproval, revulsion, or dislike, caused by something unpleasant or offensive.",
+    "explanation_ar": "شعور قوي بالاشمئزاز أو النفور تجاه شيء مقزز أو سلوك مشين.",
+    "examples": [
+     "She turned away in disgust.",
+     "He looked at the trash with disgust.",
+     "His rude behavior filled me with disgust."
+    ]
+   }
+  ],
+  "examples": [
+   "She turned away in disgust.",
+   "He looked at the trash with disgust.",
+   "His rude behavior filled me with disgust."
+  ],
+  "translations": [
+   "اشمئزاز",
+   "نفور",
+   "قرف"
+  ],
+  "relations": {
+   "synonyms": [
+    "revulsion",
+    "repugnance",
+    "loathing",
+    "nausea"
+   ],
+   "antonyms": [
+    "delight",
+    "pleasure",
+    "admiration"
+   ],
+   "collocations": [
+    "in disgust",
+    "feel disgust",
+    "look of disgust",
+    "utter disgust"
+   ]
+  },
+  "mnemonic": "كلمة 'gust' ترتبط بالتذوق والشهية (كما في gusto)، والبادئة 'dis-' تفيد النفي أو العكس؛ فالمعنى مجازياً شيء مقزز يعافُه الذوق ويثير الاشمئزاز.",
+  "phonetic_us": "dɪsˈɡʌst",
+  "phonetic_uk": "dɪsˈɡʌst",
+  "syllables": "dis•gust",
+  "semantic_tags": [
+   "#Emotion",
+   "#Dislike",
+   "#Reaction"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A strong feeling of disapproval, revulsion, or dislike, caused by something unpleasant or offensive.",
+  "explanation_ar": "شعور بالقرف أو الاشمئزاز والنفور من شيء كريه أو تصرف غير مقبول.",
+  "examples": [
+   "She turned away in disgust.",
+   "He looked at the trash with disgust.",
+   "His rude behavior filled me with disgust."
+  ],
+  "translations": {
+   "arabic_ar": "اشمئزاز نفور قرف"
+  },
+  "synonyms": [
+   "revulsion",
+   "repugnance",
+   "loathing",
+   "nausea"
+  ],
+  "antonyms": [
+   "delight",
+   "pleasure",
+   "admiration"
+  ],
+  "collocations": [
+   "in disgust",
+   "feel disgust",
+   "look of disgust",
+   "utter disgust"
+  ],
+  "mnemonic_ar": "كلمة 'gust' ترتبط بالتذوق والشهية (كما في gusto)، والبادئة 'dis-' تفيد النفي أو العكس؛ فالمعنى مجازياً شيء مقزز يعافُه الذوق ويثير الاشمئزاز."
+ }
+}

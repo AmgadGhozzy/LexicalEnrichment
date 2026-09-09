@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "conquer",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "conquer",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To take control of a place or people by military force, or to successfully overcome a problem or fear.",
+  "explanation_ar": "تسيطر على بلد بالحرب، أو تتغلب على خوف أو مشكلة صعبة.",
+  "senses": [
+   {
+    "definition_en": "To take control of a country, territory, or people by military force.",
+    "definition_ar": "يغزو أو يحتل بلداً أو أرضاً بالقوة العسكرية.",
+    "examples": [
+     "The Romans set out to conquer the known world."
+    ]
+   },
+   {
+    "definition_en": "To successfully overcome or defeat a fear, problem, or difficulty.",
+    "definition_ar": "يتغلب على خوف أو مرض أو مشكلة صعبة ويقهرها.",
+    "examples": [
+     "She worked hard to conquer her fear of spiders.",
+     "Scientists are trying to conquer the disease."
+    ]
+   }
+  ],
+  "examples": [
+   "The Romans set out to conquer the known world.",
+   "She worked hard to conquer her fear of spiders.",
+   "Scientists are trying to conquer the disease."
+  ],
+  "translations": [
+   "يغزو",
+   "يقهر",
+   "يحتل",
+   "يتغلب على"
+  ],
+  "relations": {
+   "synonyms": [
+    "defeat",
+    "overcome",
+    "subdue"
+   ],
+   "antonyms": [
+    "surrender",
+    "yield",
+    "lose"
+   ],
+   "collocations": [
+    "conquer fear",
+    "divide and conquer",
+    "conquer the world"
+   ]
+  },
+  "mnemonic": "شبه 'King'.. الـ 'King' هو اللي بيعمل 'Conquer' للممالك.",
+  "phonetic_us": "ˈkɑːŋkər",
+  "phonetic_uk": "ˈkɒŋkə",
+  "syllables": "con•quer",
+  "semantic_tags": [
+   "#War",
+   "#Victory",
+   "#Success"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To take control of a place or people by military force, or to successfully overcome a problem or fear.",
+  "explanation_ar": "تسيطر على بلد بالحرب، أو تتغلب على خوف أو مشكلة صعبة.",
+  "examples": [
+   "The Romans set out to conquer the known world.",
+   "She worked hard to conquer her fear of spiders.",
+   "Scientists are trying to conquer the disease."
+  ],
+  "translations": {
+   "arabic_ar": "يغزو يقهر يحتل يتغلب على"
+  },
+  "synonyms": [
+   "defeat",
+   "overcome",
+   "subdue"
+  ],
+  "antonyms": [
+   "surrender",
+   "yield",
+   "lose"
+  ],
+  "collocations": [
+   "conquer fear",
+   "divide and conquer",
+   "conquer the world"
+  ],
+  "mnemonic_ar": "شبه 'King'.. الـ 'King' هو اللي بيعمل 'Conquer' للممالك."
+ }
+}

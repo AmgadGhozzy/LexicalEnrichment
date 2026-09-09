@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "diameter",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "diameter",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A straight line passing from side to side through the center of a circle or sphere, or the length of this line.",
+  "explanation_ar": "القُطْر: الخط المستقيم الذي يمر بمركز الدائرة أو الكرة ويصل بين نقطتين على محيطها، أو طول هذا الخط.",
+  "senses": [
+   {
+    "definition_en": "A straight line passing from side to side through the center of a circle or sphere, or the length of this line.",
+    "explanation_ar": "القُطْر: الخط المستقيم المار بمركز الدائرة أو الكرة، أو قياس طول هذا الخط.",
+    "examples": [
+     "The diameter of the pipe is ten centimeters.",
+     "The asteroid has a diameter of five miles.",
+     "The trunk of the giant tree is two meters in diameter."
+    ]
+   }
+  ],
+  "examples": [
+   "The diameter of the pipe is ten centimeters.",
+   "The asteroid has a diameter of five miles.",
+   "The trunk of the giant tree is two meters in diameter."
+  ],
+  "translations": [
+   "قُطْر"
+  ],
+  "relations": {
+   "synonyms": [
+    "width",
+    "breadth"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "large diameter",
+    "internal diameter",
+    "measure the diameter",
+    "in diameter"
+   ]
+  },
+  "mnemonic": "'Meter' تعني قياس، و'Dia' تعني عبر أو خلال؛ إذن الـ 'diameter' هو الخط والقياس الذي يمر عبر مركز الدائرة ليقسمها إلى نصفين.",
+  "phonetic_us": "daɪˈæmɪtɚ",
+  "phonetic_uk": "daɪˈæmɪtə",
+  "syllables": "di•am•e•ter",
+  "semantic_tags": [
+   "#Math",
+   "#Geometry",
+   "#Size"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A straight line passing from side to side through the center of a circle or sphere, or the length of this line.",
+  "explanation_ar": "القُطْر: الخط المستقيم الذي يمر بمركز الدائرة أو الكرة ويصل بين نقطتين على محيطها، أو طول هذا الخط.",
+  "examples": [
+   "The diameter of the pipe is ten centimeters.",
+   "The asteroid has a diameter of five miles.",
+   "The trunk of the giant tree is two meters in diameter."
+  ],
+  "translations": {
+   "arabic_ar": "قُطْر"
+  },
+  "synonyms": [
+   "width",
+   "breadth"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "large diameter",
+   "internal diameter",
+   "measure the diameter",
+   "in diameter"
+  ],
+  "mnemonic_ar": "'Meter' تعني قياس، و'Dia' تعني عبر أو خلال؛ إذن الـ 'diameter' هو الخط والقياس الذي يمر عبر مركز الدائرة ليقسمها إلى نصفين."
+ }
+}

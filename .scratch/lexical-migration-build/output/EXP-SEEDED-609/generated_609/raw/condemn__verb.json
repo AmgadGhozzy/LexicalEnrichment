@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "condemn",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "condemn",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To express complete disapproval of; to sentence someone to a punishment.",
+  "explanation_ar": "إنك تعلن رفضك الشديد لتصرف معين وتستنكره، أو القاضي يحكم على حد بعقوبة 'زي الإعدام'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To express complete disapproval of someone or something, especially publicly.",
+    "definition_ar": "يُدين أو يستنكر بشدة تصرفاً أو شخصاً بشكل علني.",
+    "examples": [
+     "Human rights groups openly condemn the government's harsh policies.",
+     "Do not condemn someone before you hear their side of the story."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To officially sentence someone to a severe legal punishment.",
+    "definition_ar": "يحكم قضائياً على شخص بعقوبة شديدة كالإعدام أو السجن.",
+    "examples": [
+     "The judge had no choice but to condemn the murderer to life in prison."
+    ]
+   }
+  ],
+  "examples": [
+   "Human rights groups openly condemn the government's harsh policies.",
+   "Do not condemn someone before you hear their side of the story.",
+   "The judge had no choice but to condemn the murderer to life in prison."
+  ],
+  "translations": [
+   "يدين",
+   "يشجب",
+   "يستنكر",
+   "يحكم على"
+  ],
+  "relations": {
+   "synonyms": [
+    "censure",
+    "criticize",
+    "denounce",
+    "sentence",
+    "convict"
+   ],
+   "antonyms": [
+    "praise",
+    "approve",
+    "pardon",
+    "acquit"
+   ],
+   "collocations": [
+    "strongly condemn",
+    "condemn to death",
+    "condemn violence"
+   ]
+  },
+  "mnemonic": "الكلمة فيها 'Damn' 'لعنة'.. كأنك بتلعن الفعل السيء ده وبتستنكره بشدة.",
+  "phonetic_us": "kənˈdɛm",
+  "phonetic_uk": "kənˈdem",
+  "syllables": "con•demn",
+  "semantic_tags": [
+   "#Law",
+   "#Judgment",
+   "#Criticism",
+   "#Punishment"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To express complete disapproval of; to sentence someone to a punishment.",
+  "explanation_ar": "إنك تعلن رفضك الشديد لتصرف معين وتستنكره، أو القاضي يحكم على حد بعقوبة 'زي الإعدام'.",
+  "examples": [
+   "Human rights groups openly condemn the government's harsh policies.",
+   "Do not condemn someone before you hear their side of the story.",
+   "The judge had no choice but to condemn the murderer to life in prison."
+  ],
+  "translations": {
+   "arabic_ar": "يدين يشجب يستنكر يحكم على"
+  },
+  "synonyms": [
+   "censure",
+   "criticize",
+   "denounce",
+   "sentence",
+   "convict"
+  ],
+  "antonyms": [
+   "praise",
+   "approve",
+   "pardon",
+   "acquit"
+  ],
+  "collocations": [
+   "strongly condemn",
+   "condemn to death",
+   "condemn violence"
+  ],
+  "mnemonic_ar": "الكلمة فيها 'Damn' 'لعنة'.. كأنك بتلعن الفعل السيء ده وبتستنكره بشدة."
+ }
+}

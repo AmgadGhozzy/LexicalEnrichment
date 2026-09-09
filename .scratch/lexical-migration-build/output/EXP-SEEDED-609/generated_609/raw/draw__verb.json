@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "draw",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "draw",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To produce a picture or diagram by making lines and marks.",
+  "explanation_ar": "يرسم صورة أو شكل باستخدام قلم أو فرشاة.",
+  "senses": [
+   {
+    "definition_en": "To produce a picture or diagram by making lines and marks.",
+    "explanation_ar": "يرسم صورة أو شكل باستخدام قلم أو فرشاة.",
+    "examples": [
+     "I can draw a cat.",
+     "Draw a line under the correct answer.",
+     "She wants to learn how to draw."
+    ]
+   }
+  ],
+  "examples": [
+   "I can draw a cat.",
+   "Draw a line under the correct answer.",
+   "She wants to learn how to draw."
+  ],
+  "translations": [
+   "يرسم"
+  ],
+  "relations": {
+   "synonyms": [
+    "sketch",
+    "depict",
+    "illustrate"
+   ],
+   "antonyms": [
+    "erase"
+   ],
+   "collocations": [
+    "draw a picture",
+    "draw a line",
+    "draw a diagram"
+   ]
+  },
+  "mnemonic": "كلمة 'Draw' شبه 'Raw' 'خام'.. الرسام بياخد الورقة الـ 'Raw' ويعمل عليها 'Draw'.",
+  "phonetic_us": "/drɔː/",
+  "phonetic_uk": "/drɔː/",
+  "syllables": "draw",
+  "semantic_tags": [
+   "#Art",
+   "#Creativity",
+   "#Action"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To produce a picture or diagram by making lines and marks.",
+  "explanation_ar": "يرسم صورة أو شكل باستخدام قلم أو فرشاة.",
+  "examples": [
+   "I can draw a cat.",
+   "Draw a line under the correct answer.",
+   "She wants to learn how to draw."
+  ],
+  "translations": {
+   "arabic_ar": "يرسم"
+  },
+  "synonyms": [
+   "sketch",
+   "depict",
+   "illustrate"
+  ],
+  "antonyms": [
+   "erase"
+  ],
+  "collocations": [
+   "draw a picture",
+   "draw a line",
+   "draw a diagram"
+  ],
+  "mnemonic_ar": "كلمة 'Draw' شبه 'Raw' 'خام'.. الرسام بياخد الورقة الـ 'Raw' ويعمل عليها 'Draw'."
+ }
+}

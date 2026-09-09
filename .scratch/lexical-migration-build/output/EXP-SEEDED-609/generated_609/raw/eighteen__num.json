@@ -1,0 +1,67 @@
+{
+ "identity": {
+  "lemma": "eighteen",
+  "pos": "num",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "eighteen",
+  "pos": "num",
+  "cefr": "A1",
+  "definition_en": "The cardinal number 18.",
+  "explanation_ar": "العدد ثمانية عشر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The cardinal number 18.",
+    "explanation_ar": "العدد ثمانية عشر.",
+    "examples": [
+     "I have eighteen books.",
+     "There are eighteen students in the class.",
+     "The bus number eighteen goes to the city center."
+    ]
+   }
+  ],
+  "examples": [
+   "I have eighteen books.",
+   "There are eighteen students in the class.",
+   "The bus number eighteen goes to the city center."
+  ],
+  "translations": [
+   "ثمانية عشر"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "eighteen hundred"
+   ]
+  },
+  "mnemonic": "Eight '8' + Teen 'عشر'.",
+  "phonetic_us": "ˌeɪˈtiːn",
+  "phonetic_uk": "ˌeɪˈtiːn",
+  "syllables": "eigh•teen",
+  "semantic_tags": [
+   "#Numbers"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The cardinal number 18.",
+  "explanation_ar": "العدد ثمانية عشر.",
+  "examples": [
+   "I have eighteen books.",
+   "There are eighteen students in the class.",
+   "The bus number eighteen goes to the city center."
+  ],
+  "translations": {
+   "arabic_ar": "ثمانية عشر"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "eighteen hundred"
+  ],
+  "mnemonic_ar": "Eight '8' + Teen 'عشر'."
+ }
+}

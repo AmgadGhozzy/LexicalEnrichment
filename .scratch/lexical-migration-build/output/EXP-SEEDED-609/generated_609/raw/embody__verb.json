@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "embody",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "embody",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To be an expression of or give a tangible or visible form to an idea, quality, or feeling.",
+  "explanation_ar": "يجسد أو يمثل. يعني يخلي فكرة أو صفة معينة واضحة وملموسة في شخص أو عمل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To be an expression of or give a tangible or visible form to an idea, quality, or feeling.",
+    "explanation_ar": "يُجسّد فكرة أو قيمة أو صفة ويجعلها ملموسة وواضحة للآخرين.",
+    "pos": "verb",
+    "cefr": "C1"
+   }
+  ],
+  "examples": [
+   "Great leaders strive to embody the core values of their organization.",
+   "Her paintings clearly embody the spirit and vitality of the city.",
+   "These ancient traditions continue to embody the cultural identity of the community."
+  ],
+  "translations": [
+   "يُجَسِّد",
+   "يُمَثِّل"
+  ],
+  "relations": {
+   "synonyms": [
+    "personify",
+    "represent",
+    "symbolize",
+    "exemplify"
+   ],
+   "antonyms": [
+    "disembody",
+    "conceal"
+   ],
+   "collocations": [
+    "embody the spirit",
+    "embody values",
+    "perfectly embody",
+    "embody principles"
+   ]
+  },
+  "mnemonic": "فيها كلمة 'Body' 'جسم'.. يعني بتدي للفكرة 'Body' وتخليها حقيقة ملموسة",
+  "phonetic_us": "ɪmˈbɑdi",
+  "phonetic_uk": "ɪmˈbɒdi",
+  "syllables": "em•body",
+  "semantic_tags": [
+   "Representation",
+   "Symbolism",
+   "Character"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To be an expression of or give a tangible or visible form to an idea, quality, or feeling.",
+  "explanation_ar": "يجسد أو يمثل. يعني يخلي فكرة أو صفة معينة واضحة وملموسة في شخص أو عمل.",
+  "examples": [
+   "Great leaders strive to embody the core values of their organization.",
+   "Her paintings clearly embody the spirit and vitality of the city.",
+   "These ancient traditions continue to embody the cultural identity of the community."
+  ],
+  "translations": {
+   "arabic_ar": "يُجَسِّد يُمَثِّل"
+  },
+  "synonyms": [
+   "personify",
+   "represent",
+   "symbolize",
+   "exemplify"
+  ],
+  "antonyms": [
+   "disembody",
+   "conceal"
+  ],
+  "collocations": [
+   "embody the spirit",
+   "embody values",
+   "perfectly embody",
+   "embody principles"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Body' 'جسم'.. يعني بتدي للفكرة 'Body' وتخليها حقيقة ملموسة"
+ }
+}

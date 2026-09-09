@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "fall",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "fall",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To move downwards quickly and without control.",
+  "explanation_ar": "يقع أو ينزل بسرعة من فوق لتحت من غير ما يتحكم في نفسه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To move downwards quickly and without control.",
+    "definition_ar": "يقع أو ينزل بسرعة من فوق لتحت من غير ما يتحكم في نفسه.",
+    "pos": "verb",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "Be careful not to fall.",
+   "Leaves fall from the trees in autumn.",
+   "You will fall if you run on the wet floor."
+  ],
+  "translations": [
+   "يسقط",
+   "يقع"
+  ],
+  "relations": {
+   "synonyms": [
+    "drop",
+    "descend",
+    "collapse",
+    "tumble"
+   ],
+   "antonyms": [
+    "rise",
+    "ascend",
+    "climb"
+   ],
+   "collocations": [
+    "fall down",
+    "fall in love",
+    "fall asleep"
+   ]
+  },
+  "mnemonic": "كلمة 'Fall' شبه 'Fail' 'يفشل'.. لو فشلت ممكن تـ 'Fall' 'تقع'.",
+  "phonetic_us": "fɔːl",
+  "phonetic_uk": "fɔːl",
+  "syllables": [
+   "fall"
+  ],
+  "semantic_tags": [
+   "#Motion",
+   "#Gravity",
+   "#Accident"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To move downwards quickly and without control.",
+  "explanation_ar": "يقع أو ينزل بسرعة من فوق لتحت من غير ما يتحكم في نفسه.",
+  "examples": [
+   "Be careful not to fall.",
+   "Leaves fall from the trees in autumn.",
+   "You will fall if you run on the wet floor."
+  ],
+  "translations": {
+   "arabic_ar": "يسقط يقع"
+  },
+  "synonyms": [
+   "drop",
+   "descend",
+   "collapse",
+   "tumble"
+  ],
+  "antonyms": [
+   "rise",
+   "ascend",
+   "climb"
+  ],
+  "collocations": [
+   "fall down",
+   "fall in love",
+   "fall asleep"
+  ],
+  "mnemonic_ar": "كلمة 'Fall' شبه 'Fail' 'يفشل'.. لو فشلت ممكن تـ 'Fall' 'تقع'."
+ }
+}

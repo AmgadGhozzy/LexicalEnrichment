@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "chronic",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "chronic",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Persisting for a long time or constantly recurring.",
+  "explanation_ar": "مزمن، يعني مستمر لفترة طويلة ومش بيروح بسهولة 'زي الأمراض المزمنة'.",
+  "senses": [
+   {
+    "definition_en": "Persisting for a long time or constantly recurring, especially of an illness or problem.",
+    "definition_ar": "مزمن، مستمر لفترة طويلة ولا يزول بسهولة (خاصة الأمراض أو المشكلات)."
+   }
+  ],
+  "examples": [
+   "She receives specialized medical treatment to manage her chronic pain.",
+   "The region is currently facing a chronic shortage of clean drinking water.",
+   "If left untreated, severe stress can develop into a chronic condition."
+  ],
+  "translations": [
+   "مزمن",
+   "متأصل"
+  ],
+  "relations": {
+   "synonyms": [
+    "persistent",
+    "long-standing",
+    "constant"
+   ],
+   "antonyms": [
+    "acute",
+    "temporary"
+   ],
+   "collocations": [
+    "chronic disease",
+    "chronic pain",
+    "chronic fatigue"
+   ]
+  },
+  "mnemonic": "زي 'Chronos' إله الزمن.. 'Chronic' يعني مرض واخد 'زمن' طويل.",
+  "phonetic_us": "ˈkrɑnɪk",
+  "phonetic_uk": "ˈkrɒnɪk",
+  "syllables": "chron•ic",
+  "semantic_tags": [
+   "Health",
+   "Time",
+   "Medical"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Persisting for a long time or constantly recurring.",
+  "explanation_ar": "مزمن، يعني مستمر لفترة طويلة ومش بيروح بسهولة 'زي الأمراض المزمنة'.",
+  "examples": [
+   "She receives specialized medical treatment to manage her chronic pain.",
+   "The region is currently facing a chronic shortage of clean drinking water.",
+   "If left untreated, severe stress can develop into a chronic condition."
+  ],
+  "translations": {
+   "arabic_ar": "مزمن متأصل"
+  },
+  "synonyms": [
+   "persistent",
+   "long-standing",
+   "constant"
+  ],
+  "antonyms": [
+   "acute",
+   "temporary"
+  ],
+  "collocations": [
+   "chronic disease",
+   "chronic pain",
+   "chronic fatigue"
+  ],
+  "mnemonic_ar": "زي 'Chronos' إله الزمن.. 'Chronic' يعني مرض واخد 'زمن' طويل."
+ }
+}

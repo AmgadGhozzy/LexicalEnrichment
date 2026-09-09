@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "comment",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "comment",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A verbal or written remark expressing an opinion or reaction.",
+  "explanation_ar": "تعليق بتقوله أو بتكتبه عشان تقول رأيك في حاجة.",
+  "senses": [
+   {
+    "definition_en": "A verbal or written remark expressing an opinion or reaction.",
+    "explanation_ar": "تعليق بتقوله أو بتكتبه عشان تقول رأيك في حاجة.",
+    "examples": [
+     "I read your comment.",
+     "She made a nice comment about my dress.",
+     "He refused to make a comment to the press."
+    ]
+   }
+  ],
+  "examples": [
+   "I read your comment.",
+   "She made a nice comment about my dress.",
+   "He refused to make a comment to the press."
+  ],
+  "translations": [
+   "تعليق"
+  ],
+  "relations": {
+   "synonyms": [
+    "remark",
+    "observation",
+    "statement",
+    "note"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "no comment",
+    "make a comment",
+    "leave a comment"
+   ]
+  },
+  "mnemonic": "كلنا عارفين الـ 'Comment' 'التعليق' اللي بيتكتب على 'Facebook' أو 'YouTube'.",
+  "phonetic_us": "ˈkɑːment",
+  "phonetic_uk": "ˈkɒment",
+  "syllables": "com•ment",
+  "semantic_tags": [
+   "Opinion",
+   "Internet",
+   "Speech"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A verbal or written remark expressing an opinion or reaction.",
+  "explanation_ar": "تعليق بتقوله أو بتكتبه عشان تقول رأيك في حاجة.",
+  "examples": [
+   "I read your comment.",
+   "She made a nice comment about my dress.",
+   "He refused to make a comment to the press."
+  ],
+  "translations": {
+   "arabic_ar": "تعليق"
+  },
+  "synonyms": [
+   "remark",
+   "observation",
+   "statement",
+   "note"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "no comment",
+   "make a comment",
+   "leave a comment"
+  ],
+  "mnemonic_ar": "كلنا عارفين الـ 'Comment' 'التعليق' اللي بيتكتب على 'Facebook' أو 'YouTube'."
+ }
+}

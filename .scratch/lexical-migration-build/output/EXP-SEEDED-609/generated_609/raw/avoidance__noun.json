@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "avoidance",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "avoidance",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The action of keeping away from or not doing something.",
+  "explanation_ar": "إنك تتجنب حاجة أو تبعد عنها، زي تجنب المشاكل أو الضرايب.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The action of keeping away from or not doing something.",
+    "explanation_ar": "الابتعاد عن شيء أو الامتناع عن فعله عمدًا.",
+    "examples": [
+     "His avoidance of the question was obvious.",
+     "Collision avoidance systems are now common in cars.",
+     "Tax avoidance is legal, but tax evasion is a crime."
+    ]
+   }
+  ],
+  "examples": [
+   "His avoidance of the question was obvious.",
+   "Collision avoidance systems are now common in cars.",
+   "Tax avoidance is legal, but tax evasion is a crime."
+  ],
+  "translations": [
+   "تَجَنُّب",
+   "تَفَادٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "evasion",
+    "shunning",
+    "dodging"
+   ],
+   "antonyms": [
+    "confrontation",
+    "engagement",
+    "seeking"
+   ],
+   "collocations": [
+    "tax avoidance",
+    "avoidance strategy",
+    "collision avoidance"
+   ]
+  },
+  "mnemonic": "جاية من 'Avoid' يعني يتجنب.. الـ 'Avoidance' هو التجنب نفسه",
+  "phonetic_us": "əˈvɔɪdəns",
+  "phonetic_uk": "əˈvɔɪdəns",
+  "syllables": "a•void•ance",
+  "semantic_tags": [
+   "Prevention",
+   "Safety",
+   "Psychology",
+   "Law"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "The action of keeping away from or not doing something.",
+  "explanation_ar": "إنك تتجنب حاجة أو تبعد عنها، زي تجنب المشاكل أو الضرايب.",
+  "examples": [
+   "His avoidance of the question was obvious.",
+   "Collision avoidance systems are now common in cars.",
+   "Tax avoidance is legal, but tax evasion is a crime."
+  ],
+  "translations": {
+   "arabic_ar": "تَجَنُّب تَفَادٍ"
+  },
+  "synonyms": [
+   "evasion",
+   "shunning",
+   "dodging"
+  ],
+  "antonyms": [
+   "confrontation",
+   "engagement",
+   "seeking"
+  ],
+  "collocations": [
+   "tax avoidance",
+   "avoidance strategy",
+   "collision avoidance"
+  ],
+  "mnemonic_ar": "جاية من 'Avoid' يعني يتجنب.. الـ 'Avoidance' هو التجنب نفسه"
+ }
+}

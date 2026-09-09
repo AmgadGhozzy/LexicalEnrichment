@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "duke",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "duke",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A male holding the highest hereditary title in the British and certain other peerages.",
+  "explanation_ar": "لقب نبيل عالي جداً في بريطانيا، بيجي تحت الملك والأمير على طول.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A male holding the highest hereditary title in the British and certain other peerages.",
+    "explanation_ar": "لقب نبيل عالي جداً في بريطانيا، بيجي تحت الملك والأمير على طول.",
+    "examples": [
+     "He was officially given the title of duke by the monarch.",
+     "The duke owned several vast estates across the countryside.",
+     "A foreign duke arrived at the royal court to negotiate a treaty."
+    ]
+   }
+  ],
+  "examples": [
+   "He was officially given the title of duke by the monarch.",
+   "The duke owned several vast estates across the countryside.",
+   "A foreign duke arrived at the royal court to negotiate a treaty."
+  ],
+  "translations": [
+   "دوق"
+  ],
+  "relations": {
+   "synonyms": [
+    "noble",
+    "peer",
+    "aristocrat",
+    "lord"
+   ],
+   "antonyms": [
+    "commoner"
+   ],
+   "collocations": [
+    "Grand Duke",
+    "royal duke",
+    "Duke of York"
+   ]
+  },
+  "mnemonic": "كلمة 'Duke' قريبة من 'Duck' 'بطة'.. تخيل 'Duke' لابس تاج وماشي وراه 'Duck'.",
+  "phonetic_us": "duːk",
+  "phonetic_uk": "djuːk",
+  "syllables": [
+   "duke"
+  ],
+  "semantic_tags": [
+   "#Royalty",
+   "#Title",
+   "#History",
+   "#Nobility"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A male holding the highest hereditary title in the British and certain other peerages.",
+  "explanation_ar": "لقب نبيل عالي جداً في بريطانيا، بيجي تحت الملك والأمير على طول.",
+  "examples": [
+   "He was officially given the title of duke by the monarch.",
+   "The duke owned several vast estates across the countryside.",
+   "A foreign duke arrived at the royal court to negotiate a treaty."
+  ],
+  "translations": {
+   "arabic_ar": "دوق"
+  },
+  "synonyms": [
+   "noble",
+   "peer",
+   "aristocrat",
+   "lord"
+  ],
+  "antonyms": [
+   "commoner"
+  ],
+  "collocations": [
+   "Grand Duke",
+   "royal duke",
+   "Duke of York"
+  ],
+  "mnemonic_ar": "كلمة 'Duke' قريبة من 'Duck' 'بطة'.. تخيل 'Duke' لابس تاج وماشي وراه 'Duck'."
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "bond",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "bond",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A close connection joining two or more people, or a financial document.",
+  "explanation_ar": "رابطة قوية بين الناس، أو سند مالي في البورصة.",
+  "senses": [
+   {
+    "sense": "relationship",
+    "pos": "noun",
+    "definition_en": "A close connection or relationship between two or more people.",
+    "explanation_ar": "رابطة أو علاقة قوية تجمع بين شخصين أو أكثر.",
+    "examples": [
+     "There is a strong bond between the brothers."
+    ]
+   },
+   {
+    "sense": "finance",
+    "pos": "noun",
+    "definition_en": "An official financial document issued by a government or company promising to pay back borrowed money.",
+    "explanation_ar": "سند مالي حكومي أو تجاري يمثل وثيقة دين مع التزام بالسداد.",
+    "examples": [
+     "The country issued a new government bond."
+    ]
+   },
+   {
+    "sense": "chemistry",
+    "pos": "noun",
+    "definition_en": "A force or chemical link that holds atoms together in a molecule.",
+    "explanation_ar": "رابطة كيميائية تجمع بين الذرات داخل الجزيء.",
+    "examples": [
+     "The chemical bond between the atoms is covalent."
+    ]
+   }
+  ],
+  "examples": [
+   "There is a strong bond between the brothers.",
+   "The country issued a new government bond.",
+   "The chemical bond between the atoms is covalent."
+  ],
+  "translations": "رابطة / سند مالي",
+  "relations": {
+   "synonyms": [
+    "connection",
+    "tie",
+    "link",
+    "relationship"
+   ],
+   "antonyms": [
+    "separation"
+   ],
+   "collocations": [
+    "strong bond",
+    "government bond",
+    "bond market",
+    "common bond"
+   ]
+  },
+  "mnemonic": "زي الصمغ 'Bond' اللي بيلزق الحاجات ببعض.. الـ 'Bond' هي الرابطة اللي بتجمع الناس.",
+  "phonetic_us": "bɑnd",
+  "phonetic_uk": "bɒnd",
+  "syllables": null,
+  "semantic_tags": [
+   "#Relationship",
+   "#Finance",
+   "#Chemistry"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A close connection joining two or more people, or a financial document.",
+  "explanation_ar": "رابطة قوية بين الناس، أو سند مالي في البورصة.",
+  "examples": [
+   "There is a strong bond between the brothers.",
+   "The country issued a new government bond.",
+   "The chemical bond between the atoms is covalent."
+  ],
+  "translations": {
+   "arabic_ar": "رابطة / سند مالي"
+  },
+  "synonyms": [
+   "connection",
+   "tie",
+   "link",
+   "relationship"
+  ],
+  "antonyms": [
+   "separation"
+  ],
+  "collocations": [
+   "strong bond",
+   "government bond",
+   "bond market",
+   "common bond"
+  ],
+  "mnemonic_ar": "زي الصمغ 'Bond' اللي بيلزق الحاجات ببعض.. الـ 'Bond' هي الرابطة اللي بتجمع الناس."
+ }
+}

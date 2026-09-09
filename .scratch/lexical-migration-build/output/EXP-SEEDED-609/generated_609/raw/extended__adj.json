@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "extended",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "extended",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Long or longer than usual.",
+  "explanation_ar": "حاجة ممتدة أو مطولة أكتر من العادي، سواء في الوقت أو المساحة.",
+  "senses": [
+   {
+    "pos": "adj",
+    "definition_en": "Long or longer than usual in duration.",
+    "definition_ar": "ممتد أو مطول لفترة زمنية أطول من المعتاد.",
+    "examples": [
+     "He went on an extended holiday."
+    ]
+   },
+   {
+    "pos": "adj",
+    "definition_en": "Enlarged in scope to include more people, areas, or elements than the core unit.",
+    "definition_ar": "موسع ليشمل أفراداً أو نطاقات إضافية تتجاوز الوحدة الأساسية.",
+    "examples": [
+     "She has a large extended family living nearby.",
+     "The warranty offers extended coverage for three years."
+    ]
+   }
+  ],
+  "examples": [
+   "He went on an extended holiday.",
+   "She has a large extended family living nearby.",
+   "The warranty offers extended coverage for three years."
+  ],
+  "translations": [
+   "ممتد",
+   "مطول"
+  ],
+  "relations": {
+   "synonyms": [
+    "prolonged",
+    "expanded",
+    "lengthened"
+   ],
+   "antonyms": [
+    "shortened",
+    "brief",
+    "limited"
+   ],
+   "collocations": [
+    "extended family",
+    "extended period",
+    "extended stay",
+    "extended version"
+   ]
+  },
+  "mnemonic": "جاية من 'Extend' يعني يمد.. زي ما بنعمل 'Extend' للـ 'Tent' 'الخيمة' عشان توسع ناس أكتر.",
+  "phonetic_us": "ɪkˈstɛndəd",
+  "phonetic_uk": "ɪksˈtendɪd",
+  "syllables": "ex•tend•ed",
+  "semantic_tags": [
+   "time",
+   "family",
+   "duration",
+   "size"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Long or longer than usual.",
+  "explanation_ar": "حاجة ممتدة أو مطولة أكتر من العادي، سواء في الوقت أو المساحة.",
+  "examples": [
+   "He went on an extended holiday.",
+   "She has a large extended family living nearby.",
+   "The warranty offers extended coverage for three years."
+  ],
+  "translations": {
+   "arabic_ar": "ممتد مطول"
+  },
+  "synonyms": [
+   "prolonged",
+   "expanded",
+   "lengthened"
+  ],
+  "antonyms": [
+   "shortened",
+   "brief",
+   "limited"
+  ],
+  "collocations": [
+   "extended family",
+   "extended period",
+   "extended stay",
+   "extended version"
+  ],
+  "mnemonic_ar": "جاية من 'Extend' يعني يمد.. زي ما بنعمل 'Extend' للـ 'Tent' 'الخيمة' عشان توسع ناس أكتر."
+ }
+}

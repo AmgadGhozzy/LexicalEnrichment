@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "autonomous",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "autonomous",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Having the freedom to govern itself or control its own affairs, or capable of operating independently without external control.",
+  "explanation_ar": "مستقل.. بيحكم نفسه بنفسه أو بيشتغل لوحده من غير تحكم خارجي.",
+  "senses": [
+   {
+    "definition_en": "Having the freedom to govern itself or control its own affairs; independent.",
+    "definition_ar": "مستقل أو متمتع بحكم ذاتي.",
+    "pos": "adj",
+    "examples": [
+     "Universities are often autonomous institutions.",
+     "The country is divided into several autonomous regions."
+    ]
+   },
+   {
+    "definition_en": "Able to operate, function, or make decisions without direct human control.",
+    "definition_ar": "ذاتي التشغيل أو القيادة دون تدخل بشري مباشر.",
+    "pos": "adj",
+    "examples": [
+     "The development of autonomous weapons systems raises ethical questions."
+    ]
+   }
+  ],
+  "examples": [
+   "Universities are often autonomous institutions.",
+   "The country is divided into several autonomous regions.",
+   "The development of autonomous weapons systems raises ethical questions."
+  ],
+  "translations": [
+   "مستقل",
+   "ذاتي الحكم",
+   "ذاتي التشغيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "independent",
+    "self-governing",
+    "sovereign"
+   ],
+   "antonyms": [
+    "dependent",
+    "controlled"
+   ],
+   "collocations": [
+    "autonomous region",
+    "autonomous vehicle",
+    "autonomous individual"
+   ],
+   "word_family": {
+    "noun": "autonomy",
+    "adverb": "autonomously"
+   }
+  },
+  "mnemonic": "'Auto' يعني 'تلقائي' أو 'ذاتي'.. 'Autonomous' يعني شغال مع نفسه باستقلالية.",
+  "phonetic_us": "ɔˈtɑnəməs",
+  "phonetic_uk": "ɔːˈtɒnəməs",
+  "syllables": "au•ton•o•mous",
+  "semantic_tags": [
+   "#Freedom",
+   "#Independence",
+   "#Technology"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Having the freedom to govern itself or control its own affairs, or capable of operating independently without external control.",
+  "explanation_ar": "مستقل.. بيحكم نفسه بنفسه أو بيشتغل لوحده من غير تحكم خارجي.",
+  "examples": [
+   "Universities are often autonomous institutions.",
+   "The country is divided into several autonomous regions.",
+   "The development of autonomous weapons systems raises ethical questions."
+  ],
+  "translations": {
+   "arabic_ar": "مستقل ذاتي الحكم ذاتي التشغيل"
+  },
+  "synonyms": [
+   "independent",
+   "self-governing",
+   "sovereign"
+  ],
+  "antonyms": [
+   "dependent",
+   "controlled"
+  ],
+  "collocations": [
+   "autonomous region",
+   "autonomous vehicle",
+   "autonomous individual"
+  ],
+  "mnemonic_ar": "'Auto' يعني 'تلقائي' أو 'ذاتي'.. 'Autonomous' يعني شغال مع نفسه باستقلالية."
+ }
+}

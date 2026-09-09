@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "belly",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "belly",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The front part of the human body below the chest, containing the stomach and bowels.",
+  "explanation_ar": "يعني البطن أو الكرش. كلمة عامية شوية وبسيطة عن كلمة 'Stomach'.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The stomach or the front part of the body below the chest.",
+    "definition_ar": "البطن أو الكرش",
+    "examples": [
+     "My belly is full.",
+     "The baby was sleeping on its belly."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The lower front or underside of something, such as an aircraft.",
+    "definition_ar": "الجزء السفلي أو بطن الشيء (مثل الطائرة)",
+    "examples": [
+     "The plane landed on its belly."
+    ]
+   }
+  ],
+  "examples": [
+   "My belly is full.",
+   "The baby was sleeping on its belly.",
+   "The plane landed on its belly."
+  ],
+  "translations": [
+   "بطن",
+   "كرش"
+  ],
+  "relations": {
+   "synonyms": [
+    "stomach",
+    "abdomen",
+    "tummy",
+    "paunch",
+    "gut"
+   ],
+   "antonyms": [
+    "back"
+   ],
+   "collocations": [
+    "belly button",
+    "beer belly",
+    "belly dance",
+    "belly laugh"
+   ]
+  },
+  "mnemonic": "الـ 'Belly' يعني البطن.. افتكر الراجل اللي عنده 'Belly' كبير شبه الـ 'Bell' 'الجرس'.",
+  "phonetic_us": "ˈbɛl.i",
+  "phonetic_uk": "ˈbel.i",
+  "syllables": "bel•ly",
+  "semantic_tags": [
+   "#Body",
+   "#Stomach",
+   "#Anatomy",
+   "#Fat"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The front part of the human body below the chest, containing the stomach and bowels.",
+  "explanation_ar": "يعني البطن أو الكرش. كلمة عامية شوية وبسيطة عن كلمة 'Stomach'.",
+  "examples": [
+   "My belly is full.",
+   "The baby was sleeping on its belly.",
+   "The plane landed on its belly."
+  ],
+  "translations": {
+   "arabic_ar": "بطن كرش"
+  },
+  "synonyms": [
+   "stomach",
+   "abdomen",
+   "tummy",
+   "paunch",
+   "gut"
+  ],
+  "antonyms": [
+   "back"
+  ],
+  "collocations": [
+   "belly button",
+   "beer belly",
+   "belly dance",
+   "belly laugh"
+  ],
+  "mnemonic_ar": "الـ 'Belly' يعني البطن.. افتكر الراجل اللي عنده 'Belly' كبير شبه الـ 'Bell' 'الجرس'."
+ }
+}

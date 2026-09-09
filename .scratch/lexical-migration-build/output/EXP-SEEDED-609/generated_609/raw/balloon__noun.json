@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "balloon",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "balloon",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A brightly colored rubber bag inflated with air or gas, used as a toy or decoration.",
+  "explanation_ar": "كيس مطاطي ملون بننفخه هوا أو غاز، بنستخدمه في اللعب والزينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A brightly colored rubber bag inflated with air or gas, used as a toy or decoration.",
+    "definition_ar": "كيس مطاطي ملون يُنفخ بالهواء أو الغاز، ويُستخدم كلعبة أو للزينة.",
+    "examples": [
+     "I want a red balloon.",
+     "The child cried when his balloon popped."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A large bag filled with hot air or gas designed to carry passengers in a basket underneath.",
+    "definition_ar": "منطاد كبير يُملأ بالهواء الساخن أو الغاز لحمل الركاب في سلة معلقة.",
+    "examples": [
+     "They took a ride in a hot-air balloon."
+    ]
+   }
+  ],
+  "examples": [
+   "I want a red balloon.",
+   "The child cried when his balloon popped.",
+   "They took a ride in a hot-air balloon."
+  ],
+  "translations": [
+   "بالون",
+   "منطاد"
+  ],
+  "relations": {
+   "synonyms": [],
+   "antonyms": [],
+   "collocations": [
+    "hot-air balloon",
+    "water balloon",
+    "blow up a balloon"
+   ]
+  },
+  "mnemonic": "هي هي بالعربي 'بالون'.",
+  "phonetic_us": "bəˈluːn",
+  "phonetic_uk": "bəˈluːn",
+  "syllables": "bal•loon",
+  "semantic_tags": [
+   "Party",
+   "Toy",
+   "Air"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A brightly colored rubber bag inflated with air or gas, used as a toy or decoration.",
+  "explanation_ar": "كيس مطاطي ملون بننفخه هوا أو غاز، بنستخدمه في اللعب والزينة.",
+  "examples": [
+   "I want a red balloon.",
+   "The child cried when his balloon popped.",
+   "They took a ride in a hot-air balloon."
+  ],
+  "translations": {
+   "arabic_ar": "بالون منطاد"
+  },
+  "synonyms": [],
+  "antonyms": [],
+  "collocations": [
+   "hot-air balloon",
+   "water balloon",
+   "blow up a balloon"
+  ],
+  "mnemonic_ar": "هي هي بالعربي 'بالون'."
+ }
+}

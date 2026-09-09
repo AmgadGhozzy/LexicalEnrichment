@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "conquest",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "conquest",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The subjugation and assumption of control of a place or people by use of military force.",
+  "explanation_ar": "الغزو أو الفتح، لما جيش يسيطر على بلد تانية بالقوة، أو الانتصار في حاجة صعبة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The subjugation and assumption of control of a place or people by use of military force.",
+    "explanation_ar": "السيطرة على بلد أو شعب وإخضاعه بالقوة العسكرية (الغزو أو الفتح).",
+    "examples": [
+     "The Spanish conquest of the Americas changed the world.",
+     "His memoirs detail the military conquest of the entire region."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The act of overcoming or successfully controlling a difficult obstacle or problem.",
+    "explanation_ar": "التغلب على مشكلة أو صعوبة معقدة والسيطرة عليها بنجاح.",
+    "examples": [
+     "The conquest of inflation is the government's main goal."
+    ]
+   }
+  ],
+  "examples": [
+   "The Spanish conquest of the Americas changed the world.",
+   "The conquest of inflation is the government's main goal.",
+   "His memoirs detail the military conquest of the entire region."
+  ],
+  "translations": [
+   "فَتْح",
+   "غَزْو"
+  ],
+  "relations": {
+   "synonyms": [
+    "subjugation",
+    "triumph",
+    "victory",
+    "takeover"
+   ],
+   "antonyms": [
+    "defeat",
+    "surrender"
+   ],
+   "collocations": [
+    "military conquest",
+    "Norman Conquest",
+    "make a conquest"
+   ],
+   "word_family": [
+    "conquer",
+    "conqueror"
+   ]
+  },
+  "mnemonic": "جاية من 'Quest' 'بحث/مهمة'.. الـ 'Conquest' هي المهمة الكبيرة للسيطرة على الأرض.",
+  "phonetic_us": "ˈkɑːŋkwɛst",
+  "phonetic_uk": "ˈkɒŋkwest",
+  "syllables": "con•quest",
+  "semantic_tags": [
+   "#War",
+   "#History",
+   "#Victory"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The subjugation and assumption of control of a place or people by use of military force.",
+  "explanation_ar": "الغزو أو الفتح، لما جيش يسيطر على بلد تانية بالقوة، أو الانتصار في حاجة صعبة.",
+  "examples": [
+   "The Spanish conquest of the Americas changed the world.",
+   "The conquest of inflation is the government's main goal.",
+   "His memoirs detail the military conquest of the entire region."
+  ],
+  "translations": {
+   "arabic_ar": "فَتْح غَزْو"
+  },
+  "synonyms": [
+   "subjugation",
+   "triumph",
+   "victory",
+   "takeover"
+  ],
+  "antonyms": [
+   "defeat",
+   "surrender"
+  ],
+  "collocations": [
+   "military conquest",
+   "Norman Conquest",
+   "make a conquest"
+  ],
+  "mnemonic_ar": "جاية من 'Quest' 'بحث/مهمة'.. الـ 'Conquest' هي المهمة الكبيرة للسيطرة على الأرض."
+ }
+}

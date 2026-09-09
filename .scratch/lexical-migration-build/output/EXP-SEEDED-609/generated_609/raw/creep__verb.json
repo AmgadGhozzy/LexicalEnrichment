@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "creep",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "creep",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To move slowly and quietly to avoid being seen.",
+  "explanation_ar": "تتحرك ببطء وهدوء عشان محدش يشوفك أو يسمعك 'تتسحب'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To move slowly, quietly, and carefully, especially in order to avoid being noticed.",
+    "explanation_ar": "التحرك ببطء وهدوء وحذر لتجنب لفت الانتباه (يتسلل).",
+    "examples": [
+     "Cats creep up on birds."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To develop, increase, or happen gradually and unnoticed.",
+    "explanation_ar": "التسلل أو الحدوث تدريجياً دون أن يُلاحظ.",
+    "examples": [
+     "Mistakes began to creep into his work.",
+     "Doubts began to creep in about the plan."
+    ]
+   }
+  ],
+  "examples": [
+   "Cats creep up on birds.",
+   "Mistakes began to creep into his work.",
+   "Doubts began to creep in about the plan."
+  ],
+  "translations": [
+   "يتسلل",
+   "يزحف"
+  ],
+  "relations": {
+   "synonyms": [
+    "crawl",
+    "sneak",
+    "slink",
+    "tiptoe"
+   ],
+   "antonyms": [
+    "rush",
+    "run"
+   ],
+   "collocations": [
+    "creep up on",
+    "creep in",
+    "creep out",
+    "creep into"
+   ]
+  },
+  "mnemonic": "زي الحرامي لما يعمل 'Creep' 'يتسحب' عشان يسرق.",
+  "phonetic_us": "kriːp",
+  "phonetic_uk": "kriːp",
+  "syllables": [
+   "creep"
+  ],
+  "semantic_tags": [
+   "#Stealth",
+   "#Motion",
+   "#Quiet"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To move slowly and quietly to avoid being seen.",
+  "explanation_ar": "تتحرك ببطء وهدوء عشان محدش يشوفك أو يسمعك 'تتسحب'.",
+  "examples": [
+   "Cats creep up on birds.",
+   "Mistakes began to creep into his work.",
+   "Doubts began to creep in about the plan."
+  ],
+  "translations": {
+   "arabic_ar": "يتسلل يزحف"
+  },
+  "synonyms": [
+   "crawl",
+   "sneak",
+   "slink",
+   "tiptoe"
+  ],
+  "antonyms": [
+   "rush",
+   "run"
+  ],
+  "collocations": [
+   "creep up on",
+   "creep in",
+   "creep out",
+   "creep into"
+  ],
+  "mnemonic_ar": "زي الحرامي لما يعمل 'Creep' 'يتسحب' عشان يسرق."
+ }
+}

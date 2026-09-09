@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "counsellor",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "counsellor",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A person trained to give guidance on personal, social, or psychological problems.",
+  "explanation_ar": "الشخص اللي شغلته يسمع مشاكل الناس وينصحهم ويساعدهم يحلوها 'نفسياً أو اجتماعياً'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person trained to give guidance on personal, social, or psychological problems.",
+    "definition_ar": "شخص متخصص ومدرب لتقديم التوجيه والمشورة في المشكلات النفسية أو الاجتماعية أو الشخصية.",
+    "examples": [
+     "The school counsellor helps students deal with personal and academic challenges.",
+     "They decided to see a marriage counsellor to work through their relationship issues.",
+     "She works as a grief counsellor supporting families after a tragic loss."
+    ]
+   }
+  ],
+  "examples": [
+   "The school counsellor helps students deal with personal and academic challenges.",
+   "They decided to see a marriage counsellor to work through their relationship issues.",
+   "She works as a grief counsellor supporting families after a tragic loss."
+  ],
+  "translations": [
+   "مستشار",
+   "مرشد نفسي"
+  ],
+  "relations": {
+   "synonyms": [
+    "advisor",
+    "therapist",
+    "guide",
+    "consultant"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "guidance counsellor",
+    "marriage counsellor",
+    "camp counsellor",
+    "school counsellor"
+   ]
+  },
+  "mnemonic": "نفس أصل 'Counsel' 'نصيحة'.. الـ 'Counsellor' هو اللي بيدي النصيحة.",
+  "phonetic_us": "ˈkaʊnsələr",
+  "phonetic_uk": "ˈkaʊnsələ",
+  "syllables": "coun•sel•lor",
+  "semantic_tags": [
+   "#Advice",
+   "#Therapy",
+   "#Job",
+   "#Help"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person trained to give guidance on personal, social, or psychological problems.",
+  "explanation_ar": "الشخص اللي شغلته يسمع مشاكل الناس وينصحهم ويساعدهم يحلوها 'نفسياً أو اجتماعياً'.",
+  "examples": [
+   "The school counsellor helps students deal with personal and academic challenges.",
+   "They decided to see a marriage counsellor to work through their relationship issues.",
+   "She works as a grief counsellor supporting families after a tragic loss."
+  ],
+  "translations": {
+   "arabic_ar": "مستشار مرشد نفسي"
+  },
+  "synonyms": [
+   "advisor",
+   "therapist",
+   "guide",
+   "consultant"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "guidance counsellor",
+   "marriage counsellor",
+   "camp counsellor",
+   "school counsellor"
+  ],
+  "mnemonic_ar": "نفس أصل 'Counsel' 'نصيحة'.. الـ 'Counsellor' هو اللي بيدي النصيحة."
+ }
+}

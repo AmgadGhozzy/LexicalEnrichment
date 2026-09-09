@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "dot",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "dot",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A small round mark or spot.",
+  "explanation_ar": "علامة صغيرة مدورة زي النقطة اللي بنحطها في آخر الجملة أو في عنوان الموقع.",
+  "senses": [
+   {
+    "definition_en": "A small round mark or spot.",
+    "definition_ar": "علامة أو بقعة دائرية صغيرة تُستخدم في الكتابة أو الرسم أو كرمز.",
+    "pos": "noun",
+    "examples": [
+     "Put a dot at the end of the sentence.",
+     "Visit our website at google dot com.",
+     "The meeting will start at nine o'clock on the dot."
+    ]
+   }
+  ],
+  "examples": [
+   "Put a dot at the end of the sentence.",
+   "Visit our website at google dot com.",
+   "The meeting will start at nine o'clock on the dot."
+  ],
+  "translations": [
+   "نقطة"
+  ],
+  "relations": {
+   "synonyms": [
+    "spot",
+    "speck",
+    "point",
+    "mark"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "polka dot",
+    "dot com",
+    "on the dot"
+   ]
+  },
+  "mnemonic": "كلمة 'Dot' سهلة، افتكر 'Dot Com'.. الـ 'Dot' هي النقطة.",
+  "phonetic_us": "dɑːt",
+  "phonetic_uk": "dɒt",
+  "syllables": [
+   "dot"
+  ],
+  "semantic_tags": [
+   "#Shape",
+   "#Writing",
+   "#Internet",
+   "#Mark"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A small round mark or spot.",
+  "explanation_ar": "علامة صغيرة مدورة زي النقطة اللي بنحطها في آخر الجملة أو في عنوان الموقع.",
+  "examples": [
+   "Put a dot at the end of the sentence.",
+   "Visit our website at google dot com.",
+   "The meeting will start at nine o'clock on the dot."
+  ],
+  "translations": {
+   "arabic_ar": "نقطة"
+  },
+  "synonyms": [
+   "spot",
+   "speck",
+   "point",
+   "mark"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "polka dot",
+   "dot com",
+   "on the dot"
+  ],
+  "mnemonic_ar": "كلمة 'Dot' سهلة، افتكر 'Dot Com'.. الـ 'Dot' هي النقطة."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "chair",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "chair",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To act as chairperson of or preside over (an organization, meeting, or public event).",
+  "explanation_ar": "لما تكون أنت الريس أو المسؤول اللي بيدير الاجتماع والقعدة",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To act as chairperson of or preside over (an organization, meeting, or public event).",
+    "definition_ar": "أن تترأس اجتماعاً أو لجنة وتتولى إدارتها.",
+    "examples": [
+     "He will chair the meeting.",
+     "Who is going to chair the committee?",
+     "I was asked to chair the panel of judges."
+    ]
+   }
+  ],
+  "examples": [
+   "He will chair the meeting.",
+   "Who is going to chair the committee?",
+   "I was asked to chair the panel of judges."
+  ],
+  "translations": [
+   "يَتَرَأّس",
+   "يُدِير"
+  ],
+  "relations": {
+   "synonyms": [
+    "preside",
+    "lead",
+    "head",
+    "moderate"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "chair a meeting",
+    "chair a committee",
+    "chair a session"
+   ]
+  },
+  "mnemonic": "من 'Chairman'.. يعني تقعد على الـ 'Chair' الكبير وتدير الجلسة",
+  "phonetic_us": "tʃɛr",
+  "phonetic_uk": "tʃeə(r)",
+  "syllables": [
+   "chair"
+  ],
+  "semantic_tags": [
+   "meeting",
+   "leadership",
+   "business",
+   "management"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To act as chairperson of or preside over (an organization, meeting, or public event).",
+  "explanation_ar": "لما تكون أنت الريس أو المسؤول اللي بيدير الاجتماع والقعدة",
+  "examples": [
+   "He will chair the meeting.",
+   "Who is going to chair the committee?",
+   "I was asked to chair the panel of judges."
+  ],
+  "translations": {
+   "arabic_ar": "يَتَرَأّس يُدِير"
+  },
+  "synonyms": [
+   "preside",
+   "lead",
+   "head",
+   "moderate"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "chair a meeting",
+   "chair a committee",
+   "chair a session"
+  ],
+  "mnemonic_ar": "من 'Chairman'.. يعني تقعد على الـ 'Chair' الكبير وتدير الجلسة"
+ }
+}

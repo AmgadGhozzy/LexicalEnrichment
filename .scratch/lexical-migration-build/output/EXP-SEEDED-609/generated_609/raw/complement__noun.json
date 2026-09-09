@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "complement",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "complement",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A thing that completes or brings to perfection, or the full number or amount required.",
+  "explanation_ar": "حاجة بتكمّل حاجة تانية وتخليها متناسقة أو تامة، أو العدد والنصاب الكامل المطلوب لشيء معين.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A thing that completes something else or makes it perfect.",
+    "definition_ar": "مُكمِّل؛ شيء يُتمم شيئاً آخر ويُبرز جودته.",
+    "examples": [
+     "The wine was a perfect complement to the cheese.",
+     "The scarf is a nice complement to the dress."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The complete or required number or quantity.",
+    "definition_ar": "العدد الكامل أو النصاب التام المطلوب.",
+    "examples": [
+     "The team needs a full complement of players."
+    ]
+   }
+  ],
+  "examples": [
+   "The wine was a perfect complement to the cheese.",
+   "The scarf is a nice complement to the dress.",
+   "The team needs a full complement of players."
+  ],
+  "translations": [
+   "مُكَمِّل",
+   "تَتِمَّة",
+   "نِصاب كامل"
+  ],
+  "relations": {
+   "synonyms": [
+    "accompaniment",
+    "supplement",
+    "addition",
+    "counterpart"
+   ],
+   "antonyms": [
+    "clash",
+    "contrast"
+   ],
+   "collocations": [
+    "perfect complement",
+    "full complement",
+    "complement to"
+   ],
+   "word_family": {
+    "noun": "complement",
+    "verb": "complement",
+    "adjective": "complementary"
+   }
+  },
+  "mnemonic": "كلمة 'Complete' 'يكمل'.. الـ 'Complement' هو اللي بيعمل 'Complete' للصورة.",
+  "phonetic_us": "ˈkɑmpləmənt",
+  "phonetic_uk": "ˈkɒmpləmənt",
+  "syllables": "com•ple•ment",
+  "semantic_tags": [
+   "#Match",
+   "#Completion",
+   "#Set",
+   "#Grammar"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A thing that completes or brings to perfection, or the full number or amount required.",
+  "explanation_ar": "حاجة بتكمّل حاجة تانية وتخليها متناسقة أو تامة، أو العدد والنصاب الكامل المطلوب لشيء معين.",
+  "examples": [
+   "The wine was a perfect complement to the cheese.",
+   "The scarf is a nice complement to the dress.",
+   "The team needs a full complement of players."
+  ],
+  "translations": {
+   "arabic_ar": "مُكَمِّل تَتِمَّة نِصاب كامل"
+  },
+  "synonyms": [
+   "accompaniment",
+   "supplement",
+   "addition",
+   "counterpart"
+  ],
+  "antonyms": [
+   "clash",
+   "contrast"
+  ],
+  "collocations": [
+   "perfect complement",
+   "full complement",
+   "complement to"
+  ],
+  "mnemonic_ar": "كلمة 'Complete' 'يكمل'.. الـ 'Complement' هو اللي بيعمل 'Complete' للصورة."
+ }
+}

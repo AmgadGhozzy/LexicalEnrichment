@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "coach",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "coach",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person who trains athletes; or a bus used for longer journeys.",
+  "explanation_ar": "المدرب اللي بيعلم اللعيبة، أو الأتوبيس الكبير اللي بيسافر مسافات طويلة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A person who trains people in a sport, game, or other skill.",
+    "explanation_ar": "مدرب رياضي أو مهني",
+    "translations": [
+     "مدرب"
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A comfortable bus used for carrying passengers over long distances.",
+    "explanation_ar": "حافلة ركاب للمسافات الطويلة",
+    "translations": [
+     "حافلة",
+     "أتوبيس سفري"
+    ]
+   }
+  ],
+  "examples": [
+   "He is our football coach.",
+   "We took a coach to London.",
+   "The coach gave the team advice before the game."
+  ],
+  "translations": [
+   "مدرب",
+   "حافلة"
+  ],
+  "relations": {
+   "synonyms": [
+    "trainer",
+    "instructor",
+    "bus"
+   ],
+   "antonyms": [
+    "player",
+    "student"
+   ],
+   "collocations": [
+    "football coach",
+    "head coach",
+    "travel by coach"
+   ]
+  },
+  "mnemonic": "الـ 'Couch' يعني كنبة.. بس الـ 'Coach' مبيخلكش تقعد عليها، بيخليك تتمرن.",
+  "phonetic_us": "/koʊtʃ/",
+  "phonetic_uk": "/kəʊtʃ/",
+  "syllables": "coach",
+  "semantic_tags": [
+   "sports",
+   "travel",
+   "transport"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who trains athletes; or a bus used for longer journeys.",
+  "explanation_ar": "المدرب اللي بيعلم اللعيبة، أو الأتوبيس الكبير اللي بيسافر مسافات طويلة.",
+  "examples": [
+   "He is our football coach.",
+   "We took a coach to London.",
+   "The coach gave the team advice before the game."
+  ],
+  "translations": {
+   "arabic_ar": "مدرب حافلة"
+  },
+  "synonyms": [
+   "trainer",
+   "instructor",
+   "bus"
+  ],
+  "antonyms": [
+   "player",
+   "student"
+  ],
+  "collocations": [
+   "football coach",
+   "head coach",
+   "travel by coach"
+  ],
+  "mnemonic_ar": "الـ 'Couch' يعني كنبة.. بس الـ 'Coach' مبيخلكش تقعد عليها، بيخليك تتمرن."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "dividend",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "dividend",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+  "explanation_ar": "جزء من أرباح الشركة بيتوزع على المساهمين كل فترة، أو الفايدة اللي بتعود عليك من حاجة عملتها.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+    "definition_ar": "حصة من أرباح الشركة توزع بانتظام على المساهمين."
+   }
+  ],
+  "examples": [
+   "The board declared a quarterly dividend of 50 cents.",
+   "The annual dividend was increased after a profitable year.",
+   "The company decided not to pay a dividend to its shareholders this year."
+  ],
+  "translations": [
+   "توزيعات أرباح",
+   "حصة أرباح",
+   "عائد"
+  ],
+  "relations": {
+   "synonyms": [
+    "payout",
+    "return",
+    "share"
+   ],
+   "antonyms": [
+    "loss",
+    "debt"
+   ],
+   "collocations": [
+    "annual dividend",
+    "cash dividend",
+    "declare a dividend",
+    "pay a dividend"
+   ]
+  },
+  "mnemonic": "جاية من 'Divide' 'يقسم'.. الأرباح اللي بتتقسم على الناس.",
+  "phonetic_us": "ˈdɪvɪdɛnd",
+  "phonetic_uk": "ˈdɪvɪdend",
+  "syllables": "div•i•dend",
+  "semantic_tags": [
+   "finance",
+   "investment",
+   "business",
+   "stocks"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+  "explanation_ar": "جزء من أرباح الشركة بيتوزع على المساهمين كل فترة، أو الفايدة اللي بتعود عليك من حاجة عملتها.",
+  "examples": [
+   "The board declared a quarterly dividend of 50 cents.",
+   "The annual dividend was increased after a profitable year.",
+   "The company decided not to pay a dividend to its shareholders this year."
+  ],
+  "translations": {
+   "arabic_ar": "توزيعات أرباح حصة أرباح عائد"
+  },
+  "synonyms": [
+   "payout",
+   "return",
+   "share"
+  ],
+  "antonyms": [
+   "loss",
+   "debt"
+  ],
+  "collocations": [
+   "annual dividend",
+   "cash dividend",
+   "declare a dividend",
+   "pay a dividend"
+  ],
+  "mnemonic_ar": "جاية من 'Divide' 'يقسم'.. الأرباح اللي بتتقسم على الناس."
+ }
+}

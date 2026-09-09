@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "beach",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "beach",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "An area of sand or small stones next to the ocean or a lake.",
+  "explanation_ar": "الشاطئ أو البلاج، وهو مساحة من الرمل أو الحصى بجوار البحر أو البحيرة.",
+  "senses": [
+   {
+    "definition_en": "An area of sand or small stones next to the ocean or a lake.",
+    "explanation_ar": "الشاطئ أو البلاج، وهو مساحة من الرمل أو الحصى بجوار البحر أو البحيرة.",
+    "examples": [
+     "We played on the beach.",
+     "Let's go to the beach tomorrow.",
+     "The hotel has a private beach."
+    ]
+   }
+  ],
+  "examples": [
+   "We played on the beach.",
+   "Let's go to the beach tomorrow.",
+   "The hotel has a private beach."
+  ],
+  "translations": [
+   "شاطئ",
+   "بلاج"
+  ],
+  "relations": {
+   "synonyms": [
+    "shore",
+    "seaside"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "sandy beach",
+    "beach umbrella",
+    "on the beach",
+    "go to the beach"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "biːtʃ",
+  "phonetic_uk": "biːtʃ",
+  "syllables": "beach",
+  "semantic_tags": [
+   "Nature",
+   "Vacation",
+   "Sea",
+   "Geography"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An area of sand or small stones next to the ocean or a lake.",
+  "explanation_ar": "الشاطئ أو البلاج، وهو مساحة من الرمل أو الحصى بجوار البحر أو البحيرة.",
+  "examples": [
+   "We played on the beach.",
+   "Let's go to the beach tomorrow.",
+   "The hotel has a private beach."
+  ],
+  "translations": {
+   "arabic_ar": "شاطئ بلاج"
+  },
+  "synonyms": [
+   "shore",
+   "seaside"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "sandy beach",
+   "beach umbrella",
+   "on the beach",
+   "go to the beach"
+  ],
+  "mnemonic_ar": null
+ }
+}

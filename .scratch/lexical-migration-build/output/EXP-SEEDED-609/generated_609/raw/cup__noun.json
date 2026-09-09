@@ -1,0 +1,75 @@
+{
+ "identity": {
+  "lemma": "cup",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "cup",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A small bowl-shaped container for drinking from, typically having a handle.",
+  "explanation_ar": "الفنجان أو الكوباية اللي ليها يد.. بنشرب فيها شاي أو قهوة.",
+  "senses": [
+   {
+    "definition_en": "A small bowl-shaped container for drinking from, typically having a handle.",
+    "definition_ar": "فنجان أو كوب يُستخدم للشرب، وله مقبض في العادة.",
+    "examples": [
+     "I want a cup of tea.",
+     "She washed the cup and saucer.",
+     "He poured coffee into the cup."
+    ]
+   }
+  ],
+  "examples": [
+   "I want a cup of tea.",
+   "She washed the cup and saucer.",
+   "He poured coffee into the cup."
+  ],
+  "translations": [
+   "فنجان",
+   "كوب"
+  ],
+  "relations": {
+   "synonyms": [
+    "mug"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "cup of coffee",
+    "cup of tea"
+   ]
+  },
+  "mnemonic": "الـ 'Cup' بنشرب فيه 'Cappuccino' 'كابتشينو'.",
+  "phonetic_us": "kʌp",
+  "phonetic_uk": "kʌp",
+  "syllables": "cup",
+  "semantic_tags": [
+   "Kitchen",
+   "Drink",
+   "Container"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A small bowl-shaped container for drinking from, typically having a handle.",
+  "explanation_ar": "الفنجان أو الكوباية اللي ليها يد.. بنشرب فيها شاي أو قهوة.",
+  "examples": [
+   "I want a cup of tea.",
+   "She washed the cup and saucer.",
+   "He poured coffee into the cup."
+  ],
+  "translations": {
+   "arabic_ar": "فنجان كوب"
+  },
+  "synonyms": [
+   "mug"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "cup of coffee",
+   "cup of tea"
+  ],
+  "mnemonic_ar": "الـ 'Cup' بنشرب فيه 'Cappuccino' 'كابتشينو'."
+ }
+}

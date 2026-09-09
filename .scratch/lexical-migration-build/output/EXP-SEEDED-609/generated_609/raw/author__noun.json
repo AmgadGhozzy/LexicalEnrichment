@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "author",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "author",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A writer of a book, article, or report.",
+  "explanation_ar": "المؤلف أو الكاتب اللي بيألف الكتب والقصص.",
+  "senses": [
+   {
+    "definition_en": "A writer of a book, article, or report.",
+    "explanation_ar": "الشخص الذي يكتب كتاباً أو مقالاً أو تقريراً.",
+    "examples": [
+     "He is a famous author.",
+     "Who is the author of this book?",
+     "The author signed my copy."
+    ]
+   }
+  ],
+  "examples": [
+   "He is a famous author.",
+   "Who is the author of this book?",
+   "The author signed my copy."
+  ],
+  "translations": [
+   "مؤلف",
+   "كاتب"
+  ],
+  "relations": {
+   "synonyms": [
+    "writer"
+   ],
+   "antonyms": [
+    "reader"
+   ],
+   "collocations": [
+    "bestselling author",
+    "author of"
+   ]
+  },
+  "mnemonic": "الـ 'Author' هو اللي عنده الـ 'Authority' (سلطة) على القصة اللي بيكتبها.",
+  "phonetic_us": "ˈɔː.θɚ",
+  "phonetic_uk": "ˈɔː.θə",
+  "syllables": "au•thor",
+  "semantic_tags": [
+   "Books",
+   "Writing",
+   "Literature"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A writer of a book, article, or report.",
+  "explanation_ar": "المؤلف أو الكاتب اللي بيألف الكتب والقصص.",
+  "examples": [
+   "He is a famous author.",
+   "Who is the author of this book?",
+   "The author signed my copy."
+  ],
+  "translations": {
+   "arabic_ar": "مؤلف كاتب"
+  },
+  "synonyms": [
+   "writer"
+  ],
+  "antonyms": [
+   "reader"
+  ],
+  "collocations": [
+   "bestselling author",
+   "author of"
+  ],
+  "mnemonic_ar": "الـ 'Author' هو اللي عنده الـ 'Authority' (سلطة) على القصة اللي بيكتبها."
+ }
+}

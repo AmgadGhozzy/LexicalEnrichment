@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "expansion",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "expansion",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The action of becoming larger or more extensive.",
+  "explanation_ar": "التوسع أو التمدد، زي لما شركة تفتح فروع جديدة، أو بالونة بتكبر لما تنفخها.",
+  "senses": [
+   {
+    "definition_en": "The action of becoming larger or more extensive in size, volume, or scope.",
+    "definition_ar": "عملية التوسع أو التمدد في الحجم أو النطاق.",
+    "examples": [
+     "The expansion of the airport will take two years.",
+     "The company is planning a major expansion into Asia.",
+     "Thermal expansion causes bridges to change length in summer."
+    ]
+   }
+  ],
+  "examples": [
+   "The expansion of the airport will take two years.",
+   "The company is planning a major expansion into Asia.",
+   "Thermal expansion causes bridges to change length in summer."
+  ],
+  "translations": [
+   "توسع",
+   "تمدد"
+  ],
+  "relations": {
+   "synonyms": [
+    "growth",
+    "enlargement",
+    "extension",
+    "development",
+    "spread"
+   ],
+   "antonyms": [
+    "contraction",
+    "reduction",
+    "shrinkage"
+   ],
+   "collocations": [
+    "rapid expansion",
+    "business expansion",
+    "expansion plan",
+    "thermal expansion"
+   ],
+   "word_family": {
+    "verb": "expand",
+    "noun": "expansion",
+    "adjective": "expansive"
+   }
+  },
+  "mnemonic": "فيها كلمة 'Span' 'مدى/مسافة'.. الـ 'Expansion' بيزود الـ 'Span' والمساحة.",
+  "phonetic_us": "ɪkˈspænʃən",
+  "phonetic_uk": "ɪkˈspænʃn",
+  "syllables": "ex•pan•sion",
+  "semantic_tags": [
+   "#Growth",
+   "#Business",
+   "#Size",
+   "#Change"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The action of becoming larger or more extensive.",
+  "explanation_ar": "التوسع أو التمدد، زي لما شركة تفتح فروع جديدة، أو بالونة بتكبر لما تنفخها.",
+  "examples": [
+   "The expansion of the airport will take two years.",
+   "The company is planning a major expansion into Asia.",
+   "Thermal expansion causes bridges to change length in summer."
+  ],
+  "translations": {
+   "arabic_ar": "توسع تمدد"
+  },
+  "synonyms": [
+   "growth",
+   "enlargement",
+   "extension",
+   "development",
+   "spread"
+  ],
+  "antonyms": [
+   "contraction",
+   "reduction",
+   "shrinkage"
+  ],
+  "collocations": [
+   "rapid expansion",
+   "business expansion",
+   "expansion plan",
+   "thermal expansion"
+  ],
+  "mnemonic_ar": "فيها كلمة 'Span' 'مدى/مسافة'.. الـ 'Expansion' بيزود الـ 'Span' والمساحة."
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "corruption",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "corruption",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "Dishonest or illegal behavior especially by powerful people.",
+  "explanation_ar": "الفساد، زي الرشوة واستغلال النفوذ، خصوصاً من الناس اللي في السلطة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Dishonest or illegal behavior especially by powerful people.",
+    "explanation_ar": "الفساد المالي أو الإداري واستغلال السلطة والرشوة.",
+    "pos": "noun"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The process by which computer data or files become damaged, altered, or unreadable.",
+    "explanation_ar": "تلف أو عطب يصيب البيانات أو الملفات الرقمية في الحاسوب.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "He was sent to prison for corruption.",
+   "The article exposed corruption in the local government.",
+   "Political corruption undermines democracy."
+  ],
+  "translations": [
+   "فساد",
+   "رشوة",
+   "عطب بيانات"
+  ],
+  "relations": {
+   "synonyms": [
+    "dishonesty",
+    "fraud",
+    "bribery",
+    "graft"
+   ],
+   "antonyms": [
+    "honesty",
+    "integrity",
+    "purity"
+   ],
+   "collocations": [
+    "political corruption",
+    "fight corruption",
+    "expose corruption",
+    "data corruption"
+   ],
+   "word_family": {
+    "adj": "corrupt",
+    "noun": "corruption",
+    "verb": "corrupt"
+   }
+  },
+  "mnemonic": "كلمة 'Corrupt' قريبة من 'Erupt' 'ينفجر'.. الـ 'Corruption' 'الفساد' بيخلي المجتمع ينفجر.",
+  "phonetic_us": "/kəˈrʌpʃən/",
+  "phonetic_uk": "/kəˈrʌpʃən/",
+  "syllables": "cor•rup•tion",
+  "semantic_tags": [
+   "Politics",
+   "Crime",
+   "Ethics",
+   "Money"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Dishonest or illegal behavior especially by powerful people.",
+  "explanation_ar": "الفساد، زي الرشوة واستغلال النفوذ، خصوصاً من الناس اللي في السلطة.",
+  "examples": [
+   "He was sent to prison for corruption.",
+   "The article exposed corruption in the local government.",
+   "Political corruption undermines democracy."
+  ],
+  "translations": {
+   "arabic_ar": "فساد رشوة عطب بيانات"
+  },
+  "synonyms": [
+   "dishonesty",
+   "fraud",
+   "bribery",
+   "graft"
+  ],
+  "antonyms": [
+   "honesty",
+   "integrity",
+   "purity"
+  ],
+  "collocations": [
+   "political corruption",
+   "fight corruption",
+   "expose corruption",
+   "data corruption"
+  ],
+  "mnemonic_ar": "كلمة 'Corrupt' قريبة من 'Erupt' 'ينفجر'.. الـ 'Corruption' 'الفساد' بيخلي المجتمع ينفجر."
+ }
+}

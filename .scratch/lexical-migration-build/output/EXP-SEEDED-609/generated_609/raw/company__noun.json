@@ -1,0 +1,97 @@
+{
+ "identity": {
+  "lemma": "company",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "company",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A commercial business.",
+  "explanation_ar": "مؤسسة تجارية أو شركة بيشتغل فيها ناس عشان يكسبوا فلوس.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "An organization that sells goods or services in order to make money.",
+    "explanation_ar": "مؤسسة تجارية أو شركة تهدف إلى تحقيق الربح.",
+    "translations": [
+     "شركة"
+    ],
+    "cefr": "A1"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The state of being with other people; companionship.",
+    "explanation_ar": "صحبة أو رفقة أشخاص آخرين.",
+    "translations": [
+     "صحبة",
+     "رفقة"
+    ],
+    "cefr": "B1"
+   }
+  ],
+  "examples": [
+   "He works for a big company.",
+   "The company produces cars.",
+   "She wants to start her own software company."
+  ],
+  "translations": [
+   "شركة"
+  ],
+  "relations": {
+   "synonyms": [
+    "business",
+    "firm",
+    "corporation"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "software company",
+    "company car",
+    "good company",
+    "keep company"
+   ],
+   "word_family": {
+    "noun": "company",
+    "verb": "accompany"
+   }
+  },
+  "mnemonic": "جاي منها 'Companion' 'رفيق'.. الـ 'Company' هي الناس اللي معاك سواء في الشغل 'شركة' أو في القعدة 'صحبة'.",
+  "phonetic_us": "ˈkʌmpəni",
+  "phonetic_uk": "ˈkʌmpəni",
+  "syllables": "com•pa•ny",
+  "semantic_tags": [
+   "#Business",
+   "#Work",
+   "#Social",
+   "#Organization"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A commercial business.",
+  "explanation_ar": "مؤسسة تجارية أو شركة بيشتغل فيها ناس عشان يكسبوا فلوس.",
+  "examples": [
+   "He works for a big company.",
+   "The company produces cars.",
+   "She wants to start her own software company."
+  ],
+  "translations": {
+   "arabic_ar": "شركة"
+  },
+  "synonyms": [
+   "business",
+   "firm",
+   "corporation"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "software company",
+   "company car",
+   "good company",
+   "keep company"
+  ],
+  "mnemonic_ar": "جاي منها 'Companion' 'رفيق'.. الـ 'Company' هي الناس اللي معاك سواء في الشغل 'شركة' أو في القعدة 'صحبة'."
+ }
+}

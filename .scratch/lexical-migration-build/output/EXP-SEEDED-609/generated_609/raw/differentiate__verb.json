@@ -1,0 +1,100 @@
+{
+ "identity": {
+  "lemma": "differentiate",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "differentiate",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To recognize or ascertain what makes someone or something different.",
+  "explanation_ar": "إنك تعرف الفرق بين حاجتين أو أكتر، أو تخلي حاجة مميزة ومختلفة عن الباقي.",
+  "senses": [
+   {
+    "definition_en": "To recognize or show what makes someone or something different.",
+    "definition_ar": "أن تدرك أو توضح الفرق بين شخصين أو شيئين.",
+    "examples": [
+     "Color blindness makes it hard to differentiate red from green.",
+     "It is hard to differentiate the twins."
+    ]
+   },
+   {
+    "definition_en": "To make someone or something distinct or different from others.",
+    "definition_ar": "أن تجعل شخصاً أو شيئاً مميزاً ومختلفاً عن الآخرين.",
+    "examples": [
+     "The brand tries to differentiate itself from competitors."
+    ]
+   }
+  ],
+  "examples": [
+   "It is hard to differentiate the twins.",
+   "The brand tries to differentiate itself from competitors.",
+   "Color blindness makes it hard to differentiate red from green."
+  ],
+  "translations": [
+   "يميز",
+   "يفرق بين"
+  ],
+  "relations": {
+   "synonyms": [
+    "distinguish",
+    "discriminate",
+    "separate",
+    "contrast"
+   ],
+   "antonyms": [
+    "confuse",
+    "mix up",
+    "equate"
+   ],
+   "collocations": [
+    "differentiate between",
+    "differentiate from",
+    "clearly differentiate",
+    "hard to differentiate"
+   ]
+  },
+  "mnemonic": "جاية من 'Different' 'مختلف'.. يعني بتشوف إيه اللي بيخلي الحاجة دي 'Different' عن غيرها.",
+  "phonetic_us": "ˌdɪfəˈrenʃieɪt",
+  "phonetic_uk": null,
+  "syllables": "dif•fer•en•ti•ate",
+  "semantic_tags": [
+   "#Comparison",
+   "#Difference",
+   "#Analysis",
+   "#Logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To recognize or ascertain what makes someone or something different.",
+  "explanation_ar": "إنك تعرف الفرق بين حاجتين أو أكتر، أو تخلي حاجة مميزة ومختلفة عن الباقي.",
+  "examples": [
+   "It is hard to differentiate the twins.",
+   "The brand tries to differentiate itself from competitors.",
+   "Color blindness makes it hard to differentiate red from green."
+  ],
+  "translations": {
+   "arabic_ar": "يميز يفرق بين"
+  },
+  "synonyms": [
+   "distinguish",
+   "discriminate",
+   "separate",
+   "contrast"
+  ],
+  "antonyms": [
+   "confuse",
+   "mix up",
+   "equate"
+  ],
+  "collocations": [
+   "differentiate between",
+   "differentiate from",
+   "clearly differentiate",
+   "hard to differentiate"
+  ],
+  "mnemonic_ar": "جاية من 'Different' 'مختلف'.. يعني بتشوف إيه اللي بيخلي الحاجة دي 'Different' عن غيرها."
+ }
+}

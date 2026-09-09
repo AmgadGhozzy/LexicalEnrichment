@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "equitable",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "equitable",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Fair and impartial; treating everyone reasonably and equally.",
+  "explanation_ar": "عادل ومنصف للكل، بيدي كل واحد حقه بالتساوي من غير ظلم.",
+  "senses": [
+   {
+    "definition_en": "Fair and impartial; treating everyone reasonably and equally.",
+    "explanation_ar": "عادل ومنصف للجميع، يعامل كل الأطراف بنزاهة وتكافؤ.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "We must ensure an equitable distribution of resources.",
+   "They tried to find an equitable solution.",
+   "The judge sought an equitable remedy that would satisfy both parties."
+  ],
+  "translations": [
+   "مُنْصِف",
+   "عَادِل"
+  ],
+  "relations": {
+   "synonyms": [
+    "fair",
+    "just",
+    "impartial",
+    "unbiased"
+   ],
+   "antonyms": [
+    "inequitable",
+    "unfair",
+    "unjust"
+   ],
+   "collocations": [
+    "equitable distribution",
+    "equitable solution",
+    "equitable treatment"
+   ]
+  },
+  "mnemonic": "جاية من 'Equal' متساوي.. الـ 'Equitable' هو الحل اللي بيخلي الناس 'Equal'.",
+  "phonetic_us": "ˈekwɪtəbəl",
+  "phonetic_uk": "ˈekwɪtəbl",
+  "syllables": "eq•ui•table",
+  "semantic_tags": [
+   "Justice",
+   "Fairness",
+   "Law"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Fair and impartial; treating everyone reasonably and equally.",
+  "explanation_ar": "عادل ومنصف للكل، بيدي كل واحد حقه بالتساوي من غير ظلم.",
+  "examples": [
+   "We must ensure an equitable distribution of resources.",
+   "They tried to find an equitable solution.",
+   "The judge sought an equitable remedy that would satisfy both parties."
+  ],
+  "translations": {
+   "arabic_ar": "مُنْصِف عَادِل"
+  },
+  "synonyms": [
+   "fair",
+   "just",
+   "impartial",
+   "unbiased"
+  ],
+  "antonyms": [
+   "inequitable",
+   "unfair",
+   "unjust"
+  ],
+  "collocations": [
+   "equitable distribution",
+   "equitable solution",
+   "equitable treatment"
+  ],
+  "mnemonic_ar": "جاية من 'Equal' متساوي.. الـ 'Equitable' هو الحل اللي بيخلي الناس 'Equal'."
+ }
+}

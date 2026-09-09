@@ -1,0 +1,80 @@
+{
+ "identity": {
+  "lemma": "butter",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "butter",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+  "explanation_ar": "الزبدة الصفرا اللي بنعملها من اللبن وبنحطها على العيش أو نطبخ بيها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+    "definition_ar": "مادة دهنية صفراء ناعمة تُصنع من الحليب وتُستخدم في الطهي أو تُدهن على الخبز.",
+    "examples": [
+     "She put some butter on the toast.",
+     "You need butter to bake a cake.",
+     "Fry the onions in a little butter."
+    ]
+   }
+  ],
+  "examples": [
+   "She put some butter on the toast.",
+   "You need butter to bake a cake.",
+   "Fry the onions in a little butter."
+  ],
+  "translations": [
+   "زبدة"
+  ],
+  "relations": {
+   "synonyms": [
+    "spread"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "melted butter",
+    "bread and butter",
+    "butter knife",
+    "peanut butter"
+   ]
+  },
+  "mnemonic": "كلمة 'Butter' شبه 'Better'.. عشان الأكل بيبقى طعمه 'Better' لما نحط عليه 'Butter'.",
+  "phonetic_us": "ˈbʌt.əɹ",
+  "phonetic_uk": "ˈbʌt.ə",
+  "syllables": "but•ter",
+  "semantic_tags": [
+   "Dairy",
+   "Cooking",
+   "Breakfast",
+   "Fat"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A soft yellow fat obtained from milk, used in cooking and on bread.",
+  "explanation_ar": "الزبدة الصفرا اللي بنعملها من اللبن وبنحطها على العيش أو نطبخ بيها.",
+  "examples": [
+   "She put some butter on the toast.",
+   "You need butter to bake a cake.",
+   "Fry the onions in a little butter."
+  ],
+  "translations": {
+   "arabic_ar": "زبدة"
+  },
+  "synonyms": [
+   "spread"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "melted butter",
+   "bread and butter",
+   "butter knife",
+   "peanut butter"
+  ],
+  "mnemonic_ar": "كلمة 'Butter' شبه 'Better'.. عشان الأكل بيبقى طعمه 'Better' لما نحط عليه 'Butter'."
+ }
+}

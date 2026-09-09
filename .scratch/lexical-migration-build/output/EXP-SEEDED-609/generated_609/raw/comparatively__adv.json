@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "comparatively",
+  "pos": "adv",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "comparatively",
+  "pos": "adv",
+  "cefr": "B2",
+  "definition_en": "To a moderate degree as compared to something else; relatively.",
+  "explanation_ar": "نسبياً أو بالمقارنة بغيره. يعني لما تقارن حاجة بحاجة تانية.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To a moderate degree as compared to something else; relatively.",
+    "definition_ar": "نسبياً أو بالمقارنة بغيره",
+    "examples": [
+     "The city is comparatively small.",
+     "Comparatively few people know the truth.",
+     "Inflation has remained comparatively low despite the economic turmoil."
+    ]
+   }
+  ],
+  "examples": [
+   "The city is comparatively small.",
+   "Comparatively few people know the truth.",
+   "Inflation has remained comparatively low despite the economic turmoil."
+  ],
+  "translations": [
+   "نِسْبِيّاً",
+   "بِالْمُقَارَنَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "relatively",
+    "moderately",
+    "reasonably"
+   ],
+   "antonyms": [
+    "absolutely"
+   ],
+   "collocations": [
+    "comparatively speaking",
+    "comparatively easy",
+    "comparatively small",
+    "comparatively few"
+   ]
+  },
+  "mnemonic": "جاية من 'Compare' 'يقارن'.. يعني بتحكم على الحاجة بالمقارنة بغيرها",
+  "phonetic_us": "kəmˈpærətɪvli",
+  "phonetic_uk": "kəmˈpærətɪvli",
+  "syllables": "com•par•a•tive•ly",
+  "semantic_tags": [
+   "#Comparison",
+   "#Degree",
+   "#Measure"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To a moderate degree as compared to something else; relatively.",
+  "explanation_ar": "نسبياً أو بالمقارنة بغيره. يعني لما تقارن حاجة بحاجة تانية.",
+  "examples": [
+   "The city is comparatively small.",
+   "Comparatively few people know the truth.",
+   "Inflation has remained comparatively low despite the economic turmoil."
+  ],
+  "translations": {
+   "arabic_ar": "نِسْبِيّاً بِالْمُقَارَنَة"
+  },
+  "synonyms": [
+   "relatively",
+   "moderately",
+   "reasonably"
+  ],
+  "antonyms": [
+   "absolutely"
+  ],
+  "collocations": [
+   "comparatively speaking",
+   "comparatively easy",
+   "comparatively small",
+   "comparatively few"
+  ],
+  "mnemonic_ar": "جاية من 'Compare' 'يقارن'.. يعني بتحكم على الحاجة بالمقارنة بغيرها"
+ }
+}

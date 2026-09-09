@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "bankruptcy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bankruptcy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The legal state of being unable to pay outstanding debts.",
+  "explanation_ar": "حالة قانونية لما الشخص أو الشركة مايقدروش يسددوا ديونهم، يعني 'فلّسوا' رسميًا.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The legal state of being unable to pay outstanding debts.",
+    "definition_ar": "حالة قانونية رسمية تنشأ عند عجز شخص أو مؤسسة عن سداد ديونها (الإفلاس المالي).",
+    "examples": [
+     "The company declared bankruptcy last year.",
+     "Many small businesses face bankruptcy during a recession."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "The state of being completely lacking in a particular desirable quality or value.",
+    "definition_ar": "انعدام تام لقيمة معينة أو مبدأ أخلاقي (إفلاس معنوي أو فكري).",
+    "examples": [
+     "The moral bankruptcy of the regime was evident to all."
+    ]
+   }
+  ],
+  "examples": [
+   "The company declared bankruptcy last year.",
+   "Many small businesses face bankruptcy during a recession.",
+   "The moral bankruptcy of the regime was evident to all."
+  ],
+  "translations": [
+   "إفلاس",
+   "الإفلاس"
+  ],
+  "relations": {
+   "synonyms": [
+    "insolvency",
+    "ruin",
+    "liquidation",
+    "failure"
+   ],
+   "antonyms": [
+    "solvency",
+    "prosperity"
+   ],
+   "collocations": [
+    "declare bankruptcy",
+    "file for bankruptcy",
+    "face bankruptcy",
+    "moral bankruptcy"
+   ],
+   "word_family": {
+    "noun": "bankruptcy",
+    "adjective": "bankrupt",
+    "verb": "bankrupt"
+   }
+  },
+  "mnemonic": "كلمة 'Bank' (بنك) و'Rupt' تشبه 'Rupture' (تمزق أو كسر)؛ يعني علاقتك بالبنك انكسرت ولم يعد معك مال لسداد ديونك.",
+  "phonetic_us": "/ˈbæŋkrʌptsi/",
+  "phonetic_uk": "/ˈbæŋkrəptsi/",
+  "syllables": "bank•rupt•cy",
+  "semantic_tags": [
+   "#Finance",
+   "#Debt",
+   "#Law",
+   "#Business"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The legal state of being unable to pay outstanding debts.",
+  "explanation_ar": "حالة قانونية لما الشخص أو الشركة مايقدروش يسددوا ديونهم، يعني 'فلّسوا' رسميًا.",
+  "examples": [
+   "The company declared bankruptcy last year.",
+   "Many small businesses face bankruptcy during a recession.",
+   "The moral bankruptcy of the regime was evident to all."
+  ],
+  "translations": {
+   "arabic_ar": "إفلاس الإفلاس"
+  },
+  "synonyms": [
+   "insolvency",
+   "ruin",
+   "liquidation",
+   "failure"
+  ],
+  "antonyms": [
+   "solvency",
+   "prosperity"
+  ],
+  "collocations": [
+   "declare bankruptcy",
+   "file for bankruptcy",
+   "face bankruptcy",
+   "moral bankruptcy"
+  ],
+  "mnemonic_ar": "كلمة 'Bank' (بنك) و'Rupt' تشبه 'Rupture' (تمزق أو كسر)؛ يعني علاقتك بالبنك انكسرت ولم يعد معك مال لسداد ديونك."
+ }
+}

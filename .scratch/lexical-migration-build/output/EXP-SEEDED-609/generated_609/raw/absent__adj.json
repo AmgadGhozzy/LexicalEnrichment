@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "absent",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "absent",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Not present in a place; or not paying attention.",
+  "explanation_ar": "غائب ومش موجود.. أو موجود بجسمه بس عقله مش معاه 'سرحان'.",
+  "senses": [
+   {
+    "definition_en": "Not present in a particular place or situation.",
+    "definition_ar": "غائب أو غير موجود في مكان أو مناسبة."
+   },
+   {
+    "definition_en": "Showing that a person is not paying attention to what is happening; distracted.",
+    "definition_ar": "شارد الذهن أو غير منتبه لما يدور حوله."
+   }
+  ],
+  "examples": [
+   "Why were you absent from school?",
+   "Love was totally absent from his childhood.",
+   "She had an absent look on her face."
+  ],
+  "translations": [
+   "غائب",
+   "شارد الذهن"
+  ],
+  "relations": {
+   "synonyms": [
+    "missing",
+    "away",
+    "gone"
+   ],
+   "antonyms": [
+    "present",
+    "attending"
+   ],
+   "collocations": [
+    "absent from school",
+    "absent minded",
+    "conspicuously absent"
+   ]
+  },
+  "mnemonic": "قسّمها: 'Ab-sent'.. يعني 'Sent' 'أرسلناه' بعيد فهو 'Absent' 'غائب'.",
+  "phonetic_us": "ˈæb.sn̩t",
+  "phonetic_uk": "ˈæb.sənt",
+  "syllables": "ab•sent",
+  "semantic_tags": [
+   "#School",
+   "#Work",
+   "#Attendance"
+  ],
+  "ai_confidence": 0.96
+ },
+ "arm": {
+  "definition_en": "Not present in a place; or not paying attention.",
+  "explanation_ar": "غائب ومش موجود.. أو موجود بجسمه بس عقله مش معاه 'سرحان'.",
+  "examples": [
+   "Why were you absent from school?",
+   "Love was totally absent from his childhood.",
+   "She had an absent look on her face."
+  ],
+  "translations": {
+   "arabic_ar": "غائب شارد الذهن"
+  },
+  "synonyms": [
+   "missing",
+   "away",
+   "gone"
+  ],
+  "antonyms": [
+   "present",
+   "attending"
+  ],
+  "collocations": [
+   "absent from school",
+   "absent minded",
+   "conspicuously absent"
+  ],
+  "mnemonic_ar": "قسّمها: 'Ab-sent'.. يعني 'Sent' 'أرسلناه' بعيد فهو 'Absent' 'غائب'."
+ }
+}

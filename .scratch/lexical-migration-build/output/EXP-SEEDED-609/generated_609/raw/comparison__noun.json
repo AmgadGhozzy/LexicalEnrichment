@@ -1,0 +1,76 @@
+{
+ "identity": {
+  "lemma": "comparison",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "comparison",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A consideration or estimate of the similarities or dissimilarities between two things.",
+  "explanation_ar": "إنك تقارن بين حاجتين عشان تشوف إيه الشبه والاختلاف بينهم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A consideration or estimate of the similarities or dissimilarities between two things.",
+    "definition_ar": "المقارنة بين شيئين أو أكثر لتحديد أوجه الشبه والاختلاف.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "Make a comparison between the two cars.",
+   "In comparison to the old one, this is better.",
+   "There is no comparison between them."
+  ],
+  "translations": [
+   "مقارنة"
+  ],
+  "relations": {
+   "synonyms": [
+    "contrast",
+    "analogy",
+    "juxtaposition"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "in comparison with",
+    "bear comparison",
+    "draw a comparison"
+   ]
+  },
+  "mnemonic": "جاية من 'Compare' يعني يقارن.. فالـ 'Comparison' هي المقارنة.",
+  "phonetic_us": "kəmˈpær.ɪ.sən",
+  "phonetic_uk": "kəmˈpærɪsn",
+  "syllables": "com•par•i•son",
+  "semantic_tags": [
+   "#Analysis",
+   "#Logic"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A consideration or estimate of the similarities or dissimilarities between two things.",
+  "explanation_ar": "إنك تقارن بين حاجتين عشان تشوف إيه الشبه والاختلاف بينهم.",
+  "examples": [
+   "Make a comparison between the two cars.",
+   "In comparison to the old one, this is better.",
+   "There is no comparison between them."
+  ],
+  "translations": {
+   "arabic_ar": "مقارنة"
+  },
+  "synonyms": [
+   "contrast",
+   "analogy",
+   "juxtaposition"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "in comparison with",
+   "bear comparison",
+   "draw a comparison"
+  ],
+  "mnemonic_ar": "جاية من 'Compare' يعني يقارن.. فالـ 'Comparison' هي المقارنة."
+ }
+}

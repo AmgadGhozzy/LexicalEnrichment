@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "criterion",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "criterion",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A principle or standard by which something may be judged or decided.",
+  "explanation_ar": "معيار أو مقياس بنحكم بيه على حاجة إذا كانت كويسة ولا لأ.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A principle or standard by which something may be judged or decided.",
+    "definition_ar": "معيار أو مقياس للحكم أو اتخاذ القرار.",
+    "pos": "noun",
+    "examples": [
+     "The main criterion is value for money.",
+     "Academic ability is not the only criterion for admission.",
+     "Validity is the most important criterion for this scientific test."
+    ]
+   }
+  ],
+  "examples": [
+   "The main criterion is value for money.",
+   "Academic ability is not the only criterion for admission.",
+   "Validity is the most important criterion for this scientific test."
+  ],
+  "translations": [
+   "معيار",
+   "مقياس"
+  ],
+  "relations": {
+   "synonyms": [
+    "standard",
+    "measure",
+    "benchmark"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "main criterion",
+    "sole criterion",
+    "strict criterion"
+   ]
+  },
+  "mnemonic": "تشبه 'Critic' 'ناقد'.. الناقد بيحكم بناءً على 'Criterion' 'معيار' معين.",
+  "phonetic_us": "/kraɪˈtɪriən/",
+  "phonetic_uk": "/kraɪˈtɪərɪən/",
+  "syllables": "cri•te•ri•on",
+  "semantic_tags": [
+   "Standard",
+   "Judgment",
+   "Academic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A principle or standard by which something may be judged or decided.",
+  "explanation_ar": "معيار أو مقياس بنحكم بيه على حاجة إذا كانت كويسة ولا لأ.",
+  "examples": [
+   "The main criterion is value for money.",
+   "Academic ability is not the only criterion for admission.",
+   "Validity is the most important criterion for this scientific test."
+  ],
+  "translations": {
+   "arabic_ar": "معيار مقياس"
+  },
+  "synonyms": [
+   "standard",
+   "measure",
+   "benchmark"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "main criterion",
+   "sole criterion",
+   "strict criterion"
+  ],
+  "mnemonic_ar": "تشبه 'Critic' 'ناقد'.. الناقد بيحكم بناءً على 'Criterion' 'معيار' معين."
+ }
+}

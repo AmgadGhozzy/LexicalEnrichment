@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "drum",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "drum",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A musical instrument played by hitting with sticks or hands, or a large cylindrical container.",
+  "explanation_ar": "آلة موسيقية (طبلة) يُعزف عليها بالضرب باليد أو بالعصا لإصدار إيقاع، أو برميل كبير أسطواني الشكل يُستخدم لحفظ السوائل.",
+  "senses": [
+   {
+    "sense_id": "drum_noun_1",
+    "definition_en": "A musical percussion instrument played by hitting it with sticks or your hands.",
+    "definition_ar": "طبلة؛ آلة موسيقية إيقاعية تُعزف بالضرب باليد أو بالعصي.",
+    "examples": [
+     "He plays the drum in the school band.",
+     "The drummer hit the bass drum loudly."
+    ]
+   },
+   {
+    "sense_id": "drum_noun_2",
+    "definition_en": "A large cylindrical container used for storing liquids or other substances.",
+    "definition_ar": "برميل؛ وعاء أسطواني كبير لتخزين السوائل أو المواد.",
+    "examples": [
+     "They stored the oil in a large metal drum."
+    ]
+   }
+  ],
+  "examples": [
+   "He plays the drum in the school band.",
+   "They stored the oil in a large metal drum.",
+   "The drummer hit the bass drum loudly."
+  ],
+  "translations": [
+   "طَبْل",
+   "طَبْلَة",
+   "بِرْمِيل"
+  ],
+  "relations": {
+   "synonyms": [
+    "barrel",
+    "canister",
+    "cylinder"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "play the drum",
+    "oil drum",
+    "steel drum",
+    "drum beat"
+   ]
+  },
+  "mnemonic": "كلمة 'Drum' صوتها يشبه صوت الخبط على الطبلة: 'درم.. درم'.",
+  "phonetic_us": "drʌm",
+  "phonetic_uk": "drʌm",
+  "syllables": [
+   "drum"
+  ],
+  "semantic_tags": [
+   "#Music",
+   "#Instrument",
+   "#Container",
+   "#Sound"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A musical instrument played by hitting with sticks or hands, or a large cylindrical container.",
+  "explanation_ar": "آلة موسيقية (طبلة) يُعزف عليها بالضرب باليد أو بالعصا لإصدار إيقاع، أو برميل كبير أسطواني الشكل يُستخدم لحفظ السوائل.",
+  "examples": [
+   "He plays the drum in the school band.",
+   "They stored the oil in a large metal drum.",
+   "The drummer hit the bass drum loudly."
+  ],
+  "translations": {
+   "arabic_ar": "طَبْل طَبْلَة بِرْمِيل"
+  },
+  "synonyms": [
+   "barrel",
+   "canister",
+   "cylinder"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "play the drum",
+   "oil drum",
+   "steel drum",
+   "drum beat"
+  ],
+  "mnemonic_ar": "كلمة 'Drum' صوتها يشبه صوت الخبط على الطبلة: 'درم.. درم'."
+ }
+}

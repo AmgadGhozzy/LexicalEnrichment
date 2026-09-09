@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "emphatic",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "emphatic",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Expressing something forcibly and clearly.",
+  "explanation_ar": "لما تكون بتأكد على كلامك بقوة ووضوح عشان محدش يشك فيه.",
+  "senses": [
+   {
+    "definition_en": "Expressing something forcibly and clearly; decisive and unambiguous.",
+    "explanation_ar": "التعبير عن الرأي أو الموقف بقوة وحسم لا يدع مجالاً للشك، أو وصف أمر بأنه قاطع وحاسم.",
+    "examples": [
+     "The team won an emphatic victory.",
+     "She was emphatic that she would not go.",
+     "His denial of the allegations was immediate and emphatic."
+    ]
+   }
+  ],
+  "examples": [
+   "The team won an emphatic victory.",
+   "She was emphatic that she would not go.",
+   "His denial of the allegations was immediate and emphatic."
+  ],
+  "translations": [
+   "حاسم",
+   "قاطع",
+   "مؤكد"
+  ],
+  "relations": {
+   "synonyms": [
+    "firm",
+    "forceful",
+    "resounding",
+    "vigorous",
+    "categorical"
+   ],
+   "antonyms": [
+    "tentative",
+    "hesitant",
+    "weak"
+   ],
+   "collocations": [
+    "emphatic victory",
+    "emphatic denial",
+    "emphatic win",
+    "be emphatic"
+   ],
+   "word_family": {
+    "adj": "emphatic",
+    "adv": "emphatically",
+    "noun": "emphasis",
+    "verb": "emphasize"
+   }
+  },
+  "mnemonic": "جاية من 'Emphasis' 'تأكيد'.. لما تكون 'Emphatic' بتبقى بتعمل 'Emphasis' جامد.",
+  "phonetic_us": "əmˈfætək",
+  "phonetic_uk": "ɪmˈfatɪk",
+  "syllables": "em•phat•ic",
+  "semantic_tags": [
+   "#Communication",
+   "#Certainty",
+   "#Force"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Expressing something forcibly and clearly.",
+  "explanation_ar": "لما تكون بتأكد على كلامك بقوة ووضوح عشان محدش يشك فيه.",
+  "examples": [
+   "The team won an emphatic victory.",
+   "She was emphatic that she would not go.",
+   "His denial of the allegations was immediate and emphatic."
+  ],
+  "translations": {
+   "arabic_ar": "حاسم قاطع مؤكد"
+  },
+  "synonyms": [
+   "firm",
+   "forceful",
+   "resounding",
+   "vigorous",
+   "categorical"
+  ],
+  "antonyms": [
+   "tentative",
+   "hesitant",
+   "weak"
+  ],
+  "collocations": [
+   "emphatic victory",
+   "emphatic denial",
+   "emphatic win",
+   "be emphatic"
+  ],
+  "mnemonic_ar": "جاية من 'Emphasis' 'تأكيد'.. لما تكون 'Emphatic' بتبقى بتعمل 'Emphasis' جامد."
+ }
+}

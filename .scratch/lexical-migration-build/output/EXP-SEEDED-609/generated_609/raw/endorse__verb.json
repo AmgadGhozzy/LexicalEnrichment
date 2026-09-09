@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "endorse",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "endorse",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To declare one's public approval or support of someone or something.",
+  "explanation_ar": "إنك تعلن موافقتك ودعمك لحاجة أو لشخص بشكل رسمي وعلني.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To publicly support, approve of, or recommend someone or something.",
+    "definition_ar": "أن تؤيد أو تساند شخصاً أو فكرة أو منتجاً بشكل علني ورسمي."
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To sign the back of a check or financial document to approve its transfer or payment.",
+    "definition_ar": "أن تُظهِّر شيكاً (توقع على ظهره) لتجيز صرفه أو تحويله."
+   }
+  ],
+  "examples": [
+   "The newspaper decided to endorse the new policy.",
+   "Many celebrities endorse beauty products.",
+   "The committee refused to endorse the chairman's proposal."
+  ],
+  "translations": [
+   "يؤيد",
+   "يدعم",
+   "يصادق على",
+   "يُظَهِّر (شيكاً)"
+  ],
+  "relations": {
+   "synonyms": [
+    "support",
+    "back",
+    "approve",
+    "sanction"
+   ],
+   "antonyms": [
+    "oppose",
+    "criticize",
+    "reject"
+   ],
+   "collocations": [
+    "endorse a candidate",
+    "fully endorse",
+    "publicly endorse",
+    "endorse a check"
+   ]
+  },
+  "mnemonic": "'Endorse' فيها 'Door'.. كأنك بتفتح الـ 'Door' للفكرة دي وتسمح بيها، يعني بتأيدها.",
+  "phonetic_us": "ɪnˈdɔrs",
+  "phonetic_uk": "ɪnˈdɔːs",
+  "syllables": "en•dorse",
+  "semantic_tags": [
+   "Politics",
+   "Business",
+   "Communication"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To declare one's public approval or support of someone or something.",
+  "explanation_ar": "إنك تعلن موافقتك ودعمك لحاجة أو لشخص بشكل رسمي وعلني.",
+  "examples": [
+   "The newspaper decided to endorse the new policy.",
+   "Many celebrities endorse beauty products.",
+   "The committee refused to endorse the chairman's proposal."
+  ],
+  "translations": {
+   "arabic_ar": "يؤيد يدعم يصادق على يُظَهِّر (شيكاً)"
+  },
+  "synonyms": [
+   "support",
+   "back",
+   "approve",
+   "sanction"
+  ],
+  "antonyms": [
+   "oppose",
+   "criticize",
+   "reject"
+  ],
+  "collocations": [
+   "endorse a candidate",
+   "fully endorse",
+   "publicly endorse",
+   "endorse a check"
+  ],
+  "mnemonic_ar": "'Endorse' فيها 'Door'.. كأنك بتفتح الـ 'Door' للفكرة دي وتسمح بيها، يعني بتأيدها."
+ }
+}

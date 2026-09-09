@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "communist",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "communist",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to or supporting communism.",
+  "explanation_ar": "صفة تصف أي شيء متعلق بالشيوعية أو مؤيد لنظامها وأفكارها.",
+  "senses": [
+   {
+    "definition_en": "Relating to or supporting communism.",
+    "definition_ar": "متعلق بالشيوعية أو مؤيد لنظامها وأفكارها.",
+    "examples": [
+     "The country was governed under strict communist rule for several decades.",
+     "The collapse of the communist bloc dramatically reshaped European politics.",
+     "He analyzed the development of communist ideology in the twentieth century."
+    ]
+   }
+  ],
+  "examples": [
+   "The country was governed under strict communist rule for several decades.",
+   "The collapse of the communist bloc dramatically reshaped European politics.",
+   "He analyzed the development of communist ideology in the twentieth century."
+  ],
+  "translations": [
+   "شيوعي"
+  ],
+  "relations": {
+   "synonyms": [
+    "Marxist",
+    "collectivist"
+   ],
+   "antonyms": [
+    "capitalist"
+   ],
+   "collocations": [
+    "communist state",
+    "communist rule",
+    "communist bloc",
+    "communist party"
+   ]
+  },
+  "mnemonic": "نفس فكرة 'Community'.. نظام 'Communist' يعني نظام مجتمعي شامل.",
+  "phonetic_us": "ˈkɑmjənɪst",
+  "phonetic_uk": "ˈkɒmjʊnɪst",
+  "syllables": "com•mu•nist",
+  "semantic_tags": [
+   "#Politics",
+   "#Ideology",
+   "#System"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to or supporting communism.",
+  "explanation_ar": "صفة تصف أي شيء متعلق بالشيوعية أو مؤيد لنظامها وأفكارها.",
+  "examples": [
+   "The country was governed under strict communist rule for several decades.",
+   "The collapse of the communist bloc dramatically reshaped European politics.",
+   "He analyzed the development of communist ideology in the twentieth century."
+  ],
+  "translations": {
+   "arabic_ar": "شيوعي"
+  },
+  "synonyms": [
+   "Marxist",
+   "collectivist"
+  ],
+  "antonyms": [
+   "capitalist"
+  ],
+  "collocations": [
+   "communist state",
+   "communist rule",
+   "communist bloc",
+   "communist party"
+  ],
+  "mnemonic_ar": "نفس فكرة 'Community'.. نظام 'Communist' يعني نظام مجتمعي شامل."
+ }
+}

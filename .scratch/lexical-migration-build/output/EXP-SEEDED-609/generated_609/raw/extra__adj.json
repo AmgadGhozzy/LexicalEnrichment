@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "extra",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "extra",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Added to an existing or usual amount or number.",
+  "explanation_ar": "حاجة زيادة عن العادي أو الموجود.",
+  "senses": [
+   {
+    "definition_en": "Added to an existing or usual amount or number.",
+    "explanation_ar": "حاجة زيادة عن العادي أو الموجود.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "I need extra time.",
+   "Do you have an extra pen?",
+   "Take extra care when driving in snow."
+  ],
+  "translations": [
+   "إضافي",
+   "زيادة"
+  ],
+  "relations": {
+   "synonyms": [
+    "additional",
+    "more",
+    "added",
+    "supplementary",
+    "spare"
+   ],
+   "antonyms": [
+    "basic",
+    "less",
+    "fewer"
+   ],
+   "collocations": [
+    "extra time",
+    "extra money",
+    "extra large",
+    "extra cost",
+    "extra care"
+   ]
+  },
+  "mnemonic": "زي ما بتقول 'إكسترا' في العربي على الحاجة الزيادة.",
+  "phonetic_us": "ˈɛkstrə",
+  "phonetic_uk": "ˈekstrə",
+  "syllables": "ex•tra",
+  "semantic_tags": [
+   "#More",
+   "#Bonus",
+   "#Plus",
+   "#Additional",
+   "#Amount"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Added to an existing or usual amount or number.",
+  "explanation_ar": "حاجة زيادة عن العادي أو الموجود.",
+  "examples": [
+   "I need extra time.",
+   "Do you have an extra pen?",
+   "Take extra care when driving in snow."
+  ],
+  "translations": {
+   "arabic_ar": "إضافي زيادة"
+  },
+  "synonyms": [
+   "additional",
+   "more",
+   "added",
+   "supplementary",
+   "spare"
+  ],
+  "antonyms": [
+   "basic",
+   "less",
+   "fewer"
+  ],
+  "collocations": [
+   "extra time",
+   "extra money",
+   "extra large",
+   "extra cost",
+   "extra care"
+  ],
+  "mnemonic_ar": "زي ما بتقول 'إكسترا' في العربي على الحاجة الزيادة."
+ }
+}

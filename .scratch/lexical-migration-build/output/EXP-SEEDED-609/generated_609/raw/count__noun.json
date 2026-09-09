@@ -1,0 +1,87 @@
+{
+ "identity": {
+  "lemma": "count",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "count",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "The act of determining the total number of something.",
+  "explanation_ar": "العد أو الحساب، يعني عملية حساب عدد الحاجات الموجودة.",
+  "senses": [
+   {
+    "sense_id": "count_noun_1",
+    "definition_en": "The act of determining the total number of something, or the total number calculated.",
+    "definition_ar": "عملية حساب عدد الأشياء أو إجمالي العدد الناتج.",
+    "examples": [
+     "Can you do a quick count of the chairs?",
+     "The final count was twenty.",
+     "We lost count of the days."
+    ]
+   }
+  ],
+  "examples": [
+   "Can you do a quick count of the chairs?",
+   "The final count was twenty.",
+   "We lost count of the days."
+  ],
+  "translations": [
+   "عَدّ",
+   "إحصاء",
+   "حساب"
+  ],
+  "relations": {
+   "synonyms": [
+    "tally",
+    "total",
+    "calculation",
+    "enumeration"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "lose count",
+    "keep count",
+    "head count",
+    "final count"
+   ]
+  },
+  "mnemonic": "كلمة 'Count' 'يعد' قريبة من 'Account' 'حساب'.. لازم تعمل 'Count' للفلوس اللي في الـ 'Account'.",
+  "phonetic_us": "/kaʊnt/",
+  "phonetic_uk": "/kaʊnt/",
+  "syllables": "count",
+  "semantic_tags": [
+   "numbers",
+   "math",
+   "total"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The act of determining the total number of something.",
+  "explanation_ar": "العد أو الحساب، يعني عملية حساب عدد الحاجات الموجودة.",
+  "examples": [
+   "Can you do a quick count of the chairs?",
+   "The final count was twenty.",
+   "We lost count of the days."
+  ],
+  "translations": {
+   "arabic_ar": "عَدّ إحصاء حساب"
+  },
+  "synonyms": [
+   "tally",
+   "total",
+   "calculation",
+   "enumeration"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "lose count",
+   "keep count",
+   "head count",
+   "final count"
+  ],
+  "mnemonic_ar": "كلمة 'Count' 'يعد' قريبة من 'Account' 'حساب'.. لازم تعمل 'Count' للفلوس اللي في الـ 'Account'."
+ }
+}

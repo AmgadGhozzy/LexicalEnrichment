@@ -1,0 +1,107 @@
+{
+ "identity": {
+  "lemma": "breed",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "breed",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To keep animals for the purpose of producing young; to cause something to happen.",
+  "explanation_ar": "إنك تربي حيوانات عشان تنتج منها سلالات جديدة، أو بمعنى يسبب ويولد مشاعر معينة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To keep animals for the purpose of producing young, or (of animals) to mate and produce offspring.",
+    "definition_ar": "يربي حيوانات للتناسل، أو يتكاثر",
+    "examples": [
+     "They breed horses on this farm.",
+     "Mosquitoes breed in stagnant water."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To cause something, especially something undesirable or negative, to develop or happen over time.",
+    "definition_ar": "يسبّب أو يولّد (مشاعر سلبية أو مشكلات)",
+    "examples": [
+     "Poor living conditions often breed crime and social unrest."
+    ]
+   }
+  ],
+  "examples": [
+   "They breed horses on this farm.",
+   "Mosquitoes breed in stagnant water.",
+   "Poor living conditions often breed crime and social unrest."
+  ],
+  "translations": [
+   "يربي",
+   "يتكاثر",
+   "يولّد",
+   "يسبّب"
+  ],
+  "relations": {
+   "synonyms": [
+    "reproduce",
+    "generate",
+    "cause",
+    "raise"
+   ],
+   "antonyms": [
+    "destroy",
+    "extinguish"
+   ],
+   "collocations": [
+    "breed contempt",
+    "breed success",
+    "breed dogs",
+    "born and bred"
+   ],
+   "word_family": {
+    "noun": "breeder",
+    "verb": "breed",
+    "adjective": "bred"
+   }
+  },
+  "mnemonic": "كلمة 'Breed' قريبة من 'Bread' 'عيش'.. زي ما العيش بيخمر ويكتر، الـ 'Breed' يعني يتكاثر ويزيد.",
+  "phonetic_us": "/briːd/",
+  "phonetic_uk": "/briːd/",
+  "syllables": "breed",
+  "semantic_tags": [
+   "#Reproduction",
+   "#Cause",
+   "#Farming",
+   "#Origin"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To keep animals for the purpose of producing young; to cause something to happen.",
+  "explanation_ar": "إنك تربي حيوانات عشان تنتج منها سلالات جديدة، أو بمعنى يسبب ويولد مشاعر معينة.",
+  "examples": [
+   "They breed horses on this farm.",
+   "Mosquitoes breed in stagnant water.",
+   "Poor living conditions often breed crime and social unrest."
+  ],
+  "translations": {
+   "arabic_ar": "يربي يتكاثر يولّد يسبّب"
+  },
+  "synonyms": [
+   "reproduce",
+   "generate",
+   "cause",
+   "raise"
+  ],
+  "antonyms": [
+   "destroy",
+   "extinguish"
+  ],
+  "collocations": [
+   "breed contempt",
+   "breed success",
+   "breed dogs",
+   "born and bred"
+  ],
+  "mnemonic_ar": "كلمة 'Breed' قريبة من 'Bread' 'عيش'.. زي ما العيش بيخمر ويكتر، الـ 'Breed' يعني يتكاثر ويزيد."
+ }
+}

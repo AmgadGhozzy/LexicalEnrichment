@@ -1,0 +1,88 @@
+{
+ "identity": {
+  "lemma": "degenerate",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "degenerate",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Having lost the physical, mental, or moral qualities considered normal.",
+  "explanation_ar": "شخص أخلاقه باظت وانحدرت، أو حاجة حالتها تدهورت وبقت أسوأ من الأول بكتير.",
+  "senses": [
+   {
+    "pos": "adj",
+    "definition_en": "Having lost the physical, mental, or moral qualities considered normal.",
+    "definition_ar": "منحط أو فاسد أخلاقياً، أو متدهور مقارنة بحالته الأصلية."
+   }
+  ],
+  "examples": [
+   "They considered the art to be degenerate.",
+   "A degenerate society loses its values.",
+   "His corrupt and degenerate lifestyle eventually ruined him."
+  ],
+  "translations": [
+   "منحط",
+   "فاسد",
+   "متدهور",
+   "متفسخ"
+  ],
+  "relations": {
+   "synonyms": [
+    "corrupt",
+    "debased",
+    "degraded",
+    "immoral"
+   ],
+   "antonyms": [
+    "pure",
+    "virtuous",
+    "honorable"
+   ],
+   "collocations": [
+    "degenerate art",
+    "degenerate gambler",
+    "degenerate lifestyle"
+   ]
+  },
+  "mnemonic": "'De' 'إزالة' + 'Generate' 'توليد/نسل'.. كأنه نزل عن مستوى أصله وبقى منحط.",
+  "phonetic_us": "dɪˈdʒɛnərət",
+  "phonetic_uk": "dɪˈdʒenərət",
+  "syllables": "de•gen•er•ate",
+  "semantic_tags": [
+   "#Morality",
+   "#Decline"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Having lost the physical, mental, or moral qualities considered normal.",
+  "explanation_ar": "شخص أخلاقه باظت وانحدرت، أو حاجة حالتها تدهورت وبقت أسوأ من الأول بكتير.",
+  "examples": [
+   "They considered the art to be degenerate.",
+   "A degenerate society loses its values.",
+   "His corrupt and degenerate lifestyle eventually ruined him."
+  ],
+  "translations": {
+   "arabic_ar": "منحط فاسد متدهور متفسخ"
+  },
+  "synonyms": [
+   "corrupt",
+   "debased",
+   "degraded",
+   "immoral"
+  ],
+  "antonyms": [
+   "pure",
+   "virtuous",
+   "honorable"
+  ],
+  "collocations": [
+   "degenerate art",
+   "degenerate gambler",
+   "degenerate lifestyle"
+  ],
+  "mnemonic_ar": "'De' 'إزالة' + 'Generate' 'توليد/نسل'.. كأنه نزل عن مستوى أصله وبقى منحط."
+ }
+}

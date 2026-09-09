@@ -1,0 +1,109 @@
+{
+ "identity": {
+  "lemma": "branch",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "branch",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A part of a tree growing from the trunk; or a local office of a company.",
+  "explanation_ar": "ممكن يكون غصن شجرة، وممكن يكون فرع لشركة أو بنك في مكان معين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A part of a tree that grows out from the trunk.",
+    "definition_ar": "غصن شجرة",
+    "examples": [
+     "The bird sat on a branch."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "A local office or shop belonging to a larger company or organization.",
+    "definition_ar": "فرع لشركة أو مؤسسة أو بنك",
+    "examples": [
+     "Our bank has a branch near my house."
+    ]
+   },
+   {
+    "sense_id": 3,
+    "definition_en": "A part or division of a broader subject or system.",
+    "definition_ar": "فرع أو قسم من علم أو مجال معين",
+    "examples": [
+     "Botany is a branch of biology."
+    ]
+   }
+  ],
+  "examples": [
+   "The bird sat on a branch.",
+   "Our bank has a branch near my house.",
+   "Botany is a branch of biology."
+  ],
+  "translations": [
+   "فرع",
+   "غصن"
+  ],
+  "relations": {
+   "synonyms": [
+    "bough",
+    "limb",
+    "division",
+    "section"
+   ],
+   "antonyms": [
+    "trunk",
+    "headquarters"
+   ],
+   "collocations": [
+    "local branch",
+    "branch manager",
+    "olive branch",
+    "tree branch"
+   ]
+  },
+  "mnemonic": "تخيل إنك بتعمل 'Brunch' 'فطار متأخر' تحت الـ 'Branch' 'فرع' الشجرة.",
+  "phonetic_us": "bræntʃ",
+  "phonetic_uk": "brɑːntʃ",
+  "syllables": [
+   "branch"
+  ],
+  "semantic_tags": [
+   "#Nature",
+   "#Business",
+   "#Organization",
+   "#Tree"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A part of a tree growing from the trunk; or a local office of a company.",
+  "explanation_ar": "ممكن يكون غصن شجرة، وممكن يكون فرع لشركة أو بنك في مكان معين.",
+  "examples": [
+   "The bird sat on a branch.",
+   "Our bank has a branch near my house.",
+   "Botany is a branch of biology."
+  ],
+  "translations": {
+   "arabic_ar": "فرع غصن"
+  },
+  "synonyms": [
+   "bough",
+   "limb",
+   "division",
+   "section"
+  ],
+  "antonyms": [
+   "trunk",
+   "headquarters"
+  ],
+  "collocations": [
+   "local branch",
+   "branch manager",
+   "olive branch",
+   "tree branch"
+  ],
+  "mnemonic_ar": "تخيل إنك بتعمل 'Brunch' 'فطار متأخر' تحت الـ 'Branch' 'فرع' الشجرة."
+ }
+}

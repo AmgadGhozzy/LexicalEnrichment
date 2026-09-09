@@ -1,0 +1,103 @@
+{
+ "identity": {
+  "lemma": "directory",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "directory",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A book or website listing individuals or organizations with details like names and addresses.",
+  "explanation_ar": "دليل أو قايمة فيها أسماء وعناوين وأرقام تليفونات مرتبة عشان تلاقي اللي بتدور عليه.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "A book, website, or document listing people, organizations, or services in an organized way.",
+    "explanation_ar": "دليل أو قائمة منظمة تحتوي على أسماء وعناوين وأرقام أشخاص أو مؤسسات.",
+    "translations": [
+     "دليل",
+     "دليل هواتف",
+     "فهرس"
+    ]
+   },
+   {
+    "sense_id": "2",
+    "pos": "noun",
+    "definition_en": "A section in a computer file system used to store and organize files and other folders.",
+    "explanation_ar": "مجلد أو قسم في نظام ملفات الكمبيوتر يُستخدم لحفظ وتنظيم الملفات والمجلدات.",
+    "translations": [
+     "دليل",
+     "مجلد"
+    ]
+   }
+  ],
+  "examples": [
+   "The company directory lists all employees.",
+   "You can search the online directory for local businesses.",
+   "Please save the file in the root directory of the drive."
+  ],
+  "translations": [
+   "دليل",
+   "فهرس"
+  ],
+  "relations": {
+   "synonyms": [
+    "index",
+    "list",
+    "register",
+    "catalog"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "phone directory",
+    "root directory",
+    "business directory",
+    "online directory"
+   ],
+   "word_family": {
+    "verb": "direct",
+    "noun": "director",
+    "adjective": "direct",
+    "adverb": "directly"
+   }
+  },
+  "mnemonic": "من 'Direct' 'يوجه'.. الـ 'Directory' هو الدليل اللي بيوجهك لمكان أو رقم الشخص.",
+  "phonetic_us": "/daɪˈrek.tɚ.i/",
+  "phonetic_uk": "/dɪˈrek.tər.i/",
+  "syllables": "di•rec•to•ry",
+  "semantic_tags": [
+   "#Information",
+   "#Computer",
+   "#List"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A book or website listing individuals or organizations with details like names and addresses.",
+  "explanation_ar": "دليل أو قايمة فيها أسماء وعناوين وأرقام تليفونات مرتبة عشان تلاقي اللي بتدور عليه.",
+  "examples": [
+   "The company directory lists all employees.",
+   "You can search the online directory for local businesses.",
+   "Please save the file in the root directory of the drive."
+  ],
+  "translations": {
+   "arabic_ar": "دليل فهرس"
+  },
+  "synonyms": [
+   "index",
+   "list",
+   "register",
+   "catalog"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "phone directory",
+   "root directory",
+   "business directory",
+   "online directory"
+  ],
+  "mnemonic_ar": "من 'Direct' 'يوجه'.. الـ 'Directory' هو الدليل اللي بيوجهك لمكان أو رقم الشخص."
+ }
+}

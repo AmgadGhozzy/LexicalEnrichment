@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "depict",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "depict",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To represent or show something in a picture or story.",
+  "explanation_ar": "يوصف أو يصور حاجة، سواء برسمة أو بالكلام.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To represent or show something in a picture or story.",
+    "explanation_ar": "يوصف أو يصور حاجة، سواء برسمة أو بالكلام.",
+    "examples": [
+     "The artist sought to depict the raw emotion of the tragedy.",
+     "Ancient wall paintings often depict scenes of hunting and daily life.",
+     "The author tried to depict the harsh reality of urban poverty."
+    ]
+   }
+  ],
+  "examples": [
+   "The artist sought to depict the raw emotion of the tragedy.",
+   "Ancient wall paintings often depict scenes of hunting and daily life.",
+   "The author tried to depict the harsh reality of urban poverty."
+  ],
+  "translations": [
+   "يصوّر",
+   "يصف"
+  ],
+  "relations": {
+   "synonyms": [
+    "portray",
+    "represent",
+    "illustrate"
+   ],
+   "antonyms": [
+    "hide",
+    "conceal"
+   ],
+   "collocations": [
+    "depict a scene",
+    "vividly depict",
+    "accurately depict",
+    "depict life"
+   ]
+  },
+  "mnemonic": "كلمة 'Depict' فيها 'Pict' من 'Picture' 'صورة'.. يعني ترسم صورة للموقف.",
+  "phonetic_us": "dɪˈpɪkt",
+  "phonetic_uk": "dɪˈpɪkt",
+  "syllables": "de•pict",
+  "semantic_tags": [
+   "Art",
+   "Story",
+   "Description",
+   "Image"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To represent or show something in a picture or story.",
+  "explanation_ar": "يوصف أو يصور حاجة، سواء برسمة أو بالكلام.",
+  "examples": [
+   "The artist sought to depict the raw emotion of the tragedy.",
+   "Ancient wall paintings often depict scenes of hunting and daily life.",
+   "The author tried to depict the harsh reality of urban poverty."
+  ],
+  "translations": {
+   "arabic_ar": "يصوّر يصف"
+  },
+  "synonyms": [
+   "portray",
+   "represent",
+   "illustrate"
+  ],
+  "antonyms": [
+   "hide",
+   "conceal"
+  ],
+  "collocations": [
+   "depict a scene",
+   "vividly depict",
+   "accurately depict",
+   "depict life"
+  ],
+  "mnemonic_ar": "كلمة 'Depict' فيها 'Pict' من 'Picture' 'صورة'.. يعني ترسم صورة للموقف."
+ }
+}

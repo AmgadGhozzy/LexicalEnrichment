@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "especial",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "especial",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Better or greater than usual; special.",
+  "explanation_ar": "يعني 'خاص جدًا' أو 'مميز'، وتُستخدم للتأكيد على تفرد الشيء أو أهميته البالغة مقارنة بغيره.",
+  "senses": [
+   {
+    "definition_en": "Better or greater than usual; exceptional or particular.",
+    "definition_ar": "خاص جدًا أو استثنائي، ويفوق المعتاد في درجته أو أهميته.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "Pay especial attention to this rule.",
+   "This tradition is of especial interest to historians.",
+   "He treated the matter with especial care due to its sensitivity."
+  ],
+  "translations": [
+   "خاص",
+   "استثنائي",
+   "مميز"
+  ],
+  "relations": {
+   "synonyms": [
+    "special",
+    "particular",
+    "exceptional",
+    "extraordinary"
+   ],
+   "antonyms": [
+    "ordinary",
+    "common",
+    "general"
+   ],
+   "collocations": [
+    "especial interest",
+    "especial care",
+    "especial attention",
+    "especial friend"
+   ]
+  },
+  "mnemonic": "هي هي 'Special' بس قبلها 'E' للتوكيد.. يعني خاص زيادة.",
+  "phonetic_us": "ɪˈspeʃl",
+  "phonetic_uk": "ɪˈspeʃl",
+  "syllables": "es•pe•cial",
+  "semantic_tags": [
+   "Quality",
+   "Importance",
+   "Rare"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Better or greater than usual; special.",
+  "explanation_ar": "يعني 'خاص جدًا' أو 'مميز'، وتُستخدم للتأكيد على تفرد الشيء أو أهميته البالغة مقارنة بغيره.",
+  "examples": [
+   "Pay especial attention to this rule.",
+   "This tradition is of especial interest to historians.",
+   "He treated the matter with especial care due to its sensitivity."
+  ],
+  "translations": {
+   "arabic_ar": "خاص استثنائي مميز"
+  },
+  "synonyms": [
+   "special",
+   "particular",
+   "exceptional",
+   "extraordinary"
+  ],
+  "antonyms": [
+   "ordinary",
+   "common",
+   "general"
+  ],
+  "collocations": [
+   "especial interest",
+   "especial care",
+   "especial attention",
+   "especial friend"
+  ],
+  "mnemonic_ar": "هي هي 'Special' بس قبلها 'E' للتوكيد.. يعني خاص زيادة."
+ }
+}

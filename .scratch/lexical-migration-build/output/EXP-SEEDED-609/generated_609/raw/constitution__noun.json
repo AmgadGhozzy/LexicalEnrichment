@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "constitution",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "constitution",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A set of basic laws and principles that a country or organization is governed by.",
+  "explanation_ar": "الدستور، يعني مجموعة القوانين الأساسية اللي بتمشي عليها الدولة أو المنظمة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The system of fundamental principles and laws according to which a state or organization is governed.",
+    "definition_ar": "الدستور؛ القوانين والمبادئ الأساسية التي تحكم دولة أو مؤسسة.",
+    "examples": [
+     "Freedom of speech is guaranteed by the constitution.",
+     "They voted to change the constitution."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "A person's physical health, vitality, or bodily structure.",
+    "definition_ar": "البنية الجسدية؛ الحالة الصحية والبدنية للشخص وقدرته على التحمل.",
+    "examples": [
+     "He has a robust physical constitution."
+    ]
+   }
+  ],
+  "examples": [
+   "Freedom of speech is guaranteed by the constitution.",
+   "They voted to change the constitution.",
+   "He has a robust physical constitution."
+  ],
+  "translations": [
+   "دستور",
+   "بنية جسدية"
+  ],
+  "relations": {
+   "synonyms": [
+    "charter",
+    "code",
+    "fundamental law"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "written constitution",
+    "amend the constitution",
+    "draft a constitution",
+    "strong constitution"
+   ]
+  },
+  "mnemonic": "جزء منها كلمة 'Institute' 'مؤسسة'.. الـ 'Constitution' هو اللي بيأسس القوانين للمؤسسات.",
+  "phonetic_us": "ˌkɑːnstɪˈtuːʃən",
+  "phonetic_uk": "ˌkɒnstɪˈtjuːʃən",
+  "syllables": "con•sti•tu•tion",
+  "semantic_tags": [
+   "Law",
+   "Government",
+   "Rights"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A set of basic laws and principles that a country or organization is governed by.",
+  "explanation_ar": "الدستور، يعني مجموعة القوانين الأساسية اللي بتمشي عليها الدولة أو المنظمة.",
+  "examples": [
+   "Freedom of speech is guaranteed by the constitution.",
+   "They voted to change the constitution.",
+   "He has a robust physical constitution."
+  ],
+  "translations": {
+   "arabic_ar": "دستور بنية جسدية"
+  },
+  "synonyms": [
+   "charter",
+   "code",
+   "fundamental law"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "written constitution",
+   "amend the constitution",
+   "draft a constitution",
+   "strong constitution"
+  ],
+  "mnemonic_ar": "جزء منها كلمة 'Institute' 'مؤسسة'.. الـ 'Constitution' هو اللي بيأسس القوانين للمؤسسات."
+ }
+}

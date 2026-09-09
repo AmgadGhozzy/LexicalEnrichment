@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "acute",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "acute",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Severe or intense (of pain/illness); showing a perceptive understanding.",
+  "explanation_ar": "وصف للألم الشديد جداً، أو للملاحظة الدقيقة والذكية 'بصيرة حادة'.",
+  "senses": [
+   {
+    "definition_en": "Very serious, severe, or intense, especially of an illness, pain, or problem.",
+    "definition_ar": "شديد أو حاد جداً (للألم، المرض، أو الأزمات).",
+    "examples": [
+     "She suffered from acute pain in her back."
+    ]
+   },
+   {
+    "definition_en": "Showing a perceptive understanding or having keen senses.",
+    "definition_ar": "ثاقب أو حاد (للذكاء أو الحواس).",
+    "examples": [
+     "He has an acute sense of hearing.",
+     "The report provides an acute analysis of the political situation."
+    ]
+   }
+  ],
+  "examples": [
+   "She suffered from acute pain in her back.",
+   "He has an acute sense of hearing.",
+   "The report provides an acute analysis of the political situation."
+  ],
+  "translations": [
+   "حاد",
+   "شديد",
+   "ثاقب",
+   "بصير"
+  ],
+  "relations": {
+   "synonyms": [
+    "severe",
+    "sharp",
+    "intense",
+    "keen",
+    "shrewd"
+   ],
+   "antonyms": [
+    "chronic",
+    "mild",
+    "dull",
+    "obtuse"
+   ],
+   "collocations": [
+    "acute pain",
+    "acute angle",
+    "acute sense",
+    "acute shortage"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Cut' 'جرح'.. الجرح بيسبب ألم 'Acute' 'حاد'.",
+  "phonetic_us": "əˈkjuːt",
+  "phonetic_uk": "əˈkjuːt",
+  "syllables": 2,
+  "semantic_tags": [
+   "#Medical",
+   "#Pain",
+   "#Intelligence",
+   "#Geometry"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Severe or intense (of pain/illness); showing a perceptive understanding.",
+  "explanation_ar": "وصف للألم الشديد جداً، أو للملاحظة الدقيقة والذكية 'بصيرة حادة'.",
+  "examples": [
+   "She suffered from acute pain in her back.",
+   "He has an acute sense of hearing.",
+   "The report provides an acute analysis of the political situation."
+  ],
+  "translations": {
+   "arabic_ar": "حاد شديد ثاقب بصير"
+  },
+  "synonyms": [
+   "severe",
+   "sharp",
+   "intense",
+   "keen",
+   "shrewd"
+  ],
+  "antonyms": [
+   "chronic",
+   "mild",
+   "dull",
+   "obtuse"
+  ],
+  "collocations": [
+   "acute pain",
+   "acute angle",
+   "acute sense",
+   "acute shortage"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Cut' 'جرح'.. الجرح بيسبب ألم 'Acute' 'حاد'."
+ }
+}

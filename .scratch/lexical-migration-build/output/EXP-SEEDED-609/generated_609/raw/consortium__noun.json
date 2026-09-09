@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "consortium",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "consortium",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An association, typically of several business companies.",
+  "explanation_ar": "مجموعة شركات أو بنوك متحدة مع بعض عشان ينفذوا مشروع كبير صعب شركة واحدة تعمله لوحدها.",
+  "senses": [
+   {
+    "definition_en": "An association, typically of several business companies.",
+    "explanation_ar": "ائتلاف أو اتحاد مؤقت بين عدة شركات أو مؤسسات لتحقيق هدف مشترك.",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The project is funded by a consortium.",
+   "A consortium of investors bought the club.",
+   "The consortium won the bid to build the airport."
+  ],
+  "translations": [
+   "ائتلاف",
+   "اتحاد شركات",
+   "كونسورتيوم"
+  ],
+  "relations": {
+   "synonyms": [
+    "alliance",
+    "coalition",
+    "syndicate"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "international consortium",
+    "consortium of banks",
+    "form a consortium"
+   ]
+  },
+  "mnemonic": "شبه 'Concert' حفلة.. بس دي حفلة 'Consortium' لرجال الأعمال والشركات الكبيرة.",
+  "phonetic_us": "kənˈsɔːrtiəm",
+  "phonetic_uk": "kənˈsɔːtiəm",
+  "syllables": "con•sor•tium",
+  "semantic_tags": [
+   "business",
+   "finance",
+   "organization",
+   "partnership"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "An association, typically of several business companies.",
+  "explanation_ar": "مجموعة شركات أو بنوك متحدة مع بعض عشان ينفذوا مشروع كبير صعب شركة واحدة تعمله لوحدها.",
+  "examples": [
+   "The project is funded by a consortium.",
+   "A consortium of investors bought the club.",
+   "The consortium won the bid to build the airport."
+  ],
+  "translations": {
+   "arabic_ar": "ائتلاف اتحاد شركات كونسورتيوم"
+  },
+  "synonyms": [
+   "alliance",
+   "coalition",
+   "syndicate"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "international consortium",
+   "consortium of banks",
+   "form a consortium"
+  ],
+  "mnemonic_ar": "شبه 'Concert' حفلة.. بس دي حفلة 'Consortium' لرجال الأعمال والشركات الكبيرة."
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "dollar",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "dollar",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "The standard unit of money used in the US, Canada, Australia, and other countries.",
+  "explanation_ar": "عملة أمريكا وكندا ودول تانية كتير، ورمزها $.",
+  "senses": [
+   {
+    "definition_en": "The standard unit of money used in the US, Canada, Australia, and other countries.",
+    "explanation_ar": "عملة أمريكا وكندا ودول تانية كتير، ورمزها $.",
+    "examples": [
+     "I found a dollar on the floor.",
+     "The value of the dollar has increased.",
+     "The economy depends heavily on the strength of the dollar."
+    ]
+   }
+  ],
+  "examples": [
+   "I found a dollar on the floor.",
+   "The value of the dollar has increased.",
+   "The economy depends heavily on the strength of the dollar."
+  ],
+  "translations": [
+   "دولار"
+  ],
+  "relations": {
+   "synonyms": [
+    "buck",
+    "greenback"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "US dollar",
+    "dollar bill",
+    "million dollars",
+    "top dollar"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈdɑːlər",
+  "phonetic_uk": "ˈdɒlə",
+  "syllables": "dol•lar",
+  "semantic_tags": [
+   "#Money",
+   "#Currency",
+   "#Finance",
+   "#Economy"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The standard unit of money used in the US, Canada, Australia, and other countries.",
+  "explanation_ar": "عملة أمريكا وكندا ودول تانية كتير، ورمزها $.",
+  "examples": [
+   "I found a dollar on the floor.",
+   "The value of the dollar has increased.",
+   "The economy depends heavily on the strength of the dollar."
+  ],
+  "translations": {
+   "arabic_ar": "دولار"
+  },
+  "synonyms": [
+   "buck",
+   "greenback"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "US dollar",
+   "dollar bill",
+   "million dollars",
+   "top dollar"
+  ],
+  "mnemonic_ar": null
+ }
+}

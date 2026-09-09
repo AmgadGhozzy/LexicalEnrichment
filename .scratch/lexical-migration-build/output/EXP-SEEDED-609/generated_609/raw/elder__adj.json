@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "elder",
+  "pos": "adj",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "elder",
+  "pos": "adj",
+  "cefr": "B1",
+  "definition_en": "Of greater age; older (used especially of two family members).",
+  "explanation_ar": "الأكبر في السن، وغالباً بتتقال على الأخوات أو الأشخاص اللي ليهم احترام ومكانة.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Of greater age; older (used especially of two members of the same family).",
+    "definition_ar": "الأكبر سنًا (خصوصًا عند المقارنة بين فردين في العائلة).",
+    "examples": [
+     "He is my elder brother.",
+     "The elder of the two sisters is a doctor."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Senior or distinguished by long service or experience.",
+    "definition_ar": "أقدم أو ذو مكانة وخبرة طويلة.",
+    "examples": [
+     "He is an elder statesman in the party."
+    ]
+   }
+  ],
+  "examples": [
+   "He is my elder brother.",
+   "The elder of the two sisters is a doctor.",
+   "He is an elder statesman in the party."
+  ],
+  "translations": [
+   "الأكبر",
+   "أكبر سنًا"
+  ],
+  "relations": {
+   "synonyms": [
+    "older",
+    "senior"
+   ],
+   "antonyms": [
+    "younger",
+    "junior"
+   ],
+   "collocations": [
+    "elder brother",
+    "elder sister",
+    "elder statesman"
+   ]
+  },
+  "mnemonic": "شبه 'Old'.. بس للأشخاص بنقول 'Elder' عشان الاحترام.",
+  "phonetic_us": "ˈɛldər",
+  "phonetic_uk": "ˈɛldə",
+  "syllables": "el•der",
+  "semantic_tags": [
+   "#Age",
+   "#Family",
+   "#Respect"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Of greater age; older (used especially of two family members).",
+  "explanation_ar": "الأكبر في السن، وغالباً بتتقال على الأخوات أو الأشخاص اللي ليهم احترام ومكانة.",
+  "examples": [
+   "He is my elder brother.",
+   "The elder of the two sisters is a doctor.",
+   "He is an elder statesman in the party."
+  ],
+  "translations": {
+   "arabic_ar": "الأكبر أكبر سنًا"
+  },
+  "synonyms": [
+   "older",
+   "senior"
+  ],
+  "antonyms": [
+   "younger",
+   "junior"
+  ],
+  "collocations": [
+   "elder brother",
+   "elder sister",
+   "elder statesman"
+  ],
+  "mnemonic_ar": "شبه 'Old'.. بس للأشخاص بنقول 'Elder' عشان الاحترام."
+ }
+}

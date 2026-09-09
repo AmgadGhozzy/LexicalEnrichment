@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "current",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "current",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A body of water or air moving in a definite direction; a flow of electricity.",
+  "explanation_ar": "تيار، سواء تيار ميه، هواء، أو كهرباء.",
+  "senses": [
+   {
+    "definition_en": "A continuous movement of water or air in a particular direction.",
+    "explanation_ar": "حركة مستمرة للماء أو الهواء في اتجاه معين.",
+    "examples": [
+     "The river has a strong current.",
+     "Be careful of the ocean current."
+    ]
+   },
+   {
+    "definition_en": "A flow of electricity through a conductor.",
+    "explanation_ar": "تدفق الشحنات الكهربائية عبر موصل.",
+    "examples": [
+     "Switch off the electric current."
+    ]
+   }
+  ],
+  "examples": [
+   "The river has a strong current.",
+   "Be careful of the ocean current.",
+   "Switch off the electric current."
+  ],
+  "translations": [
+   "تيار"
+  ],
+  "relations": {
+   "synonyms": [
+    "flow",
+    "stream",
+    "tide",
+    "draft"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "strong current",
+    "electric current",
+    "ocean current",
+    "against the current"
+   ]
+  },
+  "mnemonic": "كلمة 'Current' 'تيار' بتفكرنا بـ 'Curry' 'كاري'.. الأكل الحراق بيعمل 'Current' 'تيار' حرارة في جسمك.",
+  "phonetic_us": "ˈkɜr.ənt",
+  "phonetic_uk": "ˈkʌr.ənt",
+  "syllables": "cur•rent",
+  "semantic_tags": [
+   "#Water",
+   "#Electricity",
+   "#Flow",
+   "#Nature"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A body of water or air moving in a definite direction; a flow of electricity.",
+  "explanation_ar": "تيار، سواء تيار ميه، هواء، أو كهرباء.",
+  "examples": [
+   "The river has a strong current.",
+   "Be careful of the ocean current.",
+   "Switch off the electric current."
+  ],
+  "translations": {
+   "arabic_ar": "تيار"
+  },
+  "synonyms": [
+   "flow",
+   "stream",
+   "tide",
+   "draft"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "strong current",
+   "electric current",
+   "ocean current",
+   "against the current"
+  ],
+  "mnemonic_ar": "كلمة 'Current' 'تيار' بتفكرنا بـ 'Curry' 'كاري'.. الأكل الحراق بيعمل 'Current' 'تيار' حرارة في جسمك."
+ }
+}

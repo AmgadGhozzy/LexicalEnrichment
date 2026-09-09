@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "efficiency",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "efficiency",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The ability to do something well without wasting time, energy, or money.",
+  "explanation_ar": "الكفاءة، يعني إنك تعمل الشغل صح وبسرعة ومن غير ما تضيع وقت أو مجهود عالفاضي.",
+  "senses": [
+   {
+    "definition_en": "The ability to do something well without wasting time, energy, or money.",
+    "explanation_ar": "القدرة على إنجاز العمل بأفضل طريقة ممكنة دون إهدار للوقت أو الجهد أو المال."
+   }
+  ],
+  "examples": [
+   "The manager praised her for her efficiency and organization.",
+   "The goal is to maximize efficiency in the production line.",
+   "Bureaucracy often hinders administrative efficiency."
+  ],
+  "translations": [
+   "كفاءة"
+  ],
+  "relations": {
+   "synonyms": [
+    "productivity",
+    "competence",
+    "effectiveness"
+   ],
+   "antonyms": [
+    "inefficiency",
+    "wastefulness"
+   ],
+   "collocations": [
+    "energy efficiency",
+    "improve efficiency",
+    "high efficiency",
+    "operational efficiency"
+   ]
+  },
+  "mnemonic": "جاية من 'Effect' 'تأثير'.. لما تكون 'Efficient' بتعمل 'Effect' قوي بأقل مجهود.",
+  "phonetic_us": "ɪˈfɪʃənsi",
+  "phonetic_uk": "ɪˈfɪʃnsi",
+  "syllables": "ef•fi•cien•cy",
+  "semantic_tags": [
+   "work",
+   "productivity",
+   "quality",
+   "performance"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The ability to do something well without wasting time, energy, or money.",
+  "explanation_ar": "الكفاءة، يعني إنك تعمل الشغل صح وبسرعة ومن غير ما تضيع وقت أو مجهود عالفاضي.",
+  "examples": [
+   "The manager praised her for her efficiency and organization.",
+   "The goal is to maximize efficiency in the production line.",
+   "Bureaucracy often hinders administrative efficiency."
+  ],
+  "translations": {
+   "arabic_ar": "كفاءة"
+  },
+  "synonyms": [
+   "productivity",
+   "competence",
+   "effectiveness"
+  ],
+  "antonyms": [
+   "inefficiency",
+   "wastefulness"
+  ],
+  "collocations": [
+   "energy efficiency",
+   "improve efficiency",
+   "high efficiency",
+   "operational efficiency"
+  ],
+  "mnemonic_ar": "جاية من 'Effect' 'تأثير'.. لما تكون 'Efficient' بتعمل 'Effect' قوي بأقل مجهود."
+ }
+}

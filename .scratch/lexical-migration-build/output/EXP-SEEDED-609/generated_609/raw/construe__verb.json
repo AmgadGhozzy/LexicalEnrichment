@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "construe",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "construe",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To interpret a word or action in a particular way.",
+  "explanation_ar": "تفهم أو تفسر كلام أو تصرف بطريقة معينة.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To interpret a word or action in a particular way.",
+    "explanation_ar": "تفهم أو تفسر كلام أو تصرف بطريقة معينة.",
+    "examples": [
+     "How should I construe your remark about my performance?",
+     "It is easy to construe his silence as an admission of guilt.",
+     "The judge had to construe the ambiguous clause in the contract."
+    ]
+   }
+  ],
+  "examples": [
+   "How should I construe your remark about my performance?",
+   "It is easy to construe his silence as an admission of guilt.",
+   "The judge had to construe the ambiguous clause in the contract."
+  ],
+  "translations": [
+   "يفسر",
+   "يؤول"
+  ],
+  "relations": {
+   "synonyms": [
+    "interpret",
+    "understand",
+    "read",
+    "take"
+   ],
+   "antonyms": [
+    "misunderstand",
+    "confuse"
+   ],
+   "collocations": [
+    "construe as",
+    "narrowly construe",
+    "strictly construe"
+   ]
+  },
+  "mnemonic": "تشبه 'Construct' 'يبني'.. إنت بتبني 'Construe' فهمك للموضوع.",
+  "phonetic_us": "kənˈstruː",
+  "phonetic_uk": "kənˈstruː",
+  "syllables": "con•strue",
+  "semantic_tags": [
+   "#Interpret",
+   "#Understand",
+   "#Meaning"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To interpret a word or action in a particular way.",
+  "explanation_ar": "تفهم أو تفسر كلام أو تصرف بطريقة معينة.",
+  "examples": [
+   "How should I construe your remark about my performance?",
+   "It is easy to construe his silence as an admission of guilt.",
+   "The judge had to construe the ambiguous clause in the contract."
+  ],
+  "translations": {
+   "arabic_ar": "يفسر يؤول"
+  },
+  "synonyms": [
+   "interpret",
+   "understand",
+   "read",
+   "take"
+  ],
+  "antonyms": [
+   "misunderstand",
+   "confuse"
+  ],
+  "collocations": [
+   "construe as",
+   "narrowly construe",
+   "strictly construe"
+  ],
+  "mnemonic_ar": "تشبه 'Construct' 'يبني'.. إنت بتبني 'Construe' فهمك للموضوع."
+ }
+}

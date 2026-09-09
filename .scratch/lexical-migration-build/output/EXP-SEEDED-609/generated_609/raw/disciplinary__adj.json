@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "disciplinary",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "disciplinary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Concerning or enforcing discipline and punishment.",
+  "explanation_ar": "تأديبي؛ متعلق بفرض النظام أو توقيع العقاب عند مخالفة القواعد.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Concerning or enforcing discipline and punishment.",
+    "explanation_ar": "متعلق بفرض النظام أو العقاب نتيجة مخالفة القواعد أو القوانين.",
+    "examples": [
+     "He faced disciplinary action for being late.",
+     "The committee held a disciplinary hearing.",
+     "She was fired after a disciplinary procedure."
+    ]
+   }
+  ],
+  "examples": [
+   "He faced disciplinary action for being late.",
+   "The committee held a disciplinary hearing.",
+   "She was fired after a disciplinary procedure."
+  ],
+  "translations": [
+   "تأديبي",
+   "انضباطي"
+  ],
+  "relations": {
+   "synonyms": [
+    "corrective",
+    "punitive",
+    "penal"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "disciplinary action",
+    "disciplinary hearing",
+    "disciplinary measure",
+    "disciplinary procedure"
+   ]
+  },
+  "mnemonic": "جاية من 'Discipline' (نظام أو انضباط).. فالإجراء الـ 'Disciplinary' هو إجراء تأديبي لفرض النظام.",
+  "phonetic_us": "ˈdɪsəpləˌnɛri",
+  "phonetic_uk": "ˈdɪsɪplɪnəri",
+  "syllables": "dis•ci•pli•nar•y",
+  "semantic_tags": [
+   "rules",
+   "punishment",
+   "law",
+   "employment"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Concerning or enforcing discipline and punishment.",
+  "explanation_ar": "تأديبي؛ متعلق بفرض النظام أو توقيع العقاب عند مخالفة القواعد.",
+  "examples": [
+   "He faced disciplinary action for being late.",
+   "The committee held a disciplinary hearing.",
+   "She was fired after a disciplinary procedure."
+  ],
+  "translations": {
+   "arabic_ar": "تأديبي انضباطي"
+  },
+  "synonyms": [
+   "corrective",
+   "punitive",
+   "penal"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "disciplinary action",
+   "disciplinary hearing",
+   "disciplinary measure",
+   "disciplinary procedure"
+  ],
+  "mnemonic_ar": "جاية من 'Discipline' (نظام أو انضباط).. فالإجراء الـ 'Disciplinary' هو إجراء تأديبي لفرض النظام."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "identity": {
+  "lemma": "defy",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "defy",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An open challenge or act of defiance.",
+  "explanation_ar": "تحدٍّ علني أو عمل يعبر عن المجابهة والعصيان.",
+  "senses": [
+   {
+    "definition_en": "An open challenge or act of defiance.",
+    "explanation_ar": "تحدٍّ علني أو عمل يعبر عن المجابهة والعصيان.",
+    "examples": [
+     "The speech was seen as an open defy to the ruling party.",
+     "Her refusal to stand was a quiet defy against the unjust rule.",
+     "He threw down a bold defy that none of his rivals dared to accept."
+    ]
+   }
+  ],
+  "examples": [
+   "The speech was seen as an open defy to the ruling party.",
+   "Her refusal to stand was a quiet defy against the unjust rule.",
+   "He threw down a bold defy that none of his rivals dared to accept."
+  ],
+  "translations": [
+   "تحدٍّ",
+   "مجابهة"
+  ],
+  "relations": {
+   "synonyms": [
+    "challenge",
+    "defiance"
+   ],
+   "antonyms": [
+    "submission",
+    "obedience"
+   ],
+   "collocations": [
+    "open defy",
+    "bold defy"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "dɪˈfaɪ",
+  "phonetic_uk": "dɪˈfaɪ",
+  "syllables": "de•fy",
+  "semantic_tags": [
+   "#Challenge",
+   "#Defiance"
+  ],
+  "ai_confidence": 0.85
+ },
+ "arm": {
+  "definition_en": "An open challenge or act of defiance.",
+  "explanation_ar": "تحدٍّ علني أو عمل يعبر عن المجابهة والعصيان.",
+  "examples": [
+   "The speech was seen as an open defy to the ruling party.",
+   "Her refusal to stand was a quiet defy against the unjust rule.",
+   "He threw down a bold defy that none of his rivals dared to accept."
+  ],
+  "translations": {
+   "arabic_ar": "تحدٍّ مجابهة"
+  },
+  "synonyms": [
+   "challenge",
+   "defiance"
+  ],
+  "antonyms": [
+   "submission",
+   "obedience"
+  ],
+  "collocations": [
+   "open defy",
+   "bold defy"
+  ],
+  "mnemonic_ar": null
+ }
+}

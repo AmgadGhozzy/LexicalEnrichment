@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "converge",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "converge",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To come from different directions and meet at one point, or to gradually become similar.",
+  "explanation_ar": "يعني يتجمعوا أو يتقابلوا في نقطة واحدة.. زي ما الطرق بتتلاقى في ميدان، أو تتقارب الأفكار والسياسات",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To move toward and meet at a particular point from different directions.",
+    "definition_ar": "يتحرك من اتجاهات مختلفة ليلتقي في نقطة واحدة",
+    "examples": [
+     "The two paths converge at the river.",
+     "The lines of perspective converge at the vanishing point."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To gradually become similar or move toward the same result, opinion, or standard.",
+    "definition_ar": "يتقارب تدريجياً في الأفكار أو السياسات أو المعايير",
+    "examples": [
+     "Economic policies across Europe are beginning to converge."
+    ]
+   }
+  ],
+  "examples": [
+   "The two paths converge at the river.",
+   "Economic policies across Europe are beginning to converge.",
+   "The lines of perspective converge at the vanishing point."
+  ],
+  "translations": [
+   "يَتَلاقَى",
+   "يَتَجَمَّع",
+   "يَتَقَارَب"
+  ],
+  "relations": {
+   "synonyms": [
+    "meet",
+    "join",
+    "merge",
+    "intersect"
+   ],
+   "antonyms": [
+    "diverge",
+    "scatter",
+    "separate"
+   ],
+   "collocations": [
+    "converge on",
+    "opinions converge",
+    "paths converge"
+   ]
+  },
+  "mnemonic": "عكس 'Diverge'.. افتكر 'Conversation' الناس بتتجمع 'Converge' عشان تتكلم",
+  "phonetic_us": "kənˈvɜrdʒ",
+  "phonetic_uk": "kənˈvɜːdʒ",
+  "syllables": "con•verge",
+  "semantic_tags": [
+   "#Meeting",
+   "#Intersection",
+   "#Geometry",
+   "#Agreement"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To come from different directions and meet at one point, or to gradually become similar.",
+  "explanation_ar": "يعني يتجمعوا أو يتقابلوا في نقطة واحدة.. زي ما الطرق بتتلاقى في ميدان، أو تتقارب الأفكار والسياسات",
+  "examples": [
+   "The two paths converge at the river.",
+   "Economic policies across Europe are beginning to converge.",
+   "The lines of perspective converge at the vanishing point."
+  ],
+  "translations": {
+   "arabic_ar": "يَتَلاقَى يَتَجَمَّع يَتَقَارَب"
+  },
+  "synonyms": [
+   "meet",
+   "join",
+   "merge",
+   "intersect"
+  ],
+  "antonyms": [
+   "diverge",
+   "scatter",
+   "separate"
+  ],
+  "collocations": [
+   "converge on",
+   "opinions converge",
+   "paths converge"
+  ],
+  "mnemonic_ar": "عكس 'Diverge'.. افتكر 'Conversation' الناس بتتجمع 'Converge' عشان تتكلم"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "fan",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "fan",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A person who has a strong interest in or admiration for a particular person or thing; or a cooling device.",
+  "explanation_ar": "تأتي بمعنيين شائعين: مروحة التبريد والتهوية، أو الشخص المعجب والمشجع لشخص أو فريق أو شيء ما.",
+  "senses": [
+   {
+    "definition_en": "A device or machine with rotating blades used to create a current of air for cooling or ventilation.",
+    "explanation_ar": "مِرْوَحَة؛ جهاز أو أداة لتحريك الهواء والتبريد.",
+    "translations": [
+     "مِرْوَحَة"
+    ]
+   },
+   {
+    "definition_en": "A person who has a strong interest in or enthusiasm for a particular sport, celebrity, team, or activity.",
+    "explanation_ar": "مُعْجَب أو مُشَجِّع لشخص أو فريق أو مجال معين.",
+    "translations": [
+     "مُعْجَب",
+     "مُشَجِّع"
+    ]
+   }
+  ],
+  "examples": [
+   "Turn on the fan, it's hot.",
+   "I am a football fan.",
+   "She is a big fan of that singer."
+  ],
+  "translations": [
+   "مُعْجَب",
+   "مُشَجِّع",
+   "مِرْوَحَة"
+  ],
+  "relations": {
+   "synonyms": [
+    "supporter",
+    "admirer",
+    "enthusiast",
+    "ventilator"
+   ],
+   "antonyms": [
+    "critic",
+    "hater"
+   ],
+   "collocations": [
+    "ceiling fan",
+    "big fan",
+    "football fan",
+    "fan base"
+   ]
+  },
+  "mnemonic": "تذكر أن كلمة Fan تشبه كلمة (فَنّ)؛ فالمشجع (fan) يعشق فَنّ فريقه المفضل، أو تخيل مشجعاً يحمل مروحة (fan) في المدرجات الحارة.",
+  "phonetic_us": "fæn",
+  "phonetic_uk": "fæn",
+  "syllables": [
+   "fan"
+  ],
+  "semantic_tags": [
+   "Sports",
+   "Celebrity",
+   "Appliances",
+   "Electronics"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who has a strong interest in or admiration for a particular person or thing; or a cooling device.",
+  "explanation_ar": "تأتي بمعنيين شائعين: مروحة التبريد والتهوية، أو الشخص المعجب والمشجع لشخص أو فريق أو شيء ما.",
+  "examples": [
+   "Turn on the fan, it's hot.",
+   "I am a football fan.",
+   "She is a big fan of that singer."
+  ],
+  "translations": {
+   "arabic_ar": "مُعْجَب مُشَجِّع مِرْوَحَة"
+  },
+  "synonyms": [
+   "supporter",
+   "admirer",
+   "enthusiast",
+   "ventilator"
+  ],
+  "antonyms": [
+   "critic",
+   "hater"
+  ],
+  "collocations": [
+   "ceiling fan",
+   "big fan",
+   "football fan",
+   "fan base"
+  ],
+  "mnemonic_ar": "تذكر أن كلمة Fan تشبه كلمة (فَنّ)؛ فالمشجع (fan) يعشق فَنّ فريقه المفضل، أو تخيل مشجعاً يحمل مروحة (fan) في المدرجات الحارة."
+ }
+}

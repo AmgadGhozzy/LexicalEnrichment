@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "buyer",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "buyer",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A person who makes a purchase.",
+  "explanation_ar": "الشخص اللي بيشتري حاجة.. الزبون.",
+  "senses": [
+   {
+    "definition_en": "A person who makes a purchase.",
+    "explanation_ar": "الشخص اللي بيشتري حاجة.. الزبون.",
+    "examples": [
+     "The buyer paid cash.",
+     "We found a buyer for our car.",
+     "The buyer is responsible for shipping costs."
+    ]
+   }
+  ],
+  "examples": [
+   "The buyer paid cash.",
+   "We found a buyer for our car.",
+   "The buyer is responsible for shipping costs."
+  ],
+  "translations": [
+   "مشتري",
+   "زبون"
+  ],
+  "relations": {
+   "synonyms": [
+    "purchaser",
+    "customer",
+    "consumer",
+    "shopper"
+   ],
+   "antonyms": [
+    "seller",
+    "vendor"
+   ],
+   "collocations": [
+    "first-time buyer",
+    "potential buyer",
+    "buyer's market"
+   ]
+  },
+  "mnemonic": "جاية من 'Buy' يشتري.. يبقى 'Buyer' هو المشتري.",
+  "phonetic_us": "ˈbaɪər",
+  "phonetic_uk": "ˈbaɪə",
+  "syllables": "buy•er",
+  "semantic_tags": [
+   "Shopping",
+   "Business",
+   "Money"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who makes a purchase.",
+  "explanation_ar": "الشخص اللي بيشتري حاجة.. الزبون.",
+  "examples": [
+   "The buyer paid cash.",
+   "We found a buyer for our car.",
+   "The buyer is responsible for shipping costs."
+  ],
+  "translations": {
+   "arabic_ar": "مشتري زبون"
+  },
+  "synonyms": [
+   "purchaser",
+   "customer",
+   "consumer",
+   "shopper"
+  ],
+  "antonyms": [
+   "seller",
+   "vendor"
+  ],
+  "collocations": [
+   "first-time buyer",
+   "potential buyer",
+   "buyer's market"
+  ],
+  "mnemonic_ar": "جاية من 'Buy' يشتري.. يبقى 'Buyer' هو المشتري."
+ }
+}

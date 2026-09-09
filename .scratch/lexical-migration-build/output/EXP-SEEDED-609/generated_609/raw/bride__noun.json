@@ -1,0 +1,81 @@
+{
+ "identity": {
+  "lemma": "bride",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "bride",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A woman on her wedding day or just before it.",
+  "explanation_ar": "المرأة في يوم زفافها أو قبله مباشرة (العروس أو العروسة).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A woman on her wedding day or just before it.",
+    "definition_ar": "المرأة في يوم زفافها أو قبله مباشرة (العروس).",
+    "pos": "noun"
+   }
+  ],
+  "examples": [
+   "The bride wore a traditional white dress.",
+   "The bride and groom cut the wedding cake together.",
+   "She was a nervous bride on her wedding day."
+  ],
+  "translations": [
+   "عروس",
+   "عروسة"
+  ],
+  "relations": {
+   "synonyms": [
+    "newlywed"
+   ],
+   "antonyms": [
+    "groom",
+    "bridegroom"
+   ],
+   "collocations": [
+    "bride and groom",
+    "blushing bride",
+    "bride-to-be"
+   ]
+  },
+  "mnemonic": "'Bride' قريبة من 'Pride' (فخر).. العريس يشعر بالـ 'Pride' بعروسته الـ 'Bride'.",
+  "phonetic_us": "/braɪd/",
+  "phonetic_uk": "/braɪd/",
+  "syllables": "bride",
+  "semantic_tags": [
+   "wedding",
+   "marriage",
+   "people",
+   "celebration"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A woman on her wedding day or just before it.",
+  "explanation_ar": "المرأة في يوم زفافها أو قبله مباشرة (العروس أو العروسة).",
+  "examples": [
+   "The bride wore a traditional white dress.",
+   "The bride and groom cut the wedding cake together.",
+   "She was a nervous bride on her wedding day."
+  ],
+  "translations": {
+   "arabic_ar": "عروس عروسة"
+  },
+  "synonyms": [
+   "newlywed"
+  ],
+  "antonyms": [
+   "groom",
+   "bridegroom"
+  ],
+  "collocations": [
+   "bride and groom",
+   "blushing bride",
+   "bride-to-be"
+  ],
+  "mnemonic_ar": "'Bride' قريبة من 'Pride' (فخر).. العريس يشعر بالـ 'Pride' بعروسته الـ 'Bride'."
+ }
+}

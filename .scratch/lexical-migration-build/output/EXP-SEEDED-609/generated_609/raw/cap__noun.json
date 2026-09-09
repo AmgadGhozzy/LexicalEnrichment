@@ -1,0 +1,106 @@
+{
+ "identity": {
+  "lemma": "cap",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "cap",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A kind of soft, flat hat, or a protective lid for a bottle.",
+  "explanation_ar": "الطاقية أو الكاب، وممكن تيجي بمعنى غطا الإزازة.",
+  "senses": [
+   {
+    "sense_number": 1,
+    "definition_en": "A soft, flat hat, usually with a peak at the front.",
+    "definition_ar": "قبعة خفيفة (كاب) لها حافة أمامية.",
+    "examples": [
+     "He is wearing a cap."
+    ]
+   },
+   {
+    "sense_number": 2,
+    "definition_en": "A small protective lid or cover for a bottle, tube, or pen.",
+    "definition_ar": "غطاء زجاجة أو قلم.",
+    "examples": [
+     "Put the cap back on the bottle."
+    ]
+   },
+   {
+    "sense_number": 3,
+    "definition_en": "An authorized upper limit placed on something, such as spending or prices.",
+    "definition_ar": "حد أقصى مفروض على الأسعار أو الإنفاق.",
+    "examples": [
+     "The government put a cap on prices."
+    ]
+   }
+  ],
+  "examples": [
+   "He is wearing a cap.",
+   "Put the cap back on the bottle.",
+   "The government put a cap on prices."
+  ],
+  "translations": [
+   "قبعة",
+   "كاب",
+   "غطاء",
+   "حد أقصى"
+  ],
+  "relations": {
+   "synonyms": [
+    "hat",
+    "lid",
+    "cover",
+    "limit"
+   ],
+   "antonyms": [
+    "floor"
+   ],
+   "collocations": [
+    "baseball cap",
+    "bottle cap",
+    "price cap",
+    "lens cap"
+   ]
+  },
+  "mnemonic": "الـ 'Captain' بيلبس 'Cap' مميزة.",
+  "phonetic_us": "kæp",
+  "phonetic_uk": "kæp",
+  "syllables": "cap",
+  "semantic_tags": [
+   "#Clothing",
+   "#Container",
+   "#Limit"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A kind of soft, flat hat, or a protective lid for a bottle.",
+  "explanation_ar": "الطاقية أو الكاب، وممكن تيجي بمعنى غطا الإزازة.",
+  "examples": [
+   "He is wearing a cap.",
+   "Put the cap back on the bottle.",
+   "The government put a cap on prices."
+  ],
+  "translations": {
+   "arabic_ar": "قبعة كاب غطاء حد أقصى"
+  },
+  "synonyms": [
+   "hat",
+   "lid",
+   "cover",
+   "limit"
+  ],
+  "antonyms": [
+   "floor"
+  ],
+  "collocations": [
+   "baseball cap",
+   "bottle cap",
+   "price cap",
+   "lens cap"
+  ],
+  "mnemonic_ar": "الـ 'Captain' بيلبس 'Cap' مميزة."
+ }
+}

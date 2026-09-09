@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "convert",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "convert",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To change the form, character, or function of something.",
+  "explanation_ar": "يغيّر حاجة من شكل لشكل، زي تحويل العملة، أو تحويل ملف PDF لـ Word، أو تغيير الدين.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To change something from one form, state, or system to another.",
+    "explanation_ar": "يحوّل شيئاً من حالة أو شكل أو نظام إلى آخر."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To change one's religious faith or beliefs, or persuade someone to do so.",
+    "explanation_ar": "يغيّر دينه أو معتقده، أو يقنع شخصاً باعتناق دين جديد."
+   }
+  ],
+  "examples": [
+   "You can convert the file to PDF format easily.",
+   "The solar cells convert sunlight directly into electricity.",
+   "They plan to convert the old warehouse into luxury apartments."
+  ],
+  "translations": [
+   "يحوّل",
+   "يغيّر",
+   "يعتنق"
+  ],
+  "relations": {
+   "synonyms": [
+    "transform",
+    "change",
+    "alter",
+    "modify",
+    "adapt"
+   ],
+   "antonyms": [
+    "maintain",
+    "preserve"
+   ],
+   "collocations": [
+    "convert into",
+    "convert currency",
+    "convert a file",
+    "convert to Islam"
+   ]
+  },
+  "mnemonic": "اربطها بـ 'Cover'.. لما تعمل 'Convert' لحاجة، كأنك بتغير الـ 'Cover' والشكل الخارجي والمضمون.",
+  "phonetic_us": "kənˈvɜːrt",
+  "phonetic_uk": "kənˈvɜːt",
+  "syllables": "con•vert",
+  "semantic_tags": [
+   "Change",
+   "Transformation",
+   "Technology",
+   "Religion"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To change the form, character, or function of something.",
+  "explanation_ar": "يغيّر حاجة من شكل لشكل، زي تحويل العملة، أو تحويل ملف PDF لـ Word، أو تغيير الدين.",
+  "examples": [
+   "You can convert the file to PDF format easily.",
+   "The solar cells convert sunlight directly into electricity.",
+   "They plan to convert the old warehouse into luxury apartments."
+  ],
+  "translations": {
+   "arabic_ar": "يحوّل يغيّر يعتنق"
+  },
+  "synonyms": [
+   "transform",
+   "change",
+   "alter",
+   "modify",
+   "adapt"
+  ],
+  "antonyms": [
+   "maintain",
+   "preserve"
+  ],
+  "collocations": [
+   "convert into",
+   "convert currency",
+   "convert a file",
+   "convert to Islam"
+  ],
+  "mnemonic_ar": "اربطها بـ 'Cover'.. لما تعمل 'Convert' لحاجة، كأنك بتغير الـ 'Cover' والشكل الخارجي والمضمون."
+ }
+}

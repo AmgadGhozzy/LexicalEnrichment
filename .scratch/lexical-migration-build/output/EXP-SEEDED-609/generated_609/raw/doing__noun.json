@@ -1,0 +1,98 @@
+{
+ "identity": {
+  "lemma": "doing",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "doing",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "Action or performance of a task, or the effort and responsibility involved in bringing something about.",
+  "explanation_ar": "الفعل أو العمل الذي يقوم به الشخص، أو بذل مجهود لإنجاز شيء، أو مسؤولية شخص عن حدوث أمر ما.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "The action, activity, or effort involved in accomplishing something.",
+    "definition_ar": "القيام بالعمل أو بذل مجهود لإنجاز شيء ما.",
+    "examples": [
+     "It will take some doing to fix this.",
+     "The doing of the task is more important than the planning."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "Someone's personal responsibility or involvement in bringing about a result.",
+    "definition_ar": "مسؤولية شخص أو تدخله في حدوث أمر ما (من صُنعه أو فِعله).",
+    "examples": [
+     "It was your doing, not mine."
+    ]
+   }
+  ],
+  "examples": [
+   "It will take some doing to fix this.",
+   "It was your doing, not mine.",
+   "The doing of the task is more important than the planning."
+  ],
+  "translations": [
+   "عمل",
+   "فعل",
+   "صنع",
+   "مسؤولية"
+  ],
+  "relations": {
+   "synonyms": [
+    "action",
+    "act",
+    "deed",
+    "performance"
+   ],
+   "antonyms": [
+    "idleness",
+    "inactivity"
+   ],
+   "collocations": [
+    "take some doing",
+    "be someone's doing"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "ˈduːɪŋ",
+  "phonetic_uk": "ˈduːɪŋ",
+  "syllables": "do•ing",
+  "semantic_tags": [
+   "Action",
+   "Work",
+   "Effort",
+   "Activity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Action or performance of a task, or the effort and responsibility involved in bringing something about.",
+  "explanation_ar": "الفعل أو العمل الذي يقوم به الشخص، أو بذل مجهود لإنجاز شيء، أو مسؤولية شخص عن حدوث أمر ما.",
+  "examples": [
+   "It will take some doing to fix this.",
+   "It was your doing, not mine.",
+   "The doing of the task is more important than the planning."
+  ],
+  "translations": {
+   "arabic_ar": "عمل فعل صنع مسؤولية"
+  },
+  "synonyms": [
+   "action",
+   "act",
+   "deed",
+   "performance"
+  ],
+  "antonyms": [
+   "idleness",
+   "inactivity"
+  ],
+  "collocations": [
+   "take some doing",
+   "be someone's doing"
+  ],
+  "mnemonic_ar": null
+ }
+}

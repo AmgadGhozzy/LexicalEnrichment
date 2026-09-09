@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "defer",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "defer",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To put off to a later time; postpone.",
+  "explanation_ar": "يعني تأجل حاجة لوقت تاني.. زي تأجيل الدفع أو القرار، وتأتي أحياناً بمعنى النزول عند رأي شخص آخر احتراماً له.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To put off to a later time; postpone.",
+    "definition_ar": "يؤجل أو يرجئ عملاً أو قراراً إلى وقت لاحق.",
+    "examples": [
+     "They decided to defer the meeting until next week.",
+     "Customers may choose to defer payment for up to six months."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To yield or submit respectfully to the opinion, judgment, or wishes of another.",
+    "definition_ar": "ينزل عند رأي شخص آخر أو يخضع لحكمه احتراماً وتقديراً له.",
+    "examples": [
+     "I will defer to your greater knowledge on this subject."
+    ]
+   }
+  ],
+  "examples": [
+   "They decided to defer the meeting until next week.",
+   "Customers may choose to defer payment for up to six months.",
+   "I will defer to your greater knowledge on this subject."
+  ],
+  "translations": [
+   "يُؤَجِّل",
+   "يُرْجِئ",
+   "يَنْزِلُ عِنْدَ رَأْيِ فُلَان"
+  ],
+  "relations": {
+   "synonyms": [
+    "postpone",
+    "delay",
+    "suspend",
+    "yield"
+   ],
+   "antonyms": [
+    "expedite",
+    "hasten",
+    "advance"
+   ],
+   "collocations": [
+    "defer payment",
+    "defer a decision",
+    "defer to"
+   ]
+  },
+  "mnemonic": "كلمة 'Defer' قريبة من 'Different'.. هعملها في وقت 'Different' 'تاني'.. يعني بأجلها",
+  "phonetic_us": "dɪˈfɜr",
+  "phonetic_uk": "dɪˈfɜː(r)",
+  "syllables": "de•fer",
+  "semantic_tags": [
+   "delay",
+   "postpone",
+   "time",
+   "respect"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To put off to a later time; postpone.",
+  "explanation_ar": "يعني تأجل حاجة لوقت تاني.. زي تأجيل الدفع أو القرار، وتأتي أحياناً بمعنى النزول عند رأي شخص آخر احتراماً له.",
+  "examples": [
+   "They decided to defer the meeting until next week.",
+   "Customers may choose to defer payment for up to six months.",
+   "I will defer to your greater knowledge on this subject."
+  ],
+  "translations": {
+   "arabic_ar": "يُؤَجِّل يُرْجِئ يَنْزِلُ عِنْدَ رَأْيِ فُلَان"
+  },
+  "synonyms": [
+   "postpone",
+   "delay",
+   "suspend",
+   "yield"
+  ],
+  "antonyms": [
+   "expedite",
+   "hasten",
+   "advance"
+  ],
+  "collocations": [
+   "defer payment",
+   "defer a decision",
+   "defer to"
+  ],
+  "mnemonic_ar": "كلمة 'Defer' قريبة من 'Different'.. هعملها في وقت 'Different' 'تاني'.. يعني بأجلها"
+ }
+}

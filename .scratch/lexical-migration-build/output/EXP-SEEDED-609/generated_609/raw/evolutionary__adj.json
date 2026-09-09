@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "evolutionary",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "evolutionary",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relating to the gradual development of something.",
+  "explanation_ar": "تطوري.. متعلق بعملية التطور والتغيير التدريجي للكائنات أو الأشياء.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Relating to the gradual development of something, especially living organisms or progressive systems.",
+    "explanation_ar": "متعلق بعملية التطور والتغير التدريجي للكائنات الحية أو الأنظمة.",
+    "examples": [
+     "He studies evolutionary biology at the university.",
+     "The company adopted an evolutionary approach to software development.",
+     "Scientists believe that this physical trait served an evolutionary purpose."
+    ]
+   }
+  ],
+  "examples": [
+   "He studies evolutionary biology at the university.",
+   "The company adopted an evolutionary approach to software development.",
+   "Scientists believe that this physical trait served an evolutionary purpose."
+  ],
+  "translations": [
+   "تطوري"
+  ],
+  "relations": {
+   "synonyms": [
+    "developmental",
+    "gradual",
+    "progressive"
+   ],
+   "antonyms": [
+    "revolutionary",
+    "static"
+   ],
+   "collocations": [
+    "evolutionary biology",
+    "evolutionary process",
+    "evolutionary theory"
+   ],
+   "word_family": {
+    "noun": "evolution",
+    "verb": "evolve",
+    "adverb": "evolutionarily"
+   }
+  },
+  "mnemonic": "جاية من 'Evolution' 'تطور'.. حاجة ليها علاقة بالتطور عبر الزمن.",
+  "phonetic_us": "ˌɛvəˈluːʃənɛɹi",
+  "phonetic_uk": "ˌiːvəˈluːʃənri",
+  "syllables": "evo•lu•tion•ary",
+  "semantic_tags": [
+   "#Biology",
+   "#Change",
+   "#Progress"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relating to the gradual development of something.",
+  "explanation_ar": "تطوري.. متعلق بعملية التطور والتغيير التدريجي للكائنات أو الأشياء.",
+  "examples": [
+   "He studies evolutionary biology at the university.",
+   "The company adopted an evolutionary approach to software development.",
+   "Scientists believe that this physical trait served an evolutionary purpose."
+  ],
+  "translations": {
+   "arabic_ar": "تطوري"
+  },
+  "synonyms": [
+   "developmental",
+   "gradual",
+   "progressive"
+  ],
+  "antonyms": [
+   "revolutionary",
+   "static"
+  ],
+  "collocations": [
+   "evolutionary biology",
+   "evolutionary process",
+   "evolutionary theory"
+  ],
+  "mnemonic_ar": "جاية من 'Evolution' 'تطور'.. حاجة ليها علاقة بالتطور عبر الزمن."
+ }
+}

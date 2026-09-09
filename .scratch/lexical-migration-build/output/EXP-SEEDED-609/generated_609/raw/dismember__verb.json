@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "dismember",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "dismember",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To cut or tear off the limbs of a person or animal, or to divide a country or organization into parts.",
+  "explanation_ar": "يقطع أوصال شخص أو حيوان (يفصل أطرافه عن جسده)، أو يقسّم دولة أو منظمة إلى أجزاء أصغر.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To cut or tear off the limbs of a person or animal.",
+    "definition_ar": "يقطع أوصال جسد ويفصل أطرافه."
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To divide or partition a country, territory, or organization into smaller parts.",
+    "definition_ar": "يقسم أو يجزئ دولة أو مؤسسة إلى أجزاء منفصلة."
+   }
+  ],
+  "examples": [
+   "The killer attempted to dismember the body.",
+   "Critics argued the policy would dismember the national health service.",
+   "Victorious powers plotted to dismember the empire and seize its territories."
+  ],
+  "translations": [
+   "يقطع أوصال",
+   "يمزق",
+   "يقسم"
+  ],
+  "relations": {
+   "synonyms": [
+    "mutilate",
+    "sever",
+    "partition",
+    "disjoint"
+   ],
+   "antonyms": [
+    "assemble",
+    "unite"
+   ],
+   "collocations": [
+    "dismember a body",
+    "dismember an empire",
+    "brutally dismember"
+   ]
+  },
+  "mnemonic": "'Member' يعني عضو.. 'Dis-member' يعني تفك الأعضاء من بعضها.",
+  "phonetic_us": "dɪsˈmɛmbər",
+  "phonetic_uk": "dɪsˈmembə",
+  "syllables": "dis•mem•ber",
+  "semantic_tags": [
+   "#Cut",
+   "#Violence",
+   "#Body",
+   "#Separate"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To cut or tear off the limbs of a person or animal, or to divide a country or organization into parts.",
+  "explanation_ar": "يقطع أوصال شخص أو حيوان (يفصل أطرافه عن جسده)، أو يقسّم دولة أو منظمة إلى أجزاء أصغر.",
+  "examples": [
+   "The killer attempted to dismember the body.",
+   "Critics argued the policy would dismember the national health service.",
+   "Victorious powers plotted to dismember the empire and seize its territories."
+  ],
+  "translations": {
+   "arabic_ar": "يقطع أوصال يمزق يقسم"
+  },
+  "synonyms": [
+   "mutilate",
+   "sever",
+   "partition",
+   "disjoint"
+  ],
+  "antonyms": [
+   "assemble",
+   "unite"
+  ],
+  "collocations": [
+   "dismember a body",
+   "dismember an empire",
+   "brutally dismember"
+  ],
+  "mnemonic_ar": "'Member' يعني عضو.. 'Dis-member' يعني تفك الأعضاء من بعضها."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "convenience",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "convenience",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "The state of being able to proceed with something with little effort or difficulty.",
+  "explanation_ar": "الراحة أو الملاءمة؛ أن يكون الشيء سهلاً ومناسباً لك دون مشقة أو عناء.",
+  "senses": [
+   {
+    "definition_en": "The state or quality of being useful, easy, or suitable for a particular purpose.",
+    "definition_ar": "حالة الراحة أو الملاءمة وتوفير الوقت والجهد.",
+    "examples": [
+     "Please call me at your convenience.",
+     "We bought it for the sake of convenience."
+    ]
+   },
+   {
+    "definition_en": "A useful device, feature, or service that makes a task easier.",
+    "definition_ar": "وسيلة راحة أو أداة تسهل الحياة اليومية.",
+    "examples": [
+     "The house has every modern convenience."
+    ]
+   }
+  ],
+  "examples": [
+   "Please call me at your convenience.",
+   "We bought it for the sake of convenience.",
+   "The house has every modern convenience."
+  ],
+  "translations": [
+   "راحة",
+   "ملاءمة",
+   "وسائل راحة"
+  ],
+  "relations": {
+   "synonyms": [
+    "usefulness",
+    "advantage",
+    "comfort"
+   ],
+   "antonyms": [
+    "inconvenience",
+    "difficulty"
+   ],
+   "collocations": [
+    "convenience store",
+    "at your convenience",
+    "marriage of convenience"
+   ]
+  },
+  "mnemonic": "من 'Convene' 'يجتمع' بس المعنى اتطور لـ 'مناسب'. افتكر 'Convenience Store' المحل اللي جنبك وبيريحك.",
+  "phonetic_us": "kənˈviːniəns",
+  "phonetic_uk": "kənˈviːniəns",
+  "syllables": "con•ve•nience",
+  "semantic_tags": [
+   "ease",
+   "lifestyle",
+   "shopping"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The state of being able to proceed with something with little effort or difficulty.",
+  "explanation_ar": "الراحة أو الملاءمة؛ أن يكون الشيء سهلاً ومناسباً لك دون مشقة أو عناء.",
+  "examples": [
+   "Please call me at your convenience.",
+   "We bought it for the sake of convenience.",
+   "The house has every modern convenience."
+  ],
+  "translations": {
+   "arabic_ar": "راحة ملاءمة وسائل راحة"
+  },
+  "synonyms": [
+   "usefulness",
+   "advantage",
+   "comfort"
+  ],
+  "antonyms": [
+   "inconvenience",
+   "difficulty"
+  ],
+  "collocations": [
+   "convenience store",
+   "at your convenience",
+   "marriage of convenience"
+  ],
+  "mnemonic_ar": "من 'Convene' 'يجتمع' بس المعنى اتطور لـ 'مناسب'. افتكر 'Convenience Store' المحل اللي جنبك وبيريحك."
+ }
+}

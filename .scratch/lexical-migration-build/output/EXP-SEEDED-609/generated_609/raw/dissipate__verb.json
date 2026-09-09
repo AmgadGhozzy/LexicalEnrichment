@@ -1,0 +1,102 @@
+{
+ "identity": {
+  "lemma": "dissipate",
+  "pos": "verb",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "dissipate",
+  "pos": "verb",
+  "cefr": "C2",
+  "definition_en": "To disappear or cause to disappear gradually; to waste or squander money, energy, or resources.",
+  "explanation_ar": "إن الحاجة تتلاشى وتختفي بالتدريج زي الدخان أو الضباب، أو إنك تبدد وتضيع فلوسك ومجهودك ع الفاضي.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To gradually disperse, vanish, or cause to vanish (such as smoke, fog, heat, or emotions).",
+    "definition_ar": "يتلاشى أو يتبدد تدريجياً (كالضباب، الحرارة، أو الغضب).",
+    "pos": "verb"
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To waste or squander foolishly (such as money, time, or energy).",
+    "definition_ar": "يبدد أو يسرف في تضييع المال أو الوقت أو الجهد.",
+    "pos": "verb"
+   }
+  ],
+  "examples": [
+   "His anger began to dissipate once he understood the full situation.",
+   "Special metal fins are designed to dissipate heat from the computer processor.",
+   "Without discipline, you can easily dissipate your energy on unimportant tasks."
+  ],
+  "translations": [
+   "يتبدد",
+   "يبدد",
+   "يتلاشى",
+   "يضيّع"
+  ],
+  "relations": {
+   "synonyms": [
+    "disperse",
+    "scatter",
+    "vanish",
+    "squander",
+    "waste"
+   ],
+   "antonyms": [
+    "accumulate",
+    "gather",
+    "save",
+    "concentrate"
+   ],
+   "collocations": [
+    "dissipate heat",
+    "dissipate energy",
+    "dissipate anger",
+    "clouds dissipate"
+   ]
+  },
+  "mnemonic": "'Dissipate' قريبة من 'Disappear'.. الـ 'Dissipate' يعني 'Disappear' 'يختفي' بالتدريج.",
+  "phonetic_us": "ˈdɪsɪpeɪt",
+  "phonetic_uk": "ˈdɪsɪpeɪt",
+  "syllables": "dis•si•pate",
+  "semantic_tags": [
+   "#Disappear",
+   "#Waste",
+   "#Physics"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To disappear or cause to disappear gradually; to waste or squander money, energy, or resources.",
+  "explanation_ar": "إن الحاجة تتلاشى وتختفي بالتدريج زي الدخان أو الضباب، أو إنك تبدد وتضيع فلوسك ومجهودك ع الفاضي.",
+  "examples": [
+   "His anger began to dissipate once he understood the full situation.",
+   "Special metal fins are designed to dissipate heat from the computer processor.",
+   "Without discipline, you can easily dissipate your energy on unimportant tasks."
+  ],
+  "translations": {
+   "arabic_ar": "يتبدد يبدد يتلاشى يضيّع"
+  },
+  "synonyms": [
+   "disperse",
+   "scatter",
+   "vanish",
+   "squander",
+   "waste"
+  ],
+  "antonyms": [
+   "accumulate",
+   "gather",
+   "save",
+   "concentrate"
+  ],
+  "collocations": [
+   "dissipate heat",
+   "dissipate energy",
+   "dissipate anger",
+   "clouds dissipate"
+  ],
+  "mnemonic_ar": "'Dissipate' قريبة من 'Disappear'.. الـ 'Dissipate' يعني 'Disappear' 'يختفي' بالتدريج."
+ }
+}

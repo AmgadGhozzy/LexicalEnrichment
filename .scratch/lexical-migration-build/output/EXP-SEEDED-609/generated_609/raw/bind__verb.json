@@ -1,0 +1,110 @@
+{
+ "identity": {
+  "lemma": "bind",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bind",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "To tie or fasten tightly, unite people or things, or legally oblige someone.",
+  "explanation_ar": "يربط شيئاً بإحكام، أو يجمع الناس برابط قوي، أو يُلزم قانونياً وأخلاقياً.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "To tie or fasten something tightly with rope, string, or tape.",
+    "definition_ar": "يربط شيئاً بإحكام بحبل أو شريط.",
+    "examples": [
+     "Use a rope to bind the logs."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "To unite people or things with strong emotional or social ties.",
+    "definition_ar": "يوحد أو يجمع بين الناس برابط قوي.",
+    "examples": [
+     "Shared experiences bind them together."
+    ]
+   },
+   {
+    "sense_id": "3",
+    "definition_en": "To legally or morally force someone to do something.",
+    "definition_ar": "يلزم شخصاً قانونياً أو أخلاقياً.",
+    "examples": [
+     "The terms of this agreement legally bind both parties."
+    ]
+   }
+  ],
+  "examples": [
+   "Use a rope to bind the logs.",
+   "Shared experiences bind them together.",
+   "The terms of this agreement legally bind both parties."
+  ],
+  "translations": [
+   "يربط",
+   "يقيد",
+   "يلزم"
+  ],
+  "relations": {
+   "synonyms": [
+    "tie",
+    "fasten",
+    "unite",
+    "oblige"
+   ],
+   "antonyms": [
+    "untie",
+    "release",
+    "loosen"
+   ],
+   "collocations": [
+    "bind together",
+    "legally bind",
+    "bind up"
+   ]
+  },
+  "mnemonic": "زي ما تقول 'بند'.. العقد فيه 'بند' بيعمل 'Bind' 'بيلزم' الطرفين",
+  "phonetic_us": "baɪnd",
+  "phonetic_uk": "baɪnd",
+  "syllables": [
+   "bind"
+  ],
+  "semantic_tags": [
+   "Connection",
+   "Unity",
+   "Restriction",
+   "Law"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To tie or fasten tightly, unite people or things, or legally oblige someone.",
+  "explanation_ar": "يربط شيئاً بإحكام، أو يجمع الناس برابط قوي، أو يُلزم قانونياً وأخلاقياً.",
+  "examples": [
+   "Use a rope to bind the logs.",
+   "Shared experiences bind them together.",
+   "The terms of this agreement legally bind both parties."
+  ],
+  "translations": {
+   "arabic_ar": "يربط يقيد يلزم"
+  },
+  "synonyms": [
+   "tie",
+   "fasten",
+   "unite",
+   "oblige"
+  ],
+  "antonyms": [
+   "untie",
+   "release",
+   "loosen"
+  ],
+  "collocations": [
+   "bind together",
+   "legally bind",
+   "bind up"
+  ],
+  "mnemonic_ar": "زي ما تقول 'بند'.. العقد فيه 'بند' بيعمل 'Bind' 'بيلزم' الطرفين"
+ }
+}

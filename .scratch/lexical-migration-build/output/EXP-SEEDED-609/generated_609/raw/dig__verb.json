@@ -1,0 +1,104 @@
+{
+ "identity": {
+  "lemma": "dig",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "dig",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To break up and move earth with a tool, machine, or hands, or to search deeply for information or an inner quality.",
+  "explanation_ar": "يحفر في الأرض باستخدام أداة أو باليدين، أو يبحث وينبش بعمق للوصول إلى حقيقة أو حل.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "To break up and move earth with a tool or hands.",
+    "definition_ar": "يحفر في الأرض بأداة أو بيديه.",
+    "examples": [
+     "Dogs like to dig holes in the garden."
+    ]
+   },
+   {
+    "sense_id": 2,
+    "definition_en": "To search deeply or make an effort to find hidden facts, answers, or strength.",
+    "definition_ar": "يبحث بعمق أو ينبش وراء الحقائق والمعلومات.",
+    "examples": [
+     "I had to dig deep to find the courage to speak.",
+     "Reporters began to dig into the company's financial records."
+    ]
+   }
+  ],
+  "examples": [
+   "Dogs like to dig holes in the garden.",
+   "I had to dig deep to find the courage to speak.",
+   "Reporters began to dig into the company's financial records."
+  ],
+  "translations": [
+   "يحفر",
+   "ينبش",
+   "يبحث بعمق"
+  ],
+  "relations": {
+   "synonyms": [
+    "excavate",
+    "burrow",
+    "delve",
+    "probe"
+   ],
+   "antonyms": [
+    "bury",
+    "fill",
+    "cover"
+   ],
+   "collocations": [
+    "dig a hole",
+    "dig deep",
+    "dig up",
+    "dig into"
+   ]
+  },
+  "mnemonic": "كلمة 'Dig' شبه 'Dagger' 'خنجر'.. ممكن تحفر بالـ 'Dagger'.",
+  "phonetic_us": "dɪɡ",
+  "phonetic_uk": "dɪɡ",
+  "syllables": [
+   "dig"
+  ],
+  "semantic_tags": [
+   "#Earth",
+   "#Work",
+   "#Search"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To break up and move earth with a tool, machine, or hands, or to search deeply for information or an inner quality.",
+  "explanation_ar": "يحفر في الأرض باستخدام أداة أو باليدين، أو يبحث وينبش بعمق للوصول إلى حقيقة أو حل.",
+  "examples": [
+   "Dogs like to dig holes in the garden.",
+   "I had to dig deep to find the courage to speak.",
+   "Reporters began to dig into the company's financial records."
+  ],
+  "translations": {
+   "arabic_ar": "يحفر ينبش يبحث بعمق"
+  },
+  "synonyms": [
+   "excavate",
+   "burrow",
+   "delve",
+   "probe"
+  ],
+  "antonyms": [
+   "bury",
+   "fill",
+   "cover"
+  ],
+  "collocations": [
+   "dig a hole",
+   "dig deep",
+   "dig up",
+   "dig into"
+  ],
+  "mnemonic_ar": "كلمة 'Dig' شبه 'Dagger' 'خنجر'.. ممكن تحفر بالـ 'Dagger'."
+ }
+}

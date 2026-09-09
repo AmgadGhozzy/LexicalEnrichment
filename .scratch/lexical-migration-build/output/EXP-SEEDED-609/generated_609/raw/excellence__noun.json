@@ -1,0 +1,95 @@
+{
+ "identity": {
+  "lemma": "excellence",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "excellence",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The quality of being outstanding or extremely good.",
+  "explanation_ar": "الامتياز والبراعة، إن الحاجة تكون معمولة بأعلى جودة ومفيش زيها.",
+  "senses": [
+   {
+    "definition_en": "The quality of being outstanding or extremely good.",
+    "explanation_ar": "الامتياز والبراعة والجودة الفائقة.",
+    "examples": [
+     "The school is known for its academic excellence.",
+     "They strive for excellence in customer service.",
+     "The award recognizes excellence in journalism."
+    ]
+   }
+  ],
+  "examples": [
+   "The school is known for its academic excellence.",
+   "They strive for excellence in customer service.",
+   "The award recognizes excellence in journalism."
+  ],
+  "translations": [
+   "تَمَيُّز",
+   "اِمْتِيَاز"
+  ],
+  "relations": {
+   "synonyms": [
+    "superiority",
+    "greatness",
+    "distinction",
+    "perfection"
+   ],
+   "antonyms": [
+    "mediocrity",
+    "inferiority"
+   ],
+   "collocations": [
+    "academic excellence",
+    "center of excellence",
+    "strive for excellence"
+   ],
+   "word_family": {
+    "noun": "excellence",
+    "verb": "excel",
+    "adj": "excellent",
+    "adv": "excellently"
+   }
+  },
+  "mnemonic": "جاية من 'Excel'.. يعني يتفوق.. الـ 'Excellence' هو التفوق نفسه.",
+  "phonetic_us": "ˈɛksələns",
+  "phonetic_uk": "ˈeksələns",
+  "syllables": "ex•cel•lence",
+  "semantic_tags": [
+   "#Quality",
+   "#Success",
+   "#Standard"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The quality of being outstanding or extremely good.",
+  "explanation_ar": "الامتياز والبراعة، إن الحاجة تكون معمولة بأعلى جودة ومفيش زيها.",
+  "examples": [
+   "The school is known for its academic excellence.",
+   "They strive for excellence in customer service.",
+   "The award recognizes excellence in journalism."
+  ],
+  "translations": {
+   "arabic_ar": "تَمَيُّز اِمْتِيَاز"
+  },
+  "synonyms": [
+   "superiority",
+   "greatness",
+   "distinction",
+   "perfection"
+  ],
+  "antonyms": [
+   "mediocrity",
+   "inferiority"
+  ],
+  "collocations": [
+   "academic excellence",
+   "center of excellence",
+   "strive for excellence"
+  ],
+  "mnemonic_ar": "جاية من 'Excel'.. يعني يتفوق.. الـ 'Excellence' هو التفوق نفسه."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "exception",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "exception",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person or thing that is excluded from a general statement or does not follow a rule.",
+  "explanation_ar": "الاستثناء.. يعني حاجة مختلفة عن القاعدة العامة أو مش ماشية مع الباقي.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A person or thing that is excluded from a general statement or does not follow a rule.",
+    "definition_ar": "شخص أو شيء مستثنى من قاعدة عامة أو لا يخضع لها.",
+    "examples": [
+     "There is an exception to every rule.",
+     "We are open every day, with the exception of Sunday.",
+     "I will make an exception for you this time."
+    ]
+   }
+  ],
+  "examples": [
+   "There is an exception to every rule.",
+   "We are open every day, with the exception of Sunday.",
+   "I will make an exception for you this time."
+  ],
+  "translations": [
+   "استثناء"
+  ],
+  "relations": {
+   "synonyms": [
+    "anomaly",
+    "irregularity",
+    "exclusion",
+    "deviation"
+   ],
+   "antonyms": [
+    "rule",
+    "norm",
+    "standard"
+   ],
+   "collocations": [
+    "make an exception",
+    "without exception",
+    "with the exception of"
+   ]
+  },
+  "mnemonic": "شبه علامة 'X'.. يعني حاجة بره القائمة.. 'X'-ception.",
+  "phonetic_us": "ɪkˈsepʃn",
+  "phonetic_uk": "ɪkˈsepʃn",
+  "syllables": "ex•cep•tion",
+  "semantic_tags": [
+   "#Rules",
+   "#Difference",
+   "#Logic"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person or thing that is excluded from a general statement or does not follow a rule.",
+  "explanation_ar": "الاستثناء.. يعني حاجة مختلفة عن القاعدة العامة أو مش ماشية مع الباقي.",
+  "examples": [
+   "There is an exception to every rule.",
+   "We are open every day, with the exception of Sunday.",
+   "I will make an exception for you this time."
+  ],
+  "translations": {
+   "arabic_ar": "استثناء"
+  },
+  "synonyms": [
+   "anomaly",
+   "irregularity",
+   "exclusion",
+   "deviation"
+  ],
+  "antonyms": [
+   "rule",
+   "norm",
+   "standard"
+  ],
+  "collocations": [
+   "make an exception",
+   "without exception",
+   "with the exception of"
+  ],
+  "mnemonic_ar": "شبه علامة 'X'.. يعني حاجة بره القائمة.. 'X'-ception."
+ }
+}

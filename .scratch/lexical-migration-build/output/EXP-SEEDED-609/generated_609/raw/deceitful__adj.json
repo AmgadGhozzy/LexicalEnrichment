@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "deceitful",
+  "pos": "adj",
+  "cefr": "C2"
+ },
+ "candidate": {
+  "lemma": "deceitful",
+  "pos": "adj",
+  "cefr": "C2",
+  "definition_en": "Dishonest; hiding the truth.",
+  "explanation_ar": "مخادع وغشاش، بيخبي الحقيقة عشان يضحك على الناس.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Dishonest; hiding the truth.",
+    "explanation_ar": "مخادع وغشاش، بيخبي الحقيقة عشان يضحك على الناس.",
+    "examples": [
+     "Beware of deceitful advertising.",
+     "His deceitful behavior lost him his friends.",
+     "The politician was condemned for his deceitful rhetoric."
+    ]
+   }
+  ],
+  "examples": [
+   "Beware of deceitful advertising.",
+   "His deceitful behavior lost him his friends.",
+   "The politician was condemned for his deceitful rhetoric."
+  ],
+  "translations": [
+   "مخادع",
+   "مضلل"
+  ],
+  "relations": {
+   "synonyms": [
+    "dishonest",
+    "misleading",
+    "fraudulent",
+    "insincere"
+   ],
+   "antonyms": [
+    "honest",
+    "truthful"
+   ],
+   "collocations": [
+    "deceitful practices",
+    "deceitful nature",
+    "deceitful man"
+   ]
+  },
+  "mnemonic": "جاي من 'Deceive' 'يخدع'.. شخص 'Deceitful' يعني مليان خداع.",
+  "phonetic_us": "dɪˈsiːtfəl",
+  "phonetic_uk": "dɪˈsiːtfʊl",
+  "syllables": "de•ceit•ful",
+  "semantic_tags": [
+   "#Lie",
+   "#Bad",
+   "#Personality",
+   "#Fake"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Dishonest; hiding the truth.",
+  "explanation_ar": "مخادع وغشاش، بيخبي الحقيقة عشان يضحك على الناس.",
+  "examples": [
+   "Beware of deceitful advertising.",
+   "His deceitful behavior lost him his friends.",
+   "The politician was condemned for his deceitful rhetoric."
+  ],
+  "translations": {
+   "arabic_ar": "مخادع مضلل"
+  },
+  "synonyms": [
+   "dishonest",
+   "misleading",
+   "fraudulent",
+   "insincere"
+  ],
+  "antonyms": [
+   "honest",
+   "truthful"
+  ],
+  "collocations": [
+   "deceitful practices",
+   "deceitful nature",
+   "deceitful man"
+  ],
+  "mnemonic_ar": "جاي من 'Deceive' 'يخدع'.. شخص 'Deceitful' يعني مليان خداع."
+ }
+}

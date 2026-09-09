@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "applicable",
+  "pos": "adj",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "applicable",
+  "pos": "adj",
+  "cefr": "C1",
+  "definition_en": "Relevant or appropriate to a particular situation, person, or thing.",
+  "explanation_ar": "مناسب أو ينفع يُطبّق في حالة أو موقف معين (قابل للتطبيق).",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "Relevant or appropriate to a particular situation, person, or thing; capable of being applied.",
+    "definition_ar": "قابل للتطبيق أو ملائم لموقف أو شخص معين.",
+    "pos": "adj"
+   }
+  ],
+  "examples": [
+   "Fill in the form where applicable.",
+   "The discount is applicable to students only.",
+   "The theory is applicable to many different fields."
+  ],
+  "translations": [
+   "قابل للتطبيق",
+   "ملائم",
+   "سارٍ"
+  ],
+  "relations": {
+   "synonyms": [
+    "relevant",
+    "appropriate",
+    "suitable",
+    "fitting"
+   ],
+   "antonyms": [
+    "inapplicable",
+    "irrelevant",
+    "unsuitable"
+   ],
+   "collocations": [
+    "where applicable",
+    "not applicable",
+    "applicable law",
+    "applicable fees"
+   ]
+  },
+  "mnemonic": "جاية من الفعل Apply (يطبق)، واللاحقة able- تعني قابل لـ، يبقى applicable = قابل للتطبيق.",
+  "phonetic_us": "ˈæplɪkəbəl",
+  "phonetic_uk": "əˈplɪkəbl",
+  "syllables": "ap•pli•ca•ble",
+  "semantic_tags": [
+   "rules",
+   "law",
+   "relevance",
+   "use"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Relevant or appropriate to a particular situation, person, or thing.",
+  "explanation_ar": "مناسب أو ينفع يُطبّق في حالة أو موقف معين (قابل للتطبيق).",
+  "examples": [
+   "Fill in the form where applicable.",
+   "The discount is applicable to students only.",
+   "The theory is applicable to many different fields."
+  ],
+  "translations": {
+   "arabic_ar": "قابل للتطبيق ملائم سارٍ"
+  },
+  "synonyms": [
+   "relevant",
+   "appropriate",
+   "suitable",
+   "fitting"
+  ],
+  "antonyms": [
+   "inapplicable",
+   "irrelevant",
+   "unsuitable"
+  ],
+  "collocations": [
+   "where applicable",
+   "not applicable",
+   "applicable law",
+   "applicable fees"
+  ],
+  "mnemonic_ar": "جاية من الفعل Apply (يطبق)، واللاحقة able- تعني قابل لـ، يبقى applicable = قابل للتطبيق."
+ }
+}

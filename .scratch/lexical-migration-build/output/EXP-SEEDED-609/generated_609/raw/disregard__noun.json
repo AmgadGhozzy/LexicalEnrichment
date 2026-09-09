@@ -1,0 +1,92 @@
+{
+ "identity": {
+  "lemma": "disregard",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "disregard",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The act of ignoring something or showing a lack of care and respect for it.",
+  "explanation_ar": "التجاهل أو عدم إعطاء أي اعتبار أو احترام لشيء أو لشخص.",
+  "senses": [
+   {
+    "definition_en": "The act of ignoring something or showing a lack of care and respect for it.",
+    "explanation_ar": "التجاهل أو عدم إعطاء أي اعتبار أو احترام لشيء أو لشخص.",
+    "examples": [
+     "His disregard for safety caused the accident.",
+     "The company showed a blatant disregard for environmental regulations.",
+     "Such reckless disregard for human life is unforgivable."
+    ]
+   }
+  ],
+  "examples": [
+   "His disregard for safety caused the accident.",
+   "The company showed a blatant disregard for environmental regulations.",
+   "Such reckless disregard for human life is unforgivable."
+  ],
+  "translations": [
+   "تجاهل",
+   "عدم مراعاة",
+   "قلة اعتبار"
+  ],
+  "relations": {
+   "synonyms": [
+    "indifference",
+    "neglect",
+    "inattention",
+    "contempt"
+   ],
+   "antonyms": [
+    "attention",
+    "regard",
+    "respect"
+   ],
+   "collocations": [
+    "total disregard",
+    "reckless disregard",
+    "blatant disregard"
+   ]
+  },
+  "mnemonic": "'Dis' نفي + 'Regard' احترام/اعتبار.. يعني قلة اعتبار وتطنيش.",
+  "phonetic_us": "ˌdɪsrɪˈɡɑːrd",
+  "phonetic_uk": "ˌdɪsrɪˈɡɑːd",
+  "syllables": "dis•re•gard",
+  "semantic_tags": [
+   "#Neglect",
+   "#Behavior",
+   "#Attitude"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The act of ignoring something or showing a lack of care and respect for it.",
+  "explanation_ar": "التجاهل أو عدم إعطاء أي اعتبار أو احترام لشيء أو لشخص.",
+  "examples": [
+   "His disregard for safety caused the accident.",
+   "The company showed a blatant disregard for environmental regulations.",
+   "Such reckless disregard for human life is unforgivable."
+  ],
+  "translations": {
+   "arabic_ar": "تجاهل عدم مراعاة قلة اعتبار"
+  },
+  "synonyms": [
+   "indifference",
+   "neglect",
+   "inattention",
+   "contempt"
+  ],
+  "antonyms": [
+   "attention",
+   "regard",
+   "respect"
+  ],
+  "collocations": [
+   "total disregard",
+   "reckless disregard",
+   "blatant disregard"
+  ],
+  "mnemonic_ar": "'Dis' نفي + 'Regard' احترام/اعتبار.. يعني قلة اعتبار وتطنيش."
+ }
+}

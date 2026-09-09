@@ -1,0 +1,77 @@
+{
+ "identity": {
+  "lemma": "dancer",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "dancer",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A person who dances or whose profession is dancing.",
+  "explanation_ar": "الشخص اللي بيرقص، سواء هواية أو شغلانة.",
+  "senses": [
+   {
+    "definition_en": "A person who dances or whose profession is dancing.",
+    "explanation_ar": "الشخص اللي بيرقص، سواء هواية أو شغلانة.",
+    "examples": [
+     "She is a good dancer.",
+     "He works as a professional dancer.",
+     "The ballet dancer trained for years."
+    ]
+   }
+  ],
+  "examples": [
+   "She is a good dancer.",
+   "He works as a professional dancer.",
+   "The ballet dancer trained for years."
+  ],
+  "translations": [
+   "راقص",
+   "راقصة"
+  ],
+  "relations": {
+   "synonyms": [
+    "performer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ballet dancer",
+    "good dancer",
+    "professional dancer"
+   ]
+  },
+  "mnemonic": "من 'Dance'.. الـ 'Dancer' هو اللي بيعمل 'Dance' على المسرح.",
+  "phonetic_us": "ˈdænsər",
+  "phonetic_uk": "ˈdɑːnsə",
+  "syllables": "dan-cer",
+  "semantic_tags": [
+   "#Dance",
+   "#Art",
+   "#Jobs"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A person who dances or whose profession is dancing.",
+  "explanation_ar": "الشخص اللي بيرقص، سواء هواية أو شغلانة.",
+  "examples": [
+   "She is a good dancer.",
+   "He works as a professional dancer.",
+   "The ballet dancer trained for years."
+  ],
+  "translations": {
+   "arabic_ar": "راقص راقصة"
+  },
+  "synonyms": [
+   "performer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ballet dancer",
+   "good dancer",
+   "professional dancer"
+  ],
+  "mnemonic_ar": "من 'Dance'.. الـ 'Dancer' هو اللي بيعمل 'Dance' على المسرح."
+ }
+}

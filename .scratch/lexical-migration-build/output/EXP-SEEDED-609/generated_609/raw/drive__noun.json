@@ -1,0 +1,105 @@
+{
+ "identity": {
+  "lemma": "drive",
+  "pos": "noun",
+  "cefr": "A2"
+ },
+ "candidate": {
+  "lemma": "drive",
+  "pos": "noun",
+  "cefr": "A2",
+  "definition_en": "A journey in a car, or a strong determination to achieve something.",
+  "explanation_ar": "مشوار أو رحلة بالسيارة، أو حافز وإصرار قوي على تحقيق النجاح.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "A journey in a vehicle, especially a car.",
+    "definition_ar": "مشوار أو جولة بالسيارة.",
+    "cefr": "A2",
+    "examples": [
+     "It is a long drive to the city.",
+     "Let's go for a drive in the country."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Energy, determination, and ambition to achieve something.",
+    "definition_ar": "حافز قوي أو إصرار وعزيمة على النجاح.",
+    "cefr": "B1",
+    "examples": [
+     "She has a lot of drive and ambition to succeed."
+    ]
+   }
+  ],
+  "examples": [
+   "It is a long drive to the city.",
+   "Let's go for a drive in the country.",
+   "She has a lot of drive and ambition to succeed."
+  ],
+  "translations": [
+   "مشوار بالسيارة",
+   "جولة",
+   "دافع",
+   "حافز"
+  ],
+  "relations": {
+   "synonyms": [
+    "trip",
+    "ride",
+    "journey",
+    "motivation",
+    "ambition"
+   ],
+   "antonyms": [
+    "apathy",
+    "laziness"
+   ],
+   "collocations": [
+    "long drive",
+    "test drive",
+    "hard drive",
+    "recruitment drive"
+   ]
+  },
+  "mnemonic": "كلمة 'Driver'.. كلنا عارفين الـ 'Driver' السواق اللي بيعمل 'Drive' 'مشوار/قيادة' بالعربية.",
+  "phonetic_us": "/draɪv/",
+  "phonetic_uk": "/draɪv/",
+  "syllables": "drive",
+  "semantic_tags": [
+   "#Transport",
+   "#Motivation",
+   "#Trip"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A journey in a car, or a strong determination to achieve something.",
+  "explanation_ar": "مشوار أو رحلة بالسيارة، أو حافز وإصرار قوي على تحقيق النجاح.",
+  "examples": [
+   "It is a long drive to the city.",
+   "Let's go for a drive in the country.",
+   "She has a lot of drive and ambition to succeed."
+  ],
+  "translations": {
+   "arabic_ar": "مشوار بالسيارة جولة دافع حافز"
+  },
+  "synonyms": [
+   "trip",
+   "ride",
+   "journey",
+   "motivation",
+   "ambition"
+  ],
+  "antonyms": [
+   "apathy",
+   "laziness"
+  ],
+  "collocations": [
+   "long drive",
+   "test drive",
+   "hard drive",
+   "recruitment drive"
+  ],
+  "mnemonic_ar": "كلمة 'Driver'.. كلنا عارفين الـ 'Driver' السواق اللي بيعمل 'Drive' 'مشوار/قيادة' بالعربية."
+ }
+}

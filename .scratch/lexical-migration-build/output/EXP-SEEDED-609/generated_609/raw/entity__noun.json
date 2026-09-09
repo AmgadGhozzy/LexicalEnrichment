@@ -1,0 +1,84 @@
+{
+ "identity": {
+  "lemma": "entity",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "entity",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "A thing with distinct and independent existence.",
+  "explanation_ar": "كيان مستقل، زي شركة أو مؤسسة أو دولة، ليها وجودها الخاص المنفصل.",
+  "senses": [
+   {
+    "definition_en": "A thing with distinct and independent existence.",
+    "definition_ar": "كيان ذو وجود مستقل ومنفصل.",
+    "examples": [
+     "The corporation is a legal entity distinct from its owners.",
+     "The soul is considered a spiritual entity.",
+     "Political geography treats the state as a sovereign entity."
+    ]
+   }
+  ],
+  "examples": [
+   "The corporation is a legal entity distinct from its owners.",
+   "The soul is considered a spiritual entity.",
+   "Political geography treats the state as a sovereign entity."
+  ],
+  "translations": [
+   "كيان"
+  ],
+  "relations": {
+   "synonyms": [
+    "being",
+    "body",
+    "organization",
+    "unit"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "legal entity",
+    "separate entity",
+    "single entity",
+    "business entity"
+   ]
+  },
+  "mnemonic": "قريبة من 'Identity' 'هوية'.. الـ 'Entity' لازم يكون ليه هوية مستقلة.",
+  "phonetic_us": "ˈɛn.tɪ.ti",
+  "phonetic_uk": "ˈen.tɪ.ti",
+  "syllables": "en•ti•ty",
+  "semantic_tags": [
+   "Business",
+   "Law",
+   "Philosophy"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A thing with distinct and independent existence.",
+  "explanation_ar": "كيان مستقل، زي شركة أو مؤسسة أو دولة، ليها وجودها الخاص المنفصل.",
+  "examples": [
+   "The corporation is a legal entity distinct from its owners.",
+   "The soul is considered a spiritual entity.",
+   "Political geography treats the state as a sovereign entity."
+  ],
+  "translations": {
+   "arabic_ar": "كيان"
+  },
+  "synonyms": [
+   "being",
+   "body",
+   "organization",
+   "unit"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "legal entity",
+   "separate entity",
+   "single entity",
+   "business entity"
+  ],
+  "mnemonic_ar": "قريبة من 'Identity' 'هوية'.. الـ 'Entity' لازم يكون ليه هوية مستقلة."
+ }
+}

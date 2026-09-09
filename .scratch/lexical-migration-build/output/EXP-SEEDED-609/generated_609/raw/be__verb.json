@@ -1,0 +1,86 @@
+{
+ "identity": {
+  "lemma": "be",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "be",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To exist, live, or occur; used to describe the state, quality, or identity of something.",
+  "explanation_ar": "يكون.. يعني الفعل اللي بيوصف الحالة أو الوجود. زي لما تقول 'أنا أكون سعيد' أو 'هو يكون دكتور'",
+  "senses": [
+   {
+    "definition_en": "To exist, live, or occur; used to describe the state, quality, or identity of something.",
+    "definition_ar": "يكون أو يوجد؛ يعبر عن الحالة أو الصفة أو الهوية.",
+    "examples": [
+     "I want to be a teacher.",
+     "Please be careful.",
+     "You must be tired after the trip."
+    ]
+   }
+  ],
+  "examples": [
+   "I want to be a teacher.",
+   "Please be careful.",
+   "You must be tired after the trip."
+  ],
+  "translations": [
+   "يكون",
+   "يوجد"
+  ],
+  "relations": {
+   "synonyms": [
+    "exist",
+    "live",
+    "occur"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "be careful",
+    "be able to",
+    "be sure",
+    "be afraid",
+    "be interested in"
+   ]
+  },
+  "mnemonic": "كلمة 'Be' شبه كلمة 'Bee' 'نحلة'.. تخيل نحلة بتقول 'I want to be a Queen' 'عايزة أكون ملكة'",
+  "phonetic_us": "/biː/",
+  "phonetic_uk": "/biː/",
+  "syllables": 1,
+  "semantic_tags": [
+   "#Existence",
+   "#Auxiliary",
+   "#State",
+   "#Identity"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "To exist, live, or occur; used to describe the state, quality, or identity of something.",
+  "explanation_ar": "يكون.. يعني الفعل اللي بيوصف الحالة أو الوجود. زي لما تقول 'أنا أكون سعيد' أو 'هو يكون دكتور'",
+  "examples": [
+   "I want to be a teacher.",
+   "Please be careful.",
+   "You must be tired after the trip."
+  ],
+  "translations": {
+   "arabic_ar": "يكون يوجد"
+  },
+  "synonyms": [
+   "exist",
+   "live",
+   "occur"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "be careful",
+   "be able to",
+   "be sure",
+   "be afraid",
+   "be interested in"
+  ],
+  "mnemonic_ar": "كلمة 'Be' شبه كلمة 'Bee' 'نحلة'.. تخيل نحلة بتقول 'I want to be a Queen' 'عايزة أكون ملكة'"
+ }
+}

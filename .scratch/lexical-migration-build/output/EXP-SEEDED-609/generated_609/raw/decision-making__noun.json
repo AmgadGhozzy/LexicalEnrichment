@@ -1,0 +1,89 @@
+{
+ "identity": {
+  "lemma": "decision-making",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "decision-making",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "The process of making choices, especially important ones.",
+  "explanation_ar": "صنع القرار أو اتخاذه؛ العملية التي تدرس فيها البدائل المختلفة وتفاضل بينها للوصول إلى خيار سليم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "pos": "noun",
+    "definition_en": "The process of making choices, especially important ones.",
+    "definition_ar": "صنع القرار أو اتخاذ القرارات",
+    "examples": [
+     "He involves his team in decision-making.",
+     "Data analysis plays a crucial role in corporate decision-making.",
+     "Effective decision-making requires evaluating all available options carefully."
+    ]
+   }
+  ],
+  "examples": [
+   "He involves his team in decision-making.",
+   "Data analysis plays a crucial role in corporate decision-making.",
+   "Effective decision-making requires evaluating all available options carefully."
+  ],
+  "translations": [
+   "صنع القرار",
+   "اتخاذ القرار"
+  ],
+  "relations": {
+   "synonyms": [
+    "judgment",
+    "selection",
+    "choice"
+   ],
+   "antonyms": [
+    "indecision"
+   ],
+   "collocations": [
+    "decision-making process",
+    "decision-making skills",
+    "strategic decision-making",
+    "participatory decision-making"
+   ]
+  },
+  "mnemonic": null,
+  "phonetic_us": "/dɪˈsɪʒ.ənˌmeɪ.kɪŋ/",
+  "phonetic_uk": "/dɪˈsɪʒ.ənˌmeɪ.kɪŋ/",
+  "syllables": "de-ci-sion-mak-ing",
+  "semantic_tags": [
+   "Business",
+   "Choice",
+   "Management"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "The process of making choices, especially important ones.",
+  "explanation_ar": "صنع القرار أو اتخاذه؛ العملية التي تدرس فيها البدائل المختلفة وتفاضل بينها للوصول إلى خيار سليم.",
+  "examples": [
+   "He involves his team in decision-making.",
+   "Data analysis plays a crucial role in corporate decision-making.",
+   "Effective decision-making requires evaluating all available options carefully."
+  ],
+  "translations": {
+   "arabic_ar": "صنع القرار اتخاذ القرار"
+  },
+  "synonyms": [
+   "judgment",
+   "selection",
+   "choice"
+  ],
+  "antonyms": [
+   "indecision"
+  ],
+  "collocations": [
+   "decision-making process",
+   "decision-making skills",
+   "strategic decision-making",
+   "participatory decision-making"
+  ],
+  "mnemonic_ar": null
+ }
+}

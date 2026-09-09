@@ -1,0 +1,96 @@
+{
+ "identity": {
+  "lemma": "contradict",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "contradict",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To say the opposite of what someone has said, or to conflict with a fact or statement.",
+  "explanation_ar": "أن تقول عكس ما قيل وتعارضه، أو أن يتعارض أمر أو دليل مع حقيقة أخرى بحيث لا يجتمعان.",
+  "senses": [
+   {
+    "definition_en": "To say the opposite of what someone else has said, or deny the truth of a statement.",
+    "explanation_ar": "أن تقول عكس ما قاله شخص آخر أو تكذّب كلامه وتعارضه."
+   },
+   {
+    "definition_en": "To be so different from another fact or statement that both cannot be true.",
+    "explanation_ar": "أن يتعارض أمر أو دليل مع حقيقة أخرى بحيث يستحيل صحتهما معاً."
+   }
+  ],
+  "examples": [
+   "Don't contradict your teacher.",
+   "The evidence seems to contradict his story.",
+   "She dared not contradict her boss in the meeting."
+  ],
+  "translations": [
+   "يناقض",
+   "يتعارض مع",
+   "يكذّب"
+  ],
+  "relations": {
+   "synonyms": [
+    "dispute",
+    "counter",
+    "oppose",
+    "deny"
+   ],
+   "antonyms": [
+    "confirm",
+    "agree",
+    "verify"
+   ],
+   "collocations": [
+    "contradict oneself",
+    "contradict the evidence",
+    "directly contradict"
+   ],
+   "word_family": {
+    "verb": "contradict",
+    "noun": "contradiction",
+    "adjective": "contradictory"
+   }
+  },
+  "mnemonic": "'Contra' يعني ضد + 'Dict' يعني قول.. يبقى 'Contradict' يعني تقول ضد الكلام.",
+  "phonetic_us": "ˌkɑːntrəˈdɪkt",
+  "phonetic_uk": "ˌkɒntrəˈdɪkt",
+  "syllables": "con•tra•dict",
+  "semantic_tags": [
+   "#Argument",
+   "#Logic",
+   "#Debate"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To say the opposite of what someone has said, or to conflict with a fact or statement.",
+  "explanation_ar": "أن تقول عكس ما قيل وتعارضه، أو أن يتعارض أمر أو دليل مع حقيقة أخرى بحيث لا يجتمعان.",
+  "examples": [
+   "Don't contradict your teacher.",
+   "The evidence seems to contradict his story.",
+   "She dared not contradict her boss in the meeting."
+  ],
+  "translations": {
+   "arabic_ar": "يناقض يتعارض مع يكذّب"
+  },
+  "synonyms": [
+   "dispute",
+   "counter",
+   "oppose",
+   "deny"
+  ],
+  "antonyms": [
+   "confirm",
+   "agree",
+   "verify"
+  ],
+  "collocations": [
+   "contradict oneself",
+   "contradict the evidence",
+   "directly contradict"
+  ],
+  "mnemonic_ar": "'Contra' يعني ضد + 'Dict' يعني قول.. يبقى 'Contradict' يعني تقول ضد الكلام."
+ }
+}

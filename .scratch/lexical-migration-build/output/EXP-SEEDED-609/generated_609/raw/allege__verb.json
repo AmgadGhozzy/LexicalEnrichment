@@ -1,0 +1,93 @@
+{
+ "identity": {
+  "lemma": "allege",
+  "pos": "verb",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "allege",
+  "pos": "verb",
+  "cefr": "C1",
+  "definition_en": "Claim or assert that someone has done something illegal or wrong, typically without proof.",
+  "explanation_ar": "يدعي أو يزعم إن حد عمل حاجة غلط بس من غير دليل قاطع.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Claim or assert that someone has done something illegal or wrong, typically without proof.",
+    "explanation_ar": "يدعي أو يزعم إن حد عمل حاجة غلط بس من غير دليل قاطع.",
+    "examples": [
+     "The plaintiffs allege that the company misled investors about the risks.",
+     "Critics allege that the new policy will harm low-income families.",
+     "They allege that senior officials knew about the fraud for months."
+    ]
+   }
+  ],
+  "examples": [
+   "The plaintiffs allege that the company misled investors about the risks.",
+   "Critics allege that the new policy will harm low-income families.",
+   "They allege that senior officials knew about the fraud for months."
+  ],
+  "translations": [
+   "يَدَّعِي",
+   "يَزْعُم"
+  ],
+  "relations": {
+   "synonyms": [
+    "claim",
+    "assert",
+    "charge"
+   ],
+   "antonyms": [
+    "prove",
+    "substantiate",
+    "verify"
+   ],
+   "collocations": [
+    "wrongly allege",
+    "allege corruption",
+    "allege fraud",
+    "prosecutors allege"
+   ]
+  },
+  "mnemonic": "اربط الصوت بـ 'قال إيه' في العامية: كأنك بتعلق باستنكار على ادعاء بدون دليل: 'قال إيه (allege) بيزعم كذا!'",
+  "phonetic_us": "əˈlɛdʒ",
+  "phonetic_uk": "əˈledʒ",
+  "syllables": "al•lege",
+  "semantic_tags": [
+   "#Law",
+   "#Crime",
+   "#Accusation",
+   "#News"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Claim or assert that someone has done something illegal or wrong, typically without proof.",
+  "explanation_ar": "يدعي أو يزعم إن حد عمل حاجة غلط بس من غير دليل قاطع.",
+  "examples": [
+   "The plaintiffs allege that the company misled investors about the risks.",
+   "Critics allege that the new policy will harm low-income families.",
+   "They allege that senior officials knew about the fraud for months."
+  ],
+  "translations": {
+   "arabic_ar": "يَدَّعِي يَزْعُم"
+  },
+  "synonyms": [
+   "claim",
+   "assert",
+   "charge"
+  ],
+  "antonyms": [
+   "prove",
+   "substantiate",
+   "verify"
+  ],
+  "collocations": [
+   "wrongly allege",
+   "allege corruption",
+   "allege fraud",
+   "prosecutors allege"
+  ],
+  "mnemonic_ar": "اربط الصوت بـ 'قال إيه' في العامية: كأنك بتعلق باستنكار على ادعاء بدون دليل: 'قال إيه (allege) بيزعم كذا!'"
+ }
+}

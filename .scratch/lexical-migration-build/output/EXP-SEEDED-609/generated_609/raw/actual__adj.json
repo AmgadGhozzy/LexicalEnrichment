@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "actual",
+  "pos": "adj",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "actual",
+  "pos": "adj",
+  "cefr": "B2",
+  "definition_en": "Existing in fact; real.",
+  "explanation_ar": "الحقيقي أو الفعلي، يعني اللي حصل بجد مش اللي إحنا متخيلينه.",
+  "senses": [
+   {
+    "definition_en": "Existing in fact; real.",
+    "explanation_ar": "الحقيقي أو الفعلي، يعني اللي حصل بجد مش اللي إحنا متخيلينه.",
+    "examples": [
+     "This is the actual car used in the movie.",
+     "The actual cost was higher than expected.",
+     "I need the actual figures, not estimates."
+    ]
+   }
+  ],
+  "examples": [
+   "This is the actual car used in the movie.",
+   "The actual cost was higher than expected.",
+   "I need the actual figures, not estimates."
+  ],
+  "translations": [
+   "فعلي",
+   "حقيقي"
+  ],
+  "relations": {
+   "synonyms": [
+    "real",
+    "true",
+    "genuine",
+    "factual"
+   ],
+   "antonyms": [
+    "imaginary",
+    "theoretical",
+    "estimated"
+   ],
+   "collocations": [
+    "actual cost",
+    "actual size",
+    "in actual fact"
+   ]
+  },
+  "mnemonic": "مش 'Act' 'تمثيل'.. ده 'Actual' يعني حقيقي وواقعي.",
+  "phonetic_us": "ˈæk.tʃu.əl",
+  "phonetic_uk": "ˈæk.tʃu.əl",
+  "syllables": "ac•tu•al",
+  "semantic_tags": [
+   "#Reality",
+   "#Truth",
+   "#Existence"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Existing in fact; real.",
+  "explanation_ar": "الحقيقي أو الفعلي، يعني اللي حصل بجد مش اللي إحنا متخيلينه.",
+  "examples": [
+   "This is the actual car used in the movie.",
+   "The actual cost was higher than expected.",
+   "I need the actual figures, not estimates."
+  ],
+  "translations": {
+   "arabic_ar": "فعلي حقيقي"
+  },
+  "synonyms": [
+   "real",
+   "true",
+   "genuine",
+   "factual"
+  ],
+  "antonyms": [
+   "imaginary",
+   "theoretical",
+   "estimated"
+  ],
+  "collocations": [
+   "actual cost",
+   "actual size",
+   "in actual fact"
+  ],
+  "mnemonic_ar": "مش 'Act' 'تمثيل'.. ده 'Actual' يعني حقيقي وواقعي."
+ }
+}

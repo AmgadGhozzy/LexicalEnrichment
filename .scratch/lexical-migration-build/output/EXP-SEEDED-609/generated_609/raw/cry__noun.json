@@ -1,0 +1,90 @@
+{
+ "identity": {
+  "lemma": "cry",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "cry",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A loud shout or scream; the act of shedding tears.",
+  "explanation_ar": "صرخة عالية أو صوت بكاء.",
+  "senses": [
+   {
+    "definition_en": "A loud shout or scream expressing strong emotion or calling for help.",
+    "definition_ar": "صرخة أو صيحة تعبيرًا عن شعور قوي أو طلبًا للمساعدة."
+   },
+   {
+    "definition_en": "A period or act of weeping.",
+    "definition_ar": "نوبة أو فترة من البكاء."
+   }
+  ],
+  "examples": [
+   "The baby gave a loud cry.",
+   "Her cry for help was ignored.",
+   "The piercing cry of the eagle echoed through the valley."
+  ],
+  "translations": [
+   "صرخة",
+   "بكاء"
+  ],
+  "relations": {
+   "synonyms": [
+    "shout",
+    "scream",
+    "yell",
+    "call"
+   ],
+   "antonyms": [
+    "whisper",
+    "silence"
+   ],
+   "collocations": [
+    "cry for help",
+    "battle cry",
+    "loud cry",
+    "far cry"
+   ]
+  },
+  "mnemonic": "زي 'كروان'.. الكروان بيعمل 'Cry' 'صوت عالي' في الفجر",
+  "phonetic_us": "kɹaɪ",
+  "phonetic_uk": "kraɪ",
+  "syllables": null,
+  "semantic_tags": [
+   "#Sound",
+   "#Emotion",
+   "#Voice"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A loud shout or scream; the act of shedding tears.",
+  "explanation_ar": "صرخة عالية أو صوت بكاء.",
+  "examples": [
+   "The baby gave a loud cry.",
+   "Her cry for help was ignored.",
+   "The piercing cry of the eagle echoed through the valley."
+  ],
+  "translations": {
+   "arabic_ar": "صرخة بكاء"
+  },
+  "synonyms": [
+   "shout",
+   "scream",
+   "yell",
+   "call"
+  ],
+  "antonyms": [
+   "whisper",
+   "silence"
+  ],
+  "collocations": [
+   "cry for help",
+   "battle cry",
+   "loud cry",
+   "far cry"
+  ],
+  "mnemonic_ar": "زي 'كروان'.. الكروان بيعمل 'Cry' 'صوت عالي' في الفجر"
+ }
+}

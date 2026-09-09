@@ -1,0 +1,79 @@
+{
+ "identity": {
+  "lemma": "blog",
+  "pos": "noun",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "blog",
+  "pos": "noun",
+  "cefr": "A1",
+  "definition_en": "A website where someone regularly records their thoughts or opinions.",
+  "explanation_ar": "موقع شخصي على النت بتكتب فيه مقالات أو يوميات أو رأيك في حاجة معينة، والناس ممكن تقراها وتعلق عليها.",
+  "senses": [
+   {
+    "sense_id": 1,
+    "definition_en": "A website where someone regularly records their thoughts, experiences, or opinions.",
+    "definition_ar": "موقع إلكتروني أو صفحة شخصية تُنشر فيها بانتظام مقالات أو آراء أو تجارب.",
+    "pos": "noun",
+    "cefr": "A1"
+   }
+  ],
+  "examples": [
+   "I read a blog about food.",
+   "She writes a blog every week.",
+   "He started a travel blog to share his photos."
+  ],
+  "translations": [
+   "مدونة"
+  ],
+  "relations": {
+   "synonyms": [
+    "weblog",
+    "online journal"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "write a blog",
+    "travel blog",
+    "blog post",
+    "fashion blog"
+   ]
+  },
+  "mnemonic": "تذكر أن كلمة blog منحوتة من web + log، أي أنها سجل أو يوميات (log) على شبكة الويب (web).",
+  "phonetic_us": "blɑɡ",
+  "phonetic_uk": "blɒɡ",
+  "syllables": "blog",
+  "semantic_tags": [
+   "Internet",
+   "Writing",
+   "Media",
+   "Website"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "A website where someone regularly records their thoughts or opinions.",
+  "explanation_ar": "موقع شخصي على النت بتكتب فيه مقالات أو يوميات أو رأيك في حاجة معينة، والناس ممكن تقراها وتعلق عليها.",
+  "examples": [
+   "I read a blog about food.",
+   "She writes a blog every week.",
+   "He started a travel blog to share his photos."
+  ],
+  "translations": {
+   "arabic_ar": "مدونة"
+  },
+  "synonyms": [
+   "weblog",
+   "online journal"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "write a blog",
+   "travel blog",
+   "blog post",
+   "fashion blog"
+  ],
+  "mnemonic_ar": "تذكر أن كلمة blog منحوتة من web + log، أي أنها سجل أو يوميات (log) على شبكة الويب (web)."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "identity": {
+  "lemma": "classify",
+  "pos": "verb",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "classify",
+  "pos": "verb",
+  "cefr": "B2",
+  "definition_en": "To arrange something in groups or categories according to shared qualities.",
+  "explanation_ar": "إنك ترتب الحاجات في مجموعات حسب نوعها أو خصائصها المشتركة.",
+  "senses": [
+   {
+    "definition_en": "To arrange something in groups or categories according to shared qualities.",
+    "definition_ar": "ترتيب الأشياء أو الأشخاص في فئات أو مجموعات حسب خصائصها المشتركة.",
+    "examples": [
+     "Biologists classify animals into different species.",
+     "It is difficult to classify his music style.",
+     "Critics classify this movie as a psychological thriller."
+    ]
+   }
+  ],
+  "examples": [
+   "Biologists classify animals into different species.",
+   "It is difficult to classify his music style.",
+   "Critics classify this movie as a psychological thriller."
+  ],
+  "translations": [
+   "يُصَنِّف",
+   "يُقَسِّم إلى فئات"
+  ],
+  "relations": {
+   "synonyms": [
+    "categorize",
+    "group",
+    "sort",
+    "organize"
+   ],
+   "antonyms": [
+    "disorganize",
+    "jumble",
+    "mix"
+   ],
+   "collocations": [
+    "classify as",
+    "classify information",
+    "hard to classify"
+   ]
+  },
+  "mnemonic": "جاية من 'Class' فصل.. يعني تقسم الحاجات وتعملها 'Class' لوحدها.. تصنفها.",
+  "phonetic_us": "ˈklæsəˌfaɪ",
+  "phonetic_uk": "ˈklæsɪfaɪ",
+  "syllables": "clas•si•fy",
+  "semantic_tags": [
+   "Sort",
+   "Group",
+   "Order"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To arrange something in groups or categories according to shared qualities.",
+  "explanation_ar": "إنك ترتب الحاجات في مجموعات حسب نوعها أو خصائصها المشتركة.",
+  "examples": [
+   "Biologists classify animals into different species.",
+   "It is difficult to classify his music style.",
+   "Critics classify this movie as a psychological thriller."
+  ],
+  "translations": {
+   "arabic_ar": "يُصَنِّف يُقَسِّم إلى فئات"
+  },
+  "synonyms": [
+   "categorize",
+   "group",
+   "sort",
+   "organize"
+  ],
+  "antonyms": [
+   "disorganize",
+   "jumble",
+   "mix"
+  ],
+  "collocations": [
+   "classify as",
+   "classify information",
+   "hard to classify"
+  ],
+  "mnemonic_ar": "جاية من 'Class' فصل.. يعني تقسم الحاجات وتعملها 'Class' لوحدها.. تصنفها."
+ }
+}

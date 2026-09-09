@@ -1,0 +1,101 @@
+{
+ "identity": {
+  "lemma": "common",
+  "pos": "adj",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "common",
+  "pos": "adj",
+  "cefr": "A1",
+  "definition_en": "Occurring, found, or done often; not rare.",
+  "explanation_ar": "حاجة موجودة كتير وعادية، أو حاجة مشتركة بين كذا حد.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "Occurring, found, or done often; not rare.",
+    "definition_ar": "شائع، منتشر، أو متكرر الحدوث.",
+    "examples": [
+     "Colds are very common in winter.",
+     "It is a common bird in this park."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "Shared by, or belonging to, two or more people or things.",
+    "definition_ar": "مشترك بين شخصين أو أكثر.",
+    "examples": [
+     "We have a common goal."
+    ]
+   }
+  ],
+  "examples": [
+   "Colds are very common in winter.",
+   "It is a common bird in this park.",
+   "We have a common goal."
+  ],
+  "translations": [
+   "شائع",
+   "مشترك"
+  ],
+  "relations": {
+   "synonyms": [
+    "usual",
+    "widespread",
+    "shared",
+    "ordinary"
+   ],
+   "antonyms": [
+    "rare",
+    "uncommon",
+    "unique"
+   ],
+   "collocations": [
+    "common sense",
+    "common ground",
+    "common knowledge",
+    "common practice"
+   ]
+  },
+  "mnemonic": "شبه 'Come on'.. يعني يلا بينا دي حاجة 'Common' 'شائعة' وكل الناس بتعملها.",
+  "phonetic_us": "ˈkɑː.mən",
+  "phonetic_uk": "ˈkɒm.ən",
+  "syllables": "com•mon",
+  "semantic_tags": [
+   "#Popular",
+   "#Shared",
+   "#Frequent"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "Occurring, found, or done often; not rare.",
+  "explanation_ar": "حاجة موجودة كتير وعادية، أو حاجة مشتركة بين كذا حد.",
+  "examples": [
+   "Colds are very common in winter.",
+   "It is a common bird in this park.",
+   "We have a common goal."
+  ],
+  "translations": {
+   "arabic_ar": "شائع مشترك"
+  },
+  "synonyms": [
+   "usual",
+   "widespread",
+   "shared",
+   "ordinary"
+  ],
+  "antonyms": [
+   "rare",
+   "uncommon",
+   "unique"
+  ],
+  "collocations": [
+   "common sense",
+   "common ground",
+   "common knowledge",
+   "common practice"
+  ],
+  "mnemonic_ar": "شبه 'Come on'.. يعني يلا بينا دي حاجة 'Common' 'شائعة' وكل الناس بتعملها."
+ }
+}

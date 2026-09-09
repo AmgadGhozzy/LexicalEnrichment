@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "bell",
+  "pos": "noun",
+  "cefr": "B1"
+ },
+ "candidate": {
+  "lemma": "bell",
+  "pos": "noun",
+  "cefr": "B1",
+  "definition_en": "A hollow metal object that makes a ringing sound when struck.",
+  "explanation_ar": "الجرس المعدن اللي بيعمل صوت رنين عشان ينبهك.",
+  "senses": [
+   {
+    "definition_en": "A hollow metal object that makes a ringing sound when struck.",
+    "explanation_ar": "أداة معدنية مجوفة تصدر صوت رنين عند قرعها وتستخدم للتنبيه أو الإشارة.",
+    "examples": [
+     "The school bell rang.",
+     "I have a bell on my bike.",
+     "The warning bell tolled ominously in the distance."
+    ]
+   }
+  ],
+  "examples": [
+   "The school bell rang.",
+   "I have a bell on my bike.",
+   "The warning bell tolled ominously in the distance."
+  ],
+  "translations": [
+   "جرس"
+  ],
+  "relations": {
+   "synonyms": [
+    "chime",
+    "gong",
+    "ringer"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "ring a bell",
+    "alarm bell",
+    "church bell"
+   ]
+  },
+  "mnemonic": "كلمة 'Bell' شبه 'Bill' 'فاتورة'.. بس الجرس صوته أحلى من صوت الفاتورة.",
+  "phonetic_us": "/bɛl/",
+  "phonetic_uk": "/bɛl/",
+  "syllables": [
+   "bell"
+  ],
+  "semantic_tags": [
+   "#Sound",
+   "#Music",
+   "#Alert",
+   "#School"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A hollow metal object that makes a ringing sound when struck.",
+  "explanation_ar": "الجرس المعدن اللي بيعمل صوت رنين عشان ينبهك.",
+  "examples": [
+   "The school bell rang.",
+   "I have a bell on my bike.",
+   "The warning bell tolled ominously in the distance."
+  ],
+  "translations": {
+   "arabic_ar": "جرس"
+  },
+  "synonyms": [
+   "chime",
+   "gong",
+   "ringer"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "ring a bell",
+   "alarm bell",
+   "church bell"
+  ],
+  "mnemonic_ar": "كلمة 'Bell' شبه 'Bill' 'فاتورة'.. بس الجرس صوته أحلى من صوت الفاتورة."
+ }
+}

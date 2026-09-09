@@ -1,0 +1,83 @@
+{
+ "identity": {
+  "lemma": "adviser",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "adviser",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "A person who gives advice, especially professionally in a particular field.",
+  "explanation_ar": "شخص يقدم النصيحة أو المشورة، خاصة بشكل مهني أو رسمي مثل المستشار المالي أو القانوني.",
+  "senses": [
+   {
+    "definition_en": "A person who gives advice, especially professionally in a particular field.",
+    "definition_ar": "مستشار أو شخص يقدم المشورة المهنية المتخصصة.",
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "examples": [
+   "She works as a legal adviser for a large international firm.",
+   "I made an appointment to see a career adviser at the university.",
+   "You should consult a financial adviser before making any major investments."
+  ],
+  "translations": [
+   "مستشار",
+   "ناصح",
+   "موجّه"
+  ],
+  "relations": {
+   "synonyms": [
+    "consultant",
+    "counselor",
+    "guide",
+    "mentor"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "financial adviser",
+    "legal adviser",
+    "security adviser",
+    "special adviser"
+   ]
+  },
+  "mnemonic": "مشتقة من الفعل 'advise' (ينصح) مع اللاحقة 'er' التي تدل على الفاعل، فالـ adviser هو الشخص الذي يقدم النصح أو المستشار.",
+  "phonetic_us": "ədˈvaɪ.zɚ",
+  "phonetic_uk": "ədˈvaɪ.zə",
+  "syllables": "ad•vis•er",
+  "semantic_tags": [
+   "job",
+   "profession",
+   "guidance"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "A person who gives advice, especially professionally in a particular field.",
+  "explanation_ar": "شخص يقدم النصيحة أو المشورة، خاصة بشكل مهني أو رسمي مثل المستشار المالي أو القانوني.",
+  "examples": [
+   "She works as a legal adviser for a large international firm.",
+   "I made an appointment to see a career adviser at the university.",
+   "You should consult a financial adviser before making any major investments."
+  ],
+  "translations": {
+   "arabic_ar": "مستشار ناصح موجّه"
+  },
+  "synonyms": [
+   "consultant",
+   "counselor",
+   "guide",
+   "mentor"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "financial adviser",
+   "legal adviser",
+   "security adviser",
+   "special adviser"
+  ],
+  "mnemonic_ar": "مشتقة من الفعل 'advise' (ينصح) مع اللاحقة 'er' التي تدل على الفاعل، فالـ adviser هو الشخص الذي يقدم النصح أو المستشار."
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "bring",
+  "pos": "verb",
+  "cefr": "A1"
+ },
+ "candidate": {
+  "lemma": "bring",
+  "pos": "verb",
+  "cefr": "A1",
+  "definition_en": "To take or carry someone or something to a place.",
+  "explanation_ar": "يحضر أو يجيب.. يعني تجيب حاجة معاك وإنت جاي.",
+  "senses": [
+   {
+    "definition_en": "To take or carry someone or something to a place.",
+    "definition_ar": "يحضر أو يجلب شخصاً أو شيئاً إلى مكان ما.",
+    "examples": [
+     "Please bring me a glass of water.",
+     "Did you bring your homework?",
+     "Don't forget to bring an umbrella."
+    ]
+   }
+  ],
+  "examples": [
+   "Please bring me a glass of water.",
+   "Did you bring your homework?",
+   "Don't forget to bring an umbrella."
+  ],
+  "translations": [
+   "يحضر",
+   "يجلب"
+  ],
+  "relations": {
+   "synonyms": [
+    "carry",
+    "fetch",
+    "transport"
+   ],
+   "antonyms": [
+    "take"
+   ],
+   "collocations": [
+    "bring back",
+    "bring along",
+    "bring home"
+   ]
+  },
+  "mnemonic": "شبه كلمة 'Pringles'.. ممكن تقولي 'Bring Pringles'؟ يعني هات برينجلز.",
+  "phonetic_us": "brɪŋ",
+  "phonetic_uk": "brɪŋ",
+  "syllables": "bring",
+  "semantic_tags": [
+   "#Carry",
+   "#Transport",
+   "#Fetch"
+  ],
+  "ai_confidence": 0.98
+ },
+ "arm": {
+  "definition_en": "To take or carry someone or something to a place.",
+  "explanation_ar": "يحضر أو يجيب.. يعني تجيب حاجة معاك وإنت جاي.",
+  "examples": [
+   "Please bring me a glass of water.",
+   "Did you bring your homework?",
+   "Don't forget to bring an umbrella."
+  ],
+  "translations": {
+   "arabic_ar": "يحضر يجلب"
+  },
+  "synonyms": [
+   "carry",
+   "fetch",
+   "transport"
+  ],
+  "antonyms": [
+   "take"
+  ],
+  "collocations": [
+   "bring back",
+   "bring along",
+   "bring home"
+  ],
+  "mnemonic_ar": "شبه كلمة 'Pringles'.. ممكن تقولي 'Bring Pringles'؟ يعني هات برينجلز."
+ }
+}

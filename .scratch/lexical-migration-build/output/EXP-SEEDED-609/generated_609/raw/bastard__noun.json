@@ -1,0 +1,85 @@
+{
+ "identity": {
+  "lemma": "bastard",
+  "pos": "noun",
+  "cefr": "C1"
+ },
+ "candidate": {
+  "lemma": "bastard",
+  "pos": "noun",
+  "cefr": "C1",
+  "definition_en": "An unpleasant or despicable person (informal); historically, an illegitimate child.",
+  "explanation_ar": "كلمة شتيمة بتتقال للشخص الوغد أو السيء جداً. وأصلها كان معناها 'ابن غير شرعي'.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "An unpleasant, despicable, or cruel person (informal/offensive).",
+    "definition_ar": "شخص وغد أو حقير أو سيء التصرف.",
+    "register": "informal / offensive"
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "An illegitimate child born of unmarried parents (historical/archaic).",
+    "definition_ar": "ابن غير شرعي (استخدام تاريخي).",
+    "register": "historical / archaic"
+   }
+  ],
+  "examples": [
+   "He acted like a total bastard to his staff.",
+   "I can't believe that bastard stole my idea.",
+   "In medieval times, being a bastard affected your inheritance rights."
+  ],
+  "translations": [
+   "وَغْد",
+   "ابن حَرَام"
+  ],
+  "relations": {
+   "synonyms": [
+    "scoundrel",
+    "rascal",
+    "jerk"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "lucky bastard",
+    "poor bastard",
+    "lazy bastard"
+   ]
+  },
+  "mnemonic": "كلمة بنسمعها كتير في الأفلام الأجنبي لما حد يشتم حد ويقوله يا 'Bastard'.",
+  "phonetic_us": "ˈbæs.tɚd",
+  "phonetic_uk": "ˈbɑːs.təd",
+  "syllables": "bas•tard",
+  "semantic_tags": [
+   "#Insult",
+   "#Slang",
+   "#Person",
+   "#Informal"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "An unpleasant or despicable person (informal); historically, an illegitimate child.",
+  "explanation_ar": "كلمة شتيمة بتتقال للشخص الوغد أو السيء جداً. وأصلها كان معناها 'ابن غير شرعي'.",
+  "examples": [
+   "He acted like a total bastard to his staff.",
+   "I can't believe that bastard stole my idea.",
+   "In medieval times, being a bastard affected your inheritance rights."
+  ],
+  "translations": {
+   "arabic_ar": "وَغْد ابن حَرَام"
+  },
+  "synonyms": [
+   "scoundrel",
+   "rascal",
+   "jerk"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "lucky bastard",
+   "poor bastard",
+   "lazy bastard"
+  ],
+  "mnemonic_ar": "كلمة بنسمعها كتير في الأفلام الأجنبي لما حد يشتم حد ويقوله يا 'Bastard'."
+ }
+}

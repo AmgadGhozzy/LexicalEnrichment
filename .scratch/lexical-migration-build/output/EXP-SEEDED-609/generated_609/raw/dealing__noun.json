@@ -1,0 +1,94 @@
+{
+ "identity": {
+  "lemma": "dealing",
+  "pos": "noun",
+  "cefr": "B2"
+ },
+ "candidate": {
+  "lemma": "dealing",
+  "pos": "noun",
+  "cefr": "B2",
+  "definition_en": "Business activities, transactions, or a particular way of treating and interacting with others.",
+  "explanation_ar": "التعامل أو المعاملة، سواء في مجال التجارة والأعمال أو أسلوب معاملة الناس والتصرف معهم.",
+  "senses": [
+   {
+    "sense_id": "1",
+    "definition_en": "The activity of buying, selling, or doing business, or a particular method of conducting business.",
+    "definition_ar": "المعاملات التجارية أو أسلوب إدارة الأعمال والصفقات.",
+    "examples": [
+     "Honest dealing is important in business.",
+     "She was accused of insider dealing."
+    ]
+   },
+   {
+    "sense_id": "2",
+    "definition_en": "The way someone behaves towards or treats other people.",
+    "definition_ar": "طريقة التعامل والسلوك مع الآخرين.",
+    "examples": [
+     "The company's code of conduct emphasizes fair dealing with all customers."
+    ]
+   }
+  ],
+  "examples": [
+   "Honest dealing is important in business.",
+   "She was accused of insider dealing.",
+   "The company's code of conduct emphasizes fair dealing with all customers."
+  ],
+  "translations": [
+   "تعامل",
+   "معاملة",
+   "تجارة"
+  ],
+  "relations": {
+   "synonyms": [
+    "trading",
+    "business",
+    "conduct",
+    "treatment"
+   ],
+   "antonyms": [],
+   "collocations": [
+    "fair dealing",
+    "insider dealing",
+    "honest dealing",
+    "drug dealing"
+   ]
+  },
+  "mnemonic": "جاية من 'deal' (صفقة أو اتفاق)، واللاحقة '-ing' تحولها لاسم يشير إلى عملية 'التعامل' أو المتاجرة نفسها.",
+  "phonetic_us": "ˈdiːlɪŋ",
+  "phonetic_uk": "ˈdiːlɪŋ",
+  "syllables": "deal•ing",
+  "semantic_tags": [
+   "business",
+   "trade",
+   "behavior"
+  ],
+  "ai_confidence": 0.95
+ },
+ "arm": {
+  "definition_en": "Business activities, transactions, or a particular way of treating and interacting with others.",
+  "explanation_ar": "التعامل أو المعاملة، سواء في مجال التجارة والأعمال أو أسلوب معاملة الناس والتصرف معهم.",
+  "examples": [
+   "Honest dealing is important in business.",
+   "She was accused of insider dealing.",
+   "The company's code of conduct emphasizes fair dealing with all customers."
+  ],
+  "translations": {
+   "arabic_ar": "تعامل معاملة تجارة"
+  },
+  "synonyms": [
+   "trading",
+   "business",
+   "conduct",
+   "treatment"
+  ],
+  "antonyms": [],
+  "collocations": [
+   "fair dealing",
+   "insider dealing",
+   "honest dealing",
+   "drug dealing"
+  ],
+  "mnemonic_ar": "جاية من 'deal' (صفقة أو اتفاق)، واللاحقة '-ing' تحولها لاسم يشير إلى عملية 'التعامل' أو المتاجرة نفسها."
+ }
+}
