@@ -1,0 +1,174 @@
+[
+ {
+  "lemma": "deal",
+  "pos": "verb",
+  "status": "MANUAL_REVIEW — G1 CEFR drift",
+  "db_row": {
+   "id": 551,
+   "wordEn": "deal",
+   "pos": "verb",
+   "cefrLevel": "A2",
+   "rank": 551,
+   "difficultyScore": 4
+  },
+  "manifest_legacy_cefr": "A2",
+  "candidate_cefr": "B1"
+ },
+ {
+  "lemma": "double",
+  "pos": "pron",
+  "status": "MANUAL_REVIEW — G1 CEFR drift",
+  "db_row": {
+   "id": 1239,
+   "wordEn": "double",
+   "pos": "pron",
+   "cefrLevel": "A2",
+   "rank": 1239,
+   "difficultyScore": 3
+  },
+  "manifest_legacy_cefr": "A2",
+  "candidate_cefr": "B1"
+ },
+ {
+  "lemma": "spell",
+  "pos": "verb",
+  "status": "MANUAL_REVIEW — G1 CEFR drift",
+  "db_row": {
+   "id": 3136,
+   "wordEn": "spell",
+   "pos": "verb",
+   "cefrLevel": "A1",
+   "rank": 3136,
+   "difficultyScore": 4
+  },
+  "manifest_legacy_cefr": "A1",
+  "candidate_cefr": "C1"
+ },
+ {
+  "lemma": "billion",
+  "pos": "num",
+  "status": "BLOCKED_G2 — provenance/decision gap; stays legacy",
+  "db_row": {
+   "id": 1789,
+   "wordEn": "billion",
+   "pos": "num",
+   "cefrLevel": "A2",
+   "rank": 1789,
+   "difficultyScore": 6
+  },
+  "manifest_legacy_cefr": "A2",
+  "candidate_cefr": "A2"
+ },
+ {
+  "lemma": "bare",
+  "pos": "adj",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 4004,
+   "wordEn": "bare",
+   "pos": "adj",
+   "cefrLevel": "C1",
+   "rank": 4004,
+   "difficultyScore": 9
+  },
+  "candidate_cefr": "C1"
+ },
+ {
+  "lemma": "flame",
+  "pos": "noun",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 4499,
+   "wordEn": "flame",
+   "pos": "noun",
+   "cefrLevel": "B2",
+   "rank": 4499,
+   "difficultyScore": 5
+  },
+  "candidate_cefr": "B2"
+ },
+ {
+  "lemma": "ice cream",
+  "pos": "noun",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 2734,
+   "wordEn": "ice cream",
+   "pos": "noun",
+   "cefrLevel": "A1",
+   "rank": 2734,
+   "difficultyScore": 5
+  },
+  "candidate_cefr": "A1"
+ },
+ {
+  "lemma": "line-up",
+  "pos": "verb",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 412,
+   "wordEn": "line-up",
+   "pos": "verb",
+   "cefrLevel": "C1",
+   "rank": 412,
+   "difficultyScore": 9
+  },
+  "candidate_cefr": "C1"
+ },
+ {
+  "lemma": "oral",
+  "pos": "adj",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 3628,
+   "wordEn": "oral",
+   "pos": "adj",
+   "cefrLevel": "C1",
+   "rank": 3628,
+   "difficultyScore": 9
+  },
+  "candidate_cefr": "C1"
+ },
+ {
+  "lemma": "over",
+  "pos": "prep",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 83,
+   "wordEn": "over",
+   "pos": "prep",
+   "cefrLevel": "A1",
+   "rank": 83,
+   "difficultyScore": 2
+  },
+  "candidate_cefr": "A1"
+ },
+ {
+  "lemma": "refuse",
+  "pos": "verb",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 3043,
+   "wordEn": "refuse",
+   "pos": "verb",
+   "cefrLevel": "A2",
+   "rank": 3043,
+   "difficultyScore": 5
+  },
+  "candidate_cefr": "A2"
+ },
+ {
+  "lemma": "trace",
+  "pos": "verb",
+  "status": "LEGACY_ONLY — seeded-gen 429 fail",
+  "db_row": {
+   "id": 3916,
+   "wordEn": "trace",
+   "pos": "verb",
+   "cefrLevel": "B2",
+   "rank": 3916,
+   "difficultyScore": 6
+  },
+  "candidate_cefr": "B2"
+ }
+]
