@@ -1,0 +1,23 @@
+{
+ "baseline_id": "Baseline-PostMigration-001",
+ "db_file": "WordsMaster.db",
+ "file_sha256": "31a3434f86d15c4e8ee743cbacafdf7f161eac36708cad88a352a59ae92ce8e4",
+ "final_logical_hash_wordsmaster": "9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa",
+ "schema_fingerprint": "29001c2d65d5217e9e3778e758f93dc92039a57a055299acd516cc98b4e06b23",
+ "row_count": 7300,
+ "identity_count": 7300,
+ "promoted_cells_observed_changed": 1189,
+ "promoted_cells_noop_documented": 195,
+ "audit_table": "migration_audit_2026_001",
+ "audit_rows": 1384,
+ "audit_hash": "7564dfe760cb27dc7d9e5594f293a22cd9f4adabb1a3f19787ec1e71fd43e5b7",
+ "full_state_hash": "63d9146ff966365f5a62509d72bb7fc41a7f2042bc1b5b1bb7404015cadf8c41",
+ "rollback_point": "WordsMaster_backup_20260908T235840Z.db",
+ "rollback_backup_sha256": "b549a579fa7cbd9ef2d55dde818e4c627921a4e77b45efc31b705b5d64cbb544",
+ "sources": {
+  "manifest_sha256": "a053dba7aa0a4e4aa65526955f76c2db1fe83f9957448ac7329d422886b13fa4",
+  "execution_report": "output/migration_readiness/execution/execution_report.json",
+  "verification": "output/migration_readiness/verification/post_migration_verification.json"
+ },
+ "status": "FROZEN — reference for all future waves; any new migration wave requires a new governance decision; lock stays ON."
+}

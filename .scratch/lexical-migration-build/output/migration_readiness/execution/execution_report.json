@@ -1,0 +1,47 @@
+{
+ "decision": {
+  "action": "EXECUTE 1384 field-level promotions",
+  "authorization": "governance lock LIFTED by human-owner EXECUTE decision 2026-09-08 (Monday final decision); protocol ratified verbatim; 1384 field-level promotions. This migration wave only; 348/356/AI-rubric/pilot-60 stay frozen.",
+  "protocol": "pre-write checklist -> backup-first -> single transaction -> audit(expected==actual==1384) -> verify-inside-txn -> post-commit re-verification -> abort/rollback on any failure"
+ },
+ "checks": {
+  "manifest_sha256_file": "a053dba7aa0a4e4aa65526955f76c2db1fe83f9957448ac7329d422886b13fa4",
+  "manifest_sha256_meta": "a053dba7aa0a4e4aa65526955f76c2db1fe83f9957448ac7329d422886b13fa4",
+  "manifest_hash_matches": true,
+  "pre_logical_sha256_wordsmaster": "7a564926207b6fcf4fef5760b696dfca56dc9c304457a1624b8b82b224ba1ffb",
+  "rows": 7300,
+  "production_file_sha256": "cfabafa8153521b3ebfe457f298f7e311cea25a2bbecb991a6e986fde286984f",
+  "production_mtime_iso": "2026-03-02T17:28:03+00:00",
+  "promotions": 1384,
+  "expected": 1384,
+  "promotion_count_ok": true,
+  "billion_excluded": true,
+  "columns": [
+   "antonyms",
+   "arabicAr",
+   "collocations",
+   "definitionAr",
+   "definitionEn",
+   "examples",
+   "mnemonicAr",
+   "synonyms"
+  ],
+  "protected_cols_touched": [],
+  "governance_note": "governance lock LIFTED by human-owner EXECUTE decision 2026-09-08 (Monday final decision); protocol ratified verbatim; 1384 field-level promotions. This migration wave only; 348/356/AI-rubric/pilot-60 stay frozen.",
+  "backup_path": "/home/aamgadghozzy/projects/LexicalEnrichment/WordsMaster_backup_20260908T235840Z.db",
+  "backup_file_sha256": "b549a579fa7cbd9ef2d55dde818e4c627921a4e77b45efc31b705b5d64cbb544",
+  "backup_logical_sha256": "7a564926207b6fcf4fef5760b696dfca56dc9c304457a1624b8b82b224ba1ffb",
+  "backup_rows": 7300,
+  "backup_logical_equals_pre": true,
+  "post_logical_sha256_wordsmaster": "9c50a5b99617e8c0e80c656e85248adda12d15e7a97966d6a258e3842eb43caa",
+  "full_state_sha256_wordsmaster_plus_audit": "63d9146ff966365f5a62509d72bb7fc41a7f2042bc1b5b1bb7404015cadf8c41",
+  "post_commit_recheck_cells": 1384,
+  "audit_rows": 1384,
+  "audit_rows_match": true,
+  "production_file_sha256_after": "31a3434f86d15c4e8ee743cbacafdf7f161eac36708cad88a352a59ae92ce8e4",
+  "production_mtime_iso_after": "2026-09-08T23:58:42.039048+00:00"
+ },
+ "ids_count": 7300,
+ "outcome": "COMMITTED",
+ "canonical_writes_after_execution": 1
+}

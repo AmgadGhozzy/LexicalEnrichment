@@ -1,0 +1,22 @@
+{
+ "baseline_id": "Baseline-PostMigration-002",
+ "db_file": "WordsMaster.db",
+ "file_sha256": "66fcf8b91987e4b1a8ac8d3ccf5aed372e38da967218de13c58a68aaaae3eba7",
+ "final_logical_hash_wordsmaster": "29850877a0e238d1d2959574d6f4ea95f2607f7110804c752eff739951328c9e",
+ "schema_fingerprint": "aadab9a5b2297ae17559d0242fce75dc82812e88c317d423211ac3dee4abf3b3",
+ "schema_delta_vs_001": "+(migration_audit_2026_002) only",
+ "row_count": 7300,
+ "identity_count": 7300,
+ "audit_001_rows": 1384,
+ "audit_001_hash": "7564dfe760cb27dc7d9e5594f293a22cd9f4adabb1a3f19787ec1e71fd43e5b7",
+ "audit_002_rows": 564,
+ "audit_002_hash": "6dd4268ed783c843af72da50b5b4e97a6e9d6c88de0c51a67078a3bc3451efa8",
+ "protected_cols_drift_vs_wave1_premigration_rows": 0,
+ "rollback_point": "WordsMaster_backup_20260909T164125Z.db",
+ "rollback_backup_sha256": "31a3434f86d15c4e8ee743cbacafdf7f161eac36708cad88a352a59ae92ce8e4",
+ "sources": {
+  "baseline_001": "output/migration_readiness/baseline/Baseline-PostMigration-001.json",
+  "wave2_report": "output/EXP-SEEDED-609/execution/execution_report_564.json"
+ },
+ "status": "FROZEN — post-wave-2 canonical reference; lock ON; any new wave needs a NEW governance decision."
+}
