@@ -1,0 +1,2416 @@
+{
+ "items": {
+  "fly__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "razor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "reverberate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "contractual__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "forgive__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "appropriately__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fundamentally__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "clumsy__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "philosopher__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wake__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "whichever__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "plaintiff__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sit__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "extra__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "goalkeeper__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dealing__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "defer__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "commissioner__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "conspiracy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "embody__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shovel__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "formerly__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "submarine__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "swim__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "signify__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "yacht__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "butter__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "boot__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "corruption__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "resentment__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "avoidance__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "craft__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mouth__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "convert__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dig__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "append__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "underlie__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "equip__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "department__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "disciplinary__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "antibody__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "belly__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spin__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "warranty__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "remedy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "boyfriend__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "staircase__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intimacy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lock__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "smell__verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "undertaking__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shoot__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "invisible__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "competitive__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "underdeveloped__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hot__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "stipulation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "stranger__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "telegraph__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wind__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "analyse__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "gift__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "incessant__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "elder__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "craftsman__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "empirical__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "degenerate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "seller__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "stick__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "arise__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "notion__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "complement__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "immense__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "just__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "possessor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lordship__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "patriotic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "they__pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "relief__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intellectual__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shelf__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "gradually__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hill__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "devote__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "taxpayer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tear__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "abandon__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "proclaim__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hatred__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "doing__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "laboratory__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mushroom__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "this__det": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "conversely__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "monkey__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sandwich__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "diminish__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "conquest__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "today__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "columnist__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spool__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "aggregate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dot__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "overtake__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "maker__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "worm__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "composer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "constitution__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lesser__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dash__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pencil__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "politician__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "specify__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cup__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "depict__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "converge__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "scar__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "republic__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "voucher__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "perpendicular__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "interactive__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "board__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ox__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "convert__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "nutrient__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "let__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "whale__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "urgency__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "material__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "surgeon__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "prince__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "begin__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fat__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tomato__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "trigger__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "trench__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dollar__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "omit__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "humble__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lap__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "relinquish__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mayor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "drive__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "steel__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "parliament__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "saddle__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bitch__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "utterance__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wrongdoing__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "inch__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dense__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intrinsic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "superimpose__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "peer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "solvent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "current__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "no__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dissipate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "weed__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chronic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chair__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "acceptable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "endorse__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "diameter__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "theory__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pay__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fisherman__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "nobody__pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sell__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "construe__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "displace__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "adviser__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "liable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lord__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "modify__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "applicable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intuitive__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "catch__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "stand__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "undergo__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "esteem__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "go__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "humorous__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "precedent__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "here__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spend__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "loan__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "isolate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fertile__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "buffer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ride__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bank__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "inference__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "build__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mercenary__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mum__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "highway__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "outbreak__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "premise__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "foot__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "viewpoint__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "village__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "come__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "glow__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "precipitate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "incline__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sexuality__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "respectively__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "contradict__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "darken__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "give__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "injustice__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "origin__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lose__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "complexity__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "strive__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "weep__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fight__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "silver__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cathedral__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "loaf__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "overlap__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ridge__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "eighteen__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "weigh__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "opponent__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "threaten__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "throw__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "marketing__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "decent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bankruptcy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "perpetrate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "prize__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "company__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "this__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "strike__verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "historically__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "successive__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "that__det": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "be__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pragmatic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "name__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "undo__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "liquidation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "communist__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "extended__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "critic__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "latterly__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "exception__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "actual__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pound__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "consortium__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "swear__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "especial__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "common__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mortality__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lender__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sacrifice__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "participle__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "find__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "resolve__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "odour__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "retardation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lead__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wholly__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "courtesy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "angle__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cooperation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "nation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "identification__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "congress__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "doctor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "them__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "withdraw__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "counsellor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "linger__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "faction__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "evolutionary__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "possession__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "count__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "thank__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "blog__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "novelist__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "gate__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "claw__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mean__verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "scheme__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ingenious__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fossil__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "articulate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "directory__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ring__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "oscillate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "formidable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "subsequently__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "conspicuous__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hunter__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "flourish__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "buy__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "web__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bring__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hero__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "gentleman__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "slide__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "slide__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "module__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bell__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "duke__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "coach__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hide__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "takeover__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "husband__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "autonomous__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "commentator__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spit__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "elephant__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "presidency__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sixteen__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "up-to-date__adj": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "inflation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pin__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "seizure__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "likelihood__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "goodness__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "graph__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rubber__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "theorem__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pertain__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "denominator__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "notorious__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tangible__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tactic__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "onwards__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "invariably__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "equitable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dismember__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "under__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fervour__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "flourish__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sing__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "palm__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shake__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fusion__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "win__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "goat__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sweep__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tooth__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hopeless__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "institute__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rage__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sediment__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "minimum__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "emperor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bible__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lace__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "datum__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "give__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fortnight__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "monitor__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "academic__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rabbit__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hereditary__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "differentiate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ulcer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "detection__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "send__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "speed__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "statutory__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "inconsistent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bride__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wagon__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "balloon__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "miserable__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "converse__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "chalk__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wolf__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "technical__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "discern__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "draw__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wear__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "expansion__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mobility__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bear__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "comparison__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "alien__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "slab__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bind__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "university__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "syntactic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "gaiety__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "reprimand__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ideal__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "app__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "amuse__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "speculation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "drum__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "thumb__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "eliminate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "regulation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cling__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "break__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "disk__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hang__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tell__verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "load__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "offensive__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "other__pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "expenditure__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "navy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "salesman__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "precaution__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "articulate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "interior__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "super__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "nineteen__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rape__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "radius__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "he__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sole__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "confine__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bastard__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "speculate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "kneel__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "beach__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "unionist__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "foolish__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "text__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "parent__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "synchronous__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "subsidy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "integrate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "organism__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bend__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "allege__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "filament__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "forest__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "disgust__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "scholarship__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shrink__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "variant__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "influential__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "persuasion__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "duck__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "trivial__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sponsorship__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "headdress__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hypothesis__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mad__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hence__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intervention__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "extensively__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "flush__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "there__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "conquer__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "madden__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "liability__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "deceitful__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "emphatic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cry__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "actor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "trillion__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "comparatively__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "exile__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fluctuation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "echo__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "branch__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "migrate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lexical__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "thick__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "have__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cake__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dividend__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "pony__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "disregard__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rejoice__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "narrate__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mouse__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sail__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "gradual__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "flee__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sincere__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fucking__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "shine__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "uphold__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "lay__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "make__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "remote__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fourteen__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "comment__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "geometric__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "wherein__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "grind__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "drink__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "poet__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fragment__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sink__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "dancer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sleep__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "surgery__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "spring__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fitness__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "sir__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "author__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "journal__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "understand__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "write__verb": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "condemn__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "egg__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "rise__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "eat__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "novel__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "criterion__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "consequent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "contingent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "phrase__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "efficiency__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "synthesis__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "odd__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "subsidize__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "three__num": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "blow__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "valuation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hitherto__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "accurately__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "mistake__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "resolve__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "entity__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "orientation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "suffice__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "grow__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "internal__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "abundant__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "trustee__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "apology__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "choose__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "forget__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "unlawful__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hear__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "directive__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cap__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "undertake__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "guild__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "victim__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "superficial__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "classify__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "floor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "tube__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "hers__pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "simultaneous__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "drain__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fan__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "excellence__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "degradation__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "freeze__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "buyer__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "creep__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "projection__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "cash__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "feel__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "coin__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "defy__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bind__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "leave__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "breed__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "seek__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "legitimate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "forbid__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "forgo__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "front__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "theatrical__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "postulate__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "absent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "deadly__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "headmaster__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "acute__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "convenience__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "glue__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "specifically__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "principal__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "differ__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "electorate__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "customary__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "woman__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "decision-making__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "sponsor__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "synopsis__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "toxic__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "know__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "nationalism__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "intersect__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "complement__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "prudent__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "that__pron": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "metabolism__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "urgently__adv": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "homosexual__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "bond__noun": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "yes__excl": {
+   "status": "success",
+   "artifact_pass": false
+  },
+  "deprive__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "subordinate__adj": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "neighbour__noun": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "fall__verb": {
+   "status": "success",
+   "artifact_pass": true
+  },
+  "ship__noun": {
+   "status": "success",
+   "artifact_pass": true
+  }
+ }
+}
