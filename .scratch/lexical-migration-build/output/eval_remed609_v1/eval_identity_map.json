@@ -1,0 +1,2365 @@
+{
+ "eval_id": "eval_remed609_v1",
+ "map": {
+  "eval_remed609_v1-0001": {
+   "candidate_side": "B",
+   "candidate_key": "abandon/noun"
+  },
+  "eval_remed609_v1-0002": {
+   "candidate_side": "A",
+   "candidate_key": "absent/adj"
+  },
+  "eval_remed609_v1-0003": {
+   "candidate_side": "B",
+   "candidate_key": "abundant/adj"
+  },
+  "eval_remed609_v1-0004": {
+   "candidate_side": "A",
+   "candidate_key": "academic/noun"
+  },
+  "eval_remed609_v1-0005": {
+   "candidate_side": "A",
+   "candidate_key": "acceptable/adj"
+  },
+  "eval_remed609_v1-0006": {
+   "candidate_side": "A",
+   "candidate_key": "accurately/adv"
+  },
+  "eval_remed609_v1-0007": {
+   "candidate_side": "A",
+   "candidate_key": "actor/noun"
+  },
+  "eval_remed609_v1-0008": {
+   "candidate_side": "B",
+   "candidate_key": "actual/adj"
+  },
+  "eval_remed609_v1-0009": {
+   "candidate_side": "A",
+   "candidate_key": "acute/adj"
+  },
+  "eval_remed609_v1-0010": {
+   "candidate_side": "A",
+   "candidate_key": "adviser/noun"
+  },
+  "eval_remed609_v1-0011": {
+   "candidate_side": "B",
+   "candidate_key": "aggregate/adj"
+  },
+  "eval_remed609_v1-0012": {
+   "candidate_side": "B",
+   "candidate_key": "alien/adj"
+  },
+  "eval_remed609_v1-0013": {
+   "candidate_side": "A",
+   "candidate_key": "allege/verb"
+  },
+  "eval_remed609_v1-0014": {
+   "candidate_side": "B",
+   "candidate_key": "amuse/verb"
+  },
+  "eval_remed609_v1-0015": {
+   "candidate_side": "A",
+   "candidate_key": "analyse/verb"
+  },
+  "eval_remed609_v1-0016": {
+   "candidate_side": "A",
+   "candidate_key": "angle/noun"
+  },
+  "eval_remed609_v1-0017": {
+   "candidate_side": "B",
+   "candidate_key": "antibody/noun"
+  },
+  "eval_remed609_v1-0018": {
+   "candidate_side": "B",
+   "candidate_key": "apology/noun"
+  },
+  "eval_remed609_v1-0019": {
+   "candidate_side": "B",
+   "candidate_key": "app/noun"
+  },
+  "eval_remed609_v1-0020": {
+   "candidate_side": "B",
+   "candidate_key": "append/verb"
+  },
+  "eval_remed609_v1-0021": {
+   "candidate_side": "B",
+   "candidate_key": "applicable/adj"
+  },
+  "eval_remed609_v1-0022": {
+   "candidate_side": "A",
+   "candidate_key": "appropriately/adv"
+  },
+  "eval_remed609_v1-0023": {
+   "candidate_side": "A",
+   "candidate_key": "arise/verb"
+  },
+  "eval_remed609_v1-0024": {
+   "candidate_side": "A",
+   "candidate_key": "articulate/adj"
+  },
+  "eval_remed609_v1-0025": {
+   "candidate_side": "A",
+   "candidate_key": "articulate/verb"
+  },
+  "eval_remed609_v1-0026": {
+   "candidate_side": "B",
+   "candidate_key": "author/noun"
+  },
+  "eval_remed609_v1-0027": {
+   "candidate_side": "A",
+   "candidate_key": "autonomous/adj"
+  },
+  "eval_remed609_v1-0028": {
+   "candidate_side": "A",
+   "candidate_key": "avoidance/noun"
+  },
+  "eval_remed609_v1-0029": {
+   "candidate_side": "A",
+   "candidate_key": "balloon/noun"
+  },
+  "eval_remed609_v1-0030": {
+   "candidate_side": "B",
+   "candidate_key": "bank/noun"
+  },
+  "eval_remed609_v1-0031": {
+   "candidate_side": "A",
+   "candidate_key": "bankruptcy/noun"
+  },
+  "eval_remed609_v1-0032": {
+   "candidate_side": "A",
+   "candidate_key": "bastard/noun"
+  },
+  "eval_remed609_v1-0033": {
+   "candidate_side": "B",
+   "candidate_key": "be/verb"
+  },
+  "eval_remed609_v1-0034": {
+   "candidate_side": "B",
+   "candidate_key": "beach/noun"
+  },
+  "eval_remed609_v1-0035": {
+   "candidate_side": "A",
+   "candidate_key": "bear/verb"
+  },
+  "eval_remed609_v1-0036": {
+   "candidate_side": "A",
+   "candidate_key": "begin/verb"
+  },
+  "eval_remed609_v1-0037": {
+   "candidate_side": "A",
+   "candidate_key": "bell/noun"
+  },
+  "eval_remed609_v1-0038": {
+   "candidate_side": "B",
+   "candidate_key": "belly/noun"
+  },
+  "eval_remed609_v1-0039": {
+   "candidate_side": "B",
+   "candidate_key": "bend/verb"
+  },
+  "eval_remed609_v1-0040": {
+   "candidate_side": "B",
+   "candidate_key": "bible/noun"
+  },
+  "eval_remed609_v1-0041": {
+   "candidate_side": "B",
+   "candidate_key": "bind/noun"
+  },
+  "eval_remed609_v1-0042": {
+   "candidate_side": "B",
+   "candidate_key": "bind/verb"
+  },
+  "eval_remed609_v1-0043": {
+   "candidate_side": "B",
+   "candidate_key": "bitch/noun"
+  },
+  "eval_remed609_v1-0044": {
+   "candidate_side": "A",
+   "candidate_key": "blog/noun"
+  },
+  "eval_remed609_v1-0045": {
+   "candidate_side": "A",
+   "candidate_key": "blow/verb"
+  },
+  "eval_remed609_v1-0046": {
+   "candidate_side": "A",
+   "candidate_key": "board/noun"
+  },
+  "eval_remed609_v1-0047": {
+   "candidate_side": "B",
+   "candidate_key": "boot/noun"
+  },
+  "eval_remed609_v1-0048": {
+   "candidate_side": "B",
+   "candidate_key": "boyfriend/noun"
+  },
+  "eval_remed609_v1-0049": {
+   "candidate_side": "A",
+   "candidate_key": "branch/noun"
+  },
+  "eval_remed609_v1-0050": {
+   "candidate_side": "B",
+   "candidate_key": "break/verb"
+  },
+  "eval_remed609_v1-0051": {
+   "candidate_side": "A",
+   "candidate_key": "breed/verb"
+  },
+  "eval_remed609_v1-0052": {
+   "candidate_side": "A",
+   "candidate_key": "bride/noun"
+  },
+  "eval_remed609_v1-0053": {
+   "candidate_side": "B",
+   "candidate_key": "bring/verb"
+  },
+  "eval_remed609_v1-0054": {
+   "candidate_side": "A",
+   "candidate_key": "buffer/noun"
+  },
+  "eval_remed609_v1-0055": {
+   "candidate_side": "A",
+   "candidate_key": "build/verb"
+  },
+  "eval_remed609_v1-0056": {
+   "candidate_side": "B",
+   "candidate_key": "butter/noun"
+  },
+  "eval_remed609_v1-0057": {
+   "candidate_side": "A",
+   "candidate_key": "buy/verb"
+  },
+  "eval_remed609_v1-0058": {
+   "candidate_side": "A",
+   "candidate_key": "buyer/noun"
+  },
+  "eval_remed609_v1-0059": {
+   "candidate_side": "B",
+   "candidate_key": "cake/noun"
+  },
+  "eval_remed609_v1-0060": {
+   "candidate_side": "A",
+   "candidate_key": "cap/noun"
+  },
+  "eval_remed609_v1-0061": {
+   "candidate_side": "A",
+   "candidate_key": "cash/noun"
+  },
+  "eval_remed609_v1-0062": {
+   "candidate_side": "A",
+   "candidate_key": "catch/verb"
+  },
+  "eval_remed609_v1-0063": {
+   "candidate_side": "A",
+   "candidate_key": "cathedral/noun"
+  },
+  "eval_remed609_v1-0064": {
+   "candidate_side": "A",
+   "candidate_key": "chair/verb"
+  },
+  "eval_remed609_v1-0065": {
+   "candidate_side": "B",
+   "candidate_key": "chalk/noun"
+  },
+  "eval_remed609_v1-0066": {
+   "candidate_side": "A",
+   "candidate_key": "choose/verb"
+  },
+  "eval_remed609_v1-0067": {
+   "candidate_side": "B",
+   "candidate_key": "chronic/adj"
+  },
+  "eval_remed609_v1-0068": {
+   "candidate_side": "B",
+   "candidate_key": "classify/verb"
+  },
+  "eval_remed609_v1-0069": {
+   "candidate_side": "A",
+   "candidate_key": "claw/noun"
+  },
+  "eval_remed609_v1-0070": {
+   "candidate_side": "A",
+   "candidate_key": "cling/verb"
+  },
+  "eval_remed609_v1-0071": {
+   "candidate_side": "A",
+   "candidate_key": "clumsy/adj"
+  },
+  "eval_remed609_v1-0072": {
+   "candidate_side": "B",
+   "candidate_key": "coach/noun"
+  },
+  "eval_remed609_v1-0073": {
+   "candidate_side": "A",
+   "candidate_key": "coin/noun"
+  },
+  "eval_remed609_v1-0074": {
+   "candidate_side": "B",
+   "candidate_key": "columnist/noun"
+  },
+  "eval_remed609_v1-0075": {
+   "candidate_side": "B",
+   "candidate_key": "come/verb"
+  },
+  "eval_remed609_v1-0076": {
+   "candidate_side": "B",
+   "candidate_key": "comment/noun"
+  },
+  "eval_remed609_v1-0077": {
+   "candidate_side": "B",
+   "candidate_key": "commentator/noun"
+  },
+  "eval_remed609_v1-0078": {
+   "candidate_side": "B",
+   "candidate_key": "commissioner/noun"
+  },
+  "eval_remed609_v1-0079": {
+   "candidate_side": "A",
+   "candidate_key": "common/adj"
+  },
+  "eval_remed609_v1-0080": {
+   "candidate_side": "A",
+   "candidate_key": "communist/adj"
+  },
+  "eval_remed609_v1-0081": {
+   "candidate_side": "B",
+   "candidate_key": "company/noun"
+  },
+  "eval_remed609_v1-0082": {
+   "candidate_side": "A",
+   "candidate_key": "comparatively/adv"
+  },
+  "eval_remed609_v1-0083": {
+   "candidate_side": "A",
+   "candidate_key": "comparison/noun"
+  },
+  "eval_remed609_v1-0084": {
+   "candidate_side": "B",
+   "candidate_key": "competitive/adj"
+  },
+  "eval_remed609_v1-0085": {
+   "candidate_side": "A",
+   "candidate_key": "complement/noun"
+  },
+  "eval_remed609_v1-0086": {
+   "candidate_side": "B",
+   "candidate_key": "complement/verb"
+  },
+  "eval_remed609_v1-0087": {
+   "candidate_side": "A",
+   "candidate_key": "complexity/noun"
+  },
+  "eval_remed609_v1-0088": {
+   "candidate_side": "A",
+   "candidate_key": "composer/noun"
+  },
+  "eval_remed609_v1-0089": {
+   "candidate_side": "A",
+   "candidate_key": "condemn/verb"
+  },
+  "eval_remed609_v1-0090": {
+   "candidate_side": "A",
+   "candidate_key": "confine/noun"
+  },
+  "eval_remed609_v1-0091": {
+   "candidate_side": "A",
+   "candidate_key": "congress/noun"
+  },
+  "eval_remed609_v1-0092": {
+   "candidate_side": "B",
+   "candidate_key": "conquer/verb"
+  },
+  "eval_remed609_v1-0093": {
+   "candidate_side": "A",
+   "candidate_key": "conquest/noun"
+  },
+  "eval_remed609_v1-0094": {
+   "candidate_side": "A",
+   "candidate_key": "consequent/adj"
+  },
+  "eval_remed609_v1-0095": {
+   "candidate_side": "A",
+   "candidate_key": "consortium/noun"
+  },
+  "eval_remed609_v1-0096": {
+   "candidate_side": "B",
+   "candidate_key": "conspicuous/adj"
+  },
+  "eval_remed609_v1-0097": {
+   "candidate_side": "B",
+   "candidate_key": "conspiracy/noun"
+  },
+  "eval_remed609_v1-0098": {
+   "candidate_side": "B",
+   "candidate_key": "constitution/noun"
+  },
+  "eval_remed609_v1-0099": {
+   "candidate_side": "A",
+   "candidate_key": "construe/verb"
+  },
+  "eval_remed609_v1-0100": {
+   "candidate_side": "A",
+   "candidate_key": "contingent/adj"
+  },
+  "eval_remed609_v1-0101": {
+   "candidate_side": "B",
+   "candidate_key": "contractual/adj"
+  },
+  "eval_remed609_v1-0102": {
+   "candidate_side": "B",
+   "candidate_key": "contradict/verb"
+  },
+  "eval_remed609_v1-0103": {
+   "candidate_side": "B",
+   "candidate_key": "convenience/noun"
+  },
+  "eval_remed609_v1-0104": {
+   "candidate_side": "B",
+   "candidate_key": "converge/verb"
+  },
+  "eval_remed609_v1-0105": {
+   "candidate_side": "B",
+   "candidate_key": "converse/adj"
+  },
+  "eval_remed609_v1-0106": {
+   "candidate_side": "B",
+   "candidate_key": "conversely/adv"
+  },
+  "eval_remed609_v1-0107": {
+   "candidate_side": "B",
+   "candidate_key": "convert/noun"
+  },
+  "eval_remed609_v1-0108": {
+   "candidate_side": "B",
+   "candidate_key": "convert/verb"
+  },
+  "eval_remed609_v1-0109": {
+   "candidate_side": "B",
+   "candidate_key": "cooperation/noun"
+  },
+  "eval_remed609_v1-0110": {
+   "candidate_side": "A",
+   "candidate_key": "corruption/noun"
+  },
+  "eval_remed609_v1-0111": {
+   "candidate_side": "B",
+   "candidate_key": "counsellor/noun"
+  },
+  "eval_remed609_v1-0112": {
+   "candidate_side": "A",
+   "candidate_key": "count/noun"
+  },
+  "eval_remed609_v1-0113": {
+   "candidate_side": "A",
+   "candidate_key": "courtesy/noun"
+  },
+  "eval_remed609_v1-0114": {
+   "candidate_side": "A",
+   "candidate_key": "craft/noun"
+  },
+  "eval_remed609_v1-0115": {
+   "candidate_side": "A",
+   "candidate_key": "craftsman/noun"
+  },
+  "eval_remed609_v1-0116": {
+   "candidate_side": "B",
+   "candidate_key": "creep/verb"
+  },
+  "eval_remed609_v1-0117": {
+   "candidate_side": "A",
+   "candidate_key": "criterion/noun"
+  },
+  "eval_remed609_v1-0118": {
+   "candidate_side": "A",
+   "candidate_key": "critic/noun"
+  },
+  "eval_remed609_v1-0119": {
+   "candidate_side": "B",
+   "candidate_key": "cup/noun"
+  },
+  "eval_remed609_v1-0120": {
+   "candidate_side": "A",
+   "candidate_key": "current/noun"
+  },
+  "eval_remed609_v1-0121": {
+   "candidate_side": "B",
+   "candidate_key": "customary/adj"
+  },
+  "eval_remed609_v1-0122": {
+   "candidate_side": "A",
+   "candidate_key": "dancer/noun"
+  },
+  "eval_remed609_v1-0123": {
+   "candidate_side": "B",
+   "candidate_key": "darken/verb"
+  },
+  "eval_remed609_v1-0124": {
+   "candidate_side": "B",
+   "candidate_key": "dash/noun"
+  },
+  "eval_remed609_v1-0125": {
+   "candidate_side": "B",
+   "candidate_key": "datum/noun"
+  },
+  "eval_remed609_v1-0126": {
+   "candidate_side": "A",
+   "candidate_key": "deadly/adj"
+  },
+  "eval_remed609_v1-0127": {
+   "candidate_side": "A",
+   "candidate_key": "dealing/noun"
+  },
+  "eval_remed609_v1-0128": {
+   "candidate_side": "A",
+   "candidate_key": "deceitful/adj"
+  },
+  "eval_remed609_v1-0129": {
+   "candidate_side": "B",
+   "candidate_key": "decent/adj"
+  },
+  "eval_remed609_v1-0130": {
+   "candidate_side": "B",
+   "candidate_key": "defer/verb"
+  },
+  "eval_remed609_v1-0131": {
+   "candidate_side": "B",
+   "candidate_key": "defy/noun"
+  },
+  "eval_remed609_v1-0132": {
+   "candidate_side": "B",
+   "candidate_key": "degenerate/adj"
+  },
+  "eval_remed609_v1-0133": {
+   "candidate_side": "A",
+   "candidate_key": "degradation/noun"
+  },
+  "eval_remed609_v1-0134": {
+   "candidate_side": "B",
+   "candidate_key": "denominator/noun"
+  },
+  "eval_remed609_v1-0135": {
+   "candidate_side": "B",
+   "candidate_key": "dense/adj"
+  },
+  "eval_remed609_v1-0136": {
+   "candidate_side": "B",
+   "candidate_key": "department/noun"
+  },
+  "eval_remed609_v1-0137": {
+   "candidate_side": "B",
+   "candidate_key": "depict/verb"
+  },
+  "eval_remed609_v1-0138": {
+   "candidate_side": "A",
+   "candidate_key": "deprive/verb"
+  },
+  "eval_remed609_v1-0139": {
+   "candidate_side": "A",
+   "candidate_key": "detection/noun"
+  },
+  "eval_remed609_v1-0140": {
+   "candidate_side": "B",
+   "candidate_key": "devote/verb"
+  },
+  "eval_remed609_v1-0141": {
+   "candidate_side": "A",
+   "candidate_key": "diameter/noun"
+  },
+  "eval_remed609_v1-0142": {
+   "candidate_side": "B",
+   "candidate_key": "differ/verb"
+  },
+  "eval_remed609_v1-0143": {
+   "candidate_side": "A",
+   "candidate_key": "differentiate/verb"
+  },
+  "eval_remed609_v1-0144": {
+   "candidate_side": "B",
+   "candidate_key": "dig/verb"
+  },
+  "eval_remed609_v1-0145": {
+   "candidate_side": "B",
+   "candidate_key": "diminish/verb"
+  },
+  "eval_remed609_v1-0146": {
+   "candidate_side": "B",
+   "candidate_key": "directive/noun"
+  },
+  "eval_remed609_v1-0147": {
+   "candidate_side": "A",
+   "candidate_key": "directory/noun"
+  },
+  "eval_remed609_v1-0148": {
+   "candidate_side": "A",
+   "candidate_key": "discern/verb"
+  },
+  "eval_remed609_v1-0149": {
+   "candidate_side": "B",
+   "candidate_key": "disciplinary/adj"
+  },
+  "eval_remed609_v1-0150": {
+   "candidate_side": "A",
+   "candidate_key": "disgust/noun"
+  },
+  "eval_remed609_v1-0151": {
+   "candidate_side": "B",
+   "candidate_key": "disk/noun"
+  },
+  "eval_remed609_v1-0152": {
+   "candidate_side": "A",
+   "candidate_key": "dismember/verb"
+  },
+  "eval_remed609_v1-0153": {
+   "candidate_side": "A",
+   "candidate_key": "displace/verb"
+  },
+  "eval_remed609_v1-0154": {
+   "candidate_side": "B",
+   "candidate_key": "disregard/noun"
+  },
+  "eval_remed609_v1-0155": {
+   "candidate_side": "A",
+   "candidate_key": "dissipate/verb"
+  },
+  "eval_remed609_v1-0156": {
+   "candidate_side": "A",
+   "candidate_key": "dividend/noun"
+  },
+  "eval_remed609_v1-0157": {
+   "candidate_side": "B",
+   "candidate_key": "doctor/noun"
+  },
+  "eval_remed609_v1-0158": {
+   "candidate_side": "B",
+   "candidate_key": "doing/noun"
+  },
+  "eval_remed609_v1-0159": {
+   "candidate_side": "B",
+   "candidate_key": "dollar/noun"
+  },
+  "eval_remed609_v1-0160": {
+   "candidate_side": "A",
+   "candidate_key": "dot/noun"
+  },
+  "eval_remed609_v1-0161": {
+   "candidate_side": "A",
+   "candidate_key": "drain/noun"
+  },
+  "eval_remed609_v1-0162": {
+   "candidate_side": "B",
+   "candidate_key": "draw/verb"
+  },
+  "eval_remed609_v1-0163": {
+   "candidate_side": "A",
+   "candidate_key": "drink/verb"
+  },
+  "eval_remed609_v1-0164": {
+   "candidate_side": "A",
+   "candidate_key": "drive/noun"
+  },
+  "eval_remed609_v1-0165": {
+   "candidate_side": "A",
+   "candidate_key": "drum/noun"
+  },
+  "eval_remed609_v1-0166": {
+   "candidate_side": "B",
+   "candidate_key": "duck/noun"
+  },
+  "eval_remed609_v1-0167": {
+   "candidate_side": "A",
+   "candidate_key": "duke/noun"
+  },
+  "eval_remed609_v1-0168": {
+   "candidate_side": "B",
+   "candidate_key": "eat/verb"
+  },
+  "eval_remed609_v1-0169": {
+   "candidate_side": "B",
+   "candidate_key": "echo/verb"
+  },
+  "eval_remed609_v1-0170": {
+   "candidate_side": "B",
+   "candidate_key": "efficiency/noun"
+  },
+  "eval_remed609_v1-0171": {
+   "candidate_side": "B",
+   "candidate_key": "egg/noun"
+  },
+  "eval_remed609_v1-0172": {
+   "candidate_side": "B",
+   "candidate_key": "eighteen/num"
+  },
+  "eval_remed609_v1-0173": {
+   "candidate_side": "A",
+   "candidate_key": "elder/adj"
+  },
+  "eval_remed609_v1-0174": {
+   "candidate_side": "B",
+   "candidate_key": "electorate/noun"
+  },
+  "eval_remed609_v1-0175": {
+   "candidate_side": "A",
+   "candidate_key": "elephant/noun"
+  },
+  "eval_remed609_v1-0176": {
+   "candidate_side": "A",
+   "candidate_key": "eliminate/verb"
+  },
+  "eval_remed609_v1-0177": {
+   "candidate_side": "A",
+   "candidate_key": "embody/verb"
+  },
+  "eval_remed609_v1-0178": {
+   "candidate_side": "B",
+   "candidate_key": "emperor/noun"
+  },
+  "eval_remed609_v1-0179": {
+   "candidate_side": "A",
+   "candidate_key": "emphatic/adj"
+  },
+  "eval_remed609_v1-0180": {
+   "candidate_side": "B",
+   "candidate_key": "empirical/adj"
+  },
+  "eval_remed609_v1-0181": {
+   "candidate_side": "A",
+   "candidate_key": "endorse/verb"
+  },
+  "eval_remed609_v1-0182": {
+   "candidate_side": "A",
+   "candidate_key": "entity/noun"
+  },
+  "eval_remed609_v1-0183": {
+   "candidate_side": "A",
+   "candidate_key": "equip/verb"
+  },
+  "eval_remed609_v1-0184": {
+   "candidate_side": "B",
+   "candidate_key": "equitable/adj"
+  },
+  "eval_remed609_v1-0185": {
+   "candidate_side": "A",
+   "candidate_key": "especial/adj"
+  },
+  "eval_remed609_v1-0186": {
+   "candidate_side": "A",
+   "candidate_key": "esteem/noun"
+  },
+  "eval_remed609_v1-0187": {
+   "candidate_side": "A",
+   "candidate_key": "evolutionary/adj"
+  },
+  "eval_remed609_v1-0188": {
+   "candidate_side": "B",
+   "candidate_key": "excellence/noun"
+  },
+  "eval_remed609_v1-0189": {
+   "candidate_side": "A",
+   "candidate_key": "exception/noun"
+  },
+  "eval_remed609_v1-0190": {
+   "candidate_side": "A",
+   "candidate_key": "exile/noun"
+  },
+  "eval_remed609_v1-0191": {
+   "candidate_side": "B",
+   "candidate_key": "expansion/noun"
+  },
+  "eval_remed609_v1-0192": {
+   "candidate_side": "B",
+   "candidate_key": "expenditure/noun"
+  },
+  "eval_remed609_v1-0193": {
+   "candidate_side": "A",
+   "candidate_key": "extended/adj"
+  },
+  "eval_remed609_v1-0194": {
+   "candidate_side": "A",
+   "candidate_key": "extensively/adv"
+  },
+  "eval_remed609_v1-0195": {
+   "candidate_side": "B",
+   "candidate_key": "extra/adj"
+  },
+  "eval_remed609_v1-0196": {
+   "candidate_side": "B",
+   "candidate_key": "faction/noun"
+  },
+  "eval_remed609_v1-0197": {
+   "candidate_side": "B",
+   "candidate_key": "fall/verb"
+  },
+  "eval_remed609_v1-0198": {
+   "candidate_side": "A",
+   "candidate_key": "fan/noun"
+  },
+  "eval_remed609_v1-0199": {
+   "candidate_side": "A",
+   "candidate_key": "fat/adj"
+  },
+  "eval_remed609_v1-0200": {
+   "candidate_side": "B",
+   "candidate_key": "feel/verb"
+  },
+  "eval_remed609_v1-0201": {
+   "candidate_side": "A",
+   "candidate_key": "fertile/adj"
+  },
+  "eval_remed609_v1-0202": {
+   "candidate_side": "A",
+   "candidate_key": "fervour/noun"
+  },
+  "eval_remed609_v1-0203": {
+   "candidate_side": "B",
+   "candidate_key": "fight/verb"
+  },
+  "eval_remed609_v1-0204": {
+   "candidate_side": "A",
+   "candidate_key": "filament/noun"
+  },
+  "eval_remed609_v1-0205": {
+   "candidate_side": "B",
+   "candidate_key": "find/verb"
+  },
+  "eval_remed609_v1-0206": {
+   "candidate_side": "A",
+   "candidate_key": "fisherman/noun"
+  },
+  "eval_remed609_v1-0207": {
+   "candidate_side": "B",
+   "candidate_key": "fitness/noun"
+  },
+  "eval_remed609_v1-0208": {
+   "candidate_side": "A",
+   "candidate_key": "flee/verb"
+  },
+  "eval_remed609_v1-0209": {
+   "candidate_side": "A",
+   "candidate_key": "floor/noun"
+  },
+  "eval_remed609_v1-0210": {
+   "candidate_side": "A",
+   "candidate_key": "flourish/noun"
+  },
+  "eval_remed609_v1-0211": {
+   "candidate_side": "A",
+   "candidate_key": "flourish/verb"
+  },
+  "eval_remed609_v1-0212": {
+   "candidate_side": "A",
+   "candidate_key": "fluctuation/noun"
+  },
+  "eval_remed609_v1-0213": {
+   "candidate_side": "A",
+   "candidate_key": "flush/adj"
+  },
+  "eval_remed609_v1-0214": {
+   "candidate_side": "B",
+   "candidate_key": "fly/verb"
+  },
+  "eval_remed609_v1-0215": {
+   "candidate_side": "A",
+   "candidate_key": "foolish/adj"
+  },
+  "eval_remed609_v1-0216": {
+   "candidate_side": "B",
+   "candidate_key": "foot/noun"
+  },
+  "eval_remed609_v1-0217": {
+   "candidate_side": "A",
+   "candidate_key": "forbid/verb"
+  },
+  "eval_remed609_v1-0218": {
+   "candidate_side": "B",
+   "candidate_key": "forest/noun"
+  },
+  "eval_remed609_v1-0219": {
+   "candidate_side": "B",
+   "candidate_key": "forget/verb"
+  },
+  "eval_remed609_v1-0220": {
+   "candidate_side": "B",
+   "candidate_key": "forgive/verb"
+  },
+  "eval_remed609_v1-0221": {
+   "candidate_side": "B",
+   "candidate_key": "forgo/verb"
+  },
+  "eval_remed609_v1-0222": {
+   "candidate_side": "A",
+   "candidate_key": "formerly/adv"
+  },
+  "eval_remed609_v1-0223": {
+   "candidate_side": "A",
+   "candidate_key": "formidable/adj"
+  },
+  "eval_remed609_v1-0224": {
+   "candidate_side": "A",
+   "candidate_key": "fortnight/noun"
+  },
+  "eval_remed609_v1-0225": {
+   "candidate_side": "A",
+   "candidate_key": "fossil/noun"
+  },
+  "eval_remed609_v1-0226": {
+   "candidate_side": "A",
+   "candidate_key": "fourteen/num"
+  },
+  "eval_remed609_v1-0227": {
+   "candidate_side": "B",
+   "candidate_key": "fragment/noun"
+  },
+  "eval_remed609_v1-0228": {
+   "candidate_side": "A",
+   "candidate_key": "freeze/verb"
+  },
+  "eval_remed609_v1-0229": {
+   "candidate_side": "A",
+   "candidate_key": "front/adj"
+  },
+  "eval_remed609_v1-0230": {
+   "candidate_side": "B",
+   "candidate_key": "fucking/adv"
+  },
+  "eval_remed609_v1-0231": {
+   "candidate_side": "A",
+   "candidate_key": "fundamentally/adv"
+  },
+  "eval_remed609_v1-0232": {
+   "candidate_side": "B",
+   "candidate_key": "fusion/noun"
+  },
+  "eval_remed609_v1-0233": {
+   "candidate_side": "A",
+   "candidate_key": "gaiety/noun"
+  },
+  "eval_remed609_v1-0234": {
+   "candidate_side": "A",
+   "candidate_key": "gate/noun"
+  },
+  "eval_remed609_v1-0235": {
+   "candidate_side": "A",
+   "candidate_key": "gentleman/noun"
+  },
+  "eval_remed609_v1-0236": {
+   "candidate_side": "A",
+   "candidate_key": "geometric/adj"
+  },
+  "eval_remed609_v1-0237": {
+   "candidate_side": "A",
+   "candidate_key": "gift/noun"
+  },
+  "eval_remed609_v1-0238": {
+   "candidate_side": "A",
+   "candidate_key": "give/noun"
+  },
+  "eval_remed609_v1-0239": {
+   "candidate_side": "A",
+   "candidate_key": "give/verb"
+  },
+  "eval_remed609_v1-0240": {
+   "candidate_side": "B",
+   "candidate_key": "glow/noun"
+  },
+  "eval_remed609_v1-0241": {
+   "candidate_side": "B",
+   "candidate_key": "glue/noun"
+  },
+  "eval_remed609_v1-0242": {
+   "candidate_side": "B",
+   "candidate_key": "go/verb"
+  },
+  "eval_remed609_v1-0243": {
+   "candidate_side": "B",
+   "candidate_key": "goalkeeper/noun"
+  },
+  "eval_remed609_v1-0244": {
+   "candidate_side": "B",
+   "candidate_key": "goat/noun"
+  },
+  "eval_remed609_v1-0245": {
+   "candidate_side": "B",
+   "candidate_key": "goodness/noun"
+  },
+  "eval_remed609_v1-0246": {
+   "candidate_side": "B",
+   "candidate_key": "gradual/adj"
+  },
+  "eval_remed609_v1-0247": {
+   "candidate_side": "A",
+   "candidate_key": "gradually/adv"
+  },
+  "eval_remed609_v1-0248": {
+   "candidate_side": "A",
+   "candidate_key": "graph/noun"
+  },
+  "eval_remed609_v1-0249": {
+   "candidate_side": "B",
+   "candidate_key": "grind/verb"
+  },
+  "eval_remed609_v1-0250": {
+   "candidate_side": "A",
+   "candidate_key": "grow/verb"
+  },
+  "eval_remed609_v1-0251": {
+   "candidate_side": "A",
+   "candidate_key": "guild/noun"
+  },
+  "eval_remed609_v1-0252": {
+   "candidate_side": "A",
+   "candidate_key": "hang/verb"
+  },
+  "eval_remed609_v1-0253": {
+   "candidate_side": "B",
+   "candidate_key": "hatred/noun"
+  },
+  "eval_remed609_v1-0254": {
+   "candidate_side": "B",
+   "candidate_key": "have/verb"
+  },
+  "eval_remed609_v1-0255": {
+   "candidate_side": "B",
+   "candidate_key": "he/noun"
+  },
+  "eval_remed609_v1-0256": {
+   "candidate_side": "A",
+   "candidate_key": "headdress/noun"
+  },
+  "eval_remed609_v1-0257": {
+   "candidate_side": "B",
+   "candidate_key": "headmaster/noun"
+  },
+  "eval_remed609_v1-0258": {
+   "candidate_side": "B",
+   "candidate_key": "hear/verb"
+  },
+  "eval_remed609_v1-0259": {
+   "candidate_side": "A",
+   "candidate_key": "hence/adv"
+  },
+  "eval_remed609_v1-0260": {
+   "candidate_side": "B",
+   "candidate_key": "here/adv"
+  },
+  "eval_remed609_v1-0261": {
+   "candidate_side": "A",
+   "candidate_key": "hereditary/adj"
+  },
+  "eval_remed609_v1-0262": {
+   "candidate_side": "A",
+   "candidate_key": "hers/pron"
+  },
+  "eval_remed609_v1-0263": {
+   "candidate_side": "A",
+   "candidate_key": "hide/verb"
+  },
+  "eval_remed609_v1-0264": {
+   "candidate_side": "A",
+   "candidate_key": "highway/noun"
+  },
+  "eval_remed609_v1-0265": {
+   "candidate_side": "A",
+   "candidate_key": "hill/noun"
+  },
+  "eval_remed609_v1-0266": {
+   "candidate_side": "B",
+   "candidate_key": "historically/adv"
+  },
+  "eval_remed609_v1-0267": {
+   "candidate_side": "A",
+   "candidate_key": "hitherto/adv"
+  },
+  "eval_remed609_v1-0268": {
+   "candidate_side": "B",
+   "candidate_key": "homosexual/noun"
+  },
+  "eval_remed609_v1-0269": {
+   "candidate_side": "A",
+   "candidate_key": "hopeless/adj"
+  },
+  "eval_remed609_v1-0270": {
+   "candidate_side": "B",
+   "candidate_key": "hot/adj"
+  },
+  "eval_remed609_v1-0271": {
+   "candidate_side": "A",
+   "candidate_key": "humble/adj"
+  },
+  "eval_remed609_v1-0272": {
+   "candidate_side": "A",
+   "candidate_key": "humorous/adj"
+  },
+  "eval_remed609_v1-0273": {
+   "candidate_side": "B",
+   "candidate_key": "hunter/noun"
+  },
+  "eval_remed609_v1-0274": {
+   "candidate_side": "A",
+   "candidate_key": "husband/noun"
+  },
+  "eval_remed609_v1-0275": {
+   "candidate_side": "A",
+   "candidate_key": "hypothesis/noun"
+  },
+  "eval_remed609_v1-0276": {
+   "candidate_side": "A",
+   "candidate_key": "ideal/noun"
+  },
+  "eval_remed609_v1-0277": {
+   "candidate_side": "B",
+   "candidate_key": "identification/noun"
+  },
+  "eval_remed609_v1-0278": {
+   "candidate_side": "A",
+   "candidate_key": "immense/adj"
+  },
+  "eval_remed609_v1-0279": {
+   "candidate_side": "B",
+   "candidate_key": "incessant/adj"
+  },
+  "eval_remed609_v1-0280": {
+   "candidate_side": "A",
+   "candidate_key": "inch/noun"
+  },
+  "eval_remed609_v1-0281": {
+   "candidate_side": "B",
+   "candidate_key": "incline/noun"
+  },
+  "eval_remed609_v1-0282": {
+   "candidate_side": "B",
+   "candidate_key": "inconsistent/adj"
+  },
+  "eval_remed609_v1-0283": {
+   "candidate_side": "A",
+   "candidate_key": "inference/noun"
+  },
+  "eval_remed609_v1-0284": {
+   "candidate_side": "B",
+   "candidate_key": "inflation/noun"
+  },
+  "eval_remed609_v1-0285": {
+   "candidate_side": "B",
+   "candidate_key": "influential/adj"
+  },
+  "eval_remed609_v1-0286": {
+   "candidate_side": "B",
+   "candidate_key": "ingenious/adj"
+  },
+  "eval_remed609_v1-0287": {
+   "candidate_side": "A",
+   "candidate_key": "injustice/noun"
+  },
+  "eval_remed609_v1-0288": {
+   "candidate_side": "B",
+   "candidate_key": "institute/noun"
+  },
+  "eval_remed609_v1-0289": {
+   "candidate_side": "A",
+   "candidate_key": "integrate/verb"
+  },
+  "eval_remed609_v1-0290": {
+   "candidate_side": "B",
+   "candidate_key": "intellectual/noun"
+  },
+  "eval_remed609_v1-0291": {
+   "candidate_side": "A",
+   "candidate_key": "interactive/adj"
+  },
+  "eval_remed609_v1-0292": {
+   "candidate_side": "B",
+   "candidate_key": "interior/adj"
+  },
+  "eval_remed609_v1-0293": {
+   "candidate_side": "A",
+   "candidate_key": "internal/adj"
+  },
+  "eval_remed609_v1-0294": {
+   "candidate_side": "A",
+   "candidate_key": "intersect/verb"
+  },
+  "eval_remed609_v1-0295": {
+   "candidate_side": "B",
+   "candidate_key": "intervention/noun"
+  },
+  "eval_remed609_v1-0296": {
+   "candidate_side": "A",
+   "candidate_key": "intimacy/noun"
+  },
+  "eval_remed609_v1-0297": {
+   "candidate_side": "B",
+   "candidate_key": "intrinsic/adj"
+  },
+  "eval_remed609_v1-0298": {
+   "candidate_side": "B",
+   "candidate_key": "intuitive/adj"
+  },
+  "eval_remed609_v1-0299": {
+   "candidate_side": "A",
+   "candidate_key": "invariably/adv"
+  },
+  "eval_remed609_v1-0300": {
+   "candidate_side": "B",
+   "candidate_key": "invisible/adj"
+  },
+  "eval_remed609_v1-0301": {
+   "candidate_side": "A",
+   "candidate_key": "isolate/verb"
+  },
+  "eval_remed609_v1-0302": {
+   "candidate_side": "A",
+   "candidate_key": "journal/noun"
+  },
+  "eval_remed609_v1-0303": {
+   "candidate_side": "B",
+   "candidate_key": "just/adj"
+  },
+  "eval_remed609_v1-0304": {
+   "candidate_side": "B",
+   "candidate_key": "kneel/verb"
+  },
+  "eval_remed609_v1-0305": {
+   "candidate_side": "A",
+   "candidate_key": "know/verb"
+  },
+  "eval_remed609_v1-0306": {
+   "candidate_side": "A",
+   "candidate_key": "laboratory/noun"
+  },
+  "eval_remed609_v1-0307": {
+   "candidate_side": "B",
+   "candidate_key": "lace/noun"
+  },
+  "eval_remed609_v1-0308": {
+   "candidate_side": "A",
+   "candidate_key": "lap/noun"
+  },
+  "eval_remed609_v1-0309": {
+   "candidate_side": "A",
+   "candidate_key": "latterly/adv"
+  },
+  "eval_remed609_v1-0310": {
+   "candidate_side": "B",
+   "candidate_key": "lay/verb"
+  },
+  "eval_remed609_v1-0311": {
+   "candidate_side": "B",
+   "candidate_key": "lead/verb"
+  },
+  "eval_remed609_v1-0312": {
+   "candidate_side": "A",
+   "candidate_key": "leave/verb"
+  },
+  "eval_remed609_v1-0313": {
+   "candidate_side": "B",
+   "candidate_key": "legitimate/adj"
+  },
+  "eval_remed609_v1-0314": {
+   "candidate_side": "A",
+   "candidate_key": "lender/noun"
+  },
+  "eval_remed609_v1-0315": {
+   "candidate_side": "A",
+   "candidate_key": "lesser/adj"
+  },
+  "eval_remed609_v1-0316": {
+   "candidate_side": "A",
+   "candidate_key": "let/verb"
+  },
+  "eval_remed609_v1-0317": {
+   "candidate_side": "A",
+   "candidate_key": "lexical/adj"
+  },
+  "eval_remed609_v1-0318": {
+   "candidate_side": "B",
+   "candidate_key": "liability/noun"
+  },
+  "eval_remed609_v1-0319": {
+   "candidate_side": "B",
+   "candidate_key": "liable/adj"
+  },
+  "eval_remed609_v1-0320": {
+   "candidate_side": "A",
+   "candidate_key": "likelihood/noun"
+  },
+  "eval_remed609_v1-0321": {
+   "candidate_side": "A",
+   "candidate_key": "linger/verb"
+  },
+  "eval_remed609_v1-0322": {
+   "candidate_side": "A",
+   "candidate_key": "liquidation/noun"
+  },
+  "eval_remed609_v1-0323": {
+   "candidate_side": "B",
+   "candidate_key": "load/noun"
+  },
+  "eval_remed609_v1-0324": {
+   "candidate_side": "A",
+   "candidate_key": "loaf/noun"
+  },
+  "eval_remed609_v1-0325": {
+   "candidate_side": "B",
+   "candidate_key": "loan/noun"
+  },
+  "eval_remed609_v1-0326": {
+   "candidate_side": "B",
+   "candidate_key": "lock/noun"
+  },
+  "eval_remed609_v1-0327": {
+   "candidate_side": "B",
+   "candidate_key": "lord/noun"
+  },
+  "eval_remed609_v1-0328": {
+   "candidate_side": "B",
+   "candidate_key": "lordship/noun"
+  },
+  "eval_remed609_v1-0329": {
+   "candidate_side": "A",
+   "candidate_key": "lose/verb"
+  },
+  "eval_remed609_v1-0330": {
+   "candidate_side": "A",
+   "candidate_key": "mad/adj"
+  },
+  "eval_remed609_v1-0331": {
+   "candidate_side": "B",
+   "candidate_key": "madden/verb"
+  },
+  "eval_remed609_v1-0332": {
+   "candidate_side": "A",
+   "candidate_key": "make/verb"
+  },
+  "eval_remed609_v1-0333": {
+   "candidate_side": "A",
+   "candidate_key": "maker/noun"
+  },
+  "eval_remed609_v1-0334": {
+   "candidate_side": "A",
+   "candidate_key": "marketing/noun"
+  },
+  "eval_remed609_v1-0335": {
+   "candidate_side": "B",
+   "candidate_key": "material/adj"
+  },
+  "eval_remed609_v1-0336": {
+   "candidate_side": "A",
+   "candidate_key": "mayor/noun"
+  },
+  "eval_remed609_v1-0337": {
+   "candidate_side": "B",
+   "candidate_key": "mercenary/noun"
+  },
+  "eval_remed609_v1-0338": {
+   "candidate_side": "B",
+   "candidate_key": "metabolism/noun"
+  },
+  "eval_remed609_v1-0339": {
+   "candidate_side": "B",
+   "candidate_key": "migrate/verb"
+  },
+  "eval_remed609_v1-0340": {
+   "candidate_side": "B",
+   "candidate_key": "minimum/noun"
+  },
+  "eval_remed609_v1-0341": {
+   "candidate_side": "B",
+   "candidate_key": "miserable/adj"
+  },
+  "eval_remed609_v1-0342": {
+   "candidate_side": "A",
+   "candidate_key": "mistake/verb"
+  },
+  "eval_remed609_v1-0343": {
+   "candidate_side": "A",
+   "candidate_key": "mobility/noun"
+  },
+  "eval_remed609_v1-0344": {
+   "candidate_side": "B",
+   "candidate_key": "modify/verb"
+  },
+  "eval_remed609_v1-0345": {
+   "candidate_side": "A",
+   "candidate_key": "module/noun"
+  },
+  "eval_remed609_v1-0346": {
+   "candidate_side": "B",
+   "candidate_key": "monitor/verb"
+  },
+  "eval_remed609_v1-0347": {
+   "candidate_side": "B",
+   "candidate_key": "monkey/noun"
+  },
+  "eval_remed609_v1-0348": {
+   "candidate_side": "B",
+   "candidate_key": "mortality/noun"
+  },
+  "eval_remed609_v1-0349": {
+   "candidate_side": "A",
+   "candidate_key": "mouse/noun"
+  },
+  "eval_remed609_v1-0350": {
+   "candidate_side": "A",
+   "candidate_key": "mouth/noun"
+  },
+  "eval_remed609_v1-0351": {
+   "candidate_side": "A",
+   "candidate_key": "mum/noun"
+  },
+  "eval_remed609_v1-0352": {
+   "candidate_side": "B",
+   "candidate_key": "mushroom/noun"
+  },
+  "eval_remed609_v1-0353": {
+   "candidate_side": "A",
+   "candidate_key": "name/noun"
+  },
+  "eval_remed609_v1-0354": {
+   "candidate_side": "B",
+   "candidate_key": "narrate/verb"
+  },
+  "eval_remed609_v1-0355": {
+   "candidate_side": "B",
+   "candidate_key": "nation/noun"
+  },
+  "eval_remed609_v1-0356": {
+   "candidate_side": "A",
+   "candidate_key": "nationalism/noun"
+  },
+  "eval_remed609_v1-0357": {
+   "candidate_side": "B",
+   "candidate_key": "navy/noun"
+  },
+  "eval_remed609_v1-0358": {
+   "candidate_side": "A",
+   "candidate_key": "neighbour/noun"
+  },
+  "eval_remed609_v1-0359": {
+   "candidate_side": "A",
+   "candidate_key": "nineteen/num"
+  },
+  "eval_remed609_v1-0360": {
+   "candidate_side": "A",
+   "candidate_key": "no/noun"
+  },
+  "eval_remed609_v1-0361": {
+   "candidate_side": "A",
+   "candidate_key": "nobody/pron"
+  },
+  "eval_remed609_v1-0362": {
+   "candidate_side": "A",
+   "candidate_key": "notion/noun"
+  },
+  "eval_remed609_v1-0363": {
+   "candidate_side": "A",
+   "candidate_key": "notorious/adj"
+  },
+  "eval_remed609_v1-0364": {
+   "candidate_side": "A",
+   "candidate_key": "novel/noun"
+  },
+  "eval_remed609_v1-0365": {
+   "candidate_side": "B",
+   "candidate_key": "novelist/noun"
+  },
+  "eval_remed609_v1-0366": {
+   "candidate_side": "B",
+   "candidate_key": "nutrient/noun"
+  },
+  "eval_remed609_v1-0367": {
+   "candidate_side": "B",
+   "candidate_key": "odd/adj"
+  },
+  "eval_remed609_v1-0368": {
+   "candidate_side": "B",
+   "candidate_key": "odour/noun"
+  },
+  "eval_remed609_v1-0369": {
+   "candidate_side": "A",
+   "candidate_key": "offensive/adj"
+  },
+  "eval_remed609_v1-0370": {
+   "candidate_side": "A",
+   "candidate_key": "omit/verb"
+  },
+  "eval_remed609_v1-0371": {
+   "candidate_side": "A",
+   "candidate_key": "onwards/adv"
+  },
+  "eval_remed609_v1-0372": {
+   "candidate_side": "A",
+   "candidate_key": "opponent/noun"
+  },
+  "eval_remed609_v1-0373": {
+   "candidate_side": "B",
+   "candidate_key": "organism/noun"
+  },
+  "eval_remed609_v1-0374": {
+   "candidate_side": "A",
+   "candidate_key": "orientation/noun"
+  },
+  "eval_remed609_v1-0375": {
+   "candidate_side": "A",
+   "candidate_key": "origin/noun"
+  },
+  "eval_remed609_v1-0376": {
+   "candidate_side": "A",
+   "candidate_key": "oscillate/verb"
+  },
+  "eval_remed609_v1-0377": {
+   "candidate_side": "A",
+   "candidate_key": "other/pron"
+  },
+  "eval_remed609_v1-0378": {
+   "candidate_side": "A",
+   "candidate_key": "outbreak/noun"
+  },
+  "eval_remed609_v1-0379": {
+   "candidate_side": "A",
+   "candidate_key": "overlap/verb"
+  },
+  "eval_remed609_v1-0380": {
+   "candidate_side": "B",
+   "candidate_key": "overtake/verb"
+  },
+  "eval_remed609_v1-0381": {
+   "candidate_side": "A",
+   "candidate_key": "ox/noun"
+  },
+  "eval_remed609_v1-0382": {
+   "candidate_side": "B",
+   "candidate_key": "palm/noun"
+  },
+  "eval_remed609_v1-0383": {
+   "candidate_side": "B",
+   "candidate_key": "parent/noun"
+  },
+  "eval_remed609_v1-0384": {
+   "candidate_side": "A",
+   "candidate_key": "parliament/noun"
+  },
+  "eval_remed609_v1-0385": {
+   "candidate_side": "B",
+   "candidate_key": "participle/noun"
+  },
+  "eval_remed609_v1-0386": {
+   "candidate_side": "A",
+   "candidate_key": "patriotic/adj"
+  },
+  "eval_remed609_v1-0387": {
+   "candidate_side": "B",
+   "candidate_key": "pay/verb"
+  },
+  "eval_remed609_v1-0388": {
+   "candidate_side": "B",
+   "candidate_key": "peer/noun"
+  },
+  "eval_remed609_v1-0389": {
+   "candidate_side": "A",
+   "candidate_key": "pencil/noun"
+  },
+  "eval_remed609_v1-0390": {
+   "candidate_side": "B",
+   "candidate_key": "perpendicular/adj"
+  },
+  "eval_remed609_v1-0391": {
+   "candidate_side": "A",
+   "candidate_key": "perpetrate/verb"
+  },
+  "eval_remed609_v1-0392": {
+   "candidate_side": "A",
+   "candidate_key": "persuasion/noun"
+  },
+  "eval_remed609_v1-0393": {
+   "candidate_side": "B",
+   "candidate_key": "pertain/verb"
+  },
+  "eval_remed609_v1-0394": {
+   "candidate_side": "A",
+   "candidate_key": "philosopher/noun"
+  },
+  "eval_remed609_v1-0395": {
+   "candidate_side": "A",
+   "candidate_key": "phrase/noun"
+  },
+  "eval_remed609_v1-0396": {
+   "candidate_side": "B",
+   "candidate_key": "pin/noun"
+  },
+  "eval_remed609_v1-0397": {
+   "candidate_side": "A",
+   "candidate_key": "plaintiff/noun"
+  },
+  "eval_remed609_v1-0398": {
+   "candidate_side": "A",
+   "candidate_key": "poet/noun"
+  },
+  "eval_remed609_v1-0399": {
+   "candidate_side": "B",
+   "candidate_key": "politician/noun"
+  },
+  "eval_remed609_v1-0400": {
+   "candidate_side": "B",
+   "candidate_key": "pony/noun"
+  },
+  "eval_remed609_v1-0401": {
+   "candidate_side": "A",
+   "candidate_key": "possession/noun"
+  },
+  "eval_remed609_v1-0402": {
+   "candidate_side": "A",
+   "candidate_key": "possessor/noun"
+  },
+  "eval_remed609_v1-0403": {
+   "candidate_side": "B",
+   "candidate_key": "postulate/noun"
+  },
+  "eval_remed609_v1-0404": {
+   "candidate_side": "B",
+   "candidate_key": "pound/noun"
+  },
+  "eval_remed609_v1-0405": {
+   "candidate_side": "B",
+   "candidate_key": "pragmatic/adj"
+  },
+  "eval_remed609_v1-0406": {
+   "candidate_side": "A",
+   "candidate_key": "precaution/noun"
+  },
+  "eval_remed609_v1-0407": {
+   "candidate_side": "B",
+   "candidate_key": "precedent/noun"
+  },
+  "eval_remed609_v1-0408": {
+   "candidate_side": "B",
+   "candidate_key": "precipitate/adj"
+  },
+  "eval_remed609_v1-0409": {
+   "candidate_side": "B",
+   "candidate_key": "premise/noun"
+  },
+  "eval_remed609_v1-0410": {
+   "candidate_side": "B",
+   "candidate_key": "presidency/noun"
+  },
+  "eval_remed609_v1-0411": {
+   "candidate_side": "A",
+   "candidate_key": "prince/noun"
+  },
+  "eval_remed609_v1-0412": {
+   "candidate_side": "B",
+   "candidate_key": "principal/noun"
+  },
+  "eval_remed609_v1-0413": {
+   "candidate_side": "A",
+   "candidate_key": "prize/noun"
+  },
+  "eval_remed609_v1-0414": {
+   "candidate_side": "A",
+   "candidate_key": "proclaim/noun"
+  },
+  "eval_remed609_v1-0415": {
+   "candidate_side": "B",
+   "candidate_key": "projection/noun"
+  },
+  "eval_remed609_v1-0416": {
+   "candidate_side": "B",
+   "candidate_key": "prudent/adj"
+  },
+  "eval_remed609_v1-0417": {
+   "candidate_side": "B",
+   "candidate_key": "rabbit/noun"
+  },
+  "eval_remed609_v1-0418": {
+   "candidate_side": "B",
+   "candidate_key": "radius/noun"
+  },
+  "eval_remed609_v1-0419": {
+   "candidate_side": "A",
+   "candidate_key": "rage/noun"
+  },
+  "eval_remed609_v1-0420": {
+   "candidate_side": "B",
+   "candidate_key": "rape/verb"
+  },
+  "eval_remed609_v1-0421": {
+   "candidate_side": "B",
+   "candidate_key": "razor/noun"
+  },
+  "eval_remed609_v1-0422": {
+   "candidate_side": "B",
+   "candidate_key": "regulation/noun"
+  },
+  "eval_remed609_v1-0423": {
+   "candidate_side": "B",
+   "candidate_key": "rejoice/verb"
+  },
+  "eval_remed609_v1-0424": {
+   "candidate_side": "B",
+   "candidate_key": "relief/noun"
+  },
+  "eval_remed609_v1-0425": {
+   "candidate_side": "A",
+   "candidate_key": "relinquish/verb"
+  },
+  "eval_remed609_v1-0426": {
+   "candidate_side": "B",
+   "candidate_key": "remedy/noun"
+  },
+  "eval_remed609_v1-0427": {
+   "candidate_side": "A",
+   "candidate_key": "remote/adj"
+  },
+  "eval_remed609_v1-0428": {
+   "candidate_side": "A",
+   "candidate_key": "reprimand/noun"
+  },
+  "eval_remed609_v1-0429": {
+   "candidate_side": "A",
+   "candidate_key": "republic/noun"
+  },
+  "eval_remed609_v1-0430": {
+   "candidate_side": "A",
+   "candidate_key": "resentment/noun"
+  },
+  "eval_remed609_v1-0431": {
+   "candidate_side": "B",
+   "candidate_key": "resolve/noun"
+  },
+  "eval_remed609_v1-0432": {
+   "candidate_side": "A",
+   "candidate_key": "resolve/verb"
+  },
+  "eval_remed609_v1-0433": {
+   "candidate_side": "A",
+   "candidate_key": "respectively/adv"
+  },
+  "eval_remed609_v1-0434": {
+   "candidate_side": "B",
+   "candidate_key": "retardation/noun"
+  },
+  "eval_remed609_v1-0435": {
+   "candidate_side": "B",
+   "candidate_key": "reverberate/verb"
+  },
+  "eval_remed609_v1-0436": {
+   "candidate_side": "A",
+   "candidate_key": "ride/verb"
+  },
+  "eval_remed609_v1-0437": {
+   "candidate_side": "A",
+   "candidate_key": "ridge/noun"
+  },
+  "eval_remed609_v1-0438": {
+   "candidate_side": "B",
+   "candidate_key": "ring/verb"
+  },
+  "eval_remed609_v1-0439": {
+   "candidate_side": "A",
+   "candidate_key": "rise/verb"
+  },
+  "eval_remed609_v1-0440": {
+   "candidate_side": "A",
+   "candidate_key": "rubber/adj"
+  },
+  "eval_remed609_v1-0441": {
+   "candidate_side": "B",
+   "candidate_key": "sacrifice/verb"
+  },
+  "eval_remed609_v1-0442": {
+   "candidate_side": "A",
+   "candidate_key": "saddle/noun"
+  },
+  "eval_remed609_v1-0443": {
+   "candidate_side": "A",
+   "candidate_key": "sail/noun"
+  },
+  "eval_remed609_v1-0444": {
+   "candidate_side": "A",
+   "candidate_key": "salesman/noun"
+  },
+  "eval_remed609_v1-0445": {
+   "candidate_side": "A",
+   "candidate_key": "sandwich/noun"
+  },
+  "eval_remed609_v1-0446": {
+   "candidate_side": "A",
+   "candidate_key": "scar/noun"
+  },
+  "eval_remed609_v1-0447": {
+   "candidate_side": "A",
+   "candidate_key": "scheme/noun"
+  },
+  "eval_remed609_v1-0448": {
+   "candidate_side": "A",
+   "candidate_key": "scholarship/noun"
+  },
+  "eval_remed609_v1-0449": {
+   "candidate_side": "A",
+   "candidate_key": "sediment/noun"
+  },
+  "eval_remed609_v1-0450": {
+   "candidate_side": "A",
+   "candidate_key": "seek/verb"
+  },
+  "eval_remed609_v1-0451": {
+   "candidate_side": "B",
+   "candidate_key": "seizure/noun"
+  },
+  "eval_remed609_v1-0452": {
+   "candidate_side": "B",
+   "candidate_key": "sell/verb"
+  },
+  "eval_remed609_v1-0453": {
+   "candidate_side": "B",
+   "candidate_key": "seller/noun"
+  },
+  "eval_remed609_v1-0454": {
+   "candidate_side": "B",
+   "candidate_key": "send/verb"
+  },
+  "eval_remed609_v1-0455": {
+   "candidate_side": "B",
+   "candidate_key": "sexuality/noun"
+  },
+  "eval_remed609_v1-0456": {
+   "candidate_side": "A",
+   "candidate_key": "shake/verb"
+  },
+  "eval_remed609_v1-0457": {
+   "candidate_side": "A",
+   "candidate_key": "shelf/noun"
+  },
+  "eval_remed609_v1-0458": {
+   "candidate_side": "A",
+   "candidate_key": "shine/verb"
+  },
+  "eval_remed609_v1-0459": {
+   "candidate_side": "A",
+   "candidate_key": "ship/noun"
+  },
+  "eval_remed609_v1-0460": {
+   "candidate_side": "A",
+   "candidate_key": "shoot/verb"
+  },
+  "eval_remed609_v1-0461": {
+   "candidate_side": "A",
+   "candidate_key": "shovel/noun"
+  },
+  "eval_remed609_v1-0462": {
+   "candidate_side": "A",
+   "candidate_key": "shrink/verb"
+  },
+  "eval_remed609_v1-0463": {
+   "candidate_side": "A",
+   "candidate_key": "signify/verb"
+  },
+  "eval_remed609_v1-0464": {
+   "candidate_side": "A",
+   "candidate_key": "silver/adj"
+  },
+  "eval_remed609_v1-0465": {
+   "candidate_side": "A",
+   "candidate_key": "simultaneous/adj"
+  },
+  "eval_remed609_v1-0466": {
+   "candidate_side": "B",
+   "candidate_key": "sincere/adj"
+  },
+  "eval_remed609_v1-0467": {
+   "candidate_side": "B",
+   "candidate_key": "sing/verb"
+  },
+  "eval_remed609_v1-0468": {
+   "candidate_side": "B",
+   "candidate_key": "sink/verb"
+  },
+  "eval_remed609_v1-0469": {
+   "candidate_side": "B",
+   "candidate_key": "sir/noun"
+  },
+  "eval_remed609_v1-0470": {
+   "candidate_side": "A",
+   "candidate_key": "sit/verb"
+  },
+  "eval_remed609_v1-0471": {
+   "candidate_side": "B",
+   "candidate_key": "sixteen/num"
+  },
+  "eval_remed609_v1-0472": {
+   "candidate_side": "A",
+   "candidate_key": "slab/noun"
+  },
+  "eval_remed609_v1-0473": {
+   "candidate_side": "B",
+   "candidate_key": "sleep/verb"
+  },
+  "eval_remed609_v1-0474": {
+   "candidate_side": "A",
+   "candidate_key": "slide/noun"
+  },
+  "eval_remed609_v1-0475": {
+   "candidate_side": "B",
+   "candidate_key": "slide/verb"
+  },
+  "eval_remed609_v1-0476": {
+   "candidate_side": "A",
+   "candidate_key": "sole/adj"
+  },
+  "eval_remed609_v1-0477": {
+   "candidate_side": "B",
+   "candidate_key": "solvent/adj"
+  },
+  "eval_remed609_v1-0478": {
+   "candidate_side": "A",
+   "candidate_key": "specifically/adv"
+  },
+  "eval_remed609_v1-0479": {
+   "candidate_side": "A",
+   "candidate_key": "specify/verb"
+  },
+  "eval_remed609_v1-0480": {
+   "candidate_side": "B",
+   "candidate_key": "speculate/verb"
+  },
+  "eval_remed609_v1-0481": {
+   "candidate_side": "A",
+   "candidate_key": "speculation/noun"
+  },
+  "eval_remed609_v1-0482": {
+   "candidate_side": "B",
+   "candidate_key": "speed/verb"
+  },
+  "eval_remed609_v1-0483": {
+   "candidate_side": "B",
+   "candidate_key": "spend/verb"
+  },
+  "eval_remed609_v1-0484": {
+   "candidate_side": "B",
+   "candidate_key": "spin/verb"
+  },
+  "eval_remed609_v1-0485": {
+   "candidate_side": "A",
+   "candidate_key": "spit/noun"
+  },
+  "eval_remed609_v1-0486": {
+   "candidate_side": "A",
+   "candidate_key": "sponsor/noun"
+  },
+  "eval_remed609_v1-0487": {
+   "candidate_side": "A",
+   "candidate_key": "sponsorship/noun"
+  },
+  "eval_remed609_v1-0488": {
+   "candidate_side": "A",
+   "candidate_key": "spool/noun"
+  },
+  "eval_remed609_v1-0489": {
+   "candidate_side": "B",
+   "candidate_key": "spring/verb"
+  },
+  "eval_remed609_v1-0490": {
+   "candidate_side": "A",
+   "candidate_key": "staircase/noun"
+  },
+  "eval_remed609_v1-0491": {
+   "candidate_side": "A",
+   "candidate_key": "stand/verb"
+  },
+  "eval_remed609_v1-0492": {
+   "candidate_side": "B",
+   "candidate_key": "statutory/adj"
+  },
+  "eval_remed609_v1-0493": {
+   "candidate_side": "B",
+   "candidate_key": "steel/adj"
+  },
+  "eval_remed609_v1-0494": {
+   "candidate_side": "A",
+   "candidate_key": "stick/verb"
+  },
+  "eval_remed609_v1-0495": {
+   "candidate_side": "A",
+   "candidate_key": "stipulation/noun"
+  },
+  "eval_remed609_v1-0496": {
+   "candidate_side": "B",
+   "candidate_key": "stranger/noun"
+  },
+  "eval_remed609_v1-0497": {
+   "candidate_side": "A",
+   "candidate_key": "strive/verb"
+  },
+  "eval_remed609_v1-0498": {
+   "candidate_side": "A",
+   "candidate_key": "submarine/adj"
+  },
+  "eval_remed609_v1-0499": {
+   "candidate_side": "B",
+   "candidate_key": "subordinate/adj"
+  },
+  "eval_remed609_v1-0500": {
+   "candidate_side": "B",
+   "candidate_key": "subsequently/adv"
+  },
+  "eval_remed609_v1-0501": {
+   "candidate_side": "B",
+   "candidate_key": "subsidize/verb"
+  },
+  "eval_remed609_v1-0502": {
+   "candidate_side": "A",
+   "candidate_key": "subsidy/noun"
+  },
+  "eval_remed609_v1-0503": {
+   "candidate_side": "A",
+   "candidate_key": "successive/adj"
+  },
+  "eval_remed609_v1-0504": {
+   "candidate_side": "A",
+   "candidate_key": "suffice/verb"
+  },
+  "eval_remed609_v1-0505": {
+   "candidate_side": "A",
+   "candidate_key": "super/adj"
+  },
+  "eval_remed609_v1-0506": {
+   "candidate_side": "A",
+   "candidate_key": "superficial/adj"
+  },
+  "eval_remed609_v1-0507": {
+   "candidate_side": "A",
+   "candidate_key": "superimpose/verb"
+  },
+  "eval_remed609_v1-0508": {
+   "candidate_side": "A",
+   "candidate_key": "surgeon/noun"
+  },
+  "eval_remed609_v1-0509": {
+   "candidate_side": "B",
+   "candidate_key": "surgery/noun"
+  },
+  "eval_remed609_v1-0510": {
+   "candidate_side": "B",
+   "candidate_key": "swear/verb"
+  },
+  "eval_remed609_v1-0511": {
+   "candidate_side": "B",
+   "candidate_key": "sweep/verb"
+  },
+  "eval_remed609_v1-0512": {
+   "candidate_side": "B",
+   "candidate_key": "swim/verb"
+  },
+  "eval_remed609_v1-0513": {
+   "candidate_side": "A",
+   "candidate_key": "synchronous/adj"
+  },
+  "eval_remed609_v1-0514": {
+   "candidate_side": "A",
+   "candidate_key": "synopsis/noun"
+  },
+  "eval_remed609_v1-0515": {
+   "candidate_side": "A",
+   "candidate_key": "syntactic/adj"
+  },
+  "eval_remed609_v1-0516": {
+   "candidate_side": "A",
+   "candidate_key": "synthesis/noun"
+  },
+  "eval_remed609_v1-0517": {
+   "candidate_side": "B",
+   "candidate_key": "tactic/noun"
+  },
+  "eval_remed609_v1-0518": {
+   "candidate_side": "A",
+   "candidate_key": "takeover/noun"
+  },
+  "eval_remed609_v1-0519": {
+   "candidate_side": "A",
+   "candidate_key": "tangible/adj"
+  },
+  "eval_remed609_v1-0520": {
+   "candidate_side": "B",
+   "candidate_key": "taxpayer/noun"
+  },
+  "eval_remed609_v1-0521": {
+   "candidate_side": "A",
+   "candidate_key": "tear/verb"
+  },
+  "eval_remed609_v1-0522": {
+   "candidate_side": "B",
+   "candidate_key": "technical/adj"
+  },
+  "eval_remed609_v1-0523": {
+   "candidate_side": "A",
+   "candidate_key": "telegraph/noun"
+  },
+  "eval_remed609_v1-0524": {
+   "candidate_side": "B",
+   "candidate_key": "text/noun"
+  },
+  "eval_remed609_v1-0525": {
+   "candidate_side": "B",
+   "candidate_key": "thank/noun"
+  },
+  "eval_remed609_v1-0526": {
+   "candidate_side": "B",
+   "candidate_key": "that/det"
+  },
+  "eval_remed609_v1-0527": {
+   "candidate_side": "A",
+   "candidate_key": "that/pron"
+  },
+  "eval_remed609_v1-0528": {
+   "candidate_side": "A",
+   "candidate_key": "theatrical/adj"
+  },
+  "eval_remed609_v1-0529": {
+   "candidate_side": "A",
+   "candidate_key": "theorem/noun"
+  },
+  "eval_remed609_v1-0530": {
+   "candidate_side": "B",
+   "candidate_key": "theory/noun"
+  },
+  "eval_remed609_v1-0531": {
+   "candidate_side": "B",
+   "candidate_key": "there/adv"
+  },
+  "eval_remed609_v1-0532": {
+   "candidate_side": "B",
+   "candidate_key": "they/pron"
+  },
+  "eval_remed609_v1-0533": {
+   "candidate_side": "B",
+   "candidate_key": "thick/adj"
+  },
+  "eval_remed609_v1-0534": {
+   "candidate_side": "B",
+   "candidate_key": "this/det"
+  },
+  "eval_remed609_v1-0535": {
+   "candidate_side": "A",
+   "candidate_key": "this/noun"
+  },
+  "eval_remed609_v1-0536": {
+   "candidate_side": "A",
+   "candidate_key": "threaten/verb"
+  },
+  "eval_remed609_v1-0537": {
+   "candidate_side": "B",
+   "candidate_key": "three/num"
+  },
+  "eval_remed609_v1-0538": {
+   "candidate_side": "A",
+   "candidate_key": "throw/verb"
+  },
+  "eval_remed609_v1-0539": {
+   "candidate_side": "A",
+   "candidate_key": "thumb/noun"
+  },
+  "eval_remed609_v1-0540": {
+   "candidate_side": "A",
+   "candidate_key": "today/noun"
+  },
+  "eval_remed609_v1-0541": {
+   "candidate_side": "B",
+   "candidate_key": "tomato/noun"
+  },
+  "eval_remed609_v1-0542": {
+   "candidate_side": "A",
+   "candidate_key": "tooth/noun"
+  },
+  "eval_remed609_v1-0543": {
+   "candidate_side": "B",
+   "candidate_key": "toxic/adj"
+  },
+  "eval_remed609_v1-0544": {
+   "candidate_side": "B",
+   "candidate_key": "trench/noun"
+  },
+  "eval_remed609_v1-0545": {
+   "candidate_side": "A",
+   "candidate_key": "trigger/verb"
+  },
+  "eval_remed609_v1-0546": {
+   "candidate_side": "B",
+   "candidate_key": "trillion/num"
+  },
+  "eval_remed609_v1-0547": {
+   "candidate_side": "A",
+   "candidate_key": "trivial/adj"
+  },
+  "eval_remed609_v1-0548": {
+   "candidate_side": "A",
+   "candidate_key": "trustee/noun"
+  },
+  "eval_remed609_v1-0549": {
+   "candidate_side": "B",
+   "candidate_key": "tube/noun"
+  },
+  "eval_remed609_v1-0550": {
+   "candidate_side": "A",
+   "candidate_key": "ulcer/noun"
+  },
+  "eval_remed609_v1-0551": {
+   "candidate_side": "B",
+   "candidate_key": "under/adj"
+  },
+  "eval_remed609_v1-0552": {
+   "candidate_side": "B",
+   "candidate_key": "underdeveloped/adj"
+  },
+  "eval_remed609_v1-0553": {
+   "candidate_side": "B",
+   "candidate_key": "undergo/verb"
+  },
+  "eval_remed609_v1-0554": {
+   "candidate_side": "A",
+   "candidate_key": "underlie/verb"
+  },
+  "eval_remed609_v1-0555": {
+   "candidate_side": "A",
+   "candidate_key": "understand/verb"
+  },
+  "eval_remed609_v1-0556": {
+   "candidate_side": "B",
+   "candidate_key": "undertake/verb"
+  },
+  "eval_remed609_v1-0557": {
+   "candidate_side": "A",
+   "candidate_key": "undertaking/noun"
+  },
+  "eval_remed609_v1-0558": {
+   "candidate_side": "B",
+   "candidate_key": "undo/verb"
+  },
+  "eval_remed609_v1-0559": {
+   "candidate_side": "B",
+   "candidate_key": "unionist/noun"
+  },
+  "eval_remed609_v1-0560": {
+   "candidate_side": "A",
+   "candidate_key": "university/noun"
+  },
+  "eval_remed609_v1-0561": {
+   "candidate_side": "B",
+   "candidate_key": "unlawful/adj"
+  },
+  "eval_remed609_v1-0562": {
+   "candidate_side": "B",
+   "candidate_key": "uphold/verb"
+  },
+  "eval_remed609_v1-0563": {
+   "candidate_side": "B",
+   "candidate_key": "urgency/noun"
+  },
+  "eval_remed609_v1-0564": {
+   "candidate_side": "B",
+   "candidate_key": "urgently/adv"
+  },
+  "eval_remed609_v1-0565": {
+   "candidate_side": "A",
+   "candidate_key": "utterance/noun"
+  },
+  "eval_remed609_v1-0566": {
+   "candidate_side": "B",
+   "candidate_key": "valuation/noun"
+  },
+  "eval_remed609_v1-0567": {
+   "candidate_side": "A",
+   "candidate_key": "variant/adj"
+  },
+  "eval_remed609_v1-0568": {
+   "candidate_side": "A",
+   "candidate_key": "victim/noun"
+  },
+  "eval_remed609_v1-0569": {
+   "candidate_side": "A",
+   "candidate_key": "viewpoint/noun"
+  },
+  "eval_remed609_v1-0570": {
+   "candidate_side": "A",
+   "candidate_key": "village/noun"
+  },
+  "eval_remed609_v1-0571": {
+   "candidate_side": "B",
+   "candidate_key": "voucher/noun"
+  },
+  "eval_remed609_v1-0572": {
+   "candidate_side": "A",
+   "candidate_key": "wagon/noun"
+  },
+  "eval_remed609_v1-0573": {
+   "candidate_side": "A",
+   "candidate_key": "wake/verb"
+  },
+  "eval_remed609_v1-0574": {
+   "candidate_side": "B",
+   "candidate_key": "warranty/noun"
+  },
+  "eval_remed609_v1-0575": {
+   "candidate_side": "A",
+   "candidate_key": "wear/verb"
+  },
+  "eval_remed609_v1-0576": {
+   "candidate_side": "B",
+   "candidate_key": "web/noun"
+  },
+  "eval_remed609_v1-0577": {
+   "candidate_side": "B",
+   "candidate_key": "weed/noun"
+  },
+  "eval_remed609_v1-0578": {
+   "candidate_side": "A",
+   "candidate_key": "weep/verb"
+  },
+  "eval_remed609_v1-0579": {
+   "candidate_side": "B",
+   "candidate_key": "whale/noun"
+  },
+  "eval_remed609_v1-0580": {
+   "candidate_side": "B",
+   "candidate_key": "wherein/adv"
+  },
+  "eval_remed609_v1-0581": {
+   "candidate_side": "A",
+   "candidate_key": "whichever/adj"
+  },
+  "eval_remed609_v1-0582": {
+   "candidate_side": "A",
+   "candidate_key": "wholly/adv"
+  },
+  "eval_remed609_v1-0583": {
+   "candidate_side": "B",
+   "candidate_key": "win/verb"
+  },
+  "eval_remed609_v1-0584": {
+   "candidate_side": "B",
+   "candidate_key": "wind/verb"
+  },
+  "eval_remed609_v1-0585": {
+   "candidate_side": "A",
+   "candidate_key": "withdraw/verb"
+  },
+  "eval_remed609_v1-0586": {
+   "candidate_side": "A",
+   "candidate_key": "wolf/noun"
+  },
+  "eval_remed609_v1-0587": {
+   "candidate_side": "B",
+   "candidate_key": "woman/noun"
+  },
+  "eval_remed609_v1-0588": {
+   "candidate_side": "A",
+   "candidate_key": "worm/noun"
+  },
+  "eval_remed609_v1-0589": {
+   "candidate_side": "A",
+   "candidate_key": "wrongdoing/noun"
+  },
+  "eval_remed609_v1-0590": {
+   "candidate_side": "B",
+   "candidate_key": "yacht/noun"
+  }
+ }
+}
